@@ -1,0 +1,14 @@
+id: tranter
+name: Tranter
+website: https://www.tranter.com/
+categories:
+- hvac
+aliases: []
+support:
+- category: hvac
+  department: Service Center (USA)
+  phone: '+17134670711'
+  country: US
+  notes: Tranter USA regional office/service contact line (heat exchangers).
+  source: tranter.com USA office page
+  last_verified: '2025-12-24'

@@ -1,0 +1,15 @@
+id: vilter
+name: Vilter (Copeland)
+website: https://www.copeland.com/en-us/brands/vilter
+categories:
+- hvac
+aliases:
+- Copeland Vilter
+support:
+- category: hvac
+  department: Support / Customer Service
+  phone: '+18008622677'
+  country: US
+  notes: Vilter support/customer service phone.
+  source: copeland.com Vilter support
+  last_verified: '2025-12-24'

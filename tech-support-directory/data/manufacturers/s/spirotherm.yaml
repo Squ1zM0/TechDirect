@@ -1,0 +1,14 @@
+id: spirotherm
+name: Spirotherm
+website: https://www.spirotherm.com/
+categories:
+- hvac
+aliases: []
+support:
+- category: hvac
+  department: Support / Contact
+  phone: '+16303072662'
+  country: US
+  notes: Spirotherm office line for product/application support.
+  source: supplyht.com showroom listing
+  last_verified: '2025-12-24'

@@ -1,0 +1,16 @@
+id: loren-cook
+name: Loren Cook Company
+website: https://lorencook.com/
+categories:
+- airflow
+- hvac
+aliases:
+- Cook Company
+support:
+- category: hvac
+  department: Customer Service
+  phone: +1-417-869-6474
+  country: US
+  notes: Loren Cook Company customer service department phone listed in IOM documentation.
+  source: https://www.lorencook.com/PDFs/IOMs/CPL_IOM.pdf (manual)
+  last_verified: '2025-12-24'

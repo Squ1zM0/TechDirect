@@ -1,0 +1,16 @@
+id: hydro-thermal
+name: Hydro-Thermal
+website: https://www.hydro-thermal.com/
+categories:
+- hvac
+- plumbing
+aliases:
+- Hydro-Thermal Inc.
+support:
+- category: hvac
+  department: Customer Service / Support
+  phone: '+18009520121'
+  country: US
+  notes: Hydro-Thermal toll-free customer service phone.
+  source: hydro-thermal.com/contact-us
+  last_verified: '2025-12-24'

@@ -1,0 +1,14 @@
+id: fantech
+name: Fantech
+website: https://www.fantech.net/en-us/contact-and-support
+categories:
+- hvac
+aliases: []
+support:
+- category: hvac
+  department: Customer Care / Support
+  phone: '+18007471762'
+  country: US
+  notes: Fantech U.S. support line (ventilation products).
+  source: fantech.net contact/support page
+  last_verified: '2025-12-24'

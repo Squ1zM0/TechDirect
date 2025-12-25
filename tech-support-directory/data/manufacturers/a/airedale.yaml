@@ -1,0 +1,16 @@
+id: airedale
+name: Airedale by Modine
+website: https://www.airedale.com/
+categories:
+- hvac
+aliases:
+- Airedale
+support:
+- category: hvac
+  department: Technical Support
+  phone: '+18668839073'
+  country: US
+  notes: Airedale (US) service/technical support line (Engineered Air, LLC d/b/a Airedale
+    by Modine).
+  source: Engineered Air, LLC LinkedIn company page (Airedale contact)
+  last_verified: '2025-12-24'

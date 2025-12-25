@@ -1,0 +1,13 @@
+id: lg-hvac
+name: LG HVAC
+website: https://lghvac.com/
+categories: [hvac]
+aliases: [LG Air Conditioning Technologies]
+support:
+  - category: hvac
+    department: HVAC Professional Support
+    phone: "+18883461923"
+    country: US
+    notes: "LG HVAC professional contact page lists toll-free number."
+    source: "lghvac.com contact us hvac professional page"
+    last_verified: "2025-12-24"

@@ -1,0 +1,13 @@
+id: ao-smith
+name: A. O. Smith Water Products
+website: https://www.hotwater.com/support/contact-tech-support.html
+categories: [hvac]
+aliases: ["A. O. Smith"]
+support:
+  - category: hvac
+    department: Customer & Technical Support
+    phone: "+18775566731"
+    country: US
+    notes: "A. O. Smith Water Products customer/technical support for residential and commercial products."
+    source: "hotwater.com contact tech support"
+    last_verified: "2025-12-24"

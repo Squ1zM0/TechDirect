@@ -1,0 +1,16 @@
+id: trox
+name: TROX Group
+website: https://www.trox-northamerica.com/
+categories:
+- hvac
+- airflow
+aliases:
+- TROX
+support:
+- category: hvac
+  department: General Products/Services Support
+  phone: '+4928452020'
+  country: DE
+  notes: TROX published general phone for product/service questions (global support).
+  source: trox-northamerica.com contact page
+  last_verified: '2025-12-24'

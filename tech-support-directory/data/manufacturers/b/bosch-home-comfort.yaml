@@ -1,0 +1,17 @@
+id: bosch-home-comfort
+name: Bosch Home Comfort
+website: https://www.bosch-homecomfort.com/us/
+categories: [hvac]
+aliases: [Bosch Thermotechnology]
+support:
+  - category: hvac
+    department: Customer Service (Residential)
+    phone: "+18002833787"
+    country: US
+    hours:
+      timezone: America/New_York
+      mon_thu: "08:00-18:00"
+      fri: "08:00-17:00"
+    notes: "Bosch Home Comfort customer support phone (residential)."
+    source: "bosch-homecomfort.com contact customer service page"
+    last_verified: "2025-12-24"

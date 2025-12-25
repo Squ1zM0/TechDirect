@@ -1,0 +1,15 @@
+id: clivet
+name: Clivet (Mits Airconditioning Inc.)
+website: https://www.clivet.us/
+categories:
+- hvac
+aliases: []
+support:
+- category: hvac
+  department: Technical & After-Sales Support
+  phone: '+18885672227'
+  country: US
+  notes: North America master distributor contact for Clivet technical/after-sales
+    support.
+  source: clivet.us contact page
+  last_verified: '2025-12-24'

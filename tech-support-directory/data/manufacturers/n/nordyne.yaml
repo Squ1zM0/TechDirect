@@ -1,0 +1,18 @@
+id: nordyne
+name: Nordyne
+website: https://www.nordyne.com/contact/
+categories:
+- hvac
+aliases:
+- Frigidaire
+- Maytag
+- Westinghouse
+- Broan
+support:
+- category: hvac
+  department: Technical Services
+  phone: '+18004224328'
+  country: US
+  notes: Nordyne Technical Services Team phone (for licensed HVAC technicians).
+  source: nordyne.com contact page
+  last_verified: '2025-12-24'

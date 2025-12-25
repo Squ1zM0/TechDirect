@@ -1,0 +1,15 @@
+id: unico
+name: The Unico System
+website: https://unicosystem.com/
+categories:
+- hvac
+aliases:
+- Unico
+support:
+- category: hvac
+  department: Technical Support
+  phone: +1-800-527-0896
+  country: US
+  notes: Unico technical support is 800-527-0896 ext. 01.
+  source: https://unicosystem.com/technical-support/ (official)
+  last_verified: '2025-12-24'

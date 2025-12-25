@@ -1,0 +1,14 @@
+id: aerco
+name: AERCO
+website: https://www.aerco.com/
+categories:
+- hvac
+aliases: []
+support:
+- category: hvac
+  department: Tech Support
+  phone: +1-800-526-0288
+  country: US
+  notes: AERCO tech support line (Mon–Fri 8am–5pm ET).
+  source: https://www.aerco.com/my-support (official)
+  last_verified: '2025-12-24'

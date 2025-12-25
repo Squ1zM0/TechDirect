@@ -1,0 +1,14 @@
+id: vertiv
+name: Vertiv (Liebert)
+website: https://www.vertiv.com/
+categories:
+- hvac
+aliases: []
+support:
+- category: hvac
+  department: Technical Assistance Center (TAC)
+  phone: '+18008005260'
+  country: US
+  notes: Vertiv Technical Assistance Center (TAC) support line (critical thermal/power).
+  source: vertiv TAC datasheet PDF
+  last_verified: '2025-12-24'

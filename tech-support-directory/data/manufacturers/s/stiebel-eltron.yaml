@@ -1,0 +1,14 @@
+id: stiebel-eltron
+name: Stiebel Eltron USA
+website: https://www.stiebel-eltron-usa.com/contact-us
+categories:
+- hvac
+aliases: []
+support:
+- category: hvac
+  department: Technical Support & Parts
+  phone: '+18005828423'
+  country: US
+  notes: Stiebel Eltron USA technical support staff list includes 800-582-8423 (extensions vary).
+  source: stiebel-eltron-usa.com contact us
+  last_verified: '2025-12-24'

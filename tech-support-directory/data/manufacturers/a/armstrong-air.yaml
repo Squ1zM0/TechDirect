@@ -1,0 +1,14 @@
+id: armstrong-air
+name: Armstrong Air
+website: https://www.armstrongair.com/contact/
+categories:
+- hvac
+aliases: []
+support:
+- category: hvac
+  department: Customer Support
+  phone: '+18004485872'
+  country: US
+  notes: Armstrong Air contact phone for product inquiries and customer support.
+  source: armstrongair.com contact page
+  last_verified: '2025-12-24'

@@ -1,0 +1,15 @@
+id: price-industries
+name: Price Industries
+website: https://www.priceindustries.com/contact/product-support
+categories:
+- hvac
+aliases:
+- Price Industries (US)
+support:
+- category: hvac
+  department: Product Support
+  phone: '+12046545613'
+  country: US
+  notes: Price product support main line (options by product group).
+  source: priceindustries.com product support page
+  last_verified: '2025-12-24'

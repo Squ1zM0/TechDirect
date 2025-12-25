@@ -1,0 +1,14 @@
+id: modine
+name: Modine HVAC
+website: https://www.modinehvac.com/resources/technical-support/
+categories:
+- hvac
+aliases: []
+support:
+- category: hvac
+  department: Technical Support
+  phone: '+18008284328'
+  country: US
+  notes: Modine HVAC toll-free technical support.
+  source: https://www.modinehvac.com/resources/technical-support/ (official)
+  last_verified: '2025-12-24'

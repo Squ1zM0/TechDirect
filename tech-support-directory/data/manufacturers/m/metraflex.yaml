@@ -1,0 +1,14 @@
+id: metraflex
+name: Metraflex
+website: https://www.metraflex.com/
+categories:
+- hvac
+aliases: []
+support:
+- category: hvac
+  department: Support / Contact
+  phone: '+18006214347'
+  country: US
+  notes: Metraflex engineered piping solutions support line.
+  source: metraflex.com team/contact info
+  last_verified: '2025-12-24'

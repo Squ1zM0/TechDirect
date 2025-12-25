@@ -1,0 +1,14 @@
+id: lochinvar
+name: Lochinvar
+website: https://www.lochinvar.com/en_US/contact.html
+categories:
+- hvac
+aliases: []
+support:
+- category: hvac
+  department: Technical Service (Contractor or Service Provider)
+  phone: '+18007222101'
+  country: US
+  notes: Lochinvar technical service line for contractors/service providers.
+  source: https://www.lochinvar.com/en_US/contact.html (official)
+  last_verified: '2025-12-24'

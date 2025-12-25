@@ -1,0 +1,17 @@
+id: uponor
+name: Uponor North America
+website: https://www.uponor.com/en-us
+categories:
+- hvac
+- plumbing
+aliases:
+- Uponor Pro
+- Uponor Radiant
+support:
+- category: hvac
+  department: Technical Services
+  phone: '+18885947726'
+  country: US
+  notes: Radiant/hydronic technical services phone (U.S.).
+  source: https://www.uponor.com/en-us/customer-support
+  last_verified: '2025-12-24'

@@ -1,0 +1,18 @@
+id: us-boiler
+name: U.S. Boiler Company
+website: https://www.usboiler.net/
+categories:
+- hvac
+aliases:
+- Burnham
+- Crown
+- Peerless
+support:
+- category: hvac
+  department: Tech Support
+  phone: '+18884328887'
+  country: US
+  notes: U.S. Boiler tech support team number referenced by USB Connect tool support
+    article.
+  source: usboiler.net USB Connect tech support article
+  last_verified: '2025-12-24'

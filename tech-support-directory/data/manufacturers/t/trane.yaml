@@ -1,0 +1,13 @@
+id: trane
+name: Trane
+website: https://www.trane.com/residential/en/
+categories: [hvac]
+aliases: [American Standard]
+support:
+  - category: hvac
+    department: Residential Customer Care
+    phone: "+18552602975"
+    country: US
+    notes: "Trane residential assistance line."
+    source: "trane.com contact-us page"
+    last_verified: "2025-12-24"

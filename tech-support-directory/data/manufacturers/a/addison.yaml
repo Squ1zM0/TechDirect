@@ -1,0 +1,16 @@
+id: addison
+name: Addison HVAC
+website: https://www.addison-hvac.com/
+categories:
+- hvac
+aliases:
+- Addison
+support:
+- category: hvac
+  department: Technical Support (Factory)
+  phone: '+14072924400'
+  country: US
+  notes: Addison HVAC technical support general phone (menu option per 'ACE Team'
+    page).
+  source: addison-hvac.com/rep-portal-dashboard/the-ace-team
+  last_verified: '2025-12-24'

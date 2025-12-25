@@ -1,0 +1,15 @@
+id: colmac-coil
+name: Colmac Coil
+website: https://www.colmaccoil.com/
+categories:
+- hvac
+aliases:
+- Colmac
+support:
+- category: hvac
+  department: Factory Support
+  phone: '+18008456778'
+  country: US
+  notes: Colmac Coil factory toll-free phone (use for technical/product support routing).
+  source: colmaccoil.com/contact-us.aspx
+  last_verified: '2025-12-24'

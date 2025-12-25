@@ -1,0 +1,14 @@
+id: daikin-applied
+name: Daikin Applied
+website: https://www.daikinapplied.com/
+categories:
+- hvac
+aliases: []
+support:
+- category: hvac
+  department: Service / Repair Dispatch
+  phone: '+18004321342'
+  country: US
+  notes: Daikin Applied service dispatch line for equipment repair/support.
+  source: daikinapplied.com maintain & repair page
+  last_verified: '2025-12-24'

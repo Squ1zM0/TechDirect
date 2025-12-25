@@ -1,0 +1,13 @@
+id: viessmann
+name: Viessmann
+website: https://www.viessmann-us.com/en/contacts/support.html
+categories: [hvac]
+aliases: []
+support:
+  - category: hvac
+    department: Heating Contractor Technical Support (TechInfo Center)
+    phone: "+18446495886"
+    country: US
+    notes: "Expanded telephone support for heating contractors (TechInfo Center)."
+    source: "viessmann-us.com support"
+    last_verified: "2025-12-24"

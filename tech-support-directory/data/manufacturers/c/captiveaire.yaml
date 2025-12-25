@@ -1,0 +1,13 @@
+id: captiveaire
+name: CaptiveAire
+website: https://www.captiveaire.com/help/faq/tech-support.asp
+categories: [hvac]
+aliases: []
+support:
+  - category: hvac
+    department: Tech Support (Warranty / Technical Support)
+    phone: "+18667846900"
+    country: US
+    notes: "CaptiveAire tech support line referenced for warranty/technical support issues."
+    source: "captiveaire.com tech support FAQ"
+    last_verified: "2025-12-24"

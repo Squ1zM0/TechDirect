@@ -1,0 +1,13 @@
+id: desert-aire
+name: Desert Aire
+website: https://www.desert-aire.com/service-and-support/
+categories: [hvac]
+aliases: []
+support:
+  - category: hvac
+    department: Service / Parts (Technical Support)
+    phone: "+12629467400"
+    country: US
+    notes: "Call and ask for service or parts department for support; used for technical assistance/parts."
+    source: "desert-aire.com service and support"
+    last_verified: "2025-12-24"

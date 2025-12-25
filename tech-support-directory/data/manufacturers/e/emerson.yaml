@@ -1,0 +1,15 @@
+id: emerson
+name: Emerson
+website: https://www.emerson.com/
+categories:
+- hvac
+aliases:
+- Emerson Commercial & Residential Solutions
+support:
+- category: hvac
+  department: Product Support (US/Canada)
+  phone: '+18008338314'
+  country: US
+  notes: Product Support toll-free number listed for US/Canada.
+  source: emerson.com technical support contact information
+  last_verified: '2025-12-24'

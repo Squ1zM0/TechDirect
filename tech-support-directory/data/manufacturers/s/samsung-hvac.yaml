@@ -1,0 +1,14 @@
+id: samsung-hvac
+name: Samsung HVAC
+website: https://www.samsunghvac.com/about
+categories:
+- hvac
+aliases: []
+support:
+- category: hvac
+  department: Customer Service / Support
+  phone: '+18886996067'
+  country: US
+  notes: Samsung HVAC toll-free support line for U.S. and Canada.
+  source: samsunghvac.com contact page
+  last_verified: '2025-12-24'

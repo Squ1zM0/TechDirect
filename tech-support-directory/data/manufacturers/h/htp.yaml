@@ -1,0 +1,13 @@
+id: htp
+name: HTP (Heat Transfer Products)
+website: https://www.htproducts.com/technicalsupport.html
+categories: [hvac]
+aliases: ["Heat Transfer Products"]
+support:
+  - category: hvac
+    department: Technical Support
+    phone: "+18003239651"
+    country: US
+    notes: "HTP technical support line (phone support; menu may require option selection)."
+    source: "htproducts.com technical support page"
+    last_verified: "2025-12-24"

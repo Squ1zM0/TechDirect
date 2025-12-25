@@ -1,0 +1,13 @@
+id: rheem
+name: Rheem
+website: https://www.rheem.com/
+categories: [hvac]
+aliases: [Ruud]
+support:
+  - category: hvac
+    department: Support (immediate assistance)
+    phone: "+18004328373"
+    country: US
+    notes: "Rheem support line published on Rheem Help & Support page (also used for water heating support)."
+    source: "rheem.com help-and-support page"
+    last_verified: "2025-12-24"

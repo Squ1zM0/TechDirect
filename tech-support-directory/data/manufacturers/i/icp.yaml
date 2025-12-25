@@ -1,0 +1,27 @@
+id: icp
+name: International Comfort Products (ICP)
+website: https://www.icpusa.com/en/us/contact-us
+categories:
+- hvac
+aliases:
+- Comfortmaker
+- Tempstar
+- Heil
+- Day & Night
+- Keeprite
+- Arcoaire
+support:
+- category: hvac
+  department: Residential Customer Service
+  phone: '+18004586650'
+  country: US
+  notes: ICP residential customer service phone listed on ICP contact page.
+  source: icpusa.com contact page
+  last_verified: '2025-12-24'
+- category: hvac
+  department: Consumer Relations
+  phone: '+18775918908'
+  country: US
+  notes: ICP consumer relations phone listed in ICP warranty/consumer relations documents.
+  source: ICP consumer relations warranty docs
+  last_verified: '2025-12-24'

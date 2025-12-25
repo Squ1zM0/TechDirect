@@ -1,0 +1,15 @@
+id: neptronic
+name: Neptronic
+website: https://www.neptronic.com/
+categories:
+- hvac
+aliases: []
+support:
+- category: hvac
+  department: Technical Support (Toll Free US/Canada)
+  phone: '+18003612308'
+  country: US
+  notes: Neptronic toll-free line for US/Canada; contact page includes technical support
+    contacts.
+  source: neptronic.com/ContactUs.aspx
+  last_verified: '2025-12-24'

@@ -1,0 +1,15 @@
+id: dunkirk
+name: Dunkirk Boilers
+website: https://dunkirk.com
+categories:
+- hvac
+aliases:
+- Dunkirk
+support:
+- category: hvac
+  department: Technical Support (Installing Contractors)
+  phone: '+18003255479'
+  country: US
+  notes: Technical support for installing contractors (not homeowner line).
+  source: https://dunkirk.com/contact-us/
+  last_verified: '2025-12-24'

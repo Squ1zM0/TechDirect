@@ -1,0 +1,14 @@
+id: field-controls
+name: Field Controls
+website: https://www.fieldcontrols.com/
+categories:
+- hvac
+aliases: []
+support:
+- category: hvac
+  department: Tech Support
+  phone: '+18007428368'
+  country: US
+  notes: Tech support for product application, wiring, and installation.
+  source: fieldcontrols.com tech support
+  last_verified: '2025-12-24'

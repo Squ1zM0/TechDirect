@@ -1,0 +1,16 @@
+id: burnham-commercial
+name: Burnham Commercial Boilers
+website: https://www.burnhamcommercial.com/
+categories:
+- hvac
+- plumbing
+aliases:
+- Burnham Commercial
+support:
+- category: hvac
+  department: Customer Care Center
+  phone: '+18887913790'
+  country: US
+  notes: Burnham Commercial Boilers customer care line used for support routing.
+  source: burnhamcommercial.com/contact-us
+  last_verified: '2025-12-24'

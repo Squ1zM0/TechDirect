@@ -1,0 +1,16 @@
+id: york
+name: YORK
+website: https://www.york.com/
+categories: [hvac]
+aliases: [Johnson Controls, UPG]
+support:
+  - category: hvac
+    department: Technical Services (Product/Warranty)
+    phone: "+18778747378"
+    country: US
+    hours:
+      timezone: America/Chicago
+      mon_fri: "08:00-17:00"
+    notes: "YORK Residential & Light Commercial technical services line."
+    source: "york.com residential contact-us page"
+    last_verified: "2025-12-24"

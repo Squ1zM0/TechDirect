@@ -1,0 +1,16 @@
+id: swegon
+name: Swegon North America
+website: https://www.swegon.com/na/
+categories:
+- hvac
+- airflow
+aliases:
+- Swegon
+support:
+- category: hvac
+  department: North America Head Office
+  phone: '+14162917371'
+  country: CA
+  notes: Swegon North America head office phone (NA support routing).
+  source: swegon.com/na/contact
+  last_verified: '2025-12-24'

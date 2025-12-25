@@ -1,0 +1,2465 @@
+{
+  "version": "2025-12-24",
+  "manufacturers": [
+    {
+      "id": "a-o-smith",
+      "name": "A. O. Smith Water Products",
+      "website": "https://www.hotwater.com/support/contact-tech-support.html",
+      "categories": [
+        "hvac"
+      ],
+      "aliases": [
+        "AO Smith",
+        "A. O. Smith"
+      ],
+      "support": [
+        {
+          "category": "hvac",
+          "department": "Customer & Technical Support (Residential/Commercial)",
+          "phone": "+18775566731",
+          "country": "US",
+          "notes": "A. O. Smith Water Products customer and technical support for residential and commercial products.",
+          "source": "hotwater.com contact tech support page",
+          "last_verified": "2025-12-24"
+        }
+      ]
+    },
+    {
+      "id": "ao-smith",
+      "name": "A. O. Smith Water Products",
+      "website": "https://www.hotwater.com/support/contact-tech-support.html",
+      "categories": [
+        "hvac"
+      ],
+      "aliases": [
+        "A. O. Smith"
+      ],
+      "support": [
+        {
+          "category": "hvac",
+          "department": "Customer & Technical Support",
+          "phone": "+18775566731",
+          "country": "US",
+          "notes": "A. O. Smith Water Products customer/technical support for residential and commercial products.",
+          "source": "hotwater.com contact tech support",
+          "last_verified": "2025-12-24"
+        }
+      ]
+    },
+    {
+      "id": "ao-smith-water-products",
+      "name": "A. O. Smith Water Products",
+      "website": "https://www.hotwater.com/support/contact-tech-support.html",
+      "categories": [
+        "hvac"
+      ],
+      "aliases": [],
+      "support": [
+        {
+          "category": "hvac",
+          "department": "Customer & Technical Support",
+          "phone": "+18775566731",
+          "country": "US",
+          "notes": "Customer and technical support for residential and commercial products.",
+          "source": "hotwater.com contact tech support",
+          "last_verified": "2025-12-24"
+        }
+      ]
+    },
+    {
+      "id": "aaon",
+      "name": "AAON",
+      "website": "https://www.aaon.com/contact",
+      "categories": [
+        "hvac"
+      ],
+      "aliases": [],
+      "support": [
+        {
+          "category": "hvac",
+          "department": "Service and Tech Support",
+          "phone": "+19183826450",
+          "country": "US",
+          "notes": "Service and tech support line listed on AAON contact page.",
+          "source": "aaon.com contact",
+          "last_verified": "2025-12-24"
+        }
+      ]
+    },
+    {
+      "id": "addison",
+      "name": "Addison HVAC",
+      "website": "https://www.addison-hvac.com/",
+      "categories": [
+        "hvac"
+      ],
+      "aliases": [
+        "Addison"
+      ],
+      "support": [
+        {
+          "category": "hvac",
+          "department": "Technical Support (Factory)",
+          "phone": "+14072924400",
+          "country": "US",
+          "notes": "Addison HVAC technical support general phone (menu option per 'ACE Team' page).",
+          "source": "addison-hvac.com/rep-portal-dashboard/the-ace-team",
+          "last_verified": "2025-12-24"
+        }
+      ]
+    },
+    {
+      "id": "aerco",
+      "name": "AERCO",
+      "website": "https://www.aerco.com/",
+      "categories": [
+        "hvac"
+      ],
+      "aliases": [],
+      "support": [
+        {
+          "category": "hvac",
+          "department": "Tech Support",
+          "phone": "+1-800-526-0288",
+          "country": "US",
+          "notes": "AERCO tech support line (Mon–Fri 8am–5pm ET).",
+          "source": "https://www.aerco.com/my-support (official)",
+          "last_verified": "2025-12-24"
+        }
+      ]
+    },
+    {
+      "id": "airedale",
+      "name": "Airedale by Modine",
+      "website": "https://www.airedale.com/",
+      "categories": [
+        "hvac"
+      ],
+      "aliases": [
+        "Airedale"
+      ],
+      "support": [
+        {
+          "category": "hvac",
+          "department": "Technical Support",
+          "phone": "+18668839073",
+          "country": "US",
+          "notes": "Airedale (US) service/technical support line (Engineered Air, LLC d/b/a Airedale by Modine).",
+          "source": "Engineered Air, LLC LinkedIn company page (Airedale contact)",
+          "last_verified": "2025-12-24"
+        }
+      ]
+    },
+    {
+      "id": "alfa-laval",
+      "name": "Alfa Laval",
+      "website": "https://www.alfalaval.us/",
+      "categories": [
+        "hvac"
+      ],
+      "aliases": [],
+      "support": [
+        {
+          "category": "hvac",
+          "department": "Customer Service / Technical Support",
+          "phone": "+18662532528",
+          "country": "US",
+          "notes": "Alfa Laval USA customer service hotline (heat transfer/fluid handling).",
+          "source": "alfalaval.com contact page",
+          "last_verified": "2025-12-24"
+        }
+      ]
+    },
+    {
+      "id": "amana-hac",
+      "name": "Amana Heating & Air Conditioning",
+      "website": "https://www.amana-hac.com/about-us/contact-us",
+      "categories": [
+        "hvac"
+      ],
+      "aliases": [],
+      "support": [
+        {
+          "category": "hvac",
+          "department": "Heating & Cooling Support",
+          "phone": "+18772544729",
+          "country": "US",
+          "notes": "Amana Heating & Cooling support line listed on Amana registration/support contact.",
+          "source": "register.amana.com support contact page",
+          "last_verified": "2025-12-24"
+        }
+      ]
+    },
+    {
+      "id": "american-standard-air",
+      "name": "American Standard Heating & Air Conditioning",
+      "website": "https://www.americanstandardair.com/",
+      "categories": [
+        "hvac"
+      ],
+      "aliases": [
+        "Trane (shared consumer relations)"
+      ],
+      "support": [
+        {
+          "category": "hvac",
+          "department": "Customer Care",
+          "phone": "+18552602975",
+          "country": "US",
+          "notes": "American Standard air site references 1-855-260-2975 for more help (shared with Trane residential).",
+          "source": "americanstandardair.com contact-us page",
+          "last_verified": "2025-12-24"
+        }
+      ]
+    },
+    {
+      "id": "aprilaire",
+      "name": "AprilAire",
+      "website": "https://www.aprilaire.com/",
+      "categories": [
+        "hvac"
+      ],
+      "aliases": [],
+      "support": [
+        {
+          "category": "hvac",
+          "department": "Customer Service & Technical Support",
+          "phone": "+18003346011",
+          "country": "US",
+          "notes": "Customer Service & Technical Support line (partner/installer support).",
+          "source": "aprilairepartners.com contact",
+          "last_verified": "2025-12-24"
+        }
+      ]
+    },
+    {
+      "id": "armstrong-air",
+      "name": "Armstrong Air",
+      "website": "https://www.armstrongair.com/contact/",
+      "categories": [
+        "hvac"
+      ],
+      "aliases": [],
+      "support": [
+        {
+          "category": "hvac",
+          "department": "Customer Support",
+          "phone": "+18004485872",
+          "country": "US",
+          "notes": "Armstrong Air contact phone for product inquiries and customer support.",
+          "source": "armstrongair.com contact page",
+          "last_verified": "2025-12-24"
+        }
+      ]
+    },
+    {
+      "id": "armstrong-fluid-technology",
+      "name": "Armstrong Fluid Technology",
+      "website": "https://armstrongfluidtechnology.com/",
+      "categories": [
+        "hvac"
+      ],
+      "aliases": [],
+      "support": [
+        {
+          "category": "hvac",
+          "department": "After Sales / Service Support",
+          "phone": "+18442382377",
+          "country": "US",
+          "notes": "North America after-sales/service support line (pumps/heat exchangers/controls).",
+          "source": "armstrongfluidtechnology.com emergency support page",
+          "last_verified": "2025-12-24"
+        }
+      ]
+    },
+    {
+      "id": "bard",
+      "name": "Bard HVAC",
+      "website": "https://www.bardhvac.com/",
+      "categories": [
+        "hvac"
+      ],
+      "aliases": [],
+      "support": [
+        {
+          "category": "hvac",
+          "department": "Technical Service",
+          "phone": "+1-419-636-0439",
+          "country": "US",
+          "notes": "Bard Technical Service line listed on Bard product literature/support resources.",
+          "source": "https://www.bardhvac.com/literature/ (official)",
+          "last_verified": "2025-12-24"
+        }
+      ]
+    },
+    {
+      "id": "bell-gossett",
+      "name": "Bell & Gossett (Xylem)",
+      "website": "https://www.xylem.com/en-us/brands/bell-gossett/",
+      "categories": [
+        "hvac",
+        "plumbing"
+      ],
+      "aliases": [
+        "B&G",
+        "Bell and Gossett"
+      ],
+      "support": [
+        {
+          "category": "hvac",
+          "department": "Technical Support (Xylem SmartSupport)",
+          "phone": "+18559957877",
+          "country": "US",
+          "notes": "Xylem SmartSupport primary contact for GWT & B&G.",
+          "source": "https://myaccess.xyleminc.com/SecurityTokenService/Support.aspx",
+          "last_verified": "2025-12-24"
+        }
+      ]
+    },
+    {
+      "id": "bosch-home-comfort",
+      "name": "Bosch Home Comfort",
+      "website": "https://www.bosch-homecomfort.com/us/",
+      "categories": [
+        "hvac"
+      ],
+      "aliases": [
+        "Bosch Thermotechnology"
+      ],
+      "support": [
+        {
+          "category": "hvac",
+          "department": "Customer Service (Residential)",
+          "phone": "+18002833787",
+          "country": "US",
+          "hours": {
+            "timezone": "America/New_York",
+            "mon_thu": "08:00-18:00",
+            "fri": "08:00-17:00"
+          },
+          "notes": "Bosch Home Comfort customer support phone (residential).",
+          "source": "bosch-homecomfort.com contact customer service page",
+          "last_verified": "2025-12-24"
+        }
+      ]
+    },
+    {
+      "id": "bradford-white",
+      "name": "Bradford White",
+      "website": "https://www.bradfordwhite.com/",
+      "categories": [
+        "hvac"
+      ],
+      "aliases": [
+        "Laars"
+      ],
+      "support": [
+        {
+          "category": "hvac",
+          "department": "Technical Support (Plumbing Professionals Only)",
+          "phone": "+18003343393",
+          "country": "US",
+          "notes": "24/7 technical support; Bradford White notes tech support is for plumbing professionals only.",
+          "source": "bradfordwhite.com contact Bradford White page",
+          "last_verified": "2025-12-24"
+        }
+      ]
+    },
+    {
+      "id": "bryant",
+      "name": "Bryant",
+      "website": "https://www.bryant.com/en/us/contact-us/",
+      "categories": [
+        "hvac"
+      ],
+      "aliases": [],
+      "support": [
+        {
+          "category": "hvac",
+          "department": "Customer Relations",
+          "phone": "+18004284326",
+          "country": "US",
+          "notes": "Bryant customer relations phone listed on Bryant contact page.",
+          "source": "bryant.com contact page",
+          "last_verified": "2025-12-24"
+        }
+      ]
+    },
+    {
+      "id": "buderus",
+      "name": "Buderus (Bosch Thermotechnology)",
+      "website": "https://www.buderus.com/en/home/usa-kanada/",
+      "categories": [
+        "hvac"
+      ],
+      "aliases": [
+        "Bosch Home Comfort Buderus"
+      ],
+      "support": [
+        {
+          "category": "hvac",
+          "department": "Commercial Support",
+          "phone": "+18003261400",
+          "country": "US",
+          "notes": "Commercial support phone listed on Buderus USA/Canada contact page.",
+          "source": "https://www.buderus.com/en/home/usa-kanada/",
+          "last_verified": "2025-12-24"
+        }
+      ]
+    },
+    {
+      "id": "burnham-commercial",
+      "name": "Burnham Commercial Boilers",
+      "website": "https://www.burnhamcommercial.com/",
+      "categories": [
+        "hvac",
+        "plumbing"
+      ],
+      "aliases": [
+        "Burnham Commercial"
+      ],
+      "support": [
+        {
+          "category": "hvac",
+          "department": "Customer Care Center",
+          "phone": "+18887913790",
+          "country": "US",
+          "notes": "Burnham Commercial Boilers customer care line used for support routing.",
+          "source": "burnhamcommercial.com/contact-us",
+          "last_verified": "2025-12-24"
+        }
+      ]
+    },
+    {
+      "id": "caleffi",
+      "name": "Caleffi North America",
+      "website": "https://www.caleffi.com/en-us",
+      "categories": [
+        "hvac"
+      ],
+      "aliases": [
+        "Ask Caleffi",
+        "Caleffi"
+      ],
+      "support": [
+        {
+          "category": "hvac",
+          "department": "Technical Support",
+          "phone": "+14143386338",
+          "country": "US",
+          "notes": "Hydronics technical support line (Milwaukee, WI).",
+          "source": "https://www.caleffi.com/en-us/contacts/contact-us",
+          "last_verified": "2025-12-24"
+        }
+      ]
+    },
+    {
+      "id": "camfil",
+      "name": "Camfil USA",
+      "website": "https://www.camfil.com/en-us/",
+      "categories": [
+        "hvac",
+        "airflow"
+      ],
+      "aliases": [
+        "Camfil"
+      ],
+      "support": [
+        {
+          "category": "hvac",
+          "department": "Customer Support (US)",
+          "phone": "+18885996620",
+          "country": "US",
+          "notes": "Camfil USA published call-in number for assistance (air filtration used in HVAC systems).",
+          "source": "catalog.camfil.us request info page",
+          "last_verified": "2025-12-24"
+        }
+      ]
+    },
+    {
+      "id": "captiveaire",
+      "name": "CaptiveAire",
+      "website": "https://www.captiveaire.com/help/faq/tech-support.asp",
+      "categories": [
+        "hvac"
+      ],
+      "aliases": [],
+      "support": [
+        {
+          "category": "hvac",
+          "department": "Tech Support (Warranty / Technical Support)",
+          "phone": "+18667846900",
+          "country": "US",
+          "notes": "CaptiveAire tech support line referenced for warranty/technical support issues.",
+          "source": "captiveaire.com tech support FAQ",
+          "last_verified": "2025-12-24"
+        }
+      ]
+    },
+    {
+      "id": "carrier",
+      "name": "Carrier",
+      "website": "https://www.carrier.com/residential/en/us/",
+      "categories": [
+        "hvac"
+      ],
+      "aliases": [
+        "Bryant",
+        "Payne"
+      ],
+      "support": [
+        {
+          "category": "hvac",
+          "department": "Customer Service / Support",
+          "phone": "+18002277437",
+          "country": "US",
+          "notes": "Carrier '1-800-CARRIER' support line.",
+          "source": "carrier.com contact page",
+          "last_verified": "2025-12-24"
+        }
+      ]
+    },
+    {
+      "id": "cleaver-brooks",
+      "name": "Cleaver-Brooks",
+      "website": "https://cleaverbrooks.com/",
+      "categories": [
+        "hvac",
+        "plumbing"
+      ],
+      "aliases": [
+        "Cleaver Brooks"
+      ],
+      "support": [
+        {
+          "category": "hvac",
+          "department": "Customer Service",
+          "phone": "+18002505883",
+          "country": "US",
+          "notes": "Cleaver-Brooks customer service line used for parts/service routing for boiler room equipment.",
+          "source": "cleaverbrooks.com/contactus",
+          "last_verified": "2025-12-24"
+        }
+      ]
+    },
+    {
+      "id": "climatemaster",
+      "name": "ClimateMaster",
+      "website": "https://www.climatemaster.com/commercial/contact-us",
+      "categories": [
+        "hvac"
+      ],
+      "aliases": [],
+      "support": [
+        {
+          "category": "hvac",
+          "department": "Customer Service / Support",
+          "phone": "+18002999747",
+          "country": "US",
+          "notes": "24-hour toll-free support number listed on ClimateMaster commercial contact page.",
+          "source": "climatemaster.com commercial contact",
+          "last_verified": "2025-12-24"
+        }
+      ]
+    },
+    {
+      "id": "clivet",
+      "name": "Clivet (Mits Airconditioning Inc.)",
+      "website": "https://www.clivet.us/",
+      "categories": [
+        "hvac"
+      ],
+      "aliases": [],
+      "support": [
+        {
+          "category": "hvac",
+          "department": "Technical & After-Sales Support",
+          "phone": "+18885672227",
+          "country": "US",
+          "notes": "North America master distributor contact for Clivet technical/after-sales support.",
+          "source": "clivet.us contact page",
+          "last_verified": "2025-12-24"
+        }
+      ]
+    },
+    {
+      "id": "colmac-coil",
+      "name": "Colmac Coil",
+      "website": "https://www.colmaccoil.com/",
+      "categories": [
+        "hvac"
+      ],
+      "aliases": [
+        "Colmac"
+      ],
+      "support": [
+        {
+          "category": "hvac",
+          "department": "Factory Support",
+          "phone": "+18008456778",
+          "country": "US",
+          "notes": "Colmac Coil factory toll-free phone (use for technical/product support routing).",
+          "source": "colmaccoil.com/contact-us.aspx",
+          "last_verified": "2025-12-24"
+        }
+      ]
+    },
+    {
+      "id": "crown-boiler",
+      "name": "Crown Boiler",
+      "website": "https://www.velocityboilerworks.com/",
+      "categories": [
+        "hvac"
+      ],
+      "aliases": [
+        "Crown Boiler Company",
+        "Velocity Boiler Works (Crown cast iron)"
+      ],
+      "support": [
+        {
+          "category": "hvac",
+          "department": "Technical Support",
+          "phone": "+12155358900",
+          "country": "US",
+          "notes": "Velocity Boiler Works technical support phone (Crown cast iron products).",
+          "source": "https://www.velocityboilerworks.com/contact/technical-support/",
+          "last_verified": "2025-12-24"
+        }
+      ]
+    },
+    {
+      "id": "daikin",
+      "name": "Daikin",
+      "website": "https://daikincomfort.com/",
+      "categories": [
+        "hvac"
+      ],
+      "aliases": [
+        "Daikin Comfort Technologies NA"
+      ],
+      "support": [
+        {
+          "category": "hvac",
+          "department": "US Customer Support",
+          "phone": "+18665886454",
+          "country": "US",
+          "notes": "Daikin Contact Us page lists US phone.",
+          "source": "daikincomfort.com contact-us page",
+          "last_verified": "2025-12-24"
+        }
+      ]
+    },
+    {
+      "id": "daikin-applied",
+      "name": "Daikin Applied",
+      "website": "https://www.daikinapplied.com/",
+      "categories": [
+        "hvac"
+      ],
+      "aliases": [],
+      "support": [
+        {
+          "category": "hvac",
+          "department": "Service / Repair Dispatch",
+          "phone": "+18004321342",
+          "country": "US",
+          "notes": "Daikin Applied service dispatch line for equipment repair/support.",
+          "source": "daikinapplied.com maintain & repair page",
+          "last_verified": "2025-12-24"
+        }
+      ]
+    },
+    {
+      "id": "danfoss",
+      "name": "Danfoss",
+      "website": "https://www.danfoss.com/en-us/",
+      "categories": [
+        "hvac"
+      ],
+      "aliases": [
+        "Danfoss Climate Solutions",
+        "Danfoss Heating"
+      ],
+      "support": [
+        {
+          "category": "hvac",
+          "department": "Customer Service & Technical Support (NA Heating)",
+          "phone": "+18883263677",
+          "country": "US",
+          "notes": "North America heating inquiries line used for customer service and technical support routing.",
+          "source": "danfoss.com heating sales and service contacts",
+          "last_verified": "2025-12-24"
+        }
+      ]
+    },
+    {
+      "id": "dectron",
+      "name": "Dectron",
+      "website": "https://dectron.com/",
+      "categories": [
+        "hvac"
+      ],
+      "aliases": [
+        "PoolPak",
+        "Seresco"
+      ],
+      "support": [
+        {
+          "category": "hvac",
+          "department": "Product & Technical Support (Existing Equipment)",
+          "phone": "+18333277665",
+          "country": "US",
+          "notes": "Dectron factory-direct technical support line listed as 1-833-DAS-POOL.",
+          "source": "dectron.com/about/contact",
+          "last_verified": "2025-12-24"
+        }
+      ]
+    },
+    {
+      "id": "desert-aire",
+      "name": "Desert Aire",
+      "website": "https://www.desert-aire.com/service-and-support/",
+      "categories": [
+        "hvac"
+      ],
+      "aliases": [],
+      "support": [
+        {
+          "category": "hvac",
+          "department": "Service / Parts (Technical Support)",
+          "phone": "+12629467400",
+          "country": "US",
+          "notes": "Call and ask for service or parts department for support; used for technical assistance/parts.",
+          "source": "desert-aire.com service and support",
+          "last_verified": "2025-12-24"
+        }
+      ]
+    },
+    {
+      "id": "dunkirk",
+      "name": "Dunkirk Boilers",
+      "website": "https://dunkirk.com",
+      "categories": [
+        "hvac"
+      ],
+      "aliases": [
+        "Dunkirk"
+      ],
+      "support": [
+        {
+          "category": "hvac",
+          "department": "Technical Support (Installing Contractors)",
+          "phone": "+18003255479",
+          "country": "US",
+          "notes": "Technical support for installing contractors (not homeowner line).",
+          "source": "https://dunkirk.com/contact-us/",
+          "last_verified": "2025-12-24"
+        }
+      ]
+    },
+    {
+      "id": "ebm-papst",
+      "name": "ebm-papst USA",
+      "website": "https://www.ebmpapst.com/us/en/support/contact.html",
+      "categories": [
+        "hvac"
+      ],
+      "aliases": [],
+      "support": [
+        {
+          "category": "hvac",
+          "department": "Support / Contact",
+          "phone": "+18606741515",
+          "country": "US",
+          "notes": "ebm-papst North American HQ phone listed under Support > Contact (fans/motors used in HVAC equipment).",
+          "source": "ebmpapst.com US support contact",
+          "last_verified": "2025-12-24"
+        }
+      ]
+    },
+    {
+      "id": "emerson",
+      "name": "Emerson",
+      "website": "https://www.emerson.com/",
+      "categories": [
+        "hvac"
+      ],
+      "aliases": [
+        "Emerson Commercial & Residential Solutions"
+      ],
+      "support": [
+        {
+          "category": "hvac",
+          "department": "Product Support (US/Canada)",
+          "phone": "+18008338314",
+          "country": "US",
+          "notes": "Product Support toll-free number listed for US/Canada.",
+          "source": "emerson.com technical support contact information",
+          "last_verified": "2025-12-24"
+        }
+      ]
+    },
+    {
+      "id": "engineered-air-llc",
+      "name": "Engineered Air, LLC",
+      "website": "https://www.engineeredairllc.com/",
+      "categories": [
+        "hvac"
+      ],
+      "aliases": [
+        "Engineered Air"
+      ],
+      "support": [
+        {
+          "category": "hvac",
+          "department": "Service / Technical Support",
+          "phone": "+18668839073",
+          "country": "US",
+          "notes": "Engineered Air, LLC service contact / support line (also listed as toll-free).",
+          "source": "linkedin.com/company/engineered-air-llc",
+          "last_verified": "2025-12-24"
+        }
+      ]
+    },
+    {
+      "id": "evapco",
+      "name": "EVAPCO",
+      "website": "https://www.evapco.com/",
+      "categories": [
+        "hvac"
+      ],
+      "aliases": [],
+      "support": [
+        {
+          "category": "hvac",
+          "department": "Technical Assistance / Service",
+          "phone": "+14107562600",
+          "country": "US",
+          "notes": "EVAPCO contact number listed for assistance (cooling towers/fluid coolers).",
+          "source": "evapco.com FAQ answer page",
+          "last_verified": "2025-12-24"
+        }
+      ]
+    },
+    {
+      "id": "fantech",
+      "name": "Fantech",
+      "website": "https://www.fantech.net/en-us/contact-and-support",
+      "categories": [
+        "hvac"
+      ],
+      "aliases": [],
+      "support": [
+        {
+          "category": "hvac",
+          "department": "Customer Care / Support",
+          "phone": "+18007471762",
+          "country": "US",
+          "notes": "Fantech U.S. support line (ventilation products).",
+          "source": "fantech.net contact/support page",
+          "last_verified": "2025-12-24"
+        }
+      ]
+    },
+    {
+      "id": "field-controls",
+      "name": "Field Controls",
+      "website": "https://www.fieldcontrols.com/",
+      "categories": [
+        "hvac"
+      ],
+      "aliases": [],
+      "support": [
+        {
+          "category": "hvac",
+          "department": "Tech Support",
+          "phone": "+18007428368",
+          "country": "US",
+          "notes": "Tech support for product application, wiring, and installation.",
+          "source": "fieldcontrols.com tech support",
+          "last_verified": "2025-12-24"
+        }
+      ]
+    },
+    {
+      "id": "flaktgroup-semco",
+      "name": "FläktGroup SEMCO",
+      "website": "https://www.semcohvac.com/",
+      "categories": [
+        "hvac"
+      ],
+      "aliases": [
+        "SEMCO",
+        "FlaktGroup SEMCO"
+      ],
+      "support": [
+        {
+          "category": "hvac",
+          "department": "Sales & Support / Main",
+          "phone": "+15734431481",
+          "country": "US",
+          "notes": "FläktGroup SEMCO corporate contact phone listed on 'Our Company' page (routes sales/support).",
+          "source": "semcohvac.com/our-company",
+          "last_verified": "2025-12-24"
+        }
+      ]
+    },
+    {
+      "id": "fujitsu-general",
+      "name": "Fujitsu General America",
+      "website": "https://www.fujitsugeneral.com/us/",
+      "categories": [
+        "hvac"
+      ],
+      "aliases": [
+        "Fujitsu Halcyon"
+      ],
+      "support": [
+        {
+          "category": "hvac",
+          "department": "Technical Support (toll free)",
+          "phone": "+18669528324",
+          "country": "US",
+          "notes": "Fujitsu General America technical support toll-free number.",
+          "source": "global.fujitsu.com subsidiaries fga page",
+          "last_verified": "2025-12-24"
+        }
+      ]
+    },
+    {
+      "id": "goodman",
+      "name": "Goodman",
+      "website": "https://www.goodmanmfg.com/",
+      "categories": [
+        "hvac"
+      ],
+      "aliases": [
+        "Amana",
+        "Daikin (Goodman/Amana parent)"
+      ],
+      "support": [
+        {
+          "category": "hvac",
+          "department": "Homeowner Support / Consumer Affairs",
+          "phone": "+18772544729",
+          "country": "US",
+          "notes": "Goodman/Daikin homeowner support line listed on Goodman contact/warranty FAQ pages.",
+          "source": "goodmanmfg.com contact us / warranty FAQ",
+          "last_verified": "2025-12-24"
+        }
+      ]
+    },
+    {
+      "id": "gree",
+      "name": "GREE Comfort",
+      "website": "https://www.greecomfort.com/on-site-tech-support/",
+      "categories": [
+        "hvac"
+      ],
+      "aliases": [],
+      "support": [
+        {
+          "category": "hvac",
+          "department": "Technical Support (Call Center)",
+          "phone": "+18888507928",
+          "country": "US",
+          "notes": "GREE Comfort on-site tech support call center.",
+          "source": "https://www.greecomfort.com/on-site-tech-support/ (official)",
+          "last_verified": "2025-12-24"
+        }
+      ]
+    },
+    {
+      "id": "greenheck",
+      "name": "Greenheck",
+      "website": "https://www.greenheck.com/doas-technical-support",
+      "categories": [
+        "hvac"
+      ],
+      "aliases": [],
+      "support": [
+        {
+          "category": "hvac",
+          "department": "DOAS Technical Support",
+          "phone": "+18664782574",
+          "country": "US",
+          "notes": "Dedicated DOAS technical support line.",
+          "source": "greenheck.com DOAS technical support",
+          "last_verified": "2025-12-24"
+        }
+      ]
+    },
+    {
+      "id": "greenheck-doas",
+      "name": "Greenheck (DOAS)",
+      "website": "https://www.greenheck.com/doas-technical-support",
+      "categories": [
+        "hvac"
+      ],
+      "aliases": [],
+      "support": [
+        {
+          "category": "hvac",
+          "department": "DOAS Technical Support",
+          "phone": "+18664782574",
+          "country": "US",
+          "notes": "Dedicated DOAS technical support contact.",
+          "source": "greenheck.com DOAS technical support",
+          "last_verified": "2025-12-24"
+        }
+      ]
+    },
+    {
+      "id": "grundfos",
+      "name": "Grundfos",
+      "website": "https://www.grundfos.com/us",
+      "categories": [
+        "hvac"
+      ],
+      "aliases": [],
+      "support": [
+        {
+          "category": "hvac",
+          "department": "Customer Service / Support",
+          "phone": "+18449942850",
+          "country": "US",
+          "notes": "Pumps support phone (U.S.) from Grundfos contact page (use for product/application support).",
+          "source": "https://www.grundfos.com/us/campaign/yeomans-chicago-corporation-ycc/explore-contact",
+          "last_verified": "2025-12-24"
+        }
+      ]
+    },
+    {
+      "id": "heatcraft-refrigeration-products",
+      "name": "Heatcraft Refrigeration Products",
+      "website": "https://www.heatcraftrpd.com/support/",
+      "categories": [
+        "hvac"
+      ],
+      "aliases": [
+        "Heatcraft",
+        "Bohn"
+      ],
+      "support": [
+        {
+          "category": "hvac",
+          "department": "Installation, Service & Troubleshooting Assistance",
+          "phone": "+18005377775",
+          "country": "US",
+          "notes": "Heatcraft customer support line; installation/service/troubleshooting available via phone menu (option 3 per support page).",
+          "source": "heatcraftrpd.com customer support",
+          "last_verified": "2025-12-24"
+        }
+      ]
+    },
+    {
+      "id": "heatcraft-rpd",
+      "name": "Heatcraft Refrigeration Products",
+      "website": "https://www.heatcraftrpd.com/support/",
+      "categories": [
+        "hvac"
+      ],
+      "aliases": [
+        "Heatcraft"
+      ],
+      "support": [
+        {
+          "category": "hvac",
+          "department": "Customer Support / Installation, Service & Troubleshooting",
+          "phone": "+18005377775",
+          "country": "US",
+          "notes": "Heatcraft customer support line; select option for Installation, Service and Troubleshooting Assistance.",
+          "source": "heatcraftrpd.com customer support",
+          "last_verified": "2025-12-24"
+        }
+      ]
+    },
+    {
+      "id": "hitachi",
+      "name": "Hitachi Cooling & Heating",
+      "website": "https://www.hitachiaircon.com/us/",
+      "categories": [
+        "hvac"
+      ],
+      "aliases": [],
+      "support": [
+        {
+          "category": "hvac",
+          "department": "Technical Assistance / Support Center",
+          "phone": "+18448734445",
+          "country": "US",
+          "notes": "Hitachi Cooling & Heating FAQ lists Support Center 844-873-4445 (option 3) for technical assistance.",
+          "source": "hitachiaircon.com US FAQs",
+          "last_verified": "2025-12-24"
+        }
+      ]
+    },
+    {
+      "id": "htp",
+      "name": "HTP (Heat Transfer Products)",
+      "website": "https://www.htproducts.com/technicalsupport.html",
+      "categories": [
+        "hvac"
+      ],
+      "aliases": [
+        "Heat Transfer Products"
+      ],
+      "support": [
+        {
+          "category": "hvac",
+          "department": "Technical Support",
+          "phone": "+18003239651",
+          "country": "US",
+          "notes": "HTP technical support line (phone support; menu may require option selection).",
+          "source": "htproducts.com technical support page",
+          "last_verified": "2025-12-24"
+        }
+      ]
+    },
+    {
+      "id": "hydro-thermal",
+      "name": "Hydro-Thermal",
+      "website": "https://www.hydro-thermal.com/",
+      "categories": [
+        "hvac",
+        "plumbing"
+      ],
+      "aliases": [
+        "Hydro-Thermal Inc."
+      ],
+      "support": [
+        {
+          "category": "hvac",
+          "department": "Customer Service / Support",
+          "phone": "+18009520121",
+          "country": "US",
+          "notes": "Hydro-Thermal toll-free customer service phone.",
+          "source": "hydro-thermal.com/contact-us",
+          "last_verified": "2025-12-24"
+        }
+      ]
+    },
+    {
+      "id": "ice-o-matic",
+      "name": "Ice-O-Matic",
+      "website": "https://www.iceomatic.com/",
+      "categories": [
+        "hvac"
+      ],
+      "aliases": [
+        "Ice O Matic"
+      ],
+      "support": [
+        {
+          "category": "hvac",
+          "department": "Technical Support (Licensed Refrigeration Techs)",
+          "phone": "+18004233367",
+          "country": "US",
+          "notes": "Ice-O-Matic technical support for licensed refrigeration technicians (options noted on contact page).",
+          "source": "iceomatic.com/Contact",
+          "last_verified": "2025-12-24"
+        }
+      ]
+    },
+    {
+      "id": "icp",
+      "name": "International Comfort Products (ICP)",
+      "website": "https://www.icpusa.com/en/us/contact-us",
+      "categories": [
+        "hvac"
+      ],
+      "aliases": [
+        "Comfortmaker",
+        "Tempstar",
+        "Heil",
+        "Day & Night",
+        "Keeprite",
+        "Arcoaire"
+      ],
+      "support": [
+        {
+          "category": "hvac",
+          "department": "Residential Customer Service",
+          "phone": "+18004586650",
+          "country": "US",
+          "notes": "ICP residential customer service phone listed on ICP contact page.",
+          "source": "icpusa.com contact page",
+          "last_verified": "2025-12-24"
+        },
+        {
+          "category": "hvac",
+          "department": "Consumer Relations",
+          "phone": "+18775918908",
+          "country": "US",
+          "notes": "ICP consumer relations phone listed in ICP warranty/consumer relations documents.",
+          "source": "ICP consumer relations warranty docs",
+          "last_verified": "2025-12-24"
+        }
+      ]
+    },
+    {
+      "id": "laars",
+      "name": "Laars Heating Systems",
+      "website": "https://www.laars.com/",
+      "categories": [
+        "hvac"
+      ],
+      "aliases": [],
+      "support": [
+        {
+          "category": "hvac",
+          "department": "Factory Technical Support",
+          "phone": "+18009009276",
+          "country": "US",
+          "notes": "Factory Technical Support number listed on Laars service centers page.",
+          "source": "laars.com service centers page",
+          "last_verified": "2025-12-24"
+        }
+      ]
+    },
+    {
+      "id": "lennox",
+      "name": "Lennox",
+      "website": "https://www.lennox.com/residential/",
+      "categories": [
+        "hvac"
+      ],
+      "support": [
+        {
+          "category": "hvac",
+          "department": "Residential Tech Support",
+          "phone": "+18004536669",
+          "country": "US",
+          "notes": "Lennox residential tech support line listed for residential tech support.",
+          "source": "lennox.com commercial tech support request page",
+          "last_verified": "2025-12-24"
+        }
+      ]
+    },
+    {
+      "id": "lg-hvac",
+      "name": "LG HVAC",
+      "website": "https://lghvac.com/",
+      "categories": [
+        "hvac"
+      ],
+      "aliases": [
+        "LG Air Conditioning Technologies"
+      ],
+      "support": [
+        {
+          "category": "hvac",
+          "department": "HVAC Professional Support",
+          "phone": "+18883461923",
+          "country": "US",
+          "notes": "LG HVAC professional contact page lists toll-free number.",
+          "source": "lghvac.com contact us hvac professional page",
+          "last_verified": "2025-12-24"
+        }
+      ]
+    },
+    {
+      "id": "lochinvar",
+      "name": "Lochinvar",
+      "website": "https://www.lochinvar.com/en_US/contact.html",
+      "categories": [
+        "hvac"
+      ],
+      "aliases": [],
+      "support": [
+        {
+          "category": "hvac",
+          "department": "Technical Service (Contractor or Service Provider)",
+          "phone": "+18007222101",
+          "country": "US",
+          "notes": "Lochinvar technical service line for contractors/service providers.",
+          "source": "https://www.lochinvar.com/en_US/contact.html (official)",
+          "last_verified": "2025-12-24"
+        }
+      ]
+    },
+    {
+      "id": "loren-cook",
+      "name": "Loren Cook Company",
+      "website": "https://lorencook.com/",
+      "categories": [
+        "airflow",
+        "hvac"
+      ],
+      "aliases": [
+        "Cook Company"
+      ],
+      "support": [
+        {
+          "category": "hvac",
+          "department": "Customer Service",
+          "phone": "+1-417-869-6474",
+          "country": "US",
+          "notes": "Loren Cook Company customer service department phone listed in IOM documentation.",
+          "source": "https://www.lorencook.com/PDFs/IOMs/CPL_IOM.pdf (manual)",
+          "last_verified": "2025-12-24"
+        }
+      ]
+    },
+    {
+      "id": "marvair",
+      "name": "Marvair",
+      "website": "https://marvair.com/",
+      "categories": [
+        "hvac"
+      ],
+      "aliases": [
+        "AirX Climate Solutions (Marvair)"
+      ],
+      "support": [
+        {
+          "category": "hvac",
+          "department": "Factory Assistance",
+          "phone": "+1-229-273-9558",
+          "country": "US",
+          "notes": "Marvair manuals direct unresolved troubleshooting to contact the factory for assistance.",
+          "source": "https://marvair.com/doc/77/ComPac%20AVHDA90%20Manual%20Rev.3 (manual)",
+          "last_verified": "2025-12-24"
+        }
+      ]
+    },
+    {
+      "id": "metraflex",
+      "name": "Metraflex",
+      "website": "https://www.metraflex.com/",
+      "categories": [
+        "hvac"
+      ],
+      "aliases": [],
+      "support": [
+        {
+          "category": "hvac",
+          "department": "Support / Contact",
+          "phone": "+18006214347",
+          "country": "US",
+          "notes": "Metraflex engineered piping solutions support line.",
+          "source": "metraflex.com team/contact info",
+          "last_verified": "2025-12-24"
+        }
+      ]
+    },
+    {
+      "id": "mitsubishi-electric-hvac",
+      "name": "Mitsubishi Electric Trane HVAC US (METUS)",
+      "website": "https://www.mitsubishicomfort.com/",
+      "categories": [
+        "hvac"
+      ],
+      "aliases": [
+        "Mitsubishi Electric",
+        "Mitsubishi Comfort"
+      ],
+      "support": [
+        {
+          "category": "hvac",
+          "department": "Customer Care Help Center",
+          "phone": "+18004334822",
+          "country": "US",
+          "notes": "Mitsubishi Electric HVAC 'Customer Care help center' line.",
+          "source": "mitsubishicomfort.com for-pros page",
+          "last_verified": "2025-12-24"
+        }
+      ]
+    },
+    {
+      "id": "modine",
+      "name": "Modine HVAC",
+      "website": "https://www.modinehvac.com/resources/technical-support/",
+      "categories": [
+        "hvac"
+      ],
+      "aliases": [],
+      "support": [
+        {
+          "category": "hvac",
+          "department": "Technical Support",
+          "phone": "+18008284328",
+          "country": "US",
+          "notes": "Modine HVAC toll-free technical support.",
+          "source": "https://www.modinehvac.com/resources/technical-support/ (official)",
+          "last_verified": "2025-12-24"
+        }
+      ]
+    },
+    {
+      "id": "munters",
+      "name": "Munters",
+      "website": "https://www.munters.com/en-us/contact/",
+      "categories": [
+        "hvac"
+      ],
+      "aliases": [],
+      "support": [
+        {
+          "category": "hvac",
+          "department": "Data Centers / Humidity & Temperature Control Support",
+          "phone": "+18002298557",
+          "country": "US",
+          "notes": "Munters US contact line listed for data centers / humidity & temperature control.",
+          "source": "munters.com contact (United States)",
+          "last_verified": "2025-12-24"
+        }
+      ]
+    },
+    {
+      "id": "munters-us",
+      "name": "Munters (US)",
+      "website": "https://www.munters.com/en-us/contact/",
+      "categories": [
+        "hvac"
+      ],
+      "aliases": [
+        "Munters"
+      ],
+      "support": [
+        {
+          "category": "hvac",
+          "department": "Data Centers / Humidity & Temperature Control Support",
+          "phone": "+15402911111",
+          "country": "US",
+          "notes": "Munters US contact number for Data Centers & Humidity/Temperature Control (service/support contact routing).",
+          "source": "munters.com US contact",
+          "last_verified": "2025-12-24"
+        }
+      ]
+    },
+    {
+      "id": "nailor",
+      "name": "Nailor Industries",
+      "website": "https://nailor.com/contact-us",
+      "categories": [
+        "hvac"
+      ],
+      "aliases": [
+        "Nailor Industries"
+      ],
+      "support": [
+        {
+          "category": "hvac",
+          "department": "Factory / General Support",
+          "phone": "+12815901172",
+          "country": "US",
+          "notes": "Nailor Industries U.S. headquarters telephone.",
+          "source": "nailor.com contact page",
+          "last_verified": "2025-12-24"
+        }
+      ]
+    },
+    {
+      "id": "navien",
+      "name": "Navien",
+      "website": "https://www.navieninc.com/support",
+      "categories": [
+        "hvac"
+      ],
+      "aliases": [],
+      "support": [
+        {
+          "category": "hvac",
+          "department": "Product & Technical Support (Option 2)",
+          "phone": "+18005198794",
+          "country": "US",
+          "notes": "Navien product & technical support line (select option 2).",
+          "source": "https://www.navieninc.com/support (official)",
+          "last_verified": "2025-12-24"
+        }
+      ]
+    },
+    {
+      "id": "neptronic",
+      "name": "Neptronic",
+      "website": "https://www.neptronic.com/",
+      "categories": [
+        "hvac"
+      ],
+      "aliases": [],
+      "support": [
+        {
+          "category": "hvac",
+          "department": "Technical Support (Toll Free US/Canada)",
+          "phone": "+18003612308",
+          "country": "US",
+          "notes": "Neptronic toll-free line for US/Canada; contact page includes technical support contacts.",
+          "source": "neptronic.com/ContactUs.aspx",
+          "last_verified": "2025-12-24"
+        }
+      ]
+    },
+    {
+      "id": "nordyne",
+      "name": "Nordyne",
+      "website": "https://www.nordyne.com/contact/",
+      "categories": [
+        "hvac"
+      ],
+      "aliases": [
+        "Frigidaire",
+        "Maytag",
+        "Westinghouse",
+        "Broan"
+      ],
+      "support": [
+        {
+          "category": "hvac",
+          "department": "Technical Services",
+          "phone": "+18004224328",
+          "country": "US",
+          "notes": "Nordyne Technical Services Team phone (for licensed HVAC technicians).",
+          "source": "nordyne.com contact page",
+          "last_verified": "2025-12-24"
+        }
+      ]
+    },
+    {
+      "id": "nti-boilers",
+      "name": "NTI Boilers",
+      "website": "https://ntiboilers.com/",
+      "categories": [
+        "hvac",
+        "plumbing"
+      ],
+      "aliases": [
+        "NTI"
+      ],
+      "support": [
+        {
+          "category": "hvac",
+          "department": "Tech Support",
+          "phone": "+18006882575",
+          "country": "US",
+          "notes": "Tech Support line for installers/contractors (toll-free).",
+          "source": "https://ntiboilers.com/nti-support",
+          "last_verified": "2025-12-24"
+        }
+      ]
+    },
+    {
+      "id": "panasonic",
+      "name": "Panasonic HVAC / IAQ",
+      "website": "https://iaq.na.panasonic.com/hvac",
+      "categories": [
+        "hvac"
+      ],
+      "aliases": [],
+      "support": [
+        {
+          "category": "hvac",
+          "department": "Technical Support",
+          "phone": "+18889324623",
+          "country": "US",
+          "notes": "Panasonic HVAC warranty claim form lists 888-932-4623 for technical support request.",
+          "source": "panasonichvac.com warranty claim form",
+          "last_verified": "2025-12-24"
+        }
+      ]
+    },
+    {
+      "id": "price-industries",
+      "name": "Price Industries",
+      "website": "https://www.priceindustries.com/contact/product-support",
+      "categories": [
+        "hvac"
+      ],
+      "aliases": [
+        "Price Industries (US)"
+      ],
+      "support": [
+        {
+          "category": "hvac",
+          "department": "Product Support",
+          "phone": "+12046545613",
+          "country": "US",
+          "notes": "Price product support main line (options by product group).",
+          "source": "priceindustries.com product support page",
+          "last_verified": "2025-12-24"
+        }
+      ]
+    },
+    {
+      "id": "raypak",
+      "name": "Raypak",
+      "website": "https://www.raypak.com/",
+      "categories": [
+        "hvac"
+      ],
+      "aliases": [],
+      "support": [
+        {
+          "category": "hvac",
+          "department": "Technical Support",
+          "phone": "+18052785300",
+          "country": "US",
+          "notes": "Raypak Contact/Customer Support phone listed alongside Technical Support section (use for troubleshooting/product support).",
+          "source": "raypak.com contact customer support page",
+          "last_verified": "2025-12-24"
+        }
+      ]
+    },
+    {
+      "id": "renewaire",
+      "name": "RenewAire",
+      "website": "https://renewaire.com/product-support/",
+      "categories": [
+        "hvac"
+      ],
+      "aliases": [],
+      "support": [
+        {
+          "category": "hvac",
+          "department": "Technical Sales Support",
+          "phone": "+18006274499",
+          "country": "US",
+          "notes": "Technical Sales Support team provides troubleshooting and product support.",
+          "source": "renewaire.com product support",
+          "last_verified": "2025-12-24"
+        }
+      ]
+    },
+    {
+      "id": "resideo",
+      "name": "Resideo",
+      "website": "https://www.resideo.com/us/en/",
+      "categories": [
+        "hvac"
+      ],
+      "aliases": [
+        "Honeywell Home"
+      ],
+      "support": [
+        {
+          "category": "hvac",
+          "department": "Technical Support (Contractor option available)",
+          "phone": "+18006333991",
+          "country": "US",
+          "notes": "Technical Support line; professional contractor support is available via contractor option.",
+          "source": "resideo.com support",
+          "last_verified": "2025-12-24"
+        }
+      ]
+    },
+    {
+      "id": "reznor",
+      "name": "Reznor",
+      "website": "https://www.reznorhvac.com/where-to-buy-reznor/usa-southeast/",
+      "categories": [
+        "hvac"
+      ],
+      "aliases": [],
+      "support": [
+        {
+          "category": "hvac",
+          "department": "Technical Support (Commercial/Nortek)",
+          "phone": "+17246626346",
+          "country": "US",
+          "notes": "Reznor/Nortek commercial technical support line (regional listing).",
+          "source": "https://www.reznorhvac.com/where-to-buy-reznor/usa-southeast/ (official)",
+          "last_verified": "2025-12-24"
+        }
+      ]
+    },
+    {
+      "id": "rheem",
+      "name": "Rheem",
+      "website": "https://www.rheem.com/",
+      "categories": [
+        "hvac"
+      ],
+      "aliases": [
+        "Ruud"
+      ],
+      "support": [
+        {
+          "category": "hvac",
+          "department": "Support (immediate assistance)",
+          "phone": "+18004328373",
+          "country": "US",
+          "notes": "Rheem support line published on Rheem Help & Support page (also used for water heating support).",
+          "source": "rheem.com help-and-support page",
+          "last_verified": "2025-12-24"
+        }
+      ]
+    },
+    {
+      "id": "riello",
+      "name": "Riello North America",
+      "website": "https://www.riello.com/north-america",
+      "categories": [
+        "hvac"
+      ],
+      "aliases": [
+        "Riello Burners",
+        "Riello Commercial Boilers"
+      ],
+      "support": [
+        {
+          "category": "hvac",
+          "department": "Technical Support (Burners & Industrial Systems)",
+          "phone": "+18004743556",
+          "country": "US",
+          "notes": "Phone menu: select 2 for Technical Support.",
+          "source": "https://www.riello.com/north-america/service/technical-support/technical-support-contact-details",
+          "last_verified": "2025-12-24"
+        },
+        {
+          "category": "hvac",
+          "department": "Technical Support (Commercial Boilers: Array/Condexa PRO)",
+          "phone": "+18772042779",
+          "country": "US",
+          "notes": "Commercial boilers technical support line.",
+          "source": "https://www.riello.com/north-america/service/technical-support/technical-support-contact-details",
+          "last_verified": "2025-12-24"
+        }
+      ]
+    },
+    {
+      "id": "rinnai",
+      "name": "Rinnai",
+      "website": "https://www.rinnai.us/professional/techsupport",
+      "categories": [
+        "hvac"
+      ],
+      "aliases": [],
+      "support": [
+        {
+          "category": "hvac",
+          "department": "PRO Tech Support",
+          "phone": "+18006219419",
+          "country": "US",
+          "notes": "Rinnai PRO tech support for service professionals.",
+          "source": "https://www.rinnai.us/professional/techsupport (official)",
+          "last_verified": "2025-12-24"
+        }
+      ]
+    },
+    {
+      "id": "ruskin",
+      "name": "Ruskin",
+      "website": "https://www.ruskin.com/About-Us/Contact-Ruskin",
+      "categories": [
+        "hvac"
+      ],
+      "aliases": [
+        "Ruskin Manufacturing"
+      ],
+      "support": [
+        {
+          "category": "hvac",
+          "department": "Support / Main Line",
+          "phone": "+18167617476",
+          "country": "US",
+          "notes": "Ruskin main phone (air control / dampers / louvers).",
+          "source": "ruskin.com contact/FAQ pages",
+          "last_verified": "2025-12-24"
+        }
+      ]
+    },
+    {
+      "id": "ruud",
+      "name": "Ruud",
+      "website": "https://www.ruud.com/",
+      "categories": [
+        "hvac"
+      ],
+      "aliases": [],
+      "support": [
+        {
+          "category": "hvac",
+          "department": "Technical Service",
+          "phone": "+1-800-432-8373",
+          "country": "US",
+          "notes": "Ruud technical service line listed on Ruud contact support page (weekdays).",
+          "source": "https://www.ruud.com/products/water-heaters/tank/contact_support/ (official)",
+          "last_verified": "2025-12-24"
+        }
+      ]
+    },
+    {
+      "id": "samsung-hvac",
+      "name": "Samsung HVAC",
+      "website": "https://www.samsunghvac.com/about",
+      "categories": [
+        "hvac"
+      ],
+      "aliases": [],
+      "support": [
+        {
+          "category": "hvac",
+          "department": "Customer Service / Support",
+          "phone": "+18886996067",
+          "country": "US",
+          "notes": "Samsung HVAC toll-free support line for U.S. and Canada.",
+          "source": "samsunghvac.com contact page",
+          "last_verified": "2025-12-24"
+        }
+      ]
+    },
+    {
+      "id": "spacepak",
+      "name": "SpacePak",
+      "website": "https://www.spacepak.com/",
+      "categories": [
+        "hvac"
+      ],
+      "aliases": [],
+      "support": [
+        {
+          "category": "hvac",
+          "department": "Customer & Technical Service",
+          "phone": "+1-413-564-5530",
+          "country": "US",
+          "notes": "SpacePak Customer and Technical Service phone listed on SpacePak contact page.",
+          "source": "https://www.spacepak.com/contact-us (official)",
+          "last_verified": "2025-12-24"
+        }
+      ]
+    },
+    {
+      "id": "spirotherm",
+      "name": "Spirotherm",
+      "website": "https://www.spirotherm.com/",
+      "categories": [
+        "hvac"
+      ],
+      "aliases": [],
+      "support": [
+        {
+          "category": "hvac",
+          "department": "Support / Contact",
+          "phone": "+16303072662",
+          "country": "US",
+          "notes": "Spirotherm office line for product/application support.",
+          "source": "supplyht.com showroom listing",
+          "last_verified": "2025-12-24"
+        }
+      ]
+    },
+    {
+      "id": "stiebel-eltron",
+      "name": "Stiebel Eltron USA",
+      "website": "https://www.stiebel-eltron-usa.com/contact-us",
+      "categories": [
+        "hvac"
+      ],
+      "aliases": [],
+      "support": [
+        {
+          "category": "hvac",
+          "department": "Technical Support & Parts",
+          "phone": "+18005828423",
+          "country": "US",
+          "notes": "Stiebel Eltron USA technical support staff list includes 800-582-8423 (extensions vary).",
+          "source": "stiebel-eltron-usa.com contact us",
+          "last_verified": "2025-12-24"
+        }
+      ]
+    },
+    {
+      "id": "stulz",
+      "name": "STULZ USA",
+      "website": "https://www.stulz.com/en-us/product-support/technical-support/",
+      "categories": [
+        "hvac"
+      ],
+      "aliases": [],
+      "support": [
+        {
+          "category": "hvac",
+          "department": "Technical Support (24/7/365)",
+          "phone": "+18885291266",
+          "country": "US",
+          "notes": "Factory technical support for customers and technicians in the field (24/7/365).",
+          "source": "stulz.com technical support",
+          "last_verified": "2025-12-24"
+        }
+      ]
+    },
+    {
+      "id": "systemair",
+      "name": "Systemair USA",
+      "website": "https://www.systemair.com/en-us/",
+      "categories": [
+        "hvac",
+        "airflow"
+      ],
+      "aliases": [
+        "Systemair"
+      ],
+      "support": [
+        {
+          "category": "hvac",
+          "department": "Contact & Support (US)",
+          "phone": "+18002637081",
+          "country": "US",
+          "notes": "Systemair USA contact & support phone (office hours).",
+          "source": "systemair.com/en-us/contact-and-support",
+          "last_verified": "2025-12-24"
+        }
+      ]
+    },
+    {
+      "id": "taco",
+      "name": "Taco Comfort Solutions",
+      "website": "https://www.tacocomfort.com/support/tech-support/",
+      "categories": [
+        "hvac"
+      ],
+      "aliases": [
+        "Taco"
+      ],
+      "support": [
+        {
+          "category": "hvac",
+          "department": "Tech Support",
+          "phone": "+14019428000",
+          "country": "US",
+          "notes": "Tech support line listed on Taco's Tech Support page.",
+          "source": "tacocomfort.com tech support",
+          "last_verified": "2025-12-24"
+        }
+      ]
+    },
+    {
+      "id": "tekmar",
+      "name": "tekmar Control Systems (Watts)",
+      "website": "https://www.watts.com/our-story/brands/tekmar",
+      "categories": [
+        "hvac"
+      ],
+      "aliases": [],
+      "support": [
+        {
+          "category": "hvac",
+          "department": "Technical Support",
+          "phone": "+18004383903",
+          "country": "US",
+          "notes": "tekmar HVAC controls technical support line.",
+          "source": "watts.com tekmar contact page",
+          "last_verified": "2025-12-24"
+        }
+      ]
+    },
+    {
+      "id": "temtrol",
+      "name": "Temtrol",
+      "website": "https://portal.temtrol.com/",
+      "categories": [
+        "hvac"
+      ],
+      "aliases": [
+        "Governair"
+      ],
+      "support": [
+        {
+          "category": "hvac",
+          "department": "HelpDesk / Support",
+          "phone": "+14052637286",
+          "country": "US",
+          "notes": "Temtrol portal 'HelpDesk' main phone listed on Temtrol contact page (Nortek Air Solutions).",
+          "source": "portal.temtrol.com/Contact",
+          "last_verified": "2025-12-24"
+        }
+      ]
+    },
+    {
+      "id": "unico",
+      "name": "The Unico System",
+      "website": "https://unicosystem.com/",
+      "categories": [
+        "hvac"
+      ],
+      "aliases": [
+        "Unico"
+      ],
+      "support": [
+        {
+          "category": "hvac",
+          "department": "Technical Support",
+          "phone": "+1-800-527-0896",
+          "country": "US",
+          "notes": "Unico technical support is 800-527-0896 ext. 01.",
+          "source": "https://unicosystem.com/technical-support/ (official)",
+          "last_verified": "2025-12-24"
+        }
+      ]
+    },
+    {
+      "id": "titus-hvac",
+      "name": "Titus HVAC",
+      "website": "https://www.titus-hvac.com/main/contact",
+      "categories": [
+        "hvac"
+      ],
+      "aliases": [
+        "Titus"
+      ],
+      "support": [
+        {
+          "category": "hvac",
+          "department": "Terminal Units / GRD Support",
+          "phone": "+19722124800",
+          "country": "US",
+          "notes": "Titus main support line for terminal units and GRD inquiries.",
+          "source": "titus-hvac.com contact page",
+          "last_verified": "2025-12-24"
+        }
+      ]
+    },
+    {
+      "id": "trane",
+      "name": "Trane",
+      "website": "https://www.trane.com/residential/en/",
+      "categories": [
+        "hvac"
+      ],
+      "aliases": [
+        "American Standard"
+      ],
+      "support": [
+        {
+          "category": "hvac",
+          "department": "Residential Customer Care",
+          "phone": "+18552602975",
+          "country": "US",
+          "notes": "Trane residential assistance line.",
+          "source": "trane.com contact-us page",
+          "last_verified": "2025-12-24"
+        }
+      ]
+    },
+    {
+      "id": "tranter",
+      "name": "Tranter",
+      "website": "https://www.tranter.com/",
+      "categories": [
+        "hvac"
+      ],
+      "aliases": [],
+      "support": [
+        {
+          "category": "hvac",
+          "department": "Service Center (USA)",
+          "phone": "+17134670711",
+          "country": "US",
+          "notes": "Tranter USA regional office/service contact line (heat exchangers).",
+          "source": "tranter.com USA office page",
+          "last_verified": "2025-12-24"
+        }
+      ]
+    },
+    {
+      "id": "triangle-tube",
+      "name": "Triangle Tube",
+      "website": "https://triangletube.com/",
+      "categories": [
+        "hvac"
+      ],
+      "aliases": [],
+      "support": [
+        {
+          "category": "hvac",
+          "department": "Tech Support",
+          "phone": "+18562288881",
+          "country": "US",
+          "notes": "Tech support via main office number; select Option 1 for Tech Support.",
+          "source": "triangletube.com contact us page",
+          "last_verified": "2025-12-24"
+        }
+      ]
+    },
+    {
+      "id": "twin-city-fan",
+      "name": "Twin City Fan & Blower",
+      "website": "https://www.tcf.com/",
+      "categories": [
+        "airflow",
+        "hvac"
+      ],
+      "aliases": [
+        "TCF",
+        "Twin City Fan"
+      ],
+      "support": [
+        {
+          "category": "hvac",
+          "department": "Field Service Hotline",
+          "phone": "+17632783977",
+          "country": "US",
+          "notes": "Twin City Fan field service hotline for installed equipment support.",
+          "source": "tcf.com/contact-us",
+          "last_verified": "2025-12-24"
+        }
+      ]
+    },
+    {
+      "id": "us-boiler",
+      "name": "U.S. Boiler Company",
+      "website": "https://www.usboiler.net/",
+      "categories": [
+        "hvac"
+      ],
+      "aliases": [
+        "Burnham",
+        "Crown",
+        "Peerless"
+      ],
+      "support": [
+        {
+          "category": "hvac",
+          "department": "Tech Support",
+          "phone": "+18884328887",
+          "country": "US",
+          "notes": "U.S. Boiler tech support team number referenced by USB Connect tool support article.",
+          "source": "usboiler.net USB Connect tech support article",
+          "last_verified": "2025-12-24"
+        }
+      ]
+    },
+    {
+      "id": "uponor",
+      "name": "Uponor North America",
+      "website": "https://www.uponor.com/en-us",
+      "categories": [
+        "hvac",
+        "plumbing"
+      ],
+      "aliases": [
+        "Uponor Pro",
+        "Uponor Radiant"
+      ],
+      "support": [
+        {
+          "category": "hvac",
+          "department": "Technical Services",
+          "phone": "+18885947726",
+          "country": "US",
+          "notes": "Radiant/hydronic technical services phone (U.S.).",
+          "source": "https://www.uponor.com/en-us/customer-support",
+          "last_verified": "2025-12-24"
+        }
+      ]
+    },
+    {
+      "id": "utica-boilers",
+      "name": "Utica Boilers",
+      "website": "https://uticaboilers.com/",
+      "categories": [
+        "hvac",
+        "plumbing"
+      ],
+      "aliases": [
+        "Utica"
+      ],
+      "support": [
+        {
+          "category": "hvac",
+          "department": "Technical Support for Installing Contractors",
+          "phone": "+18003255479",
+          "country": "US",
+          "notes": "Utica Boilers contractor technical support (not homeowner assistance).",
+          "source": "uticaboilers.com/contact-us",
+          "last_verified": "2025-12-24"
+        }
+      ]
+    },
+    {
+      "id": "valent",
+      "name": "Valent Air",
+      "website": "https://www.valentair.com/",
+      "categories": [
+        "hvac"
+      ],
+      "aliases": [
+        "Valent Air"
+      ],
+      "support": [
+        {
+          "category": "hvac",
+          "department": "Technical Support",
+          "phone": "+18007898550",
+          "country": "US",
+          "notes": "Valent Air technical support line (DOAS).",
+          "source": "valentair.com contact us page",
+          "last_verified": "2025-12-24"
+        }
+      ]
+    },
+    {
+      "id": "velocity-boiler-works",
+      "name": "Velocity Boiler Works",
+      "website": "https://www.velocityboilerworks.com/",
+      "categories": [
+        "hvac"
+      ],
+      "aliases": [
+        "Crown Boiler"
+      ],
+      "support": [
+        {
+          "category": "hvac",
+          "department": "Technical Support",
+          "phone": "+12155358900",
+          "country": "US",
+          "notes": "Technical Support phone listed by Velocity Boiler Works (sole marketer of Crown Boiler cast iron boiler products).",
+          "source": "velocityboilerworks.com technical support page",
+          "last_verified": "2025-12-24"
+        }
+      ]
+    },
+    {
+      "id": "vertiv-liebert",
+      "name": "Vertiv (Liebert Thermal Management)",
+      "website": "https://www.vertiv.com/",
+      "categories": [
+        "hvac"
+      ],
+      "aliases": [
+        "Liebert"
+      ],
+      "support": [
+        {
+          "category": "hvac",
+          "department": "Liebert Thermal Management Technical Support / Dispatch",
+          "phone": "+18005432778",
+          "country": "US",
+          "notes": "Vertiv/Liebert U.S. technical support/dispatch listed in Liebert system design catalog appendix.",
+          "source": "vertiv.com Liebert CW system design catalog (Appendix A)",
+          "last_verified": "2025-12-24"
+        }
+      ]
+    },
+    {
+      "id": "vertiv",
+      "name": "Vertiv (Liebert)",
+      "website": "https://www.vertiv.com/",
+      "categories": [
+        "hvac"
+      ],
+      "aliases": [],
+      "support": [
+        {
+          "category": "hvac",
+          "department": "Technical Assistance Center (TAC)",
+          "phone": "+18008005260",
+          "country": "US",
+          "notes": "Vertiv Technical Assistance Center (TAC) support line (critical thermal/power).",
+          "source": "vertiv TAC datasheet PDF",
+          "last_verified": "2025-12-24"
+        }
+      ]
+    },
+    {
+      "id": "viessmann",
+      "name": "Viessmann",
+      "website": "https://www.viessmann-us.com/en/contacts/support.html",
+      "categories": [
+        "hvac"
+      ],
+      "aliases": [],
+      "support": [
+        {
+          "category": "hvac",
+          "department": "Heating Contractor Technical Support (TechInfo Center)",
+          "phone": "+18446495886",
+          "country": "US",
+          "notes": "Expanded telephone support for heating contractors (TechInfo Center).",
+          "source": "viessmann-us.com support",
+          "last_verified": "2025-12-24"
+        }
+      ]
+    },
+    {
+      "id": "vilter",
+      "name": "Vilter (Copeland)",
+      "website": "https://www.copeland.com/en-us/brands/vilter",
+      "categories": [
+        "hvac"
+      ],
+      "aliases": [
+        "Copeland Vilter"
+      ],
+      "support": [
+        {
+          "category": "hvac",
+          "department": "Support / Customer Service",
+          "phone": "+18008622677",
+          "country": "US",
+          "notes": "Vilter support/customer service phone.",
+          "source": "copeland.com Vilter support",
+          "last_verified": "2025-12-24"
+        }
+      ]
+    },
+    {
+      "id": "waterfurnace",
+      "name": "WaterFurnace",
+      "website": "https://www.waterfurnace.com/contact-us",
+      "categories": [
+        "hvac"
+      ],
+      "aliases": [],
+      "support": [
+        {
+          "category": "hvac",
+          "department": "Technical Support (Dealers/Distributors)",
+          "phone": "+18889292837",
+          "country": "US",
+          "notes": "Dealer/distributor technical support line (option 1 for tech service listed in distributor contact document).",
+          "source": "GeoStar/WaterFurnace distributor contacts PDF",
+          "last_verified": "2025-12-24"
+        }
+      ]
+    },
+    {
+      "id": "waterfurnace-tech-services",
+      "name": "WaterFurnace (Tech Services)",
+      "website": "https://www.waterfurnace.com/contact-us",
+      "categories": [
+        "hvac"
+      ],
+      "aliases": [],
+      "support": [
+        {
+          "category": "hvac",
+          "department": "Technical Support (Tech Services)",
+          "phone": "+18889292837",
+          "country": "US",
+          "notes": "Tech Services support line (option 1) listed for technical support.",
+          "source": "WaterFurnace distributor contacts PDF",
+          "last_verified": "2025-12-24"
+        }
+      ]
+    },
+    {
+      "id": "watts",
+      "name": "Watts",
+      "website": "https://www.watts.com/",
+      "categories": [
+        "hvac"
+      ],
+      "aliases": [],
+      "support": [
+        {
+          "category": "hvac",
+          "department": "Technical Support",
+          "phone": "+19786896066",
+          "country": "US",
+          "notes": "Watts Plumbing/Heating/Drainage customer support & technical support (press 2).",
+          "source": "watts.com support page",
+          "last_verified": "2025-12-24"
+        }
+      ]
+    },
+    {
+      "id": "weil-mclain",
+      "name": "Weil-McLain",
+      "website": "https://www.weil-mclain.com/contact-us/",
+      "categories": [
+        "hvac"
+      ],
+      "aliases": [],
+      "support": [
+        {
+          "category": "hvac",
+          "department": "Commercial Technical Services",
+          "phone": "+18006542109",
+          "country": "US",
+          "notes": "Weil-McLain commercial technical services phone line (post-install support).",
+          "source": "https://www.weil-mclain.com/contact-us/ (official)",
+          "last_verified": "2025-12-24"
+        }
+      ]
+    },
+    {
+      "id": "white-rodgers",
+      "name": "White-Rodgers (Copeland)",
+      "website": "https://www.copeland.com/en-us/brands/white-rodgers",
+      "categories": [
+        "hvac"
+      ],
+      "aliases": [],
+      "support": [
+        {
+          "category": "hvac",
+          "department": "U.S. Technical Support",
+          "phone": "+18002842925",
+          "country": "US",
+          "notes": "White-Rodgers U.S. technical support line.",
+          "source": "copeland.com White-Rodgers customer support",
+          "last_verified": "2025-12-24"
+        }
+      ]
+    },
+    {
+      "id": "wilo",
+      "name": "Wilo USA",
+      "website": "https://wilo.com/us/en_us/About-Wilo/Contact-Us/",
+      "categories": [
+        "hvac"
+      ],
+      "aliases": [],
+      "support": [
+        {
+          "category": "hvac",
+          "department": "Service & Support",
+          "phone": "+12622046600",
+          "country": "US",
+          "notes": "Wilo Americas HQ contact number used for service & support routing in the USA.",
+          "source": "wilo.com US contact us",
+          "last_verified": "2025-12-24"
+        }
+      ]
+    },
+    {
+      "id": "york",
+      "name": "YORK",
+      "website": "https://www.york.com/",
+      "categories": [
+        "hvac"
+      ],
+      "aliases": [
+        "Johnson Controls",
+        "UPG"
+      ],
+      "support": [
+        {
+          "category": "hvac",
+          "department": "Technical Services (Product/Warranty)",
+          "phone": "+18778747378",
+          "country": "US",
+          "hours": {
+            "timezone": "America/Chicago",
+            "mon_fri": "08:00-17:00"
+          },
+          "notes": "YORK Residential & Light Commercial technical services line.",
+          "source": "york.com residential contact-us page",
+          "last_verified": "2025-12-24"
+        }
+      ]
+    },
+    {
+      "id": "ziehl-abegg",
+      "name": "ZIEHL-ABEGG USA",
+      "website": "https://career.ziehl-abegg.us/inside-ziehl-abegg/our-leadership",
+      "categories": [
+        "hvac"
+      ],
+      "aliases": [],
+      "support": [
+        {
+          "category": "hvac",
+          "department": "Support / Contact",
+          "phone": "+13368349339",
+          "country": "US",
+          "notes": "ZIEHL-ABEGG US contact number for assistance (ventilation/fans/components used in HVAC equipment).",
+          "source": "ziehl-abegg.us (US site contact snippet)",
+          "last_verified": "2025-12-24"
+        }
+      ]
+    }
+  ]
+}

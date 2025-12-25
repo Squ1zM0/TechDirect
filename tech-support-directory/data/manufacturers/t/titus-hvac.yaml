@@ -1,0 +1,15 @@
+id: titus-hvac
+name: Titus HVAC
+website: https://www.titus-hvac.com/main/contact
+categories:
+- hvac
+aliases:
+- Titus
+support:
+- category: hvac
+  department: Terminal Units / GRD Support
+  phone: '+19722124800'
+  country: US
+  notes: Titus main support line for terminal units and GRD inquiries.
+  source: titus-hvac.com contact page
+  last_verified: '2025-12-24'
