@@ -1,0 +1,15 @@
+id: hoffman-controls
+name: Hoffman Controls
+website: https://www.hoffmancontrols.com/Contact%20Us/
+categories:
+- hvac
+aliases: []
+support:
+- category: hvac
+  department: Technical Support
+  phone: "+18884221190"
+  country: US
+  notes: Toll-free number; tech support extension listed on Hoffman Controls Contact
+    Us page.
+  source: hoffmancontrols.com Contact Us
+  last_verified: '2025-12-24'

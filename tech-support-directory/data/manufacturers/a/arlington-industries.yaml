@@ -1,0 +1,14 @@
+id: arlington-industries
+name: Arlington Industries
+website: https://www.aifittings.com/
+categories:
+- electrical
+aliases: []
+support:
+- category: electrical
+  department: Customer Service / Technical Support
+  phone: '+18002334717'
+  country: US
+  notes: Professional/contractor support via Arlington contact page (toll-free).
+  source: https://www.aifittings.com/about/contact
+  last_verified: '2025-12-25'

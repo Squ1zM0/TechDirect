@@ -1,0 +1,15 @@
+id: siemens
+name: Siemens
+website: https://www.siemens.com/us/en.html
+categories:
+- electrical
+aliases:
+- Siemens Industry
+support:
+- category: electrical
+  department: Technical Support
+  phone: "+18003337421"
+  country: US
+  notes: Professional/contractor technical support line (per source).
+  source: https://www.siemens.com/us/en/company/about/contact.html
+  last_verified: '2025-12-25'

@@ -1,0 +1,15 @@
+id: neoperl
+name: Neoperl
+website: https://www.neoperl.com/global/en/company/about-us/locations
+categories:
+- plumbing
+aliases:
+- NEOPERL, Inc.
+support:
+- category: plumbing
+  department: US Office
+  phone: "+12037568891"
+  country: US
+  notes: US office phone listed on Neoperl locations page.
+  source: neoperl.com locations page
+  last_verified: '2025-12-25'

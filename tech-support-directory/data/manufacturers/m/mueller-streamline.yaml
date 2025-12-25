@@ -1,0 +1,17 @@
+id: mueller-streamline
+name: Mueller Streamline Co.
+website: https://muellerstreamline.com/contact/
+categories:
+- plumbing
+- hvac
+aliases:
+- Streamline
+- Mueller Streamline
+support:
+- category: plumbing
+  department: Customer Service / Product Support
+  phone: "+18003488464"
+  country: US
+  notes: Customer Service line listed as 1-800-FITTING.
+  source: muellerstreamline.com find-a-rep/contact pages (Customer Service 1-800-FITTING)
+  last_verified: '2025-12-25'

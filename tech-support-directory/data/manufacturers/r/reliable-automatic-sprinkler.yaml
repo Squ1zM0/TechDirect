@@ -1,0 +1,15 @@
+id: reliable-automatic-sprinkler
+name: Reliable Automatic Sprinkler Co., Inc.
+website: https://www.reliablesprinkler.com/
+categories:
+- plumbing
+aliases:
+- Reliable Sprinkler
+support:
+- category: tech-support
+  department: Product Technology (Technical Support)
+  phone: "+18005572726"
+  country: US
+  notes: Fire sprinkler product technical support.
+  source: https://www.reliablesprinkler.com/contact-us/product-technology/
+  last_verified: '2025-12-25'

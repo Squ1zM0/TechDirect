@@ -1,0 +1,14 @@
+id: prier
+name: PRIER Products
+website: https://www.prier.com
+categories:
+- plumbing
+aliases: []
+support:
+- category: plumbing
+  department: Customer Service
+  phone: "+18003629055"
+  country: US
+  notes: PRIER customer service line used for product support/orders.
+  source: https://www.prier.com/blog/the-importance-of-live-customer-service/
+  last_verified: '2025-12-25'

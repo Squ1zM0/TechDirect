@@ -1,0 +1,15 @@
+id: kraus
+name: KRAUS USA
+website: https://www.kraususa.com/
+categories:
+- plumbing
+aliases:
+- Kraus
+support:
+- category: tech-support
+  department: Customer Service / Product Support
+  phone: "+18007750703"
+  country: US
+  notes: Product support (sinks/faucets).
+  source: https://www.kraususa.com/contact-us/
+  last_verified: '2025-12-25'

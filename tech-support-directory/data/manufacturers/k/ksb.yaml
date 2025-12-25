@@ -1,0 +1,15 @@
+id: ksb
+name: KSB
+website: https://www.ksb.com/en-us
+categories:
+- hvac
+aliases:
+- KSB Pumps
+support:
+- category: technical
+  department: Customer Service / Support
+  phone: "+17068631011"
+  country: US
+  notes: KSB USA contact (GIW listed; use for US support routing)
+  source: https://www.ksb.com/en-us/contact
+  last_verified: '2025-12-24'

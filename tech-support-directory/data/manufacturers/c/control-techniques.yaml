@@ -1,0 +1,18 @@
+id: "control-techniques"
+name: "Control Techniques (Nidec Drives)"
+categories:
+  - "electrical"
+aliases:
+  - "Nidec Control Techniques"
+  - "Control Techniques"
+website: "https://acim.nidec.com/en-US/drives/control-techniques"
+support:
+  - category: "electrical"
+    department: "Technical Support"
+    phone: "+18008932321"
+    country: "US"
+    hours:
+      timezone: "CST"
+      mon_fri: "8 AM – 6 PM"
+    source: "https://acim.nidec.com/en-US/drives/control-techniques/services/support"
+    last_verified: "2025-12-25"

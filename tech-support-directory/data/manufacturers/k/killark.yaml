@@ -1,0 +1,14 @@
+id: "killark"
+name: "Killark (Hubbell)"
+categories:
+  - "electrical"
+aliases:
+  - "Killark"
+website: "https://www.hubbell.com/killark/en"
+support:
+  - category: "electrical"
+    department: "Customer Service / Support"
+    phone: "+18005310460"
+    country: "US"
+    source: "https://www.hubbell.com/killark/en/contact-us"
+    last_verified: "2025-12-25"

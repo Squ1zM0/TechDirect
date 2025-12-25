@@ -1,0 +1,15 @@
+id: ips-plumbing
+name: IPS Corp Plumbing
+website: https://ipsplumbingproducts.com/
+categories:
+- plumbing
+aliases: []
+support:
+- category: plumbing
+  department: Technical Support
+  phone: "+18008888312"
+  country: US
+  notes: Customer service / technical support line for IPS plumbing products.
+  source: ipsplumbingproducts.com contact page
+  last_verified: '2025-12-25'
+  regions: []

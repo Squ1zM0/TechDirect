@@ -1,0 +1,13 @@
+id: mitsubishi-electric-automation
+name: Mitsubishi Electric Automation
+website: https://us.mitsubishielectric.com/fa/en/
+categories:
+- electrical
+support:
+- category: electrical
+  department: Technical Support
+  phone: '+18474782500'
+  country: US
+  notes: Mitsubishi Electric Automation technical support (phone technical support).
+  source: https://us.mitsubishielectric.com/fa/en/about-us/contact/
+  last_verified: '2025-12-25'

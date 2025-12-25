@@ -1,0 +1,15 @@
+id: wayne-pumps
+name: WAYNE Pumps
+website: https://www.waynepumps.com/
+categories:
+- plumbing
+aliases: []
+support:
+- category: plumbing
+  department: Customer Support
+  phone: "+18002370987"
+  country: US
+  notes: Customer support line.
+  source: waynepumps.com contact page
+  last_verified: '2025-12-25'
+  regions: []

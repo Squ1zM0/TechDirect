@@ -1,0 +1,15 @@
+id: lasco-fittings
+name: LASCO Fittings, Inc.
+website: https://plumbingnet.com/lasco-fittings-inc/
+categories:
+- plumbing
+aliases:
+- lasco
+support:
+- category: plumbing
+  department: Main
+  phone: "+18007762756"
+  country: US
+  notes: Manufacturer listing phone.
+  source: https://plumbingnet.com/lasco-fittings-inc/
+  last_verified: '2025-12-25'

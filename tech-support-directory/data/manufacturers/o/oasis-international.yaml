@@ -1,0 +1,16 @@
+id: oasis-international
+name: OASIS International
+website: https://www.oasiscoolers.com/contact-us
+categories:
+- plumbing
+aliases:
+- OASIS
+- Oasis Coolers
+support:
+- category: plumbing
+  department: Technical Support
+  phone: "+18006462747"
+  country: US
+  notes: Telephone support number listed on OASIS contact page.
+  source: oasiscoolers.com contact us page
+  last_verified: '2025-12-25'

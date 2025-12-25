@@ -1,0 +1,15 @@
+id: rite-boiler
+name: Rite Boilers
+website: https://www.riteboiler.com
+categories:
+- hvac
+aliases:
+- Rite Boiler
+support:
+- category: technical
+  department: Technical Support
+  phone: "+15628622135"
+  country: US
+  notes: Commercial boilers
+  source: https://www.riteboiler.com/contact
+  last_verified: '2025-12-24'

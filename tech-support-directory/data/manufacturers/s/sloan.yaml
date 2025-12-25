@@ -1,0 +1,16 @@
+id: sloan
+name: Sloan
+website: https://www.sloan.com/company/support/contact-us
+categories:
+- plumbing
+aliases:
+- Sloan Valve
+support:
+- category: plumbing
+  department: Technical Support
+  phone: "+18887562614"
+  country: US
+  notes: Sloan technical support line.
+  source: sloan.com support contact page
+  last_verified: '2025-12-24'
+  regions: []

@@ -1,0 +1,19 @@
+id: georg-fischer
+name: Georg Fischer (GF Piping Systems)
+website: https://www.gfpiping.com/
+categories:
+- plumbing
+- piping-systems
+aliases:
+- GF Piping Systems
+- Georg Fischer Piping Systems
+support:
+- category: plumbing
+  department: Technical Support (GF Piping Systems US)
+  phone: "+18008544090"
+  country: US
+  regions:
+  - US
+  notes: Toll-free listed on GF Piping Systems / Industrial site contact information.
+  source: https://www.gfpiping.com/content/dam/gf/global/master/documents/contact/gf_piping_systems_contacts_us_en.pdf
+  last_verified: '2025-12-25'

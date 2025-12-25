@@ -1,0 +1,16 @@
+id: american-marsh
+name: American-Marsh Pumps
+website: https://wilo.com/us/en_us/
+categories:
+- hvac
+- plumbing
+aliases:
+- American-Marsh
+support:
+- category: hvac
+  department: Wilo USA (American-Marsh brand)
+  phone: "+12622046600"
+  country: US
+  notes: Wilo USA main line (covers Wilo brands including American-Marsh).
+  source: https://wilo.com/us/en_us/About-Wilo/Company-Information/Contact-Us/
+  last_verified: '2025-12-24'

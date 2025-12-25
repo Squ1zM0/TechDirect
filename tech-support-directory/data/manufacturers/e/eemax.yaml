@@ -1,0 +1,15 @@
+id: eemax
+name: Eemax
+website: https://www.eemaxtankless.com/help/
+categories:
+- plumbing
+aliases:
+- Eemax Tankless
+support:
+- category: plumbing
+  department: Technical Support
+  phone: "+18005436163"
+  country: US
+  notes: Eemax technical support for tankless electric water heaters.
+  source: eemaxtankless.com help/FAQ page
+  last_verified: '2025-12-25'

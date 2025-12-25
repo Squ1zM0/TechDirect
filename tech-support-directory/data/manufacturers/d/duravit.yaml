@@ -1,0 +1,14 @@
+id: duravit
+name: Duravit USA
+website: https://www.duravit.us
+categories:
+- plumbing
+aliases: []
+support:
+- category: plumbing
+  department: Technical Support
+  phone: "+18883872848"
+  country: US
+  notes: Technical support (888-DURAVIT).
+  source: https://www.duravit.us/service/company/contact.us-en.html
+  last_verified: '2025-12-25'

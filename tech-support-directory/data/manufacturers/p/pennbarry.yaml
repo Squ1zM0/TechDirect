@@ -1,0 +1,16 @@
+id: pennbarry
+name: PennBarry
+website: https://www.pennbarry.com/
+categories:
+- hvac
+aliases:
+- Penn Barry
+support:
+- category: hvac
+  department: Technical Support
+  phone: "+19722124700"
+  country: US
+  notes: Technical support number published in PennBarry PDQ QuickShip document.
+  source: PennBarry PDQ QuickShip Program PDF
+  last_verified: '2025-12-24'
+  regions: []

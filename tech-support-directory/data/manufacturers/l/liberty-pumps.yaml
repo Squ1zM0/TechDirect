@@ -1,0 +1,17 @@
+id: liberty-pumps
+name: Liberty Pumps
+website: https://www.libertypumps.com/About/Contact-Us
+categories:
+- plumbing
+aliases:
+- Liberty
+support:
+- category: plumbing
+  department: Customer Service / Technical Support
+  phone: "+18005432550"
+  country: US
+  notes: Liberty Pumps contact line commonly used for customer service and technical
+    support.
+  source: libertypumps.com contact/notification pages
+  last_verified: '2025-12-24'
+  regions: []

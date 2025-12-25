@@ -1,0 +1,16 @@
+id: state-water-heaters
+name: State Water Heaters
+website: https://www.statewaterheaters.com/
+categories:
+- plumbing
+- hydronics
+aliases:
+- State
+support:
+- category: tech-support
+  department: Tech Support
+  phone: "+18775520010"
+  country: US
+  notes: Water heater technical support (incl. commercial).
+  source: https://www.statewaterheaters.com/support/contact-tech-support.html
+  last_verified: '2025-12-25'

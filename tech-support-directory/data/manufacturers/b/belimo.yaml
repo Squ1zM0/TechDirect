@@ -1,0 +1,15 @@
+id: belimo
+name: Belimo
+website: https://www.belimo.com/us/en_US/
+categories:
+- hvac
+aliases:
+- BELIMO U.S. Inc.
+support:
+- category: hvac
+  department: Technical Support
+  phone: "+18005439038"
+  country: US
+  notes: Commercial HVAC actuators/valves tech support (use prompts as needed).
+  source: https://www.belimo.com/us/en_US/contact/channels/belimo-contacts
+  last_verified: '2025-12-24'

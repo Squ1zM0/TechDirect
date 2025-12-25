@@ -1,0 +1,15 @@
+id: krowne
+name: Krowne
+website: https://krowne.com/contact-us/
+categories:
+- plumbing
+aliases:
+- Krowne Metal Corporation
+support:
+- category: plumbing
+  department: Customer / Technical Support
+  phone: "+18006310442"
+  country: US
+  notes: Main phone listed on Krowne contact page.
+  source: krowne.com contact page
+  last_verified: '2025-12-25'

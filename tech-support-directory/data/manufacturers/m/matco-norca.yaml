@@ -1,0 +1,14 @@
+id: matco-norca
+name: Matco-Norca
+website: https://www.matco-norca.com
+categories:
+- plumbing
+aliases: []
+support:
+- category: plumbing
+  department: Customer Service
+  phone: "+18006882583"
+  country: US
+  notes: Corporate customer service for plumbing/PVF products.
+  source: https://www.matco-norca.com/contact-us/
+  last_verified: '2025-12-25'

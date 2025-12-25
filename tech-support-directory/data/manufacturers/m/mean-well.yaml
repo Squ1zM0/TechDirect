@@ -1,0 +1,15 @@
+id: "mean-well"
+name: "MEAN WELL USA"
+categories:
+  - "electrical"
+aliases:
+  - "Mean Well"
+website: "https://www.meanwellusa.com/"
+support:
+  - category: "electrical"
+    department: "Engineering / Technical Support"
+    phone: "+18336357201"
+    country: "US"
+    notes: "North American HQ; request engineering/technical support."
+    source: "https://www.meanwellusa.com/contact.aspx"
+    last_verified: "2025-12-25"

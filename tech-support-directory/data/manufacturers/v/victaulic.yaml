@@ -1,0 +1,15 @@
+id: victaulic
+name: Victaulic
+website: https://www.victaulic.com/
+categories:
+- plumbing
+aliases:
+- Victaulic Company
+support:
+- category: plumbing
+  department: Customer/Technical Support (U.S.)
+  phone: "+18007425842"
+  country: US
+  notes: U.S. support line listed as 1-800-PICK-VIC.
+  source: https://www.victaulic.com/systems/firelock-nxt-valve-solutions/
+  last_verified: '2025-12-24'

@@ -1,0 +1,16 @@
+id: american-water-heaters
+name: American Water Heaters
+website: https://www.americanwaterheater.com/
+categories:
+- plumbing
+- hydronics
+aliases:
+- American Water Heater
+support:
+- category: tech-support
+  department: Polaris / Commercial Tech Support
+  phone: "+18004569805"
+  country: US
+  notes: Commercial/Polaris technical support line.
+  source: https://www.americanwaterheater.com/contact
+  last_verified: '2025-12-25'

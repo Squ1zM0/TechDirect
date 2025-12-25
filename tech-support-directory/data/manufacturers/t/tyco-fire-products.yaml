@@ -1,0 +1,23 @@
+id: tyco-fire-products
+name: Tyco Fire Products
+website: https://www.tyco-fire.com/
+categories:
+- plumbing
+aliases:
+- Tyco Fire
+- Tyco Fire Protection Products
+support:
+- category: tech-support
+  department: Customer Service (North America)
+  phone: "+18008626785"
+  country: US
+  notes: Customer service (Tyco Fire Protection Products / Grinnell NA contact).
+  source: https://www.grinnell.com/index.php?section=emea-mech-page-contactus
+  last_verified: '2025-12-25'
+- category: tech-support
+  department: Technical Services (North America)
+  phone: "+14017818220"
+  country: US
+  notes: Technical services (Tyco Fire Protection Products / Grinnell NA contact).
+  source: https://www.grinnell.com/index.php?section=emea-mech-page-contactus
+  last_verified: '2025-12-25'

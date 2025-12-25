@@ -1,0 +1,15 @@
+id: acv
+name: ACV
+website: https://www.acv.com
+categories:
+- hvac
+aliases:
+- ACV UK & Ireland
+support:
+- category: technical
+  department: Service & Support
+  phone: "+441383820100"
+  country: GB
+  notes: UK & Ireland office
+  source: https://www.acv.com/gb/contact
+  last_verified: '2025-12-24'

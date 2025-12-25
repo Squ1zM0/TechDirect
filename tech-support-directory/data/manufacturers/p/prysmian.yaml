@@ -1,0 +1,17 @@
+id: prysmian
+name: Prysmian Group North America (General Cable / Draka)
+website: https://na.prysmian.com/
+categories:
+- electrical
+aliases:
+- General Cable
+- Draka
+- Encore Wire
+support:
+- category: electrical
+  department: Customer Service / Product Support
+  phone: '+18595728000'
+  country: US
+  notes: Prysmian North America main phone (used for product/customer support routing).
+  source: https://na.prysmian.com/contact-us
+  last_verified: '2025-12-25'

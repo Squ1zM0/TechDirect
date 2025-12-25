@@ -1,0 +1,15 @@
+id: giacomini
+name: Giacomini
+website: https://www.giacomini.com
+categories:
+- hydronics
+- plumbing
+aliases: []
+support:
+- category: hydronics
+  department: Headquarter technical support
+  phone: "+390322923111"
+  country: IT
+  notes: Headquarter sales & technical support (international).
+  source: https://www.giacomini.com/contact-us
+  last_verified: '2025-12-25'

@@ -1,0 +1,16 @@
+id: wade-drains
+name: Wade Drains
+website: https://www.wadedrains.com/
+categories:
+- plumbing
+aliases:
+- Wade
+support:
+- category: plumbing
+  department: Technical Support / Customer Service
+  phone: "+18006389537"
+  country: US
+  notes: Manufacturer contact number shown on Wade product specification sheets.
+  source: Wade Drains specification sheet PDFs (e.g., Unilog/Protech/First Supply)
+  last_verified: '2025-12-25'
+  regions: []

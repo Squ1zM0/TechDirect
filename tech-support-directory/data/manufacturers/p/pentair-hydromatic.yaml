@@ -1,0 +1,23 @@
+id: pentair-hydromatic
+name: Pentair - Hydromatic
+website: https://www.pentair.com/en-us/flow/contact-us/commercial-support-contact-us.html
+categories:
+- plumbing
+aliases:
+- Hydromatic
+- Pentair Hydromatic
+support:
+- category: plumbing
+  department: Technical Support
+  phone: "+18889578677"
+  country: US
+  notes: Hydromatic support line (commercial support page).
+  source: pentair.com commercial support contact us page (Hydromatic)
+  last_verified: '2025-12-25'
+- category: plumbing
+  department: Wastewater Tech Support
+  phone: "+18552748947"
+  country: US
+  notes: Wastewater tech support line for Hydromatic (commercial support page).
+  source: pentair.com commercial support contact us page (Hydromatic Wastewater)
+  last_verified: '2025-12-25'

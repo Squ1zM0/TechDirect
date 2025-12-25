@@ -1,0 +1,15 @@
+id: midco-international
+name: Midco International
+website: https://midcointernational.com/contact-us/
+categories:
+- hvac
+aliases: []
+support:
+- category: hvac
+  department: Sales / Support (via rep for technical issues)
+  phone: "+18667050514"
+  country: US
+  notes: Toll-free contact number; site notes technical support issues are routed
+    through sales rep.
+  source: midcointernational.com Contact Us
+  last_verified: '2025-12-24'

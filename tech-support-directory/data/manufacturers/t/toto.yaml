@@ -1,0 +1,16 @@
+id: toto
+name: TOTO
+website: https://www.totousa.com/about-toto/contact-us
+categories:
+- plumbing
+aliases:
+- TOTO USA
+support:
+- category: plumbing
+  department: Customer Service / Technical Support
+  phone: "+18882958134"
+  country: US
+  notes: TOTO USA customer service line (used for technical support).
+  source: totousa.com contact us page
+  last_verified: '2025-12-24'
+  regions: []

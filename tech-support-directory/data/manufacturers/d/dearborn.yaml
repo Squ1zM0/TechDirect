@@ -1,0 +1,15 @@
+id: dearborn
+name: Dearborn (Oatey)
+website: https://www.oatey.com/brands/dearborn
+categories:
+- plumbing
+aliases: []
+support:
+- category: plumbing
+  department: Technical Support
+  phone: "+18003219532"
+  country: US
+  notes: Dearborn brand support via Oatey customer service.
+  source: oatey.com contact page
+  last_verified: '2025-12-25'
+  regions: []

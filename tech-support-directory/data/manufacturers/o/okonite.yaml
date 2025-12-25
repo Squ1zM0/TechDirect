@@ -1,0 +1,13 @@
+id: okonite
+name: The Okonite Company
+website: https://www.okonite.com/
+categories:
+- electrical
+support:
+- category: electrical
+  department: Customer Service / Technical Support
+  phone: '+12018250300'
+  country: US
+  notes: Okonite main phone listed by NEMA directory for the manufacturer (cable).
+  source: https://www.nema.org/membership/manufacturers/view/the-okonite-company
+  last_verified: '2025-12-25'

@@ -1,0 +1,14 @@
+id: speakman
+name: Speakman
+website: https://speakman.com/parts-and-support/contact/
+categories:
+- plumbing
+aliases: []
+support:
+- category: plumbing
+  department: Product Technical Support
+  phone: "+18004369172"
+  country: US
+  notes: Speakman product technical support phone listed on Speakman contact page.
+  source: https://speakman.com/parts-and-support/contact/ (official)
+  last_verified: '2025-12-24'

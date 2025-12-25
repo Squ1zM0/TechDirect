@@ -1,0 +1,15 @@
+id: symmons
+name: Symmons
+website: https://www.symmons.com/support/
+categories:
+- plumbing
+aliases:
+- Symmons Inc.
+support:
+- category: plumbing
+  department: Customer Service / Technical Support
+  phone: "+18007966667"
+  country: US
+  notes: Symmons customer service help line (1-800-SYMMONS).
+  source: symmons.com support page
+  last_verified: '2025-12-24'

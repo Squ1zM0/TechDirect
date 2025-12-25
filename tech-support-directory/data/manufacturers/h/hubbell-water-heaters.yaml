@@ -1,0 +1,15 @@
+id: hubbell-water-heaters
+name: Hubbell Water Heaters
+website: https://hubbellheaters.com/
+categories:
+- hvac
+aliases:
+- Hubbell Heaters
+support:
+- category: hvac
+  department: Tech Support
+  phone: "+12033782422"
+  country: US
+  notes: Commercial water heating tech support.
+  source: https://hubbellheaters.com/contact/sales?tab=tech-support
+  last_verified: '2025-12-24'

@@ -1,0 +1,13 @@
+id: bender
+name: Bender (North America)
+website: https://www.benderinc.com/
+categories:
+- electrical
+support:
+- category: electrical
+  department: Service Hotline / Technical Support
+  phone: '+18003564266'
+  country: US
+  notes: Bender North America service hotline.
+  source: https://www.benderinc.com/contact/contact-information/
+  last_verified: '2025-12-25'

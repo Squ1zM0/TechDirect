@@ -1,0 +1,14 @@
+id: cantex
+name: CANTEX
+website: https://www.cantexinc.com/
+categories:
+- electrical
+support:
+- category: electrical
+  department: Customer Service / Technical Support
+  phone: '+18172157000'
+  country: US
+  notes: Primary contact number listed by CANTEX for agent/help requests; used for
+    product/customer support.
+  source: https://www.cantexinc.com/contact/agent-search
+  last_verified: '2025-12-25'

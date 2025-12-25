@@ -1,0 +1,15 @@
+id: just-manufacturing
+name: Just Manufacturing
+website: https://www.justmfg.com/us/en/contact-us.html
+categories:
+- plumbing
+aliases:
+- Just Mfg
+support:
+- category: plumbing
+  department: Customer Care / Support
+  phone: "+18476785151"
+  country: US
+  notes: Customer Care phone listed on contact page (Mon–Fri hours).
+  source: justmfg.com contact page
+  last_verified: '2025-12-25'

@@ -1,0 +1,15 @@
+id: korky
+name: Korky (Lavelle Industries)
+website: https://www.korky.com
+categories:
+- plumbing
+aliases:
+- Lavelle Industries
+support:
+- category: plumbing
+  department: Customer Service / Product Support
+  phone: "+12627632434"
+  country: US
+  notes: Support phone listed on Korky support page.
+  source: korky.com support page
+  last_verified: '2025-12-25'

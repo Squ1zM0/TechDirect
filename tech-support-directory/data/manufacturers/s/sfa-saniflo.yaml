@@ -1,0 +1,15 @@
+id: sfa-saniflo
+name: SFA Saniflo
+website: https://www.sfasaniflo.com/en/contact-us
+categories:
+- plumbing
+aliases:
+- Saniflo
+support:
+- category: plumbing
+  department: Technical Support
+  phone: "+18005718191"
+  country: US
+  notes: Tech/SAV phone listed on SFA Saniflo contact page (Edison, NJ).
+  source: sfasaniflo.com contact us page
+  last_verified: '2025-12-25'

@@ -1,0 +1,13 @@
+id: bitzer
+name: "BITZER"
+website: https://www.bitzer.de/us/us/contact/
+categories: [hvac]
+aliases: ["BITZER US", "BITZER U.S."]
+support:
+  - category: hvac
+    department: "Technical Support / Customer Service (BITZER US)"
+    phone: "+18884624893"
+    country: US
+    notes: "24/7 emergency QuickShip line (1-888-GO-BITZER)."
+    source: "bitzer.de QuickShip / contact info"
+    last_verified: "2025-12-24"

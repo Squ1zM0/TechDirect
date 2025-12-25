@@ -1,0 +1,16 @@
+id: ay-mcdonald
+name: A.Y. McDonald
+website: https://www.aymcdonald.com/en/content/contact-us
+categories:
+- plumbing
+aliases:
+- A. Y. McDonald
+support:
+- category: plumbing
+  department: Customer Service
+  phone: "+18002922737"
+  country: US
+  notes: Customer service for product assistance (includes plumbing line).
+  source: aymcdonald.com contact us page
+  last_verified: '2025-12-24'
+  regions: []

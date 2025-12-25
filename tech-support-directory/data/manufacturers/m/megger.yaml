@@ -1,0 +1,13 @@
+id: megger
+name: Megger
+website: https://www.megger.com/en-us
+categories:
+- electrical
+support:
+- category: electrical
+  department: Technical Service & Support
+  phone: '+16106768578'
+  country: US
+  notes: Megger US service/support phone listed on Megger support page.
+  source: https://www.megger.com/en-us/support
+  last_verified: '2025-12-25'

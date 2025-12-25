@@ -1,0 +1,17 @@
+id: ward-manufacturing
+name: Ward Manufacturing (WardFLEX / Ward Fittings)
+website: https://portal.wardmfg.com/Account/LogOn
+categories:
+- plumbing
+aliases:
+- Ward Manufacturing
+- WardFLEX
+- Ward Fittings
+support:
+- category: plumbing
+  department: Customer Service / Technical Support
+  phone: "+18002481027"
+  country: US
+  notes: Ward customer service line for fittings and related products.
+  source: portal.wardmfg.com login page (CALL 1-800-248-1027)
+  last_verified: '2025-12-25'

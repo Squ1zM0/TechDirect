@@ -1,0 +1,16 @@
+id: plasma-air
+name: Plasma Air
+website: https://www.plasma-air.com/
+categories:
+- hvac
+aliases:
+- Plasma Air International
+support:
+- category: hvac
+  department: Customer Support
+  phone: "+12036620800"
+  country: US
+  notes: Customer support contact line for products.
+  source: plasma-air.com contact page
+  last_verified: '2025-12-24'
+  regions: []

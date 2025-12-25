@@ -1,0 +1,15 @@
+id: molex
+name: Molex
+website: https://www.molex.com/
+categories:
+- electrical
+aliases:
+- Molex Industrial Solutions
+support:
+- category: electrical
+  department: Automation Technical Support
+  phone: "+18002257724"
+  country: US
+  notes: Automation/industrial solutions tech support (options vary by product group).
+  source: https://www.content.molex.com/dxresources/810e/810e5a88-cf36-485a-a1fe-2c521dd25402.pdf
+  last_verified: '2025-12-25'

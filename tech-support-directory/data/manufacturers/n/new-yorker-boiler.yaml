@@ -1,0 +1,17 @@
+id: new-yorker-boiler
+name: New Yorker Boiler
+website: https://newyorkerboiler.com/
+categories:
+- hvac
+aliases:
+- New Yorker
+support:
+- category: hvac
+  department: Customer Service / Product Support
+  phone: "+18005354679"
+  country: US
+  notes: General customer service/product inquiries line for New Yorker Boiler (burnham
+    holdings brand).
+  source: CPSC recall notice / industry directory listing toll-free number
+  last_verified: '2025-12-24'
+  regions: []

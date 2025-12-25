@@ -1,0 +1,16 @@
+id: myers
+name: Myers (Pentair)
+website: https://www.pentair.com/en-us/flow/myers/myers-resources.html
+categories:
+- plumbing
+aliases:
+- Pentair Myers
+- Myers Pump
+support:
+- category: plumbing
+  department: Customer Service / Support
+  phone: "+18889878677"
+  country: US
+  notes: Pentair Myers customer support line listed on Myers resources page.
+  source: https://www.pentair.com/en-us/flow/myers/myers-resources.html
+  last_verified: '2025-12-25'

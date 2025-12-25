@@ -1,0 +1,16 @@
+id: superior-boiler
+name: Superior Boiler
+website: https://www.superiorboiler.com/
+categories:
+- hvac
+aliases:
+- Superior Boiler Works
+- Superior Boiler Inc
+support:
+- category: hvac
+  department: Technical Support / Contact Us
+  phone: "+16206626693"
+  country: US
+  notes: Superior Boiler main contact number for support routing.
+  source: https://www.superiorboiler.com/contact-us/
+  last_verified: '2025-12-24'

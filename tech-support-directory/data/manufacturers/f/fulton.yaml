@@ -1,0 +1,16 @@
+id: fulton
+name: Fulton
+website: https://www.fulton.com/
+categories:
+- hvac
+aliases:
+- Fulton Boiler Works
+- Fulton Heating Solutions
+support:
+- category: hvac
+  department: Technical Support / Service
+  phone: "+13152985121"
+  country: US
+  notes: Main line; after-hours emergency assistance routes via prompts.
+  source: https://www.fulton.com/contact/
+  last_verified: '2025-12-24'

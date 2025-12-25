@@ -1,0 +1,16 @@
+id: legrand
+name: Legrand
+website: https://www.legrand.us
+categories:
+- electrical
+aliases:
+- Pass & Seymour
+- Wiremold
+support:
+- category: electrical
+  department: Technical Support
+  phone: "+18449573783"
+  country: US
+  notes: Professional/contractor technical support line (per source).
+  source: https://legrand.my.site.com/knowledgebase/s/article/Additional-Contacting-Wiremold-Technical-Support
+  last_verified: '2025-12-25'

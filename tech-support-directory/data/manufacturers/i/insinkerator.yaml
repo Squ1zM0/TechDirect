@@ -1,0 +1,16 @@
+id: insinkerator
+name: InSinkErator
+website: https://insinkerator.emerson.com/en-us/support/contact-us
+categories:
+- plumbing
+aliases:
+- In Sink Erator
+- Emerson InSinkErator
+support:
+- category: plumbing
+  department: Commercial / Wholesale Technical Support
+  phone: "+18008458345"
+  country: US
+  notes: Commercial/wholesale support line (installer/pro oriented).
+  source: insinkerator.emerson.com contact us page
+  last_verified: '2025-12-25'

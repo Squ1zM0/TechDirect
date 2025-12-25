@@ -1,0 +1,16 @@
+id: ts-brass
+name: T&S Brass
+website: https://www.tsbrass.com/contact-us
+categories:
+- plumbing
+aliases:
+- T&S Brass and Bronze Works, Inc.
+- T&S Brass and Bronze Works
+support:
+- category: plumbing
+  department: Customer Service / Technical Support
+  phone: "+18004764103"
+  country: US
+  notes: T&S Brass customer service line for assistance and support.
+  source: tsbrass.com contact us page
+  last_verified: '2025-12-24'

@@ -1,0 +1,17 @@
+id: abb-installation-products
+name: ABB Installation Products (Carlon / T&B)
+website: https://new.abb.com/low-voltage/products/installation-products
+categories:
+- electrical
+aliases:
+- Carlon
+- Thomas & Betts (T&B)
+support:
+- category: electrical
+  department: Technical Support
+  phone: '+18888623289'
+  country: US
+  notes: ABB Installation Products technical support line (covers Carlon/T&B installation
+    products).
+  source: https://electrification.us.abb.com/customer-service
+  last_verified: '2025-12-25'

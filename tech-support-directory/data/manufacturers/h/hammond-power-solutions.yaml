@@ -1,0 +1,15 @@
+id: hammond-power-solutions
+name: Hammond Power Solutions
+website: https://americas.hammondpowersolutions.com/
+categories:
+- electrical
+aliases:
+- HPS
+support:
+- category: electrical
+  department: Technical Support (USA)
+  phone: "+18667054684"
+  country: US
+  notes: U.S.A technical support number listed by HPS.
+  source: https://americas.hammondpowersolutions.com/resources/technical-support
+  last_verified: '2025-12-25'

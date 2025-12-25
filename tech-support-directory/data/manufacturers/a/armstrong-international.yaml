@@ -1,0 +1,15 @@
+id: armstrong-international
+name: Armstrong International
+website: https://armstronginternational.com/
+categories:
+- hvac
+aliases: []
+support:
+- category: hvac
+  department: Technical Questions / Application Help
+  phone: "+14503782655"
+  country: CA
+  notes: Primary phone number listed on Armstrong International contact list; for
+    technical questions and application help.
+  source: armstronginternational.com Armstrong Contact List PDF
+  last_verified: '2025-12-24'

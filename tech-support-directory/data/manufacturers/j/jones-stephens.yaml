@@ -1,0 +1,15 @@
+id: jones-stephens
+name: Jones Stephens
+website: https://www.jonesstephens.com/
+categories:
+- plumbing
+aliases: []
+support:
+- category: plumbing
+  department: Technical Support
+  phone: "+18003556637"
+  country: US
+  notes: Customer service/parts support line (repair parts catalog).
+  source: jonesstephens.com repair parts catalog PDF
+  last_verified: '2025-12-25'
+  regions: []

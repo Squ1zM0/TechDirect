@@ -1,0 +1,15 @@
+id: pentek
+name: Pentek (Pentair)
+website: https://www.pentair.com/en-us/education-support/contact-us/flow-technologies-contact-us.html
+categories:
+- plumbing
+aliases:
+- Pentair Pentek
+support:
+- category: plumbing
+  department: Pro Support
+  phone: "+18669736835"
+  country: US
+  notes: Pentair Flow Pro Support line for Pentek.
+  source: https://www.pentair.com/en-us/education-support/contact-us/flow-technologies-contact-us.html
+  last_verified: '2025-12-25'

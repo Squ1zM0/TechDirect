@@ -1,0 +1,16 @@
+id: charlotte-pipe
+name: Charlotte Pipe
+website: https://www.charlottepipe.com/
+categories:
+- plumbing
+aliases:
+- Charlotte Pipe and Foundry
+support:
+- category: plumbing
+  department: Customer Service / Technical Support
+  phone: "+18005724199"
+  country: US
+  notes: Main customer service line used for support and technical questions.
+  source: charlottepipe.com contact/customer service references
+  last_verified: '2025-12-24'
+  regions: []

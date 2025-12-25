@@ -1,0 +1,23 @@
+id: grohe
+name: GROHE
+website: https://www.grohe.us/pages/contact-us
+categories:
+- plumbing
+aliases: []
+support:
+- category: plumbing
+  department: Technical Support (Consumers & Pros)
+  phone: "+18558154726"
+  country: US
+  notes: Support line for consumers and professionals (technical + warranty).
+  source: grohe.us contact us page
+  last_verified: '2025-12-24'
+  regions: []
+- category: plumbing
+  department: Wholesaler/Trade Support
+  phone: "+18004447643"
+  country: US
+  notes: Wholesalers/trade/retail account information line.
+  source: grohe.us contact us page
+  last_verified: '2025-12-24'
+  regions: []

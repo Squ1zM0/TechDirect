@@ -1,0 +1,18 @@
+id: nupi-americas
+name: Nupi Americas
+website: https://www.nupiamericas.com/find-a-rep
+categories:
+- plumbing
+- hydronics
+aliases:
+- NUPI
+- NIRON
+- Smartflex
+support:
+- category: plumbing
+  department: Support / Main Office
+  phone: "+18033983579"
+  country: US
+  notes: Main office phone listed on Nupi Americas site (for reps/support).
+  source: nupiamericas.com find-a-rep page
+  last_verified: '2025-12-25'

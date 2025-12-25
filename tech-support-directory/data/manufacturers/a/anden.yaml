@@ -1,0 +1,17 @@
+id: anden
+name: Anden
+website: https://www.anden.com/
+categories:
+- hvac
+aliases:
+- Anden Dehumidification
+- Anden Pro
+support:
+- category: hvac
+  department: Technical Support / Sizing Help
+  phone: "+18009723710"
+  country: US
+  notes: For professional sizing or technical support (per Anden site footer / contact).
+  source: anden.com site footer / contact pages
+  last_verified: '2025-12-24'
+  regions: []

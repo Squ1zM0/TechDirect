@@ -1,0 +1,15 @@
+id: "lapp"
+name: "LAPP North America"
+categories:
+  - "electrical"
+aliases:
+  - "Lapp"
+  - "LAPP"
+website: "https://www.lapp.com/en_US/us/"
+support:
+  - category: "electrical"
+    department: "Advice & Support"
+    phone: "+18007743539"
+    country: "US"
+    source: "https://www.lapp.com/en_US/us/service/contact-overview/e/000040"
+    last_verified: "2025-12-25"

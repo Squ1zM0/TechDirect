@@ -1,0 +1,15 @@
+id: weishaupt
+name: Weishaupt
+website: https://www.weishaupt-america.com
+categories:
+- hvac
+aliases:
+- Weishaupt America
+support:
+- category: technical
+  department: Technical Support / Sales
+  phone: "+18475315800"
+  country: US
+  notes: Weishaupt America (Elgin, IL)
+  source: https://www.weishaupt-america.com
+  last_verified: '2025-12-24'

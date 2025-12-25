@@ -1,0 +1,13 @@
+id: dristeem
+name: "DriSteem"
+website: https://www.dristeem.com/contact-us/
+categories: [hvac]
+aliases: ["DriSteem Corporation"]
+support:
+  - category: hvac
+    department: "Tech Support (Humidification)"
+    phone: "+18003284447"
+    country: US
+    notes: "Tech Support: 800-328-4447 ext. 2 (see notes)."
+    source: "dristeem.com contact / RMA instructions"
+    last_verified: "2025-12-24"

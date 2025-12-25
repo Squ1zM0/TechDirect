@@ -1,0 +1,13 @@
+id: metal-fab
+name: "Metal-Fab (Commercial Venting)"
+website: https://www.metal-fabcommercial.com/index.php?aid=4&pg=contact+us+%7C+metal-fab&pid=4
+categories: [hvac]
+aliases: ["Metal-Fab", "Metal-Fab, Inc."]
+support:
+  - category: hvac
+    department: "Customer Service / Support (Commercial Products)"
+    phone: "+18008352830"
+    country: US
+    notes: "Commercial products contact phone."
+    source: "metal-fabcommercial.com contact page"
+    last_verified: "2025-12-24"

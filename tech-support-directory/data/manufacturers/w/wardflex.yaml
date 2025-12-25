@@ -1,0 +1,18 @@
+id: wardflex
+name: WARDFlex (Ward Manufacturing / ASC Engineered Solutions)
+website: https://www.wardmfg.com/
+categories:
+- plumbing
+- hydronics
+aliases:
+- Ward Manufacturing
+- WARDFlex
+support:
+- category: plumbing
+  department: Customer Service / Technical Support
+  phone: "+18002481027"
+  country: US
+  notes: WARDFlex support line shown on Ward/ASC pages.
+  source: ward/asc portal pages with CALL 1-800-248-1027
+  last_verified: '2025-12-25'
+  regions: []

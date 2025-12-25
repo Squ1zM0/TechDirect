@@ -1,0 +1,14 @@
+id: flomatic
+name: Flomatic Valves
+website: https://www.flomatic.com
+categories:
+- plumbing
+aliases: []
+support:
+- category: plumbing
+  department: Technical & Sales Support
+  phone: "+18008332040"
+  country: US
+  notes: Technical support for valve products.
+  source: https://www.flomatic.com/support/
+  last_verified: '2025-12-25'

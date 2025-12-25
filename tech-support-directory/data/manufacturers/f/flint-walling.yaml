@@ -1,0 +1,20 @@
+id: flint-walling
+name: Flint & Walling (Pentair)
+website: https://www.pentair.com/en-us/products/pumps/flint_walling.html
+categories:
+- plumbing
+- pumps
+- water-systems
+aliases:
+- Flint and Walling
+- Flint & Walling Pumps
+support:
+- category: plumbing
+  department: Groundwater / Water Systems Support
+  phone: "+18006282313"
+  country: US
+  regions:
+  - US
+  notes: Listed as Groundwater Support on Pentair Pump Group support page.
+  source: https://www.pentair.com/en-us/products/pumps/pentair-pump-group/support.html
+  last_verified: '2025-12-25'

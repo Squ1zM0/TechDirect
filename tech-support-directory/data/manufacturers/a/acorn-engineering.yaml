@@ -1,0 +1,23 @@
+id: acorn-engineering
+name: Acorn Engineering
+website: https://www.acorneng.com/~/contact-us
+categories:
+- plumbing
+aliases: []
+support:
+- category: plumbing
+  department: Customer Service / Tech Support
+  phone: "+18004888999"
+  country: US
+  notes: Toll-free customer service number listed on Acorn Engineering contact page;
+    used for product support.
+  source: acorneng.com contact page
+  last_verified: '2025-12-25'
+- category: plumbing
+  department: Tech Support (main line)
+  phone: "+16263364561"
+  country: US
+  notes: Main telephone number listed on troubleshooting/website footer; can route
+    to tech support.
+  source: acorneng.com troubleshooting page
+  last_verified: '2025-12-25'

@@ -1,0 +1,15 @@
+id: weidmuller
+name: Weidmüller
+website: https://www.weidmuller.com/en-us/
+categories:
+- electrical
+aliases:
+- Weidmuller USA
+support:
+- category: electrical
+  department: Technical Support
+  phone: "+18008499343"
+  country: US
+  notes: Professional/contractor technical support line (per source).
+  source: https://www.weidmuller.com/en-us/service_support/index.jsp
+  last_verified: '2025-12-25'

@@ -1,0 +1,13 @@
+id: selkirk
+name: "Selkirk"
+website: https://www.selkirkcorp.com/contact/
+categories: [hvac]
+aliases: ["Selkirk Corp"]
+support:
+  - category: hvac
+    department: "Customer Service / Technical Support"
+    phone: "+18009928368"
+    country: US
+    notes: "Customer Service 1-800-992-VENT (8368)."
+    source: "Selkirk installation instructions / customer service number"
+    last_verified: "2025-12-24"

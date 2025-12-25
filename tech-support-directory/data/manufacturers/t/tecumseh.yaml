@@ -1,0 +1,13 @@
+id: tecumseh
+name: "Tecumseh Products Company"
+website: https://www.tecumseh.com/contact
+categories: [hvac]
+aliases: ["Tecumseh"]
+support:
+  - category: hvac
+    department: "Technical Service (Refrigeration)"
+    phone: "+18002113427"
+    country: US
+    notes: "Technical Service line published for technical.service@tecumseh.com."
+    source: "Tecumseh technical service contact"
+    last_verified: "2025-12-24"

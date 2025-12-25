@@ -1,0 +1,20 @@
+id: hydromatic
+name: Hydromatic (Pentair)
+website: https://www.pentair.com/en-us/products/pumps/hydromatic.html
+categories:
+- plumbing
+- pumps
+- sump-sewage
+aliases:
+- Hydromatic Pumps
+- Pentair Hydromatic
+support:
+- category: plumbing
+  department: Customer Service / Technical
+  phone: "+18889578677"
+  country: US
+  regions:
+  - US
+  notes: Pentair Flow Technologies contact listing for Hydromatic.
+  source: https://www.pentair.com/en-us/water-softening-filtration/support.html
+  last_verified: '2025-12-25'

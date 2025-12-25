@@ -1,6 +1,44 @@
 {
-  "version": "2025-12-24",
+  "generated_at": "2025-12-25T00:00:00.000Z",
+  "generatedAt": "2025-12-25T00:00:00.000Z",
+  "shard": "ca-hvac",
   "manufacturers": [
+    {
+      "id": "armstrong-international",
+      "name": "Armstrong International",
+      "website": "https://armstronginternational.com/",
+      "categories": [
+        "hvac"
+      ],
+      "supportCount": 1
+    },
+    {
+      "id": "axiom-industries",
+      "name": "Axiom Industries",
+      "website": "https://axiomind.com/contact-us/",
+      "categories": [
+        "hvac"
+      ],
+      "supportCount": 1
+    },
+    {
+      "id": "camus-hydronics",
+      "name": "Camus Hydronics",
+      "website": "https://camus-hydronics.com/",
+      "categories": [
+        "hvac"
+      ],
+      "supportCount": 1
+    },
+    {
+      "id": "nu-air",
+      "name": "Nu-Air Ventilation Systems Inc.",
+      "website": "https://nu-airventilation.com/contact/",
+      "categories": [
+        "hvac"
+      ],
+      "supportCount": 1
+    },
     {
       "id": "swegon",
       "name": "Swegon North America",
@@ -9,20 +47,7 @@
         "hvac",
         "airflow"
       ],
-      "aliases": [
-        "Swegon"
-      ],
-      "support": [
-        {
-          "category": "hvac",
-          "department": "North America Head Office",
-          "phone": "+14162917371",
-          "country": "CA",
-          "notes": "Swegon North America head office phone (NA support routing).",
-          "source": "swegon.com/na/contact",
-          "last_verified": "2025-12-24"
-        }
-      ]
+      "supportCount": 1
     }
   ]
 }

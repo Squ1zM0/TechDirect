@@ -1,0 +1,15 @@
+id: willoughby-industries
+name: Willoughby Industries
+website: https://wsf-usa.com/contact/support/
+categories:
+- plumbing
+aliases:
+- WSF (Willoughby Stainless Fountains)
+support:
+- category: plumbing
+  department: Technical Support
+  phone: "+18004284065"
+  country: US
+  notes: Technical support page lists a toll-free number for support.
+  source: wsf-usa.com technical support page
+  last_verified: '2025-12-25'

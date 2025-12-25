@@ -1,0 +1,18 @@
+id: infinity-drain
+name: Infinity Drain
+website: https://infinitydrain.com/
+categories:
+- plumbing
+- drainage
+aliases:
+- Infinity Drain, LTD
+support:
+- category: plumbing
+  department: Sales / Technical (General Inquiries)
+  phone: "+15167676786"
+  country: US
+  regions:
+  - US
+  notes: Main line listed on Contact page (used by contractors/specifiers).
+  source: https://infinitydrain.com/contact/
+  last_verified: '2025-12-25'

@@ -1,0 +1,17 @@
+id: franke
+name: Franke
+website: https://www.franke.com/us/en/home-solutions/contact.html
+categories:
+- plumbing
+aliases:
+- Franke Kitchen Systems
+- Franke Commercial
+support:
+- category: plumbing
+  department: Customer Service (US)
+  phone: "+18006265771"
+  country: US
+  notes: US customer service number listed on Franke contact pages for kitchen/commercial
+    solutions.
+  source: franke.com contact page
+  last_verified: '2025-12-25'

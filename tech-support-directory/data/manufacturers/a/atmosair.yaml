@@ -1,0 +1,16 @@
+id: atmosair
+name: AtmosAir Solutions
+website: https://atmosair.com/
+categories:
+- hvac
+aliases:
+- AtmosAir
+support:
+- category: hvac
+  department: Headquarters / Product Support
+  phone: "+12033353700"
+  country: US
+  notes: US Headquarters contact number for product inquiries and support.
+  source: atmosair.com contact page
+  last_verified: '2025-12-24'
+  regions: []

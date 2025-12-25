@@ -1,0 +1,16 @@
+id: geberit
+name: Geberit
+website: https://www.geberitnorthamerica.com/service-support/contact/
+categories:
+- plumbing
+aliases:
+- Geberit North America
+support:
+- category: plumbing
+  department: Technical Support
+  phone: "+18008328783"
+  country: US
+  notes: Technical support for Geberit concealed systems and bath waste/overflow products.
+  source: geberitnorthamerica.com technical support contact
+  last_verified: '2025-12-25'
+  regions: []

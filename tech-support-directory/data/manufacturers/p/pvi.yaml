@@ -1,0 +1,15 @@
+id: pvi
+name: PVI
+website: https://www.pvi.com/
+categories:
+- hvac
+aliases:
+- PVI Industries
+support:
+- category: hvac
+  department: After-Sale Technical Support
+  phone: "+18004335654"
+  country: US
+  notes: Select option 1 for after-sale technical support.
+  source: https://www.pvi.com/support
+  last_verified: '2025-12-24'

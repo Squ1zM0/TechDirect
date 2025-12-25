@@ -1,0 +1,16 @@
+id: cooper-lighting-solutions
+name: Cooper Lighting Solutions
+website: https://www.cooperlighting.com/global/contact-us/controls-technical-support
+categories:
+- electrical
+aliases:
+- Eaton Cooper Lighting
+- Cooper Lighting
+support:
+- category: electrical
+  department: Controls Technical Support (24/7)
+  phone: '+18005533879'
+  country: US
+  notes: Lighting controls technical support number (24/7).
+  source: cooperlighting.com controls technical support page
+  last_verified: '2025-12-25'

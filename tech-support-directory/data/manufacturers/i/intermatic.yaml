@@ -1,0 +1,14 @@
+id: intermatic
+name: Intermatic
+website: https://www.intermatic.com/
+categories:
+- electrical
+aliases: []
+support:
+- category: electrical
+  department: Technical Support
+  phone: "+18156757000"
+  country: US
+  notes: Technical support for installation/troubleshooting.
+  source: https://www.intermatic.com/support/contact-us
+  last_verified: '2025-12-25'

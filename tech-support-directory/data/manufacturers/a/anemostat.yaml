@@ -1,0 +1,13 @@
+id: anemostat
+name: "Anemostat (Air Distribution Laboratories)"
+website: https://www.anemostat-hvac.com/company_info.asp
+categories: [hvac]
+aliases: ["Air Distribution Laboratories", "ADL", "Anemostat HVAC"]
+support:
+  - category: hvac
+    department: "Eastern Technical Services"
+    phone: "+15705622778"
+    country: US
+    notes: "Eastern Technical Services phone listed on company info page."
+    source: "anemostat-hvac.com company info"
+    last_verified: "2025-12-24"

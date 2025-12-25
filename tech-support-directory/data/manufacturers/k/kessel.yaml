@@ -1,0 +1,20 @@
+id: kessel
+name: KESSEL
+website: https://www.kessel.com/
+categories:
+- plumbing
+- backwater
+- drainage
+aliases:
+- KESSEL SE + Co. KG
+support:
+- category: plumbing
+  department: Headquarters (International)
+  phone: "+49-8456-270"
+  country: DE
+  regions:
+  - US
+  - EU
+  notes: KESSEL contact page points North America inquiries to HQ for technical details.
+  source: https://www.kessel.com/contact
+  last_verified: '2025-12-25'

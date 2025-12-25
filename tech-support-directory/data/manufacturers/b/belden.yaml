@@ -1,0 +1,15 @@
+id: belden
+name: Belden
+website: https://www.belden.com
+categories:
+- electrical
+aliases:
+- Lumberg Automation
+support:
+- category: electrical
+  department: Technical Support
+  phone: "+18002353361"
+  country: US
+  notes: Professional/contractor technical support line (per source).
+  source: https://www.belden.com/privacy-policy
+  last_verified: '2025-12-25'

@@ -1,0 +1,15 @@
+id: blue-angel-pumps
+name: Blue Angel Pumps
+website: https://blueangelpumps.com/
+categories:
+- plumbing
+aliases: []
+support:
+- category: plumbing
+  department: Customer Service
+  phone: "+18886366628"
+  country: US
+  notes: Customer service / support line.
+  source: blueangelpumps.com contact page
+  last_verified: '2025-12-25'
+  regions: []

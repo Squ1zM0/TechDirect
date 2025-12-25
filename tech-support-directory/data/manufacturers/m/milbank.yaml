@@ -1,0 +1,15 @@
+id: milbank
+name: Milbank
+website: https://www.milbankworks.com/
+categories:
+- electrical
+aliases:
+- Milbank Manufacturing
+support:
+- category: electrical
+  department: Product Support (SynapSwitch ATS)
+  phone: "+18164107346"
+  country: US
+  notes: SynapSwitch ATS product support (ask for ext. 7).
+  source: https://www.milbankworks.com/resources/generator-support
+  last_verified: '2025-12-25'

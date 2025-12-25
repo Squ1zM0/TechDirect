@@ -1,0 +1,14 @@
+id: "helukabel"
+name: "HELUKABEL USA"
+categories:
+  - "electrical"
+aliases:
+  - "HELUKABEL"
+website: "https://www.helukabel.us/us-en/"
+support:
+  - category: "electrical"
+    department: "Sales / Technical Information"
+    phone: "+18554358872"
+    country: "US"
+    source: "https://www.helukabel.us/us-en/contact/"
+    last_verified: "2025-12-25"

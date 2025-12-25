@@ -1,0 +1,15 @@
+id: roca
+name: ROCA USA
+website: https://www.roca.us/
+categories:
+- plumbing
+aliases:
+- Roca
+support:
+- category: tech-support
+  department: Customer Service / Product Support
+  phone: "+18006690827"
+  country: US
+  notes: Product support (fixtures).
+  source: https://www.roca.us/contact
+  last_verified: '2025-12-25'

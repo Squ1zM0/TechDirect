@@ -1,0 +1,16 @@
+id: burndy
+name: BURNDY
+website: https://www.hubbell.com/burndy/en/contact-us
+categories:
+- electrical
+aliases:
+- Burndy LLC
+- Hubbell BURNDY
+support:
+- category: electrical
+  department: Technical Support
+  phone: '+18004514956'
+  country: US
+  notes: BURNDY technical support phone listed on Contact Us page.
+  source: hubbell.com/burndy contact-us
+  last_verified: '2025-12-25'

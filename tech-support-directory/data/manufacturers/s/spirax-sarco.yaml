@@ -1,0 +1,15 @@
+id: spirax-sarco
+name: Spirax Sarco
+website: https://www.spiraxsarco.com/global/en-US/contact-us
+categories:
+- hvac
+aliases:
+- Spirax Sarco USA
+support:
+- category: hvac
+  department: Technical Support / Steam Experts
+  phone: "+18037142000"
+  country: US
+  notes: U.S. office phone; for steam/hydronic technical assistance.
+  source: https://www2.afpm.org/forms/DirectoryListingSearch/view?id=4FE1A00001048
+  last_verified: '2025-12-24'

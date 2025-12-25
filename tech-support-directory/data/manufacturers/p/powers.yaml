@@ -1,0 +1,17 @@
+id: powers
+name: POWERS (Watts Brand)
+website: https://www.watts.com/our-story/brands/powers
+categories:
+- plumbing
+- hydronics
+aliases:
+- Powers Mixing Valves
+- Powers Process Controls
+support:
+- category: tech-support
+  department: Customer Support (Plumbing, Heating & Drainage)
+  phone: "+19786896066"
+  country: US
+  notes: Watts support line (press for technical support).
+  source: https://www.watts.com/support
+  last_verified: '2025-12-25'

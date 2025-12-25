@@ -1,0 +1,16 @@
+id: kohler-plumbing
+name: Kohler (Plumbing)
+website: https://www.kohler.com/en/for-professionals/tools-and-resources
+categories:
+- plumbing
+aliases:
+- KOHLER
+support:
+- category: plumbing
+  department: Kohler Trade Hotline
+  phone: "+19208033927"
+  country: US
+  notes: Dedicated pro plumbing support hotline.
+  source: kohler.com professionals tools and resources
+  last_verified: '2025-12-24'
+  regions: []

@@ -1,0 +1,17 @@
+id: fenwal-controls
+name: Fenwal Controls (Kidde-Fenwal)
+website: https://www.kidde-esfire.com/Home/ContactUs
+categories:
+- hvac
+aliases:
+- Kidde-Fenwal
+- Fenwal
+support:
+- category: hvac
+  department: Technical Support (Option 1)
+  phone: "+18882449979"
+  country: US
+  notes: Kidde/Fenwal technical support number with menu options; select Technical
+    Support.
+  source: https://www.kidde-esfire.com/Home/ContactUs
+  last_verified: '2025-12-24'

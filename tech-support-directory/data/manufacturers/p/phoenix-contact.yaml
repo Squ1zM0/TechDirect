@@ -1,0 +1,14 @@
+id: phoenix-contact
+name: Phoenix Contact
+website: https://www.phoenixcontact.com/en-us
+categories:
+- electrical
+aliases: []
+support:
+- category: electrical
+  department: Technical Support
+  phone: "+18003223225"
+  country: US
+  notes: Professional/contractor technical support line (per source).
+  source: https://www.phoenixcontact.com/en-us/service-and-support/contact
+  last_verified: '2025-12-25'

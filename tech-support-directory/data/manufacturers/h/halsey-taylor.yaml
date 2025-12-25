@@ -1,0 +1,14 @@
+id: halsey-taylor
+name: Halsey Taylor
+website: https://www.halseytaylor.com/us/en/support-and-resources.html
+categories:
+- plumbing
+aliases: []
+support:
+- category: plumbing
+  department: Technical Services
+  phone: "+18002606640"
+  country: US
+  notes: Technical Services phone listed on Halsey Taylor support/resources page.
+  source: halseytaylor.com support and resources page
+  last_verified: '2025-12-25'

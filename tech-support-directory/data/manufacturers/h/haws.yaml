@@ -1,0 +1,15 @@
+id: haws
+name: Haws
+website: https://www.hawsco.com/company/contact-us/
+categories:
+- plumbing
+aliases:
+- Haws Corporation
+support:
+- category: plumbing
+  department: Technical Support
+  phone: "+18007665612"
+  country: US
+  notes: Technical Support Team phone per Haws contact page.
+  source: hawsco.com contact us page
+  last_verified: '2025-12-25'

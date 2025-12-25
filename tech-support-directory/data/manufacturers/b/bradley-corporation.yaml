@@ -1,0 +1,16 @@
+id: bradley-corporation
+name: Bradley Corporation
+website: https://www.bradleycorp.com/contactus
+categories:
+- plumbing
+aliases:
+- Bradley
+support:
+- category: plumbing
+  department: Corporate / Product Support
+  phone: "+18002723539"
+  country: US
+  notes: Bradley '1-800-BRADLEY' number shown on Contact Us page and product documents;
+    used for product support.
+  source: bradleycorp.com contact us page
+  last_verified: '2025-12-25'

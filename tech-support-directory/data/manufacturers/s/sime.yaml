@@ -1,0 +1,15 @@
+id: sime
+name: Sime
+website: https://www.sime.it
+categories:
+- hvac
+aliases:
+- Fonderie Sime
+support:
+- category: technical
+  department: Customer Service / Support
+  phone: "+390442631111"
+  country: IT
+  notes: Italy HQ contact
+  source: https://www.sime.it/en/contacts-1
+  last_verified: '2025-12-24'

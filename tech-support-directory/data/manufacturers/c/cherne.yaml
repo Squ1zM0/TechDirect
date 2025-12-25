@@ -1,0 +1,15 @@
+id: cherne
+name: Cherne (Oatey)
+website: https://www.oatey.com/brands/cherne
+categories:
+- plumbing
+aliases: []
+support:
+- category: plumbing
+  department: Cherne Inquiries
+  phone: "+18008437584"
+  country: US
+  notes: Cherne inquiries line via Oatey contact page.
+  source: oatey.com contact page
+  last_verified: '2025-12-25'
+  regions: []

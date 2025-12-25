@@ -1,0 +1,15 @@
+id: chicago-faucets
+name: Chicago Faucets
+website: https://www.chicagofaucets.com/support/contact
+categories:
+- plumbing
+aliases:
+- Chicago Faucet Company
+support:
+- category: plumbing
+  department: Technical Support
+  phone: "+18008328783"
+  country: US
+  notes: Technical support line for Chicago Faucets (800-TEC-TRUE).
+  source: chicagofaucets.com support contact page
+  last_verified: '2025-12-24'

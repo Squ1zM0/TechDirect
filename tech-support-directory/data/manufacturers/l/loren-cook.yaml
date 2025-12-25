@@ -9,7 +9,7 @@ aliases:
 support:
 - category: hvac
   department: Customer Service
-  phone: +1-417-869-6474
+  phone: "+14178696474"
   country: US
   notes: Loren Cook Company customer service department phone listed in IOM documentation.
   source: https://www.lorencook.com/PDFs/IOMs/CPL_IOM.pdf (manual)

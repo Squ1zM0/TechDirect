@@ -1,0 +1,15 @@
+id: littelfuse
+name: Littelfuse
+website: https://www.littelfuse.com/
+categories:
+- electrical
+aliases:
+- Littelfuse Industrial
+support:
+- category: electrical
+  department: Technical Support (Industrial/Medium Voltage)
+  phone: "+18008323873"
+  country: US
+  notes: Technical Support & Engineering Services Group (industrial/medium voltage).
+  source: https://www.littelfuse.com/partial-pages/information-center/l3-partial-pages/medium-volatge
+  last_verified: '2025-12-25'

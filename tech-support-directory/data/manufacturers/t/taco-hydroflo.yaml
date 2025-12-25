@@ -1,0 +1,17 @@
+id: taco-hydroflo
+name: Taco Hydroflo Pump Solutions
+website: https://www.hydroflopumps.com/
+categories:
+- hvac
+- plumbing
+aliases:
+- Hydroflo Pumps
+- Hydroflo Pump Solutions
+support:
+- category: hvac
+  department: Tech Support
+  phone: "+18066378961"
+  country: US
+  notes: Tech Support listed on Hydroflo Pump Solutions support page.
+  source: https://www.hydroflopumps.com/support/
+  last_verified: '2025-12-24'

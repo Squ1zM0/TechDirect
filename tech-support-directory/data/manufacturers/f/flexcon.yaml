@@ -1,0 +1,15 @@
+id: flexcon
+name: Flexcon
+website: https://www.flexcon.com/
+categories:
+- hvac
+aliases:
+- Flexcon Industries
+support:
+- category: hvac
+  department: Support
+  phone: "+15088858200"
+  country: US
+  notes: Expansion tanks / hydronic accessories support.
+  source: https://www.flexcon.com/contact-us
+  last_verified: '2025-12-24'

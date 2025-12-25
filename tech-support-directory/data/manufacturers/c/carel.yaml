@@ -1,0 +1,13 @@
+id: carel
+name: "CAREL USA"
+website: https://www.carelusa.com/contact-us
+categories: [hvac]
+aliases: ["CAREL"]
+support:
+  - category: hvac
+    department: "Technical Support / Warranty / Returns"
+    phone: "+17176640500"
+    country: US
+    notes: "Main line for CAREL USA support (humidification/controls)."
+    source: "carelusa.com contact page"
+    last_verified: "2025-12-24"

@@ -1,0 +1,14 @@
+id: brizo
+name: Brizo
+website: https://www.brizo.com/customer-support
+categories:
+- plumbing
+aliases: []
+support:
+- category: plumbing
+  department: Brizo Help Line
+  phone: "+18773452749"
+  country: US
+  notes: Brizo Help Line listed on customer support page.
+  source: brizo.com customer support page
+  last_verified: '2025-12-25'

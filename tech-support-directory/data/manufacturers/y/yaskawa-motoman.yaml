@@ -1,0 +1,13 @@
+id: yaskawa-motoman
+name: Yaskawa Motoman
+website: https://www.motoman.com/
+categories:
+- electrical
+support:
+- category: electrical
+  department: Customer Support / Technical Support
+  phone: '+19378473200'
+  country: US
+  notes: Customer support hotline listed on Motoman contact page.
+  source: https://www.motoman.com/en-us/about/company/contact-us
+  last_verified: '2025-12-25'

@@ -1,0 +1,13 @@
+id: soler-palau
+name: "Soler & Palau (S&P USA Ventilation Systems)"
+website: https://www.solerpalau-usa.com/
+categories: [hvac]
+aliases: ["S&P USA", "Soler & Palau", "SolerPalau-USA"]
+support:
+  - category: hvac
+    department: "Support Service & Technical Support"
+    phone: "+18009617370"
+    country: US
+    notes: "Support/technical team phone (Mon–Fri)."
+    source: "S&P USA support services post"
+    last_verified: "2025-12-24"

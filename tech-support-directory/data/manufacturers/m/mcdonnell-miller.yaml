@@ -1,0 +1,16 @@
+id: mcdonnell-miller
+name: McDonnell & Miller
+website: https://www.mcdonnellmiller.com/
+categories:
+- hvac
+aliases:
+- McDonnell Miller
+- ITT McDonnell & Miller
+support:
+- category: hvac
+  department: Support / Main Line
+  phone: "+17732671600"
+  country: US
+  notes: Main phone listed for McDonnell & Miller (boiler controls).
+  source: https://www.aecinfo.com/itt-mcdonnell-miller/company.html
+  last_verified: '2025-12-24'

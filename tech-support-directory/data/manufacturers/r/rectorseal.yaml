@@ -1,0 +1,16 @@
+id: rectorseal
+name: RectorSeal
+website: https://rectorseal.com/
+categories:
+- hvac
+- plumbing
+aliases: []
+support:
+- category: hvac
+  department: Technical Services
+  phone: "+18002313345"
+  country: US
+  hours: Mon–Fri 7:30am–5:00pm CT (Option 2)
+  notes: Call main line and select Option 2 for Technical Services.
+  source: https://rectorseal.com/technical-product-inquiries/
+  last_verified: '2025-12-24'

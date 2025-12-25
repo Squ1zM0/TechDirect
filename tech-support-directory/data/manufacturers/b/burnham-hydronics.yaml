@@ -1,0 +1,17 @@
+id: burnham-hydronics
+name: Burnham Hydronics
+website: https://www.usboiler.net/
+categories:
+- hvac
+aliases:
+- Burnham
+support:
+- category: hvac
+  department: Technical Services Hotline
+  phone: "+18007220720"
+  country: US
+  notes: Technical Services Hotline for Burnham Hydronics boilers; option 1 referenced
+    for technical support.
+  source: Burnham Hydronics product sheet (hotline options)
+  last_verified: '2025-12-24'
+  regions: []

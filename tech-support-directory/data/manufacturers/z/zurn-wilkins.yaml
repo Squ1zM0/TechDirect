@@ -1,0 +1,17 @@
+id: zurn-wilkins
+name: Zurn Wilkins
+website: https://www.zurn.com
+categories:
+- plumbing
+- hvac
+aliases:
+- Wilkins
+- Zurn
+support:
+- category: technical
+  department: Customer Support
+  phone: "+18556639876"
+  country: US
+  notes: Zurn Customer Support (includes Wilkins)
+  source: https://www.zurn.com/us/en/support.html
+  last_verified: '2025-12-24'

@@ -1,0 +1,15 @@
+id: keystone-tech
+name: Keystone Technologies
+website: https://www.keystonetech.com/
+categories:
+- electrical
+aliases:
+- Keystone Tech
+support:
+- category: electrical
+  department: Product Technical Support
+  phone: "+18334403615"
+  country: US
+  notes: Immediate product technical support.
+  source: https://www.keystonetech.com/support/live-support-request
+  last_verified: '2025-12-25'

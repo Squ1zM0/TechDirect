@@ -1,0 +1,15 @@
+id: febco
+name: FEBCO (Watts)
+website: https://www.watts.com/our-story/brands/febco
+categories:
+- plumbing
+aliases:
+- FEBCO Backflow
+support:
+- category: plumbing
+  department: Plumbing, Heating and Drainage (Tech Support)
+  phone: "+19786896066"
+  country: US
+  notes: Watts support line for Plumbing/Heating/Drainage (FEBCO brand).
+  source: https://www.watts.com/support
+  last_verified: '2025-12-25'

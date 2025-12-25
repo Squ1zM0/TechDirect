@@ -1,0 +1,13 @@
+id: halton
+name: "Halton"
+website: https://www.halton.com/locations/halton-usa/
+categories: [hvac]
+aliases: ["Halton Global Services"]
+support:
+  - category: hvac
+    department: "Halton USA Office (Service/Support routing)"
+    phone: "+19724195100"
+    country: US
+    notes: "US office main line (Texas). Ask for service/tech support as needed."
+    source: "halton.com Halton USA location page"
+    last_verified: "2025-12-24"
