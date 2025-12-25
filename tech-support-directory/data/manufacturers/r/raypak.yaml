@@ -1,0 +1,15 @@
+id: raypak
+name: Raypak
+website: https://www.raypak.com/
+categories:
+- hvac
+aliases: []
+support:
+- category: hvac
+  department: Technical Support
+  phone: '+18052785300'
+  country: US
+  notes: Raypak Contact/Customer Support phone listed alongside Technical Support
+    section (use for troubleshooting/product support).
+  source: raypak.com contact customer support page
+  last_verified: '2025-12-24'

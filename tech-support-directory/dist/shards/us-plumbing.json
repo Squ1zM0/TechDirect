@@ -1,0 +1,168 @@
+{
+  "version": "2025-12-24",
+  "manufacturers": [
+    {
+      "id": "bell-gossett",
+      "name": "Bell & Gossett (Xylem)",
+      "website": "https://www.xylem.com/en-us/brands/bell-gossett/",
+      "categories": [
+        "hvac",
+        "plumbing"
+      ],
+      "aliases": [
+        "B&G",
+        "Bell and Gossett"
+      ],
+      "support": [
+        {
+          "category": "hvac",
+          "department": "Technical Support (Xylem SmartSupport)",
+          "phone": "+18559957877",
+          "country": "US",
+          "notes": "Xylem SmartSupport primary contact for GWT & B&G.",
+          "source": "https://myaccess.xyleminc.com/SecurityTokenService/Support.aspx",
+          "last_verified": "2025-12-24"
+        }
+      ]
+    },
+    {
+      "id": "burnham-commercial",
+      "name": "Burnham Commercial Boilers",
+      "website": "https://www.burnhamcommercial.com/",
+      "categories": [
+        "hvac",
+        "plumbing"
+      ],
+      "aliases": [
+        "Burnham Commercial"
+      ],
+      "support": [
+        {
+          "category": "hvac",
+          "department": "Customer Care Center",
+          "phone": "+18887913790",
+          "country": "US",
+          "notes": "Burnham Commercial Boilers customer care line used for support routing.",
+          "source": "burnhamcommercial.com/contact-us",
+          "last_verified": "2025-12-24"
+        }
+      ]
+    },
+    {
+      "id": "cleaver-brooks",
+      "name": "Cleaver-Brooks",
+      "website": "https://cleaverbrooks.com/",
+      "categories": [
+        "hvac",
+        "plumbing"
+      ],
+      "aliases": [
+        "Cleaver Brooks"
+      ],
+      "support": [
+        {
+          "category": "hvac",
+          "department": "Customer Service",
+          "phone": "+18002505883",
+          "country": "US",
+          "notes": "Cleaver-Brooks customer service line used for parts/service routing for boiler room equipment.",
+          "source": "cleaverbrooks.com/contactus",
+          "last_verified": "2025-12-24"
+        }
+      ]
+    },
+    {
+      "id": "hydro-thermal",
+      "name": "Hydro-Thermal",
+      "website": "https://www.hydro-thermal.com/",
+      "categories": [
+        "hvac",
+        "plumbing"
+      ],
+      "aliases": [
+        "Hydro-Thermal Inc."
+      ],
+      "support": [
+        {
+          "category": "hvac",
+          "department": "Customer Service / Support",
+          "phone": "+18009520121",
+          "country": "US",
+          "notes": "Hydro-Thermal toll-free customer service phone.",
+          "source": "hydro-thermal.com/contact-us",
+          "last_verified": "2025-12-24"
+        }
+      ]
+    },
+    {
+      "id": "nti-boilers",
+      "name": "NTI Boilers",
+      "website": "https://ntiboilers.com/",
+      "categories": [
+        "hvac",
+        "plumbing"
+      ],
+      "aliases": [
+        "NTI"
+      ],
+      "support": [
+        {
+          "category": "hvac",
+          "department": "Tech Support",
+          "phone": "+18006882575",
+          "country": "US",
+          "notes": "Tech Support line for installers/contractors (toll-free).",
+          "source": "https://ntiboilers.com/nti-support",
+          "last_verified": "2025-12-24"
+        }
+      ]
+    },
+    {
+      "id": "uponor",
+      "name": "Uponor North America",
+      "website": "https://www.uponor.com/en-us",
+      "categories": [
+        "hvac",
+        "plumbing"
+      ],
+      "aliases": [
+        "Uponor Pro",
+        "Uponor Radiant"
+      ],
+      "support": [
+        {
+          "category": "hvac",
+          "department": "Technical Services",
+          "phone": "+18885947726",
+          "country": "US",
+          "notes": "Radiant/hydronic technical services phone (U.S.).",
+          "source": "https://www.uponor.com/en-us/customer-support",
+          "last_verified": "2025-12-24"
+        }
+      ]
+    },
+    {
+      "id": "utica-boilers",
+      "name": "Utica Boilers",
+      "website": "https://uticaboilers.com/",
+      "categories": [
+        "hvac",
+        "plumbing"
+      ],
+      "aliases": [
+        "Utica"
+      ],
+      "support": [
+        {
+          "category": "hvac",
+          "department": "Technical Support for Installing Contractors",
+          "phone": "+18003255479",
+          "country": "US",
+          "notes": "Utica Boilers contractor technical support (not homeowner assistance).",
+          "source": "uticaboilers.com/contact-us",
+          "last_verified": "2025-12-24"
+        }
+      ]
+    }
+  ]
+}

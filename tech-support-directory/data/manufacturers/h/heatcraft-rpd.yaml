@@ -1,0 +1,13 @@
+id: heatcraft-rpd
+name: Heatcraft Refrigeration Products
+website: https://www.heatcraftrpd.com/support/
+categories: [hvac]
+aliases: ["Heatcraft"]
+support:
+  - category: hvac
+    department: Customer Support / Installation, Service & Troubleshooting
+    phone: "+18005377775"
+    country: US
+    notes: "Heatcraft customer support line; select option for Installation, Service and Troubleshooting Assistance."
+    source: "heatcraftrpd.com customer support"
+    last_verified: "2025-12-24"

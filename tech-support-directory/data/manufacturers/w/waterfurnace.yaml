@@ -1,0 +1,13 @@
+id: waterfurnace
+name: WaterFurnace
+website: https://www.waterfurnace.com/contact-us
+categories: [hvac]
+aliases: []
+support:
+  - category: hvac
+    department: Technical Support (Dealers/Distributors)
+    phone: "+18889292837"
+    country: US
+    notes: "Dealer/distributor technical support line (option 1 for tech service listed in distributor contact document)."
+    source: "GeoStar/WaterFurnace distributor contacts PDF"
+    last_verified: "2025-12-24"

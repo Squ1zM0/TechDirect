@@ -1,0 +1,14 @@
+id: tekmar
+name: tekmar Control Systems (Watts)
+website: https://www.watts.com/our-story/brands/tekmar
+categories:
+- hvac
+aliases: []
+support:
+- category: hvac
+  department: Technical Support
+  phone: '+18004383903'
+  country: US
+  notes: tekmar HVAC controls technical support line.
+  source: watts.com tekmar contact page
+  last_verified: '2025-12-24'

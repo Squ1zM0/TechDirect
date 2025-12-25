@@ -1,0 +1,12 @@
+id: lennox
+name: Lennox
+website: https://www.lennox.com/residential/
+categories: [hvac]
+support:
+  - category: hvac
+    department: Residential Tech Support
+    phone: "+18004536669"
+    country: US
+    notes: "Lennox residential tech support line listed for residential tech support."
+    source: "lennox.com commercial tech support request page"
+    last_verified: "2025-12-24"

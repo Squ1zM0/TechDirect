@@ -1,0 +1,13 @@
+id: fujitsu-general
+name: Fujitsu General America
+website: https://www.fujitsugeneral.com/us/
+categories: [hvac]
+aliases: [Fujitsu Halcyon]
+support:
+  - category: hvac
+    department: Technical Support (toll free)
+    phone: "+18669528324"
+    country: US
+    notes: "Fujitsu General America technical support toll-free number."
+    source: "global.fujitsu.com subsidiaries fga page"
+    last_verified: "2025-12-24"

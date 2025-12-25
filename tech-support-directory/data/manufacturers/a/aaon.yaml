@@ -1,0 +1,13 @@
+id: aaon
+name: AAON
+website: https://www.aaon.com/contact
+categories: [hvac]
+aliases: []
+support:
+  - category: hvac
+    department: Service and Tech Support
+    phone: "+19183826450"
+    country: US
+    notes: "Service and tech support line listed on AAON contact page."
+    source: "aaon.com contact"
+    last_verified: "2025-12-24"

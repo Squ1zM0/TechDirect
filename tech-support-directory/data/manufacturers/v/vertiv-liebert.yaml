@@ -1,0 +1,13 @@
+id: vertiv-liebert
+name: Vertiv (Liebert Thermal Management)
+website: https://www.vertiv.com/
+categories: [hvac]
+aliases: ["Liebert"]
+support:
+  - category: hvac
+    department: Liebert Thermal Management Technical Support / Dispatch
+    phone: "+18005432778"
+    country: US
+    notes: "Vertiv/Liebert U.S. technical support/dispatch listed in Liebert system design catalog appendix."
+    source: "vertiv.com Liebert CW system design catalog (Appendix A)"
+    last_verified: "2025-12-24"

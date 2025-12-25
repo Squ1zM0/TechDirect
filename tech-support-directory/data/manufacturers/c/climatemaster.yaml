@@ -1,0 +1,13 @@
+id: climatemaster
+name: ClimateMaster
+website: https://www.climatemaster.com/commercial/contact-us
+categories: [hvac]
+aliases: []
+support:
+  - category: hvac
+    department: Customer Service / Support
+    phone: "+18002999747"
+    country: US
+    notes: "24-hour toll-free support number listed on ClimateMaster commercial contact page."
+    source: "climatemaster.com commercial contact"
+    last_verified: "2025-12-24"

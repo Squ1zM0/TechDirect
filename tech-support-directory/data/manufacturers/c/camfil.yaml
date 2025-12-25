@@ -1,0 +1,17 @@
+id: camfil
+name: Camfil USA
+website: https://www.camfil.com/en-us/
+categories:
+- hvac
+- airflow
+aliases:
+- Camfil
+support:
+- category: hvac
+  department: Customer Support (US)
+  phone: '+18885996620'
+  country: US
+  notes: Camfil USA published call-in number for assistance (air filtration used in
+    HVAC systems).
+  source: catalog.camfil.us request info page
+  last_verified: '2025-12-24'

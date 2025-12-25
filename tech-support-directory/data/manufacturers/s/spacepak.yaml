@@ -1,0 +1,15 @@
+id: spacepak
+name: SpacePak
+website: https://www.spacepak.com/
+categories:
+- hvac
+aliases: []
+support:
+- category: hvac
+  department: Customer & Technical Service
+  phone: +1-413-564-5530
+  country: US
+  notes: SpacePak Customer and Technical Service phone listed on SpacePak contact
+    page.
+  source: https://www.spacepak.com/contact-us (official)
+  last_verified: '2025-12-24'

@@ -1,0 +1,15 @@
+id: ruskin
+name: Ruskin
+website: https://www.ruskin.com/About-Us/Contact-Ruskin
+categories:
+- hvac
+aliases:
+- Ruskin Manufacturing
+support:
+- category: hvac
+  department: Support / Main Line
+  phone: '+18167617476'
+  country: US
+  notes: Ruskin main phone (air control / dampers / louvers).
+  source: ruskin.com contact/FAQ pages
+  last_verified: '2025-12-24'

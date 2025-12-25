@@ -1,0 +1,16 @@
+id: dectron
+name: Dectron
+website: https://dectron.com/
+categories:
+- hvac
+aliases:
+- PoolPak
+- Seresco
+support:
+- category: hvac
+  department: Product & Technical Support (Existing Equipment)
+  phone: '+18333277665'
+  country: US
+  notes: Dectron factory-direct technical support line listed as 1-833-DAS-POOL.
+  source: dectron.com/about/contact
+  last_verified: '2025-12-24'

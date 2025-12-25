@@ -1,0 +1,13 @@
+id: goodman
+name: Goodman
+website: https://www.goodmanmfg.com/
+categories: [hvac]
+aliases: [Amana, Daikin (Goodman/Amana parent)]
+support:
+  - category: hvac
+    department: Homeowner Support / Consumer Affairs
+    phone: "+18772544729"
+    country: US
+    notes: "Goodman/Daikin homeowner support line listed on Goodman contact/warranty FAQ pages."
+    source: "goodmanmfg.com contact us / warranty FAQ"
+    last_verified: "2025-12-24"

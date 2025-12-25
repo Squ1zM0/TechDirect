@@ -1,0 +1,14 @@
+id: panasonic
+name: Panasonic HVAC / IAQ
+website: https://iaq.na.panasonic.com/hvac
+categories:
+- hvac
+aliases: []
+support:
+- category: hvac
+  department: Technical Support
+  phone: '+18889324623'
+  country: US
+  notes: Panasonic HVAC warranty claim form lists 888-932-4623 for technical support request.
+  source: panasonichvac.com warranty claim form
+  last_verified: '2025-12-24'

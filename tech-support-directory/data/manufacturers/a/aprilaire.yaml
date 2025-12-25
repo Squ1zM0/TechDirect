@@ -1,0 +1,14 @@
+id: aprilaire
+name: AprilAire
+website: https://www.aprilaire.com/
+categories:
+- hvac
+aliases: []
+support:
+- category: hvac
+  department: Customer Service & Technical Support
+  phone: '+18003346011'
+  country: US
+  notes: Customer Service & Technical Support line (partner/installer support).
+  source: aprilairepartners.com contact
+  last_verified: '2025-12-24'

@@ -1,0 +1,16 @@
+id: nti-boilers
+name: NTI Boilers
+website: https://ntiboilers.com/
+categories:
+- hvac
+- plumbing
+aliases:
+- NTI
+support:
+- category: hvac
+  department: Tech Support
+  phone: '+18006882575'
+  country: US
+  notes: Tech Support line for installers/contractors (toll-free).
+  source: https://ntiboilers.com/nti-support
+  last_verified: '2025-12-24'

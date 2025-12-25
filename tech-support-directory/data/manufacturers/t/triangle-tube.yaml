@@ -1,0 +1,14 @@
+id: triangle-tube
+name: Triangle Tube
+website: https://triangletube.com/
+categories:
+- hvac
+aliases: []
+support:
+- category: hvac
+  department: Tech Support
+  phone: '+18562288881'
+  country: US
+  notes: Tech support via main office number; select Option 1 for Tech Support.
+  source: triangletube.com contact us page
+  last_verified: '2025-12-24'

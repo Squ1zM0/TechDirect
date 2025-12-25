@@ -1,0 +1,16 @@
+id: marvair
+name: Marvair
+website: https://marvair.com/
+categories:
+- hvac
+aliases:
+- AirX Climate Solutions (Marvair)
+support:
+- category: hvac
+  department: Factory Assistance
+  phone: +1-229-273-9558
+  country: US
+  notes: Marvair manuals direct unresolved troubleshooting to contact the factory
+    for assistance.
+  source: https://marvair.com/doc/77/ComPac%20AVHDA90%20Manual%20Rev.3 (manual)
+  last_verified: '2025-12-24'

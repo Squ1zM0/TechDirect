@@ -1,0 +1,13 @@
+id: daikin
+name: Daikin
+website: https://daikincomfort.com/
+categories: [hvac]
+aliases: [Daikin Comfort Technologies NA]
+support:
+  - category: hvac
+    department: US Customer Support
+    phone: "+18665886454"
+    country: US
+    notes: "Daikin Contact Us page lists US phone."
+    source: "daikincomfort.com contact-us page"
+    last_verified: "2025-12-24"

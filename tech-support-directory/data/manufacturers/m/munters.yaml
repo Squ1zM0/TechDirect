@@ -1,0 +1,13 @@
+id: munters
+name: Munters
+website: https://www.munters.com/en-us/contact/
+categories: [hvac]
+aliases: []
+support:
+  - category: hvac
+    department: Data Centers / Humidity & Temperature Control Support
+    phone: "+18002298557"
+    country: US
+    notes: "Munters US contact line listed for data centers / humidity & temperature control."
+    source: "munters.com contact (United States)"
+    last_verified: "2025-12-24"

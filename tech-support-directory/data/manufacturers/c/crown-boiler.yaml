@@ -1,0 +1,16 @@
+id: crown-boiler
+name: Crown Boiler
+website: https://www.velocityboilerworks.com/
+categories:
+- hvac
+aliases:
+- Crown Boiler Company
+- Velocity Boiler Works (Crown cast iron)
+support:
+- category: hvac
+  department: Technical Support
+  phone: '+12155358900'
+  country: US
+  notes: Velocity Boiler Works technical support phone (Crown cast iron products).
+  source: https://www.velocityboilerworks.com/contact/technical-support/
+  last_verified: '2025-12-24'

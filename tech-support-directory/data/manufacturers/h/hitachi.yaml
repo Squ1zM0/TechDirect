@@ -1,0 +1,14 @@
+id: hitachi
+name: Hitachi Cooling & Heating
+website: https://www.hitachiaircon.com/us/
+categories:
+- hvac
+aliases: []
+support:
+- category: hvac
+  department: Technical Assistance / Support Center
+  phone: '+18448734445'
+  country: US
+  notes: Hitachi Cooling & Heating FAQ lists Support Center 844-873-4445 (option 3) for technical assistance.
+  source: hitachiaircon.com US FAQs
+  last_verified: '2025-12-24'

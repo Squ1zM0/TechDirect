@@ -1,0 +1,14 @@
+id: bard
+name: Bard HVAC
+website: https://www.bardhvac.com/
+categories:
+- hvac
+aliases: []
+support:
+- category: hvac
+  department: Technical Service
+  phone: +1-419-636-0439
+  country: US
+  notes: Bard Technical Service line listed on Bard product literature/support resources.
+  source: https://www.bardhvac.com/literature/ (official)
+  last_verified: '2025-12-24'

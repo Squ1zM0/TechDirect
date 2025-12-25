@@ -1,0 +1,13 @@
+id: mitsubishi-electric-hvac
+name: Mitsubishi Electric Trane HVAC US (METUS)
+website: https://www.mitsubishicomfort.com/
+categories: [hvac]
+aliases: [Mitsubishi Electric, Mitsubishi Comfort]
+support:
+  - category: hvac
+    department: Customer Care Help Center
+    phone: "+18004334822"
+    country: US
+    notes: "Mitsubishi Electric HVAC 'Customer Care help center' line."
+    source: "mitsubishicomfort.com for-pros page"
+    last_verified: "2025-12-24"

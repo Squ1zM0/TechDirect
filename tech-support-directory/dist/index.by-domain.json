@@ -1,0 +1,333 @@
+{
+  "version": "2025-12-24",
+  "byDomain": {
+    "hotwater.com": [
+      "a-o-smith",
+      "ao-smith",
+      "ao-smith-water-products"
+    ],
+    "aaon.com": [
+      "aaon"
+    ],
+    "addison-hvac.com": [
+      "addison"
+    ],
+    "aerco.com": [
+      "aerco"
+    ],
+    "airedale.com": [
+      "airedale"
+    ],
+    "alfalaval.us": [
+      "alfa-laval"
+    ],
+    "amana-hac.com": [
+      "amana-hac"
+    ],
+    "americanstandardair.com": [
+      "american-standard-air"
+    ],
+    "aprilaire.com": [
+      "aprilaire"
+    ],
+    "armstrongair.com": [
+      "armstrong-air"
+    ],
+    "armstrongfluidtechnology.com": [
+      "armstrong-fluid-technology"
+    ],
+    "bardhvac.com": [
+      "bard"
+    ],
+    "xylem.com": [
+      "bell-gossett"
+    ],
+    "bosch-homecomfort.com": [
+      "bosch-home-comfort"
+    ],
+    "bradfordwhite.com": [
+      "bradford-white"
+    ],
+    "bryant.com": [
+      "bryant"
+    ],
+    "buderus.com": [
+      "buderus"
+    ],
+    "burnhamcommercial.com": [
+      "burnham-commercial"
+    ],
+    "caleffi.com": [
+      "caleffi"
+    ],
+    "camfil.com": [
+      "camfil"
+    ],
+    "captiveaire.com": [
+      "captiveaire"
+    ],
+    "carrier.com": [
+      "carrier"
+    ],
+    "cleaverbrooks.com": [
+      "cleaver-brooks"
+    ],
+    "climatemaster.com": [
+      "climatemaster"
+    ],
+    "clivet.us": [
+      "clivet"
+    ],
+    "colmaccoil.com": [
+      "colmac-coil"
+    ],
+    "velocityboilerworks.com": [
+      "crown-boiler",
+      "velocity-boiler-works"
+    ],
+    "daikincomfort.com": [
+      "daikin"
+    ],
+    "daikinapplied.com": [
+      "daikin-applied"
+    ],
+    "danfoss.com": [
+      "danfoss"
+    ],
+    "dectron.com": [
+      "dectron"
+    ],
+    "desert-aire.com": [
+      "desert-aire"
+    ],
+    "dunkirk.com": [
+      "dunkirk"
+    ],
+    "ebmpapst.com": [
+      "ebm-papst"
+    ],
+    "emerson.com": [
+      "emerson"
+    ],
+    "engineeredairllc.com": [
+      "engineered-air-llc"
+    ],
+    "evapco.com": [
+      "evapco"
+    ],
+    "fantech.net": [
+      "fantech"
+    ],
+    "fieldcontrols.com": [
+      "field-controls"
+    ],
+    "semcohvac.com": [
+      "flaktgroup-semco"
+    ],
+    "fujitsugeneral.com": [
+      "fujitsu-general"
+    ],
+    "goodmanmfg.com": [
+      "goodman"
+    ],
+    "greecomfort.com": [
+      "gree"
+    ],
+    "greenheck.com": [
+      "greenheck",
+      "greenheck-doas"
+    ],
+    "grundfos.com": [
+      "grundfos"
+    ],
+    "heatcraftrpd.com": [
+      "heatcraft-refrigeration-products",
+      "heatcraft-rpd"
+    ],
+    "hitachiaircon.com": [
+      "hitachi"
+    ],
+    "htproducts.com": [
+      "htp"
+    ],
+    "hydro-thermal.com": [
+      "hydro-thermal"
+    ],
+    "iceomatic.com": [
+      "ice-o-matic"
+    ],
+    "icpusa.com": [
+      "icp"
+    ],
+    "laars.com": [
+      "laars"
+    ],
+    "lennox.com": [
+      "lennox"
+    ],
+    "lghvac.com": [
+      "lg-hvac"
+    ],
+    "lochinvar.com": [
+      "lochinvar"
+    ],
+    "lorencook.com": [
+      "loren-cook"
+    ],
+    "marvair.com": [
+      "marvair"
+    ],
+    "metraflex.com": [
+      "metraflex"
+    ],
+    "mitsubishicomfort.com": [
+      "mitsubishi-electric-hvac"
+    ],
+    "modinehvac.com": [
+      "modine"
+    ],
+    "munters.com": [
+      "munters",
+      "munters-us"
+    ],
+    "nailor.com": [
+      "nailor"
+    ],
+    "navieninc.com": [
+      "navien"
+    ],
+    "neptronic.com": [
+      "neptronic"
+    ],
+    "nordyne.com": [
+      "nordyne"
+    ],
+    "ntiboilers.com": [
+      "nti-boilers"
+    ],
+    "iaq.na.panasonic.com": [
+      "panasonic"
+    ],
+    "priceindustries.com": [
+      "price-industries"
+    ],
+    "raypak.com": [
+      "raypak"
+    ],
+    "renewaire.com": [
+      "renewaire"
+    ],
+    "resideo.com": [
+      "resideo"
+    ],
+    "reznorhvac.com": [
+      "reznor"
+    ],
+    "rheem.com": [
+      "rheem"
+    ],
+    "riello.com": [
+      "riello"
+    ],
+    "rinnai.us": [
+      "rinnai"
+    ],
+    "ruskin.com": [
+      "ruskin"
+    ],
+    "ruud.com": [
+      "ruud"
+    ],
+    "samsunghvac.com": [
+      "samsung-hvac"
+    ],
+    "spacepak.com": [
+      "spacepak"
+    ],
+    "spirotherm.com": [
+      "spirotherm"
+    ],
+    "stiebel-eltron-usa.com": [
+      "stiebel-eltron"
+    ],
+    "stulz.com": [
+      "stulz"
+    ],
+    "swegon.com": [
+      "swegon"
+    ],
+    "systemair.com": [
+      "systemair"
+    ],
+    "tacocomfort.com": [
+      "taco"
+    ],
+    "watts.com": [
+      "tekmar",
+      "watts"
+    ],
+    "portal.temtrol.com": [
+      "temtrol"
+    ],
+    "unicosystem.com": [
+      "unico"
+    ],
+    "titus-hvac.com": [
+      "titus-hvac"
+    ],
+    "trane.com": [
+      "trane"
+    ],
+    "tranter.com": [
+      "tranter"
+    ],
+    "triangletube.com": [
+      "triangle-tube"
+    ],
+    "trox-northamerica.com": [
+      "trox"
+    ],
+    "tcf.com": [
+      "twin-city-fan"
+    ],
+    "usboiler.net": [
+      "us-boiler"
+    ],
+    "uponor.com": [
+      "uponor"
+    ],
+    "uticaboilers.com": [
+      "utica-boilers"
+    ],
+    "valentair.com": [
+      "valent"
+    ],
+    "vertiv.com": [
+      "vertiv",
+      "vertiv-liebert"
+    ],
+    "viessmann-us.com": [
+      "viessmann"
+    ],
+    "copeland.com": [
+      "vilter",
+      "white-rodgers"
+    ],
+    "waterfurnace.com": [
+      "waterfurnace",
+      "waterfurnace-tech-services"
+    ],
+    "weil-mclain.com": [
+      "weil-mclain"
+    ],
+    "wilo.com": [
+      "wilo"
+    ],
+    "york.com": [
+      "york"
+    ],
+    "career.ziehl-abegg.us": [
+      "ziehl-abegg"
+    ]
+  }
+}

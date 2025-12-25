@@ -1,0 +1,16 @@
+id: systemair
+name: Systemair USA
+website: https://www.systemair.com/en-us/
+categories:
+- hvac
+- airflow
+aliases:
+- Systemair
+support:
+- category: hvac
+  department: Contact & Support (US)
+  phone: '+18002637081'
+  country: US
+  notes: Systemair USA contact & support phone (office hours).
+  source: systemair.com/en-us/contact-and-support
+  last_verified: '2025-12-24'

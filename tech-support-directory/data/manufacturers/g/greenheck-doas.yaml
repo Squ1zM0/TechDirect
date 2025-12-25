@@ -1,0 +1,13 @@
+id: greenheck-doas
+name: Greenheck (DOAS)
+website: https://www.greenheck.com/doas-technical-support
+categories: [hvac]
+aliases: []
+support:
+  - category: hvac
+    department: DOAS Technical Support
+    phone: "+18664782574"
+    country: US
+    notes: "Dedicated DOAS technical support contact."
+    source: "greenheck.com DOAS technical support"
+    last_verified: "2025-12-24"

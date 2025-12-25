@@ -1,0 +1,17 @@
+id: cleaver-brooks
+name: Cleaver-Brooks
+website: https://cleaverbrooks.com/
+categories:
+- hvac
+- plumbing
+aliases:
+- Cleaver Brooks
+support:
+- category: hvac
+  department: Customer Service
+  phone: '+18002505883'
+  country: US
+  notes: Cleaver-Brooks customer service line used for parts/service routing for boiler
+    room equipment.
+  source: cleaverbrooks.com/contactus
+  last_verified: '2025-12-24'

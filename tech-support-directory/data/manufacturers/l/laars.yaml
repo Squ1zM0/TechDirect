@@ -1,0 +1,14 @@
+id: laars
+name: Laars Heating Systems
+website: https://www.laars.com/
+categories:
+- hvac
+aliases: []
+support:
+- category: hvac
+  department: Factory Technical Support
+  phone: '+18009009276'
+  country: US
+  notes: Factory Technical Support number listed on Laars service centers page.
+  source: laars.com service centers page
+  last_verified: '2025-12-24'

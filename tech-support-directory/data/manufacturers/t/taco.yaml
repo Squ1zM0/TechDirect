@@ -1,0 +1,13 @@
+id: taco
+name: Taco Comfort Solutions
+website: https://www.tacocomfort.com/support/tech-support/
+categories: [hvac]
+aliases: ["Taco"]
+support:
+  - category: hvac
+    department: Tech Support
+    phone: "+14019428000"
+    country: US
+    notes: "Tech support line listed on Taco's Tech Support page."
+    source: "tacocomfort.com tech support"
+    last_verified: "2025-12-24"

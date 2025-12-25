@@ -1,0 +1,16 @@
+id: temtrol
+name: Temtrol
+website: https://portal.temtrol.com/
+categories:
+- hvac
+aliases:
+- Governair
+support:
+- category: hvac
+  department: HelpDesk / Support
+  phone: '+14052637286'
+  country: US
+  notes: Temtrol portal 'HelpDesk' main phone listed on Temtrol contact page (Nortek
+    Air Solutions).
+  source: portal.temtrol.com/Contact
+  last_verified: '2025-12-24'

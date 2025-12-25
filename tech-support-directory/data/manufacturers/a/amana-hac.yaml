@@ -1,0 +1,15 @@
+id: amana-hac
+name: Amana Heating & Air Conditioning
+website: https://www.amana-hac.com/about-us/contact-us
+categories:
+- hvac
+aliases: []
+support:
+- category: hvac
+  department: Heating & Cooling Support
+  phone: '+18772544729'
+  country: US
+  notes: Amana Heating & Cooling support line listed on Amana registration/support
+    contact.
+  source: register.amana.com support contact page
+  last_verified: '2025-12-24'

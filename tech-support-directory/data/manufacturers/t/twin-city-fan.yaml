@@ -1,0 +1,17 @@
+id: twin-city-fan
+name: Twin City Fan & Blower
+website: https://www.tcf.com/
+categories:
+- airflow
+- hvac
+aliases:
+- TCF
+- Twin City Fan
+support:
+- category: hvac
+  department: Field Service Hotline
+  phone: '+17632783977'
+  country: US
+  notes: Twin City Fan field service hotline for installed equipment support.
+  source: tcf.com/contact-us
+  last_verified: '2025-12-24'

@@ -1,0 +1,17 @@
+id: bell-gossett
+name: Bell & Gossett (Xylem)
+website: https://www.xylem.com/en-us/brands/bell-gossett/
+categories:
+- hvac
+- plumbing
+aliases:
+- B&G
+- Bell and Gossett
+support:
+- category: hvac
+  department: Technical Support (Xylem SmartSupport)
+  phone: '+18559957877'
+  country: US
+  notes: Xylem SmartSupport primary contact for GWT & B&G.
+  source: https://myaccess.xyleminc.com/SecurityTokenService/Support.aspx
+  last_verified: '2025-12-24'

@@ -1,0 +1,14 @@
+id: gree
+name: GREE Comfort
+website: https://www.greecomfort.com/on-site-tech-support/
+categories:
+- hvac
+aliases: []
+support:
+- category: hvac
+  department: Technical Support (Call Center)
+  phone: '+18888507928'
+  country: US
+  notes: GREE Comfort on-site tech support call center.
+  source: https://www.greecomfort.com/on-site-tech-support/ (official)
+  last_verified: '2025-12-24'

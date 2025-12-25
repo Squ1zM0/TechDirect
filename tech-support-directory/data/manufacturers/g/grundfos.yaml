@@ -1,0 +1,15 @@
+id: grundfos
+name: Grundfos
+website: https://www.grundfos.com/us
+categories:
+- hvac
+aliases: []
+support:
+- category: hvac
+  department: Customer Service / Support
+  phone: '+18449942850'
+  country: US
+  notes: Pumps support phone (U.S.) from Grundfos contact page (use for product/application
+    support).
+  source: https://www.grundfos.com/us/campaign/yeomans-chicago-corporation-ycc/explore-contact
+  last_verified: '2025-12-24'

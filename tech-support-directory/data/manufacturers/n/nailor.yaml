@@ -1,0 +1,15 @@
+id: nailor
+name: Nailor Industries
+website: https://nailor.com/contact-us
+categories:
+- hvac
+aliases:
+- Nailor Industries
+support:
+- category: hvac
+  department: Factory / General Support
+  phone: '+12815901172'
+  country: US
+  notes: Nailor Industries U.S. headquarters telephone.
+  source: nailor.com contact page
+  last_verified: '2025-12-24'

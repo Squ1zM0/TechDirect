@@ -1,0 +1,13 @@
+id: american-standard-air
+name: American Standard Heating & Air Conditioning
+website: https://www.americanstandardair.com/
+categories: [hvac]
+aliases: [Trane (shared consumer relations)]
+support:
+  - category: hvac
+    department: Customer Care
+    phone: "+18552602975"
+    country: US
+    notes: "American Standard air site references 1-855-260-2975 for more help (shared with Trane residential)."
+    source: "americanstandardair.com contact-us page"
+    last_verified: "2025-12-24"

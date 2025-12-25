@@ -1,0 +1,13 @@
+id: renewaire
+name: RenewAire
+website: https://renewaire.com/product-support/
+categories: [hvac]
+aliases: []
+support:
+  - category: hvac
+    department: Technical Sales Support
+    phone: "+18006274499"
+    country: US
+    notes: "Technical Sales Support team provides troubleshooting and product support."
+    source: "renewaire.com product support"
+    last_verified: "2025-12-24"

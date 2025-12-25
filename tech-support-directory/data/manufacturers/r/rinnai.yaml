@@ -1,0 +1,14 @@
+id: rinnai
+name: Rinnai
+website: https://www.rinnai.us/professional/techsupport
+categories:
+- hvac
+aliases: []
+support:
+- category: hvac
+  department: PRO Tech Support
+  phone: '+18006219419'
+  country: US
+  notes: Rinnai PRO tech support for service professionals.
+  source: https://www.rinnai.us/professional/techsupport (official)
+  last_verified: '2025-12-24'

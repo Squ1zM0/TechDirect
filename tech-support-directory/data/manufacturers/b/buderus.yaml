@@ -1,0 +1,15 @@
+id: buderus
+name: Buderus (Bosch Thermotechnology)
+website: https://www.buderus.com/en/home/usa-kanada/
+categories:
+- hvac
+aliases:
+- Bosch Home Comfort Buderus
+support:
+- category: hvac
+  department: Commercial Support
+  phone: '+18003261400'
+  country: US
+  notes: Commercial support phone listed on Buderus USA/Canada contact page.
+  source: https://www.buderus.com/en/home/usa-kanada/
+  last_verified: '2025-12-24'

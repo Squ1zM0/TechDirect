@@ -1,0 +1,16 @@
+id: bradford-white
+name: Bradford White
+website: https://www.bradfordwhite.com/
+categories:
+- hvac
+aliases:
+- Laars
+support:
+- category: hvac
+  department: Technical Support (Plumbing Professionals Only)
+  phone: '+18003343393'
+  country: US
+  notes: 24/7 technical support; Bradford White notes tech support is for plumbing
+    professionals only.
+  source: bradfordwhite.com contact Bradford White page
+  last_verified: '2025-12-24'

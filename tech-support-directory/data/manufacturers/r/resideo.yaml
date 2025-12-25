@@ -1,0 +1,16 @@
+id: resideo
+name: Resideo
+website: https://www.resideo.com/us/en/
+categories:
+- hvac
+aliases:
+- Honeywell Home
+support:
+- category: hvac
+  department: Technical Support (Contractor option available)
+  phone: '+18006333991'
+  country: US
+  notes: Technical Support line; professional contractor support is available via
+    contractor option.
+  source: resideo.com support
+  last_verified: '2025-12-24'

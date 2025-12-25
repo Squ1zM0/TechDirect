@@ -1,0 +1,13 @@
+id: carrier
+name: Carrier
+website: https://www.carrier.com/residential/en/us/
+categories: [hvac]
+aliases: [Bryant, Payne]
+support:
+  - category: hvac
+    department: Customer Service / Support
+    phone: "+18002277437"
+    country: US
+    notes: "Carrier '1-800-CARRIER' support line."
+    source: "carrier.com contact page"
+    last_verified: "2025-12-24"

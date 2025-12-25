@@ -1,0 +1,14 @@
+id: alfa-laval
+name: Alfa Laval
+website: https://www.alfalaval.us/
+categories:
+- hvac
+aliases: []
+support:
+- category: hvac
+  department: Customer Service / Technical Support
+  phone: '+18662532528'
+  country: US
+  notes: Alfa Laval USA customer service hotline (heat transfer/fluid handling).
+  source: alfalaval.com contact page
+  last_verified: '2025-12-24'

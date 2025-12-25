@@ -1,0 +1,16 @@
+id: ice-o-matic
+name: Ice-O-Matic
+website: https://www.iceomatic.com/
+categories:
+- hvac
+aliases:
+- Ice O Matic
+support:
+- category: hvac
+  department: Technical Support (Licensed Refrigeration Techs)
+  phone: '+18004233367'
+  country: US
+  notes: Ice-O-Matic technical support for licensed refrigeration technicians (options
+    noted on contact page).
+  source: iceomatic.com/Contact
+  last_verified: '2025-12-24'

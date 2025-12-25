@@ -1,0 +1,17 @@
+id: flaktgroup-semco
+name: "Fl\xE4ktGroup SEMCO"
+website: https://www.semcohvac.com/
+categories:
+- hvac
+aliases:
+- SEMCO
+- FlaktGroup SEMCO
+support:
+- category: hvac
+  department: Sales & Support / Main
+  phone: '+15734431481'
+  country: US
+  notes: "Fl\xE4ktGroup SEMCO corporate contact phone listed on 'Our Company' page\
+    \ (routes sales/support)."
+  source: semcohvac.com/our-company
+  last_verified: '2025-12-24'

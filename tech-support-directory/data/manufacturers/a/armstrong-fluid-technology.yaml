@@ -1,0 +1,14 @@
+id: armstrong-fluid-technology
+name: Armstrong Fluid Technology
+website: https://armstrongfluidtechnology.com/
+categories:
+- hvac
+aliases: []
+support:
+- category: hvac
+  department: After Sales / Service Support
+  phone: '+18442382377'
+  country: US
+  notes: North America after-sales/service support line (pumps/heat exchangers/controls).
+  source: armstrongfluidtechnology.com emergency support page
+  last_verified: '2025-12-24'

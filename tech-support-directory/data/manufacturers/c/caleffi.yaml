@@ -1,0 +1,16 @@
+id: caleffi
+name: Caleffi North America
+website: https://www.caleffi.com/en-us
+categories:
+- hvac
+aliases:
+- Ask Caleffi
+- Caleffi
+support:
+- category: hvac
+  department: Technical Support
+  phone: '+14143386338'
+  country: US
+  notes: Hydronics technical support line (Milwaukee, WI).
+  source: https://www.caleffi.com/en-us/contacts/contact-us
+  last_verified: '2025-12-24'

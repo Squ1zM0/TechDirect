@@ -1,0 +1,14 @@
+id: navien
+name: Navien
+website: https://www.navieninc.com/support
+categories:
+- hvac
+aliases: []
+support:
+- category: hvac
+  department: Product & Technical Support (Option 2)
+  phone: '+18005198794'
+  country: US
+  notes: Navien product & technical support line (select option 2).
+  source: https://www.navieninc.com/support (official)
+  last_verified: '2025-12-24'

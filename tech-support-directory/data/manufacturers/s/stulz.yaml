@@ -1,0 +1,13 @@
+id: stulz
+name: STULZ USA
+website: https://www.stulz.com/en-us/product-support/technical-support/
+categories: [hvac]
+aliases: []
+support:
+  - category: hvac
+    department: Technical Support (24/7/365)
+    phone: "+18885291266"
+    country: US
+    notes: "Factory technical support for customers and technicians in the field (24/7/365)."
+    source: "stulz.com technical support"
+    last_verified: "2025-12-24"
