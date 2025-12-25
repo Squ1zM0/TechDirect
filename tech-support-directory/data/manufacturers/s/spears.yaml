@@ -1,0 +1,16 @@
+id: spears
+name: Spears Manufacturing
+website: https://www.spearsmfg.com/
+categories:
+- plumbing
+aliases:
+- Spears Mfg
+support:
+- category: plumbing
+  department: Technical Support (via HQ)
+  phone: "+16264342830"
+  country: US
+  notes: Spears corporate phone; request Technical Services/Support.
+  source: spearsmfg.com corporate contact references
+  last_verified: '2025-12-24'
+  regions: []

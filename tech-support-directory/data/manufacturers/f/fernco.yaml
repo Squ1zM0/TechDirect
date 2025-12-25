@@ -1,0 +1,15 @@
+id: fernco
+name: Fernco
+website: https://www.fernco.com/contact-us
+categories:
+- plumbing
+aliases: []
+support:
+- category: plumbing
+  department: Customer Service / Technical Support
+  phone: "+18105039000"
+  country: US
+  notes: Fernco main US customer service line (Davison, MI).
+  source: fernco.com locations/contact pages
+  last_verified: '2025-12-24'
+  regions: []

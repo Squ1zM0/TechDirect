@@ -1,0 +1,15 @@
+id: wessels
+name: Wessels Company
+website: https://www.westank.com/
+categories:
+- hvac
+aliases:
+- Wessels
+support:
+- category: hvac
+  department: Sales & Support
+  phone: "+13178889800"
+  country: US
+  notes: Tanks/expansion/support line (commercial/hydronic).
+  source: https://www.westank.com/contact/
+  last_verified: '2025-12-24'

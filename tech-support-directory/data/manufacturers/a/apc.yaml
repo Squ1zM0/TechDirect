@@ -1,0 +1,16 @@
+id: apc
+name: APC by Schneider Electric
+website: https://www.se.com/us/en/work/support/
+categories:
+- electrical
+aliases:
+- American Power Conversion
+- Schneider Electric APC
+support:
+- category: electrical
+  department: APC Technical Support (North America)
+  phone: '+18008004272'
+  country: US
+  notes: APC support line (North America toll-free).
+  source: se.com APC FAQ/Support references
+  last_verified: '2025-12-25'

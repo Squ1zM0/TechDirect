@@ -3,11 +3,20 @@ name: Watts
 website: https://www.watts.com/
 categories:
 - hvac
+- plumbing
 aliases: []
 support:
 - category: hvac
   department: Technical Support
-  phone: '+19786896066'
+  phone: "+19786896066"
+  country: US
+  notes: Watts Plumbing/Heating/Drainage customer support & technical support (press
+    2).
+  source: watts.com support page
+  last_verified: '2025-12-24'
+- category: plumbing
+  department: Technical Support
+  phone: "+19786896066"
   country: US
   notes: Watts Plumbing/Heating/Drainage customer support & technical support (press
     2).

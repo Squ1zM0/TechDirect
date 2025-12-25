@@ -1,0 +1,15 @@
+id: flamco
+name: Flamco
+website: https://flamcogroup.us/
+categories:
+- hvac
+aliases:
+- Flamco (Aalberts HFC)
+support:
+- category: hvac
+  department: Customer Service / Technical Support
+  phone: "+18009008654"
+  country: US
+  notes: Hydronic flow control / expansion products support.
+  source: https://flamcogroup.us/main/contact-us
+  last_verified: '2025-12-24'

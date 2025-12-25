@@ -1,0 +1,15 @@
+id: nsi-industries
+name: NSI Industries
+website: https://nsiindustries.com/
+categories:
+- electrical
+aliases:
+- NSi Industries
+support:
+- category: electrical
+  department: Customer Service / Support
+  phone: "+18003215847"
+  country: US
+  notes: Customer service line used for support routing (electrical team).
+  source: https://nsiindustries.com/support/electrical-support/contact/
+  last_verified: '2025-12-25'

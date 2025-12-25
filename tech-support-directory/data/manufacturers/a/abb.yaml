@@ -1,0 +1,15 @@
+id: abb
+name: ABB
+website: https://new.abb.com/us
+categories:
+- electrical
+aliases:
+- ABB Electrification
+support:
+- category: electrical
+  department: Technical Support
+  phone: "+18004357365"
+  country: US
+  notes: Professional/contractor technical support line (per source).
+  source: https://new.abb.com/us/about/contact
+  last_verified: '2025-12-25'

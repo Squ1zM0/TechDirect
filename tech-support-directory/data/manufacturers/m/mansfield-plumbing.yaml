@@ -1,0 +1,17 @@
+id: mansfield-plumbing
+name: Mansfield Plumbing Products
+website: https://www.mansfieldplumbing.com/contact/
+categories:
+- plumbing
+aliases:
+- Mansfield
+support:
+- category: plumbing
+  department: Technical Support / Warranty
+  phone: "+18778503060"
+  country: US
+  notes: Support line for sanitaryware/plastic fittings/parts and warranty/technical
+    questions.
+  source: mansfieldplumbing.com contact page
+  last_verified: '2025-12-24'
+  regions: []

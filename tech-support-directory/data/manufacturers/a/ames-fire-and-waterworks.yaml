@@ -1,0 +1,16 @@
+id: ames-fire-and-waterworks
+name: Ames Fire & Waterworks
+website: https://www.watts.com/our-story/brands/ames-fire-and-waterworks
+categories:
+- plumbing
+aliases:
+- Ames
+support:
+- category: plumbing
+  department: Technical Support (via Watts)
+  phone: "+19786896066"
+  country: US
+  notes: Watts support line for Plumbing/Heating/Drainage (press 2 for product selection/technical
+    support); covers Watts brands including Ames.
+  source: watts.com support page
+  last_verified: '2025-12-25'

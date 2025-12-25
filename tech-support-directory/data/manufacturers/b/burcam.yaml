@@ -1,0 +1,15 @@
+id: burcam
+name: Burcam
+website: https://burcam.com/
+categories:
+- plumbing
+aliases: []
+support:
+- category: plumbing
+  department: Customer Service
+  phone: "+18003611820"
+  country: US
+  notes: Customer service / warranty assistance line.
+  source: burcam.com warranty page
+  last_verified: '2025-12-25'
+  regions: []

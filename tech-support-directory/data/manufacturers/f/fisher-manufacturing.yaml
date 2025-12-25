@@ -1,0 +1,16 @@
+id: fisher-manufacturing
+name: Fisher Manufacturing
+website: https://fisherfaucets.com/about/our-story
+categories:
+- plumbing
+aliases:
+- Fisher Faucets
+support:
+- category: plumbing
+  department: Customer Service / Technical Support
+  phone: "+18004216162"
+  country: US
+  notes: Phone number listed on Fisher Manufacturing site (company story / rep locator)
+    for customer/technical support.
+  source: fisherfaucets.com company page
+  last_verified: '2025-12-25'

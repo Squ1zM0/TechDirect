@@ -1,0 +1,16 @@
+id: nvent-erico
+name: nVent ERICO
+website: https://www.nvent.com/en-us/erico/cadweld/technical-support
+categories:
+- electrical
+aliases:
+- ERICO
+- nVent ERICO CADWELD
+support:
+- category: electrical
+  department: CADWELD Technical Support
+  phone: '+18002489353'
+  country: US
+  notes: Technical support line for ERICO CADWELD.
+  source: nvent.com ERICO CADWELD technical support page
+  last_verified: '2025-12-25'

@@ -1,0 +1,15 @@
+id: sentinel
+name: Sentinel
+website: https://sentinelprotects.com
+categories:
+- hvac
+aliases:
+- Sentinel Performance Solutions
+support:
+- category: technical
+  department: Customer Services
+  phone: "+441928704330"
+  country: GB
+  notes: UK support line (installed equipment in US via distributors)
+  source: https://sentinelprotects.com/uk-en/page/contact
+  last_verified: '2025-12-24'

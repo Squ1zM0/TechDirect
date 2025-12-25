@@ -1,0 +1,16 @@
+id: pioneer-industries
+name: Pioneer Industries
+website: https://pioneerind.com/contact-us/
+categories:
+- plumbing
+aliases:
+- Pioneer Industries, Inc.
+- Pioneer Faucet
+support:
+- category: plumbing
+  department: Customer Service / Support
+  phone: "+18003389468"
+  country: US
+  notes: Pioneer Industries customer service/support line for faucet products.
+  source: pioneerind.com contact us page
+  last_verified: '2025-12-25'

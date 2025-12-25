@@ -1,0 +1,15 @@
+id: wellmate
+name: Wellmate (Pentair)
+website: https://www.pentair.com/en-us/education-support/contact-us/flow-technologies-contact-us.html
+categories:
+- plumbing
+aliases:
+- Pentair Wellmate
+support:
+- category: plumbing
+  department: Pro Support
+  phone: "+18887827483"
+  country: US
+  notes: Pentair Flow Pro Support line for Sta-Rite & Wellmate.
+  source: https://www.pentair.com/en-us/education-support/contact-us/flow-technologies-contact-us.html
+  last_verified: '2025-12-25'

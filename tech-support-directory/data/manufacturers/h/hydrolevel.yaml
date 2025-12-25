@@ -1,0 +1,15 @@
+id: hydrolevel
+name: Hydrolevel
+website: https://hydrolevel.com/contact-us/
+categories:
+- hvac
+aliases:
+- Hydrolevel Company
+support:
+- category: hvac
+  department: Technical Support Hotline
+  phone: "+18009892275"
+  country: US
+  notes: Hydrolevel technical support hotline as listed on their contact page.
+  source: https://hydrolevel.com/contact-us/
+  last_verified: '2025-12-24'

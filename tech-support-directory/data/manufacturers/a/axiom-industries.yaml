@@ -1,0 +1,15 @@
+id: axiom-industries
+name: Axiom Industries
+website: https://axiomind.com/contact-us/
+categories:
+- hvac
+aliases: []
+support:
+- category: hvac
+  department: Sales / Technical
+  phone: "+18776511815"
+  country: CA
+  notes: Toll-free number listed on Axiom Industries contact page (hydronic pressurization/feeding
+    equipment).
+  source: axiomind.com Contact Us
+  last_verified: '2025-12-24'

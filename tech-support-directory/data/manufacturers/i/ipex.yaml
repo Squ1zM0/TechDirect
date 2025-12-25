@@ -1,0 +1,16 @@
+id: ipex
+name: IPEX
+website: https://www.ipexna.com/contact-us/
+categories:
+- plumbing
+aliases:
+- IPEX USA
+- IPEX North America
+support:
+- category: plumbing
+  department: Customer Service / Technical Support
+  phone: "+18004639572"
+  country: US
+  notes: Customer service phone for IPEX (US/Canada listed).
+  source: ipexna.com contact us page
+  last_verified: '2025-12-25'

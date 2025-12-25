@@ -1,0 +1,15 @@
+id: keeney
+name: Keeney
+website: https://keeneymfg.com/
+categories:
+- plumbing
+aliases: []
+support:
+- category: plumbing
+  department: Technical Support
+  phone: "+18002430526"
+  country: US
+  notes: Customer service department line (catalog/support).
+  source: keeneymfg.com catalog PDF
+  last_verified: '2025-12-25'
+  regions: []

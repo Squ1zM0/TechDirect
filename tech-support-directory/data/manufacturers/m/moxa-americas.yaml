@@ -1,0 +1,13 @@
+id: moxa-americas
+name: Moxa Americas
+website: https://www.moxa.com/en
+categories:
+- electrical
+support:
+- category: electrical
+  department: Technical Support
+  phone: '+18886692872'
+  country: US
+  notes: Moxa Americas toll-free technical support (per Moxa manual).
+  source: https://www.moxa.com/getmedia/448700cb-bb39-4448-91e7-b67a183ea4a0/moxa-software-license-portal-manual-v1.0.pdf
+  last_verified: '2025-12-25'

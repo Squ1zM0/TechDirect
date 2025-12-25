@@ -1,0 +1,16 @@
+id: kinetico
+name: Kinetico
+website: https://www.kinetico.com/customer-support/
+categories:
+- plumbing
+aliases:
+- Kinetico Water Systems
+support:
+- category: plumbing
+  department: Customer Support (24-hour)
+  phone: "+18009449283"
+  country: US
+  notes: 24-hour support phone listed on Kinetico customer support page (also references
+    commercial contact).
+  source: kinetico.com customer support page
+  last_verified: '2025-12-25'

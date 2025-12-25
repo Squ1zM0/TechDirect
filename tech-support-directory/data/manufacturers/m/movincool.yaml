@@ -1,0 +1,17 @@
+id: movincool
+name: MovinCool
+website: https://www.movincool.com/
+categories:
+- hvac
+aliases:
+- Movin Cool
+support:
+- category: hvac
+  department: Technical Support
+  phone: "+18002649573"
+  country: US
+  notes: Toll-free technical support; MovinCool support page indicates Option 3 for
+    technical support.
+  source: movincool.com support page
+  last_verified: '2025-12-24'
+  regions: []

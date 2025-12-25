@@ -1,0 +1,15 @@
+id: wayne-water-systems
+name: Wayne Water Systems
+website: https://www.waynepumps.com
+categories:
+- plumbing
+aliases:
+- Wayne Pumps
+support:
+- category: plumbing
+  department: Customer Service
+  phone: "+18002370987"
+  country: US
+  notes: Customer service phone listed on Wayne contact page.
+  source: waynepumps.com contact us page
+  last_verified: '2025-12-25'

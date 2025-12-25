@@ -1,0 +1,15 @@
+id: ideal-industries
+name: IDEAL Industries
+website: https://www.idealind.com/us/en.html
+categories:
+- electrical
+aliases:
+- IDEAL Electrical
+support:
+- category: electrical
+  department: Technical Support
+  phone: "+18004350705"
+  country: US
+  notes: Professional/contractor technical support line (per source).
+  source: https://www.idealind.com/us/en/support/contact-us.html
+  last_verified: '2025-12-25'

@@ -1,0 +1,15 @@
+id: ecosmart
+name: EcoSmart
+website: https://www.ecosmartus.com/support
+categories:
+- plumbing
+aliases:
+- EcoSmart Tankless
+support:
+- category: plumbing
+  department: Tech Support
+  phone: "+18774746473"
+  country: US
+  notes: EcoSmart tech support line for tankless electric and related products.
+  source: ecosmartus.com support page
+  last_verified: '2025-12-25'

@@ -1,0 +1,16 @@
+id: anvil
+name: Anvil (ASC Engineered Solutions)
+website: https://www.asc-es.com/brand/anvil
+categories:
+- plumbing
+- hydronics
+aliases:
+- anvil international
+support:
+- category: plumbing
+  department: Customer Service
+  phone: "+18003012701"
+  country: US
+  notes: ASC Engineered Solutions customer service for Anvil brand.
+  source: https://www.asc-es.com/company/locations
+  last_verified: '2025-12-25'

@@ -1,0 +1,15 @@
+id: atkore
+name: Atkore
+website: https://www.atkore.com/
+categories:
+- electrical
+aliases:
+- Atkore International
+support:
+- category: electrical
+  department: Technical Sales / Support
+  phone: "+18008825543"
+  country: US
+  notes: Distributor/contractor support via technical sales managers (not homeowner).
+  source: https://www.atkore.com/support/how-buy
+  last_verified: '2025-12-25'

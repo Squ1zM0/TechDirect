@@ -1,0 +1,13 @@
+id: nu-air
+name: "Nu-Air Ventilation Systems Inc."
+website: https://nu-airventilation.com/contact/
+categories: [hvac]
+aliases: ["Nu-Air", "Enerboss"]
+support:
+  - category: hvac
+    department: "Technical / Sales Support (HRV/ERV)"
+    phone: "+18005652261"
+    country: CA
+    notes: "Toll-free number listed for Nu-Air Ventilation (Canada; used across North America)."
+    source: "ACHR News HVACR directory / Nu-Air contact info"
+    last_verified: "2025-12-24"

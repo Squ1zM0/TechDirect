@@ -1,0 +1,23 @@
+id: oatey
+name: Oatey
+website: https://www.oatey.com/contact
+categories:
+- plumbing
+aliases: []
+support:
+- category: plumbing
+  department: Technical/Customer Support
+  phone: "+18003219532"
+  country: US
+  notes: Oatey main support line (pro + general).
+  source: oatey.com contact page
+  last_verified: '2025-12-24'
+  regions: []
+- category: plumbing
+  department: Cherne Inquiries
+  phone: "+18008437584"
+  country: US
+  notes: Cherne (Oatey brand) inquiries line.
+  source: oatey.com contact page
+  last_verified: '2025-12-24'
+  regions: []

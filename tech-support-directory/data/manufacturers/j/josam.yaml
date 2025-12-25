@@ -1,0 +1,16 @@
+id: josam
+name: Josam
+website: https://www.josam.com
+categories:
+- plumbing
+- hydronics
+aliases:
+- Josam Company
+support:
+- category: plumbing
+  department: Customer Service
+  phone: "+18003656726"
+  country: US
+  notes: Corporate HQ customer service phone listed on customer service page.
+  source: josam.com customer service page
+  last_verified: '2025-12-25'

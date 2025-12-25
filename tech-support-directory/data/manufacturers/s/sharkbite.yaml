@@ -1,0 +1,21 @@
+id: sharkbite
+name: SharkBite
+website: https://www.sharkbite.com
+categories:
+- plumbing
+aliases: []
+support:
+- category: plumbing
+  department: Customer Service
+  phone: "+18888200120"
+  country: CA
+  notes: Primary contact listed on SharkBite contact page (Canada).
+  source: https://www.sharkbite.com/us/en/contact-us
+  last_verified: '2025-12-25'
+- category: plumbing
+  department: US Contact (Product support)
+  phone: "+18777004242"
+  country: US
+  notes: US contact listed on SharkBite spec sheets for product support.
+  source: https://www.sharkbite.com/sites/default/files/files/SB_PVCFittings_SpecSheet_072715.pdf
+  last_verified: '2025-12-25'

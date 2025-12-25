@@ -1,0 +1,15 @@
+id: viega
+name: Viega
+website: https://www.viega.us/
+categories:
+- plumbing
+aliases:
+- Viega North America
+support:
+- category: plumbing
+  department: Technical Support
+  phone: "+18668388714"
+  country: US
+  notes: Pro technical support for Viega North America products.
+  source: https://www.viega.us/en/resources.html
+  last_verified: '2025-12-24'

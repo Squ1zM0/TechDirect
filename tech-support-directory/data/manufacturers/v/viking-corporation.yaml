@@ -1,0 +1,15 @@
+id: viking-corporation
+name: Viking Corporation
+website: https://www.vikinggroupinc.com/
+categories:
+- plumbing
+aliases:
+- Viking Group Inc.
+support:
+- category: tech-support
+  department: Technical Services
+  phone: "+18773845464"
+  country: US
+  notes: Viking Technical Services.
+  source: https://www.vikinggroupinc.com/sites/default/files/2024-08/F_042023%20-%20VSF303uvir%20Manual%20Rev%205.0.pdf
+  last_verified: '2025-12-25'

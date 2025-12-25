@@ -1,0 +1,19 @@
+id: therma-stor
+name: Therma-Stor
+website: https://thermastor.com/
+categories:
+- hvac
+aliases:
+- ThermaStor
+- Santa Fe Dehumidifiers
+- Quest Dehumidifiers
+- Phoenix Restoration Equipment
+support:
+- category: hvac
+  department: Parts & Tech Support
+  phone: "+18005337533"
+  country: US
+  notes: Parts and technical support line (follow prompts).
+  source: thermastor.com parts & service page
+  last_verified: '2025-12-24'
+  regions: []

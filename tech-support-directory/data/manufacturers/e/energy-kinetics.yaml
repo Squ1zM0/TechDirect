@@ -1,0 +1,15 @@
+id: energy-kinetics
+name: Energy Kinetics
+website: https://energykinetics.com
+categories:
+- hvac
+aliases:
+- Energy Kinetics System 2000
+support:
+- category: technical
+  department: Technical Support
+  phone: "+19087352066"
+  country: US
+  notes: Heating professionals tech support
+  source: https://energykinetics.com/heating-professional-resources/
+  last_verified: '2025-12-24'

@@ -1,0 +1,15 @@
+id: signify
+name: Signify
+website: https://www.signify.com/en-us
+categories:
+- electrical
+aliases:
+- Philips Lighting (Signify)
+support:
+- category: electrical
+  department: Technical Support
+  phone: "+18005550050"
+  country: US
+  notes: Professional/contractor technical support line (per source).
+  source: https://www.signify.com/en-us/get-in-touch
+  last_verified: '2025-12-25'

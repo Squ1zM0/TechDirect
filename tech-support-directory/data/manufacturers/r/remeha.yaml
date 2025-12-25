@@ -1,0 +1,15 @@
+id: remeha
+name: Remeha
+website: https://www.remeha.co.uk
+categories:
+- hvac
+aliases:
+- Remeha by Baxi
+support:
+- category: technical
+  department: Technical Support
+  phone: "+443306780140"
+  country: GB
+  notes: UK technical support line
+  source: https://www.remeha.co.uk/services/technical-support
+  last_verified: '2025-12-24'

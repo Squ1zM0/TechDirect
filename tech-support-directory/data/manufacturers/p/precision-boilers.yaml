@@ -1,0 +1,16 @@
+id: precision-boilers
+name: Precision Boilers
+website: https://precisionboilers.com/contact/
+categories:
+- hvac
+aliases:
+- Precision Boilers Inc.
+support:
+- category: hvac
+  department: Technical Support / Main Line
+  phone: "+14235879390"
+  country: US
+  notes: Precision Boilers main number; technical contacts listed on their contact
+    page.
+  source: https://precisionboilers.com/contact/
+  last_verified: '2025-12-24'

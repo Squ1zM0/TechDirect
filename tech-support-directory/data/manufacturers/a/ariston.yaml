@@ -1,0 +1,16 @@
+id: ariston
+name: Ariston (USA)
+website: https://us.shop.ariston.com/
+categories:
+- plumbing
+aliases:
+- Ariston Group
+- Ariston Thermo
+support:
+- category: plumbing
+  department: Tech Support
+  phone: "+18003239651"
+  country: US
+  notes: Ariston USA tech support line (water heating products).
+  source: us.shop.ariston.com contact page
+  last_verified: '2025-12-25'

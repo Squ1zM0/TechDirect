@@ -1,0 +1,16 @@
+id: tyler-pipe
+name: Tyler Pipe & Coupling (McWane)
+website: https://www.tylerpipe.com/about-us/contact-us/
+categories:
+- plumbing
+aliases:
+- Tyler Pipe
+support:
+- category: plumbing
+  department: Customer Service / Technical Services
+  phone: "+18005278478"
+  country: US
+  notes: Main office phone listed on Tyler Pipe contact page.
+  source: tylerpipe.com contact page
+  last_verified: '2025-12-25'
+  regions: []

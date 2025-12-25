@@ -1,0 +1,15 @@
+id: moen
+name: Moen
+website: https://s2-proofing.moen.com/customer-support/contact-us
+categories:
+- plumbing
+aliases:
+- Moen Incorporated
+support:
+- category: plumbing
+  department: Customer & Technical Support
+  phone: "+18002896636"
+  country: US
+  notes: Moen customer/technical support line (1-800-BUY-MOEN).
+  source: moen.com contact us page
+  last_verified: '2025-12-24'

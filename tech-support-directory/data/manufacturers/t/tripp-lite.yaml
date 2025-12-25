@@ -1,0 +1,16 @@
+id: tripp-lite
+name: Eaton Tripp Lite
+website: https://tripplite.eaton.com/support/help
+categories:
+- electrical
+aliases:
+- Tripp Lite
+- Eaton - Tripp Lite
+support:
+- category: electrical
+  department: Technical Support
+  phone: '+17738691234'
+  country: US
+  notes: Tripp Lite technical support phone (US-based support).
+  source: Tripp Lite/Eaton support PDF and support pages
+  last_verified: '2025-12-25'

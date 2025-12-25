@@ -1,0 +1,15 @@
+id: cresline
+name: Cresline Plastic Pipe Co., Inc.
+website: https://www.cresline.com/
+categories:
+- plumbing
+aliases:
+- Cresline Plastic Pipe
+support:
+- category: tech-support
+  department: Customer Service
+  phone: "+17177662566"
+  country: US
+  notes: Customer service (plastic pipe).
+  source: https://www.cresline.com/cresline
+  last_verified: '2025-12-25'

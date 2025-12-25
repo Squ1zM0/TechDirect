@@ -1,0 +1,15 @@
+id: ilsco
+name: ILSCO
+website: https://www.ilsco.com/Ilsco/ccrz__CCPage?pageKey=ICU
+categories:
+- electrical
+aliases:
+- nVent ILSCO
+support:
+- category: electrical
+  department: Product Application Support
+  phone: '+18887765047'
+  country: US
+  notes: Product application support line listed on Contact Us page.
+  source: ilsco.com contact page
+  last_verified: '2025-12-25'

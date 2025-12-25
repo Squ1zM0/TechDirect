@@ -1,0 +1,15 @@
+id: scot-pump
+name: Scot Pump
+website: https://wilo.com/us/en_us/
+categories:
+- hvac
+- plumbing
+aliases: []
+support:
+- category: hvac
+  department: Contact / Support
+  phone: "+12623777000"
+  country: US
+  notes: Scot Pump phone listed on Wilo USA office locations page.
+  source: https://wilo.com/us/en_us/About-Wilo/Company-Information/Contact-Us/
+  last_verified: '2025-12-24'

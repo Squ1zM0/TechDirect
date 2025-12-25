@@ -7,7 +7,7 @@ aliases: []
 support:
 - category: hvac
   department: Support / Contact
-  phone: '+13368349339'
+  phone: "+13368349339"
   country: US
   notes: ZIEHL-ABEGG US contact number for assistance (ventilation/fans/components used in HVAC equipment).
   source: ziehl-abegg.us (US site contact snippet)

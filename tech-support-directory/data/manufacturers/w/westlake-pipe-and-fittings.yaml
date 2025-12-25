@@ -1,0 +1,16 @@
+id: westlake-pipe-and-fittings
+name: Westlake Pipe & Fittings
+website: https://www.westlakepipe.com/
+categories:
+- plumbing
+aliases:
+- Westlake Pipe
+- LASCO Fittings
+support:
+- category: tech-support
+  department: Customer Service (PVC Fittings)
+  phone: "+18669854701"
+  country: US
+  notes: Customer service for PVC fittings (WPF).
+  source: https://www.westlakepipe.com/contact/customer-service
+  last_verified: '2025-12-25'

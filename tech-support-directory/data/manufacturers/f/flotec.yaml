@@ -1,0 +1,15 @@
+id: flotec
+name: Flotec (Pentair)
+website: https://www.pentair.com/en-us/education-support/contact-us/retail-support-contact-us.html
+categories:
+- plumbing
+aliases:
+- Pentair Flotec
+support:
+- category: plumbing
+  department: Technical Support
+  phone: "+18003656832"
+  country: US
+  notes: Pentair retail technical support line for Flotec & Water Ace.
+  source: https://www.pentair.com/en-us/education-support/contact-us/retail-support-contact-us.html
+  last_verified: '2025-12-25'

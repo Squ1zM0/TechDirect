@@ -1,0 +1,15 @@
+id: legend-valve
+name: Legend Valve
+website: https://legendvalve.com/about-us/contact-us/
+categories:
+- plumbing
+aliases: []
+support:
+- category: plumbing
+  department: Customer Service / Technical Advisors
+  phone: "+18007522082"
+  country: US
+  notes: Main phone listed on Legend Valve Contact Us page; customer service and technical
+    advisors available by phone.
+  source: legendvalve.com Contact Us
+  last_verified: '2025-12-24'

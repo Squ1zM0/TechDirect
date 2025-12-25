@@ -1,0 +1,16 @@
+id: patterson-kelley
+name: Patterson-Kelley
+website: https://www.pattersonkelley.com/
+categories:
+- hvac
+aliases:
+- P-K Boilers
+- PK Boilers
+support:
+- category: hvac
+  department: Technical Service
+  phone: "+18777285351"
+  country: US
+  notes: Toll-free support; technical service number also listed on manuals.
+  source: https://www.pattersonkelley.com/support/customer-support/
+  last_verified: '2025-12-24'

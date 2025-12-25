@@ -1,0 +1,15 @@
+id: plad
+name: Plad
+website: https://wilo.com/us/en_us/
+categories:
+- hvac
+- plumbing
+aliases: []
+support:
+- category: hvac
+  department: Wilo USA (PLAD brand)
+  phone: "+12622046600"
+  country: US
+  notes: Wilo USA main line (covers Wilo brands including PLAD).
+  source: https://wilo.com/us/en_us/About-Wilo/Company-Information/Contact-Us/
+  last_verified: '2025-12-24'

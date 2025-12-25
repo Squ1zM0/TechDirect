@@ -1,0 +1,15 @@
+id: rwc
+name: Reliance Worldwide Corporation (RWC)
+website: https://www.rwc.com
+categories:
+- plumbing
+aliases:
+- reliance worldwide
+support:
+- category: plumbing
+  department: US Support (RWC brands)
+  phone: "+18777004242"
+  country: US
+  notes: RWC US contact used across SharkBite/Cash Acme support.
+  source: https://aspe.org/membership-global-community/affiliate-sponsors/affiliate-sponsor-profile-reliance-worldwide-corporation/
+  last_verified: '2025-12-25'

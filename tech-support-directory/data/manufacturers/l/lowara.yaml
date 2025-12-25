@@ -1,0 +1,15 @@
+id: lowara
+name: Lowara
+website: https://www.xylem.com/en-us/brands/lowara/
+categories:
+- hvac
+aliases:
+- Lowara (Xylem)
+support:
+- category: technical
+  department: Technical Support
+  phone: "+19143235700"
+  country: US
+  notes: Xylem Technical Support (covers Xylem brands)
+  source: https://www.xylem.com/en-lc/brands/hypack/support/
+  last_verified: '2025-12-24'

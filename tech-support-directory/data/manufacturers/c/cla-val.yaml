@@ -1,0 +1,17 @@
+id: cla-val
+name: Cla-Val
+website: https://www.cla-val.com/contact-us
+categories:
+- plumbing
+aliases:
+- Cla-Val USA
+support:
+- category: plumbing
+  department: Customer Support / Technical Assistance
+  phone: "+18009426326"
+  country: US
+  notes: General inquiries and support line; used for waterworks/control valves commonly
+    encountered in plumbing/utility work.
+  source: cla-val.com contact us
+  last_verified: '2025-12-25'
+  regions: []

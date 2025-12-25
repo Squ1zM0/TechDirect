@@ -1,0 +1,18 @@
+id: zurn
+name: Zurn (Zurn Elkay Water Solutions)
+website: https://www.zurn.com/us/en/support.html
+categories:
+- plumbing
+aliases:
+- Zurn Wilkins
+- Wilkins
+support:
+- category: plumbing
+  department: Customer Support
+  phone: "+18556639876"
+  country: US
+  notes: Zurn customer support line (1-855-ONE-ZURN) for product questions and support
+    (incl. Wilkins).
+  source: zurn.com support page
+  last_verified: '2025-12-24'
+  regions: []

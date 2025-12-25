@@ -1,0 +1,15 @@
+id: nds
+name: NDS
+website: https://www.ndspro.com
+categories:
+- plumbing
+aliases:
+- NDS Pro
+support:
+- category: plumbing
+  department: Product Support
+  phone: "+18888254716"
+  country: US
+  notes: Product support call center.
+  source: ndspro.com contact us page
+  last_verified: '2025-12-25'

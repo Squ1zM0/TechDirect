@@ -1,0 +1,15 @@
+id: rehau
+name: REHAU
+website: https://www.rehau.com/us-en/
+categories:
+- plumbing
+aliases:
+- REHAU North America
+support:
+- category: plumbing
+  department: Mechanical & Plumbing Support
+  phone: "+18002976371"
+  country: US
+  notes: Mechanical & plumbing support (incl. PEXa / radiant).
+  source: https://www.rehau.com/us-en/contact-us
+  last_verified: '2025-12-24'

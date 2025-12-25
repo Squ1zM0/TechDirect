@@ -1,0 +1,16 @@
+id: kohler
+name: Kohler
+website: https://www.kohler.com/en/for-professionals/plumber-resources
+categories:
+- plumbing
+aliases:
+- KOHLER
+- Sterling (Kohler)
+support:
+- category: plumbing
+  department: Trade Hotline (Plumbing)
+  phone: "+19208033927"
+  country: US
+  notes: Kohler Trade Hotline for Kohler and Sterling plumbing products.
+  source: kohler.com plumber resources (Trade Hotline)
+  last_verified: '2025-12-24'

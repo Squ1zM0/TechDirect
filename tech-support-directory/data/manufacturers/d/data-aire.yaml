@@ -1,0 +1,17 @@
+id: data-aire
+name: Data Aire
+website: https://www.dataaire.com/
+categories:
+- hvac
+aliases:
+- DataAire
+support:
+- category: hvac
+  department: Customer Service / Technical Support
+  phone: "+17149216000"
+  country: US
+  notes: Manufacturer contact line commonly used for product questions and support;
+    ask for technical support.
+  source: Data Aire contact listing (dataaire.com/dir)
+  last_verified: '2025-12-24'
+  regions: []

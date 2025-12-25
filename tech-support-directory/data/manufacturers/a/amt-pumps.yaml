@@ -1,0 +1,16 @@
+id: amt-pumps
+name: AMT Pump Company
+website: https://amtpumps.com/site/contact-us/
+categories:
+- plumbing
+aliases:
+- AMT
+support:
+- category: plumbing
+  department: Technical Support / Sales
+  phone: "+18882687867"
+  country: US
+  notes: Main AMT Pump Company phone (888-AMT-PUMP).
+  source: amtpumps.com contact page
+  last_verified: '2025-12-25'
+  regions: []

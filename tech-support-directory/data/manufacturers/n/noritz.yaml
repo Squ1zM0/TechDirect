@@ -1,0 +1,16 @@
+id: noritz
+name: Noritz America
+website: https://support.noritz.com/hc/en-us/articles/4407873946271-Contact-Noritz-Technical-Support
+categories:
+- plumbing
+- hydronics
+aliases:
+- Noritz
+support:
+- category: plumbing
+  department: Technical Support
+  phone: "+18667667489"
+  country: US
+  notes: Noritz technical support for tankless water heaters and related products.
+  source: support.noritz.com Contact Noritz Technical Support article
+  last_verified: '2025-12-25'

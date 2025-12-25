@@ -1,0 +1,17 @@
+id: suntec
+name: Suntec Industries
+website: https://www.suntecindustries.com/contact/
+categories:
+- hvac
+aliases:
+- Suntec
+- Suntec Pumps
+support:
+- category: hvac
+  department: Customer Service / Support (Fuel Oil Pumps)
+  phone: "+18008880066"
+  country: US
+  notes: Suntec toll-free number listed on company contact page; routes for support
+    and ordering.
+  source: https://www.suntecindustries.com/contact/
+  last_verified: '2025-12-24'

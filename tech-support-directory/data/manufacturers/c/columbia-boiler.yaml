@@ -1,0 +1,15 @@
+id: columbia-boiler
+name: Columbia Boiler Company
+website: https://www.columbiaboiler.com/
+categories:
+- hvac
+aliases:
+- Columbia Boiler
+support:
+- category: hvac
+  department: Technical Support / Main Line
+  phone: "+16103232700"
+  country: US
+  notes: Main company phone commonly used for service and support routing.
+  source: https://plumbingnet.com/columbia-boiler-co/
+  last_verified: '2025-12-24'

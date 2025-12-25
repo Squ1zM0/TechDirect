@@ -1,0 +1,15 @@
+id: badger-meter
+name: Badger Meter
+website: https://www.badgermeter.com/contact-us/
+categories:
+- plumbing
+aliases:
+- Badger Meter, Inc.
+support:
+- category: plumbing
+  department: Customer Service / Technical Support
+  phone: "+18006163837"
+  country: US
+  notes: Badger Meter support line listed for customer service and technical support.
+  source: https://www.badgermeter.com/contact-us/
+  last_verified: '2025-12-25'

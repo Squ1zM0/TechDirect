@@ -1,0 +1,16 @@
+id: zoeller
+name: Zoeller Pump Company
+website: https://zoellerpumps.com/contact-us/general-contacts/
+categories:
+- plumbing
+aliases:
+- Zoeller
+support:
+- category: plumbing
+  department: Product Support / Main Office
+  phone: "+18009287867"
+  country: US
+  notes: Zoeller main phone and product support contact for pump applications (USA).
+  source: zoellerpumps.com general contacts
+  last_verified: '2025-12-24'
+  regions: []

@@ -1,0 +1,16 @@
+id: peerless-pump
+name: Peerless Pump
+website: https://www.peerlesspump.com/
+categories:
+- hvac
+- plumbing
+aliases:
+- Peerless Pump Company
+support:
+- category: hvac
+  department: Support
+  phone: "+13179259661"
+  country: US
+  notes: Phone for all support listed in a Grundfos portal document that includes Peerless Pump contact details.
+  source: https://portals.grundfos.com/content/dam/portals/extranet-landing/template/documents/extranet-manual%20GMA.pdf
+  last_verified: '2025-12-24'

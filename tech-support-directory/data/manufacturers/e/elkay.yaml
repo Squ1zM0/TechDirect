@@ -1,0 +1,15 @@
+id: elkay
+name: Elkay
+website: https://www.elkay.com/us/en/contact-us.html
+categories:
+- plumbing
+aliases:
+- Elkay Manufacturing
+support:
+- category: plumbing
+  department: Customer Care / Technical Support
+  phone: "+18004764106"
+  country: US
+  notes: Customer Care phone line for product assistance and support.
+  source: elkay.com contact us page
+  last_verified: '2025-12-25'

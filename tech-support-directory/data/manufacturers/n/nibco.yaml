@@ -1,0 +1,15 @@
+id: nibco
+name: NIBCO
+website: https://www.nibco.com/
+categories:
+- plumbing
+aliases:
+- NIBCO INC.
+support:
+- category: plumbing
+  department: Technical Services
+  phone: "+18884464226"
+  country: US
+  notes: Technical services for valves, fittings, and related products.
+  source: https://www.nibco.com/contact-us/technical-services/
+  last_verified: '2025-12-24'

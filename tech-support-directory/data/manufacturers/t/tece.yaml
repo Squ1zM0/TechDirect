@@ -1,0 +1,20 @@
+id: tece
+name: TECE
+website: https://www.tece.com/
+categories:
+- plumbing
+- drainage
+- bathroom-systems
+aliases:
+- TECE GmbH
+support:
+- category: plumbing
+  department: Headquarters (International)
+  phone: "+14926120050"
+  country: DE
+  regions:
+  - US
+  - EU
+  notes: International HQ contact; US contractors typically routed via local rep network.
+  source: https://www.tece.com/en/contact
+  last_verified: '2025-12-25'

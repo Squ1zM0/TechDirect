@@ -1,0 +1,19 @@
+id: blucher
+name: BLÜCHER (USA)
+website: https://blucher.com/
+categories:
+- plumbing
+- drainage
+aliases:
+- BLUCHER
+- BLÜCHER USA
+support:
+- category: plumbing
+  department: Customer Center / Technical
+  phone: "+18003257360"
+  country: US
+  regions:
+  - US
+  notes: Pro/contractor support via Customer Center.
+  source: https://blucher.com/
+  last_verified: '2025-12-25'

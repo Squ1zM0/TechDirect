@@ -1,0 +1,15 @@
+id: hurst-boiler
+name: Hurst Boiler
+website: https://www.hurstboiler.com/
+categories:
+- hvac
+aliases:
+- Hurst Boiler & Welding Co., Inc.
+support:
+- category: hvac
+  department: Technical Support
+  phone: "+12293463545"
+  country: US
+  notes: Industrial boiler technical support during office hours.
+  source: https://www.hurstboiler.com/support-and-service
+  last_verified: '2025-12-24'

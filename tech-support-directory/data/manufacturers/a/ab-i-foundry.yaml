@@ -1,0 +1,16 @@
+id: ab-i-foundry
+name: AB&I Foundry (McWane)
+website: https://www.abifoundry.com/contact-us/
+categories:
+- plumbing
+aliases:
+- AB&I
+support:
+- category: plumbing
+  department: Customer Service / Inside Sales
+  phone: "+18004684766"
+  country: US
+  notes: AB&I Foundry main line (800-GOT-IRON).
+  source: abifoundry.com contact-us page
+  last_verified: '2025-12-25'
+  regions: []

@@ -1,0 +1,17 @@
+id: little-giant
+name: Little Giant (Franklin Electric)
+website: https://www.littlegiant.com/resources/news/?newsItemID=12928
+categories:
+- plumbing
+aliases:
+- Little Giant Pumps
+support:
+- category: plumbing
+  department: Technical Support
+  phone: "+18003482420"
+  country: US
+  notes: Little Giant technical support number published by the manufacturer (also
+    lists 800-701-7894).
+  source: littlegiant.com news item listing technical support numbers
+  last_verified: '2025-12-24'
+  regions: []

@@ -1,0 +1,15 @@
+id: basement-watchdog
+name: Basement Watchdog
+website: https://basementwatchdog.com/
+categories:
+- plumbing
+aliases: []
+support:
+- category: plumbing
+  department: Tech Support
+  phone: "+18009910466"
+  country: US
+  notes: Call and choose tech support (Option 3).
+  source: basementwatchdog.com contact page
+  last_verified: '2025-12-25'
+  regions: []

@@ -1,0 +1,14 @@
+id: itron
+name: Itron
+website: https://na.itron.com/
+categories:
+- electrical
+aliases: []
+support:
+- category: electrical
+  department: Global Customer Support (Continental US)
+  phone: "+18774876602"
+  country: US
+  notes: Itron GCSS support line (Continental U.S.).
+  source: https://na.itron.com/what-we-offer/services/customer-support
+  last_verified: '2025-12-25'

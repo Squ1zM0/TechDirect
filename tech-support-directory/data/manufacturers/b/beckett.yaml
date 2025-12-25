@@ -1,0 +1,16 @@
+id: beckett
+name: Beckett (R.W. Beckett)
+website: https://beckettus.com/support/technical-support/
+categories:
+- hvac
+aliases:
+- R.W. Beckett
+- Beckett Corporation
+support:
+- category: hvac
+  department: Technical Support
+  phone: "+18664664319"
+  country: US
+  notes: Beckett technical support line (burners/controls).
+  source: https://beckettus.com/support/technical-support/
+  last_verified: '2025-12-24'

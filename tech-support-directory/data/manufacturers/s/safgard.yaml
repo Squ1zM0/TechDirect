@@ -1,0 +1,15 @@
+id: safgard
+name: Safgard
+website: https://www.hydrolevel.com
+categories:
+- hvac
+aliases:
+- Safgard Low Water Cutoff
+support:
+- category: technical
+  department: Technical Support
+  phone: "+18009892275"
+  country: US
+  notes: Safgard/Hydrolevel support
+  source: https://www.hydrolevel.com/contact/
+  last_verified: '2025-12-24'

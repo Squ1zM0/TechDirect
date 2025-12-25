@@ -1,0 +1,17 @@
+id: ajax-boilers
+name: Ajax Boilers
+website: https://www.aceheaters.com
+categories:
+- hvac
+aliases:
+- Ajax Boiler
+- Ajax Boiler Company
+- Ace Heaters (Ajax)
+support:
+- category: technical
+  department: Technical Support
+  phone: "+13233626000"
+  country: US
+  notes: Ajax Boiler legacy / Ace Heaters contact
+  source: https://www.aceheaters.com/contact
+  last_verified: '2025-12-24'

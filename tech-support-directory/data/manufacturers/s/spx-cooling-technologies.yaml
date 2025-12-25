@@ -1,0 +1,17 @@
+id: spx-cooling-technologies
+name: SPX Cooling Technologies (Marley)
+website: https://spxcooling.com/
+categories:
+- hvac
+aliases:
+- Marley
+- SPX Cooling
+support:
+- category: hvac
+  department: 24/7 Emergency Phone Support
+  phone: "+12816614902"
+  country: US
+  notes: 24/7 emergency phone support (cooling towers).
+  source: spxcooling.com emergency service page
+  last_verified: '2025-12-24'
+  regions: []

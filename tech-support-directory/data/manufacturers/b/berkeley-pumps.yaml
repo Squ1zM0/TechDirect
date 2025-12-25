@@ -1,0 +1,16 @@
+id: berkeley-pumps
+name: Berkeley Pumps (Pentair)
+website: https://www.pentair.com/en-us/flow/contact-us/berkeley-contact-us.html
+categories:
+- plumbing
+aliases:
+- Berkeley
+support:
+- category: plumbing
+  department: Technical Support
+  phone: "+18882375353"
+  country: US
+  notes: Berkeley Technical Support (Pentair).
+  source: pentair.com Berkeley contact page
+  last_verified: '2025-12-25'
+  regions: []

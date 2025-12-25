@@ -1,0 +1,19 @@
+id: ford-meter-box
+name: Ford Meter Box
+website: https://fordmeterbox.com/
+categories:
+- plumbing
+- waterworks
+- valves
+aliases:
+- Ford Meter Box Company
+support:
+- category: plumbing
+  department: Customer Service / Technical
+  phone: "+12605632151"
+  country: US
+  regions:
+  - US
+  notes: Main line on Ford Meter Box contact page; used by utilities/contractors.
+  source: https://fordmeterbox.com/contact/
+  last_verified: '2025-12-25'

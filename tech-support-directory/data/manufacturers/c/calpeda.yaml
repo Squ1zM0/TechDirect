@@ -1,0 +1,15 @@
+id: calpeda
+name: Calpeda
+website: https://www.calpeda.com
+categories:
+- hvac
+aliases:
+- Calpeda Pumps
+support:
+- category: technical
+  department: Technical Support
+  phone: "+390444476476"
+  country: IT
+  notes: Global contact (installed equipment in US via distributors)
+  source: https://www.calpeda.com/ie/contact/
+  last_verified: '2025-12-24'

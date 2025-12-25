@@ -1,0 +1,14 @@
+id: fluidmaster
+name: Fluidmaster
+website: https://fluidmaster.com
+categories:
+- plumbing
+aliases: []
+support:
+- category: plumbing
+  department: Technical Support
+  phone: "+18006312011"
+  country: US
+  notes: Technical Support line listed by Fluidmaster.
+  source: fluidmaster.com pro-series warranty page
+  last_verified: '2025-12-25'

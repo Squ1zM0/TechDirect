@@ -1,0 +1,18 @@
+id: pb-heat
+name: PB Heat (Peerless Boilers)
+website: https://www.peerlessboilers.com/
+categories:
+- hvac
+aliases:
+- Peerless Boilers
+- Peerless
+- PB Heat, LLC
+support:
+- category: hvac
+  department: Technical Service (Licensed Heating Professionals)
+  phone: "+16108456130"
+  country: US
+  notes: PB Heat technical service line referenced in Peerless/PB Heat boiler literature;
+    menu prompts may apply (e.g., press 3 then 4).
+  source: https://www.peerlessboilers.com/wp-content/uploads/2022/02/PF850-1500IOM_PF8223_web0617.pdf
+  last_verified: '2025-12-24'

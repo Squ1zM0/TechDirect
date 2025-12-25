@@ -7,7 +7,7 @@ aliases: []
 support:
 - category: hvac
   department: Service & Support
-  phone: '+12622046600'
+  phone: "+12622046600"
   country: US
   notes: Wilo Americas HQ contact number used for service & support routing in the USA.
   source: wilo.com US contact us

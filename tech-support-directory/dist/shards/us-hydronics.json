@@ -1,0 +1,26 @@
+{
+  "version": "2025.12.25",
+  "shard": "us-hydronics",
+  "generatedAt": "2025-12-25T00:00:00.000Z",
+  "generated_at": "2025-12-25T00:00:00.000Z",
+  "manufacturers": [
+    {
+      "id": "aquatherm",
+      "name": "aquatherm North America",
+      "website": "https://aquatherm.com",
+      "supportCount": 1
+    },
+    {
+      "id": "imi-hydronic-engineering",
+      "name": "IMI Hydronic Engineering (IMI Flow Design / TA / Pneumatex)",
+      "website": "https://www.imiflowdesign.com/",
+      "supportCount": 1
+    },
+    {
+      "id": "smith-cast-iron",
+      "name": "Smith Cast Iron Boilers",
+      "website": "https://smithboiler.com/",
+      "supportCount": 1
+    }
+  ]
+}

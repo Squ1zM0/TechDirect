@@ -1,0 +1,15 @@
+id: schneider-electric
+name: Schneider Electric
+website: https://www.se.com/us/en/
+categories:
+- electrical
+aliases:
+- Square D
+support:
+- category: electrical
+  department: Technical Support
+  phone: "+18887782733"
+  country: US
+  notes: Professional/contractor technical support line (per source).
+  source: https://www.se.com/us/en/work/support/contact-us/
+  last_verified: '2025-12-25'

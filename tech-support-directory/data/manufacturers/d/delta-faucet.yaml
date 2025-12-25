@@ -1,0 +1,24 @@
+id: delta-faucet
+name: Delta Faucet
+website: https://www.deltafaucet.com/service-parts/contact-us
+categories:
+- plumbing
+aliases:
+- Delta
+support:
+- category: plumbing
+  department: Customer/Technical Support
+  phone: "+18003453358"
+  country: US
+  notes: Delta help line (general support).
+  source: deltafaucet.com support pages
+  last_verified: '2025-12-24'
+  regions: []
+- category: plumbing
+  department: Commercial Helpline
+  phone: "+18005673300"
+  country: US
+  notes: Delta commercial helpline (specialty support).
+  source: deltafaucet.com commercial contact page
+  last_verified: '2025-12-24'
+  regions: []

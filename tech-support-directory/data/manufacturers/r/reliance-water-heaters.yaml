@@ -1,0 +1,16 @@
+id: reliance-water-heaters
+name: Reliance Water Heaters
+website: https://www.reliancewaterheaters.com/
+categories:
+- plumbing
+- hydronics
+aliases:
+- Reliance
+support:
+- category: tech-support
+  department: Customer & Technical Support
+  phone: "+18775566731"
+  country: US
+  notes: Customer and technical support.
+  source: https://www.reliancewaterheaters.com/support/contact-tech-support.html
+  last_verified: '2025-12-25'

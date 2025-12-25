@@ -1,0 +1,15 @@
+id: sioux-chief
+name: Sioux Chief
+website: https://www.siouxchief.com/connect/customer-service/contact-us
+categories:
+- plumbing
+aliases: []
+support:
+- category: plumbing
+  department: Customer Service / Technical Support
+  phone: "+18008213944"
+  country: US
+  notes: Main toll-free support line.
+  source: siouxchief.com contact us page
+  last_verified: '2025-12-24'
+  regions: []

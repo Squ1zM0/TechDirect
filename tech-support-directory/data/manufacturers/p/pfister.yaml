@@ -1,0 +1,16 @@
+id: pfister
+name: Pfister
+website: https://www.pfisterfaucets.com/customer-support
+categories:
+- plumbing
+aliases:
+- Price Pfister
+- Pfister Faucets
+support:
+- category: plumbing
+  department: Product & Technical Support
+  phone: "+18007328238"
+  country: US
+  notes: Customer support line used for product and technical questions.
+  source: pfisterfaucets.com customer support page
+  last_verified: '2025-12-25'

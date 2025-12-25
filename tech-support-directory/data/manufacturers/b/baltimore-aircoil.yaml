@@ -1,0 +1,18 @@
+id: baltimore-aircoil
+name: Baltimore Aircoil Company (BAC)
+website: https://baltimoreaircoil.com/
+categories:
+- hvac
+aliases:
+- BAC
+- Baltimore Aircoil
+support:
+- category: hvac
+  department: Customer Service
+  phone: "+14107996222"
+  country: US
+  notes: Customer service number listed on BAC shop contact page; for product questions
+    BAC directs to local reps.
+  source: BAC shop contact page
+  last_verified: '2025-12-24'
+  regions: []

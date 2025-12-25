@@ -1,0 +1,16 @@
+id: mcguire-manufacturing
+name: McGuire Manufacturing
+website: https://www.mcguiremfg.com/resources-main
+categories:
+- plumbing
+aliases:
+- McGuire
+support:
+- category: plumbing
+  department: Customer Service
+  phone: "+18006761832"
+  country: US
+  notes: Toll-free customer service number shown on McGuire pages for commercial plumbing
+    products.
+  source: mcguiremfg.com distributor/contact info
+  last_verified: '2025-12-25'

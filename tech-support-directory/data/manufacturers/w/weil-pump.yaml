@@ -1,0 +1,15 @@
+id: weil-pump
+name: Weil Pump
+website: https://wilo.com/weil/en_us/
+categories:
+- hvac
+- plumbing
+aliases: []
+support:
+- category: hvac
+  department: Contact / Support
+  phone: "+12622046700"
+  country: US
+  notes: Weil Pump contact number for other inquiries.
+  source: https://wilo.com/weil/en_us/About-Weil/Contact-Us/
+  last_verified: '2025-12-24'

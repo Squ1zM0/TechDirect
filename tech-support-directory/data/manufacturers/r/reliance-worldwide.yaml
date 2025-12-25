@@ -1,0 +1,17 @@
+id: reliance-worldwide
+name: Reliance Worldwide / SharkBite
+website: https://www.sharkbite.com/us/en/support
+categories:
+- plumbing
+aliases:
+- RWC
+- SharkBite
+support:
+- category: plumbing
+  department: Technical Support
+  phone: "+18777004242"
+  country: US
+  notes: SharkBite/RWC technical support line listed on product sheets and retailer
+    Q&A responses.
+  source: sharkbite product sheets / retailer Q&A listing 877-700-4242
+  last_verified: '2025-12-25'

@@ -1,0 +1,15 @@
+id: mersen
+name: Mersen
+website: https://us.mersen.com/
+categories:
+- electrical
+aliases:
+- Mersen Electrical Power
+support:
+- category: electrical
+  department: Technical Support
+  phone: "+19784654853"
+  country: US
+  notes: Technical Services / Technical Support.
+  source: https://mersen.pissedconsumer.com/customer-service.html
+  last_verified: '2025-12-25'

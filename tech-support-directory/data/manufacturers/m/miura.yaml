@@ -1,0 +1,16 @@
+id: miura
+name: Miura America
+website: https://miuraboiler.com/contact/
+categories:
+- hvac
+aliases:
+- Miura
+- Miura Boiler
+support:
+- category: hvac
+  department: Technical Support / Main Line
+  phone: "+16786850929"
+  country: US
+  notes: Miura America main contact number (Rockmart, GA) used for support routing.
+  source: https://miuraboiler.com/contact/
+  last_verified: '2025-12-24'

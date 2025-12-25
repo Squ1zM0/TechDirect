@@ -1,0 +1,16 @@
+id: gerber
+name: Gerber Plumbing Fixtures
+website: https://www.gerber-us.com/support
+categories:
+- plumbing
+aliases:
+- Gerber
+support:
+- category: plumbing
+  department: Technical Support
+  phone: "+18886486466"
+  country: US
+  notes: Gerber technical support for consumers and professionals (installation/troubleshooting/parts).
+  source: gerber-us.com support page
+  last_verified: '2025-12-24'
+  regions: []

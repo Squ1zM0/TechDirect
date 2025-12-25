@@ -1,0 +1,15 @@
+id: heat-timer
+name: Heat-Timer
+website: https://www.heat-timer.com/
+categories:
+- hvac
+aliases:
+- Heat-Timer Corporation
+support:
+- category: hvac
+  department: Technical Support
+  phone: "+19735754004"
+  country: US
+  notes: Hydronic/boiler control systems support.
+  source: https://www.heat-timer.com/contact-us/
+  last_verified: '2025-12-24'

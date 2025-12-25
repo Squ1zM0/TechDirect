@@ -1,0 +1,21 @@
+id: hl-hutterer-lechner
+name: HL Hutterer & Lechner
+website: https://www.hutterer-lechner.com/
+categories:
+- plumbing
+- drainage
+aliases:
+- HL Drain
+- HL Hutterer & Lechner GmbH
+support:
+- category: plumbing
+  department: International (Contact)
+  phone: "+49-2932-9616-0"
+  country: DE
+  regions:
+  - US
+  - EU
+  notes: Contact page for GB/Ireland/Iceland/USA routes to Dallmer GmbH & Co. Sanitärtechnik
+    with phone listed.
+  source: https://www.hutterer-lechner.com/en/contacts.aspx
+  last_verified: '2025-12-25'

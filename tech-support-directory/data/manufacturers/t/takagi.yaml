@@ -1,0 +1,14 @@
+id: takagi
+name: Takagi Tankless
+website: https://www.takagi.com/support
+categories:
+- plumbing
+aliases: []
+support:
+- category: plumbing
+  department: Customer Service / Technical Support
+  phone: "+18888825244"
+  country: US
+  notes: Support phone listed on Takagi support page (tankless water heaters).
+  source: takagi.com Support
+  last_verified: '2025-12-24'

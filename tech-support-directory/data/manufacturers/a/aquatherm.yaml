@@ -1,0 +1,15 @@
+id: aquatherm
+name: aquatherm North America
+website: https://aquatherm.com
+categories:
+- plumbing
+- hydronics
+aliases: []
+support:
+- category: hydronics
+  department: Technical Support
+  phone: "+18018056657"
+  country: US
+  notes: PP-R piping systems; North America support line.
+  source: https://aquatherm.com
+  last_verified: '2025-12-25'

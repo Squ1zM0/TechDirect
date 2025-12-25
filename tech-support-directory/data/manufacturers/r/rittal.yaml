@@ -1,0 +1,15 @@
+id: rittal
+name: Rittal
+website: https://www.rittal.com/us-en_US/
+categories:
+- electrical
+aliases:
+- Rittal North America
+support:
+- category: electrical
+  department: Customer Service / Support
+  phone: "+18004774000"
+  country: US
+  notes: Contact center; used for product questions and support.
+  source: https://www.rittal.com/us-en_US/Company/Contact-Us
+  last_verified: '2025-12-25'

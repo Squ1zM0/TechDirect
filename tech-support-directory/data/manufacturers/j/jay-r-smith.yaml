@@ -1,0 +1,15 @@
+id: jay-r-smith
+name: Jay R. Smith Mfg. Co.
+website: https://www.jrsmith.com
+categories:
+- plumbing
+aliases:
+- Jay R Smith
+support:
+- category: plumbing
+  department: Customer Service
+  phone: "+18004676484"
+  country: US
+  notes: Toll-free contact number shown for Contact Us.
+  source: jrsmith.com contact us page
+  last_verified: '2025-12-25'

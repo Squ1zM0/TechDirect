@@ -1,0 +1,13 @@
+id: advantech
+name: Advantech
+website: https://www.advantech.com/en-us
+categories:
+- electrical
+support:
+- category: electrical
+  department: Technical Support
+  phone: '+18885769668'
+  country: US
+  notes: Advantech US support line listed on support page.
+  source: https://www.advantech.com/en-us/contact
+  last_verified: '2025-12-25'

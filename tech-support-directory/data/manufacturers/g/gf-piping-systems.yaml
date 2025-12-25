@@ -1,0 +1,17 @@
+id: gf-piping-systems
+name: GF Piping Systems
+website: https://www.gfps.com/en-us/about-us/contact-us.html
+categories:
+- plumbing
+- hydronics
+aliases:
+- Georg Fischer Piping Systems
+- GF
+support:
+- category: plumbing
+  department: Technical Support / Customer Service
+  phone: "+18008544090"
+  country: US
+  notes: GF Piping Systems US contact line listed on contact page.
+  source: gfps.com contact us page
+  last_verified: '2025-12-25'

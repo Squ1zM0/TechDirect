@@ -10,7 +10,7 @@ aliases:
 support:
 - category: hvac
   department: Field Service Hotline
-  phone: '+17632783977'
+  phone: "+17632783977"
   country: US
   notes: Twin City Fan field service hotline for installed equipment support.
   source: tcf.com/contact-us

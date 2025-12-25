@@ -1,0 +1,15 @@
+id: rbi-water-heaters
+name: RBI
+website: https://www.rbiwaterheaters.com/
+categories:
+- hvac
+aliases:
+- RBI Boilers
+support:
+- category: hvac
+  department: Contact / Support
+  phone: "+18332655371"
+  country: US
+  notes: Main contact number listed on RBI contact page (boilers/water heaters).
+  source: https://www.rbiwaterheaters.com/contact-us
+  last_verified: '2025-12-24'

@@ -1,0 +1,15 @@
+id: brasscraft
+name: BrassCraft
+website: https://www.brasscraft.com/
+categories:
+- plumbing
+aliases: []
+support:
+- category: plumbing
+  department: Technical Support
+  phone: "+18772727755"
+  country: US
+  notes: Toll-free customer support; pro product support.
+  source: brasscraft.com support page
+  last_verified: '2025-12-25'
+  regions: []

@@ -1,0 +1,15 @@
+id: elco
+name: ELCO
+website: https://www.elco.net
+categories:
+- hvac
+aliases:
+- ELCO Heating Solutions
+support:
+- category: technical
+  department: Service
+  phone: "+4907471187187"
+  country: DE
+  notes: Service line (Germany)
+  source: https://www.elco.net/en/contact.html
+  last_verified: '2025-12-24'

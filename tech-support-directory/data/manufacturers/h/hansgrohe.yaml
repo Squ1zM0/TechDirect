@@ -1,0 +1,15 @@
+id: hansgrohe
+name: Hansgrohe USA
+website: https://www.hansgrohe-usa.com/service/assistance
+categories:
+- plumbing
+aliases:
+- Hansgrohe
+support:
+- category: plumbing
+  department: Technical Service (Pro Support)
+  phone: "+18003340455"
+  country: US
+  notes: Technical Service phone line for product support.
+  source: hansgrohe-usa.com service/assistance page
+  last_verified: '2025-12-25'

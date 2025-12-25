@@ -1,0 +1,15 @@
+id: mifab
+name: MIFAB
+website: https://mifab.com
+categories:
+- plumbing
+aliases:
+- MIFAB, Inc.
+support:
+- category: plumbing
+  department: Customer Support
+  phone: "+18004652736"
+  country: US
+  notes: Toll-free customer support listed on MIFAB customer service page.
+  source: mifab.com customer service page
+  last_verified: '2025-12-25'

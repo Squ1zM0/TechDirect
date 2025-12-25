@@ -1,0 +1,16 @@
+id: carlin
+name: Carlin Combustion
+website: https://carlincombustion.com/contact-us/technical-support/
+categories:
+- hvac
+aliases:
+- Carlin Combustion Technologies
+- Carlin
+support:
+- category: hvac
+  department: Technical Service Hotline
+  phone: "+18009892275"
+  country: US
+  notes: Carlin technical service hotline (ET business hours).
+  source: https://carlincombustion.com/contact-us/technical-support/
+  last_verified: '2025-12-24'

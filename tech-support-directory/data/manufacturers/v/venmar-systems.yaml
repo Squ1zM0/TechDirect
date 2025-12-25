@@ -1,0 +1,13 @@
+id: venmar-systems
+name: "Venmar Systems, Inc."
+website: https://venmar.com/contacts/
+categories: [hvac]
+aliases: ["Venmar Systems"]
+support:
+  - category: hvac
+    department: "Support Hotline"
+    phone: "+13143733337"
+    country: US
+    notes: "Support hotline listed on Venmar Systems contact page."
+    source: "venmar.com contacts page"
+    last_verified: "2025-12-24"

@@ -1,0 +1,16 @@
+id: franklin-electric
+name: Franklin Electric
+website: https://franklinwater.com/contact/
+categories:
+- plumbing
+- hydronics
+aliases:
+- Franklin Electric Submersible Motors
+support:
+- category: plumbing
+  department: Support / Customer Service
+  phone: "+18004376897"
+  country: US
+  notes: Main support phone listed for Franklin Electric water systems.
+  source: franklinwater.com contact page
+  last_verified: '2025-12-25'

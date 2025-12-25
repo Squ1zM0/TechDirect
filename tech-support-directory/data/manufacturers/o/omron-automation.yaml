@@ -1,0 +1,13 @@
+id: omron-automation
+name: OMRON Automation
+website: https://automation.omron.com/en/us/
+categories:
+- electrical
+support:
+- category: electrical
+  department: Technical Support
+  phone: '+18005566766'
+  country: US
+  notes: OMRON Automation technical support line.
+  source: https://automation.omron.com/en/us/support/contact-us
+  last_verified: '2025-12-25'

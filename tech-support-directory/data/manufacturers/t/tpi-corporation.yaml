@@ -1,0 +1,15 @@
+id: tpi-corporation
+name: TPI Corporation
+website: https://www.tpicorp.com/
+categories:
+- electrical
+aliases:
+- TPI Electric Heat
+support:
+- category: electrical
+  department: Customer Service / Support
+  phone: "+18004954525"
+  country: US
+  notes: Customer service number published for product support inquiries.
+  source: https://www.tpicorp.com/
+  last_verified: '2025-12-25'

@@ -1,0 +1,16 @@
+id: red-white-valve
+name: RED-WHITE VALVE CORP.
+website: https://redwhitevalvecorp.com
+categories:
+- plumbing
+- hydronics
+aliases:
+- Red-White Valve
+support:
+- category: plumbing
+  department: Office / Support
+  phone: "+18002227982"
+  country: US
+  notes: Main office phone listed on contact page.
+  source: redwhitevalvecorp.com contact us page
+  last_verified: '2025-12-25'

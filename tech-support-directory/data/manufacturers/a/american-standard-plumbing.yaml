@@ -1,0 +1,24 @@
+id: american-standard-plumbing
+name: American Standard (Plumbing)
+website: https://www.americanstandard-us.com/pages/contact-us
+categories:
+- plumbing
+aliases:
+- American Standard
+support:
+- category: plumbing
+  department: Technical Support / Warranty (Consumers & Pros)
+  phone: "+18558150004"
+  country: US
+  notes: Support line explicitly for consumers and professionals (technical + warranty).
+  source: americanstandard-us.com contact us page
+  last_verified: '2025-12-24'
+  regions: []
+- category: plumbing
+  department: Wholesaler/Trade Support
+  phone: "+18004421902"
+  country: US
+  notes: Trade/wholesale account support line.
+  source: americanstandard-us.com contact us page
+  last_verified: '2025-12-24'
+  regions: []

@@ -1,0 +1,15 @@
+id: diamond-plastics
+name: Diamond Plastics Corporation
+website: https://www.dpcpipe.com/
+categories:
+- plumbing
+aliases:
+- DPC Pipe
+support:
+- category: tech-support
+  department: Corporate / Technical Support
+  phone: "+18007827473"
+  country: US
+  notes: Corporate phone listed as 1-800-PVC-PIPE.
+  source: https://www.dpcpipe.com/find-a-representative.php
+  last_verified: '2025-12-25'

@@ -8,7 +8,7 @@ aliases:
 support:
 - category: hvac
   department: Product Support
-  phone: '+12046545613'
+  phone: "+12046545613"
   country: US
   notes: Price product support main line (options by product group).
   source: priceindustries.com product support page

@@ -1,0 +1,15 @@
+id: hoval
+name: Hoval
+website: https://www.hoval.com
+categories:
+- hvac
+aliases:
+- Hoval Group
+support:
+- category: technical
+  department: US Partner Support
+  phone: "+12292263024"
+  country: US
+  notes: US partner Cleaver-Brooks (Hoval USA partner listing)
+  source: https://www.hovalpartners.com/en/united-states-of-america/
+  last_verified: '2025-12-24'

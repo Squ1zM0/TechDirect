@@ -1,0 +1,15 @@
+id: sel
+name: Schweitzer Engineering Laboratories
+website: https://selinc.com/
+categories:
+- electrical
+aliases:
+- SEL
+support:
+- category: electrical
+  department: Technical Support Line
+  phone: "+15093383838"
+  country: US
+  notes: SEL Technical Support Line.
+  source: https://selinc.com/company/contact/
+  last_verified: '2025-12-25'

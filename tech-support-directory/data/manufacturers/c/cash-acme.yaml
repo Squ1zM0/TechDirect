@@ -1,0 +1,14 @@
+id: cash-acme
+name: Cash Acme
+website: https://www.cashacme.com
+categories:
+- plumbing
+aliases: []
+support:
+- category: plumbing
+  department: Contact Support (US)
+  phone: "+18777004242"
+  country: US
+  notes: Cash Acme support line (RWC).
+  source: https://www.cashacme.com/us/en/contact-us
+  last_verified: '2025-12-25'

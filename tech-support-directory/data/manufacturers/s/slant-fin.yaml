@@ -1,0 +1,15 @@
+id: slant-fin
+name: Slant/Fin
+website: https://www.slantfin.com/
+categories:
+- hvac
+aliases:
+- Slant Fin
+support:
+- category: hvac
+  department: Technical Support
+  phone: "+15164842610"
+  country: US
+  notes: Use menu options for boiler technical support (contractor/pro).
+  source: https://www.slantfin.com/contact/
+  last_verified: '2025-12-24'

@@ -1,0 +1,15 @@
+id: thermal-solutions
+name: Thermal Solutions
+website: https://www.thermalsolutions.com
+categories:
+- hvac
+aliases:
+- Thermal Solutions Boilers
+support:
+- category: technical
+  department: Technical Support
+  phone: "+18007997237"
+  country: US
+  notes: Hydronic boilers
+  source: https://www.thermalsolutions.com/contact/
+  last_verified: '2025-12-24'

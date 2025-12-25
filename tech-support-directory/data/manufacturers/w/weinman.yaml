@@ -1,0 +1,15 @@
+id: weinman
+name: Weinman
+website: https://www.cranepumps.com
+categories:
+- hvac
+aliases:
+- Weinman Pumps
+support:
+- category: technical
+  department: Technical Support
+  phone: "+19377788947"
+  country: US
+  notes: Weinman brand support via Crane Pumps
+  source: https://www.cranepumps.com/contact/
+  last_verified: '2025-12-24'

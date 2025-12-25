@@ -1,0 +1,16 @@
+id: guardian-equipment
+name: Guardian Equipment
+website: https://www.gesafety.com/contact/contact.shtml
+categories:
+- plumbing
+aliases:
+- Guardian Safety
+support:
+- category: plumbing
+  department: Customer Service / Technical Support
+  phone: "+18006907700"
+  country: US
+  notes: Customer Service line (parts/service/standards questions).
+  source: gesafety.com contact page
+  last_verified: '2025-12-25'
+  regions: []

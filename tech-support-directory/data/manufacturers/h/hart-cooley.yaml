@@ -1,0 +1,13 @@
+id: hart-cooley
+name: "Hart & Cooley"
+website: https://hartandcooley.com/contact/
+categories: [hvac]
+aliases: ["Hart and Cooley", "H&C"]
+support:
+  - category: hvac
+    department: "Customer Service & Support (Commercial/Residential routing)"
+    phone: "+18004336341"
+    country: US
+    notes: "Main customer service; contact form offers Commercial Tech Support routing."
+    source: "hartandcooley.com contact page"
+    last_verified: "2025-12-24"

@@ -1,0 +1,15 @@
+id: blanco
+name: BLANCO America
+website: https://www.blanco.com/us-en/
+categories:
+- plumbing
+aliases:
+- BLANCO
+support:
+- category: tech-support
+  department: Customer Service / Product Support
+  phone: "+18008646690"
+  country: US
+  notes: Product support (sinks/faucets/accessories).
+  source: https://www.blanco.com/us-en/service/contact/
+  last_verified: '2025-12-25'

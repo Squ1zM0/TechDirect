@@ -1,0 +1,15 @@
+id: fernox
+name: Fernox
+website: https://fernox.us/
+categories:
+- hvac
+- plumbing
+aliases: []
+support:
+- category: hvac
+  department: USA & Canada
+  phone: "+18149403836"
+  country: US
+  notes: Hydronic water treatment/support contact (USA & Canada).
+  source: https://fernox.us/usa-canada-sales-territories/
+  last_verified: '2025-12-24'

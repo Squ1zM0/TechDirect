@@ -1,0 +1,15 @@
+id: mission-rubber
+name: Mission Rubber Company
+website: https://www.missionrubber.com/warranty/
+categories:
+- plumbing
+aliases:
+- Mission Rubber
+support:
+- category: plumbing
+  department: Product Help / Support
+  phone: "+18008549991"
+  country: US
+  notes: Support line listed as 'Need Help?' on Mission Rubber site.
+  source: missionrubber.com warranty page
+  last_verified: '2025-12-25'

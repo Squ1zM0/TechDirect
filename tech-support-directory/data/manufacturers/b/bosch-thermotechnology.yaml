@@ -1,0 +1,16 @@
+id: bosch-thermotechnology
+name: Bosch Home Comfort (Thermotechnology)
+website: https://www.bosch-homecomfort.com/us/en/residential/service/contact-customer-service/
+categories:
+- plumbing
+aliases:
+- Bosch Home Comfort
+- Bosch Thermotechnology
+support:
+- category: plumbing
+  department: Commercial Technical Support
+  phone: "+18003261400"
+  country: US
+  notes: Bosch Home Comfort commercial support line (tankless, boilers, etc.).
+  source: bosch-homecomfort.com contact customer service page
+  last_verified: '2025-12-25'

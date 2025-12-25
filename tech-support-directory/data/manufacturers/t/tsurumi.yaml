@@ -1,0 +1,15 @@
+id: tsurumi
+name: Tsurumi
+website: https://www.tsurumipump.com
+categories:
+- hvac
+aliases:
+- Tsurumi Pump
+support:
+- category: technical
+  department: Customer Service / Support
+  phone: "+18888787864"
+  country: US
+  notes: US support contact
+  source: https://www.tsurumipump.com/contact-us
+  last_verified: '2025-12-24'

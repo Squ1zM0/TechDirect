@@ -1,0 +1,16 @@
+id: amtrol
+name: AMTROL
+website: https://www.amtrol.com/
+categories:
+- hvac
+- plumbing
+aliases: []
+support:
+- category: hvac
+  department: Technical Support
+  phone: "+14015351216"
+  country: US
+  hours: Mon–Fri 8:00am–5:00pm ET
+  notes: Hydronic expansion tanks / heating systems product support line.
+  source: https://www.amtrol.com/resources-rewards/technical-support/
+  last_verified: '2025-12-24'
