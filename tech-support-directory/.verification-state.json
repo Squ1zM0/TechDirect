@@ -56,7 +56,35 @@
     "bell-gossett",
     "bender",
     "berkeley-pumps",
-    "bitzer"
+    "bitzer",
+    "blanco",
+    "blucher",
+    "blue-angel-pumps",
+    "bosch-home-comfort",
+    "bosch-thermotechnology",
+    "bradford-white",
+    "bradley-corporation",
+    "bradley",
+    "brasscraft",
+    "bridgeport-fittings",
+    "brizo",
+    "bryant",
+    "buderus",
+    "burcam",
+    "burndy",
+    "burnham-commercial",
+    "burnham-hydronics",
+    "calpeda",
+    "camfil",
+    "camus-hydronics",
+    "camus",
+    "cantex",
+    "captiveaire",
+    "carel",
+    "carlin",
+    "carrier",
+    "cash-acme",
+    "charlotte-pipe"
   ],
   "corrections": [
     {
@@ -74,6 +102,10 @@
     {
       "id": "arlington-industries",
       "name": "Arlington Industries"
+    },
+    {
+      "id": "charlotte-pipe",
+      "name": "Charlotte Pipe"
     }
   ]
 }
