@@ -5,9 +5,13 @@ categories: [hvac]
 aliases: ["AO Smith", "A. O. Smith"]
 support:
   - category: hvac
-    department: Customer & Technical Support (Residential/Commercial)
-    phone: "+18775566731"
+    department: Technical Support & Warranty
+    phone: "+18005271953"
     country: US
-    notes: "A. O. Smith Water Products customer and technical support for residential and commercial products."
-    source: "hotwater.com contact tech support page"
-    last_verified: "2025-12-24"
+    notes: "A. O. Smith Water Products technical support and warranty department. Mon-Fri 7am-7pm CT, Sat 8am-5pm CT."
+    source: "https://www.hotwater.com/support/contact-tech-support.html"
+    last_verified: "2025-12-26"
+    hours:
+      timezone: "CT"
+      mon_fri: "7:00 AM - 7:00 PM"
+      sat: "8:00 AM - 5:00 PM"
