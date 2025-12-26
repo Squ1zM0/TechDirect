@@ -33,7 +33,30 @@
     "amtrol",
     "anden",
     "anemostat",
-    "anvil"
+    "anvil",
+    "apc",
+    "apollo-valves",
+    "aprilaire",
+    "aquatherm",
+    "ariston",
+    "arlington-industries",
+    "armstrong-international",
+    "atkore",
+    "atmosair",
+    "axiom-industries",
+    "ay-mcdonald",
+    "badger-meter",
+    "baltimore-aircoil",
+    "banner-engineering",
+    "bard",
+    "basement-watchdog",
+    "beckett",
+    "belden",
+    "belimo",
+    "bell-gossett",
+    "bender",
+    "berkeley-pumps",
+    "bitzer"
   ],
   "corrections": [
     {
@@ -47,6 +70,10 @@
     {
       "id": "american-water-heaters",
       "name": "American Water Heaters"
+    },
+    {
+      "id": "arlington-industries",
+      "name": "Arlington Industries"
     }
   ]
 }
