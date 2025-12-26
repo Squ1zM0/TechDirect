@@ -122,7 +122,52 @@
     "emerson",
     "encore-wire",
     "energy-kinetics",
-    "engineered-air-llc"
+    "engineered-air-llc",
+    "environment-one",
+    "evapco",
+    "fantech",
+    "febco",
+    "fenwal-controls",
+    "fernco",
+    "fernox",
+    "field-controls",
+    "fisher-manufacturing",
+    "flaktgroup-semco",
+    "flamco",
+    "flexcon",
+    "flint-walling",
+    "flomatic-valves",
+    "flotec",
+    "fluidmaster",
+    "flushmate",
+    "ford-meter-box",
+    "franke",
+    "franklin-electric",
+    "fujitsu-general-america",
+    "fulton",
+    "geberit",
+    "generac",
+    "georg-fischer",
+    "gerber-plumbing-fixtures",
+    "gf-piping-systems",
+    "giacomini",
+    "goodman",
+    "goulds-water-technology",
+    "gree-comfort",
+    "greenheck",
+    "grohe",
+    "grundfos",
+    "guardian-equipment",
+    "halsey-taylor",
+    "halton",
+    "hammond-power-solutions",
+    "hansgrohe",
+    "hart-cooley",
+    "haws",
+    "heat-timer",
+    "heatcraft-refrigeration-products",
+    "helukabel-usa",
+    "hitachi-cooling-heating"
   ],
   "corrections": [
     {
@@ -144,6 +189,10 @@
     {
       "id": "charlotte-pipe",
       "name": "Charlotte Pipe"
+    },
+    {
+      "id": "franklin-electric",
+      "name": "Franklin Electric"
     }
   ]
 }
