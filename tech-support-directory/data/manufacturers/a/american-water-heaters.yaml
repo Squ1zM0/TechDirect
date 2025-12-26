@@ -8,9 +8,21 @@ aliases:
 - American Water Heater
 support:
 - category: tech-support
-  department: Polaris / Commercial Tech Support
+  department: Residential Technical Support
+  phone: "+18009999515"
+  country: US
+  notes: Residential water heater technical support. Mon-Fri 8am-10pm EST, Sat-Sun 9am-6pm EST.
+  source: https://www.americanwaterheater.com/contact
+  last_verified: '2025-12-26'
+  hours:
+    timezone: "EST"
+    mon_fri: "8:00 AM - 10:00 PM"
+    sat: "9:00 AM - 6:00 PM"
+    sun: "9:00 AM - 6:00 PM"
+- category: tech-support
+  department: Commercial / Polaris Tech Support
   phone: "+18004569805"
   country: US
-  notes: Commercial/Polaris technical support line.
+  notes: Commercial and Polaris water heater technical support line.
   source: https://www.americanwaterheater.com/contact
-  last_verified: '2025-12-25'
+  last_verified: '2025-12-26'

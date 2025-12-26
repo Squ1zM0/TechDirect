@@ -1,0 +1,52 @@
+{
+  "verified": [
+    "a-o-smith",
+    "aaon",
+    "abb-installation-products",
+    "acorn-engineering",
+    "aerco",
+    "armstrong-air",
+    "armstrong-fluid-technology",
+    "caleffi",
+    "aalberts-ips",
+    "ab-i-foundry",
+    "aco-drain",
+    "acuity-brands",
+    "advance-tabco",
+    "airedale",
+    "abb",
+    "acornvac",
+    "acv",
+    "addison",
+    "adey",
+    "advantech",
+    "ajax-boilers",
+    "alfa-laval",
+    "amana-hac",
+    "american-marsh",
+    "american-standard-air",
+    "american-standard-plumbing",
+    "american-standard",
+    "american-water-heaters",
+    "ames-fire-and-waterworks",
+    "amt-pumps",
+    "amtrol",
+    "anden",
+    "anemostat",
+    "anvil"
+  ],
+  "corrections": [
+    {
+      "id": "a-o-smith",
+      "name": "A. O. Smith Water Products"
+    },
+    {
+      "id": "american-standard-air",
+      "name": "American Standard Heating & Air Conditioning"
+    },
+    {
+      "id": "american-water-heaters",
+      "name": "American Water Heaters"
+    }
+  ]
+}
