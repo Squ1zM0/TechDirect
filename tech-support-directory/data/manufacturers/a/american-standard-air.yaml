@@ -5,9 +5,9 @@ categories: [hvac]
 aliases: [Trane (shared consumer relations)]
 support:
   - category: hvac
-    department: Customer Care
-    phone: "+18552602975"
+    department: Technical Support & Customer Care
+    phone: "+18449554401"
     country: US
-    notes: "American Standard air site references 1-855-260-2975 for more help (shared with Trane residential)."
-    source: "americanstandardair.com contact-us page"
-    last_verified: "2025-12-24"
+    notes: "Primary technical support and customer care line. Mon-Fri 7am-5pm CST. For warranty specialists: 1-855-260-2975."
+    source: "https://www.americanstandardair.com/contact-us/"
+    last_verified: "2025-12-26"
