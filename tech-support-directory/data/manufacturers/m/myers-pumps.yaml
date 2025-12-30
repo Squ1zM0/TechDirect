@@ -8,11 +8,6 @@ support:
     department: Customer Service / Technical
     phone: "+18002431742"
     country: US
-    last_verified: "undefined"
-  - category: undefined
-    department: undefined
-    phone: "undefined"
-    country: undefined
     notes: "Pentair Flow Technologies contact listing for Myers."
     source: "https://www.pentair.com/en-us/water-softening-filtration/support.html"
     last_verified: "2025-12-25"

@@ -15,9 +15,6 @@ support:
     department: Technical Support / General
     phone: "+19056967800"
     country: CA
-    last_verified: "undefined"
-  - category: undefined
-    department: undefined
-    phone: "undefined"
-    country: undefined
-    last_verified: "undefined"
+    notes: "Canadian HQ supports North America; equipment installed in US via reps/distribution."
+    source: "https://camus-hydronics.com/contact/"
+    last_verified: "2025-12-25"

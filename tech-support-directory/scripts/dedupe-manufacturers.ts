@@ -96,6 +96,8 @@ function parseSupportBlocks(txt) {
   let cur = null;
   let inSupport = false;
   let inHours = false;
+  let inRegions = false;
+  let inSpecialtyTags = false;
   
   for (let i = 0; i < lines.length; i++) {
     const line = lines[i];
@@ -107,14 +109,16 @@ function parseSupportBlocks(txt) {
     
     if (!inSupport) continue;
     
-    // New support entry starts with "  - " or "- " at the support level
-    if (line.match(/^\s*-\s+(category:|.*)/)) {
+    // New support entry starts with "- category:" or "  - category:" at the first level under support
+    // Look for pattern "- category:" with 0-2 spaces of indentation
+    if (line.match(/^\s{0,2}-\s+category:/) && !inRegions && !inSpecialtyTags) {
       if (cur) support.push(cur);
       cur = { _raw_lines: [] };
       inHours = false;
+      inRegions = false;
+      inSpecialtyTags = false;
       
-      // Check if category is on the same line
-      const sameLine = line.match(/^\s*-\s+category:\s*(.+)/);
+      const sameLine = line.match(/^\s{0,2}-\s+category:\s*(.+)/);
       if (sameLine) {
         cur.category = sameLine[1].trim();
       }
@@ -124,27 +128,71 @@ function parseSupportBlocks(txt) {
     if (!cur) continue;
     
     // Check if we're entering hours block
-    if (line.match(/^\s+hours:\s*$/)) {
+    if (line.match(/^\s+hours:\s*$/) && !inRegions && !inSpecialtyTags) {
       inHours = true;
+      inRegions = false;
+      inSpecialtyTags = false;
       cur.hours = {};
       continue;
+    }
+    
+    // Check if we're entering regions array
+    if (line.match(/^\s+regions:\s*$/) && !inHours) {
+      inRegions = true;
+      inHours = false;
+      inSpecialtyTags = false;
+      cur.regions = [];
+      continue;
+    }
+    
+    // Check if we're entering specialty_tags array
+    if (line.match(/^\s+specialty_tags:\s*$/) && !inHours && !inRegions) {
+      inSpecialtyTags = true;
+      inHours = false;
+      inRegions = false;
+      cur.specialty_tags = [];
+      continue;
+    }
+    
+    // Parse regions array items (more deeply indented than support-level fields)
+    if (inRegions) {
+      const regionItem = line.match(/^\s{4,}-\s+(.+)/); // At least 4 spaces before the dash (for nested arrays)
+      if (regionItem) {
+        cur.regions.push(regionItem[1].trim());
+        continue;
+      } else if (line.match(/^\s+\w+:/) && !line.match(/^\s{4,}-/)) {
+        // A new field at the support level, exit regions
+        inRegions = false;
+      }
+    }
+    
+    // Parse specialty_tags array items
+    if (inSpecialtyTags) {
+      const tagItem = line.match(/^\s{4,}-\s+(.+)/); // At least 4 spaces before the dash
+      if (tagItem) {
+        cur.specialty_tags.push(tagItem[1].trim());
+        continue;
+      } else if (line.match(/^\s+\w+:/) && !line.match(/^\s{4,}-/)) {
+        // A new field at the support level, exit specialty_tags
+        inSpecialtyTags = false;
+      }
     }
     
     // Parse hours sub-fields
     if (inHours) {
       const hourKv = line.match(/^\s+([a-z_]+):\s*(.*)$/);
-      if (hourKv && hourKv[1] !== 'specialty_tags') {
+      if (hourKv && hourKv[1] !== 'specialty_tags' && hourKv[1] !== 'regions') {
         cur.hours[hourKv[1]] = hourKv[2].trim().replace(/^["']|["']$/g, "");
         continue;
-      } else if (line.match(/^\s+\w+:/)) {
+      } else if (line.match(/^\s+\w+:/) && !line.match(/^\s{4,}/)) {
         // A new field at the support level, exit hours
         inHours = false;
       }
     }
     
-    // Capture support-level fields
-    const kv = line.match(/^\s+(category|department|phone|country|regions|notes|source|last_verified|specialty_tags):\s*(.*)$/);
-    if (kv && !inHours) {
+    // Capture support-level fields (inline format)
+    const kv = line.match(/^\s+(category|department|phone|country|notes|source|last_verified):\s*(.*)$/);
+    if (kv && !inHours && !inRegions && !inSpecialtyTags) {
       cur._raw_lines.push(line);
       const k = kv[1];
       let v = kv[2].trim();
@@ -155,6 +203,14 @@ function parseSupportBlocks(txt) {
       } else {
         cur[k] = v;
       }
+      continue;
+    }
+    
+    // Check for inline array formats for regions and specialty_tags
+    const inlineArray = line.match(/^\s+(regions|specialty_tags):\s*\[(.+)\]/);
+    if (inlineArray) {
+      const k = inlineArray[1];
+      cur[k] = inlineArray[2].split(",").map(s => s.trim().replace(/^["']|["']$/g, "")).filter(Boolean);
       continue;
     }
     
@@ -262,13 +318,24 @@ function generateYaml(id, data) {
   yaml += `support:\n`;
   
   for (const s of data.support) {
+    // Skip entries with missing required fields
+    if (!s.category || !s.department || !s.phone || !s.country || !s.last_verified) {
+      continue;
+    }
+    
     yaml += `  - category: ${s.category}\n`;
     yaml += `    department: ${s.department}\n`;
     yaml += `    phone: "${s.phone}"\n`;
     yaml += `    country: ${s.country}\n`;
+    
     if (s.regions && s.regions.length > 0) {
-      yaml += `    regions: [${s.regions.join(", ")}]\n`;
+      // Use multiline format for regions
+      yaml += `    regions:\n`;
+      for (const region of s.regions) {
+        yaml += `      - ${region}\n`;
+      }
     }
+    
     if (s.notes) {
       yaml += `    notes: "${s.notes}"\n`;
     }
@@ -276,15 +343,21 @@ function generateYaml(id, data) {
       yaml += `    source: "${s.source}"\n`;
     }
     yaml += `    last_verified: "${s.last_verified}"\n`;
-    if (s.hours) {
+    
+    if (s.hours && Object.keys(s.hours).length > 0) {
       yaml += `    hours:\n`;
       if (s.hours.timezone) yaml += `      timezone: "${s.hours.timezone}"\n`;
       if (s.hours.mon_fri) yaml += `      mon_fri: "${s.hours.mon_fri}"\n`;
       if (s.hours.sat) yaml += `      sat: "${s.hours.sat}"\n`;
       if (s.hours.sun) yaml += `      sun: "${s.hours.sun}"\n`;
     }
+    
     if (s.specialty_tags && s.specialty_tags.length > 0) {
-      yaml += `    specialty_tags: [${s.specialty_tags.join(", ")}]\n`;
+      // Use multiline format for specialty_tags
+      yaml += `    specialty_tags:\n`;
+      for (const tag of s.specialty_tags) {
+        yaml += `      - ${tag}\n`;
+      }
     }
   }
   
