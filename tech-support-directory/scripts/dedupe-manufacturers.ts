@@ -262,8 +262,13 @@ function mergeSupport(supportArrays) {
   
   for (const supportList of supportArrays) {
     for (const entry of supportList) {
-      // Create a unique key for deduplication
-      const key = `${entry.category}|${entry.department}|${entry.phone}|${entry.country}`;
+      // Create a unique key for deduplication using JSON to avoid delimiter conflicts
+      const key = JSON.stringify({
+        category: entry.category,
+        department: entry.department,
+        phone: entry.phone,
+        country: entry.country
+      });
       if (seen.has(key)) continue;
       seen.add(key);
       merged.push(entry);
