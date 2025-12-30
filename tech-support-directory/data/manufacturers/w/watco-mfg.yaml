@@ -1,22 +1,27 @@
 id: watco-mfg
 name: Watco Manufacturing Company
-website: https://www.watcomfg.com
-categories:
-- plumbing
-aliases:
-- watco
+website: https://www.watcomfg.com/Contact_Us/
+categories: [plumbing]
+aliases: ["Watco", "watco"]
 support:
-- category: plumbing
-  department: Factory / Rep Phone
-  phone: "+18004860251"
-  country: US
-  notes: Pro plumbing bath waste products support via factory line shown by rep listing.
-  source: https://pmireps.com/central-texas/watco/
-  last_verified: '2025-12-25'
-- category: plumbing
-  department: Factory Assistance
-  phone: "+18008218576"
-  country: US
-  notes: Call Watco for assistance per Watco contact/product guide.
-  source: watcomfg.com contact/product guide
-  last_verified: '2025-12-25'
+  - category: plumbing
+    department: Customer Service / Assistance
+    phone: "+18008218576"
+    country: US
+    notes: "Watco Manufacturing assistance line listed on official contact page and product guide."
+    source: "https://www.watcomfg.com/Contact_Us/"
+    last_verified: "2025-12-25"
+  - category: plumbing
+    department: Factory / Rep Phone
+    phone: "+18004860251"
+    country: US
+    notes: "Pro plumbing bath waste products support via factory line shown by rep listing."
+    source: "https://pmireps.com/central-texas/watco/"
+    last_verified: "2025-12-25"
+  - category: plumbing
+    department: Factory Assistance
+    phone: "+18008218576"
+    country: US
+    notes: "Call Watco for assistance per Watco contact/product guide."
+    source: "watcomfg.com contact/product guide"
+    last_verified: "2025-12-25"

@@ -1,16 +1,13 @@
 id: valent-air
 name: Valent Air
 website: https://www.valentair.com/
-categories:
-- hvac
-aliases:
-- Valent
+categories: [hvac]
+aliases: ["Valent", "Valent Air"]
 support:
-- category: hvac
-  department: Technical Support
-  phone: "+18007898550"
-  country: US
-  notes: Dedicated technical support line (DOAS equipment).
-  source: valentair.com contact us page
-  last_verified: '2025-12-24'
-  regions: []
+  - category: hvac
+    department: Technical Support
+    phone: "+18007898550"
+    country: US
+    notes: "Dedicated technical support line (DOAS equipment)."
+    source: "valentair.com contact us page"
+    last_verified: "2025-12-24"

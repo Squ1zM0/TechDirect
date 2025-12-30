@@ -1,15 +1,20 @@
 id: lasco-fittings
 name: LASCO Fittings, Inc.
 website: https://plumbingnet.com/lasco-fittings-inc/
-categories:
-- plumbing
-aliases:
-- lasco
+categories: [plumbing]
+aliases: ["lasco", "LASCO"]
 support:
-- category: plumbing
-  department: Main
-  phone: "+18007762756"
-  country: US
-  notes: Manufacturer listing phone.
-  source: https://plumbingnet.com/lasco-fittings-inc/
-  last_verified: '2025-12-25'
+  - category: plumbing
+    department: Main
+    phone: "+18007762756"
+    country: US
+    notes: "Manufacturer listing phone."
+    source: "https://plumbingnet.com/lasco-fittings-inc/"
+    last_verified: "2025-12-25"
+  - category: plumbing
+    department: Customer Service / Technical Support
+    phone: "+18007762756"
+    country: US
+    notes: "Customer service phone listed for LASCO (Westlake Pipe & Fittings contacts)."
+    source: "westlakepipe.com contacts PDF listing LASCO 800-776-2756"
+    last_verified: "2025-12-25"
