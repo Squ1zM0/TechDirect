@@ -14,7 +14,7 @@ This repo contains the **baseline, curated** manufacturer tech support directory
 
 ## Verification & Quality Assurance
 
-**Current Status:** ✅ All 436 manufacturers verified (Dec 24-25, 2025)
+**Current Status:** ✅ All 421 manufacturers verified and deduplicated (Dec 2025)
 
 This directory has undergone comprehensive verification to ensure accuracy and reliability. All entries include:
 - ✅ Verified phone numbers from official manufacturer sources
@@ -39,6 +39,43 @@ Analyzes all entries and reports on verification currency, data quality, and any
 node scripts/validate.ts
 ```
 Validates required fields and basic YAML structure.
+
+**Check for duplicate manufacturers:**
+```bash
+node scripts/check-duplicates.ts
+```
+Scans all manufacturer files and fails if any duplicates are found based on normalized names. This is used in CI to prevent reintroduction of duplicates.
+
+### Deduplication
+
+The manufacturer directory has been deduplicated to ensure a single canonical entry per manufacturer. The deduplication process:
+
+1. **Normalizes** manufacturer names by removing punctuation, corporate suffixes, and standardizing formatting
+2. **Groups** manufacturers with matching normalized names
+3. **Merges** data from duplicates, preserving all phone numbers, categories, and support information
+4. **Selects** the best canonical name (most complete/properly cased)
+
+**Run deduplication analysis:**
+```bash
+node scripts/dedupe-manufacturers.ts --dry-run
+```
+Generates a report (`DEDUPE_REPORT.md`) showing any duplicate groups found without making changes.
+
+**Apply deduplication:**
+```bash
+node scripts/dedupe-manufacturers.ts --apply
+```
+Merges duplicate entries and removes duplicate files. The script is idempotent - running it multiple times produces no changes after the first run.
+
+**Normalization rules:**
+- Lowercase conversion
+- Whitespace trimming and collapsing
+- Punctuation removal (`. , : ; ' " ( ) / \ - _`)
+- Replace `&` and `&amp;` with `and`
+- Remove corporate suffixes: inc, incorporated, llc, ltd, limited, corp, corporation, co, company, group, holdings
+- Remove "the" prefix
+
+See **[DEDUPE_REPORT.md](./DEDUPE_REPORT.md)** for the latest deduplication analysis.
 
 ### Maintenance Schedule
 - **Quarterly spot checks:** 25% of manufacturers

@@ -1,16 +1,13 @@
 id: saniflo
 name: SFA Saniflo
 website: https://www.sfasaniflo.com/en/contact-us
-categories:
-- plumbing
-aliases:
-- Saniflo
-- SFA
+categories: [plumbing]
+aliases: ["Saniflo", "SFA"]
 support:
-- category: plumbing
-  department: Technical Support
-  phone: "+18005718191"
-  country: US
-  notes: Saniflo US tech support toll-free number (also lists direct line 732-305-2200).
-  source: https://www.sfasaniflo.com/en/faq
-  last_verified: '2025-12-25'
+  - category: plumbing
+    department: Technical Support
+    phone: "+18005718191"
+    country: US
+    notes: "Saniflo US tech support toll-free number (also lists direct line 732-305-2200)."
+    source: "https://www.sfasaniflo.com/en/faq"
+    last_verified: "2025-12-25"
