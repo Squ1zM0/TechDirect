@@ -34,7 +34,7 @@ function pickArray(key, txt) {
 }
 
 function parseSupportBlocks(txt) {
-  // very small parser: detects lines starting with "  - " as a support entry
+  // very small parser: detects lines starting with "  - " or "- " as a support entry
   const lines = txt.split(/\r?\n/);
   const support = [];
   let cur = null;
@@ -42,7 +42,9 @@ function parseSupportBlocks(txt) {
   for (const line of lines) {
     if (line.startsWith("support:")) { inSupport = true; continue; }
     if (!inSupport) continue;
-    if (line.startsWith("  - ")) {
+    // Handle both "  - category:" (indented) and "- category:" (no indent) list markers
+    // Must have a key:value after the dash to be a support entry (not a nested array item)
+    if ((line.startsWith("  - ") || line.startsWith("- ")) && line.includes(":")) {
       if (cur) support.push(cur);
       cur = {};
       continue;
