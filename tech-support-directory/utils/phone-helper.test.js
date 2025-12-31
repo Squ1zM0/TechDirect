@@ -56,7 +56,7 @@ function formatPhone(phone) {
   let sanitized = raw.replace(/[^\d+]/g, '');
 
   // Normalize multiple leading + signs to single +, remove + anywhere else
-  // Using split/filter approach for better browser compatibility
+  // (using simple string operations for browser compatibility)
   if (sanitized.includes('+')) {
     const hasLeadingPlus = sanitized.startsWith('+');
     sanitized = sanitized.replace(/\+/g, '');
