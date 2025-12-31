@@ -8,6 +8,7 @@ categories:
 aliases:
 - Hydromatic Pumps
 - Pentair Hydromatic
+- Hydromatic
 support:
 - category: plumbing
   department: Customer Service / Technical
@@ -17,4 +18,18 @@ support:
   - US
   notes: Pentair Flow Technologies contact listing for Hydromatic.
   source: https://www.pentair.com/en-us/water-softening-filtration/support.html
+  last_verified: '2025-12-25'
+- category: plumbing
+  department: Technical Support
+  phone: "+18889578677"
+  country: US
+  notes: Hydromatic support line (commercial support page).
+  source: pentair.com commercial support contact us page (Hydromatic)
+  last_verified: '2025-12-25'
+- category: plumbing
+  department: Wastewater Tech Support
+  phone: "+18552748947"
+  country: US
+  notes: Wastewater tech support line for Hydromatic (commercial support page).
+  source: pentair.com commercial support contact us page (Hydromatic Wastewater)
   last_verified: '2025-12-25'
