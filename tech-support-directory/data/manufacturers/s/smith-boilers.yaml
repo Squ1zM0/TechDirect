@@ -1,20 +1,16 @@
 id: smith-boilers
 name: Smith Cast Iron Boilers
 website: https://www.smithboilers.com
-categories: [hvac, hydronics, boilers]
-aliases: ["Smith Boilers", "Smith Cast Iron Boilers", "Smith Boiler", "Smith Cast Iron"]
+categories:
+- hvac
+aliases:
+- Smith Boilers
+- Smith Cast Iron Boilers
 support:
-  - category: technical
-    department: Technical Support
-    phone: "+18332655371"
-    country: US
-    notes: "Boilers / hydronics"
-    source: "https://www.smithboilers.com/contact"
-    last_verified: "2025-12-24"
-  - category: hydronics
-    department: Customer Service / Technical
-    phone: "+18332655371"
-    country: US
-    notes: "Customer service line on Smith Cast Iron Boilers contact information."
-    source: "https://smithboiler.com/contact/"
-    last_verified: "2025-12-25"
+- category: technical
+  department: Technical Support
+  phone: "+18332655371"
+  country: US
+  notes: Boilers / hydronics
+  source: https://www.smithboilers.com/contact
+  last_verified: '2025-12-24'

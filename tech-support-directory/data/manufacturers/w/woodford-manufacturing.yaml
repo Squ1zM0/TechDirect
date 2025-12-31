@@ -1,13 +1,15 @@
 id: woodford-manufacturing
 name: Woodford Manufacturing Company, LLC
 website: https://www.woodfordmfg.com/Contact_Us/
-categories: [plumbing]
-aliases: ["Woodford", "Woodford Mfg"]
+categories:
+- plumbing
+aliases:
+- Woodford
 support:
-  - category: plumbing
-    department: Customer Service
-    phone: "+18006216032"
-    country: US
-    notes: "Woodford contact page lists customer service phone."
-    source: "https://www.woodfordmfg.com/Contact_Us/ (official)"
-    last_verified: "2025-12-24"
+- category: plumbing
+  department: Customer Service
+  phone: "+18006216032"
+  country: US
+  notes: Woodford contact page lists customer service phone.
+  source: https://www.woodfordmfg.com/Contact_Us/ (official)
+  last_verified: '2025-12-24'

@@ -1,20 +1,17 @@
 id: environment-one
 name: Environment One (E/One)
 website: https://www.eone.com/support/certified-service-providers
-categories: [plumbing, hydronics]
-aliases: ["E/One", "Environment One", "Environment One Corporation"]
+categories:
+- plumbing
+- hydronics
+aliases:
+- E/One
+- Environment One
 support:
-  - category: plumbing
-    department: Certified Service Providers / Support
-    phone: "+18665399803"
-    country: US
-    notes: "E/One certified service providers and support line."
-    source: "eone.com certified service providers page"
-    last_verified: "2025-12-25"
-  - category: plumbing
-    department: Certified Service Locator (toll-free)
-    phone: "+18665399803"
-    country: US
-    notes: "Toll-free number to locate certified E/One grinder pump service centers."
-    source: "https://eone.com/sewer-systems/knowledge/certified-service"
-    last_verified: "2025-12-25"
+- category: plumbing
+  department: Certified Service Providers / Support
+  phone: "+18665399803"
+  country: US
+  notes: E/One certified service providers and support line.
+  source: eone.com certified service providers page
+  last_verified: '2025-12-25'

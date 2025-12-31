@@ -1,0 +1,15 @@
+id: mueller-water-products
+name: Mueller Co. Water Products
+website: https://www.muellercompany.com/
+categories:
+- plumbing
+aliases: []
+support:
+- category: plumbing
+  department: Customer Service
+  phone: "+18004231323"
+  country: US
+  notes: Customer service line for Mueller water products division.
+  source: muellercompany.com contact page
+  last_verified: '2025-12-25'
+  regions: []

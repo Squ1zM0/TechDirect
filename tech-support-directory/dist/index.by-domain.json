@@ -16,19 +16,6 @@
         "source": "https://www.hotwater.com/support/contact-tech-support.html"
       },
       {
-        "manufacturer_id": "a-o-smith",
-        "manufacturer_name": "A. O. Smith Water Products",
-        "department": "Customer & Technical Support",
-        "phone": "+18775566731",
-        "country": "US",
-        "regions": [],
-        "timezone": null,
-        "last_verified": "2025-12-24",
-        "specialty_tags": [],
-        "notes": "Customer and technical support for residential and commercial products.",
-        "source": "hotwater.com contact tech support"
-      },
-      {
         "manufacturer_id": "aaon",
         "manufacturer_name": "AAON",
         "department": "Service and Tech Support",
@@ -66,6 +53,32 @@
         "specialty_tags": [],
         "notes": "Eastern Technical Services phone listed on company info page.",
         "source": "anemostat-hvac.com company info"
+      },
+      {
+        "manufacturer_id": "ao-smith-water-products",
+        "manufacturer_name": "A. O. Smith Water Products",
+        "department": "Customer & Technical Support",
+        "phone": "+18775566731",
+        "country": "US",
+        "regions": [],
+        "timezone": null,
+        "last_verified": "2025-12-24",
+        "specialty_tags": [],
+        "notes": "Customer and technical support for residential and commercial products.",
+        "source": "hotwater.com contact tech support"
+      },
+      {
+        "manufacturer_id": "ao-smith",
+        "manufacturer_name": "A. O. Smith Water Products",
+        "department": "Customer & Technical Support",
+        "phone": "+18775566731",
+        "country": "US",
+        "regions": [],
+        "timezone": null,
+        "last_verified": "2025-12-24",
+        "specialty_tags": [],
+        "notes": "A. O. Smith Water Products customer/technical support for residential and commercial products.",
+        "source": "hotwater.com contact tech support"
       },
       {
         "manufacturer_id": "\"banner-engineering\"",
@@ -117,32 +130,6 @@
         "source": "bosch-homecomfort.com contact customer service page"
       },
       {
-        "manufacturer_id": "bradley-corporation",
-        "manufacturer_name": "Bradley Corporation",
-        "department": "Corporate / Product Support",
-        "phone": "+18002723539",
-        "country": "US",
-        "regions": [],
-        "timezone": null,
-        "last_verified": "2025-12-25",
-        "specialty_tags": [],
-        "notes": "Bradley '1-800-BRADLEY' number shown on Contact Us page and product documents;",
-        "source": "bradleycorp.com contact us page"
-      },
-      {
-        "manufacturer_id": "bradley-corporation",
-        "manufacturer_name": "Bradley Corporation",
-        "department": "Customer Service / Product Support",
-        "phone": "+18002723539",
-        "country": "US",
-        "regions": [],
-        "timezone": null,
-        "last_verified": "2025-12-25",
-        "specialty_tags": [],
-        "notes": "Bradley headquarters/support line ('1-800-BRADLEY').",
-        "source": "bradleycorp.com contact us page"
-      },
-      {
         "manufacturer_id": "\"bridgeport-fittings\"",
         "manufacturer_name": "\"Bridgeport Fittings (NSI Industries)\"",
         "department": "Technical Support",
@@ -156,24 +143,17 @@
         "source": "https://nsiindustries.com/support/electrical-support/contact/"
       },
       {
-        "manufacturer_id": "camus-hydronics",
+        "manufacturer_id": "camus",
         "manufacturer_name": "Camus Hydronics",
-        "department": "Technical Support",
-        "phone": "+19056967800",
-        "country": "CA",
         "regions": [],
         "timezone": null,
-        "last_verified": "2025-12-24",
         "specialty_tags": [],
-        "notes": "Manufacturer HQ line (Canada); serves equipment installed in the U.S.",
-        "source": "https://camus-hydronics.com/contactus"
+        "notes": "",
+        "source": ""
       },
       {
-        "manufacturer_id": "camus-hydronics",
+        "manufacturer_id": "camus",
         "manufacturer_name": "Camus Hydronics",
-        "department": "Technical Support / General",
-        "phone": "+19056967800",
-        "country": "CA",
         "regions": [],
         "timezone": null,
         "last_verified": "2025-12-25",
@@ -299,32 +279,6 @@
         "source": "dristeem.com contact / RMA instructions"
       },
       {
-        "manufacturer_id": "environment-one",
-        "manufacturer_name": "Environment One (E/One)",
-        "department": "Certified Service Providers / Support",
-        "phone": "+18665399803",
-        "country": "US",
-        "regions": [],
-        "timezone": null,
-        "last_verified": "2025-12-25",
-        "specialty_tags": [],
-        "notes": "E/One certified service providers and support line.",
-        "source": "eone.com certified service providers page"
-      },
-      {
-        "manufacturer_id": "environment-one",
-        "manufacturer_name": "Environment One (E/One)",
-        "department": "Certified Service Locator (toll-free)",
-        "phone": "+18665399803",
-        "country": "US",
-        "regions": [],
-        "timezone": null,
-        "last_verified": "2025-12-25",
-        "specialty_tags": [],
-        "notes": "Toll-free number to locate certified E/One grinder pump service centers.",
-        "source": "https://eone.com/sewer-systems/knowledge/certified-service"
-      },
-      {
         "manufacturer_id": "flint-walling",
         "manufacturer_name": "Flint & Walling (Pentair)",
         "regions": [],
@@ -446,7 +400,7 @@
         "source": "heatcraftrpd.com customer support"
       },
       {
-        "manufacturer_id": "heatcraft-refrigeration-products",
+        "manufacturer_id": "heatcraft-rpd",
         "manufacturer_name": "Heatcraft Refrigeration Products",
         "department": "Customer Support / Installation, Service & Troubleshooting",
         "phone": "+18005377775",
@@ -592,32 +546,6 @@
         "source": "https://www.lapp.com/en_US/us/service/contact-overview/e/000040"
       },
       {
-        "manufacturer_id": "lasco-fittings",
-        "manufacturer_name": "LASCO Fittings, Inc.",
-        "department": "Main",
-        "phone": "+18007762756",
-        "country": "US",
-        "regions": [],
-        "timezone": null,
-        "last_verified": "2025-12-25",
-        "specialty_tags": [],
-        "notes": "Manufacturer listing phone.",
-        "source": "https://plumbingnet.com/lasco-fittings-inc/"
-      },
-      {
-        "manufacturer_id": "lasco-fittings",
-        "manufacturer_name": "LASCO Fittings, Inc.",
-        "department": "Customer Service / Technical Support",
-        "phone": "+18007762756",
-        "country": "US",
-        "regions": [],
-        "timezone": null,
-        "last_verified": "2025-12-25",
-        "specialty_tags": [],
-        "notes": "Customer service phone listed for LASCO (Westlake Pipe & Fittings contacts).",
-        "source": "westlakepipe.com contacts PDF listing LASCO 800-776-2756"
-      },
-      {
         "manufacturer_id": "lennox",
         "manufacturer_name": "Lennox",
         "department": "Residential Tech Support",
@@ -683,45 +611,6 @@
         "source": "mitsubishicomfort.com for-pros page"
       },
       {
-        "manufacturer_id": "mueller-co",
-        "manufacturer_name": "Mueller Co. (Water Products)",
-        "department": "Customer Service / Product Support",
-        "phone": "+18004231323",
-        "country": "US",
-        "regions": [],
-        "timezone": null,
-        "last_verified": "2025-12-24",
-        "specialty_tags": [],
-        "notes": "Mueller Co. customer service line for water distribution valves/hydrants/products.",
-        "source": "muellercompany.com contact page"
-      },
-      {
-        "manufacturer_id": "mueller-co",
-        "manufacturer_name": "Mueller Co. (Water Products)",
-        "department": "Customer Service / Product Support",
-        "phone": "+18004231323",
-        "country": "US",
-        "regions": [],
-        "timezone": null,
-        "last_verified": "2025-12-25",
-        "specialty_tags": [],
-        "notes": "Water distribution valves, hydrants, and related products.",
-        "source": "https://www.muellercompany.com/contact/"
-      },
-      {
-        "manufacturer_id": "mueller-co",
-        "manufacturer_name": "Mueller Co. (Water Products)",
-        "department": "Customer Service",
-        "phone": "+18004231323",
-        "country": "US",
-        "regions": [],
-        "timezone": null,
-        "last_verified": "2025-12-25",
-        "specialty_tags": [],
-        "notes": "Customer service line for Mueller water products division.",
-        "source": "muellercompany.com contact page"
-      },
-      {
         "manufacturer_id": "munters-us",
         "manufacturer_name": "Munters (US)",
         "department": "Data Centers / Humidity & Temperature Control Support",
@@ -750,28 +639,12 @@
       {
         "manufacturer_id": "myers-pumps",
         "manufacturer_name": "Myers (Pentair)",
-        "department": "Customer Service / Technical",
-        "phone": "+18002431742",
-        "country": "US",
         "regions": [],
         "timezone": null,
         "last_verified": "2025-12-25",
         "specialty_tags": [],
         "notes": "Pentair Flow Technologies contact listing for Myers.",
         "source": "https://www.pentair.com/en-us/water-softening-filtration/support.html"
-      },
-      {
-        "manufacturer_id": "myers-pumps",
-        "manufacturer_name": "Myers (Pentair)",
-        "department": "Customer Service / Support",
-        "phone": "+18889878677",
-        "country": "US",
-        "regions": [],
-        "timezone": null,
-        "last_verified": "2025-12-25",
-        "specialty_tags": [],
-        "notes": "Pentair Myers customer support line listed on Myers resources page.",
-        "source": "https://www.pentair.com/en-us/flow/myers/myers-resources.html"
       },
       {
         "manufacturer_id": "nu-air",
@@ -813,19 +686,6 @@
         "source": "rheem.com help-and-support page"
       },
       {
-        "manufacturer_id": "saniflo",
-        "manufacturer_name": "SFA Saniflo",
-        "department": "Technical Support",
-        "phone": "+18005718191",
-        "country": "US",
-        "regions": [],
-        "timezone": null,
-        "last_verified": "2025-12-25",
-        "specialty_tags": [],
-        "notes": "Saniflo US tech support toll-free number (also lists direct line 732-305-2200).",
-        "source": "https://www.sfasaniflo.com/en/faq"
-      },
-      {
         "manufacturer_id": "selkirk",
         "manufacturer_name": "\"Selkirk\"",
         "department": "Customer Service / Technical Support",
@@ -839,24 +699,8 @@
         "source": "Selkirk installation instructions / customer service number"
       },
       {
-        "manufacturer_id": "smith-boilers",
+        "manufacturer_id": "smith-cast-iron",
         "manufacturer_name": "Smith Cast Iron Boilers",
-        "department": "Technical Support",
-        "phone": "+18332655371",
-        "country": "US",
-        "regions": [],
-        "timezone": null,
-        "last_verified": "2025-12-24",
-        "specialty_tags": [],
-        "notes": "Boilers / hydronics",
-        "source": "https://www.smithboilers.com/contact"
-      },
-      {
-        "manufacturer_id": "smith-boilers",
-        "manufacturer_name": "Smith Cast Iron Boilers",
-        "department": "Customer Service / Technical",
-        "phone": "+18332655371",
-        "country": "US",
         "regions": [],
         "timezone": null,
         "last_verified": "2025-12-25",
@@ -962,19 +806,6 @@
         "source": "https://www.turck.us/en/company-news-2863_latest-information-about-the-covid19-situation-36667.php"
       },
       {
-        "manufacturer_id": "valent-air",
-        "manufacturer_name": "Valent Air",
-        "department": "Technical Support",
-        "phone": "+18007898550",
-        "country": "US",
-        "regions": [],
-        "timezone": null,
-        "last_verified": "2025-12-24",
-        "specialty_tags": [],
-        "notes": "Dedicated technical support line (DOAS equipment).",
-        "source": "valentair.com contact us page"
-      },
-      {
         "manufacturer_id": "venmar-systems",
         "manufacturer_name": "\"Venmar Systems, Inc.\"",
         "department": "Support Hotline",
@@ -1014,45 +845,6 @@
         "source": "viessmann-us.com support"
       },
       {
-        "manufacturer_id": "watco-mfg",
-        "manufacturer_name": "Watco Manufacturing Company",
-        "department": "Customer Service / Assistance",
-        "phone": "+18008218576",
-        "country": "US",
-        "regions": [],
-        "timezone": null,
-        "last_verified": "2025-12-25",
-        "specialty_tags": [],
-        "notes": "Watco Manufacturing assistance line listed on official contact page and product guide.",
-        "source": "https://www.watcomfg.com/Contact_Us/"
-      },
-      {
-        "manufacturer_id": "watco-mfg",
-        "manufacturer_name": "Watco Manufacturing Company",
-        "department": "Factory / Rep Phone",
-        "phone": "+18004860251",
-        "country": "US",
-        "regions": [],
-        "timezone": null,
-        "last_verified": "2025-12-25",
-        "specialty_tags": [],
-        "notes": "Pro plumbing bath waste products support via factory line shown by rep listing.",
-        "source": "https://pmireps.com/central-texas/watco/"
-      },
-      {
-        "manufacturer_id": "watco-mfg",
-        "manufacturer_name": "Watco Manufacturing Company",
-        "department": "Factory Assistance",
-        "phone": "+18008218576",
-        "country": "US",
-        "regions": [],
-        "timezone": null,
-        "last_verified": "2025-12-25",
-        "specialty_tags": [],
-        "notes": "Call Watco for assistance per Watco contact/product guide.",
-        "source": "watcomfg.com contact/product guide"
-      },
-      {
         "manufacturer_id": "waterfurnace-tech-services",
         "manufacturer_name": "WaterFurnace (Tech Services)",
         "department": "Technical Support (Tech Services)",
@@ -1087,19 +879,6 @@
         "specialty_tags": [],
         "notes": "Technical support line on 'Request Technical Support' page.",
         "source": "https://wsf-usa.com/contact/support/"
-      },
-      {
-        "manufacturer_id": "woodford-manufacturing",
-        "manufacturer_name": "Woodford Manufacturing Company, LLC",
-        "department": "Customer Service",
-        "phone": "+18006216032",
-        "country": "US",
-        "regions": [],
-        "timezone": null,
-        "last_verified": "2025-12-24",
-        "specialty_tags": [],
-        "notes": "Woodford contact page lists customer service phone.",
-        "source": "https://www.woodfordmfg.com/Contact_Us/ (official)"
       },
       {
         "manufacturer_id": "york",
