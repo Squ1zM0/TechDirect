@@ -158,7 +158,7 @@
       },
       {
         "manufacturer_id": "anemostat",
-        "manufacturer_name": "\"Anemostat (Air Distribution Laboratories)\"",
+        "manufacturer_name": "Anemostat (Air Distribution Laboratories)",
         "category": "hvac",
         "department": "Eastern Technical Services",
         "phone": "+15705622778",
@@ -354,7 +354,7 @@
       },
       {
         "manufacturer_id": "bitzer",
-        "manufacturer_name": "\"BITZER\"",
+        "manufacturer_name": "BITZER",
         "category": "hvac",
         "department": "Technical Support / Customer Service (BITZER US)",
         "phone": "+18884624893",
@@ -508,7 +508,7 @@
       },
       {
         "manufacturer_id": "carel",
-        "manufacturer_name": "\"CAREL USA\"",
+        "manufacturer_name": "CAREL USA",
         "category": "hvac",
         "department": "Technical Support / Warranty / Returns",
         "phone": "+17176640500",
@@ -620,7 +620,7 @@
       },
       {
         "manufacturer_id": "condair",
-        "manufacturer_name": "\"Condair\"",
+        "manufacturer_name": "Condair",
         "category": "hvac",
         "department": "Technical Support (Humidification)",
         "phone": "+18666678321",
@@ -732,7 +732,7 @@
       },
       {
         "manufacturer_id": "dristeem",
-        "manufacturer_name": "\"DriSteem\"",
+        "manufacturer_name": "DriSteem",
         "category": "hvac",
         "department": "Tech Support (Humidification)",
         "phone": "+18003284447",
@@ -872,7 +872,7 @@
       },
       {
         "manufacturer_id": "flaktgroup-semco",
-        "manufacturer_name": "\"Fl\\xE4ktGroup SEMCO\"",
+        "manufacturer_name": "Fl\\xE4ktGroup SEMCO",
         "category": "hvac",
         "department": "Sales & Support / Main",
         "phone": "+15734431481",
@@ -1012,7 +1012,7 @@
       },
       {
         "manufacturer_id": "halton",
-        "manufacturer_name": "\"Halton\"",
+        "manufacturer_name": "Halton",
         "category": "hvac",
         "department": "Halton USA Office (Service/Support routing)",
         "phone": "+19724195100",
@@ -1026,7 +1026,7 @@
       },
       {
         "manufacturer_id": "hart-cooley",
-        "manufacturer_name": "\"Hart & Cooley\"",
+        "manufacturer_name": "Hart & Cooley",
         "category": "hvac",
         "department": "Customer Service & Support (Commercial/Residential routing)",
         "phone": "+18004336341",
@@ -1320,7 +1320,7 @@
       },
       {
         "manufacturer_id": "metal-fab",
-        "manufacturer_name": "\"Metal-Fab (Commercial Venting)\"",
+        "manufacturer_name": "Metal-Fab (Commercial Venting)",
         "category": "hvac",
         "department": "Customer Service / Support (Commercial Products)",
         "phone": "+18008352830",
@@ -1530,7 +1530,7 @@
       },
       {
         "manufacturer_id": "nu-air",
-        "manufacturer_name": "\"Nu-Air Ventilation Systems Inc.\"",
+        "manufacturer_name": "Nu-Air Ventilation Systems Inc.",
         "category": "hvac",
         "department": "Technical / Sales Support (HRV/ERV)",
         "phone": "+18005652261",
@@ -1805,14 +1805,14 @@
         "timezone": null,
         "last_verified": "2025-12-24",
         "specialty_tags": [],
-        "notes": "Phone menu: select 2 for Technical Support.",
+        "notes": "Phone menu - select 2 for Technical Support.",
         "source": "https://www.riello.com/north-america/service/technical-support/technical-support-contact-details"
       },
       {
         "manufacturer_id": "riello",
         "manufacturer_name": "Riello North America",
         "category": "hvac",
-        "department": "Technical Support (Commercial Boilers: Array/Condexa PRO)",
+        "department": "Technical Support (Commercial Boilers - Array/Condexa PRO)",
         "phone": "+18772042779",
         "country": "US",
         "regions": [],
@@ -1894,7 +1894,7 @@
       },
       {
         "manufacturer_id": "selkirk",
-        "manufacturer_name": "\"Selkirk\"",
+        "manufacturer_name": "Selkirk",
         "category": "hvac",
         "department": "Customer Service / Technical Support",
         "phone": "+18009928368",
@@ -1922,7 +1922,7 @@
       },
       {
         "manufacturer_id": "soler-palau",
-        "manufacturer_name": "\"Soler & Palau (S&P USA Ventilation Systems)\"",
+        "manufacturer_name": "Soler & Palau (S&P USA Ventilation Systems)",
         "category": "hvac",
         "department": "Support Service & Technical Support",
         "phone": "+18009617370",
@@ -2104,7 +2104,7 @@
       },
       {
         "manufacturer_id": "tecumseh",
-        "manufacturer_name": "\"Tecumseh Products Company\"",
+        "manufacturer_name": "Tecumseh Products Company",
         "category": "hvac",
         "department": "Technical Service (Refrigeration)",
         "phone": "+18002113427",
@@ -2342,7 +2342,7 @@
       },
       {
         "manufacturer_id": "venmar-systems",
-        "manufacturer_name": "\"Venmar Systems, Inc.\"",
+        "manufacturer_name": "Venmar Systems, Inc.",
         "category": "hvac",
         "department": "Support Hotline",
         "phone": "+13143733337",
@@ -2633,7 +2633,7 @@
         "timezone": null,
         "last_verified": "2025-12-25",
         "specialty_tags": [],
-        "notes": "Contact page lists system operation support (option #1).",
+        "notes": "Contact page lists system operation support (option 1).",
         "source": "acornvac.com contact page"
       },
       {

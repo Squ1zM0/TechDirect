@@ -11,11 +11,11 @@ support:
   department: Technical Support (Burners & Industrial Systems)
   phone: "+18004743556"
   country: US
-  notes: 'Phone menu: select 2 for Technical Support.'
+  notes: Phone menu - select 2 for Technical Support.
   source: https://www.riello.com/north-america/service/technical-support/technical-support-contact-details
   last_verified: '2025-12-24'
 - category: hvac
-  department: 'Technical Support (Commercial Boilers: Array/Condexa PRO)'
+  department: Technical Support (Commercial Boilers - Array/Condexa PRO)
   phone: "+18772042779"
   country: US
   notes: Commercial boilers technical support line.

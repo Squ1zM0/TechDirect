@@ -5633,7 +5633,7 @@ This inventory documents all manufacturer tech support contact information curre
 - Source: https://www.riello.com/north-america/service/technical-support/technical-support-contact-details
 
 **Support Entry 2:**
-- Department: 'Technical Support (Commercial Boilers: Array/Condexa PRO)'
+- Department: Technical Support (Commercial Boilers - Array/Condexa PRO)
 - Phone: +18772042779
 - Country: US
 - Category: hvac
