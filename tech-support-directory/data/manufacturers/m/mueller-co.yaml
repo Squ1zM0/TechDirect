@@ -1,27 +1,17 @@
 id: mueller-co
 name: Mueller Co. (Water Products)
 website: https://www.muellercompany.com/contact/
-categories: [plumbing, hydronics]
-aliases: ["Mueller Co", "Mueller Water Products", "Mueller Water Products Division"]
+categories:
+- plumbing
+aliases:
+- Mueller Co
+- Mueller Water Products
 support:
-  - category: plumbing
-    department: Customer Service / Product Support
-    phone: "+18004231323"
-    country: US
-    notes: "Mueller Co. customer service line for water distribution valves/hydrants/products."
-    source: "muellercompany.com contact page"
-    last_verified: "2025-12-24"
-  - category: tech-support
-    department: Customer Service / Product Support
-    phone: "+18004231323"
-    country: US
-    notes: "Water distribution valves, hydrants, and related products."
-    source: "https://www.muellercompany.com/contact/"
-    last_verified: "2025-12-25"
-  - category: plumbing
-    department: Customer Service
-    phone: "+18004231323"
-    country: US
-    notes: "Customer service line for Mueller water products division."
-    source: "muellercompany.com contact page"
-    last_verified: "2025-12-25"
+- category: plumbing
+  department: Customer Service / Product Support
+  phone: "+18004231323"
+  country: US
+  notes: Mueller Co. customer service line for water distribution valves/hydrants/products.
+  source: muellercompany.com contact page
+  last_verified: '2025-12-24'
+  regions: []

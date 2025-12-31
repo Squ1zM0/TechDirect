@@ -1,0 +1,16 @@
+id: eone
+name: Environment One (E/One)
+website: https://eone.com/sewer-systems/knowledge/certified-service
+categories:
+- plumbing
+aliases:
+- E/One
+- Environment One Corporation
+support:
+- category: plumbing
+  department: Certified Service Locator (toll-free)
+  phone: "+18665399803"
+  country: US
+  notes: Toll-free number to locate certified E/One grinder pump service centers.
+  source: https://eone.com/sewer-systems/knowledge/certified-service
+  last_verified: '2025-12-25'

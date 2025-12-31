@@ -1,20 +1,20 @@
 id: myers-pumps
 name: Myers (Pentair)
 website: https://www.pentair.com/en-us/products/pumps/myers.html
-categories: [plumbing, pumps, sump-sewage]
-aliases: ["Myers Pumps", "Pentair Myers", "Myers Pump"]
+categories:
+- plumbing
+- pumps
+- sump-sewage
+aliases:
+- Myers Pumps
+- Pentair Myers
 support:
-  - category: plumbing
-    department: Customer Service / Technical
-    phone: "+18002431742"
-    country: US
-    notes: "Pentair Flow Technologies contact listing for Myers."
-    source: "https://www.pentair.com/en-us/water-softening-filtration/support.html"
-    last_verified: "2025-12-25"
-  - category: plumbing
-    department: Customer Service / Support
-    phone: "+18889878677"
-    country: US
-    notes: "Pentair Myers customer support line listed on Myers resources page."
-    source: "https://www.pentair.com/en-us/flow/myers/myers-resources.html"
-    last_verified: "2025-12-25"
+- category: plumbing
+  department: Customer Service / Technical
+  phone: "+18002431742"
+  country: US
+  regions:
+  - US
+  notes: Pentair Flow Technologies contact listing for Myers.
+  source: https://www.pentair.com/en-us/water-softening-filtration/support.html
+  last_verified: '2025-12-25'

@@ -1,20 +1,15 @@
 id: camus-hydronics
 name: Camus Hydronics
 website: https://camus-hydronics.com/
-categories: [hvac, hydronics, boilers, water-heaters]
-aliases: ["Camus Hydronics Ltd.", "Camus"]
+categories:
+- hvac
+aliases:
+- Camus Hydronics Ltd.
 support:
-  - category: hvac
-    department: Technical Support
-    phone: "+19056967800"
-    country: CA
-    notes: "Manufacturer HQ line (Canada); serves equipment installed in the U.S."
-    source: "https://camus-hydronics.com/contactus"
-    last_verified: "2025-12-24"
-  - category: hydronics
-    department: Technical Support / General
-    phone: "+19056967800"
-    country: CA
-    notes: "Canadian HQ supports North America; equipment installed in US via reps/distribution."
-    source: "https://camus-hydronics.com/contact/"
-    last_verified: "2025-12-25"
+- category: hvac
+  department: Technical Support
+  phone: "+19056967800"
+  country: CA
+  notes: Manufacturer HQ line (Canada); serves equipment installed in the U.S.
+  source: https://camus-hydronics.com/contactus
+  last_verified: '2025-12-24'

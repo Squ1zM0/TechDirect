@@ -15,10 +15,3 @@ support:
       timezone: "CT"
       mon_fri: "7:00 AM - 7:00 PM"
       sat: "8:00 AM - 5:00 PM"
-  - category: hvac
-    department: Customer & Technical Support
-    phone: "+18775566731"
-    country: US
-    notes: "Customer and technical support for residential and commercial products."
-    source: "hotwater.com contact tech support"
-    last_verified: "2025-12-24"
