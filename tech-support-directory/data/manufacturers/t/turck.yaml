@@ -1,15 +1,15 @@
-id: "turck"
-name: "Turck USA"
+id: turck
+name: Turck USA
 categories:
-  - "electrical"
+  - electrical
 aliases:
-  - "Turck"
-website: "https://www.turck.us/"
+  - Turck
+website: https://www.turck.us/
 support:
-  - category: "electrical"
-    department: "Customer Service / Technical Support"
+  - category: electrical
+    department: Customer Service / Technical Support
     phone: "+18005447769"
-    country: "US"
-    notes: "Use for contractor/industrial product support."
-    source: "https://www.turck.us/en/company-news-2863_latest-information-about-the-covid19-situation-36667.php"
+    country: US
+    notes: Use for contractor/industrial product support.
+    source: https://www.turck.us/en/company-news-2863_latest-information-about-the-covid19-situation-36667.php
     last_verified: "2025-12-25"

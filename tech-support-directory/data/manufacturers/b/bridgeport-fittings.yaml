@@ -1,15 +1,15 @@
-id: "bridgeport-fittings"
-name: "Bridgeport Fittings (NSI Industries)"
+id: bridgeport-fittings
+name: Bridgeport Fittings (NSI Industries)
 categories:
-  - "electrical"
+  - electrical
 aliases:
-  - "Bridgeport"
-  - "Bridgeport Fittings"
-website: "https://nsiindustries.com/bridgeport/"
+  - Bridgeport
+  - Bridgeport Fittings
+website: https://nsiindustries.com/bridgeport/
 support:
-  - category: "electrical"
-    department: "Technical Support"
+  - category: electrical
+    department: Technical Support
     phone: "+18885004598"
-    country: "US"
-    source: "https://nsiindustries.com/support/electrical-support/contact/"
+    country: US
+    source: https://nsiindustries.com/support/electrical-support/contact/
     last_verified: "2025-12-25"

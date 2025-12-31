@@ -1,15 +1,15 @@
-id: "banner-engineering"
-name: "Banner Engineering"
+id: banner-engineering
+name: Banner Engineering
 categories:
-  - "electrical"
+  - electrical
 aliases:
-  - "Banner"
-website: "https://www.bannerengineering.com/"
+  - Banner
+website: https://www.bannerengineering.com/
 support:
-  - category: "electrical"
-    department: "Main / Technical Support"
+  - category: electrical
+    department: Main / Technical Support
     phone: "+17635443164"
-    country: "US"
-    notes: "Main line; ask for Technical Support."
-    source: "https://www.tpxonline.com/Sourcebook/Sourcebook_Search_Detail.asp?Company=228679&Status=1"
+    country: US
+    notes: Main line; ask for Technical Support.
+    source: https://www.tpxonline.com/Sourcebook/Sourcebook_Search_Detail.asp?Company=228679&Status=1
     last_verified: "2025-12-25"
