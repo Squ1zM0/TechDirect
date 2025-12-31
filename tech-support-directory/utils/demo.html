@@ -143,9 +143,8 @@
             const displayPhone = raw;
             let sanitized = raw.replace(/[^\d+]/g, '');
 
-            if (sanitized.startsWith('++')) {
-                sanitized = '+' + sanitized.slice(2);
-            }
+            // Normalize multiple leading + signs to single +, remove + anywhere else
+            sanitized = sanitized.replace(/^\++/, '+').replace(/(?<=.)\+/g, '');
 
             const digitCount = sanitized.replace(/\+/g, '').length;
             const isCallable = digitCount >= 7;

@@ -60,10 +60,8 @@ export function formatPhone(phone: string | null | undefined): PhoneResult {
   // Keep leading +, keep digits 0-9, remove everything else
   let sanitized = raw.replace(/[^\d+]/g, '');
 
-  // Normalize multiple + signs to single +
-  if (sanitized.startsWith('++')) {
-    sanitized = '+' + sanitized.slice(2);
-  }
+  // Normalize multiple leading + signs to single +, remove + anywhere else
+  sanitized = sanitized.replace(/^\++/, '+').replace(/(?<=.)\+/g, '');
 
   // Count digits (excluding +)
   const digitCount = sanitized.replace(/\+/g, '').length;
