@@ -506,15 +506,12 @@
       {
         "manufacturer_id": "hydromatic",
         "manufacturer_name": "Hydromatic (Pentair)",
-        "department": "Wastewater Tech Support",
-        "phone": "+18552748947",
-        "country": "US",
         "regions": [],
         "timezone": null,
         "last_verified": "2025-12-25",
         "specialty_tags": [],
-        "notes": "Wastewater tech support line for Hydromatic (commercial support page).",
-        "source": "pentair.com commercial support contact us page (Hydromatic Wastewater)"
+        "notes": "Pentair Flow Technologies contact listing for Hydromatic.",
+        "source": "https://www.pentair.com/en-us/water-softening-filtration/support.html"
       },
       {
         "manufacturer_id": "\"ifm\"",
@@ -536,7 +533,7 @@
         "timezone": null,
         "last_verified": "2025-12-25",
         "specialty_tags": [],
-        "notes": "1-800-ASK-FLOW listed on IMI Flow Design contact page for technical and customer service.",
+        "notes": "1-800-ASK-FLOW listed on IMI Flow Design contact page.",
         "source": "https://www.imiflowdesign.com/contact/"
       },
       {
@@ -725,6 +722,19 @@
         "source": "muellercompany.com contact page"
       },
       {
+        "manufacturer_id": "munters-us",
+        "manufacturer_name": "Munters (US)",
+        "department": "Data Centers / Humidity & Temperature Control Support",
+        "phone": "+15402911111",
+        "country": "US",
+        "regions": [],
+        "timezone": null,
+        "last_verified": "2025-12-24",
+        "specialty_tags": [],
+        "notes": "Munters US contact number for Data Centers & Humidity/Temperature Control (service/support contact routing).",
+        "source": "munters.com US contact"
+      },
+      {
         "manufacturer_id": "munters",
         "manufacturer_name": "Munters",
         "department": "Data Centers / Humidity & Temperature Control Support",
@@ -736,19 +746,6 @@
         "specialty_tags": [],
         "notes": "Munters US contact line listed for data centers / humidity & temperature control.",
         "source": "munters.com contact (United States)"
-      },
-      {
-        "manufacturer_id": "munters",
-        "manufacturer_name": "Munters",
-        "department": "Data Centers / Humidity & Temperature Control Support",
-        "phone": "+15402911111",
-        "country": "US",
-        "regions": [],
-        "timezone": null,
-        "last_verified": "2025-12-24",
-        "specialty_tags": [],
-        "notes": "Munters US contact number for Data Centers & Humidity/Temperature Control (service/support contact routing).",
-        "source": "munters.com US contact"
       },
       {
         "manufacturer_id": "myers-pumps",
@@ -766,28 +763,15 @@
       {
         "manufacturer_id": "myers-pumps",
         "manufacturer_name": "Myers (Pentair)",
-        "department": "Customer Service / Technical Support",
+        "department": "Customer Service / Support",
         "phone": "+18889878677",
         "country": "US",
         "regions": [],
         "timezone": null,
         "last_verified": "2025-12-25",
         "specialty_tags": [],
-        "notes": "Pentair Myers customer support and technical support line (retail support page and Myers resources page).",
-        "source": "pentair.com retail support contact us page / Myers resources page"
-      },
-      {
-        "manufacturer_id": "myers-pumps",
-        "manufacturer_name": "Myers (Pentair)",
-        "department": "Wastewater Tech Support",
-        "phone": "+18552748948",
-        "country": "US",
-        "regions": [],
-        "timezone": null,
-        "last_verified": "2025-12-25",
-        "specialty_tags": [],
-        "notes": "Wastewater tech support line for Myers (commercial support page).",
-        "source": "pentair.com commercial support contact us page (Myers Wastewater)"
+        "notes": "Pentair Myers customer support line listed on Myers resources page.",
+        "source": "https://www.pentair.com/en-us/flow/myers/myers-resources.html"
       },
       {
         "manufacturer_id": "nu-air",
@@ -1067,6 +1051,19 @@
         "specialty_tags": [],
         "notes": "Call Watco for assistance per Watco contact/product guide.",
         "source": "watcomfg.com contact/product guide"
+      },
+      {
+        "manufacturer_id": "waterfurnace-tech-services",
+        "manufacturer_name": "WaterFurnace (Tech Services)",
+        "department": "Technical Support (Tech Services)",
+        "phone": "+18889292837",
+        "country": "US",
+        "regions": [],
+        "timezone": null,
+        "last_verified": "2025-12-24",
+        "specialty_tags": [],
+        "notes": "Tech Services support line (option 1) listed for technical support.",
+        "source": "WaterFurnace distributor contacts PDF"
       },
       {
         "manufacturer_id": "waterfurnace",
