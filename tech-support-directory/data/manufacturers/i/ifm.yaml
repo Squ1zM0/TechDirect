@@ -1,15 +1,15 @@
-id: "ifm"
-name: "ifm efector, inc."
+id: ifm
+name: ifm efector, inc.
 categories:
-  - "electrical"
+  - electrical
 aliases:
-  - "ifm"
-  - "ifm efector"
-website: "https://www.ifm.com/us/en"
+  - ifm
+  - ifm efector
+website: https://www.ifm.com/us/en
 support:
-  - category: "electrical"
-    department: "Customer Service / Technical Support"
+  - category: electrical
+    department: Customer Service / Technical Support
     phone: "+18004418246"
-    country: "US"
-    source: "https://www.ifm.com/us/en"
+    country: US
+    source: https://www.ifm.com/us/en
     last_verified: "2025-12-25"
