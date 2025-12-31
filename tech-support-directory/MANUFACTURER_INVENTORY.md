@@ -18,7 +18,7 @@ This inventory documents all manufacturer tech support contact information curre
 - **Support Entries:** 1
 
 **Support Entry 1:**
-- Department: "Eastern Technical Services"
+- Department: Eastern Technical Services
 - Phone: +15705622778
 - Country: US
 - Category: hvac
@@ -29,16 +29,16 @@ This inventory documents all manufacturer tech support contact information curre
 
 #### Banner Engineering
 
-- **ID:** `"banner-engineering"`
-- **Website:** "https://www.bannerengineering.com/"
+- **ID:** `banner-engineering`
+- **Website:** https://www.bannerengineering.com/
 - **Categories:** 
 - **Support Entries:** 1
 
 **Support Entry 1:**
-- Department: "Main / Technical Support"
+- Department: Main / Technical Support
 - Phone: +17635443164
 - Country: US
-- Category: "electrical"
+- Category: electrical
 - Last Verified: 2025-12-25
 - Source: https://www.tpxonline.com/Sourcebook/Sourcebook_Search_Detail.asp?Company=228679&Status=1
 
@@ -52,7 +52,7 @@ This inventory documents all manufacturer tech support contact information curre
 - **Support Entries:** 1
 
 **Support Entry 1:**
-- Department: "Technical Support / Customer Service (BITZER US)"
+- Department: Technical Support / Customer Service (BITZER US)
 - Phone: +18884624893
 - Country: US
 - Category: hvac
@@ -63,16 +63,16 @@ This inventory documents all manufacturer tech support contact information curre
 
 #### Bridgeport Fittings (NSI Industries)
 
-- **ID:** `"bridgeport-fittings"`
-- **Website:** "https://nsiindustries.com/bridgeport/"
+- **ID:** `bridgeport-fittings`
+- **Website:** https://nsiindustries.com/bridgeport/
 - **Categories:** 
 - **Support Entries:** 1
 
 **Support Entry 1:**
-- Department: "Technical Support"
+- Department: Technical Support
 - Phone: +18885004598
 - Country: US
-- Category: "electrical"
+- Category: electrical
 - Last Verified: 2025-12-25
 - Source: https://nsiindustries.com/support/electrical-support/contact/
 
@@ -86,7 +86,7 @@ This inventory documents all manufacturer tech support contact information curre
 - **Support Entries:** 1
 
 **Support Entry 1:**
-- Department: "Technical Support / Warranty / Returns"
+- Department: Technical Support / Warranty / Returns
 - Phone: +17176640500
 - Country: US
 - Category: hvac
@@ -103,7 +103,7 @@ This inventory documents all manufacturer tech support contact information curre
 - **Support Entries:** 1
 
 **Support Entry 1:**
-- Department: "Technical Support (Humidification)"
+- Department: Technical Support (Humidification)
 - Phone: +18666678321
 - Country: US
 - Category: hvac
@@ -114,16 +114,16 @@ This inventory documents all manufacturer tech support contact information curre
 
 #### Control Techniques (Nidec Drives)
 
-- **ID:** `"control-techniques"`
-- **Website:** "https://acim.nidec.com/en-US/drives/control-techniques"
+- **ID:** `control-techniques`
+- **Website:** https://acim.nidec.com/en-US/drives/control-techniques
 - **Categories:** 
 - **Support Entries:** 1
 
 **Support Entry 1:**
-- Department: "Technical Support"
+- Department: Technical Support
 - Phone: +18008932321
 - Country: US
-- Category: "electrical"
+- Category: electrical
 - Last Verified: 2025-12-25
 - Source: https://acim.nidec.com/en-US/drives/control-techniques/services/support
 
@@ -137,7 +137,7 @@ This inventory documents all manufacturer tech support contact information curre
 - **Support Entries:** 1
 
 **Support Entry 1:**
-- Department: "Tech Support (Humidification)"
+- Department: Tech Support (Humidification)
 - Phone: +18003284447
 - Country: US
 - Category: hvac
@@ -171,7 +171,7 @@ This inventory documents all manufacturer tech support contact information curre
 - **Support Entries:** 1
 
 **Support Entry 1:**
-- Department: "Halton USA Office (Service/Support routing)"
+- Department: Halton USA Office (Service/Support routing)
 - Phone: +19724195100
 - Country: US
 - Category: hvac
@@ -188,7 +188,7 @@ This inventory documents all manufacturer tech support contact information curre
 - **Support Entries:** 1
 
 **Support Entry 1:**
-- Department: "Customer Service & Support (Commercial/Residential routing)"
+- Department: Customer Service & Support (Commercial/Residential routing)
 - Phone: +18004336341
 - Country: US
 - Category: hvac
@@ -199,16 +199,16 @@ This inventory documents all manufacturer tech support contact information curre
 
 #### HELUKABEL USA
 
-- **ID:** `"helukabel"`
-- **Website:** "https://www.helukabel.us/us-en/"
+- **ID:** `helukabel`
+- **Website:** https://www.helukabel.us/us-en/
 - **Categories:** 
 - **Support Entries:** 1
 
 **Support Entry 1:**
-- Department: "Sales / Technical Information"
+- Department: Sales / Technical Information
 - Phone: +18554358872
 - Country: US
-- Category: "electrical"
+- Category: electrical
 - Last Verified: 2025-12-25
 - Source: https://www.helukabel.us/us-en/contact/
 
@@ -216,16 +216,16 @@ This inventory documents all manufacturer tech support contact information curre
 
 #### ifm efector, inc.
 
-- **ID:** `"ifm"`
-- **Website:** "https://www.ifm.com/us/en"
+- **ID:** `ifm`
+- **Website:** https://www.ifm.com/us/en
 - **Categories:** 
 - **Support Entries:** 1
 
 **Support Entry 1:**
-- Department: "Customer Service / Technical Support"
+- Department: Customer Service / Technical Support
 - Phone: +18004418246
 - Country: US
-- Category: "electrical"
+- Category: electrical
 - Last Verified: 2025-12-25
 - Source: https://www.ifm.com/us/en
 
@@ -233,16 +233,16 @@ This inventory documents all manufacturer tech support contact information curre
 
 #### Killark (Hubbell)
 
-- **ID:** `"killark"`
-- **Website:** "https://www.hubbell.com/killark/en"
+- **ID:** `killark`
+- **Website:** https://www.hubbell.com/killark/en
 - **Categories:** 
 - **Support Entries:** 1
 
 **Support Entry 1:**
-- Department: "Customer Service / Support"
+- Department: Customer Service / Support
 - Phone: +18005310460
 - Country: US
-- Category: "electrical"
+- Category: electrical
 - Last Verified: 2025-12-25
 - Source: https://www.hubbell.com/killark/en/contact-us
 
@@ -250,16 +250,16 @@ This inventory documents all manufacturer tech support contact information curre
 
 #### LAPP North America
 
-- **ID:** `"lapp"`
-- **Website:** "https://www.lapp.com/en_US/us/"
+- **ID:** `lapp`
+- **Website:** https://www.lapp.com/en_US/us/
 - **Categories:** 
 - **Support Entries:** 1
 
 **Support Entry 1:**
-- Department: "Advice & Support"
+- Department: Advice & Support
 - Phone: +18007743539
 - Country: US
-- Category: "electrical"
+- Category: electrical
 - Last Verified: 2025-12-25
 - Source: https://www.lapp.com/en_US/us/service/contact-overview/e/000040
 
@@ -267,16 +267,16 @@ This inventory documents all manufacturer tech support contact information curre
 
 #### MEAN WELL USA
 
-- **ID:** `"mean-well"`
-- **Website:** "https://www.meanwellusa.com/"
+- **ID:** `mean-well`
+- **Website:** https://www.meanwellusa.com/
 - **Categories:** 
 - **Support Entries:** 1
 
 **Support Entry 1:**
-- Department: "Engineering / Technical Support"
+- Department: Engineering / Technical Support
 - Phone: +18336357201
 - Country: US
-- Category: "electrical"
+- Category: electrical
 - Last Verified: 2025-12-25
 - Source: https://www.meanwellusa.com/contact.aspx
 
@@ -290,7 +290,7 @@ This inventory documents all manufacturer tech support contact information curre
 - **Support Entries:** 1
 
 **Support Entry 1:**
-- Department: "Customer Service / Support (Commercial Products)"
+- Department: Customer Service / Support (Commercial Products)
 - Phone: +18008352830
 - Country: US
 - Category: hvac
@@ -307,7 +307,7 @@ This inventory documents all manufacturer tech support contact information curre
 - **Support Entries:** 1
 
 **Support Entry 1:**
-- Department: "Technical / Sales Support (HRV/ERV)"
+- Department: Technical / Sales Support (HRV/ERV)
 - Phone: +18005652261
 - Country: CA
 - Category: hvac
@@ -324,7 +324,7 @@ This inventory documents all manufacturer tech support contact information curre
 - **Support Entries:** 1
 
 **Support Entry 1:**
-- Department: "Customer Service / Technical Support"
+- Department: Customer Service / Technical Support
 - Phone: +18009928368
 - Country: US
 - Category: hvac
@@ -341,7 +341,7 @@ This inventory documents all manufacturer tech support contact information curre
 - **Support Entries:** 1
 
 **Support Entry 1:**
-- Department: "Support Service & Technical Support"
+- Department: Support Service & Technical Support
 - Phone: +18009617370
 - Country: US
 - Category: hvac
@@ -358,7 +358,7 @@ This inventory documents all manufacturer tech support contact information curre
 - **Support Entries:** 1
 
 **Support Entry 1:**
-- Department: "Technical Service (Refrigeration)"
+- Department: Technical Service (Refrigeration)
 - Phone: +18002113427
 - Country: US
 - Category: hvac
@@ -369,16 +369,16 @@ This inventory documents all manufacturer tech support contact information curre
 
 #### Turck USA
 
-- **ID:** `"turck"`
-- **Website:** "https://www.turck.us/"
+- **ID:** `turck`
+- **Website:** https://www.turck.us/
 - **Categories:** 
 - **Support Entries:** 1
 
 **Support Entry 1:**
-- Department: "Customer Service / Technical Support"
+- Department: Customer Service / Technical Support
 - Phone: +18005447769
 - Country: US
-- Category: "electrical"
+- Category: electrical
 - Last Verified: 2025-12-25
 - Source: https://www.turck.us/en/company-news-2863_latest-information-about-the-covid19-situation-36667.php
 
@@ -392,7 +392,7 @@ This inventory documents all manufacturer tech support contact information curre
 - **Support Entries:** 1
 
 **Support Entry 1:**
-- Department: "Support Hotline"
+- Department: Support Hotline
 - Phone: +13143733337
 - Country: US
 - Category: hvac
