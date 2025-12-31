@@ -56,7 +56,14 @@ function formatPhone(phone) {
   let sanitized = raw.replace(/[^\d+]/g, '');
 
   // Normalize multiple leading + signs to single +, remove + anywhere else
-  sanitized = sanitized.replace(/^\++/, '+').replace(/(?<=.)\+/g, '');
+  // Using split/filter approach for better browser compatibility
+  if (sanitized.includes('+')) {
+    const hasLeadingPlus = sanitized.startsWith('+');
+    sanitized = sanitized.replace(/\+/g, '');
+    if (hasLeadingPlus) {
+      sanitized = '+' + sanitized;
+    }
+  }
 
   // Count digits (excluding +)
   const digitCount = sanitized.replace(/\+/g, '').length;
