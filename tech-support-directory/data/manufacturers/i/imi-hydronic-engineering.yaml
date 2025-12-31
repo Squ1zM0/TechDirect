@@ -5,10 +5,14 @@ categories:
 - hydronics
 - plumbing
 - hvac-controls
+- hvac
 aliases:
 - IMI Flow Design
 - IMI TA
 - IMI Pneumatex
+- IMI Hydronic
+- TA (Tour & Andersson)
+- Heimeier
 support:
 - category: hydronics
   department: Technical / Customer Service
@@ -16,6 +20,6 @@ support:
   country: US
   regions:
   - US
-  notes: 1-800-ASK-FLOW listed on IMI Flow Design contact page.
+  notes: 1-800-ASK-FLOW listed on IMI Flow Design contact page for technical and customer service.
   source: https://www.imiflowdesign.com/contact/
   last_verified: '2025-12-25'
