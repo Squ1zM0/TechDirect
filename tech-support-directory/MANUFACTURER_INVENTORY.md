@@ -9,9 +9,8 @@
 
 This inventory documents all manufacturer tech support contact information currently in the TechDirect directory.
 
-### "
 
-#### "Anemostat (Air Distribution Laboratories)"
+#### Anemostat (Air Distribution Laboratories)
 
 - **ID:** `anemostat`
 - **Website:** https://www.anemostat-hvac.com/company_info.asp
@@ -28,7 +27,7 @@ This inventory documents all manufacturer tech support contact information curre
 
 ---
 
-#### "Banner Engineering"
+#### Banner Engineering
 
 - **ID:** `"banner-engineering"`
 - **Website:** "https://www.bannerengineering.com/"
@@ -45,7 +44,7 @@ This inventory documents all manufacturer tech support contact information curre
 
 ---
 
-#### "BITZER"
+#### BITZER
 
 - **ID:** `bitzer`
 - **Website:** https://www.bitzer.de/us/us/contact/
@@ -62,7 +61,7 @@ This inventory documents all manufacturer tech support contact information curre
 
 ---
 
-#### "Bridgeport Fittings (NSI Industries)"
+#### Bridgeport Fittings (NSI Industries)
 
 - **ID:** `"bridgeport-fittings"`
 - **Website:** "https://nsiindustries.com/bridgeport/"
@@ -79,7 +78,7 @@ This inventory documents all manufacturer tech support contact information curre
 
 ---
 
-#### "CAREL USA"
+#### CAREL USA
 
 - **ID:** `carel`
 - **Website:** https://www.carelusa.com/contact-us
@@ -96,7 +95,7 @@ This inventory documents all manufacturer tech support contact information curre
 
 ---
 
-#### "Condair"
+#### Condair
 
 - **ID:** `condair`
 - **Website:** https://www.condair.com/contact-us
@@ -113,7 +112,7 @@ This inventory documents all manufacturer tech support contact information curre
 
 ---
 
-#### "Control Techniques (Nidec Drives)"
+#### Control Techniques (Nidec Drives)
 
 - **ID:** `"control-techniques"`
 - **Website:** "https://acim.nidec.com/en-US/drives/control-techniques"
@@ -130,7 +129,7 @@ This inventory documents all manufacturer tech support contact information curre
 
 ---
 
-#### "DriSteem"
+#### DriSteem
 
 - **ID:** `dristeem`
 - **Website:** https://www.dristeem.com/contact-us/
@@ -147,7 +146,7 @@ This inventory documents all manufacturer tech support contact information curre
 
 ---
 
-#### "Fl\xE4ktGroup SEMCO"
+#### Fl\xE4ktGroup SEMCO
 
 - **ID:** `flaktgroup-semco`
 - **Website:** https://www.semcohvac.com/
@@ -164,7 +163,7 @@ This inventory documents all manufacturer tech support contact information curre
 
 ---
 
-#### "Halton"
+#### Halton
 
 - **ID:** `halton`
 - **Website:** https://www.halton.com/locations/halton-usa/
@@ -181,7 +180,7 @@ This inventory documents all manufacturer tech support contact information curre
 
 ---
 
-#### "Hart & Cooley"
+#### Hart & Cooley
 
 - **ID:** `hart-cooley`
 - **Website:** https://hartandcooley.com/contact/
@@ -198,7 +197,7 @@ This inventory documents all manufacturer tech support contact information curre
 
 ---
 
-#### "HELUKABEL USA"
+#### HELUKABEL USA
 
 - **ID:** `"helukabel"`
 - **Website:** "https://www.helukabel.us/us-en/"
@@ -215,7 +214,7 @@ This inventory documents all manufacturer tech support contact information curre
 
 ---
 
-#### "ifm efector, inc."
+#### ifm efector, inc.
 
 - **ID:** `"ifm"`
 - **Website:** "https://www.ifm.com/us/en"
@@ -232,7 +231,7 @@ This inventory documents all manufacturer tech support contact information curre
 
 ---
 
-#### "Killark (Hubbell)"
+#### Killark (Hubbell)
 
 - **ID:** `"killark"`
 - **Website:** "https://www.hubbell.com/killark/en"
@@ -249,7 +248,7 @@ This inventory documents all manufacturer tech support contact information curre
 
 ---
 
-#### "LAPP North America"
+#### LAPP North America
 
 - **ID:** `"lapp"`
 - **Website:** "https://www.lapp.com/en_US/us/"
@@ -266,7 +265,7 @@ This inventory documents all manufacturer tech support contact information curre
 
 ---
 
-#### "MEAN WELL USA"
+#### MEAN WELL USA
 
 - **ID:** `"mean-well"`
 - **Website:** "https://www.meanwellusa.com/"
@@ -283,7 +282,7 @@ This inventory documents all manufacturer tech support contact information curre
 
 ---
 
-#### "Metal-Fab (Commercial Venting)"
+#### Metal-Fab (Commercial Venting)
 
 - **ID:** `metal-fab`
 - **Website:** https://www.metal-fabcommercial.com/index.php?aid=4&pg=contact+us+%7C+metal-fab&pid=4
@@ -300,7 +299,7 @@ This inventory documents all manufacturer tech support contact information curre
 
 ---
 
-#### "Nu-Air Ventilation Systems Inc."
+#### Nu-Air Ventilation Systems Inc.
 
 - **ID:** `nu-air`
 - **Website:** https://nu-airventilation.com/contact/
@@ -317,7 +316,7 @@ This inventory documents all manufacturer tech support contact information curre
 
 ---
 
-#### "Selkirk"
+#### Selkirk
 
 - **ID:** `selkirk`
 - **Website:** https://www.selkirkcorp.com/contact/
@@ -334,7 +333,7 @@ This inventory documents all manufacturer tech support contact information curre
 
 ---
 
-#### "Soler & Palau (S&P USA Ventilation Systems)"
+#### Soler & Palau (S&P USA Ventilation Systems)
 
 - **ID:** `soler-palau`
 - **Website:** https://www.solerpalau-usa.com/
@@ -351,7 +350,7 @@ This inventory documents all manufacturer tech support contact information curre
 
 ---
 
-#### "Tecumseh Products Company"
+#### Tecumseh Products Company
 
 - **ID:** `tecumseh`
 - **Website:** https://www.tecumseh.com/contact
@@ -368,7 +367,7 @@ This inventory documents all manufacturer tech support contact information curre
 
 ---
 
-#### "Turck USA"
+#### Turck USA
 
 - **ID:** `"turck"`
 - **Website:** "https://www.turck.us/"
@@ -385,7 +384,7 @@ This inventory documents all manufacturer tech support contact information curre
 
 ---
 
-#### "Venmar Systems, Inc."
+#### Venmar Systems, Inc.
 
 - **ID:** `venmar-systems`
 - **Website:** https://venmar.com/contacts/
