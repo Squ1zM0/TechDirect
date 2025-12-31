@@ -532,14 +532,11 @@
       {
         "manufacturer_id": "imi-hydronic-engineering",
         "manufacturer_name": "IMI Hydronic Engineering (IMI Flow Design / TA / Pneumatex)",
-        "department": "Technical Support",
-        "phone": "+18002753569",
-        "country": "US",
         "regions": [],
         "timezone": null,
-        "last_verified": "2025-12-24",
+        "last_verified": "2025-12-25",
         "specialty_tags": [],
-        "notes": "Toll-free (ASK.FLOW)",
+        "notes": "1-800-ASK-FLOW listed on IMI Flow Design contact page for technical and customer service.",
         "source": "https://www.imiflowdesign.com/contact/"
       },
       {
@@ -769,28 +766,15 @@
       {
         "manufacturer_id": "myers-pumps",
         "manufacturer_name": "Myers (Pentair)",
-        "department": "Customer Service / Support",
+        "department": "Customer Service / Technical Support",
         "phone": "+18889878677",
         "country": "US",
         "regions": [],
         "timezone": null,
         "last_verified": "2025-12-25",
         "specialty_tags": [],
-        "notes": "Pentair Myers customer support line listed on Myers resources page.",
-        "source": "https://www.pentair.com/en-us/flow/myers/myers-resources.html"
-      },
-      {
-        "manufacturer_id": "myers-pumps",
-        "manufacturer_name": "Myers (Pentair)",
-        "department": "Technical Support",
-        "phone": "+18889878677",
-        "country": "US",
-        "regions": [],
-        "timezone": null,
-        "last_verified": "2025-12-25",
-        "specialty_tags": [],
-        "notes": "Myers technical support line (Pentair retail support page).",
-        "source": "pentair.com retail support contact us page (Myers Technical Support)"
+        "notes": "Pentair Myers customer support and technical support line (retail support page and Myers resources page).",
+        "source": "pentair.com retail support contact us page / Myers resources page"
       },
       {
         "manufacturer_id": "myers-pumps",

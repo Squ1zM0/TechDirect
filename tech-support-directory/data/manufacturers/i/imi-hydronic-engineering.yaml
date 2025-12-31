@@ -20,13 +20,6 @@ support:
   country: US
   regions:
   - US
-  notes: 1-800-ASK-FLOW listed on IMI Flow Design contact page.
+  notes: 1-800-ASK-FLOW listed on IMI Flow Design contact page for technical and customer service.
   source: https://www.imiflowdesign.com/contact/
   last_verified: '2025-12-25'
-- category: technical
-  department: Technical Support
-  phone: "+18002753569"
-  country: US
-  notes: Toll-free (ASK.FLOW)
-  source: https://www.imiflowdesign.com/contact/
-  last_verified: '2025-12-24'

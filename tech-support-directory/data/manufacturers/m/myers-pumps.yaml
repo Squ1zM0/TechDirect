@@ -12,18 +12,11 @@ support:
     source: "https://www.pentair.com/en-us/water-softening-filtration/support.html"
     last_verified: "2025-12-25"
   - category: plumbing
-    department: Customer Service / Support
+    department: Customer Service / Technical Support
     phone: "+18889878677"
     country: US
-    notes: "Pentair Myers customer support line listed on Myers resources page."
-    source: "https://www.pentair.com/en-us/flow/myers/myers-resources.html"
-    last_verified: "2025-12-25"
-  - category: plumbing
-    department: Technical Support
-    phone: "+18889878677"
-    country: US
-    notes: "Myers technical support line (Pentair retail support page)."
-    source: "pentair.com retail support contact us page (Myers Technical Support)"
+    notes: "Pentair Myers customer support and technical support line (retail support page and Myers resources page)."
+    source: "pentair.com retail support contact us page / Myers resources page"
     last_verified: "2025-12-25"
   - category: plumbing
     department: Wastewater Tech Support
