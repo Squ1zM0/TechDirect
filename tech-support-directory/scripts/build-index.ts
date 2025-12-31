@@ -34,7 +34,7 @@ function pickArray(key, txt) {
 }
 
 function parseSupportBlocks(txt) {
-  // very small parser: detects lines starting with "  - " or "- " as a support entry
+  // Detects YAML list items (with or without indentation) containing key-value pairs as support entries
   const lines = txt.split(/\r?\n/);
   const support = [];
   let cur = null;
@@ -42,16 +42,17 @@ function parseSupportBlocks(txt) {
   for (const line of lines) {
     if (line.startsWith("support:")) { inSupport = true; continue; }
     if (!inSupport) continue;
-    // Handle both "  - category:" (indented) and "- category:" (no indent) list markers
-    // Must have a key:value after the dash to be a support entry (not a nested array item)
-    if ((line.startsWith("  - ") || line.startsWith("- ")) && line.includes(":")) {
+    // Match list items with key:value pairs (e.g., "  - category: hvac" or "- category: hvac")
+    // Must have a dash followed by a key:value to be a support entry (not a nested array item like "  - US")
+    const listItemMatch = line.match(/^\s*-\s+\w+:/);
+    if (listItemMatch) {
       if (cur) support.push(cur);
       cur = {};
       // Extract the key-value from the same line as the dash
-      const match = line.match(/^[\s-]*([a-zA-Z0-9_]+):\s*(.*)$/);
-      if (match) {
-        const k = match[1];
-        let v = match[2].trim();
+      const kvMatch = line.match(/^\s*-\s*([a-zA-Z0-9_]+):\s*(.*)$/);
+      if (kvMatch) {
+        const k = kvMatch[1];
+        let v = kvMatch[2].trim();
         v = v.replace(/^["']|["']$/g, "");
         cur[k] = v;
       }
