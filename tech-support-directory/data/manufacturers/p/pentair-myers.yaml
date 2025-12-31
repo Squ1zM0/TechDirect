@@ -1,0 +1,23 @@
+id: pentair-myers
+name: Pentair - Myers
+website: https://www.pentair.com/en-us/education-support/contact-us/retail-support-contact-us.html
+categories:
+- plumbing
+aliases:
+- Myers Pumps
+- Pentair Myers
+support:
+- category: plumbing
+  department: Technical Support
+  phone: "+18889878677"
+  country: US
+  notes: Myers technical support line (Pentair retail support page).
+  source: pentair.com retail support contact us page (Myers Technical Support)
+  last_verified: '2025-12-25'
+- category: plumbing
+  department: Wastewater Tech Support
+  phone: "+18552748948"
+  country: US
+  notes: Wastewater tech support line for Myers (commercial support page).
+  source: pentair.com commercial support contact us page (Myers Wastewater)
+  last_verified: '2025-12-25'
