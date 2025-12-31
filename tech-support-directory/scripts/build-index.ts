@@ -47,6 +47,14 @@ function parseSupportBlocks(txt) {
     if ((line.startsWith("  - ") || line.startsWith("- ")) && line.includes(":")) {
       if (cur) support.push(cur);
       cur = {};
+      // Extract the key-value from the same line as the dash
+      const match = line.match(/^[\s-]*([a-zA-Z0-9_]+):\s*(.*)$/);
+      if (match) {
+        const k = match[1];
+        let v = match[2].trim();
+        v = v.replace(/^["']|["']$/g, "");
+        cur[k] = v;
+      }
       continue;
     }
     if (!cur) continue;
