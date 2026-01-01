@@ -83,7 +83,7 @@ function dedupeSupportEntries(support) {
   for (const entry of support) {
     // Create a unique key from the identifying fields
     const regions = entry.regions || [];
-    const sortedRegions = Array.isArray(regions) ? [...regions].sort() : [];
+    const sortedRegions = [...regions].sort();
     const key = JSON.stringify({
       category: entry.category || "",
       department: entry.department || "",
