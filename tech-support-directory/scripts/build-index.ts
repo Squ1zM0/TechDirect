@@ -75,6 +75,32 @@ function parseSupportBlocks(txt) {
   return support;
 }
 
+function dedupeSupportEntries(support) {
+  // Deduplicate support entries based on category, department, phone, country, and regions
+  const seen = new Map();
+  const deduped = [];
+  
+  for (const entry of support) {
+    // Create a unique key from the identifying fields
+    const regions = entry.regions || [];
+    const sortedRegions = Array.isArray(regions) ? [...regions].sort() : [];
+    const key = JSON.stringify({
+      category: entry.category || "",
+      department: entry.department || "",
+      phone: entry.phone || "",
+      country: entry.country || "",
+      regions: sortedRegions
+    });
+    
+    if (!seen.has(key)) {
+      seen.set(key, true);
+      deduped.push(entry);
+    }
+  }
+  
+  return deduped;
+}
+
 const root = process.cwd();
 const dataDir = path.join(root, "data", "manufacturers");
 const outDir = path.join(root, "dist");
@@ -89,7 +115,7 @@ for (const file of walk(dataDir)) {
   const name = pickOne(/^name:\s*(.+)$/m, txt);
   const website = pickOne(/^website:\s*(.+)$/m, txt);
   const categories = pickArray("categories", txt);
-  const support = parseSupportBlocks(txt).map(s => ({
+  const rawSupport = parseSupportBlocks(txt).map(s => ({
     category: s.category,
     department: s.department,
     phone: s.phone,
@@ -101,6 +127,8 @@ for (const file of walk(dataDir)) {
     notes: s.notes || "",
     source: s.source || ""
   }));
+  // Deduplicate support entries based on category, department, phone, country, and regions
+  const support = dedupeSupportEntries(rawSupport);
   manufacturers.push({ id, name, website, categories, support });
 }
 
