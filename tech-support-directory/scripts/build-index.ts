@@ -77,7 +77,7 @@ function parseSupportBlocks(txt) {
 
 function dedupeSupportEntries(support) {
   // Deduplicate support entries based on category, department, phone, country, and regions
-  const seen = new Map();
+  const seen = new Set();
   const deduped = [];
   
   for (const entry of support) {
@@ -93,7 +93,7 @@ function dedupeSupportEntries(support) {
     });
     
     if (!seen.has(key)) {
-      seen.set(key, true);
+      seen.add(key);
       deduped.push(entry);
     }
   }
