@@ -1,0 +1,13 @@
+id: copeland
+name: Copeland
+website: https://www.copeland.com/en-us/
+categories: [hvac]
+aliases: [Emerson Climate Technologies, Copeland Compressors]
+support:
+- category: hvac
+  department: Technical Support (Contractors & Technicians)
+  phone: "+18338290939"
+  country: US
+  notes: Copeland technical support for contractors and technicians working with HVAC and refrigeration compressors. For Copeland brands like White-Rodgers or Vilter, see separate entries.
+  source: https://www.copeland.com/en-us/training-support/technical-support
+  last_verified: '2026-01-19'

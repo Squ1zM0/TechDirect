@@ -1,0 +1,13 @@
+id: midea
+name: Midea
+website: https://www.mideacomfort.us/
+categories: [hvac]
+aliases: []
+support:
+- category: hvac
+  department: Customer Service / Technical Support
+  phone: "+18666464332"
+  country: US
+  notes: Midea HVAC customer service for product setup, troubleshooting, and repairs. Hours Monday-Friday 8am-7pm EST, Saturday 9am-4pm EST. Email support at supporthvac.na@midea.com
+  source: https://www.midea.com/us/Support
+  last_verified: '2026-01-19'
