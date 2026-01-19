@@ -1,0 +1,14 @@
+id: nortek-global-hvac
+name: Nortek Global HVAC
+website: https://www.nortek.com/
+categories:
+- hvac
+aliases: []
+support:
+- category: hvac
+  department: Technical Support / Customer Care Team
+  phone: "+16365617300"
+  country: US
+  notes: Main technical support line for Nortek Global HVAC. For specific brands, check regional contacts. Call during standard business hours.
+  source: https://www.allbiz.com/business/nortek-global-hvac_11E-636-561-7300
+  last_verified: '2026-01-19'
