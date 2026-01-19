@@ -1,8 +1,7 @@
 id: nortek-global-hvac
 name: Nortek Global HVAC
 website: https://www.nortek.com/
-categories:
-- hvac
+categories: [hvac]
 aliases: []
 support:
 - category: hvac
