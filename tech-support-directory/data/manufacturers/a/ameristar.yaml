@@ -1,0 +1,13 @@
+id: ameristar
+name: Ameristar
+website: https://ameristarhvac.com/
+categories: [hvac]
+aliases: []
+support:
+  - category: hvac
+    department: General Support
+    phone: "+18449974569"
+    country: US
+    notes: Ameristar HVAC general questions and support. Monday-Friday 7am-5pm CST. Ameristar is part of the Trane family of brands.
+    source: https://ameristarhvac.com/contact/
+    last_verified: '2026-01-19'

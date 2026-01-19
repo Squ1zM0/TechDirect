@@ -129,6 +129,20 @@
         "source": "https://www.americanstandardair.com/contact-us/"
       },
       {
+        "manufacturer_id": "ameristar",
+        "manufacturer_name": "Ameristar",
+        "category": "hvac",
+        "department": "General Support",
+        "phone": "+18449974569",
+        "country": "US",
+        "regions": [],
+        "timezone": null,
+        "last_verified": "2026-01-19",
+        "specialty_tags": [],
+        "notes": "Ameristar HVAC general questions and support. Monday-Friday 7am-5pm CST. Ameristar is part of the Trane family of brands.",
+        "source": "https://ameristarhvac.com/contact/"
+      },
+      {
         "manufacturer_id": "amtrol",
         "manufacturer_name": "AMTROL",
         "category": "hvac",
@@ -631,6 +645,20 @@
         "specialty_tags": [],
         "notes": "North America technical support phone.",
         "source": "condair.com contractor/support contact"
+      },
+      {
+        "manufacturer_id": "copeland",
+        "manufacturer_name": "Copeland",
+        "category": "hvac",
+        "department": "Technical Support (Contractors & Technicians)",
+        "phone": "+18338290939",
+        "country": "US",
+        "regions": [],
+        "timezone": null,
+        "last_verified": "2026-01-19",
+        "specialty_tags": [],
+        "notes": "Copeland technical support for contractors and technicians working with HVAC and refrigeration compressors. For Copeland brands like White-Rodgers or Vilter, see separate entries.",
+        "source": "https://www.copeland.com/en-us/training-support/technical-support"
       },
       {
         "manufacturer_id": "crown-boiler",
@@ -1361,6 +1389,20 @@
         "source": "midcointernational.com Contact Us"
       },
       {
+        "manufacturer_id": "midea",
+        "manufacturer_name": "Midea",
+        "category": "hvac",
+        "department": "Customer Service / Technical Support",
+        "phone": "+18666464332",
+        "country": "US",
+        "regions": [],
+        "timezone": null,
+        "last_verified": "2026-01-19",
+        "specialty_tags": [],
+        "notes": "Midea HVAC customer service for product setup, troubleshooting, and repairs. Hours Monday-Friday 8am-7pm EST, Saturday 9am-4pm EST. Email support at supporthvac.na@midea.com",
+        "source": "https://www.midea.com/us/Support"
+      },
+      {
         "manufacturer_id": "mitsubishi-electric-hvac",
         "manufacturer_name": "Mitsubishi Electric Trane HVAC US (METUS)",
         "category": "hvac",
@@ -1513,6 +1555,20 @@
         "specialty_tags": [],
         "notes": "Nordyne Technical Services Team phone (for licensed HVAC technicians).",
         "source": "nordyne.com contact page"
+      },
+      {
+        "manufacturer_id": "nortek-global-hvac",
+        "manufacturer_name": "Nortek Global HVAC",
+        "category": "hvac",
+        "department": "Technical Support / Customer Care Team",
+        "phone": "+16365617300",
+        "country": "US",
+        "regions": [],
+        "timezone": null,
+        "last_verified": "2026-01-19",
+        "specialty_tags": [],
+        "notes": "Main technical support line for Nortek Global HVAC. For specific brands, check regional contacts. Call during standard business hours.",
+        "source": "https://www.allbiz.com/business/nortek-global-hvac_11E-636-561-7300"
       },
       {
         "manufacturer_id": "nti-boilers",
