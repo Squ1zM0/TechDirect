@@ -1,1 +1,1501 @@
-{"version":"1.0.0","generated_at":"2025-12-25","country":"US","category":"electrical","manufacturers":[{"id":"abb","name":"ABB","website":"https://new.abb.com/us","categories":["electrical"],"aliases":["ABB Electrification"],"support":[{"category":"electrical","department":"Technical Support","phone":"+18004357365","country":"US","notes":"Professional/contractor technical support line (per source).","source":"https://new.abb.com/us/about/contact","last_verified":"2025-12-25"}]},{"id":"abb-installation-products","name":"ABB Installation Products (Carlon / T&B)","website":"https://new.abb.com/low-voltage/products/installation-products","categories":["electrical"],"aliases":["Carlon","Thomas & Betts (T&B)"],"support":[{"category":"electrical","department":"Technical Support","phone":"+18888623289","country":"US","notes":"ABB Installation Products technical support line (covers Carlon/T&B installation products).","source":"https://electrification.us.abb.com/customer-service","last_verified":"2025-12-25"}]},{"id":"acuity-brands","name":"Acuity Brands","website":"https://www.acuitybrands.com","categories":["electrical"],"aliases":["Lithonia Lighting","Aculux","Juno Lighting"],"support":[{"category":"electrical","department":"Technical Support","phone":"+18007057378","country":"US","notes":"Professional/contractor technical support line (per source).","source":"https://insights.acuitybrands.com/product-updates-blog/one-phone-number-for-all-your-support-needs-2","last_verified":"2025-12-25"}]},{"id":"advantech","name":"Advantech","website":"https://www.advantech.com/en-us","categories":["electrical"],"support":[{"category":"electrical","department":"Technical Support","phone":"+18885769668","country":"US","notes":"Advantech US support line listed on support page.","source":"https://www.advantech.com/en-us/contact","last_verified":"2025-12-25"}]},{"id":"apc","name":"APC by Schneider Electric","website":"https://www.se.com/us/en/work/support/","categories":["electrical"],"aliases":["American Power Conversion","Schneider Electric APC"],"support":[{"category":"electrical","department":"APC Technical Support (North America)","phone":"+18008004272","country":"US","notes":"APC support line (North America toll-free).","source":"se.com APC FAQ/Support references","last_verified":"2025-12-25"}]},{"id":"arlington-industries","name":"Arlington Industries","website":"https://www.aifittings.com/","categories":["electrical"],"aliases":[],"support":[{"category":"electrical","department":"Customer Service / Technical Support","phone":"+18002334717","country":"US","notes":"Professional/contractor support via Arlington contact page (toll-free).","source":"https://www.aifittings.com/about/contact","last_verified":"2025-12-25"}]},{"id":"atkore","name":"Atkore","website":"https://www.atkore.com/","categories":["electrical"],"aliases":["Atkore International"],"support":[{"category":"electrical","department":"Technical Sales / Support","phone":"+18008825543","country":"US","notes":"Distributor/contractor support via technical sales managers (not homeowner).","source":"https://www.atkore.com/support/how-buy","last_verified":"2025-12-25"}]},{"id":"banner-engineering","name":"Banner Engineering","categories":["electrical"],"aliases":["Banner"],"website":"https://www.bannerengineering.com/","support":[{"category":"electrical","department":"Main / Technical Support","phone":"+17635443164","country":"US","notes":"Main line; ask for Technical Support.","source":"https://www.tpxonline.com/Sourcebook/Sourcebook_Search_Detail.asp?Company=228679&Status=1","last_verified":"2025-12-25"}]},{"id":"belden","name":"Belden","website":"https://www.belden.com","categories":["electrical"],"aliases":["Lumberg Automation"],"support":[{"category":"electrical","department":"Technical Support","phone":"+18002353361","country":"US","notes":"Professional/contractor technical support line (per source).","source":"https://www.belden.com/privacy-policy","last_verified":"2025-12-25"}]},{"id":"bender","name":"Bender (North America)","website":"https://www.benderinc.com/","categories":["electrical"],"support":[{"category":"electrical","department":"Service Hotline / Technical Support","phone":"+18003564266","country":"US","notes":"Bender North America service hotline.","source":"https://www.benderinc.com/contact/contact-information/","last_verified":"2025-12-25"}]},{"id":"bridgeport-fittings","name":"Bridgeport Fittings (NSI Industries)","categories":["electrical"],"aliases":["Bridgeport","Bridgeport Fittings"],"website":"https://nsiindustries.com/bridgeport/","support":[{"category":"electrical","department":"Technical Support","phone":"+18885004598","country":"US","source":"https://nsiindustries.com/support/electrical-support/contact/","last_verified":"2025-12-25"}]},{"id":"burndy","name":"BURNDY","website":"https://www.hubbell.com/burndy/en/contact-us","categories":["electrical"],"aliases":["Burndy LLC","Hubbell BURNDY"],"support":[{"category":"electrical","department":"Technical Support","phone":"+18004514956","country":"US","notes":"BURNDY technical support phone listed on Contact Us page.","source":"hubbell.com/burndy contact-us","last_verified":"2025-12-25"}]},{"id":"cantex","name":"CANTEX","website":"https://www.cantexinc.com/","categories":["electrical"],"support":[{"category":"electrical","department":"Customer Service / Technical Support","phone":"+18172157000","country":"US","notes":"Primary contact number listed by CANTEX for agent/help requests; used for product/customer support.","source":"https://www.cantexinc.com/contact/agent-search","last_verified":"2025-12-25"}]},{"id":"control-techniques","name":"Control Techniques (Nidec Drives)","categories":["electrical"],"aliases":["Nidec Control Techniques","Control Techniques"],"website":"https://acim.nidec.com/en-US/drives/control-techniques","support":[{"category":"electrical","department":"Technical Support","phone":"+18008932321","country":"US","hours":{"timezone":"CST","mon_fri":"8 AM – 6 PM"},"source":"https://acim.nidec.com/en-US/drives/control-techniques/services/support","last_verified":"2025-12-25"}]},{"id":"cooper-lighting-solutions","name":"Cooper Lighting Solutions","website":"https://www.cooperlighting.com/global/contact-us/controls-technical-support","categories":["electrical"],"aliases":["Eaton Cooper Lighting","Cooper Lighting"],"support":[{"category":"electrical","department":"Controls Technical Support (24/7)","phone":"+18005533879","country":"US","notes":"Lighting controls technical support number (24/7).","source":"cooperlighting.com controls technical support page","last_verified":"2025-12-25"}]},{"id":"eaton","name":"Eaton","website":"https://www.eaton.com/us/en-us.html","categories":["electrical"],"aliases":["Cutler-Hammer","Cooper Lighting Solutions"],"support":[{"category":"electrical","department":"Technical Support","phone":"+18773862273","country":"US","notes":"Professional/contractor technical support line (per source).","source":"https://www.eaton.com/us/en-us/support/contact-us.html","last_verified":"2025-12-25"}]},{"id":"emerson-appleton","name":"Emerson Appleton","website":"https://www.emerson.com","categories":["electrical"],"aliases":["Appleton Group"],"support":[{"category":"electrical","department":"Technical Support","phone":"+18006211506","country":"US","notes":"Professional/contractor technical support line (per source).","source":"https://www.emerson.com/en-us/contact-us","last_verified":"2025-12-25"}]},{"id":"encore-wire","name":"Encore Wire","website":"https://www.encorewire.com/contact.html","categories":["electrical"],"aliases":["Prysmian Encore Wire"],"support":[{"category":"electrical","department":"Customer Service / Sales Support","phone":"+18009629473","country":"US","notes":"Toll-free customer service. Ask for Customer Service ext 1260 if needed.","source":"encorewire.com contact page","last_verified":"2025-12-25"}]},{"id":"generac","name":"Generac","website":"https://www.generac.com","categories":["electrical"],"aliases":["Generac Power Systems"],"support":[{"category":"electrical","department":"Technical Support","phone":"+18884363722","country":"US","notes":"Professional/contractor technical support line (per source).","source":"https://www.generac.com/about/contact-us/","last_verified":"2025-12-25"}]},{"id":"hammond-power-solutions","name":"Hammond Power Solutions","website":"https://americas.hammondpowersolutions.com/","categories":["electrical"],"aliases":["HPS"],"support":[{"category":"electrical","department":"Technical Support (USA)","phone":"+18667054684","country":"US","notes":"U.S.A technical support number listed by HPS.","source":"https://americas.hammondpowersolutions.com/resources/technical-support","last_verified":"2025-12-25"}]},{"id":"helukabel","name":"HELUKABEL USA","categories":["electrical"],"aliases":["HELUKABEL"],"website":"https://www.helukabel.us/us-en/","support":[{"category":"electrical","department":"Sales / Technical Information","phone":"+18554358872","country":"US","source":"https://www.helukabel.us/us-en/contact/","last_verified":"2025-12-25"}]},{"id":"hubbell","name":"Hubbell","website":"https://www.hubbell.com","categories":["electrical"],"aliases":["Hubbell Wiring Device-Kellems"],"support":[{"category":"electrical","department":"Technical Support","phone":"+18002886000","country":"US","notes":"Professional/contractor technical support line (per source).","source":"https://www.se.com/us/en/faqs/FAQ000261499/","last_verified":"2025-12-25"}]},{"id":"ideal-industries","name":"IDEAL Industries","website":"https://www.idealind.com/us/en.html","categories":["electrical"],"aliases":["IDEAL Electrical"],"support":[{"category":"electrical","department":"Technical Support","phone":"+18004350705","country":"US","notes":"Professional/contractor technical support line (per source).","source":"https://www.idealind.com/us/en/support/contact-us.html","last_verified":"2025-12-25"}]},{"id":"ifm","name":"ifm efector, inc.","categories":["electrical"],"aliases":["ifm","ifm efector"],"website":"https://www.ifm.com/us/en","support":[{"category":"electrical","department":"Customer Service / Technical Support","phone":"+18004418246","country":"US","source":"https://www.ifm.com/us/en","last_verified":"2025-12-25"}]},{"id":"ilsco","name":"ILSCO","website":"https://www.ilsco.com/Ilsco/ccrz__CCPage?pageKey=ICU","categories":["electrical"],"aliases":["nVent ILSCO"],"support":[{"category":"electrical","department":"Product Application Support","phone":"+18887765047","country":"US","notes":"Product application support line listed on Contact Us page.","source":"ilsco.com contact page","last_verified":"2025-12-25"}]},{"id":"intermatic","name":"Intermatic","website":"https://www.intermatic.com/","categories":["electrical"],"aliases":[],"support":[{"category":"electrical","department":"Technical Support","phone":"+18156757000","country":"US","notes":"Technical support for installation/troubleshooting.","source":"https://www.intermatic.com/support/contact-us","last_verified":"2025-12-25"}]},{"id":"itron","name":"Itron","website":"https://na.itron.com/","categories":["electrical"],"aliases":[],"support":[{"category":"electrical","department":"Global Customer Support (Continental US)","phone":"+18774876602","country":"US","notes":"Itron GCSS support line (Continental U.S.).","source":"https://na.itron.com/what-we-offer/services/customer-support","last_verified":"2025-12-25"}]},{"id":"keystone-tech","name":"Keystone Technologies","website":"https://www.keystonetech.com/","categories":["electrical"],"aliases":["Keystone Tech"],"support":[{"category":"electrical","department":"Product Technical Support","phone":"+18334403615","country":"US","notes":"Immediate product technical support.","source":"https://www.keystonetech.com/support/live-support-request","last_verified":"2025-12-25"}]},{"id":"killark","name":"Killark (Hubbell)","categories":["electrical"],"aliases":["Killark"],"website":"https://www.hubbell.com/killark/en","support":[{"category":"electrical","department":"Customer Service / Support","phone":"+18005310460","country":"US","source":"https://www.hubbell.com/killark/en/contact-us","last_verified":"2025-12-25"}]},{"id":"lapp","name":"LAPP North America","categories":["electrical"],"aliases":["Lapp","LAPP"],"website":"https://www.lapp.com/en_US/us/","support":[{"category":"electrical","department":"Advice & Support","phone":"+18007743539","country":"US","source":"https://www.lapp.com/en_US/us/service/contact-overview/e/000040","last_verified":"2025-12-25"}]},{"id":"ledvance","name":"LEDVANCE","website":"https://ledvance.com/en-us","categories":["electrical"],"aliases":["SYLVANIA (LEDVANCE)"],"support":[{"category":"electrical","department":"Technical Support","phone":"+18002632852","country":"US","notes":"Professional/contractor technical support line (per source).","source":"https://ledvance.com/en-us/company/contact","last_verified":"2025-12-25"}]},{"id":"legrand","name":"Legrand","website":"https://www.legrand.us","categories":["electrical"],"aliases":["Pass & Seymour","Wiremold"],"support":[{"category":"electrical","department":"Technical Support","phone":"+18449573783","country":"US","notes":"Professional/contractor technical support line (per source).","source":"https://legrand.my.site.com/knowledgebase/s/article/Additional-Contacting-Wiremold-Technical-Support","last_verified":"2025-12-25"}]},{"id":"leviton","name":"Leviton","website":"https://leviton.com","categories":["electrical"],"aliases":["Decora Smart","Leviton Load Center"],"support":[{"category":"electrical","department":"Technical Support","phone":"+18008243005","country":"US","notes":"Professional/contractor technical support line (per source).","source":"https://leviton.com/support/partners/specifiers/lighting-and-controls/support","last_verified":"2025-12-25"}]},{"id":"lithonia-lighting","name":"Lithonia Lighting","website":"https://lithonia.acuitybrands.com/","categories":["electrical"],"aliases":["Acuity Brands Lithonia Lighting"],"support":[{"category":"electrical","department":"Acuity Brands Customer Care / Tech Support","phone":"+18007057378","country":"US","notes":"Acuity Brands '1-800-705-SERV' support line for product questions/tech support.","source":"acuitybrands.com support page","last_verified":"2025-12-25"}]},{"id":"littelfuse","name":"Littelfuse","website":"https://www.littelfuse.com/","categories":["electrical"],"aliases":["Littelfuse Industrial"],"support":[{"category":"electrical","department":"Technical Support (Industrial/Medium Voltage)","phone":"+18008323873","country":"US","notes":"Technical Support & Engineering Services Group (industrial/medium voltage).","source":"https://www.littelfuse.com/partial-pages/information-center/l3-partial-pages/medium-volatge","last_verified":"2025-12-25"}]},{"id":"lutron","name":"Lutron","website":"https://www.lutron.com","categories":["electrical"],"aliases":[],"support":[{"category":"electrical","department":"Technical Support","phone":"+18005239466","country":"US","notes":"Professional/contractor technical support line (per source).","source":"https://support.lutron.com/us/en/warranty","last_verified":"2025-12-25"}]},{"id":"mean-well","name":"MEAN WELL USA","categories":["electrical"],"aliases":["Mean Well"],"website":"https://www.meanwellusa.com/","support":[{"category":"electrical","department":"Engineering / Technical Support","phone":"+18336357201","country":"US","notes":"North American HQ; request engineering/technical support.","source":"https://www.meanwellusa.com/contact.aspx","last_verified":"2025-12-25"}]},{"id":"megger","name":"Megger","website":"https://www.megger.com/en-us","categories":["electrical"],"support":[{"category":"electrical","department":"Technical Service & Support","phone":"+16106768578","country":"US","notes":"Megger US service/support phone listed on Megger support page.","source":"https://www.megger.com/en-us/support","last_verified":"2025-12-25"}]},{"id":"mersen","name":"Mersen","website":"https://us.mersen.com/","categories":["electrical"],"aliases":["Mersen Electrical Power"],"support":[{"category":"electrical","department":"Technical Support","phone":"+19784654853","country":"US","notes":"Technical Services / Technical Support.","source":"https://mersen.pissedconsumer.com/customer-service.html","last_verified":"2025-12-25"}]},{"id":"milbank","name":"Milbank","website":"https://www.milbankworks.com/","categories":["electrical"],"aliases":["Milbank Manufacturing"],"support":[{"category":"electrical","department":"Product Support (SynapSwitch ATS)","phone":"+18164107346","country":"US","notes":"SynapSwitch ATS product support (ask for ext. 7).","source":"https://www.milbankworks.com/resources/generator-support","last_verified":"2025-12-25"}]},{"id":"mitsubishi-electric-automation","name":"Mitsubishi Electric Automation","website":"https://us.mitsubishielectric.com/fa/en/","categories":["electrical"],"support":[{"category":"electrical","department":"Technical Support","phone":"+18474782500","country":"US","notes":"Mitsubishi Electric Automation technical support (phone technical support).","source":"https://us.mitsubishielectric.com/fa/en/about-us/contact/","last_verified":"2025-12-25"}]},{"id":"molex","name":"Molex","website":"https://www.molex.com/","categories":["electrical"],"aliases":["Molex Industrial Solutions"],"support":[{"category":"electrical","department":"Automation Technical Support","phone":"+18002257724","country":"US","notes":"Automation/industrial solutions tech support (options vary by product group).","source":"https://www.content.molex.com/dxresources/810e/810e5a88-cf36-485a-a1fe-2c521dd25402.pdf","last_verified":"2025-12-25"}]},{"id":"moxa-americas","name":"Moxa Americas","website":"https://www.moxa.com/en","categories":["electrical"],"support":[{"category":"electrical","department":"Technical Support","phone":"+18886692872","country":"US","notes":"Moxa Americas toll-free technical support (per Moxa manual).","source":"https://www.moxa.com/getmedia/448700cb-bb39-4448-91e7-b67a183ea4a0/moxa-software-license-portal-manual-v1.0.pdf","last_verified":"2025-12-25"}]},{"id":"nsi-industries","name":"NSI Industries","website":"https://nsiindustries.com/","categories":["electrical"],"aliases":["NSi Industries"],"support":[{"category":"electrical","department":"Customer Service / Support","phone":"+18003215847","country":"US","notes":"Customer service line used for support routing (electrical team).","source":"https://nsiindustries.com/support/electrical-support/contact/","last_verified":"2025-12-25"}]},{"id":"nvent-erico","name":"nVent ERICO","website":"https://www.nvent.com/en-us/erico/cadweld/technical-support","categories":["electrical"],"aliases":["ERICO","nVent ERICO CADWELD"],"support":[{"category":"electrical","department":"CADWELD Technical Support","phone":"+18002489353","country":"US","notes":"Technical support line for ERICO CADWELD.","source":"nvent.com ERICO CADWELD technical support page","last_verified":"2025-12-25"}]},{"id":"nvent-hoffman","name":"nVent HOFFMAN","website":"https://www.nvent.com/en-us/hoffman","categories":["electrical"],"aliases":["HOFFMAN"],"support":[{"category":"electrical","department":"Technical Support","phone":"+17634222211","country":"US","notes":"Professional/contractor technical support line (per source).","source":"https://www.nvent.com/en-us/hoffman/customer-service","last_verified":"2025-12-25"}]},{"id":"okonite","name":"The Okonite Company","website":"https://www.okonite.com/","categories":["electrical"],"support":[{"category":"electrical","department":"Customer Service / Technical Support","phone":"+12018250300","country":"US","notes":"Okonite main phone listed by NEMA directory for the manufacturer (cable).","source":"https://www.nema.org/membership/manufacturers/view/the-okonite-company","last_verified":"2025-12-25"}]},{"id":"omron-automation","name":"OMRON Automation","website":"https://automation.omron.com/en/us/","categories":["electrical"],"support":[{"category":"electrical","department":"Technical Support","phone":"+18005566766","country":"US","notes":"OMRON Automation technical support line.","source":"https://automation.omron.com/en/us/support/contact-us","last_verified":"2025-12-25"}]},{"id":"panduit","name":"Panduit","website":"https://www.panduit.com","categories":["electrical"],"aliases":[],"support":[{"category":"electrical","department":"Technical Support","phone":"+18007773300","country":"US","notes":"Professional/contractor technical support line (per source).","source":"https://www.panduit.com/en/support/contact-us.html","last_verified":"2025-12-25"}]},{"id":"phoenix-contact","name":"Phoenix Contact","website":"https://www.phoenixcontact.com/en-us","categories":["electrical"],"aliases":[],"support":[{"category":"electrical","department":"Technical Support","phone":"+18003223225","country":"US","notes":"Professional/contractor technical support line (per source).","source":"https://www.phoenixcontact.com/en-us/service-and-support/contact","last_verified":"2025-12-25"}]},{"id":"prysmian","name":"Prysmian Group North America (General Cable / Draka)","website":"https://na.prysmian.com/","categories":["electrical"],"aliases":["General Cable","Draka","Encore Wire"],"support":[{"category":"electrical","department":"Customer Service / Product Support","phone":"+18595728000","country":"US","notes":"Prysmian North America main phone (used for product/customer support routing).","source":"https://na.prysmian.com/contact-us","last_verified":"2025-12-25"}]},{"id":"rab-lighting","name":"RAB Lighting","website":"https://www.rablighting.com","categories":["electrical"],"aliases":[],"support":[{"category":"electrical","department":"Technical Support","phone":"+18887221000","country":"US","notes":"Professional/contractor technical support line (per source).","source":"https://www.rablighting.com/support","last_verified":"2025-12-25"}]},{"id":"rittal","name":"Rittal","website":"https://www.rittal.com/us-en_US/","categories":["electrical"],"aliases":["Rittal North America"],"support":[{"category":"electrical","department":"Customer Service / Support","phone":"+18004774000","country":"US","notes":"Contact center; used for product questions and support.","source":"https://www.rittal.com/us-en_US/Company/Contact-Us","last_verified":"2025-12-25"}]},{"id":"rockwell-automation","name":"Rockwell Automation","website":"https://www.rockwellautomation.com","categories":["electrical"],"aliases":["Allen-Bradley"],"support":[{"category":"electrical","department":"Technical Support","phone":"+14406463434","country":"US","notes":"Professional/contractor technical support line (per source).","source":"https://support.rockwellautomation.com/app/phone","last_verified":"2025-12-25"}]},{"id":"sandc-electric","name":"S&C Electric Company","website":"https://www.sandc.com/en/contact-us/technical-support/","categories":["electrical"],"aliases":["S&C Electric"],"support":[{"category":"electrical","department":"24/7 Global Support / Technical Support","phone":"+18887621100","country":"US","notes":"24/7 support number for S&C equipment (emergency and non-emergency).","source":"sandc.com technical support page","last_verified":"2025-12-25"}]},{"id":"schneider-electric","name":"Schneider Electric","website":"https://www.se.com/us/en/","categories":["electrical"],"aliases":["Square D"],"support":[{"category":"electrical","department":"Technical Support","phone":"+18887782733","country":"US","notes":"Professional/contractor technical support line (per source).","source":"https://www.se.com/us/en/work/support/contact-us/","last_verified":"2025-12-25"}]},{"id":"sel","name":"Schweitzer Engineering Laboratories","website":"https://selinc.com/","categories":["electrical"],"aliases":["SEL"],"support":[{"category":"electrical","department":"Technical Support Line","phone":"+15093383838","country":"US","notes":"SEL Technical Support Line.","source":"https://selinc.com/company/contact/","last_verified":"2025-12-25"}]},{"id":"siemens","name":"Siemens","website":"https://www.siemens.com/us/en.html","categories":["electrical"],"aliases":["Siemens Industry"],"support":[{"category":"electrical","department":"Technical Support","phone":"+18003337421","country":"US","notes":"Professional/contractor technical support line (per source).","source":"https://www.siemens.com/us/en/company/about/contact.html","last_verified":"2025-12-25"}]},{"id":"signify","name":"Signify","website":"https://www.signify.com/en-us","categories":["electrical"],"aliases":["Philips Lighting (Signify)"],"support":[{"category":"electrical","department":"Technical Support","phone":"+18005550050","country":"US","notes":"Professional/contractor technical support line (per source).","source":"https://www.signify.com/en-us/get-in-touch","last_verified":"2025-12-25"}]},{"id":"southwire","name":"Southwire","website":"https://www.southwire.com","categories":["electrical"],"aliases":[],"support":[{"category":"electrical","department":"Technical Support","phone":"+18004441700","country":"US","notes":"Professional/contractor technical support line (per source).","source":"https://www.southwire.com/contact-us/tech-support","last_verified":"2025-12-25"}]},{"id":"tpi-corporation","name":"TPI Corporation","website":"https://www.tpicorp.com/","categories":["electrical"],"aliases":["TPI Electric Heat"],"support":[{"category":"electrical","department":"Customer Service / Support","phone":"+18004954525","country":"US","notes":"Customer service number published for product support inquiries.","source":"https://www.tpicorp.com/","last_verified":"2025-12-25"}]},{"id":"tripp-lite","name":"Eaton Tripp Lite","website":"https://tripplite.eaton.com/support/help","categories":["electrical"],"aliases":["Tripp Lite","Eaton - Tripp Lite"],"support":[{"category":"electrical","department":"Technical Support","phone":"+17738691234","country":"US","notes":"Tripp Lite technical support phone (US-based support).","source":"Tripp Lite/Eaton support PDF and support pages","last_verified":"2025-12-25"}]},{"id":"turck","name":"Turck USA","categories":["electrical"],"aliases":["Turck"],"website":"https://www.turck.us/","support":[{"category":"electrical","department":"Customer Service / Technical Support","phone":"+18005447769","country":"US","notes":"Use for contractor/industrial product support.","source":"https://www.turck.us/en/company-news-2863_latest-information-about-the-covid19-situation-36667.php","last_verified":"2025-12-25"}]},{"id":"vertiv","name":"Vertiv","website":"https://www.vertiv.com/","categories":["electrical"],"aliases":["Liebert","Vertiv Co."],"support":[{"category":"electrical","department":"Technical Assistance Center (TAC)","phone":"+18008005260","country":"US","notes":"TAC support line (press options per TAC sheet).","source":"https://www.vertiv.com/4907b7/globalassets/documents/data-sheets/technical-assitance-center-ds-en-na-dc-00502_102882_2.pdf","last_verified":"2025-12-25"}]},{"id":"wago","name":"WAGO","website":"https://www.wago.com/us","categories":["electrical"],"aliases":[],"support":[{"category":"electrical","department":"Technical Support","phone":"+18003467245","country":"US","notes":"Professional/contractor technical support line (per source).","source":"https://www.wago.com/us/technical-support-contact-page","last_verified":"2025-12-25"}]},{"id":"weidmuller","name":"Weidmüller","website":"https://www.weidmuller.com/en-us/","categories":["electrical"],"aliases":["Weidmuller USA"],"support":[{"category":"electrical","department":"Technical Support","phone":"+18008499343","country":"US","notes":"Professional/contractor technical support line (per source).","source":"https://www.weidmuller.com/en-us/service_support/index.jsp","last_verified":"2025-12-25"}]},{"id":"wieland-electric","name":"Wieland Electric","website":"https://www.wieland-electric.com/en/","categories":["electrical"],"aliases":["Wieland Electric Inc."],"support":[{"category":"electrical","department":"Technical Support","phone":"+18008865432","country":"US","notes":"Professional/contractor technical support line (per source).","source":"https://www.wieland-electric.com/en/company/contact/","last_verified":"2025-12-25"}]},{"id":"yaskawa-motoman","name":"Yaskawa Motoman","website":"https://www.motoman.com/","categories":["electrical"],"support":[{"category":"electrical","department":"Customer Support / Technical Support","phone":"+19378473200","country":"US","notes":"Customer support hotline listed on Motoman contact page.","source":"https://www.motoman.com/en-us/about/company/contact-us","last_verified":"2025-12-25"}]}]}
+{
+  "version": "2026-01-29",
+  "manufacturers": [
+    {
+      "id": "abb-installation-products",
+      "name": "ABB Installation Products (Carlon / T&B)",
+      "website": "https://new.abb.com/low-voltage/products/installation-products",
+      "categories": [
+        "electrical"
+      ],
+      "support": [
+        {
+          "category": "electrical",
+          "department": "Technical Support",
+          "phone": "+18888623289",
+          "country": "US",
+          "regions": [],
+          "timezone": null,
+          "last_verified": "2025-12-25",
+          "specialty_tags": [],
+          "notes": "ABB Installation Products technical support line (covers Carlon/T&B installation",
+          "source": "https://electrification.us.abb.com/customer-service"
+        }
+      ]
+    },
+    {
+      "id": "abb",
+      "name": "ABB",
+      "website": "https://new.abb.com/us",
+      "categories": [
+        "electrical"
+      ],
+      "support": [
+        {
+          "category": "electrical",
+          "department": "Technical Support",
+          "phone": "+18004357365",
+          "country": "US",
+          "regions": [],
+          "timezone": null,
+          "last_verified": "2025-12-25",
+          "specialty_tags": [],
+          "notes": "Professional/contractor technical support line (per source).",
+          "source": "https://new.abb.com/us/about/contact"
+        }
+      ]
+    },
+    {
+      "id": "acuity-brands",
+      "name": "Acuity Brands",
+      "website": "https://www.acuitybrands.com",
+      "categories": [
+        "electrical"
+      ],
+      "support": [
+        {
+          "category": "electrical",
+          "department": "Technical Support",
+          "phone": "+18007057378",
+          "country": "US",
+          "regions": [],
+          "timezone": null,
+          "last_verified": "2025-12-25",
+          "specialty_tags": [],
+          "notes": "Professional/contractor technical support line (per source).",
+          "source": "https://insights.acuitybrands.com/product-updates-blog/one-phone-number-for-all-your-support-needs-2"
+        }
+      ]
+    },
+    {
+      "id": "advantech",
+      "name": "Advantech",
+      "website": "https://www.advantech.com/en-us",
+      "categories": [
+        "electrical"
+      ],
+      "support": [
+        {
+          "category": "electrical",
+          "department": "Technical Support",
+          "phone": "+18885769668",
+          "country": "US",
+          "regions": [],
+          "timezone": null,
+          "last_verified": "2025-12-25",
+          "specialty_tags": [],
+          "notes": "Advantech US support line listed on support page.",
+          "source": "https://www.advantech.com/en-us/contact"
+        }
+      ]
+    },
+    {
+      "id": "apc",
+      "name": "APC by Schneider Electric",
+      "website": "https://www.se.com/us/en/work/support/",
+      "categories": [
+        "electrical"
+      ],
+      "support": [
+        {
+          "category": "electrical",
+          "department": "APC Technical Support (North America)",
+          "phone": "+18008004272",
+          "country": "US",
+          "regions": [],
+          "timezone": null,
+          "last_verified": "2025-12-25",
+          "specialty_tags": [],
+          "notes": "APC support line (North America toll-free).",
+          "source": "se.com APC FAQ/Support references"
+        }
+      ]
+    },
+    {
+      "id": "arlington-industries",
+      "name": "Arlington Industries",
+      "website": "https://www.aifittings.com/",
+      "categories": [
+        "electrical"
+      ],
+      "support": [
+        {
+          "category": "electrical",
+          "department": "Technical Support",
+          "phone": "+18008873040",
+          "country": "US",
+          "regions": [],
+          "timezone": null,
+          "last_verified": "2025-12-26",
+          "specialty_tags": [],
+          "notes": "Technical Support Hotline - press ext. 2012 or 2018. Mon-Fri 8am-5pm EST. For general inquiries: 1-800-233-4717.",
+          "source": "https://arli.com/technical-support/"
+        }
+      ]
+    },
+    {
+      "id": "atkore",
+      "name": "Atkore",
+      "website": "https://www.atkore.com/",
+      "categories": [
+        "electrical"
+      ],
+      "support": [
+        {
+          "category": "electrical",
+          "department": "Technical Sales / Support",
+          "phone": "+18008825543",
+          "country": "US",
+          "regions": [],
+          "timezone": null,
+          "last_verified": "2025-12-25",
+          "specialty_tags": [],
+          "notes": "Distributor/contractor support via technical sales managers (not homeowner).",
+          "source": "https://www.atkore.com/support/how-buy"
+        }
+      ]
+    },
+    {
+      "id": "banner-engineering",
+      "name": "Banner Engineering",
+      "website": "https://www.bannerengineering.com/",
+      "categories": [
+        "electrical"
+      ],
+      "support": [
+        {
+          "category": "electrical",
+          "department": "Main / Technical Support",
+          "phone": "+17635443164",
+          "country": "US",
+          "regions": [],
+          "timezone": null,
+          "last_verified": "2025-12-25",
+          "specialty_tags": [],
+          "notes": "Main line; ask for Technical Support.",
+          "source": "https://www.tpxonline.com/Sourcebook/Sourcebook_Search_Detail.asp?Company=228679&Status=1"
+        }
+      ]
+    },
+    {
+      "id": "belden",
+      "name": "Belden",
+      "website": "https://www.belden.com",
+      "categories": [
+        "electrical"
+      ],
+      "support": [
+        {
+          "category": "electrical",
+          "department": "Technical Support",
+          "phone": "+18002353361",
+          "country": "US",
+          "regions": [],
+          "timezone": null,
+          "last_verified": "2025-12-25",
+          "specialty_tags": [],
+          "notes": "Professional/contractor technical support line (per source).",
+          "source": "https://www.belden.com/privacy-policy"
+        }
+      ]
+    },
+    {
+      "id": "bender",
+      "name": "Bender (North America)",
+      "website": "https://www.benderinc.com/",
+      "categories": [
+        "electrical"
+      ],
+      "support": [
+        {
+          "category": "electrical",
+          "department": "Service Hotline / Technical Support",
+          "phone": "+18003564266",
+          "country": "US",
+          "regions": [],
+          "timezone": null,
+          "last_verified": "2025-12-25",
+          "specialty_tags": [],
+          "notes": "Bender North America service hotline.",
+          "source": "https://www.benderinc.com/contact/contact-information/"
+        }
+      ]
+    },
+    {
+      "id": "bridgeport-fittings",
+      "name": "Bridgeport Fittings (NSI Industries)",
+      "website": "https://nsiindustries.com/bridgeport/",
+      "categories": [
+        "electrical"
+      ],
+      "support": [
+        {
+          "category": "electrical",
+          "department": "Technical Support",
+          "phone": "+18885004598",
+          "country": "US",
+          "regions": [],
+          "timezone": null,
+          "last_verified": "2025-12-25",
+          "specialty_tags": [],
+          "notes": "",
+          "source": "https://nsiindustries.com/support/electrical-support/contact/"
+        }
+      ]
+    },
+    {
+      "id": "burndy",
+      "name": "BURNDY",
+      "website": "https://www.hubbell.com/burndy/en/contact-us",
+      "categories": [
+        "electrical"
+      ],
+      "support": [
+        {
+          "category": "electrical",
+          "department": "Technical Support",
+          "phone": "+18004514956",
+          "country": "US",
+          "regions": [],
+          "timezone": null,
+          "last_verified": "2025-12-25",
+          "specialty_tags": [],
+          "notes": "BURNDY technical support phone listed on Contact Us page.",
+          "source": "hubbell.com/burndy contact-us"
+        }
+      ]
+    },
+    {
+      "id": "cantex",
+      "name": "CANTEX",
+      "website": "https://www.cantexinc.com/",
+      "categories": [
+        "electrical"
+      ],
+      "support": [
+        {
+          "category": "electrical",
+          "department": "Customer Service / Technical Support",
+          "phone": "+18172157000",
+          "country": "US",
+          "regions": [],
+          "timezone": null,
+          "last_verified": "2025-12-25",
+          "specialty_tags": [],
+          "notes": "Primary contact number listed by CANTEX for agent/help requests; used for",
+          "source": "https://www.cantexinc.com/contact/agent-search"
+        }
+      ]
+    },
+    {
+      "id": "control-techniques",
+      "name": "Control Techniques (Nidec Drives)",
+      "website": "https://acim.nidec.com/en-US/drives/control-techniques",
+      "categories": [
+        "electrical"
+      ],
+      "support": [
+        {
+          "category": "electrical",
+          "department": "Technical Support",
+          "phone": "+18008932321",
+          "country": "US",
+          "regions": [],
+          "timezone": "CST",
+          "last_verified": "2025-12-25",
+          "specialty_tags": [],
+          "notes": "",
+          "source": "https://acim.nidec.com/en-US/drives/control-techniques/services/support"
+        }
+      ]
+    },
+    {
+      "id": "cooper-lighting-solutions",
+      "name": "Cooper Lighting Solutions",
+      "website": "https://www.cooperlighting.com/global/contact-us/controls-technical-support",
+      "categories": [
+        "electrical"
+      ],
+      "support": [
+        {
+          "category": "electrical",
+          "department": "Controls Technical Support (24/7)",
+          "phone": "+18005533879",
+          "country": "US",
+          "regions": [],
+          "timezone": null,
+          "last_verified": "2025-12-25",
+          "specialty_tags": [],
+          "notes": "Lighting controls technical support number (24/7).",
+          "source": "cooperlighting.com controls technical support page"
+        }
+      ]
+    },
+    {
+      "id": "eaton",
+      "name": "Eaton",
+      "website": "https://www.eaton.com/us/en-us.html",
+      "categories": [
+        "electrical"
+      ],
+      "support": [
+        {
+          "category": "electrical",
+          "department": "Technical Support",
+          "phone": "+18773862273",
+          "country": "US",
+          "regions": [],
+          "timezone": null,
+          "last_verified": "2025-12-25",
+          "specialty_tags": [],
+          "notes": "Professional/contractor technical support line (per source).",
+          "source": "https://www.eaton.com/us/en-us/support/contact-us.html"
+        }
+      ]
+    },
+    {
+      "id": "emerson-appleton",
+      "name": "Emerson Appleton",
+      "website": "https://www.emerson.com",
+      "categories": [
+        "electrical"
+      ],
+      "support": [
+        {
+          "category": "electrical",
+          "department": "Technical Support",
+          "phone": "+18006211506",
+          "country": "US",
+          "regions": [],
+          "timezone": null,
+          "last_verified": "2025-12-25",
+          "specialty_tags": [],
+          "notes": "Professional/contractor technical support line (per source).",
+          "source": "https://www.emerson.com/en-us/contact-us"
+        }
+      ]
+    },
+    {
+      "id": "encore-wire",
+      "name": "Encore Wire",
+      "website": "https://www.encorewire.com/contact.html",
+      "categories": [
+        "electrical"
+      ],
+      "support": [
+        {
+          "category": "electrical",
+          "department": "Customer Service / Sales Support",
+          "phone": "+18009629473",
+          "country": "US",
+          "regions": [],
+          "timezone": null,
+          "last_verified": "2025-12-25",
+          "specialty_tags": [],
+          "notes": "Toll-free customer service. Ask for Customer Service ext 1260 if needed.",
+          "source": "encorewire.com contact page"
+        }
+      ]
+    },
+    {
+      "id": "generac",
+      "name": "Generac",
+      "website": "https://www.generac.com",
+      "categories": [
+        "electrical"
+      ],
+      "support": [
+        {
+          "category": "electrical",
+          "department": "Technical Support",
+          "phone": "+18884363722",
+          "country": "US",
+          "regions": [],
+          "timezone": null,
+          "last_verified": "2025-12-25",
+          "specialty_tags": [],
+          "notes": "Professional/contractor technical support line (per source).",
+          "source": "https://www.generac.com/about/contact-us/"
+        }
+      ]
+    },
+    {
+      "id": "hammond-power-solutions",
+      "name": "Hammond Power Solutions",
+      "website": "https://americas.hammondpowersolutions.com/",
+      "categories": [
+        "electrical"
+      ],
+      "support": [
+        {
+          "category": "electrical",
+          "department": "Technical Support (USA)",
+          "phone": "+18667054684",
+          "country": "US",
+          "regions": [],
+          "timezone": null,
+          "last_verified": "2025-12-25",
+          "specialty_tags": [],
+          "notes": "U.S.A technical support number listed by HPS.",
+          "source": "https://americas.hammondpowersolutions.com/resources/technical-support"
+        }
+      ]
+    },
+    {
+      "id": "helukabel",
+      "name": "HELUKABEL USA",
+      "website": "https://www.helukabel.us/us-en/",
+      "categories": [
+        "electrical"
+      ],
+      "support": [
+        {
+          "category": "electrical",
+          "department": "Sales / Technical Information",
+          "phone": "+18554358872",
+          "country": "US",
+          "regions": [],
+          "timezone": null,
+          "last_verified": "2025-12-25",
+          "specialty_tags": [],
+          "notes": "",
+          "source": "https://www.helukabel.us/us-en/contact/"
+        }
+      ]
+    },
+    {
+      "id": "hubbell",
+      "name": "Hubbell",
+      "website": "https://www.hubbell.com",
+      "categories": [
+        "electrical"
+      ],
+      "support": [
+        {
+          "category": "electrical",
+          "department": "Technical Support",
+          "phone": "+18002886000",
+          "country": "US",
+          "regions": [],
+          "timezone": null,
+          "last_verified": "2025-12-25",
+          "specialty_tags": [],
+          "notes": "Professional/contractor technical support line (per source).",
+          "source": "https://www.se.com/us/en/faqs/FAQ000261499/"
+        }
+      ]
+    },
+    {
+      "id": "ideal-industries",
+      "name": "IDEAL Industries",
+      "website": "https://www.idealind.com/us/en.html",
+      "categories": [
+        "electrical"
+      ],
+      "support": [
+        {
+          "category": "electrical",
+          "department": "Technical Support",
+          "phone": "+18004350705",
+          "country": "US",
+          "regions": [],
+          "timezone": null,
+          "last_verified": "2025-12-25",
+          "specialty_tags": [],
+          "notes": "Professional/contractor technical support line (per source).",
+          "source": "https://www.idealind.com/us/en/support/contact-us.html"
+        }
+      ]
+    },
+    {
+      "id": "ifm",
+      "name": "ifm efector, inc.",
+      "website": "https://www.ifm.com/us/en",
+      "categories": [
+        "electrical"
+      ],
+      "support": [
+        {
+          "category": "electrical",
+          "department": "Customer Service / Technical Support",
+          "phone": "+18004418246",
+          "country": "US",
+          "regions": [],
+          "timezone": null,
+          "last_verified": "2025-12-25",
+          "specialty_tags": [],
+          "notes": "",
+          "source": "https://www.ifm.com/us/en"
+        }
+      ]
+    },
+    {
+      "id": "ilsco",
+      "name": "ILSCO",
+      "website": "https://www.ilsco.com/Ilsco/ccrz__CCPage?pageKey=ICU",
+      "categories": [
+        "electrical"
+      ],
+      "support": [
+        {
+          "category": "electrical",
+          "department": "Product Application Support",
+          "phone": "+18887765047",
+          "country": "US",
+          "regions": [],
+          "timezone": null,
+          "last_verified": "2025-12-25",
+          "specialty_tags": [],
+          "notes": "Product application support line listed on Contact Us page.",
+          "source": "ilsco.com contact page"
+        }
+      ]
+    },
+    {
+      "id": "intermatic",
+      "name": "Intermatic",
+      "website": "https://www.intermatic.com/",
+      "categories": [
+        "electrical"
+      ],
+      "support": [
+        {
+          "category": "electrical",
+          "department": "Technical Support",
+          "phone": "+18156757000",
+          "country": "US",
+          "regions": [],
+          "timezone": null,
+          "last_verified": "2025-12-25",
+          "specialty_tags": [],
+          "notes": "Technical support for installation/troubleshooting.",
+          "source": "https://www.intermatic.com/support/contact-us"
+        }
+      ]
+    },
+    {
+      "id": "itron",
+      "name": "Itron",
+      "website": "https://na.itron.com/",
+      "categories": [
+        "electrical"
+      ],
+      "support": [
+        {
+          "category": "electrical",
+          "department": "Global Customer Support (Continental US)",
+          "phone": "+18774876602",
+          "country": "US",
+          "regions": [],
+          "timezone": null,
+          "last_verified": "2025-12-25",
+          "specialty_tags": [],
+          "notes": "Itron GCSS support line (Continental U.S.).",
+          "source": "https://na.itron.com/what-we-offer/services/customer-support"
+        }
+      ]
+    },
+    {
+      "id": "keystone-tech",
+      "name": "Keystone Technologies",
+      "website": "https://www.keystonetech.com/",
+      "categories": [
+        "electrical"
+      ],
+      "support": [
+        {
+          "category": "electrical",
+          "department": "Product Technical Support",
+          "phone": "+18334403615",
+          "country": "US",
+          "regions": [],
+          "timezone": null,
+          "last_verified": "2025-12-25",
+          "specialty_tags": [],
+          "notes": "Immediate product technical support.",
+          "source": "https://www.keystonetech.com/support/live-support-request"
+        }
+      ]
+    },
+    {
+      "id": "killark",
+      "name": "Killark (Hubbell)",
+      "website": "https://www.hubbell.com/killark/en",
+      "categories": [
+        "electrical"
+      ],
+      "support": [
+        {
+          "category": "electrical",
+          "department": "Customer Service / Support",
+          "phone": "+18005310460",
+          "country": "US",
+          "regions": [],
+          "timezone": null,
+          "last_verified": "2025-12-25",
+          "specialty_tags": [],
+          "notes": "",
+          "source": "https://www.hubbell.com/killark/en/contact-us"
+        }
+      ]
+    },
+    {
+      "id": "lapp",
+      "name": "LAPP North America",
+      "website": "https://www.lapp.com/en_US/us/",
+      "categories": [
+        "electrical"
+      ],
+      "support": [
+        {
+          "category": "electrical",
+          "department": "Advice & Support",
+          "phone": "+18007743539",
+          "country": "US",
+          "regions": [],
+          "timezone": null,
+          "last_verified": "2025-12-25",
+          "specialty_tags": [],
+          "notes": "",
+          "source": "https://www.lapp.com/en_US/us/service/contact-overview/e/000040"
+        }
+      ]
+    },
+    {
+      "id": "ledvance",
+      "name": "LEDVANCE",
+      "website": "https://ledvance.com/en-us",
+      "categories": [
+        "electrical"
+      ],
+      "support": [
+        {
+          "category": "electrical",
+          "department": "Technical Support",
+          "phone": "+18002632852",
+          "country": "US",
+          "regions": [],
+          "timezone": null,
+          "last_verified": "2025-12-25",
+          "specialty_tags": [],
+          "notes": "Professional/contractor technical support line (per source).",
+          "source": "https://ledvance.com/en-us/company/contact"
+        }
+      ]
+    },
+    {
+      "id": "legrand",
+      "name": "Legrand",
+      "website": "https://www.legrand.us",
+      "categories": [
+        "electrical"
+      ],
+      "support": [
+        {
+          "category": "electrical",
+          "department": "Technical Support",
+          "phone": "+18449573783",
+          "country": "US",
+          "regions": [],
+          "timezone": null,
+          "last_verified": "2025-12-25",
+          "specialty_tags": [],
+          "notes": "Professional/contractor technical support line (per source).",
+          "source": "https://legrand.my.site.com/knowledgebase/s/article/Additional-Contacting-Wiremold-Technical-Support"
+        }
+      ]
+    },
+    {
+      "id": "leviton",
+      "name": "Leviton",
+      "website": "https://leviton.com",
+      "categories": [
+        "electrical"
+      ],
+      "support": [
+        {
+          "category": "electrical",
+          "department": "Technical Support",
+          "phone": "+18008243005",
+          "country": "US",
+          "regions": [],
+          "timezone": null,
+          "last_verified": "2025-12-25",
+          "specialty_tags": [],
+          "notes": "Professional/contractor technical support line (per source).",
+          "source": "https://leviton.com/support/partners/specifiers/lighting-and-controls/support"
+        }
+      ]
+    },
+    {
+      "id": "lithonia-lighting",
+      "name": "Lithonia Lighting",
+      "website": "https://lithonia.acuitybrands.com/",
+      "categories": [
+        "electrical"
+      ],
+      "support": [
+        {
+          "category": "electrical",
+          "department": "Acuity Brands Customer Care / Tech Support",
+          "phone": "+18007057378",
+          "country": "US",
+          "regions": [],
+          "timezone": null,
+          "last_verified": "2025-12-25",
+          "specialty_tags": [],
+          "notes": "Acuity Brands '1-800-705-SERV' support line for product questions/tech support.",
+          "source": "acuitybrands.com support page"
+        }
+      ]
+    },
+    {
+      "id": "littelfuse",
+      "name": "Littelfuse",
+      "website": "https://www.littelfuse.com/",
+      "categories": [
+        "electrical"
+      ],
+      "support": [
+        {
+          "category": "electrical",
+          "department": "Technical Support (Industrial/Medium Voltage)",
+          "phone": "+18008323873",
+          "country": "US",
+          "regions": [],
+          "timezone": null,
+          "last_verified": "2025-12-25",
+          "specialty_tags": [],
+          "notes": "Technical Support & Engineering Services Group (industrial/medium voltage).",
+          "source": "https://www.littelfuse.com/partial-pages/information-center/l3-partial-pages/medium-volatge"
+        }
+      ]
+    },
+    {
+      "id": "lutron",
+      "name": "Lutron",
+      "website": "https://www.lutron.com",
+      "categories": [
+        "electrical"
+      ],
+      "support": [
+        {
+          "category": "electrical",
+          "department": "Technical Support",
+          "phone": "+18005239466",
+          "country": "US",
+          "regions": [],
+          "timezone": null,
+          "last_verified": "2025-12-25",
+          "specialty_tags": [],
+          "notes": "Professional/contractor technical support line (per source).",
+          "source": "https://support.lutron.com/us/en/warranty"
+        }
+      ]
+    },
+    {
+      "id": "mean-well",
+      "name": "MEAN WELL USA",
+      "website": "https://www.meanwellusa.com/",
+      "categories": [
+        "electrical"
+      ],
+      "support": [
+        {
+          "category": "electrical",
+          "department": "Engineering / Technical Support",
+          "phone": "+18336357201",
+          "country": "US",
+          "regions": [],
+          "timezone": null,
+          "last_verified": "2025-12-25",
+          "specialty_tags": [],
+          "notes": "North American HQ; request engineering/technical support.",
+          "source": "https://www.meanwellusa.com/contact.aspx"
+        }
+      ]
+    },
+    {
+      "id": "megger",
+      "name": "Megger",
+      "website": "https://www.megger.com/en-us",
+      "categories": [
+        "electrical"
+      ],
+      "support": [
+        {
+          "category": "electrical",
+          "department": "Technical Service & Support",
+          "phone": "+16106768578",
+          "country": "US",
+          "regions": [],
+          "timezone": null,
+          "last_verified": "2025-12-25",
+          "specialty_tags": [],
+          "notes": "Megger US service/support phone listed on Megger support page.",
+          "source": "https://www.megger.com/en-us/support"
+        }
+      ]
+    },
+    {
+      "id": "mersen",
+      "name": "Mersen",
+      "website": "https://us.mersen.com/",
+      "categories": [
+        "electrical"
+      ],
+      "support": [
+        {
+          "category": "electrical",
+          "department": "Technical Support",
+          "phone": "+19784654853",
+          "country": "US",
+          "regions": [],
+          "timezone": null,
+          "last_verified": "2025-12-25",
+          "specialty_tags": [],
+          "notes": "Technical Services / Technical Support.",
+          "source": "https://mersen.pissedconsumer.com/customer-service.html"
+        }
+      ]
+    },
+    {
+      "id": "milbank",
+      "name": "Milbank",
+      "website": "https://www.milbankworks.com/",
+      "categories": [
+        "electrical"
+      ],
+      "support": [
+        {
+          "category": "electrical",
+          "department": "Product Support (SynapSwitch ATS)",
+          "phone": "+18164107346",
+          "country": "US",
+          "regions": [],
+          "timezone": null,
+          "last_verified": "2025-12-25",
+          "specialty_tags": [],
+          "notes": "SynapSwitch ATS product support (ask for ext. 7).",
+          "source": "https://www.milbankworks.com/resources/generator-support"
+        }
+      ]
+    },
+    {
+      "id": "mitsubishi-electric-automation",
+      "name": "Mitsubishi Electric Automation",
+      "website": "https://us.mitsubishielectric.com/fa/en/",
+      "categories": [
+        "electrical"
+      ],
+      "support": [
+        {
+          "category": "electrical",
+          "department": "Technical Support",
+          "phone": "+18474782500",
+          "country": "US",
+          "regions": [],
+          "timezone": null,
+          "last_verified": "2025-12-25",
+          "specialty_tags": [],
+          "notes": "Mitsubishi Electric Automation technical support (phone technical support).",
+          "source": "https://us.mitsubishielectric.com/fa/en/about-us/contact/"
+        }
+      ]
+    },
+    {
+      "id": "molex",
+      "name": "Molex",
+      "website": "https://www.molex.com/",
+      "categories": [
+        "electrical"
+      ],
+      "support": [
+        {
+          "category": "electrical",
+          "department": "Automation Technical Support",
+          "phone": "+18002257724",
+          "country": "US",
+          "regions": [],
+          "timezone": null,
+          "last_verified": "2025-12-25",
+          "specialty_tags": [],
+          "notes": "Automation/industrial solutions tech support (options vary by product group).",
+          "source": "https://www.content.molex.com/dxresources/810e/810e5a88-cf36-485a-a1fe-2c521dd25402.pdf"
+        }
+      ]
+    },
+    {
+      "id": "moxa-americas",
+      "name": "Moxa Americas",
+      "website": "https://www.moxa.com/en",
+      "categories": [
+        "electrical"
+      ],
+      "support": [
+        {
+          "category": "electrical",
+          "department": "Technical Support",
+          "phone": "+18886692872",
+          "country": "US",
+          "regions": [],
+          "timezone": null,
+          "last_verified": "2025-12-25",
+          "specialty_tags": [],
+          "notes": "Moxa Americas toll-free technical support (per Moxa manual).",
+          "source": "https://www.moxa.com/getmedia/448700cb-bb39-4448-91e7-b67a183ea4a0/moxa-software-license-portal-manual-v1.0.pdf"
+        }
+      ]
+    },
+    {
+      "id": "nsi-industries",
+      "name": "NSI Industries",
+      "website": "https://nsiindustries.com/",
+      "categories": [
+        "electrical"
+      ],
+      "support": [
+        {
+          "category": "electrical",
+          "department": "Customer Service / Support",
+          "phone": "+18003215847",
+          "country": "US",
+          "regions": [],
+          "timezone": null,
+          "last_verified": "2025-12-25",
+          "specialty_tags": [],
+          "notes": "Customer service line used for support routing (electrical team).",
+          "source": "https://nsiindustries.com/support/electrical-support/contact/"
+        }
+      ]
+    },
+    {
+      "id": "nvent-erico",
+      "name": "nVent ERICO",
+      "website": "https://www.nvent.com/en-us/erico/cadweld/technical-support",
+      "categories": [
+        "electrical"
+      ],
+      "support": [
+        {
+          "category": "electrical",
+          "department": "CADWELD Technical Support",
+          "phone": "+18002489353",
+          "country": "US",
+          "regions": [],
+          "timezone": null,
+          "last_verified": "2025-12-25",
+          "specialty_tags": [],
+          "notes": "Technical support line for ERICO CADWELD.",
+          "source": "nvent.com ERICO CADWELD technical support page"
+        }
+      ]
+    },
+    {
+      "id": "nvent-hoffman",
+      "name": "nVent HOFFMAN",
+      "website": "https://www.nvent.com/en-us/hoffman",
+      "categories": [
+        "electrical"
+      ],
+      "support": [
+        {
+          "category": "electrical",
+          "department": "Technical Support",
+          "phone": "+17634222211",
+          "country": "US",
+          "regions": [],
+          "timezone": null,
+          "last_verified": "2025-12-25",
+          "specialty_tags": [],
+          "notes": "Professional/contractor technical support line (per source).",
+          "source": "https://www.nvent.com/en-us/hoffman/customer-service"
+        }
+      ]
+    },
+    {
+      "id": "okonite",
+      "name": "The Okonite Company",
+      "website": "https://www.okonite.com/",
+      "categories": [
+        "electrical"
+      ],
+      "support": [
+        {
+          "category": "electrical",
+          "department": "Customer Service / Technical Support",
+          "phone": "+12018250300",
+          "country": "US",
+          "regions": [],
+          "timezone": null,
+          "last_verified": "2025-12-25",
+          "specialty_tags": [],
+          "notes": "Okonite main phone listed by NEMA directory for the manufacturer (cable).",
+          "source": "https://www.nema.org/membership/manufacturers/view/the-okonite-company"
+        }
+      ]
+    },
+    {
+      "id": "omron-automation",
+      "name": "OMRON Automation",
+      "website": "https://automation.omron.com/en/us/",
+      "categories": [
+        "electrical"
+      ],
+      "support": [
+        {
+          "category": "electrical",
+          "department": "Technical Support",
+          "phone": "+18005566766",
+          "country": "US",
+          "regions": [],
+          "timezone": null,
+          "last_verified": "2025-12-25",
+          "specialty_tags": [],
+          "notes": "OMRON Automation technical support line.",
+          "source": "https://automation.omron.com/en/us/support/contact-us"
+        }
+      ]
+    },
+    {
+      "id": "panduit",
+      "name": "Panduit",
+      "website": "https://www.panduit.com",
+      "categories": [
+        "electrical"
+      ],
+      "support": [
+        {
+          "category": "electrical",
+          "department": "Technical Support",
+          "phone": "+18007773300",
+          "country": "US",
+          "regions": [],
+          "timezone": null,
+          "last_verified": "2025-12-25",
+          "specialty_tags": [],
+          "notes": "Professional/contractor technical support line (per source).",
+          "source": "https://www.panduit.com/en/support/contact-us.html"
+        }
+      ]
+    },
+    {
+      "id": "phoenix-contact",
+      "name": "Phoenix Contact",
+      "website": "https://www.phoenixcontact.com/en-us",
+      "categories": [
+        "electrical"
+      ],
+      "support": [
+        {
+          "category": "electrical",
+          "department": "Technical Support",
+          "phone": "+18003223225",
+          "country": "US",
+          "regions": [],
+          "timezone": null,
+          "last_verified": "2025-12-25",
+          "specialty_tags": [],
+          "notes": "Professional/contractor technical support line (per source).",
+          "source": "https://www.phoenixcontact.com/en-us/service-and-support/contact"
+        }
+      ]
+    },
+    {
+      "id": "prysmian",
+      "name": "Prysmian Group North America (General Cable / Draka)",
+      "website": "https://na.prysmian.com/",
+      "categories": [
+        "electrical"
+      ],
+      "support": [
+        {
+          "category": "electrical",
+          "department": "Customer Service / Product Support",
+          "phone": "+18595728000",
+          "country": "US",
+          "regions": [],
+          "timezone": null,
+          "last_verified": "2025-12-25",
+          "specialty_tags": [],
+          "notes": "Prysmian North America main phone (used for product/customer support routing).",
+          "source": "https://na.prysmian.com/contact-us"
+        }
+      ]
+    },
+    {
+      "id": "rab-lighting",
+      "name": "RAB Lighting",
+      "website": "https://www.rablighting.com",
+      "categories": [
+        "electrical"
+      ],
+      "support": [
+        {
+          "category": "electrical",
+          "department": "Technical Support",
+          "phone": "+18887221000",
+          "country": "US",
+          "regions": [],
+          "timezone": null,
+          "last_verified": "2025-12-25",
+          "specialty_tags": [],
+          "notes": "Professional/contractor technical support line (per source).",
+          "source": "https://www.rablighting.com/support"
+        }
+      ]
+    },
+    {
+      "id": "rittal",
+      "name": "Rittal",
+      "website": "https://www.rittal.com/us-en_US/",
+      "categories": [
+        "electrical"
+      ],
+      "support": [
+        {
+          "category": "electrical",
+          "department": "Customer Service / Support",
+          "phone": "+18004774000",
+          "country": "US",
+          "regions": [],
+          "timezone": null,
+          "last_verified": "2025-12-25",
+          "specialty_tags": [],
+          "notes": "Contact center; used for product questions and support.",
+          "source": "https://www.rittal.com/us-en_US/Company/Contact-Us"
+        }
+      ]
+    },
+    {
+      "id": "rockwell-automation",
+      "name": "Rockwell Automation",
+      "website": "https://www.rockwellautomation.com",
+      "categories": [
+        "electrical"
+      ],
+      "support": [
+        {
+          "category": "electrical",
+          "department": "Technical Support",
+          "phone": "+14406463434",
+          "country": "US",
+          "regions": [],
+          "timezone": null,
+          "last_verified": "2025-12-25",
+          "specialty_tags": [],
+          "notes": "Professional/contractor technical support line (per source).",
+          "source": "https://support.rockwellautomation.com/app/phone"
+        }
+      ]
+    },
+    {
+      "id": "sandc-electric",
+      "name": "S&C Electric Company",
+      "website": "https://www.sandc.com/en/contact-us/technical-support/",
+      "categories": [
+        "electrical"
+      ],
+      "support": [
+        {
+          "category": "electrical",
+          "department": "24/7 Global Support / Technical Support",
+          "phone": "+18887621100",
+          "country": "US",
+          "regions": [],
+          "timezone": null,
+          "last_verified": "2025-12-25",
+          "specialty_tags": [],
+          "notes": "24/7 support number for S&C equipment (emergency and non-emergency).",
+          "source": "sandc.com technical support page"
+        }
+      ]
+    },
+    {
+      "id": "schneider-electric",
+      "name": "Schneider Electric",
+      "website": "https://www.se.com/us/en/",
+      "categories": [
+        "electrical"
+      ],
+      "support": [
+        {
+          "category": "electrical",
+          "department": "Technical Support",
+          "phone": "+18887782733",
+          "country": "US",
+          "regions": [],
+          "timezone": null,
+          "last_verified": "2025-12-25",
+          "specialty_tags": [],
+          "notes": "Professional/contractor technical support line (per source).",
+          "source": "https://www.se.com/us/en/work/support/contact-us/"
+        }
+      ]
+    },
+    {
+      "id": "sel",
+      "name": "Schweitzer Engineering Laboratories",
+      "website": "https://selinc.com/",
+      "categories": [
+        "electrical"
+      ],
+      "support": [
+        {
+          "category": "electrical",
+          "department": "Technical Support Line",
+          "phone": "+15093383838",
+          "country": "US",
+          "regions": [],
+          "timezone": null,
+          "last_verified": "2025-12-25",
+          "specialty_tags": [],
+          "notes": "SEL Technical Support Line.",
+          "source": "https://selinc.com/company/contact/"
+        }
+      ]
+    },
+    {
+      "id": "siemens",
+      "name": "Siemens",
+      "website": "https://www.siemens.com/us/en.html",
+      "categories": [
+        "electrical"
+      ],
+      "support": [
+        {
+          "category": "electrical",
+          "department": "Technical Support",
+          "phone": "+18003337421",
+          "country": "US",
+          "regions": [],
+          "timezone": null,
+          "last_verified": "2025-12-25",
+          "specialty_tags": [],
+          "notes": "Professional/contractor technical support line (per source).",
+          "source": "https://www.siemens.com/us/en/company/about/contact.html"
+        }
+      ]
+    },
+    {
+      "id": "signify",
+      "name": "Signify",
+      "website": "https://www.signify.com/en-us",
+      "categories": [
+        "electrical"
+      ],
+      "support": [
+        {
+          "category": "electrical",
+          "department": "Technical Support",
+          "phone": "+18005550050",
+          "country": "US",
+          "regions": [],
+          "timezone": null,
+          "last_verified": "2025-12-25",
+          "specialty_tags": [],
+          "notes": "Professional/contractor technical support line (per source).",
+          "source": "https://www.signify.com/en-us/get-in-touch"
+        }
+      ]
+    },
+    {
+      "id": "southwire",
+      "name": "Southwire",
+      "website": "https://www.southwire.com",
+      "categories": [
+        "electrical"
+      ],
+      "support": [
+        {
+          "category": "electrical",
+          "department": "Technical Support",
+          "phone": "+18004441700",
+          "country": "US",
+          "regions": [],
+          "timezone": null,
+          "last_verified": "2025-12-25",
+          "specialty_tags": [],
+          "notes": "Professional/contractor technical support line (per source).",
+          "source": "https://www.southwire.com/contact-us/tech-support"
+        }
+      ]
+    },
+    {
+      "id": "tpi-corporation",
+      "name": "TPI Corporation",
+      "website": "https://www.tpicorp.com/",
+      "categories": [
+        "electrical"
+      ],
+      "support": [
+        {
+          "category": "electrical",
+          "department": "Customer Service / Support",
+          "phone": "+18004954525",
+          "country": "US",
+          "regions": [],
+          "timezone": null,
+          "last_verified": "2025-12-25",
+          "specialty_tags": [],
+          "notes": "Customer service number published for product support inquiries.",
+          "source": "https://www.tpicorp.com/"
+        }
+      ]
+    },
+    {
+      "id": "tripp-lite",
+      "name": "Eaton Tripp Lite",
+      "website": "https://tripplite.eaton.com/support/help",
+      "categories": [
+        "electrical"
+      ],
+      "support": [
+        {
+          "category": "electrical",
+          "department": "Technical Support",
+          "phone": "+17738691234",
+          "country": "US",
+          "regions": [],
+          "timezone": null,
+          "last_verified": "2025-12-25",
+          "specialty_tags": [],
+          "notes": "Tripp Lite technical support phone (US-based support).",
+          "source": "Tripp Lite/Eaton support PDF and support pages"
+        }
+      ]
+    },
+    {
+      "id": "turck",
+      "name": "Turck USA",
+      "website": "https://www.turck.us/",
+      "categories": [
+        "electrical"
+      ],
+      "support": [
+        {
+          "category": "electrical",
+          "department": "Customer Service / Technical Support",
+          "phone": "+18005447769",
+          "country": "US",
+          "regions": [],
+          "timezone": null,
+          "last_verified": "2025-12-25",
+          "specialty_tags": [],
+          "notes": "Use for contractor/industrial product support.",
+          "source": "https://www.turck.us/en/company-news-2863_latest-information-about-the-covid19-situation-36667.php"
+        }
+      ]
+    },
+    {
+      "id": "vertiv",
+      "name": "Vertiv",
+      "website": "https://www.vertiv.com/",
+      "categories": [
+        "electrical"
+      ],
+      "support": [
+        {
+          "category": "electrical",
+          "department": "Technical Assistance Center (TAC)",
+          "phone": "+18008005260",
+          "country": "US",
+          "regions": [],
+          "timezone": null,
+          "last_verified": "2025-12-25",
+          "specialty_tags": [],
+          "notes": "TAC support line (press options per TAC sheet).",
+          "source": "https://www.vertiv.com/4907b7/globalassets/documents/data-sheets/technical-assitance-center-ds-en-na-dc-00502_102882_2.pdf"
+        }
+      ]
+    },
+    {
+      "id": "wago",
+      "name": "WAGO",
+      "website": "https://www.wago.com/us",
+      "categories": [
+        "electrical"
+      ],
+      "support": [
+        {
+          "category": "electrical",
+          "department": "Technical Support",
+          "phone": "+18003467245",
+          "country": "US",
+          "regions": [],
+          "timezone": null,
+          "last_verified": "2025-12-25",
+          "specialty_tags": [],
+          "notes": "Professional/contractor technical support line (per source).",
+          "source": "https://www.wago.com/us/technical-support-contact-page"
+        }
+      ]
+    },
+    {
+      "id": "weidmuller",
+      "name": "Weidmüller",
+      "website": "https://www.weidmuller.com/en-us/",
+      "categories": [
+        "electrical"
+      ],
+      "support": [
+        {
+          "category": "electrical",
+          "department": "Technical Support",
+          "phone": "+18008499343",
+          "country": "US",
+          "regions": [],
+          "timezone": null,
+          "last_verified": "2025-12-25",
+          "specialty_tags": [],
+          "notes": "Professional/contractor technical support line (per source).",
+          "source": "https://www.weidmuller.com/en-us/service_support/index.jsp"
+        }
+      ]
+    },
+    {
+      "id": "wieland-electric",
+      "name": "Wieland Electric",
+      "website": "https://www.wieland-electric.com/en/",
+      "categories": [
+        "electrical"
+      ],
+      "support": [
+        {
+          "category": "electrical",
+          "department": "Technical Support",
+          "phone": "+18008865432",
+          "country": "US",
+          "regions": [],
+          "timezone": null,
+          "last_verified": "2025-12-25",
+          "specialty_tags": [],
+          "notes": "Professional/contractor technical support line (per source).",
+          "source": "https://www.wieland-electric.com/en/company/contact/"
+        }
+      ]
+    },
+    {
+      "id": "yaskawa-motoman",
+      "name": "Yaskawa Motoman",
+      "website": "https://www.motoman.com/",
+      "categories": [
+        "electrical"
+      ],
+      "support": [
+        {
+          "category": "electrical",
+          "department": "Customer Support / Technical Support",
+          "phone": "+19378473200",
+          "country": "US",
+          "regions": [],
+          "timezone": null,
+          "last_verified": "2025-12-25",
+          "specialty_tags": [],
+          "notes": "Customer support hotline listed on Motoman contact page.",
+          "source": "https://www.motoman.com/en-us/about/company/contact-us"
+        }
+      ]
+    }
+  ]
+}

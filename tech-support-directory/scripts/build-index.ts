@@ -27,10 +27,33 @@ function pickOne(re, txt) {
 }
 
 function pickArray(key, txt) {
-  // matches: key: [a, b, c]
-  const m = txt.match(new RegExp("^" + key + "\\s*:\\s*\\[(.*)\\]\\s*$", "m"));
-  if (!m) return [];
-  return m[1].split(",").map(s => s.trim()).filter(Boolean);
+  // matches inline: key: [a, b, c]
+  const inlineMatch = txt.match(new RegExp("^" + key + "\\s*:\\s*\\[(.*)\\]\\s*$", "m"));
+  if (inlineMatch) {
+    return inlineMatch[1].split(",").map(s => s.trim()).filter(Boolean);
+  }
+  // matches YAML list format:
+  // key:
+  // - value1
+  // - value2
+  const lines = txt.split(/\r?\n/);
+  const result = [];
+  let inList = false;
+  for (const line of lines) {
+    if (line.match(new RegExp("^" + key + "\\s*:\\s*$"))) {
+      inList = true;
+      continue;
+    }
+    if (!inList) continue;
+    // Stop if we hit another top-level key (no leading spaces)
+    if (line.match(/^[a-zA-Z_]/)) break;
+    // Match list item: "- value" or "  - value"
+    const itemMatch = line.match(/^\s*-\s*(.+)$/);
+    if (itemMatch) {
+      result.push(itemMatch[1].trim());
+    }
+  }
+  return result;
 }
 
 function parseSupportBlocks(txt) {
@@ -132,7 +155,7 @@ for (const file of walk(dataDir)) {
   manufacturers.push({ id, name, website, categories, support });
 }
 
-const version = "2025-12-24";
+const version = "2026-01-29";
 const index = { version, manufacturers };
 fs.writeFileSync(path.join(outDir, "index.min.json"), JSON.stringify(index));
 
@@ -146,12 +169,29 @@ for (const m of manufacturers) {
 }
 fs.writeFileSync(path.join(outDir, "index.by-domain.json"), JSON.stringify({ version, byDomain }, null, 2));
 
-const usHvac = manufacturers
-  .map(m => {
-    const support = m.support.filter(s => (s.country||"").toUpperCase()==="US" && (s.category||"")==="hvac");
-    return support.length ? {...m, support} : null;
-  })
-  .filter(Boolean);
-fs.writeFileSync(path.join(shardsDir, "us-hvac.json"), JSON.stringify({ version, manufacturers: usHvac }, null, 2));
+// Create shards for major categories
+const shards = [
+  { name: "us-hvac", country: "US", category: "hvac" },
+  { name: "us-plumbing", country: "US", category: "plumbing" },
+  { name: "us-electrical", country: "US", category: "electrical" },
+  { name: "us-hydronics", country: "US", category: "hydronics" },
+  { name: "ca-hvac", country: "CA", category: "hvac" }
+];
 
-console.log("✅ Built dist/index.min.json, dist/index.by-domain.json, dist/shards/us-hvac.json");
+for (const shard of shards) {
+  const filtered = manufacturers
+    .map(m => {
+      const support = m.support.filter(s => 
+        (s.country||"").toUpperCase() === shard.country && 
+        (s.category||"") === shard.category
+      );
+      return support.length ? {...m, support} : null;
+    })
+    .filter(Boolean);
+  fs.writeFileSync(
+    path.join(shardsDir, `${shard.name}.json`), 
+    JSON.stringify({ version, manufacturers: filtered }, null, 2)
+  );
+}
+
+console.log("✅ Built dist/index.min.json, dist/index.by-domain.json, and all category shards");

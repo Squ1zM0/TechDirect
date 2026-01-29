@@ -1,0 +1,19 @@
+id: jacuzzi
+name: Jacuzzi
+website: https://www.jacuzzi.com/en-us/
+categories:
+- plumbing
+aliases:
+- Jacuzzi Brands
+- Jacuzzi Bath
+support:
+- category: plumbing
+  department: Customer Service & Technical Support
+  phone: "+18446026064"
+  country: US
+  hours:
+    timezone: America/Los_Angeles
+    mon_fri: "07:00-16:00"
+  notes: Jacuzzi customer service and technical support for bath, whirlpool, and plumbing products.
+  source: https://www.jacuzzi.com/en-us/contactus.html
+  last_verified: '2026-01-29'

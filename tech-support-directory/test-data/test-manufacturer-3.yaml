@@ -1,0 +1,19 @@
+id: test-manufacturer-3
+name: International Support Ltd
+website: https://www.international-support.example
+categories: [plumbing]
+support:
+  - category: plumbing
+    department: UK Support
+    phone: "+441234567890"
+    country: GB
+    notes: "UK technical support"
+    source: "https://www.international-support.example/uk"
+    last_verified: "2026-01-29"
+  - category: plumbing
+    department: DE Support
+    phone: "+49-2932-9616-0"
+    country: DE
+    notes: "Germany technical support"
+    source: "https://www.international-support.example/de"
+    last_verified: "2026-01-29"

@@ -1,0 +1,16 @@
+id: payne
+name: Payne HVAC
+website: https://www.payne.com/en/us/
+categories:
+- hvac
+aliases:
+- Payne Heating & Cooling
+- Payne by Carrier
+support:
+- category: hvac
+  department: Technical Support
+  phone: "+18884172963"
+  country: US
+  notes: Payne HVAC technical support (Carrier brand).
+  source: https://www.payne.com/en/us/contact-us
+  last_verified: '2026-01-29'

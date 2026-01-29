@@ -1,0 +1,152 @@
+name: Contact Validation with Network Access
+
+on:
+  # Run weekly on Monday at 2 AM UTC
+  schedule:
+    - cron: '0 2 * * 1'
+  
+  # Allow manual trigger
+  workflow_dispatch:
+    inputs:
+      timeout:
+        description: 'Request timeout in milliseconds'
+        required: false
+        default: '15000'
+      strict_ssl:
+        description: 'Enable strict SSL validation'
+        required: false
+        type: boolean
+        default: false
+
+jobs:
+  validate-contacts:
+    runs-on: ubuntu-latest
+    
+    steps:
+    - name: Checkout repository
+      uses: actions/checkout@v3
+    
+    - name: Setup Node.js
+      uses: actions/setup-node@v3
+      with:
+        node-version: '18'
+    
+    - name: Display network info
+      run: |
+        echo "🌐 Network connectivity check"
+        curl -I https://www.google.com || echo "Network may be limited"
+        
+    - name: Run Network-Enabled Validation
+      id: validation
+      run: |
+        cd tech-support-directory
+        
+        TIMEOUT="${{ github.event.inputs.timeout || '15000' }}"
+        SSL_FLAG=""
+        
+        if [ "${{ github.event.inputs.strict_ssl }}" == "true" ]; then
+          SSL_FLAG="--strict-ssl"
+        fi
+        
+        echo "Running validation with timeout: ${TIMEOUT}ms"
+        
+        node scripts/network-validation.js \
+          --timeout ${TIMEOUT} \
+          --output-dir network-validation-reports \
+          --verbose \
+          ${SSL_FLAG}
+    
+    - name: Generate Summary
+      if: always()
+      run: |
+        cd tech-support-directory
+        
+        # Get the latest validation summary
+        LATEST_SUMMARY=$(ls -t network-validation-reports/validation-summary-*.md 2>/dev/null | head -1)
+        
+        if [ -f "$LATEST_SUMMARY" ]; then
+          echo "## Validation Results" >> $GITHUB_STEP_SUMMARY
+          cat "$LATEST_SUMMARY" >> $GITHUB_STEP_SUMMARY
+        fi
+    
+    - name: Check for Critical Issues
+      run: |
+        cd tech-support-directory
+        
+        # Get the latest phone validation report
+        LATEST_PHONE=$(ls -t network-validation-reports/phone-verification-*.json 2>/dev/null | head -1)
+        
+        if [ -f "$LATEST_PHONE" ]; then
+          node -e "
+            const fs = require('fs');
+            const report = JSON.parse(fs.readFileSync('$LATEST_PHONE'));
+            const summary = report.summary;
+            const invalidRate = (summary.invalid / summary.total) * 100;
+            
+            console.log('📊 Validation Statistics:');
+            console.log('   Total: ' + summary.total);
+            console.log('   Valid: ' + summary.valid + ' (' + summary.successRate + ')');
+            console.log('   Invalid: ' + summary.invalid);
+            console.log('   Invalid Rate: ' + invalidRate.toFixed(2) + '%');
+            
+            if (invalidRate > 5) {
+              console.error('');
+              console.error('❌ CRITICAL: Invalid rate exceeds 5%');
+              console.error('   Please review and fix invalid entries');
+              process.exit(1);
+            } else if (invalidRate > 2) {
+              console.warn('');
+              console.warn('⚠️  WARNING: Invalid rate exceeds 2%');
+              console.warn('   Consider reviewing invalid entries');
+            } else {
+              console.log('');
+              console.log('✅ Validation quality is excellent!');
+            }
+          "
+        fi
+    
+    - name: Upload Validation Reports
+      uses: actions/upload-artifact@v3
+      if: always()
+      with:
+        name: validation-reports-${{ github.run_number }}
+        path: tech-support-directory/network-validation-reports/
+        retention-days: 90
+    
+    - name: Create Issue on Failure
+      if: failure()
+      uses: actions/github-script@v6
+      with:
+        script: |
+          const fs = require('fs');
+          const path = require('path');
+          
+          // Try to read the latest validation summary
+          let body = '## Validation Failed\n\n';
+          body += 'The automated contact validation workflow has detected issues.\n\n';
+          body += 'Please review the validation reports in the workflow artifacts.\n\n';
+          
+          try {
+            const summaryPath = 'tech-support-directory/network-validation-reports';
+            const files = fs.readdirSync(summaryPath);
+            const summaryFile = files
+              .filter(f => f.startsWith('validation-summary-'))
+              .sort()
+              .reverse()[0];
+            
+            if (summaryFile) {
+              const content = fs.readFileSync(path.join(summaryPath, summaryFile), 'utf8');
+              body += '### Latest Validation Summary\n\n';
+              body += content;
+            }
+          } catch (error) {
+            body += 'Error reading validation summary: ' + error.message;
+          }
+          
+          github.rest.issues.create({
+            owner: context.repo.owner,
+            repo: context.repo.repo,
+            title: '⚠️ Contact Validation Failed',
+            body: body,
+            labels: ['validation', 'automated']
+          });

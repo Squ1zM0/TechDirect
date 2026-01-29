@@ -1,5 +1,5 @@
 {
-  "version": "2025-12-24",
+  "version": "2026-01-29",
   "manufacturers": [
     {
       "id": "a-o-smith",
@@ -49,7 +49,9 @@
       "id": "addison",
       "name": "Addison HVAC",
       "website": "https://www.addison-hvac.com/",
-      "categories": [],
+      "categories": [
+        "hvac"
+      ],
       "support": [
         {
           "category": "hvac",
@@ -69,7 +71,9 @@
       "id": "aerco",
       "name": "AERCO",
       "website": "https://www.aerco.com/",
-      "categories": [],
+      "categories": [
+        "hvac"
+      ],
       "support": [
         {
           "category": "hvac",
@@ -89,7 +93,9 @@
       "id": "airedale",
       "name": "Airedale by Modine",
       "website": "https://www.airedale.com/",
-      "categories": [],
+      "categories": [
+        "hvac"
+      ],
       "support": [
         {
           "category": "hvac",
@@ -109,7 +115,9 @@
       "id": "alfa-laval",
       "name": "Alfa Laval",
       "website": "https://www.alfalaval.us/",
-      "categories": [],
+      "categories": [
+        "hvac"
+      ],
       "support": [
         {
           "category": "hvac",
@@ -129,7 +137,9 @@
       "id": "amana-hac",
       "name": "Amana Heating & Air Conditioning",
       "website": "https://www.amana-hac.com/about-us/contact-us",
-      "categories": [],
+      "categories": [
+        "hvac"
+      ],
       "support": [
         {
           "category": "hvac",
@@ -149,7 +159,10 @@
       "id": "american-marsh",
       "name": "American-Marsh Pumps",
       "website": "https://wilo.com/us/en_us/",
-      "categories": [],
+      "categories": [
+        "hvac",
+        "plumbing"
+      ],
       "support": [
         {
           "category": "hvac",
@@ -213,7 +226,10 @@
       "id": "amtrol",
       "name": "AMTROL",
       "website": "https://www.amtrol.com/",
-      "categories": [],
+      "categories": [
+        "hvac",
+        "plumbing"
+      ],
       "support": [
         {
           "category": "hvac",
@@ -233,7 +249,9 @@
       "id": "anden",
       "name": "Anden",
       "website": "https://www.anden.com/",
-      "categories": [],
+      "categories": [
+        "hvac"
+      ],
       "support": [
         {
           "category": "hvac",
@@ -319,7 +337,9 @@
       "id": "aprilaire",
       "name": "AprilAire",
       "website": "https://www.aprilaire.com/",
-      "categories": [],
+      "categories": [
+        "hvac"
+      ],
       "support": [
         {
           "category": "hvac",
@@ -339,7 +359,9 @@
       "id": "armstrong-air",
       "name": "Armstrong Air",
       "website": "https://www.armstrongair.com/contact/",
-      "categories": [],
+      "categories": [
+        "hvac"
+      ],
       "support": [
         {
           "category": "hvac",
@@ -359,7 +381,9 @@
       "id": "armstrong-fluid-technology",
       "name": "Armstrong Fluid Technology",
       "website": "https://armstrongfluidtechnology.com/",
-      "categories": [],
+      "categories": [
+        "hvac"
+      ],
       "support": [
         {
           "category": "hvac",
@@ -379,7 +403,9 @@
       "id": "atmosair",
       "name": "AtmosAir Solutions",
       "website": "https://atmosair.com/",
-      "categories": [],
+      "categories": [
+        "hvac"
+      ],
       "support": [
         {
           "category": "hvac",
@@ -399,7 +425,9 @@
       "id": "baltimore-aircoil",
       "name": "Baltimore Aircoil Company (BAC)",
       "website": "https://baltimoreaircoil.com/",
-      "categories": [],
+      "categories": [
+        "hvac"
+      ],
       "support": [
         {
           "category": "hvac",
@@ -419,7 +447,9 @@
       "id": "bard",
       "name": "Bard HVAC",
       "website": "https://www.bardhvac.com/",
-      "categories": [],
+      "categories": [
+        "hvac"
+      ],
       "support": [
         {
           "category": "hvac",
@@ -439,7 +469,9 @@
       "id": "beckett",
       "name": "Beckett (R.W. Beckett)",
       "website": "https://beckettus.com/support/technical-support/",
-      "categories": [],
+      "categories": [
+        "hvac"
+      ],
       "support": [
         {
           "category": "hvac",
@@ -459,7 +491,9 @@
       "id": "belimo",
       "name": "Belimo",
       "website": "https://www.belimo.com/us/en_US/",
-      "categories": [],
+      "categories": [
+        "hvac"
+      ],
       "support": [
         {
           "category": "hvac",
@@ -479,7 +513,10 @@
       "id": "bell-gossett",
       "name": "Bell & Gossett (Xylem)",
       "website": "https://www.xylem.com/en-us/brands/bell-gossett/",
-      "categories": [],
+      "categories": [
+        "hvac",
+        "plumbing"
+      ],
       "support": [
         {
           "category": "hvac",
@@ -543,7 +580,9 @@
       "id": "bradford-white",
       "name": "Bradford White",
       "website": "https://www.bradfordwhite.com/",
-      "categories": [],
+      "categories": [
+        "hvac"
+      ],
       "support": [
         {
           "category": "hvac",
@@ -563,7 +602,9 @@
       "id": "bryant",
       "name": "Bryant",
       "website": "https://www.bryant.com/en/us/contact-us/",
-      "categories": [],
+      "categories": [
+        "hvac"
+      ],
       "support": [
         {
           "category": "hvac",
@@ -583,7 +624,9 @@
       "id": "buderus",
       "name": "Buderus (Bosch Thermotechnology)",
       "website": "https://www.buderus.com/en/home/usa-kanada/",
-      "categories": [],
+      "categories": [
+        "hvac"
+      ],
       "support": [
         {
           "category": "hvac",
@@ -603,7 +646,10 @@
       "id": "burnham-commercial",
       "name": "Burnham Commercial Boilers",
       "website": "https://www.burnhamcommercial.com/",
-      "categories": [],
+      "categories": [
+        "hvac",
+        "plumbing"
+      ],
       "support": [
         {
           "category": "hvac",
@@ -623,7 +669,9 @@
       "id": "burnham-hydronics",
       "name": "Burnham Hydronics",
       "website": "https://www.usboiler.net/",
-      "categories": [],
+      "categories": [
+        "hvac"
+      ],
       "support": [
         {
           "category": "hvac",
@@ -643,7 +691,9 @@
       "id": "caleffi",
       "name": "Caleffi North America",
       "website": "https://www.caleffi.com/en-us",
-      "categories": [],
+      "categories": [
+        "hvac"
+      ],
       "support": [
         {
           "category": "hvac",
@@ -663,7 +713,10 @@
       "id": "camfil",
       "name": "Camfil USA",
       "website": "https://www.camfil.com/en-us/",
-      "categories": [],
+      "categories": [
+        "hvac",
+        "airflow"
+      ],
       "support": [
         {
           "category": "hvac",
@@ -727,7 +780,9 @@
       "id": "carlin",
       "name": "Carlin Combustion",
       "website": "https://carlincombustion.com/contact-us/technical-support/",
-      "categories": [],
+      "categories": [
+        "hvac"
+      ],
       "support": [
         {
           "category": "hvac",
@@ -769,7 +824,10 @@
       "id": "cleaver-brooks",
       "name": "Cleaver-Brooks",
       "website": "https://cleaverbrooks.com/",
-      "categories": [],
+      "categories": [
+        "hvac",
+        "plumbing"
+      ],
       "support": [
         {
           "category": "hvac",
@@ -811,7 +869,9 @@
       "id": "clivet",
       "name": "Clivet (Mits Airconditioning Inc.)",
       "website": "https://www.clivet.us/",
-      "categories": [],
+      "categories": [
+        "hvac"
+      ],
       "support": [
         {
           "category": "hvac",
@@ -831,7 +891,9 @@
       "id": "colmac-coil",
       "name": "Colmac Coil",
       "website": "https://www.colmaccoil.com/",
-      "categories": [],
+      "categories": [
+        "hvac"
+      ],
       "support": [
         {
           "category": "hvac",
@@ -851,7 +913,9 @@
       "id": "columbia-boiler",
       "name": "Columbia Boiler Company",
       "website": "https://www.columbiaboiler.com/",
-      "categories": [],
+      "categories": [
+        "hvac"
+      ],
       "support": [
         {
           "category": "hvac",
@@ -864,6 +928,28 @@
           "specialty_tags": [],
           "notes": "Main company phone commonly used for service and support routing.",
           "source": "https://plumbingnet.com/columbia-boiler-co/"
+        }
+      ]
+    },
+    {
+      "id": "comfortmaker",
+      "name": "Comfortmaker",
+      "website": "https://www.comfortmaker.com/en/us/",
+      "categories": [
+        "hvac"
+      ],
+      "support": [
+        {
+          "category": "hvac",
+          "department": "Customer Service (ICP)",
+          "phone": "+18004586650",
+          "country": "US",
+          "regions": [],
+          "timezone": null,
+          "last_verified": "2026-01-29",
+          "specialty_tags": [],
+          "notes": "ICP customer service for Comfortmaker and related Carrier brands.",
+          "source": "https://www.icpusa.com/en/us/contact-us"
         }
       ]
     },
@@ -915,7 +1001,9 @@
       "id": "crown-boiler",
       "name": "Crown Boiler",
       "website": "https://www.velocityboilerworks.com/",
-      "categories": [],
+      "categories": [
+        "hvac"
+      ],
       "support": [
         {
           "category": "hvac",
@@ -935,7 +1023,9 @@
       "id": "daikin-applied",
       "name": "Daikin Applied",
       "website": "https://www.daikinapplied.com/",
-      "categories": [],
+      "categories": [
+        "hvac"
+      ],
       "support": [
         {
           "category": "hvac",
@@ -977,7 +1067,9 @@
       "id": "danfoss",
       "name": "Danfoss",
       "website": "https://www.danfoss.com/en-us/",
-      "categories": [],
+      "categories": [
+        "hvac"
+      ],
       "support": [
         {
           "category": "hvac",
@@ -997,7 +1089,9 @@
       "id": "data-aire",
       "name": "Data Aire",
       "website": "https://www.dataaire.com/",
-      "categories": [],
+      "categories": [
+        "hvac"
+      ],
       "support": [
         {
           "category": "hvac",
@@ -1017,7 +1111,9 @@
       "id": "dectron",
       "name": "Dectron",
       "website": "https://dectron.com/",
-      "categories": [],
+      "categories": [
+        "hvac"
+      ],
       "support": [
         {
           "category": "hvac",
@@ -1081,7 +1177,9 @@
       "id": "dunkirk",
       "name": "Dunkirk Boilers",
       "website": "https://dunkirk.com",
-      "categories": [],
+      "categories": [
+        "hvac"
+      ],
       "support": [
         {
           "category": "hvac",
@@ -1101,7 +1199,9 @@
       "id": "ebm-papst",
       "name": "ebm-papst USA",
       "website": "https://www.ebmpapst.com/us/en/support/contact.html",
-      "categories": [],
+      "categories": [
+        "hvac"
+      ],
       "support": [
         {
           "category": "hvac",
@@ -1121,7 +1221,9 @@
       "id": "emerson",
       "name": "Emerson",
       "website": "https://www.emerson.com/",
-      "categories": [],
+      "categories": [
+        "hvac"
+      ],
       "support": [
         {
           "category": "hvac",
@@ -1141,7 +1243,9 @@
       "id": "engineered-air-llc",
       "name": "Engineered Air, LLC",
       "website": "https://www.engineeredairllc.com/",
-      "categories": [],
+      "categories": [
+        "hvac"
+      ],
       "support": [
         {
           "category": "hvac",
@@ -1161,7 +1265,9 @@
       "id": "evapco",
       "name": "EVAPCO",
       "website": "https://www.evapco.com/",
-      "categories": [],
+      "categories": [
+        "hvac"
+      ],
       "support": [
         {
           "category": "hvac",
@@ -1181,7 +1287,9 @@
       "id": "fantech",
       "name": "Fantech",
       "website": "https://www.fantech.net/en-us/contact-and-support",
-      "categories": [],
+      "categories": [
+        "hvac"
+      ],
       "support": [
         {
           "category": "hvac",
@@ -1201,7 +1309,9 @@
       "id": "fenwal-controls",
       "name": "Fenwal Controls (Kidde-Fenwal)",
       "website": "https://www.kidde-esfire.com/Home/ContactUs",
-      "categories": [],
+      "categories": [
+        "hvac"
+      ],
       "support": [
         {
           "category": "hvac",
@@ -1221,7 +1331,10 @@
       "id": "fernox",
       "name": "Fernox",
       "website": "https://fernox.us/",
-      "categories": [],
+      "categories": [
+        "hvac",
+        "plumbing"
+      ],
       "support": [
         {
           "category": "hvac",
@@ -1241,7 +1354,9 @@
       "id": "field-controls",
       "name": "Field Controls",
       "website": "https://www.fieldcontrols.com/",
-      "categories": [],
+      "categories": [
+        "hvac"
+      ],
       "support": [
         {
           "category": "hvac",
@@ -1261,7 +1376,9 @@
       "id": "flaktgroup-semco",
       "name": "Fl\\xE4ktGroup SEMCO",
       "website": "https://www.semcohvac.com/",
-      "categories": [],
+      "categories": [
+        "hvac"
+      ],
       "support": [
         {
           "category": "hvac",
@@ -1281,7 +1398,9 @@
       "id": "flamco",
       "name": "Flamco",
       "website": "https://flamcogroup.us/",
-      "categories": [],
+      "categories": [
+        "hvac"
+      ],
       "support": [
         {
           "category": "hvac",
@@ -1301,7 +1420,9 @@
       "id": "flexcon",
       "name": "Flexcon",
       "website": "https://www.flexcon.com/",
-      "categories": [],
+      "categories": [
+        "hvac"
+      ],
       "support": [
         {
           "category": "hvac",
@@ -1343,7 +1464,9 @@
       "id": "fulton",
       "name": "Fulton",
       "website": "https://www.fulton.com/",
-      "categories": [],
+      "categories": [
+        "hvac"
+      ],
       "support": [
         {
           "category": "hvac",
@@ -1385,7 +1508,9 @@
       "id": "gree",
       "name": "GREE Comfort",
       "website": "https://www.greecomfort.com/on-site-tech-support/",
-      "categories": [],
+      "categories": [
+        "hvac"
+      ],
       "support": [
         {
           "category": "hvac",
@@ -1449,7 +1574,9 @@
       "id": "grundfos",
       "name": "Grundfos",
       "website": "https://www.grundfos.com/us",
-      "categories": [],
+      "categories": [
+        "hvac"
+      ],
       "support": [
         {
           "category": "hvac",
@@ -1513,7 +1640,9 @@
       "id": "heat-timer",
       "name": "Heat-Timer",
       "website": "https://www.heat-timer.com/",
-      "categories": [],
+      "categories": [
+        "hvac"
+      ],
       "support": [
         {
           "category": "hvac",
@@ -1577,7 +1706,9 @@
       "id": "hitachi",
       "name": "Hitachi Cooling & Heating",
       "website": "https://www.hitachiaircon.com/us/",
-      "categories": [],
+      "categories": [
+        "hvac"
+      ],
       "support": [
         {
           "category": "hvac",
@@ -1597,7 +1728,9 @@
       "id": "hoffman-controls",
       "name": "Hoffman Controls",
       "website": "https://www.hoffmancontrols.com/Contact%20Us/",
-      "categories": [],
+      "categories": [
+        "hvac"
+      ],
       "support": [
         {
           "category": "hvac",
@@ -1639,7 +1772,9 @@
       "id": "hubbell-water-heaters",
       "name": "Hubbell Water Heaters",
       "website": "https://hubbellheaters.com/",
-      "categories": [],
+      "categories": [
+        "hvac"
+      ],
       "support": [
         {
           "category": "hvac",
@@ -1659,7 +1794,9 @@
       "id": "hurst-boiler",
       "name": "Hurst Boiler",
       "website": "https://www.hurstboiler.com/",
-      "categories": [],
+      "categories": [
+        "hvac"
+      ],
       "support": [
         {
           "category": "hvac",
@@ -1679,7 +1816,10 @@
       "id": "hydro-thermal",
       "name": "Hydro-Thermal",
       "website": "https://www.hydro-thermal.com/",
-      "categories": [],
+      "categories": [
+        "hvac",
+        "plumbing"
+      ],
       "support": [
         {
           "category": "hvac",
@@ -1699,7 +1839,9 @@
       "id": "hydrolevel",
       "name": "Hydrolevel",
       "website": "https://hydrolevel.com/contact-us/",
-      "categories": [],
+      "categories": [
+        "hvac"
+      ],
       "support": [
         {
           "category": "hvac",
@@ -1719,7 +1861,9 @@
       "id": "ice-o-matic",
       "name": "Ice-O-Matic",
       "website": "https://www.iceomatic.com/",
-      "categories": [],
+      "categories": [
+        "hvac"
+      ],
       "support": [
         {
           "category": "hvac",
@@ -1739,7 +1883,9 @@
       "id": "icp",
       "name": "International Comfort Products (ICP)",
       "website": "https://www.icpusa.com/en/us/contact-us",
-      "categories": [],
+      "categories": [
+        "hvac"
+      ],
       "support": [
         {
           "category": "hvac",
@@ -1771,7 +1917,9 @@
       "id": "laars",
       "name": "Laars Heating Systems",
       "website": "https://www.laars.com/",
-      "categories": [],
+      "categories": [
+        "hvac"
+      ],
       "support": [
         {
           "category": "hvac",
@@ -1813,7 +1961,9 @@
       "id": "lochinvar",
       "name": "Lochinvar",
       "website": "https://www.lochinvar.com/en_US/contact.html",
-      "categories": [],
+      "categories": [
+        "hvac"
+      ],
       "support": [
         {
           "category": "hvac",
@@ -1833,7 +1983,10 @@
       "id": "loren-cook",
       "name": "Loren Cook Company",
       "website": "https://lorencook.com/",
-      "categories": [],
+      "categories": [
+        "airflow",
+        "hvac"
+      ],
       "support": [
         {
           "category": "hvac",
@@ -1875,7 +2028,9 @@
       "id": "marvair",
       "name": "Marvair",
       "website": "https://marvair.com/",
-      "categories": [],
+      "categories": [
+        "hvac"
+      ],
       "support": [
         {
           "category": "hvac",
@@ -1895,7 +2050,9 @@
       "id": "mcdonnell-miller",
       "name": "McDonnell & Miller",
       "website": "https://www.mcdonnellmiller.com/",
-      "categories": [],
+      "categories": [
+        "hvac"
+      ],
       "support": [
         {
           "category": "hvac",
@@ -1937,7 +2094,10 @@
       "id": "metraflex",
       "name": "Metraflex",
       "website": "https://www.metraflex.com/",
-      "categories": [],
+      "categories": [
+        "hvac",
+        "plumbing"
+      ],
       "support": [
         {
           "category": "hvac",
@@ -1957,7 +2117,9 @@
       "id": "midco-international",
       "name": "Midco International",
       "website": "https://midcointernational.com/contact-us/",
-      "categories": [],
+      "categories": [
+        "hvac"
+      ],
       "support": [
         {
           "category": "hvac",
@@ -2021,7 +2183,9 @@
       "id": "miura",
       "name": "Miura America",
       "website": "https://miuraboiler.com/contact/",
-      "categories": [],
+      "categories": [
+        "hvac"
+      ],
       "support": [
         {
           "category": "hvac",
@@ -2041,7 +2205,9 @@
       "id": "modine",
       "name": "Modine HVAC",
       "website": "https://www.modinehvac.com/resources/technical-support/",
-      "categories": [],
+      "categories": [
+        "hvac"
+      ],
       "support": [
         {
           "category": "hvac",
@@ -2061,7 +2227,9 @@
       "id": "movincool",
       "name": "MovinCool",
       "website": "https://www.movincool.com/",
-      "categories": [],
+      "categories": [
+        "hvac"
+      ],
       "support": [
         {
           "category": "hvac",
@@ -2125,7 +2293,9 @@
       "id": "nailor",
       "name": "Nailor Industries",
       "website": "https://nailor.com/contact-us",
-      "categories": [],
+      "categories": [
+        "hvac"
+      ],
       "support": [
         {
           "category": "hvac",
@@ -2145,7 +2315,9 @@
       "id": "navien",
       "name": "Navien",
       "website": "https://www.navieninc.com/support",
-      "categories": [],
+      "categories": [
+        "hvac"
+      ],
       "support": [
         {
           "category": "hvac",
@@ -2165,7 +2337,9 @@
       "id": "neptronic",
       "name": "Neptronic",
       "website": "https://www.neptronic.com/",
-      "categories": [],
+      "categories": [
+        "hvac"
+      ],
       "support": [
         {
           "category": "hvac",
@@ -2185,7 +2359,9 @@
       "id": "new-yorker-boiler",
       "name": "New Yorker Boiler",
       "website": "https://newyorkerboiler.com/",
-      "categories": [],
+      "categories": [
+        "hvac"
+      ],
       "support": [
         {
           "category": "hvac",
@@ -2205,7 +2381,9 @@
       "id": "nordyne",
       "name": "Nordyne",
       "website": "https://www.nordyne.com/contact/",
-      "categories": [],
+      "categories": [
+        "hvac"
+      ],
       "support": [
         {
           "category": "hvac",
@@ -2247,7 +2425,10 @@
       "id": "nti-boilers",
       "name": "NTI Boilers",
       "website": "https://ntiboilers.com/",
-      "categories": [],
+      "categories": [
+        "hvac",
+        "plumbing"
+      ],
       "support": [
         {
           "category": "hvac",
@@ -2267,7 +2448,9 @@
       "id": "panasonic",
       "name": "Panasonic HVAC / IAQ",
       "website": "https://iaq.na.panasonic.com/hvac",
-      "categories": [],
+      "categories": [
+        "hvac"
+      ],
       "support": [
         {
           "category": "hvac",
@@ -2287,7 +2470,9 @@
       "id": "patterson-kelley",
       "name": "Patterson-Kelley",
       "website": "https://www.pattersonkelley.com/",
-      "categories": [],
+      "categories": [
+        "hvac"
+      ],
       "support": [
         {
           "category": "hvac",
@@ -2304,10 +2489,34 @@
       ]
     },
     {
+      "id": "payne",
+      "name": "Payne HVAC",
+      "website": "https://www.payne.com/en/us/",
+      "categories": [
+        "hvac"
+      ],
+      "support": [
+        {
+          "category": "hvac",
+          "department": "Technical Support",
+          "phone": "+18884172963",
+          "country": "US",
+          "regions": [],
+          "timezone": null,
+          "last_verified": "2026-01-29",
+          "specialty_tags": [],
+          "notes": "Payne HVAC technical support (Carrier brand).",
+          "source": "https://www.payne.com/en/us/contact-us"
+        }
+      ]
+    },
+    {
       "id": "pb-heat",
       "name": "PB Heat (Peerless Boilers)",
       "website": "https://www.peerlessboilers.com/",
-      "categories": [],
+      "categories": [
+        "hvac"
+      ],
       "support": [
         {
           "category": "hvac",
@@ -2327,7 +2536,10 @@
       "id": "peerless-pump",
       "name": "Peerless Pump",
       "website": "https://www.peerlesspump.com/",
-      "categories": [],
+      "categories": [
+        "hvac",
+        "plumbing"
+      ],
       "support": [
         {
           "category": "hvac",
@@ -2347,7 +2559,9 @@
       "id": "pennbarry",
       "name": "PennBarry",
       "website": "https://www.pennbarry.com/",
-      "categories": [],
+      "categories": [
+        "hvac"
+      ],
       "support": [
         {
           "category": "hvac",
@@ -2367,7 +2581,10 @@
       "id": "plad",
       "name": "Plad",
       "website": "https://wilo.com/us/en_us/",
-      "categories": [],
+      "categories": [
+        "hvac",
+        "plumbing"
+      ],
       "support": [
         {
           "category": "hvac",
@@ -2387,7 +2604,9 @@
       "id": "plasma-air",
       "name": "Plasma Air",
       "website": "https://www.plasma-air.com/",
-      "categories": [],
+      "categories": [
+        "hvac"
+      ],
       "support": [
         {
           "category": "hvac",
@@ -2407,7 +2626,9 @@
       "id": "precision-boilers",
       "name": "Precision Boilers",
       "website": "https://precisionboilers.com/contact/",
-      "categories": [],
+      "categories": [
+        "hvac"
+      ],
       "support": [
         {
           "category": "hvac",
@@ -2427,7 +2648,9 @@
       "id": "price-industries",
       "name": "Price Industries",
       "website": "https://www.priceindustries.com/contact/product-support",
-      "categories": [],
+      "categories": [
+        "hvac"
+      ],
       "support": [
         {
           "category": "hvac",
@@ -2447,7 +2670,9 @@
       "id": "pvi",
       "name": "PVI",
       "website": "https://www.pvi.com/",
-      "categories": [],
+      "categories": [
+        "hvac"
+      ],
       "support": [
         {
           "category": "hvac",
@@ -2467,7 +2692,10 @@
       "id": "quantumflo",
       "name": "QuantumFlo",
       "website": "https://wilo.com/us/en_us/",
-      "categories": [],
+      "categories": [
+        "hvac",
+        "plumbing"
+      ],
       "support": [
         {
           "category": "hvac",
@@ -2487,7 +2715,9 @@
       "id": "raypak",
       "name": "Raypak",
       "website": "https://www.raypak.com/",
-      "categories": [],
+      "categories": [
+        "hvac"
+      ],
       "support": [
         {
           "category": "hvac",
@@ -2507,7 +2737,9 @@
       "id": "rbi-water-heaters",
       "name": "RBI",
       "website": "https://www.rbiwaterheaters.com/",
-      "categories": [],
+      "categories": [
+        "hvac"
+      ],
       "support": [
         {
           "category": "hvac",
@@ -2527,7 +2759,10 @@
       "id": "rectorseal",
       "name": "RectorSeal",
       "website": "https://rectorseal.com/",
-      "categories": [],
+      "categories": [
+        "hvac",
+        "plumbing"
+      ],
       "support": [
         {
           "category": "hvac",
@@ -2569,7 +2804,9 @@
       "id": "resideo",
       "name": "Resideo",
       "website": "https://www.resideo.com/us/en/",
-      "categories": [],
+      "categories": [
+        "hvac"
+      ],
       "support": [
         {
           "category": "hvac",
@@ -2589,7 +2826,9 @@
       "id": "reznor",
       "name": "Reznor",
       "website": "https://www.reznorhvac.com/where-to-buy-reznor/usa-southeast/",
-      "categories": [],
+      "categories": [
+        "hvac"
+      ],
       "support": [
         {
           "category": "hvac",
@@ -2631,7 +2870,9 @@
       "id": "riello",
       "name": "Riello North America",
       "website": "https://www.riello.com/north-america",
-      "categories": [],
+      "categories": [
+        "hvac"
+      ],
       "support": [
         {
           "category": "hvac",
@@ -2663,7 +2904,9 @@
       "id": "rinnai",
       "name": "Rinnai",
       "website": "https://www.rinnai.us/professional/techsupport",
-      "categories": [],
+      "categories": [
+        "hvac"
+      ],
       "support": [
         {
           "category": "hvac",
@@ -2683,7 +2926,9 @@
       "id": "ruskin",
       "name": "Ruskin",
       "website": "https://www.ruskin.com/About-Us/Contact-Ruskin",
-      "categories": [],
+      "categories": [
+        "hvac"
+      ],
       "support": [
         {
           "category": "hvac",
@@ -2703,7 +2948,9 @@
       "id": "ruud",
       "name": "Ruud",
       "website": "https://www.ruud.com/",
-      "categories": [],
+      "categories": [
+        "hvac"
+      ],
       "support": [
         {
           "category": "hvac",
@@ -2723,7 +2970,9 @@
       "id": "samsung-hvac",
       "name": "Samsung HVAC",
       "website": "https://www.samsunghvac.com/about",
-      "categories": [],
+      "categories": [
+        "hvac"
+      ],
       "support": [
         {
           "category": "hvac",
@@ -2743,7 +2992,10 @@
       "id": "scot-pump",
       "name": "Scot Pump",
       "website": "https://wilo.com/us/en_us/",
-      "categories": [],
+      "categories": [
+        "hvac",
+        "plumbing"
+      ],
       "support": [
         {
           "category": "hvac",
@@ -2785,7 +3037,9 @@
       "id": "slant-fin",
       "name": "Slant/Fin",
       "website": "https://www.slantfin.com/",
-      "categories": [],
+      "categories": [
+        "hvac"
+      ],
       "support": [
         {
           "category": "hvac",
@@ -2827,7 +3081,9 @@
       "id": "spacepak",
       "name": "SpacePak",
       "website": "https://www.spacepak.com/",
-      "categories": [],
+      "categories": [
+        "hvac"
+      ],
       "support": [
         {
           "category": "hvac",
@@ -2847,7 +3103,9 @@
       "id": "spirax-sarco",
       "name": "Spirax Sarco",
       "website": "https://www.spiraxsarco.com/global/en-US/contact-us",
-      "categories": [],
+      "categories": [
+        "hvac"
+      ],
       "support": [
         {
           "category": "hvac",
@@ -2867,7 +3125,9 @@
       "id": "spirotherm",
       "name": "Spirotherm",
       "website": "https://www.spirotherm.com/",
-      "categories": [],
+      "categories": [
+        "hvac"
+      ],
       "support": [
         {
           "category": "hvac",
@@ -2887,7 +3147,9 @@
       "id": "spx-cooling-technologies",
       "name": "SPX Cooling Technologies (Marley)",
       "website": "https://spxcooling.com/",
-      "categories": [],
+      "categories": [
+        "hvac"
+      ],
       "support": [
         {
           "category": "hvac",
@@ -2907,7 +3169,9 @@
       "id": "stiebel-eltron",
       "name": "Stiebel Eltron USA",
       "website": "https://www.stiebel-eltron-usa.com/contact-us",
-      "categories": [],
+      "categories": [
+        "hvac"
+      ],
       "support": [
         {
           "category": "hvac",
@@ -2949,7 +3213,9 @@
       "id": "suntec",
       "name": "Suntec Industries",
       "website": "https://www.suntecindustries.com/contact/",
-      "categories": [],
+      "categories": [
+        "hvac"
+      ],
       "support": [
         {
           "category": "hvac",
@@ -2969,7 +3235,9 @@
       "id": "superior-boiler",
       "name": "Superior Boiler",
       "website": "https://www.superiorboiler.com/",
-      "categories": [],
+      "categories": [
+        "hvac"
+      ],
       "support": [
         {
           "category": "hvac",
@@ -2989,7 +3257,10 @@
       "id": "systemair",
       "name": "Systemair USA",
       "website": "https://www.systemair.com/en-us/",
-      "categories": [],
+      "categories": [
+        "hvac",
+        "airflow"
+      ],
       "support": [
         {
           "category": "hvac",
@@ -3009,7 +3280,10 @@
       "id": "taco-hydroflo",
       "name": "Taco Hydroflo Pump Solutions",
       "website": "https://www.hydroflopumps.com/",
-      "categories": [],
+      "categories": [
+        "hvac",
+        "plumbing"
+      ],
       "support": [
         {
           "category": "hvac",
@@ -3073,7 +3347,9 @@
       "id": "tekmar",
       "name": "tekmar Control Systems (Watts)",
       "website": "https://www.watts.com/our-story/brands/tekmar",
-      "categories": [],
+      "categories": [
+        "hvac"
+      ],
       "support": [
         {
           "category": "hvac",
@@ -3093,7 +3369,9 @@
       "id": "temtrol",
       "name": "Temtrol",
       "website": "https://portal.temtrol.com/",
-      "categories": [],
+      "categories": [
+        "hvac"
+      ],
       "support": [
         {
           "category": "hvac",
@@ -3113,7 +3391,9 @@
       "id": "therma-stor",
       "name": "Therma-Stor",
       "website": "https://thermastor.com/",
-      "categories": [],
+      "categories": [
+        "hvac"
+      ],
       "support": [
         {
           "category": "hvac",
@@ -3133,7 +3413,9 @@
       "id": "titus-hvac",
       "name": "Titus HVAC",
       "website": "https://www.titus-hvac.com/main/contact",
-      "categories": [],
+      "categories": [
+        "hvac"
+      ],
       "support": [
         {
           "category": "hvac",
@@ -3175,7 +3457,9 @@
       "id": "tranter",
       "name": "Tranter",
       "website": "https://www.tranter.com/",
-      "categories": [],
+      "categories": [
+        "hvac"
+      ],
       "support": [
         {
           "category": "hvac",
@@ -3195,7 +3479,9 @@
       "id": "triangle-tube",
       "name": "Triangle Tube",
       "website": "https://triangletube.com/",
-      "categories": [],
+      "categories": [
+        "hvac"
+      ],
       "support": [
         {
           "category": "hvac",
@@ -3215,7 +3501,10 @@
       "id": "twin-city-fan",
       "name": "Twin City Fan & Blower",
       "website": "https://www.tcf.com/",
-      "categories": [],
+      "categories": [
+        "airflow",
+        "hvac"
+      ],
       "support": [
         {
           "category": "hvac",
@@ -3235,7 +3524,9 @@
       "id": "unico",
       "name": "The Unico System",
       "website": "https://unicosystem.com/",
-      "categories": [],
+      "categories": [
+        "hvac"
+      ],
       "support": [
         {
           "category": "hvac",
@@ -3255,7 +3546,10 @@
       "id": "uponor",
       "name": "Uponor North America",
       "website": "https://www.uponor.com/en-us",
-      "categories": [],
+      "categories": [
+        "hvac",
+        "plumbing"
+      ],
       "support": [
         {
           "category": "hvac",
@@ -3275,7 +3569,9 @@
       "id": "us-boiler",
       "name": "U.S. Boiler Company",
       "website": "https://www.usboiler.net/",
-      "categories": [],
+      "categories": [
+        "hvac"
+      ],
       "support": [
         {
           "category": "hvac",
@@ -3295,7 +3591,10 @@
       "id": "utica-boilers",
       "name": "Utica Boilers",
       "website": "https://uticaboilers.com/",
-      "categories": [],
+      "categories": [
+        "hvac",
+        "plumbing"
+      ],
       "support": [
         {
           "category": "hvac",
@@ -3315,7 +3614,9 @@
       "id": "valent-air",
       "name": "Valent Air",
       "website": "https://www.valentair.com/",
-      "categories": [],
+      "categories": [
+        "hvac"
+      ],
       "support": [
         {
           "category": "hvac",
@@ -3335,7 +3636,9 @@
       "id": "valent",
       "name": "Valent Air",
       "website": "https://www.valentair.com/",
-      "categories": [],
+      "categories": [
+        "hvac"
+      ],
       "support": [
         {
           "category": "hvac",
@@ -3355,7 +3658,9 @@
       "id": "velocity-boiler-works",
       "name": "Velocity Boiler Works",
       "website": "https://www.velocityboilerworks.com/",
-      "categories": [],
+      "categories": [
+        "hvac"
+      ],
       "support": [
         {
           "category": "hvac",
@@ -3441,7 +3746,9 @@
       "id": "vilter",
       "name": "Vilter (Copeland)",
       "website": "https://www.copeland.com/en-us/brands/vilter",
-      "categories": [],
+      "categories": [
+        "hvac"
+      ],
       "support": [
         {
           "category": "hvac",
@@ -3505,7 +3812,10 @@
       "id": "watts",
       "name": "Watts",
       "website": "https://www.watts.com/",
-      "categories": [],
+      "categories": [
+        "hvac",
+        "plumbing"
+      ],
       "support": [
         {
           "category": "hvac",
@@ -3525,7 +3835,9 @@
       "id": "weil-mclain",
       "name": "Weil-McLain",
       "website": "https://www.weil-mclain.com/contact-us/",
-      "categories": [],
+      "categories": [
+        "hvac"
+      ],
       "support": [
         {
           "category": "hvac",
@@ -3545,7 +3857,10 @@
       "id": "weil-pump",
       "name": "Weil Pump",
       "website": "https://wilo.com/weil/en_us/",
-      "categories": [],
+      "categories": [
+        "hvac",
+        "plumbing"
+      ],
       "support": [
         {
           "category": "hvac",
@@ -3565,7 +3880,9 @@
       "id": "wessels",
       "name": "Wessels Company",
       "website": "https://www.westank.com/",
-      "categories": [],
+      "categories": [
+        "hvac"
+      ],
       "support": [
         {
           "category": "hvac",
@@ -3585,7 +3902,9 @@
       "id": "white-rodgers",
       "name": "White-Rodgers (Copeland)",
       "website": "https://www.copeland.com/en-us/brands/white-rodgers",
-      "categories": [],
+      "categories": [
+        "hvac"
+      ],
       "support": [
         {
           "category": "hvac",
@@ -3605,7 +3924,9 @@
       "id": "wilo",
       "name": "Wilo USA",
       "website": "https://wilo.com/us/en_us/About-Wilo/Contact-Us/",
-      "categories": [],
+      "categories": [
+        "hvac"
+      ],
       "support": [
         {
           "category": "hvac",
@@ -3647,7 +3968,9 @@
       "id": "ziehl-abegg",
       "name": "ZIEHL-ABEGG USA",
       "website": "https://career.ziehl-abegg.us/inside-ziehl-abegg/our-leadership",
-      "categories": [],
+      "categories": [
+        "hvac"
+      ],
       "support": [
         {
           "category": "hvac",

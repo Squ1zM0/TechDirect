@@ -1,0 +1,16 @@
+id: comfortmaker
+name: Comfortmaker
+website: https://www.comfortmaker.com/en/us/
+categories:
+- hvac
+aliases:
+- Comfortmaker HVAC
+- ICP Comfortmaker
+support:
+- category: hvac
+  department: Customer Service (ICP)
+  phone: "+18004586650"
+  country: US
+  notes: ICP customer service for Comfortmaker and related Carrier brands.
+  source: https://www.icpusa.com/en/us/contact-us
+  last_verified: '2026-01-29'

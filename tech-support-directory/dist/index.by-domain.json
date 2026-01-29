@@ -1,5 +1,5 @@
 {
-  "version": "2025-12-24",
+  "version": "2026-01-29",
   "byDomain": {
     "hvac": [
       {
@@ -631,6 +631,20 @@
         "specialty_tags": [],
         "notes": "Main company phone commonly used for service and support routing.",
         "source": "https://plumbingnet.com/columbia-boiler-co/"
+      },
+      {
+        "manufacturer_id": "comfortmaker",
+        "manufacturer_name": "Comfortmaker",
+        "category": "hvac",
+        "department": "Customer Service (ICP)",
+        "phone": "+18004586650",
+        "country": "US",
+        "regions": [],
+        "timezone": null,
+        "last_verified": "2026-01-29",
+        "specialty_tags": [],
+        "notes": "ICP customer service for Comfortmaker and related Carrier brands.",
+        "source": "https://www.icpusa.com/en/us/contact-us"
       },
       {
         "manufacturer_id": "condair",
@@ -1625,6 +1639,20 @@
         "specialty_tags": [],
         "notes": "Toll-free support; technical service number also listed on manuals.",
         "source": "https://www.pattersonkelley.com/support/customer-support/"
+      },
+      {
+        "manufacturer_id": "payne",
+        "manufacturer_name": "Payne HVAC",
+        "category": "hvac",
+        "department": "Technical Support",
+        "phone": "+18884172963",
+        "country": "US",
+        "regions": [],
+        "timezone": null,
+        "last_verified": "2026-01-29",
+        "specialty_tags": [],
+        "notes": "Payne HVAC technical support (Carrier brand).",
+        "source": "https://www.payne.com/en/us/contact-us"
       },
       {
         "manufacturer_id": "pb-heat",
@@ -2973,6 +3001,20 @@
         "source": "brizo.com customer support page"
       },
       {
+        "manufacturer_id": "brondell",
+        "manufacturer_name": "Brondell",
+        "category": "plumbing",
+        "department": "Technical Support",
+        "phone": "+18885423355",
+        "country": "US",
+        "regions": [],
+        "timezone": "America/Los_Angeles",
+        "last_verified": "2026-01-29",
+        "specialty_tags": [],
+        "notes": "Brondell technical support for bidet toilets and smart bathroom products.",
+        "source": "https://help.brondell.com/hc/en-us"
+      },
+      {
         "manufacturer_id": "burcam",
         "manufacturer_name": "Burcam",
         "category": "plumbing",
@@ -3601,6 +3643,20 @@
         "specialty_tags": [],
         "notes": "Customer service / technical support line for IPS plumbing products.",
         "source": "ipsplumbingproducts.com contact page"
+      },
+      {
+        "manufacturer_id": "jacuzzi",
+        "manufacturer_name": "Jacuzzi",
+        "category": "plumbing",
+        "department": "Customer Service & Technical Support",
+        "phone": "+18446026064",
+        "country": "US",
+        "regions": [],
+        "timezone": "America/Los_Angeles",
+        "last_verified": "2026-01-29",
+        "specialty_tags": [],
+        "notes": "Jacuzzi customer service and technical support for bath, whirlpool, and plumbing products.",
+        "source": "https://www.jacuzzi.com/en-us/contactus.html"
       },
       {
         "manufacturer_id": "jay-r-smith",

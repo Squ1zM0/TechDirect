@@ -1,890 +1,3415 @@
 {
-  "version": "2025.12.25",
-  "shard": "us-plumbing",
-  "generatedAt": "2025-12-25T00:00:00.000Z",
-  "generated_at": "2025-12-25T00:00:00.000Z",
+  "version": "2026-01-29",
   "manufacturers": [
-    {
-      "id": "ay-mcdonald",
-      "name": "A.Y. McDonald",
-      "website": "https://www.aymcdonald.com/en/content/contact-us",
-      "supportCount": 1
-    },
     {
       "id": "aalberts-ips",
       "name": "Aalberts integrated piping systems (Apollo Valves)",
       "website": "https://aalberts-ips.us/contact/",
-      "supportCount": 1
+      "categories": [
+        "plumbing"
+      ],
+      "support": [
+        {
+          "category": "plumbing",
+          "department": "Customer Service / Product Support",
+          "phone": "+17048416000",
+          "country": "US",
+          "regions": [],
+          "timezone": null,
+          "last_verified": "2025-12-24",
+          "specialty_tags": [],
+          "notes": "Aalberts IPS customer service contact for Apollo valves and related piping",
+          "source": "aalberts-ips.us contact page"
+        }
+      ]
     },
     {
       "id": "ab-i-foundry",
       "name": "AB&I Foundry (McWane)",
       "website": "https://www.abifoundry.com/contact-us/",
-      "supportCount": 1
+      "categories": [
+        "plumbing"
+      ],
+      "support": [
+        {
+          "category": "plumbing",
+          "department": "Customer Service / Inside Sales",
+          "phone": "+18004684766",
+          "country": "US",
+          "regions": [],
+          "timezone": null,
+          "last_verified": "2025-12-25",
+          "specialty_tags": [],
+          "notes": "AB&I Foundry main line (800-GOT-IRON).",
+          "source": "abifoundry.com contact-us page"
+        }
+      ]
     },
     {
       "id": "aco-drain",
       "name": "ACO Drain",
       "website": "https://acoswm.com/technical-support/",
-      "supportCount": 1
+      "categories": [
+        "plumbing"
+      ],
+      "support": [
+        {
+          "category": "plumbing",
+          "department": "Technical Support",
+          "phone": "+18884909552",
+          "country": "US",
+          "regions": [],
+          "timezone": null,
+          "last_verified": "2025-12-25",
+          "specialty_tags": [],
+          "notes": "Technical Support contact number listed on ACO technical support page.",
+          "source": "acoswm.com technical support page"
+        }
+      ]
     },
     {
       "id": "acorn-engineering",
       "name": "Acorn Engineering",
       "website": "https://www.acorneng.com/~/contact-us",
-      "supportCount": 2
+      "categories": [
+        "plumbing"
+      ],
+      "support": [
+        {
+          "category": "plumbing",
+          "department": "Customer Service / Tech Support",
+          "phone": "+18004888999",
+          "country": "US",
+          "regions": [],
+          "timezone": null,
+          "last_verified": "2025-12-25",
+          "specialty_tags": [],
+          "notes": "Toll-free customer service number listed on Acorn Engineering contact page;",
+          "source": "acorneng.com contact page"
+        },
+        {
+          "category": "plumbing",
+          "department": "Tech Support (main line)",
+          "phone": "+16263364561",
+          "country": "US",
+          "regions": [],
+          "timezone": null,
+          "last_verified": "2025-12-25",
+          "specialty_tags": [],
+          "notes": "Main telephone number listed on troubleshooting/website footer; can route",
+          "source": "acorneng.com troubleshooting page"
+        }
+      ]
     },
     {
       "id": "acornvac",
       "name": "AcornVac",
       "website": "https://www.acornvac.com/contact-us",
-      "supportCount": 2
+      "categories": [
+        "plumbing"
+      ],
+      "support": [
+        {
+          "category": "plumbing",
+          "department": "Quotation / Design / Installation Support",
+          "phone": "+18005919920",
+          "country": "US",
+          "regions": [],
+          "timezone": null,
+          "last_verified": "2025-12-25",
+          "specialty_tags": [],
+          "notes": "Contact page lists quotation/design/installation support line.",
+          "source": "acornvac.com contact page"
+        },
+        {
+          "category": "plumbing",
+          "department": "System Operation Support",
+          "phone": "+18005919411",
+          "country": "US",
+          "regions": [],
+          "timezone": null,
+          "last_verified": "2025-12-25",
+          "specialty_tags": [],
+          "notes": "Contact page lists system operation support (option #1).",
+          "source": "acornvac.com contact page"
+        }
+      ]
     },
     {
       "id": "advance-tabco",
       "name": "Advance Tabco",
       "website": "https://advancetabco.com/contact_us.asp",
-      "supportCount": 1
-    },
-    {
-      "id": "american-standard",
-      "name": "American Standard",
-      "website": "https://www.americanstandard-us.com/pages/contact-us",
-      "supportCount": 1
+      "categories": [
+        "plumbing"
+      ],
+      "support": [
+        {
+          "category": "plumbing",
+          "department": "Product Support / Customer Service",
+          "phone": "+18006453166",
+          "country": "US",
+          "regions": [],
+          "timezone": null,
+          "last_verified": "2025-12-25",
+          "specialty_tags": [],
+          "notes": "Advance Tabco product support; call the toll-free support line.",
+          "source": "advancetabco.com contact us page"
+        }
+      ]
     },
     {
       "id": "american-standard-plumbing",
       "name": "American Standard (Plumbing)",
       "website": "https://www.americanstandard-us.com/pages/contact-us",
-      "supportCount": 2
+      "categories": [
+        "plumbing"
+      ],
+      "support": [
+        {
+          "category": "plumbing",
+          "department": "Technical Support / Warranty (Consumers & Pros)",
+          "phone": "+18558150004",
+          "country": "US",
+          "regions": [],
+          "timezone": null,
+          "last_verified": "2025-12-24",
+          "specialty_tags": [],
+          "notes": "Support line explicitly for consumers and professionals (technical + warranty).",
+          "source": "americanstandard-us.com contact us page"
+        },
+        {
+          "category": "plumbing",
+          "department": "Wholesaler/Trade Support",
+          "phone": "+18004421902",
+          "country": "US",
+          "regions": [],
+          "timezone": null,
+          "last_verified": "2025-12-24",
+          "specialty_tags": [],
+          "notes": "Trade/wholesale account support line.",
+          "source": "americanstandard-us.com contact us page"
+        }
+      ]
+    },
+    {
+      "id": "american-standard",
+      "name": "American Standard",
+      "website": "https://www.americanstandard-us.com/pages/contact-us",
+      "categories": [
+        "plumbing"
+      ],
+      "support": [
+        {
+          "category": "plumbing",
+          "department": "Technical Product / Warranty Support",
+          "phone": "+18558150004",
+          "country": "US",
+          "regions": [],
+          "timezone": null,
+          "last_verified": "2025-12-25",
+          "specialty_tags": [],
+          "notes": "American Standard phone support for consumers and professionals (technical/warranty",
+          "source": "americanstandard-us.com contact us page"
+        }
+      ]
     },
     {
       "id": "ames-fire-and-waterworks",
       "name": "Ames Fire & Waterworks",
       "website": "https://www.watts.com/our-story/brands/ames-fire-and-waterworks",
-      "supportCount": 1
+      "categories": [
+        "plumbing"
+      ],
+      "support": [
+        {
+          "category": "plumbing",
+          "department": "Technical Support (via Watts)",
+          "phone": "+19786896066",
+          "country": "US",
+          "regions": [],
+          "timezone": null,
+          "last_verified": "2025-12-25",
+          "specialty_tags": [],
+          "notes": "Watts support line for Plumbing/Heating/Drainage (press 2 for product selection/technical",
+          "source": "watts.com support page"
+        }
+      ]
     },
     {
       "id": "amt-pumps",
       "name": "AMT Pump Company",
       "website": "https://amtpumps.com/site/contact-us/",
-      "supportCount": 1
+      "categories": [
+        "plumbing"
+      ],
+      "support": [
+        {
+          "category": "plumbing",
+          "department": "Technical Support / Sales",
+          "phone": "+18882687867",
+          "country": "US",
+          "regions": [],
+          "timezone": null,
+          "last_verified": "2025-12-25",
+          "specialty_tags": [],
+          "notes": "Main AMT Pump Company phone (888-AMT-PUMP).",
+          "source": "amtpumps.com contact page"
+        }
+      ]
     },
     {
       "id": "anvil",
       "name": "Anvil (ASC Engineered Solutions)",
       "website": "https://www.asc-es.com/brand/anvil",
-      "supportCount": 1
+      "categories": [
+        "plumbing",
+        "hydronics"
+      ],
+      "support": [
+        {
+          "category": "plumbing",
+          "department": "Customer Service",
+          "phone": "+18003012701",
+          "country": "US",
+          "regions": [],
+          "timezone": null,
+          "last_verified": "2025-12-25",
+          "specialty_tags": [],
+          "notes": "ASC Engineered Solutions customer service for Anvil brand.",
+          "source": "https://www.asc-es.com/company/locations"
+        }
+      ]
     },
     {
       "id": "apollo-valves",
       "name": "Apollo Valves",
       "website": "https://aalberts-ips.us/products/apollo-valves/",
-      "supportCount": 1
+      "categories": [
+        "plumbing"
+      ],
+      "support": [
+        {
+          "category": "plumbing",
+          "department": "Customer Service / Technical Support",
+          "phone": "+17048416000",
+          "country": "US",
+          "regions": [],
+          "timezone": null,
+          "last_verified": "2025-12-24",
+          "specialty_tags": [],
+          "notes": "Customer service line for Aalberts IPS / Apollo Valves.",
+          "source": "https://aalberts-ips.us/contact/"
+        }
+      ]
     },
     {
       "id": "ariston",
       "name": "Ariston (USA)",
       "website": "https://us.shop.ariston.com/",
-      "supportCount": 1
+      "categories": [
+        "plumbing"
+      ],
+      "support": [
+        {
+          "category": "plumbing",
+          "department": "Tech Support",
+          "phone": "+18003239651",
+          "country": "US",
+          "regions": [],
+          "timezone": null,
+          "last_verified": "2025-12-25",
+          "specialty_tags": [],
+          "notes": "Ariston USA tech support line (water heating products).",
+          "source": "us.shop.ariston.com contact page"
+        }
+      ]
+    },
+    {
+      "id": "ay-mcdonald",
+      "name": "A.Y. McDonald",
+      "website": "https://www.aymcdonald.com/en/content/contact-us",
+      "categories": [
+        "plumbing"
+      ],
+      "support": [
+        {
+          "category": "plumbing",
+          "department": "Customer Service",
+          "phone": "+18002922737",
+          "country": "US",
+          "regions": [],
+          "timezone": null,
+          "last_verified": "2025-12-24",
+          "specialty_tags": [],
+          "notes": "Customer service for product assistance (includes plumbing line).",
+          "source": "aymcdonald.com contact us page"
+        }
+      ]
     },
     {
       "id": "badger-meter",
       "name": "Badger Meter",
       "website": "https://www.badgermeter.com/contact-us/",
-      "supportCount": 1
+      "categories": [
+        "plumbing"
+      ],
+      "support": [
+        {
+          "category": "plumbing",
+          "department": "Customer Service / Technical Support",
+          "phone": "+18006163837",
+          "country": "US",
+          "regions": [],
+          "timezone": null,
+          "last_verified": "2025-12-25",
+          "specialty_tags": [],
+          "notes": "Badger Meter support line listed for customer service and technical support.",
+          "source": "https://www.badgermeter.com/contact-us/"
+        }
+      ]
     },
     {
       "id": "basement-watchdog",
       "name": "Basement Watchdog",
       "website": "https://basementwatchdog.com/",
-      "supportCount": 1
+      "categories": [
+        "plumbing"
+      ],
+      "support": [
+        {
+          "category": "plumbing",
+          "department": "Tech Support",
+          "phone": "+18009910466",
+          "country": "US",
+          "regions": [],
+          "timezone": null,
+          "last_verified": "2025-12-25",
+          "specialty_tags": [],
+          "notes": "Call and choose tech support (Option 3).",
+          "source": "basementwatchdog.com contact page"
+        }
+      ]
     },
     {
       "id": "berkeley-pumps",
       "name": "Berkeley Pumps (Pentair)",
       "website": "https://www.pentair.com/en-us/flow/contact-us/berkeley-contact-us.html",
-      "supportCount": 1
-    },
-    {
-      "id": "blue-angel-pumps",
-      "name": "Blue Angel Pumps",
-      "website": "https://blueangelpumps.com/",
-      "supportCount": 1
+      "categories": [
+        "plumbing"
+      ],
+      "support": [
+        {
+          "category": "plumbing",
+          "department": "Technical Support",
+          "phone": "+18882375353",
+          "country": "US",
+          "regions": [],
+          "timezone": null,
+          "last_verified": "2025-12-25",
+          "specialty_tags": [],
+          "notes": "Berkeley Technical Support (Pentair).",
+          "source": "pentair.com Berkeley contact page"
+        }
+      ]
     },
     {
       "id": "blucher",
       "name": "BLÜCHER (USA)",
       "website": "https://blucher.com/",
-      "supportCount": 1
+      "categories": [
+        "plumbing",
+        "drainage"
+      ],
+      "support": [
+        {
+          "category": "plumbing",
+          "department": "Customer Center / Technical",
+          "phone": "+18003257360",
+          "country": "US",
+          "regions": [],
+          "timezone": null,
+          "last_verified": "2025-12-25",
+          "specialty_tags": [],
+          "notes": "Pro/contractor support via Customer Center.",
+          "source": "https://blucher.com/"
+        }
+      ]
+    },
+    {
+      "id": "blue-angel-pumps",
+      "name": "Blue Angel Pumps",
+      "website": "https://blueangelpumps.com/",
+      "categories": [
+        "plumbing"
+      ],
+      "support": [
+        {
+          "category": "plumbing",
+          "department": "Customer Service",
+          "phone": "+18886366628",
+          "country": "US",
+          "regions": [],
+          "timezone": null,
+          "last_verified": "2025-12-25",
+          "specialty_tags": [],
+          "notes": "Customer service / support line.",
+          "source": "blueangelpumps.com contact page"
+        }
+      ]
     },
     {
       "id": "bosch-thermotechnology",
       "name": "Bosch Home Comfort (Thermotechnology)",
       "website": "https://www.bosch-homecomfort.com/us/en/residential/service/contact-customer-service/",
-      "supportCount": 1
-    },
-    {
-      "id": "bradley",
-      "name": "Bradley Corporation",
-      "website": "https://www.bradleycorp.com/contactus",
-      "supportCount": 1
+      "categories": [
+        "plumbing"
+      ],
+      "support": [
+        {
+          "category": "plumbing",
+          "department": "Commercial Technical Support",
+          "phone": "+18003261400",
+          "country": "US",
+          "regions": [],
+          "timezone": null,
+          "last_verified": "2025-12-25",
+          "specialty_tags": [],
+          "notes": "Bosch Home Comfort commercial support line (tankless, boilers, etc.).",
+          "source": "bosch-homecomfort.com contact customer service page"
+        }
+      ]
     },
     {
       "id": "bradley-corporation",
       "name": "Bradley Corporation",
       "website": "https://www.bradleycorp.com/contactus",
-      "supportCount": 1
+      "categories": [
+        "plumbing"
+      ],
+      "support": [
+        {
+          "category": "plumbing",
+          "department": "Corporate / Product Support",
+          "phone": "+18002723539",
+          "country": "US",
+          "regions": [],
+          "timezone": null,
+          "last_verified": "2025-12-25",
+          "specialty_tags": [],
+          "notes": "Bradley '1-800-BRADLEY' number shown on Contact Us page and product documents;",
+          "source": "bradleycorp.com contact us page"
+        }
+      ]
+    },
+    {
+      "id": "bradley",
+      "name": "Bradley Corporation",
+      "website": "https://www.bradleycorp.com/contactus",
+      "categories": [
+        "plumbing"
+      ],
+      "support": [
+        {
+          "category": "plumbing",
+          "department": "Customer Service / Product Support",
+          "phone": "+18002723539",
+          "country": "US",
+          "regions": [],
+          "timezone": null,
+          "last_verified": "2025-12-25",
+          "specialty_tags": [],
+          "notes": "Bradley headquarters/support line ('1-800-BRADLEY').",
+          "source": "bradleycorp.com contact us page"
+        }
+      ]
     },
     {
       "id": "brasscraft",
       "name": "BrassCraft",
       "website": "https://www.brasscraft.com/",
-      "supportCount": 1
+      "categories": [
+        "plumbing"
+      ],
+      "support": [
+        {
+          "category": "plumbing",
+          "department": "Technical Support",
+          "phone": "+18772727755",
+          "country": "US",
+          "regions": [],
+          "timezone": null,
+          "last_verified": "2025-12-25",
+          "specialty_tags": [],
+          "notes": "Toll-free customer support; pro product support.",
+          "source": "brasscraft.com support page"
+        }
+      ]
     },
     {
       "id": "brizo",
       "name": "Brizo",
       "website": "https://www.brizo.com/customer-support",
-      "supportCount": 1
+      "categories": [
+        "plumbing"
+      ],
+      "support": [
+        {
+          "category": "plumbing",
+          "department": "Brizo Help Line",
+          "phone": "+18773452749",
+          "country": "US",
+          "regions": [],
+          "timezone": null,
+          "last_verified": "2025-12-25",
+          "specialty_tags": [],
+          "notes": "Brizo Help Line listed on customer support page.",
+          "source": "brizo.com customer support page"
+        }
+      ]
+    },
+    {
+      "id": "brondell",
+      "name": "Brondell",
+      "website": "https://www.brondell.com/",
+      "categories": [
+        "plumbing"
+      ],
+      "support": [
+        {
+          "category": "plumbing",
+          "department": "Technical Support",
+          "phone": "+18885423355",
+          "country": "US",
+          "regions": [],
+          "timezone": "America/Los_Angeles",
+          "last_verified": "2026-01-29",
+          "specialty_tags": [],
+          "notes": "Brondell technical support for bidet toilets and smart bathroom products.",
+          "source": "https://help.brondell.com/hc/en-us"
+        }
+      ]
     },
     {
       "id": "burcam",
       "name": "Burcam",
       "website": "https://burcam.com/",
-      "supportCount": 1
+      "categories": [
+        "plumbing"
+      ],
+      "support": [
+        {
+          "category": "plumbing",
+          "department": "Customer Service",
+          "phone": "+18003611820",
+          "country": "US",
+          "regions": [],
+          "timezone": null,
+          "last_verified": "2025-12-25",
+          "specialty_tags": [],
+          "notes": "Customer service / warranty assistance line.",
+          "source": "burcam.com warranty page"
+        }
+      ]
     },
     {
       "id": "cash-acme",
       "name": "Cash Acme",
       "website": "https://www.cashacme.com",
-      "supportCount": 1
+      "categories": [
+        "plumbing"
+      ],
+      "support": [
+        {
+          "category": "plumbing",
+          "department": "Contact Support (US)",
+          "phone": "+18777004242",
+          "country": "US",
+          "regions": [],
+          "timezone": null,
+          "last_verified": "2025-12-25",
+          "specialty_tags": [],
+          "notes": "Cash Acme support line (RWC).",
+          "source": "https://www.cashacme.com/us/en/contact-us"
+        }
+      ]
     },
     {
       "id": "charlotte-pipe",
       "name": "Charlotte Pipe",
       "website": "https://www.charlottepipe.com/",
-      "supportCount": 1
+      "categories": [
+        "plumbing"
+      ],
+      "support": [
+        {
+          "category": "plumbing",
+          "department": "Customer Service / Technical Support",
+          "phone": "+18004386091",
+          "country": "US",
+          "regions": [],
+          "timezone": null,
+          "last_verified": "2025-12-26",
+          "specialty_tags": [],
+          "notes": "Expert customer service and technical support team for PVC pipe and fittings. Main office (704) 348-6450.",
+          "source": "https://www.charlottepipe.com/contact-us"
+        }
+      ]
     },
     {
       "id": "cherne",
       "name": "Cherne (Oatey)",
       "website": "https://www.oatey.com/brands/cherne",
-      "supportCount": 1
+      "categories": [
+        "plumbing"
+      ],
+      "support": [
+        {
+          "category": "plumbing",
+          "department": "Cherne Inquiries",
+          "phone": "+18008437584",
+          "country": "US",
+          "regions": [],
+          "timezone": null,
+          "last_verified": "2025-12-25",
+          "specialty_tags": [],
+          "notes": "Cherne inquiries line via Oatey contact page.",
+          "source": "oatey.com contact page"
+        }
+      ]
     },
     {
       "id": "chicago-faucets",
       "name": "Chicago Faucets",
       "website": "https://www.chicagofaucets.com/support/contact",
-      "supportCount": 1
+      "categories": [
+        "plumbing"
+      ],
+      "support": [
+        {
+          "category": "plumbing",
+          "department": "Technical Support",
+          "phone": "+18008328783",
+          "country": "US",
+          "regions": [],
+          "timezone": null,
+          "last_verified": "2025-12-24",
+          "specialty_tags": [],
+          "notes": "Technical support line for Chicago Faucets (800-TEC-TRUE).",
+          "source": "chicagofaucets.com support contact page"
+        }
+      ]
     },
     {
       "id": "cimberio",
       "name": "Cimberio Valve US",
       "website": "https://cimberiovalve.us/contact-us/",
-      "supportCount": 1
+      "categories": [
+        "plumbing"
+      ],
+      "support": [
+        {
+          "category": "plumbing",
+          "department": "US Office",
+          "phone": "+18772289246",
+          "country": "US",
+          "regions": [],
+          "timezone": null,
+          "last_verified": "2025-12-24",
+          "specialty_tags": [],
+          "notes": "Cimberio Valve US contact page lists US phone.",
+          "source": "https://cimberiovalve.us/contact-us/ (official)"
+        }
+      ]
     },
     {
       "id": "cla-val",
       "name": "Cla-Val",
       "website": "https://www.cla-val.com/contact-us",
-      "supportCount": 1
+      "categories": [
+        "plumbing"
+      ],
+      "support": [
+        {
+          "category": "plumbing",
+          "department": "Customer Support / Technical Assistance",
+          "phone": "+18009426326",
+          "country": "US",
+          "regions": [],
+          "timezone": null,
+          "last_verified": "2025-12-25",
+          "specialty_tags": [],
+          "notes": "General inquiries and support line; used for waterworks/control valves commonly",
+          "source": "cla-val.com contact us"
+        }
+      ]
     },
     {
       "id": "dearborn",
       "name": "Dearborn (Oatey)",
       "website": "https://www.oatey.com/brands/dearborn",
-      "supportCount": 1
+      "categories": [
+        "plumbing"
+      ],
+      "support": [
+        {
+          "category": "plumbing",
+          "department": "Technical Support",
+          "phone": "+18003219532",
+          "country": "US",
+          "regions": [],
+          "timezone": null,
+          "last_verified": "2025-12-25",
+          "specialty_tags": [],
+          "notes": "Dearborn brand support via Oatey customer service.",
+          "source": "oatey.com contact page"
+        }
+      ]
     },
     {
       "id": "delta-faucet",
       "name": "Delta Faucet",
       "website": "https://www.deltafaucet.com/service-parts/contact-us",
-      "supportCount": 2
+      "categories": [
+        "plumbing"
+      ],
+      "support": [
+        {
+          "category": "plumbing",
+          "department": "Customer/Technical Support",
+          "phone": "+18003453358",
+          "country": "US",
+          "regions": [],
+          "timezone": null,
+          "last_verified": "2025-12-24",
+          "specialty_tags": [],
+          "notes": "Delta help line (general support).",
+          "source": "deltafaucet.com support pages"
+        },
+        {
+          "category": "plumbing",
+          "department": "Commercial Helpline",
+          "phone": "+18005673300",
+          "country": "US",
+          "regions": [],
+          "timezone": null,
+          "last_verified": "2025-12-24",
+          "specialty_tags": [],
+          "notes": "Delta commercial helpline (specialty support).",
+          "source": "deltafaucet.com commercial contact page"
+        }
+      ]
     },
     {
       "id": "duravit",
       "name": "Duravit USA",
       "website": "https://www.duravit.us",
-      "supportCount": 1
+      "categories": [
+        "plumbing"
+      ],
+      "support": [
+        {
+          "category": "plumbing",
+          "department": "Technical Support",
+          "phone": "+18883872848",
+          "country": "US",
+          "regions": [],
+          "timezone": null,
+          "last_verified": "2025-12-25",
+          "specialty_tags": [],
+          "notes": "Technical support (888-DURAVIT).",
+          "source": "https://www.duravit.us/service/company/contact.us-en.html"
+        }
+      ]
     },
     {
       "id": "ecosmart",
       "name": "EcoSmart",
       "website": "https://www.ecosmartus.com/support",
-      "supportCount": 1
+      "categories": [
+        "plumbing"
+      ],
+      "support": [
+        {
+          "category": "plumbing",
+          "department": "Tech Support",
+          "phone": "+18774746473",
+          "country": "US",
+          "regions": [],
+          "timezone": null,
+          "last_verified": "2025-12-25",
+          "specialty_tags": [],
+          "notes": "EcoSmart tech support line for tankless electric and related products.",
+          "source": "ecosmartus.com support page"
+        }
+      ]
     },
     {
       "id": "eemax",
       "name": "Eemax",
       "website": "https://www.eemaxtankless.com/help/",
-      "supportCount": 1
+      "categories": [
+        "plumbing"
+      ],
+      "support": [
+        {
+          "category": "plumbing",
+          "department": "Technical Support",
+          "phone": "+18005436163",
+          "country": "US",
+          "regions": [],
+          "timezone": null,
+          "last_verified": "2025-12-25",
+          "specialty_tags": [],
+          "notes": "Eemax technical support for tankless electric water heaters.",
+          "source": "eemaxtankless.com help/FAQ page"
+        }
+      ]
     },
     {
       "id": "eljer",
       "name": "Eljer",
       "website": "https://www.eljer.com/heaterindex.htm",
-      "supportCount": 1
+      "categories": [
+        "plumbing"
+      ],
+      "support": [
+        {
+          "category": "plumbing",
+          "department": "Technical Support / Customer Service",
+          "phone": "+18004421902",
+          "country": "US",
+          "regions": [],
+          "timezone": null,
+          "last_verified": "2025-12-24",
+          "specialty_tags": [],
+          "notes": "Eljer technical support/customer service phone.",
+          "source": "eljer.com customer service page / manuals"
+        }
+      ]
     },
     {
       "id": "elkay",
       "name": "Elkay",
       "website": "https://www.elkay.com/us/en/contact-us.html",
-      "supportCount": 1
+      "categories": [
+        "plumbing"
+      ],
+      "support": [
+        {
+          "category": "plumbing",
+          "department": "Customer Care / Technical Support",
+          "phone": "+18004764106",
+          "country": "US",
+          "regions": [],
+          "timezone": null,
+          "last_verified": "2025-12-25",
+          "specialty_tags": [],
+          "notes": "Customer Care phone line for product assistance and support.",
+          "source": "elkay.com contact us page"
+        }
+      ]
     },
     {
       "id": "environment-one",
       "name": "Environment One (E/One)",
       "website": "https://www.eone.com/support/certified-service-providers",
-      "supportCount": 1
+      "categories": [
+        "plumbing",
+        "hydronics"
+      ],
+      "support": [
+        {
+          "category": "plumbing",
+          "department": "Certified Service Providers / Support",
+          "phone": "+18665399803",
+          "country": "US",
+          "regions": [],
+          "timezone": null,
+          "last_verified": "2025-12-25",
+          "specialty_tags": [],
+          "notes": "E/One certified service providers and support line.",
+          "source": "eone.com certified service providers page"
+        }
+      ]
     },
     {
       "id": "eone",
       "name": "Environment One (E/One)",
       "website": "https://eone.com/sewer-systems/knowledge/certified-service",
-      "supportCount": 1
+      "categories": [
+        "plumbing"
+      ],
+      "support": [
+        {
+          "category": "plumbing",
+          "department": "Certified Service Locator (toll-free)",
+          "phone": "+18665399803",
+          "country": "US",
+          "regions": [],
+          "timezone": null,
+          "last_verified": "2025-12-25",
+          "specialty_tags": [],
+          "notes": "Toll-free number to locate certified E/One grinder pump service centers.",
+          "source": "https://eone.com/sewer-systems/knowledge/certified-service"
+        }
+      ]
     },
     {
       "id": "febco",
       "name": "FEBCO (Watts)",
       "website": "https://www.watts.com/our-story/brands/febco",
-      "supportCount": 1
+      "categories": [
+        "plumbing"
+      ],
+      "support": [
+        {
+          "category": "plumbing",
+          "department": "Plumbing, Heating and Drainage (Tech Support)",
+          "phone": "+19786896066",
+          "country": "US",
+          "regions": [],
+          "timezone": null,
+          "last_verified": "2025-12-25",
+          "specialty_tags": [],
+          "notes": "Watts support line for Plumbing/Heating/Drainage (FEBCO brand).",
+          "source": "https://www.watts.com/support"
+        }
+      ]
     },
     {
       "id": "fernco",
       "name": "Fernco",
       "website": "https://www.fernco.com/contact-us",
-      "supportCount": 1
+      "categories": [
+        "plumbing"
+      ],
+      "support": [
+        {
+          "category": "plumbing",
+          "department": "Customer Service / Technical Support",
+          "phone": "+18105039000",
+          "country": "US",
+          "regions": [],
+          "timezone": null,
+          "last_verified": "2025-12-24",
+          "specialty_tags": [],
+          "notes": "Fernco main US customer service line (Davison, MI).",
+          "source": "fernco.com locations/contact pages"
+        }
+      ]
     },
     {
       "id": "fisher-manufacturing",
       "name": "Fisher Manufacturing",
       "website": "https://fisherfaucets.com/about/our-story",
-      "supportCount": 1
+      "categories": [
+        "plumbing"
+      ],
+      "support": [
+        {
+          "category": "plumbing",
+          "department": "Customer Service / Technical Support",
+          "phone": "+18004216162",
+          "country": "US",
+          "regions": [],
+          "timezone": null,
+          "last_verified": "2025-12-25",
+          "specialty_tags": [],
+          "notes": "Phone number listed on Fisher Manufacturing site (company story / rep locator)",
+          "source": "fisherfaucets.com company page"
+        }
+      ]
     },
     {
       "id": "flint-walling",
       "name": "Flint & Walling (Pentair)",
       "website": "https://www.pentair.com/en-us/products/pumps/flint_walling.html",
-      "supportCount": 1
+      "categories": [
+        "plumbing",
+        "pumps",
+        "water-systems"
+      ],
+      "support": [
+        {
+          "category": "plumbing",
+          "department": "Groundwater / Water Systems Support",
+          "phone": "+18006282313",
+          "country": "US",
+          "regions": [],
+          "timezone": null,
+          "last_verified": "2025-12-25",
+          "specialty_tags": [],
+          "notes": "Listed as Groundwater Support on Pentair Pump Group support page.",
+          "source": "https://www.pentair.com/en-us/products/pumps/pentair-pump-group/support.html"
+        }
+      ]
     },
     {
       "id": "flomatic",
       "name": "Flomatic Valves",
       "website": "https://www.flomatic.com",
-      "supportCount": 1
+      "categories": [
+        "plumbing"
+      ],
+      "support": [
+        {
+          "category": "plumbing",
+          "department": "Technical & Sales Support",
+          "phone": "+18008332040",
+          "country": "US",
+          "regions": [],
+          "timezone": null,
+          "last_verified": "2025-12-25",
+          "specialty_tags": [],
+          "notes": "Technical support for valve products.",
+          "source": "https://www.flomatic.com/support/"
+        }
+      ]
     },
     {
       "id": "flotec",
       "name": "Flotec (Pentair)",
       "website": "https://www.pentair.com/en-us/education-support/contact-us/retail-support-contact-us.html",
-      "supportCount": 1
+      "categories": [
+        "plumbing"
+      ],
+      "support": [
+        {
+          "category": "plumbing",
+          "department": "Technical Support",
+          "phone": "+18003656832",
+          "country": "US",
+          "regions": [],
+          "timezone": null,
+          "last_verified": "2025-12-25",
+          "specialty_tags": [],
+          "notes": "Pentair retail technical support line for Flotec & Water Ace.",
+          "source": "https://www.pentair.com/en-us/education-support/contact-us/retail-support-contact-us.html"
+        }
+      ]
     },
     {
       "id": "fluidmaster",
       "name": "Fluidmaster",
       "website": "https://fluidmaster.com",
-      "supportCount": 1
+      "categories": [
+        "plumbing"
+      ],
+      "support": [
+        {
+          "category": "plumbing",
+          "department": "Technical Support",
+          "phone": "+18006312011",
+          "country": "US",
+          "regions": [],
+          "timezone": null,
+          "last_verified": "2025-12-25",
+          "specialty_tags": [],
+          "notes": "Technical Support line listed by Fluidmaster.",
+          "source": "fluidmaster.com pro-series warranty page"
+        }
+      ]
     },
     {
       "id": "flushmate",
       "name": "Flushmate (Pressure-Assist Systems)",
       "website": "https://www.flushmate.com/",
-      "supportCount": 1
+      "categories": [
+        "plumbing"
+      ],
+      "support": [
+        {
+          "category": "plumbing",
+          "department": "Customer Support / Technical Support",
+          "phone": "+18005333460",
+          "country": "US",
+          "regions": [],
+          "timezone": null,
+          "last_verified": "2025-12-24",
+          "specialty_tags": [],
+          "notes": "Flushmate customer support/technical assistance line listed on Flushmate site resources/warranty.",
+          "source": "https://www.flushmate.com/ (official)"
+        }
+      ]
     },
     {
       "id": "ford-meter-box",
       "name": "Ford Meter Box",
       "website": "https://fordmeterbox.com/",
-      "supportCount": 1
+      "categories": [
+        "plumbing",
+        "waterworks",
+        "valves"
+      ],
+      "support": [
+        {
+          "category": "plumbing",
+          "department": "Customer Service / Technical",
+          "phone": "+12605632151",
+          "country": "US",
+          "regions": [],
+          "timezone": null,
+          "last_verified": "2025-12-25",
+          "specialty_tags": [],
+          "notes": "Main line on Ford Meter Box contact page; used by utilities/contractors.",
+          "source": "https://fordmeterbox.com/contact/"
+        }
+      ]
     },
     {
       "id": "franke",
       "name": "Franke",
       "website": "https://www.franke.com/us/en/home-solutions/contact.html",
-      "supportCount": 1
+      "categories": [
+        "plumbing"
+      ],
+      "support": [
+        {
+          "category": "plumbing",
+          "department": "Customer Service (US)",
+          "phone": "+18006265771",
+          "country": "US",
+          "regions": [],
+          "timezone": null,
+          "last_verified": "2025-12-25",
+          "specialty_tags": [],
+          "notes": "US customer service number listed on Franke contact pages for kitchen/commercial",
+          "source": "franke.com contact page"
+        }
+      ]
     },
     {
       "id": "franklin-electric",
       "name": "Franklin Electric",
       "website": "https://franklinwater.com/contact/",
-      "supportCount": 1
+      "categories": [
+        "plumbing",
+        "hydronics"
+      ],
+      "support": [
+        {
+          "category": "plumbing",
+          "department": "Technical Support",
+          "phone": "+18003482420",
+          "country": "US",
+          "regions": [],
+          "timezone": null,
+          "last_verified": "2025-12-26",
+          "specialty_tags": [],
+          "notes": "Franklin Electric technical support for pumps and motors. Mon-Fri 8am-5pm EST. Email techsupport@fele.com.",
+          "source": "https://www.franklinwater.com/support/technical-support/"
+        }
+      ]
     },
     {
       "id": "geberit",
       "name": "Geberit",
       "website": "https://www.geberitnorthamerica.com/service-support/contact/",
-      "supportCount": 1
+      "categories": [
+        "plumbing"
+      ],
+      "support": [
+        {
+          "category": "plumbing",
+          "department": "Technical Support",
+          "phone": "+18008328783",
+          "country": "US",
+          "regions": [],
+          "timezone": null,
+          "last_verified": "2025-12-25",
+          "specialty_tags": [],
+          "notes": "Technical support for Geberit concealed systems and bath waste/overflow products.",
+          "source": "geberitnorthamerica.com technical support contact"
+        }
+      ]
     },
     {
       "id": "georg-fischer",
       "name": "Georg Fischer (GF Piping Systems)",
       "website": "https://www.gfpiping.com/",
-      "supportCount": 1
+      "categories": [
+        "plumbing",
+        "piping-systems"
+      ],
+      "support": [
+        {
+          "category": "plumbing",
+          "department": "Technical Support (GF Piping Systems US)",
+          "phone": "+18008544090",
+          "country": "US",
+          "regions": [],
+          "timezone": null,
+          "last_verified": "2025-12-25",
+          "specialty_tags": [],
+          "notes": "Toll-free listed on GF Piping Systems / Industrial site contact information.",
+          "source": "https://www.gfpiping.com/content/dam/gf/global/master/documents/contact/gf_piping_systems_contacts_us_en.pdf"
+        }
+      ]
     },
     {
       "id": "gerber",
       "name": "Gerber Plumbing Fixtures",
       "website": "https://www.gerber-us.com/support",
-      "supportCount": 1
+      "categories": [
+        "plumbing"
+      ],
+      "support": [
+        {
+          "category": "plumbing",
+          "department": "Technical Support",
+          "phone": "+18886486466",
+          "country": "US",
+          "regions": [],
+          "timezone": null,
+          "last_verified": "2025-12-24",
+          "specialty_tags": [],
+          "notes": "Gerber technical support for consumers and professionals (installation/troubleshooting/parts).",
+          "source": "gerber-us.com support page"
+        }
+      ]
     },
     {
       "id": "gf-piping-systems",
       "name": "GF Piping Systems",
       "website": "https://www.gfps.com/en-us/about-us/contact-us.html",
-      "supportCount": 1
+      "categories": [
+        "plumbing",
+        "hydronics"
+      ],
+      "support": [
+        {
+          "category": "plumbing",
+          "department": "Technical Support / Customer Service",
+          "phone": "+18008544090",
+          "country": "US",
+          "regions": [],
+          "timezone": null,
+          "last_verified": "2025-12-25",
+          "specialty_tags": [],
+          "notes": "GF Piping Systems US contact line listed on contact page.",
+          "source": "gfps.com contact us page"
+        }
+      ]
     },
     {
       "id": "goulds-water-technology",
       "name": "Goulds Water Technology (Xylem)",
       "website": "https://www.xylem.com/en-us/brands/goulds-water-technology/contact-us/",
-      "supportCount": 1
+      "categories": [
+        "plumbing"
+      ],
+      "support": [
+        {
+          "category": "plumbing",
+          "department": "Customer Service & Technical Support (Water Systems/Wastewater)",
+          "phone": "+18663254210",
+          "country": "US",
+          "regions": [],
+          "timezone": null,
+          "last_verified": "2025-12-24",
+          "specialty_tags": [],
+          "notes": "Customer service 800 line listed for water systems and wastewater products",
+          "source": "xylem.com Goulds Water Technology contact page"
+        }
+      ]
     },
     {
       "id": "grohe",
       "name": "GROHE",
       "website": "https://www.grohe.us/pages/contact-us",
-      "supportCount": 2
+      "categories": [
+        "plumbing"
+      ],
+      "support": [
+        {
+          "category": "plumbing",
+          "department": "Technical Support (Consumers & Pros)",
+          "phone": "+18558154726",
+          "country": "US",
+          "regions": [],
+          "timezone": null,
+          "last_verified": "2025-12-24",
+          "specialty_tags": [],
+          "notes": "Support line for consumers and professionals (technical + warranty).",
+          "source": "grohe.us contact us page"
+        },
+        {
+          "category": "plumbing",
+          "department": "Wholesaler/Trade Support",
+          "phone": "+18004447643",
+          "country": "US",
+          "regions": [],
+          "timezone": null,
+          "last_verified": "2025-12-24",
+          "specialty_tags": [],
+          "notes": "Wholesalers/trade/retail account information line.",
+          "source": "grohe.us contact us page"
+        }
+      ]
     },
     {
       "id": "guardian-equipment",
       "name": "Guardian Equipment",
       "website": "https://www.gesafety.com/contact/contact.shtml",
-      "supportCount": 1
+      "categories": [
+        "plumbing"
+      ],
+      "support": [
+        {
+          "category": "plumbing",
+          "department": "Customer Service / Technical Support",
+          "phone": "+18006907700",
+          "country": "US",
+          "regions": [],
+          "timezone": null,
+          "last_verified": "2025-12-25",
+          "specialty_tags": [],
+          "notes": "Customer Service line (parts/service/standards questions).",
+          "source": "gesafety.com contact page"
+        }
+      ]
     },
     {
       "id": "halsey-taylor",
       "name": "Halsey Taylor",
       "website": "https://www.halseytaylor.com/us/en/support-and-resources.html",
-      "supportCount": 1
+      "categories": [
+        "plumbing"
+      ],
+      "support": [
+        {
+          "category": "plumbing",
+          "department": "Technical Services",
+          "phone": "+18002606640",
+          "country": "US",
+          "regions": [],
+          "timezone": null,
+          "last_verified": "2025-12-25",
+          "specialty_tags": [],
+          "notes": "Technical Services phone listed on Halsey Taylor support/resources page.",
+          "source": "halseytaylor.com support and resources page"
+        }
+      ]
     },
     {
       "id": "hansgrohe",
       "name": "Hansgrohe USA",
       "website": "https://www.hansgrohe-usa.com/service/assistance",
-      "supportCount": 1
+      "categories": [
+        "plumbing"
+      ],
+      "support": [
+        {
+          "category": "plumbing",
+          "department": "Technical Service (Pro Support)",
+          "phone": "+18003340455",
+          "country": "US",
+          "regions": [],
+          "timezone": null,
+          "last_verified": "2025-12-25",
+          "specialty_tags": [],
+          "notes": "Technical Service phone line for product support.",
+          "source": "hansgrohe-usa.com service/assistance page"
+        }
+      ]
     },
     {
       "id": "haws",
       "name": "Haws",
       "website": "https://www.hawsco.com/company/contact-us/",
-      "supportCount": 1
+      "categories": [
+        "plumbing"
+      ],
+      "support": [
+        {
+          "category": "plumbing",
+          "department": "Technical Support",
+          "phone": "+18007665612",
+          "country": "US",
+          "regions": [],
+          "timezone": null,
+          "last_verified": "2025-12-25",
+          "specialty_tags": [],
+          "notes": "Technical Support Team phone per Haws contact page.",
+          "source": "hawsco.com contact us page"
+        }
+      ]
     },
     {
       "id": "hydromatic",
       "name": "Hydromatic (Pentair)",
       "website": "https://www.pentair.com/en-us/products/pumps/hydromatic.html",
-      "supportCount": 1
+      "categories": [
+        "plumbing",
+        "pumps",
+        "sump-sewage"
+      ],
+      "support": [
+        {
+          "category": "plumbing",
+          "department": "Customer Service / Technical",
+          "phone": "+18889578677",
+          "country": "US",
+          "regions": [],
+          "timezone": null,
+          "last_verified": "2025-12-25",
+          "specialty_tags": [],
+          "notes": "Pentair Flow Technologies contact listing for Hydromatic.",
+          "source": "https://www.pentair.com/en-us/water-softening-filtration/support.html"
+        }
+      ]
     },
     {
       "id": "infinity-drain",
       "name": "Infinity Drain",
       "website": "https://infinitydrain.com/",
-      "supportCount": 1
+      "categories": [
+        "plumbing",
+        "drainage"
+      ],
+      "support": [
+        {
+          "category": "plumbing",
+          "department": "Sales / Technical (General Inquiries)",
+          "phone": "+15167676786",
+          "country": "US",
+          "regions": [],
+          "timezone": null,
+          "last_verified": "2025-12-25",
+          "specialty_tags": [],
+          "notes": "Main line listed on Contact page (used by contractors/specifiers).",
+          "source": "https://infinitydrain.com/contact/"
+        }
+      ]
     },
     {
       "id": "insinkerator",
       "name": "InSinkErator",
       "website": "https://insinkerator.emerson.com/en-us/support/contact-us",
-      "supportCount": 1
+      "categories": [
+        "plumbing"
+      ],
+      "support": [
+        {
+          "category": "plumbing",
+          "department": "Commercial / Wholesale Technical Support",
+          "phone": "+18008458345",
+          "country": "US",
+          "regions": [],
+          "timezone": null,
+          "last_verified": "2025-12-25",
+          "specialty_tags": [],
+          "notes": "Commercial/wholesale support line (installer/pro oriented).",
+          "source": "insinkerator.emerson.com contact us page"
+        }
+      ]
     },
     {
       "id": "ipex",
       "name": "IPEX",
       "website": "https://www.ipexna.com/contact-us/",
-      "supportCount": 1
+      "categories": [
+        "plumbing"
+      ],
+      "support": [
+        {
+          "category": "plumbing",
+          "department": "Customer Service / Technical Support",
+          "phone": "+18004639572",
+          "country": "US",
+          "regions": [],
+          "timezone": null,
+          "last_verified": "2025-12-25",
+          "specialty_tags": [],
+          "notes": "Customer service phone for IPEX (US/Canada listed).",
+          "source": "ipexna.com contact us page"
+        }
+      ]
     },
     {
       "id": "ips-plumbing",
       "name": "IPS Corp Plumbing",
       "website": "https://ipsplumbingproducts.com/",
-      "supportCount": 1
+      "categories": [
+        "plumbing"
+      ],
+      "support": [
+        {
+          "category": "plumbing",
+          "department": "Technical Support",
+          "phone": "+18008888312",
+          "country": "US",
+          "regions": [],
+          "timezone": null,
+          "last_verified": "2025-12-25",
+          "specialty_tags": [],
+          "notes": "Customer service / technical support line for IPS plumbing products.",
+          "source": "ipsplumbingproducts.com contact page"
+        }
+      ]
+    },
+    {
+      "id": "jacuzzi",
+      "name": "Jacuzzi",
+      "website": "https://www.jacuzzi.com/en-us/",
+      "categories": [
+        "plumbing"
+      ],
+      "support": [
+        {
+          "category": "plumbing",
+          "department": "Customer Service & Technical Support",
+          "phone": "+18446026064",
+          "country": "US",
+          "regions": [],
+          "timezone": "America/Los_Angeles",
+          "last_verified": "2026-01-29",
+          "specialty_tags": [],
+          "notes": "Jacuzzi customer service and technical support for bath, whirlpool, and plumbing products.",
+          "source": "https://www.jacuzzi.com/en-us/contactus.html"
+        }
+      ]
     },
     {
       "id": "jay-r-smith",
       "name": "Jay R. Smith Mfg. Co.",
       "website": "https://www.jrsmith.com",
-      "supportCount": 1
+      "categories": [
+        "plumbing"
+      ],
+      "support": [
+        {
+          "category": "plumbing",
+          "department": "Customer Service",
+          "phone": "+18004676484",
+          "country": "US",
+          "regions": [],
+          "timezone": null,
+          "last_verified": "2025-12-25",
+          "specialty_tags": [],
+          "notes": "Toll-free contact number shown for Contact Us.",
+          "source": "jrsmith.com contact us page"
+        }
+      ]
     },
     {
       "id": "jm-eagle",
       "name": "JM Eagle",
       "website": "https://www.jmeagle.com/contact/",
-      "supportCount": 1
+      "categories": [
+        "plumbing"
+      ],
+      "support": [
+        {
+          "category": "plumbing",
+          "department": "Technical Support / Customer Service",
+          "phone": "+19093642800",
+          "country": "US",
+          "regions": [],
+          "timezone": null,
+          "last_verified": "2025-12-25",
+          "specialty_tags": [],
+          "notes": "JM Eagle corporate/technical contact line listed on contact page.",
+          "source": "jmeagle.com contact page"
+        }
+      ]
     },
     {
       "id": "jones-stephens",
       "name": "Jones Stephens",
       "website": "https://www.jonesstephens.com/",
-      "supportCount": 1
+      "categories": [
+        "plumbing"
+      ],
+      "support": [
+        {
+          "category": "plumbing",
+          "department": "Technical Support",
+          "phone": "+18003556637",
+          "country": "US",
+          "regions": [],
+          "timezone": null,
+          "last_verified": "2025-12-25",
+          "specialty_tags": [],
+          "notes": "Customer service/parts support line (repair parts catalog).",
+          "source": "jonesstephens.com repair parts catalog PDF"
+        }
+      ]
     },
     {
       "id": "josam",
       "name": "Josam",
       "website": "https://www.josam.com",
-      "supportCount": 1
+      "categories": [
+        "plumbing",
+        "hydronics"
+      ],
+      "support": [
+        {
+          "category": "plumbing",
+          "department": "Customer Service",
+          "phone": "+18003656726",
+          "country": "US",
+          "regions": [],
+          "timezone": null,
+          "last_verified": "2025-12-25",
+          "specialty_tags": [],
+          "notes": "Corporate HQ customer service phone listed on customer service page.",
+          "source": "josam.com customer service page"
+        }
+      ]
     },
     {
       "id": "just-manufacturing",
       "name": "Just Manufacturing",
       "website": "https://www.justmfg.com/us/en/contact-us.html",
-      "supportCount": 1
+      "categories": [
+        "plumbing"
+      ],
+      "support": [
+        {
+          "category": "plumbing",
+          "department": "Customer Care / Support",
+          "phone": "+18476785151",
+          "country": "US",
+          "regions": [],
+          "timezone": null,
+          "last_verified": "2025-12-25",
+          "specialty_tags": [],
+          "notes": "Customer Care phone listed on contact page (Mon–Fri hours).",
+          "source": "justmfg.com contact page"
+        }
+      ]
     },
     {
       "id": "keeney",
       "name": "Keeney",
       "website": "https://keeneymfg.com/",
-      "supportCount": 1
+      "categories": [
+        "plumbing"
+      ],
+      "support": [
+        {
+          "category": "plumbing",
+          "department": "Technical Support",
+          "phone": "+18002430526",
+          "country": "US",
+          "regions": [],
+          "timezone": null,
+          "last_verified": "2025-12-25",
+          "specialty_tags": [],
+          "notes": "Customer service department line (catalog/support).",
+          "source": "keeneymfg.com catalog PDF"
+        }
+      ]
     },
     {
       "id": "kinetico",
       "name": "Kinetico",
       "website": "https://www.kinetico.com/customer-support/",
-      "supportCount": 1
-    },
-    {
-      "id": "kohler",
-      "name": "Kohler",
-      "website": "https://www.kohler.com/en/for-professionals/plumber-resources",
-      "supportCount": 1
+      "categories": [
+        "plumbing"
+      ],
+      "support": [
+        {
+          "category": "plumbing",
+          "department": "Customer Support (24-hour)",
+          "phone": "+18009449283",
+          "country": "US",
+          "regions": [],
+          "timezone": null,
+          "last_verified": "2025-12-25",
+          "specialty_tags": [],
+          "notes": "24-hour support phone listed on Kinetico customer support page (also references",
+          "source": "kinetico.com customer support page"
+        }
+      ]
     },
     {
       "id": "kohler-plumbing",
       "name": "Kohler (Plumbing)",
       "website": "https://www.kohler.com/en/for-professionals/tools-and-resources",
-      "supportCount": 1
+      "categories": [
+        "plumbing"
+      ],
+      "support": [
+        {
+          "category": "plumbing",
+          "department": "Kohler Trade Hotline",
+          "phone": "+19208033927",
+          "country": "US",
+          "regions": [],
+          "timezone": null,
+          "last_verified": "2025-12-24",
+          "specialty_tags": [],
+          "notes": "Dedicated pro plumbing support hotline.",
+          "source": "kohler.com professionals tools and resources"
+        }
+      ]
+    },
+    {
+      "id": "kohler",
+      "name": "Kohler",
+      "website": "https://www.kohler.com/en/for-professionals/plumber-resources",
+      "categories": [
+        "plumbing"
+      ],
+      "support": [
+        {
+          "category": "plumbing",
+          "department": "Trade Hotline (Plumbing)",
+          "phone": "+19208033927",
+          "country": "US",
+          "regions": [],
+          "timezone": null,
+          "last_verified": "2025-12-24",
+          "specialty_tags": [],
+          "notes": "Kohler Trade Hotline for Kohler and Sterling plumbing products.",
+          "source": "kohler.com plumber resources (Trade Hotline)"
+        }
+      ]
     },
     {
       "id": "korky",
       "name": "Korky (Lavelle Industries)",
       "website": "https://www.korky.com",
-      "supportCount": 1
+      "categories": [
+        "plumbing"
+      ],
+      "support": [
+        {
+          "category": "plumbing",
+          "department": "Customer Service / Product Support",
+          "phone": "+12627632434",
+          "country": "US",
+          "regions": [],
+          "timezone": null,
+          "last_verified": "2025-12-25",
+          "specialty_tags": [],
+          "notes": "Support phone listed on Korky support page.",
+          "source": "korky.com support page"
+        }
+      ]
     },
     {
       "id": "krowne",
       "name": "Krowne",
       "website": "https://krowne.com/contact-us/",
-      "supportCount": 1
-    },
-    {
-      "id": "lasco",
-      "name": "LASCO Fittings",
-      "website": "https://www.westlakepipe.com/resources/contacts",
-      "supportCount": 1
+      "categories": [
+        "plumbing"
+      ],
+      "support": [
+        {
+          "category": "plumbing",
+          "department": "Customer / Technical Support",
+          "phone": "+18006310442",
+          "country": "US",
+          "regions": [],
+          "timezone": null,
+          "last_verified": "2025-12-25",
+          "specialty_tags": [],
+          "notes": "Main phone listed on Krowne contact page.",
+          "source": "krowne.com contact page"
+        }
+      ]
     },
     {
       "id": "lasco-fittings",
       "name": "LASCO Fittings, Inc.",
       "website": "https://plumbingnet.com/lasco-fittings-inc/",
-      "supportCount": 1
+      "categories": [
+        "plumbing"
+      ],
+      "support": [
+        {
+          "category": "plumbing",
+          "department": "Main",
+          "phone": "+18007762756",
+          "country": "US",
+          "regions": [],
+          "timezone": null,
+          "last_verified": "2025-12-25",
+          "specialty_tags": [],
+          "notes": "Manufacturer listing phone.",
+          "source": "https://plumbingnet.com/lasco-fittings-inc/"
+        }
+      ]
+    },
+    {
+      "id": "lasco",
+      "name": "LASCO Fittings",
+      "website": "https://www.westlakepipe.com/resources/contacts",
+      "categories": [
+        "plumbing"
+      ],
+      "support": [
+        {
+          "category": "plumbing",
+          "department": "Customer Service / Technical Support",
+          "phone": "+18007762756",
+          "country": "US",
+          "regions": [],
+          "timezone": null,
+          "last_verified": "2025-12-25",
+          "specialty_tags": [],
+          "notes": "Customer service phone listed for LASCO (Westlake Pipe & Fittings contacts).",
+          "source": "westlakepipe.com contacts PDF listing LASCO 800-776-2756"
+        }
+      ]
     },
     {
       "id": "legend-valve",
       "name": "Legend Valve",
       "website": "https://legendvalve.com/about-us/contact-us/",
-      "supportCount": 1
+      "categories": [
+        "plumbing"
+      ],
+      "support": [
+        {
+          "category": "plumbing",
+          "department": "Customer Service / Technical Advisors",
+          "phone": "+18007522082",
+          "country": "US",
+          "regions": [],
+          "timezone": null,
+          "last_verified": "2025-12-24",
+          "specialty_tags": [],
+          "notes": "Main phone listed on Legend Valve Contact Us page; customer service and technical",
+          "source": "legendvalve.com Contact Us"
+        }
+      ]
     },
     {
       "id": "leonard-valve",
       "name": "Leonard Valve",
       "website": "https://www.leonardvalve.com/contacts",
-      "supportCount": 1
+      "categories": [
+        "plumbing"
+      ],
+      "support": [
+        {
+          "category": "plumbing",
+          "department": "Technical Support / Customer Service",
+          "phone": "+18002221208",
+          "country": "US",
+          "regions": [],
+          "timezone": null,
+          "last_verified": "2025-12-25",
+          "specialty_tags": [],
+          "notes": "Toll-free number listed on Leonard Valve contact page; used for product support.",
+          "source": "leonardvalve.com contacts page"
+        }
+      ]
     },
     {
       "id": "liberty-pumps",
       "name": "Liberty Pumps",
       "website": "https://www.libertypumps.com/About/Contact-Us",
-      "supportCount": 1
+      "categories": [
+        "plumbing"
+      ],
+      "support": [
+        {
+          "category": "plumbing",
+          "department": "Customer Service / Technical Support",
+          "phone": "+18005432550",
+          "country": "US",
+          "regions": [],
+          "timezone": null,
+          "last_verified": "2025-12-24",
+          "specialty_tags": [],
+          "notes": "Liberty Pumps contact line commonly used for customer service and technical",
+          "source": "libertypumps.com contact/notification pages"
+        }
+      ]
     },
     {
       "id": "little-giant",
       "name": "Little Giant (Franklin Electric)",
       "website": "https://www.littlegiant.com/resources/news/?newsItemID=12928",
-      "supportCount": 1
+      "categories": [
+        "plumbing"
+      ],
+      "support": [
+        {
+          "category": "plumbing",
+          "department": "Technical Support",
+          "phone": "+18003482420",
+          "country": "US",
+          "regions": [],
+          "timezone": null,
+          "last_verified": "2025-12-24",
+          "specialty_tags": [],
+          "notes": "Little Giant technical support number published by the manufacturer (also",
+          "source": "littlegiant.com news item listing technical support numbers"
+        }
+      ]
     },
     {
       "id": "mansfield-plumbing",
       "name": "Mansfield Plumbing Products",
       "website": "https://www.mansfieldplumbing.com/contact/",
-      "supportCount": 1
+      "categories": [
+        "plumbing"
+      ],
+      "support": [
+        {
+          "category": "plumbing",
+          "department": "Technical Support / Warranty",
+          "phone": "+18778503060",
+          "country": "US",
+          "regions": [],
+          "timezone": null,
+          "last_verified": "2025-12-24",
+          "specialty_tags": [],
+          "notes": "Support line for sanitaryware/plastic fittings/parts and warranty/technical",
+          "source": "mansfieldplumbing.com contact page"
+        }
+      ]
     },
     {
       "id": "matco-norca",
       "name": "Matco-Norca",
       "website": "https://www.matco-norca.com",
-      "supportCount": 1
+      "categories": [
+        "plumbing"
+      ],
+      "support": [
+        {
+          "category": "plumbing",
+          "department": "Customer Service",
+          "phone": "+18006882583",
+          "country": "US",
+          "regions": [],
+          "timezone": null,
+          "last_verified": "2025-12-25",
+          "specialty_tags": [],
+          "notes": "Corporate customer service for plumbing/PVF products.",
+          "source": "https://www.matco-norca.com/contact-us/"
+        }
+      ]
     },
     {
       "id": "mcguire-manufacturing",
       "name": "McGuire Manufacturing",
       "website": "https://www.mcguiremfg.com/resources-main",
-      "supportCount": 1
+      "categories": [
+        "plumbing"
+      ],
+      "support": [
+        {
+          "category": "plumbing",
+          "department": "Customer Service",
+          "phone": "+18006761832",
+          "country": "US",
+          "regions": [],
+          "timezone": null,
+          "last_verified": "2025-12-25",
+          "specialty_tags": [],
+          "notes": "Toll-free customer service number shown on McGuire pages for commercial plumbing",
+          "source": "mcguiremfg.com distributor/contact info"
+        }
+      ]
     },
     {
       "id": "metraflex",
       "name": "Metraflex",
       "website": "https://www.metraflex.com/",
-      "supportCount": 1
+      "categories": [
+        "hvac",
+        "plumbing"
+      ],
+      "support": [
+        {
+          "category": "plumbing",
+          "department": "Support / Contact",
+          "phone": "+18006214347",
+          "country": "US",
+          "regions": [],
+          "timezone": null,
+          "last_verified": "2025-12-25",
+          "specialty_tags": [],
+          "notes": "Metraflex engineered piping solutions support line (piping/noise/vibration",
+          "source": "metraflex.com support page"
+        }
+      ]
     },
     {
       "id": "mifab",
       "name": "MIFAB",
       "website": "https://mifab.com",
-      "supportCount": 1
+      "categories": [
+        "plumbing"
+      ],
+      "support": [
+        {
+          "category": "plumbing",
+          "department": "Customer Support",
+          "phone": "+18004652736",
+          "country": "US",
+          "regions": [],
+          "timezone": null,
+          "last_verified": "2025-12-25",
+          "specialty_tags": [],
+          "notes": "Toll-free customer support listed on MIFAB customer service page.",
+          "source": "mifab.com customer service page"
+        }
+      ]
     },
     {
       "id": "mission-rubber",
       "name": "Mission Rubber Company",
       "website": "https://www.missionrubber.com/warranty/",
-      "supportCount": 1
+      "categories": [
+        "plumbing"
+      ],
+      "support": [
+        {
+          "category": "plumbing",
+          "department": "Product Help / Support",
+          "phone": "+18008549991",
+          "country": "US",
+          "regions": [],
+          "timezone": null,
+          "last_verified": "2025-12-25",
+          "specialty_tags": [],
+          "notes": "Support line listed as 'Need Help?' on Mission Rubber site.",
+          "source": "missionrubber.com warranty page"
+        }
+      ]
     },
     {
       "id": "moen",
       "name": "Moen",
       "website": "https://s2-proofing.moen.com/customer-support/contact-us",
-      "supportCount": 1
+      "categories": [
+        "plumbing"
+      ],
+      "support": [
+        {
+          "category": "plumbing",
+          "department": "Customer & Technical Support",
+          "phone": "+18002896636",
+          "country": "US",
+          "regions": [],
+          "timezone": null,
+          "last_verified": "2025-12-24",
+          "specialty_tags": [],
+          "notes": "Moen customer/technical support line (1-800-BUY-MOEN).",
+          "source": "moen.com contact us page"
+        }
+      ]
     },
     {
       "id": "mueller-co",
       "name": "Mueller Co. (Water Products)",
       "website": "https://www.muellercompany.com/contact/",
-      "supportCount": 1
-    },
-    {
-      "id": "mueller-water-products",
-      "name": "Mueller Co. Water Products",
-      "website": "https://www.muellercompany.com/",
-      "supportCount": 1
+      "categories": [
+        "plumbing"
+      ],
+      "support": [
+        {
+          "category": "plumbing",
+          "department": "Customer Service / Product Support",
+          "phone": "+18004231323",
+          "country": "US",
+          "regions": [],
+          "timezone": null,
+          "last_verified": "2025-12-24",
+          "specialty_tags": [],
+          "notes": "Mueller Co. customer service line for water distribution valves/hydrants/products.",
+          "source": "muellercompany.com contact page"
+        }
+      ]
     },
     {
       "id": "mueller-streamline",
       "name": "Mueller Streamline Co.",
       "website": "https://muellerstreamline.com/contact/",
-      "supportCount": 1
+      "categories": [
+        "plumbing",
+        "hvac"
+      ],
+      "support": [
+        {
+          "category": "plumbing",
+          "department": "Customer Service / Product Support",
+          "phone": "+18003488464",
+          "country": "US",
+          "regions": [],
+          "timezone": null,
+          "last_verified": "2025-12-25",
+          "specialty_tags": [],
+          "notes": "Customer Service line listed as 1-800-FITTING.",
+          "source": "muellerstreamline.com find-a-rep/contact pages (Customer Service 1-800-FITTING)"
+        }
+      ]
+    },
+    {
+      "id": "mueller-water-products",
+      "name": "Mueller Co. Water Products",
+      "website": "https://www.muellercompany.com/",
+      "categories": [
+        "plumbing"
+      ],
+      "support": [
+        {
+          "category": "plumbing",
+          "department": "Customer Service",
+          "phone": "+18004231323",
+          "country": "US",
+          "regions": [],
+          "timezone": null,
+          "last_verified": "2025-12-25",
+          "specialty_tags": [],
+          "notes": "Customer service line for Mueller water products division.",
+          "source": "muellercompany.com contact page"
+        }
+      ]
     },
     {
       "id": "murdock-manufacturing",
       "name": "Murdock Manufacturing",
       "website": "https://www.murdockmfg.com/contact-us",
-      "supportCount": 1
-    },
-    {
-      "id": "myers",
-      "name": "Myers (Pentair)",
-      "website": "https://www.pentair.com/en-us/flow/myers/myers-resources.html",
-      "supportCount": 1
+      "categories": [
+        "plumbing"
+      ],
+      "support": [
+        {
+          "category": "plumbing",
+          "department": "Technical Support / Customer Service",
+          "phone": "+18004537465",
+          "country": "US",
+          "regions": [],
+          "timezone": null,
+          "last_verified": "2025-12-25",
+          "specialty_tags": [],
+          "notes": "Telephone number listed on Murdock contact page; used for support and product",
+          "source": "murdockmfg.com contact page"
+        }
+      ]
     },
     {
       "id": "myers-pumps",
       "name": "Myers (Pentair)",
       "website": "https://www.pentair.com/en-us/products/pumps/myers.html",
-      "supportCount": 1
+      "categories": [
+        "plumbing",
+        "pumps",
+        "sump-sewage"
+      ],
+      "support": [
+        {
+          "category": "plumbing",
+          "department": "Customer Service / Technical",
+          "phone": "+18002431742",
+          "country": "US",
+          "regions": [],
+          "timezone": null,
+          "last_verified": "2025-12-25",
+          "specialty_tags": [],
+          "notes": "Pentair Flow Technologies contact listing for Myers.",
+          "source": "https://www.pentair.com/en-us/water-softening-filtration/support.html"
+        }
+      ]
+    },
+    {
+      "id": "myers",
+      "name": "Myers (Pentair)",
+      "website": "https://www.pentair.com/en-us/flow/myers/myers-resources.html",
+      "categories": [
+        "plumbing"
+      ],
+      "support": [
+        {
+          "category": "plumbing",
+          "department": "Customer Service / Support",
+          "phone": "+18889878677",
+          "country": "US",
+          "regions": [],
+          "timezone": null,
+          "last_verified": "2025-12-25",
+          "specialty_tags": [],
+          "notes": "Pentair Myers customer support line listed on Myers resources page.",
+          "source": "https://www.pentair.com/en-us/flow/myers/myers-resources.html"
+        }
+      ]
     },
     {
       "id": "nds",
       "name": "NDS",
       "website": "https://www.ndspro.com",
-      "supportCount": 1
+      "categories": [
+        "plumbing"
+      ],
+      "support": [
+        {
+          "category": "plumbing",
+          "department": "Product Support",
+          "phone": "+18888254716",
+          "country": "US",
+          "regions": [],
+          "timezone": null,
+          "last_verified": "2025-12-25",
+          "specialty_tags": [],
+          "notes": "Product support call center.",
+          "source": "ndspro.com contact us page"
+        }
+      ]
     },
     {
       "id": "neoperl",
       "name": "Neoperl",
       "website": "https://www.neoperl.com/global/en/company/about-us/locations",
-      "supportCount": 1
+      "categories": [
+        "plumbing"
+      ],
+      "support": [
+        {
+          "category": "plumbing",
+          "department": "US Office",
+          "phone": "+12037568891",
+          "country": "US",
+          "regions": [],
+          "timezone": null,
+          "last_verified": "2025-12-25",
+          "specialty_tags": [],
+          "notes": "US office phone listed on Neoperl locations page.",
+          "source": "neoperl.com locations page"
+        }
+      ]
     },
     {
       "id": "niagara-conservation",
       "name": "Niagara Conservation",
       "website": "https://niagaracorp.com/support/contact/",
-      "supportCount": 1
+      "categories": [
+        "plumbing"
+      ],
+      "support": [
+        {
+          "category": "plumbing",
+          "department": "Customer Service / Support",
+          "phone": "+18887330197",
+          "country": "US",
+          "regions": [],
+          "timezone": null,
+          "last_verified": "2025-12-25",
+          "specialty_tags": [],
+          "notes": "Niagara Conservation customer service/support line (fixtures/valves).",
+          "source": "niagaracorp.com contact page"
+        }
+      ]
     },
     {
       "id": "nibco",
       "name": "NIBCO",
       "website": "https://www.nibco.com/",
-      "supportCount": 1
+      "categories": [
+        "plumbing"
+      ],
+      "support": [
+        {
+          "category": "plumbing",
+          "department": "Technical Services",
+          "phone": "+18884464226",
+          "country": "US",
+          "regions": [],
+          "timezone": null,
+          "last_verified": "2025-12-24",
+          "specialty_tags": [],
+          "notes": "Technical services for valves, fittings, and related products.",
+          "source": "https://www.nibco.com/contact-us/technical-services/"
+        }
+      ]
     },
     {
       "id": "noritz",
       "name": "Noritz America",
       "website": "https://support.noritz.com/hc/en-us/articles/4407873946271-Contact-Noritz-Technical-Support",
-      "supportCount": 1
+      "categories": [
+        "plumbing",
+        "hydronics"
+      ],
+      "support": [
+        {
+          "category": "plumbing",
+          "department": "Technical Support",
+          "phone": "+18667667489",
+          "country": "US",
+          "regions": [],
+          "timezone": null,
+          "last_verified": "2025-12-25",
+          "specialty_tags": [],
+          "notes": "Noritz technical support for tankless water heaters and related products.",
+          "source": "support.noritz.com Contact Noritz Technical Support article"
+        }
+      ]
     },
     {
       "id": "nupi-americas",
       "name": "Nupi Americas",
       "website": "https://www.nupiamericas.com/find-a-rep",
-      "supportCount": 1
+      "categories": [
+        "plumbing",
+        "hydronics"
+      ],
+      "support": [
+        {
+          "category": "plumbing",
+          "department": "Support / Main Office",
+          "phone": "+18033983579",
+          "country": "US",
+          "regions": [],
+          "timezone": null,
+          "last_verified": "2025-12-25",
+          "specialty_tags": [],
+          "notes": "Main office phone listed on Nupi Americas site (for reps/support).",
+          "source": "nupiamericas.com find-a-rep page"
+        }
+      ]
     },
     {
       "id": "oasis-international",
       "name": "OASIS International",
       "website": "https://www.oasiscoolers.com/contact-us",
-      "supportCount": 1
+      "categories": [
+        "plumbing"
+      ],
+      "support": [
+        {
+          "category": "plumbing",
+          "department": "Technical Support",
+          "phone": "+18006462747",
+          "country": "US",
+          "regions": [],
+          "timezone": null,
+          "last_verified": "2025-12-25",
+          "specialty_tags": [],
+          "notes": "Telephone support number listed on OASIS contact page.",
+          "source": "oasiscoolers.com contact us page"
+        }
+      ]
     },
     {
       "id": "oatey",
       "name": "Oatey",
       "website": "https://www.oatey.com/contact",
-      "supportCount": 2
+      "categories": [
+        "plumbing"
+      ],
+      "support": [
+        {
+          "category": "plumbing",
+          "department": "Technical/Customer Support",
+          "phone": "+18003219532",
+          "country": "US",
+          "regions": [],
+          "timezone": null,
+          "last_verified": "2025-12-24",
+          "specialty_tags": [],
+          "notes": "Oatey main support line (pro + general).",
+          "source": "oatey.com contact page"
+        },
+        {
+          "category": "plumbing",
+          "department": "Cherne Inquiries",
+          "phone": "+18008437584",
+          "country": "US",
+          "regions": [],
+          "timezone": null,
+          "last_verified": "2025-12-24",
+          "specialty_tags": [],
+          "notes": "Cherne (Oatey brand) inquiries line.",
+          "source": "oatey.com contact page"
+        }
+      ]
     },
     {
       "id": "pentair-hydromatic",
       "name": "Pentair - Hydromatic",
       "website": "https://www.pentair.com/en-us/flow/contact-us/commercial-support-contact-us.html",
-      "supportCount": 2
+      "categories": [
+        "plumbing"
+      ],
+      "support": [
+        {
+          "category": "plumbing",
+          "department": "Technical Support",
+          "phone": "+18889578677",
+          "country": "US",
+          "regions": [],
+          "timezone": null,
+          "last_verified": "2025-12-25",
+          "specialty_tags": [],
+          "notes": "Hydromatic support line (commercial support page).",
+          "source": "pentair.com commercial support contact us page (Hydromatic)"
+        },
+        {
+          "category": "plumbing",
+          "department": "Wastewater Tech Support",
+          "phone": "+18552748947",
+          "country": "US",
+          "regions": [],
+          "timezone": null,
+          "last_verified": "2025-12-25",
+          "specialty_tags": [],
+          "notes": "Wastewater tech support line for Hydromatic (commercial support page).",
+          "source": "pentair.com commercial support contact us page (Hydromatic Wastewater)"
+        }
+      ]
     },
     {
       "id": "pentair-myers",
       "name": "Pentair - Myers",
       "website": "https://www.pentair.com/en-us/education-support/contact-us/retail-support-contact-us.html",
-      "supportCount": 2
+      "categories": [
+        "plumbing"
+      ],
+      "support": [
+        {
+          "category": "plumbing",
+          "department": "Technical Support",
+          "phone": "+18889878677",
+          "country": "US",
+          "regions": [],
+          "timezone": null,
+          "last_verified": "2025-12-25",
+          "specialty_tags": [],
+          "notes": "Myers technical support line (Pentair retail support page).",
+          "source": "pentair.com retail support contact us page (Myers Technical Support)"
+        },
+        {
+          "category": "plumbing",
+          "department": "Wastewater Tech Support",
+          "phone": "+18552748948",
+          "country": "US",
+          "regions": [],
+          "timezone": null,
+          "last_verified": "2025-12-25",
+          "specialty_tags": [],
+          "notes": "Wastewater tech support line for Myers (commercial support page).",
+          "source": "pentair.com commercial support contact us page (Myers Wastewater)"
+        }
+      ]
     },
     {
       "id": "pentek",
       "name": "Pentek (Pentair)",
       "website": "https://www.pentair.com/en-us/education-support/contact-us/flow-technologies-contact-us.html",
-      "supportCount": 1
+      "categories": [
+        "plumbing"
+      ],
+      "support": [
+        {
+          "category": "plumbing",
+          "department": "Pro Support",
+          "phone": "+18669736835",
+          "country": "US",
+          "regions": [],
+          "timezone": null,
+          "last_verified": "2025-12-25",
+          "specialty_tags": [],
+          "notes": "Pentair Flow Pro Support line for Pentek.",
+          "source": "https://www.pentair.com/en-us/education-support/contact-us/flow-technologies-contact-us.html"
+        }
+      ]
     },
     {
       "id": "pfister",
       "name": "Pfister",
       "website": "https://www.pfisterfaucets.com/customer-support",
-      "supportCount": 1
+      "categories": [
+        "plumbing"
+      ],
+      "support": [
+        {
+          "category": "plumbing",
+          "department": "Product & Technical Support",
+          "phone": "+18007328238",
+          "country": "US",
+          "regions": [],
+          "timezone": null,
+          "last_verified": "2025-12-25",
+          "specialty_tags": [],
+          "notes": "Customer support line used for product and technical questions.",
+          "source": "pfisterfaucets.com customer support page"
+        }
+      ]
     },
     {
       "id": "pioneer-industries",
       "name": "Pioneer Industries",
       "website": "https://pioneerind.com/contact-us/",
-      "supportCount": 1
+      "categories": [
+        "plumbing"
+      ],
+      "support": [
+        {
+          "category": "plumbing",
+          "department": "Customer Service / Support",
+          "phone": "+18003389468",
+          "country": "US",
+          "regions": [],
+          "timezone": null,
+          "last_verified": "2025-12-25",
+          "specialty_tags": [],
+          "notes": "Pioneer Industries customer service/support line for faucet products.",
+          "source": "pioneerind.com contact us page"
+        }
+      ]
     },
     {
       "id": "prier",
       "name": "PRIER Products",
       "website": "https://www.prier.com",
-      "supportCount": 1
+      "categories": [
+        "plumbing"
+      ],
+      "support": [
+        {
+          "category": "plumbing",
+          "department": "Customer Service",
+          "phone": "+18003629055",
+          "country": "US",
+          "regions": [],
+          "timezone": null,
+          "last_verified": "2025-12-25",
+          "specialty_tags": [],
+          "notes": "PRIER customer service line used for product support/orders.",
+          "source": "https://www.prier.com/blog/the-importance-of-live-customer-service/"
+        }
+      ]
     },
     {
       "id": "red-white-valve",
       "name": "RED-WHITE VALVE CORP.",
       "website": "https://redwhitevalvecorp.com",
-      "supportCount": 1
+      "categories": [
+        "plumbing",
+        "hydronics"
+      ],
+      "support": [
+        {
+          "category": "plumbing",
+          "department": "Office / Support",
+          "phone": "+18002227982",
+          "country": "US",
+          "regions": [],
+          "timezone": null,
+          "last_verified": "2025-12-25",
+          "specialty_tags": [],
+          "notes": "Main office phone listed on contact page.",
+          "source": "redwhitevalvecorp.com contact us page"
+        }
+      ]
     },
     {
       "id": "rehau",
       "name": "REHAU",
       "website": "https://www.rehau.com/us-en/",
-      "supportCount": 1
+      "categories": [
+        "plumbing"
+      ],
+      "support": [
+        {
+          "category": "plumbing",
+          "department": "Mechanical & Plumbing Support",
+          "phone": "+18002976371",
+          "country": "US",
+          "regions": [],
+          "timezone": null,
+          "last_verified": "2025-12-24",
+          "specialty_tags": [],
+          "notes": "Mechanical & plumbing support (incl. PEXa / radiant).",
+          "source": "https://www.rehau.com/us-en/contact-us"
+        }
+      ]
     },
     {
       "id": "reliance-worldwide",
       "name": "Reliance Worldwide / SharkBite",
       "website": "https://www.sharkbite.com/us/en/support",
-      "supportCount": 1
+      "categories": [
+        "plumbing"
+      ],
+      "support": [
+        {
+          "category": "plumbing",
+          "department": "Technical Support",
+          "phone": "+18777004242",
+          "country": "US",
+          "regions": [],
+          "timezone": null,
+          "last_verified": "2025-12-25",
+          "specialty_tags": [],
+          "notes": "SharkBite/RWC technical support line listed on product sheets and retailer",
+          "source": "sharkbite product sheets / retailer Q&A listing 877-700-4242"
+        }
+      ]
     },
     {
       "id": "rwc",
       "name": "Reliance Worldwide Corporation (RWC)",
       "website": "https://www.rwc.com",
-      "supportCount": 1
+      "categories": [
+        "plumbing"
+      ],
+      "support": [
+        {
+          "category": "plumbing",
+          "department": "US Support (RWC brands)",
+          "phone": "+18777004242",
+          "country": "US",
+          "regions": [],
+          "timezone": null,
+          "last_verified": "2025-12-25",
+          "specialty_tags": [],
+          "notes": "RWC US contact used across SharkBite/Cash Acme support.",
+          "source": "https://aspe.org/membership-global-community/affiliate-sponsors/affiliate-sponsor-profile-reliance-worldwide-corporation/"
+        }
+      ]
     },
     {
       "id": "saniflo",
       "name": "SFA Saniflo",
       "website": "https://www.sfasaniflo.com/en/contact-us",
-      "supportCount": 1
+      "categories": [
+        "plumbing"
+      ],
+      "support": [
+        {
+          "category": "plumbing",
+          "department": "Technical Support",
+          "phone": "+18005718191",
+          "country": "US",
+          "regions": [],
+          "timezone": null,
+          "last_verified": "2025-12-25",
+          "specialty_tags": [],
+          "notes": "Saniflo US tech support toll-free number (also lists direct line 732-305-2200).",
+          "source": "https://www.sfasaniflo.com/en/faq"
+        }
+      ]
     },
     {
       "id": "sfa-saniflo",
       "name": "SFA Saniflo",
       "website": "https://www.sfasaniflo.com/en/contact-us",
-      "supportCount": 1
+      "categories": [
+        "plumbing"
+      ],
+      "support": [
+        {
+          "category": "plumbing",
+          "department": "Technical Support",
+          "phone": "+18005718191",
+          "country": "US",
+          "regions": [],
+          "timezone": null,
+          "last_verified": "2025-12-25",
+          "specialty_tags": [],
+          "notes": "Tech/SAV phone listed on SFA Saniflo contact page (Edison, NJ).",
+          "source": "sfasaniflo.com contact us page"
+        }
+      ]
     },
     {
       "id": "sharkbite",
       "name": "SharkBite",
       "website": "https://www.sharkbite.com",
-      "supportCount": 1
+      "categories": [
+        "plumbing"
+      ],
+      "support": [
+        {
+          "category": "plumbing",
+          "department": "US Contact (Product support)",
+          "phone": "+18777004242",
+          "country": "US",
+          "regions": [],
+          "timezone": null,
+          "last_verified": "2025-12-25",
+          "specialty_tags": [],
+          "notes": "US contact listed on SharkBite spec sheets for product support.",
+          "source": "https://www.sharkbite.com/sites/default/files/files/SB_PVCFittings_SpecSheet_072715.pdf"
+        }
+      ]
     },
     {
       "id": "sioux-chief",
       "name": "Sioux Chief",
       "website": "https://www.siouxchief.com/connect/customer-service/contact-us",
-      "supportCount": 1
+      "categories": [
+        "plumbing"
+      ],
+      "support": [
+        {
+          "category": "plumbing",
+          "department": "Customer Service / Technical Support",
+          "phone": "+18008213944",
+          "country": "US",
+          "regions": [],
+          "timezone": null,
+          "last_verified": "2025-12-24",
+          "specialty_tags": [],
+          "notes": "Main toll-free support line.",
+          "source": "siouxchief.com contact us page"
+        }
+      ]
     },
     {
       "id": "sloan",
       "name": "Sloan",
       "website": "https://www.sloan.com/company/support/contact-us",
-      "supportCount": 1
+      "categories": [
+        "plumbing"
+      ],
+      "support": [
+        {
+          "category": "plumbing",
+          "department": "Technical Support",
+          "phone": "+18887562614",
+          "country": "US",
+          "regions": [],
+          "timezone": null,
+          "last_verified": "2025-12-24",
+          "specialty_tags": [],
+          "notes": "Sloan technical support line.",
+          "source": "sloan.com support contact page"
+        }
+      ]
     },
     {
       "id": "speakman",
       "name": "Speakman",
       "website": "https://speakman.com/parts-and-support/contact/",
-      "supportCount": 1
+      "categories": [
+        "plumbing"
+      ],
+      "support": [
+        {
+          "category": "plumbing",
+          "department": "Product Technical Support",
+          "phone": "+18004369172",
+          "country": "US",
+          "regions": [],
+          "timezone": null,
+          "last_verified": "2025-12-24",
+          "specialty_tags": [],
+          "notes": "Speakman product technical support phone listed on Speakman contact page.",
+          "source": "https://speakman.com/parts-and-support/contact/ (official)"
+        }
+      ]
     },
     {
       "id": "spears",
       "name": "Spears Manufacturing",
       "website": "https://www.spearsmfg.com/",
-      "supportCount": 1
+      "categories": [
+        "plumbing"
+      ],
+      "support": [
+        {
+          "category": "plumbing",
+          "department": "Technical Support (via HQ)",
+          "phone": "+16264342830",
+          "country": "US",
+          "regions": [],
+          "timezone": null,
+          "last_verified": "2025-12-24",
+          "specialty_tags": [],
+          "notes": "Spears corporate phone; request Technical Services/Support.",
+          "source": "spearsmfg.com corporate contact references"
+        }
+      ]
     },
     {
       "id": "sta-rite",
       "name": "Sta-Rite (Pentair)",
       "website": "https://www.pentair.com/en-us/education-support/contact-us/flow-technologies-contact-us.html",
-      "supportCount": 1
+      "categories": [
+        "plumbing"
+      ],
+      "support": [
+        {
+          "category": "plumbing",
+          "department": "Pro Support",
+          "phone": "+18887827483",
+          "country": "US",
+          "regions": [],
+          "timezone": null,
+          "last_verified": "2025-12-25",
+          "specialty_tags": [],
+          "notes": "Pentair Flow Pro Support line for Sta-Rite & Wellmate.",
+          "source": "https://www.pentair.com/en-us/education-support/contact-us/flow-technologies-contact-us.html"
+        }
+      ]
     },
     {
       "id": "symmons",
       "name": "Symmons",
       "website": "https://www.symmons.com/support/",
-      "supportCount": 1
-    },
-    {
-      "id": "ts-brass",
-      "name": "T&S Brass",
-      "website": "https://www.tsbrass.com/contact-us",
-      "supportCount": 1
+      "categories": [
+        "plumbing"
+      ],
+      "support": [
+        {
+          "category": "plumbing",
+          "department": "Customer Service / Technical Support",
+          "phone": "+18007966667",
+          "country": "US",
+          "regions": [],
+          "timezone": null,
+          "last_verified": "2025-12-24",
+          "specialty_tags": [],
+          "notes": "Symmons customer service help line (1-800-SYMMONS).",
+          "source": "symmons.com support page"
+        }
+      ]
     },
     {
       "id": "takagi",
       "name": "Takagi Tankless",
       "website": "https://www.takagi.com/support",
-      "supportCount": 1
+      "categories": [
+        "plumbing"
+      ],
+      "support": [
+        {
+          "category": "plumbing",
+          "department": "Customer Service / Technical Support",
+          "phone": "+18888825244",
+          "country": "US",
+          "regions": [],
+          "timezone": null,
+          "last_verified": "2025-12-24",
+          "specialty_tags": [],
+          "notes": "Support phone listed on Takagi support page (tankless water heaters).",
+          "source": "takagi.com Support"
+        }
+      ]
     },
     {
       "id": "toto",
       "name": "TOTO",
       "website": "https://www.totousa.com/about-toto/contact-us",
-      "supportCount": 1
+      "categories": [
+        "plumbing"
+      ],
+      "support": [
+        {
+          "category": "plumbing",
+          "department": "Customer Service / Technical Support",
+          "phone": "+18882958134",
+          "country": "US",
+          "regions": [],
+          "timezone": null,
+          "last_verified": "2025-12-24",
+          "specialty_tags": [],
+          "notes": "TOTO USA customer service line (used for technical support).",
+          "source": "totousa.com contact us page"
+        }
+      ]
+    },
+    {
+      "id": "ts-brass",
+      "name": "T&S Brass",
+      "website": "https://www.tsbrass.com/contact-us",
+      "categories": [
+        "plumbing"
+      ],
+      "support": [
+        {
+          "category": "plumbing",
+          "department": "Customer Service / Technical Support",
+          "phone": "+18004764103",
+          "country": "US",
+          "regions": [],
+          "timezone": null,
+          "last_verified": "2025-12-24",
+          "specialty_tags": [],
+          "notes": "T&S Brass customer service line for assistance and support.",
+          "source": "tsbrass.com contact us page"
+        }
+      ]
     },
     {
       "id": "tyler-pipe",
       "name": "Tyler Pipe & Coupling (McWane)",
       "website": "https://www.tylerpipe.com/about-us/contact-us/",
-      "supportCount": 1
+      "categories": [
+        "plumbing"
+      ],
+      "support": [
+        {
+          "category": "plumbing",
+          "department": "Customer Service / Technical Services",
+          "phone": "+18005278478",
+          "country": "US",
+          "regions": [],
+          "timezone": null,
+          "last_verified": "2025-12-25",
+          "specialty_tags": [],
+          "notes": "Main office phone listed on Tyler Pipe contact page.",
+          "source": "tylerpipe.com contact page"
+        }
+      ]
     },
     {
       "id": "victaulic",
       "name": "Victaulic",
       "website": "https://www.victaulic.com/",
-      "supportCount": 1
+      "categories": [
+        "plumbing"
+      ],
+      "support": [
+        {
+          "category": "plumbing",
+          "department": "Customer/Technical Support (U.S.)",
+          "phone": "+18007425842",
+          "country": "US",
+          "regions": [],
+          "timezone": null,
+          "last_verified": "2025-12-24",
+          "specialty_tags": [],
+          "notes": "U.S. support line listed as 1-800-PICK-VIC.",
+          "source": "https://www.victaulic.com/systems/firelock-nxt-valve-solutions/"
+        }
+      ]
     },
     {
       "id": "viega",
       "name": "Viega",
       "website": "https://www.viega.us/",
-      "supportCount": 1
+      "categories": [
+        "plumbing"
+      ],
+      "support": [
+        {
+          "category": "plumbing",
+          "department": "Technical Support",
+          "phone": "+18668388714",
+          "country": "US",
+          "regions": [],
+          "timezone": null,
+          "last_verified": "2025-12-24",
+          "specialty_tags": [],
+          "notes": "Pro technical support for Viega North America products.",
+          "source": "https://www.viega.us/en/resources.html"
+        }
+      ]
     },
     {
       "id": "wade-drains",
       "name": "Wade Drains",
       "website": "https://www.wadedrains.com/",
-      "supportCount": 1
+      "categories": [
+        "plumbing"
+      ],
+      "support": [
+        {
+          "category": "plumbing",
+          "department": "Technical Support / Customer Service",
+          "phone": "+18006389537",
+          "country": "US",
+          "regions": [],
+          "timezone": null,
+          "last_verified": "2025-12-25",
+          "specialty_tags": [],
+          "notes": "Manufacturer contact number shown on Wade product specification sheets.",
+          "source": "Wade Drains specification sheet PDFs (e.g., Unilog/Protech/First Supply)"
+        }
+      ]
     },
     {
       "id": "ward-manufacturing",
       "name": "Ward Manufacturing (WardFLEX / Ward Fittings)",
       "website": "https://portal.wardmfg.com/Account/LogOn",
-      "supportCount": 1
+      "categories": [
+        "plumbing"
+      ],
+      "support": [
+        {
+          "category": "plumbing",
+          "department": "Customer Service / Technical Support",
+          "phone": "+18002481027",
+          "country": "US",
+          "regions": [],
+          "timezone": null,
+          "last_verified": "2025-12-25",
+          "specialty_tags": [],
+          "notes": "Ward customer service line for fittings and related products.",
+          "source": "portal.wardmfg.com login page (CALL 1-800-248-1027)"
+        }
+      ]
     },
     {
       "id": "wardflex",
       "name": "WARDFlex (Ward Manufacturing / ASC Engineered Solutions)",
       "website": "https://www.wardmfg.com/",
-      "supportCount": 1
+      "categories": [
+        "plumbing",
+        "hydronics"
+      ],
+      "support": [
+        {
+          "category": "plumbing",
+          "department": "Customer Service / Technical Support",
+          "phone": "+18002481027",
+          "country": "US",
+          "regions": [],
+          "timezone": null,
+          "last_verified": "2025-12-25",
+          "specialty_tags": [],
+          "notes": "WARDFlex support line shown on Ward/ASC pages.",
+          "source": "ward/asc portal pages with CALL 1-800-248-1027"
+        }
+      ]
     },
     {
       "id": "watco-manufacturing",
       "name": "Watco Manufacturing",
       "website": "https://www.watcomfg.com/Contact_Us/",
-      "supportCount": 1
+      "categories": [
+        "plumbing"
+      ],
+      "support": [
+        {
+          "category": "plumbing",
+          "department": "Customer Service / Assistance",
+          "phone": "+18008218576",
+          "country": "US",
+          "regions": [],
+          "timezone": null,
+          "last_verified": "2025-12-25",
+          "specialty_tags": [],
+          "notes": "Watco Manufacturing assistance line listed on official contact page and product guide.",
+          "source": "https://www.watcomfg.com/Contact_Us/"
+        }
+      ]
     },
     {
       "id": "watco-mfg",
       "name": "Watco Manufacturing Company",
       "website": "https://www.watcomfg.com",
-      "supportCount": 2
+      "categories": [
+        "plumbing"
+      ],
+      "support": [
+        {
+          "category": "plumbing",
+          "department": "Factory / Rep Phone",
+          "phone": "+18004860251",
+          "country": "US",
+          "regions": [],
+          "timezone": null,
+          "last_verified": "2025-12-25",
+          "specialty_tags": [],
+          "notes": "Pro plumbing bath waste products support via factory line shown by rep listing.",
+          "source": "https://pmireps.com/central-texas/watco/"
+        },
+        {
+          "category": "plumbing",
+          "department": "Factory Assistance",
+          "phone": "+18008218576",
+          "country": "US",
+          "regions": [],
+          "timezone": null,
+          "last_verified": "2025-12-25",
+          "specialty_tags": [],
+          "notes": "Call Watco for assistance per Watco contact/product guide.",
+          "source": "watcomfg.com contact/product guide"
+        }
+      ]
     },
     {
       "id": "water-ace",
       "name": "Water Ace (Pentair)",
       "website": "https://www.pentair.com/en-us/education-support/contact-us/retail-support-contact-us.html",
-      "supportCount": 1
+      "categories": [
+        "plumbing"
+      ],
+      "support": [
+        {
+          "category": "plumbing",
+          "department": "Technical Support",
+          "phone": "+18003656832",
+          "country": "US",
+          "regions": [],
+          "timezone": null,
+          "last_verified": "2025-12-25",
+          "specialty_tags": [],
+          "notes": "Pentair retail technical support line for Flotec & Water Ace.",
+          "source": "https://www.pentair.com/en-us/education-support/contact-us/retail-support-contact-us.html"
+        }
+      ]
     },
     {
       "id": "watts",
       "name": "Watts",
       "website": "https://www.watts.com/",
-      "supportCount": 1
+      "categories": [
+        "hvac",
+        "plumbing"
+      ],
+      "support": [
+        {
+          "category": "plumbing",
+          "department": "Technical Support",
+          "phone": "+19786896066",
+          "country": "US",
+          "regions": [],
+          "timezone": null,
+          "last_verified": "2025-12-24",
+          "specialty_tags": [],
+          "notes": "Watts Plumbing/Heating/Drainage customer support & technical support (press",
+          "source": "watts.com support page"
+        }
+      ]
     },
     {
       "id": "wayne-pumps",
       "name": "WAYNE Pumps",
       "website": "https://www.waynepumps.com/",
-      "supportCount": 1
+      "categories": [
+        "plumbing"
+      ],
+      "support": [
+        {
+          "category": "plumbing",
+          "department": "Customer Support",
+          "phone": "+18002370987",
+          "country": "US",
+          "regions": [],
+          "timezone": null,
+          "last_verified": "2025-12-25",
+          "specialty_tags": [],
+          "notes": "Customer support line.",
+          "source": "waynepumps.com contact page"
+        }
+      ]
     },
     {
       "id": "wayne-water-systems",
       "name": "Wayne Water Systems",
       "website": "https://www.waynepumps.com",
-      "supportCount": 1
+      "categories": [
+        "plumbing"
+      ],
+      "support": [
+        {
+          "category": "plumbing",
+          "department": "Customer Service",
+          "phone": "+18002370987",
+          "country": "US",
+          "regions": [],
+          "timezone": null,
+          "last_verified": "2025-12-25",
+          "specialty_tags": [],
+          "notes": "Customer service phone listed on Wayne contact page.",
+          "source": "waynepumps.com contact us page"
+        }
+      ]
     },
     {
       "id": "webstone",
       "name": "Webstone",
       "website": "https://www.nibco.com/brands/webstone/",
-      "supportCount": 1
+      "categories": [
+        "plumbing"
+      ],
+      "support": [
+        {
+          "category": "plumbing",
+          "department": "Technical Services (Webstone)",
+          "phone": "+18884464226",
+          "country": "US",
+          "regions": [],
+          "timezone": null,
+          "last_verified": "2025-12-24",
+          "specialty_tags": [],
+          "notes": "Webstone brand technical services via NIBCO technical services line.",
+          "source": "https://www.nibco.com/contact-us/technical-services/"
+        }
+      ]
     },
     {
       "id": "wellmate",
       "name": "Wellmate (Pentair)",
       "website": "https://www.pentair.com/en-us/education-support/contact-us/flow-technologies-contact-us.html",
-      "supportCount": 1
+      "categories": [
+        "plumbing"
+      ],
+      "support": [
+        {
+          "category": "plumbing",
+          "department": "Pro Support",
+          "phone": "+18887827483",
+          "country": "US",
+          "regions": [],
+          "timezone": null,
+          "last_verified": "2025-12-25",
+          "specialty_tags": [],
+          "notes": "Pentair Flow Pro Support line for Sta-Rite & Wellmate.",
+          "source": "https://www.pentair.com/en-us/education-support/contact-us/flow-technologies-contact-us.html"
+        }
+      ]
     },
     {
       "id": "willoughby-industries",
       "name": "Willoughby Industries",
       "website": "https://wsf-usa.com/contact/support/",
-      "supportCount": 1
+      "categories": [
+        "plumbing"
+      ],
+      "support": [
+        {
+          "category": "plumbing",
+          "department": "Technical Support",
+          "phone": "+18004284065",
+          "country": "US",
+          "regions": [],
+          "timezone": null,
+          "last_verified": "2025-12-25",
+          "specialty_tags": [],
+          "notes": "Technical support page lists a toll-free number for support.",
+          "source": "wsf-usa.com technical support page"
+        }
+      ]
     },
     {
       "id": "willoughby",
       "name": "Willoughby Industries (WSF)",
       "website": "https://wsf-usa.com/",
-      "supportCount": 1
+      "categories": [
+        "plumbing",
+        "commercial-fixtures"
+      ],
+      "support": [
+        {
+          "category": "plumbing",
+          "department": "Technical Support",
+          "phone": "+18004284065",
+          "country": "US",
+          "regions": [],
+          "timezone": null,
+          "last_verified": "2025-12-25",
+          "specialty_tags": [],
+          "notes": "Technical support line on 'Request Technical Support' page.",
+          "source": "https://wsf-usa.com/contact/support/"
+        }
+      ]
     },
     {
       "id": "wolverine-brass",
       "name": "Wolverine Brass",
       "website": "https://plumbingnet.com/wolverine-brass/",
-      "supportCount": 1
-    },
-    {
-      "id": "woodford",
-      "name": "Woodford Manufacturing",
-      "website": "https://www.woodfordmfg.com",
-      "supportCount": 1
+      "categories": [
+        "plumbing"
+      ],
+      "support": [
+        {
+          "category": "plumbing",
+          "department": "Main",
+          "phone": "+18009449292",
+          "country": "US",
+          "regions": [],
+          "timezone": null,
+          "last_verified": "2025-12-25",
+          "specialty_tags": [],
+          "notes": "Manufacturer listing phone.",
+          "source": "https://plumbingnet.com/wolverine-brass/"
+        }
+      ]
     },
     {
       "id": "woodford-manufacturing",
       "name": "Woodford Manufacturing Company, LLC",
       "website": "https://www.woodfordmfg.com/Contact_Us/",
-      "supportCount": 1
+      "categories": [
+        "plumbing"
+      ],
+      "support": [
+        {
+          "category": "plumbing",
+          "department": "Customer Service",
+          "phone": "+18006216032",
+          "country": "US",
+          "regions": [],
+          "timezone": null,
+          "last_verified": "2025-12-24",
+          "specialty_tags": [],
+          "notes": "Woodford contact page lists customer service phone.",
+          "source": "https://www.woodfordmfg.com/Contact_Us/ (official)"
+        }
+      ]
+    },
+    {
+      "id": "woodford",
+      "name": "Woodford Manufacturing",
+      "website": "https://www.woodfordmfg.com",
+      "categories": [
+        "plumbing"
+      ],
+      "support": [
+        {
+          "category": "plumbing",
+          "department": "Customer Service",
+          "phone": "+18006216032",
+          "country": "US",
+          "regions": [],
+          "timezone": null,
+          "last_verified": "2025-12-25",
+          "specialty_tags": [],
+          "notes": "Customer service line listed on Woodford contact page.",
+          "source": "woodfordmfg.com contact us page"
+        }
+      ]
     },
     {
       "id": "zoeller",
       "name": "Zoeller Pump Company",
       "website": "https://zoellerpumps.com/contact-us/general-contacts/",
-      "supportCount": 1
+      "categories": [
+        "plumbing"
+      ],
+      "support": [
+        {
+          "category": "plumbing",
+          "department": "Product Support / Main Office",
+          "phone": "+18009287867",
+          "country": "US",
+          "regions": [],
+          "timezone": null,
+          "last_verified": "2025-12-24",
+          "specialty_tags": [],
+          "notes": "Zoeller main phone and product support contact for pump applications (USA).",
+          "source": "zoellerpumps.com general contacts"
+        }
+      ]
     },
     {
       "id": "zurn",
       "name": "Zurn (Zurn Elkay Water Solutions)",
       "website": "https://www.zurn.com/us/en/support.html",
-      "supportCount": 1
+      "categories": [
+        "plumbing"
+      ],
+      "support": [
+        {
+          "category": "plumbing",
+          "department": "Customer Support",
+          "phone": "+18556639876",
+          "country": "US",
+          "regions": [],
+          "timezone": null,
+          "last_verified": "2025-12-24",
+          "specialty_tags": [],
+          "notes": "Zurn customer support line (1-855-ONE-ZURN) for product questions and support",
+          "source": "zurn.com support page"
+        }
+      ]
     }
   ]
 }

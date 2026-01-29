@@ -1,26 +1,75 @@
 {
-  "version": "2025.12.25",
-  "shard": "us-hydronics",
-  "generatedAt": "2025-12-25T00:00:00.000Z",
-  "generated_at": "2025-12-25T00:00:00.000Z",
+  "version": "2026-01-29",
   "manufacturers": [
     {
       "id": "aquatherm",
       "name": "aquatherm North America",
       "website": "https://aquatherm.com",
-      "supportCount": 1
+      "categories": [
+        "plumbing",
+        "hydronics"
+      ],
+      "support": [
+        {
+          "category": "hydronics",
+          "department": "Technical Support",
+          "phone": "+18018056657",
+          "country": "US",
+          "regions": [],
+          "timezone": null,
+          "last_verified": "2025-12-25",
+          "specialty_tags": [],
+          "notes": "PP-R piping systems; North America support line.",
+          "source": "https://aquatherm.com"
+        }
+      ]
     },
     {
       "id": "imi-hydronic-engineering",
       "name": "IMI Hydronic Engineering (IMI Flow Design / TA / Pneumatex)",
       "website": "https://www.imiflowdesign.com/",
-      "supportCount": 1
+      "categories": [
+        "hydronics",
+        "plumbing",
+        "hvac-controls"
+      ],
+      "support": [
+        {
+          "category": "hydronics",
+          "department": "Technical / Customer Service",
+          "phone": "+18002753569",
+          "country": "US",
+          "regions": [],
+          "timezone": null,
+          "last_verified": "2025-12-25",
+          "specialty_tags": [],
+          "notes": "1-800-ASK-FLOW listed on IMI Flow Design contact page.",
+          "source": "https://www.imiflowdesign.com/contact/"
+        }
+      ]
     },
     {
       "id": "smith-cast-iron",
       "name": "Smith Cast Iron Boilers",
       "website": "https://smithboiler.com/",
-      "supportCount": 1
+      "categories": [
+        "hydronics",
+        "boilers"
+      ],
+      "support": [
+        {
+          "category": "hydronics",
+          "department": "Customer Service / Technical",
+          "phone": "+18332655371",
+          "country": "US",
+          "regions": [],
+          "timezone": null,
+          "last_verified": "2025-12-25",
+          "specialty_tags": [],
+          "notes": "Customer service line on Smith Cast Iron Boilers contact information.",
+          "source": "https://smithboiler.com/contact/"
+        }
+      ]
     }
   ]
 }
