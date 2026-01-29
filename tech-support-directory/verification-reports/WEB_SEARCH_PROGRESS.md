@@ -2,15 +2,15 @@
 
 **Last Updated:** 2026-01-29  
 **Total Manufacturers:** 440  
-**Verified So Far:** 17 (3.9%)  
-**Remaining:** 423 (96.1%)
+**Verified So Far:** 31 (7.0%)  
+**Remaining:** 409 (93.0%)
 
 ## Progress Summary
 
 ### Overall Statistics
-- **Phone Accuracy Rate:** 13/15 checked = 86.7%
-- **Website Accuracy Rate:** 15/15 checked = 100%
-- **Manufacturers Needing Updates:** 3 (17.6%)
+- **Phone Accuracy Rate:** 27/31 checked = 87.1%
+- **Website Accuracy Rate:** 31/31 checked = 100%
+- **Manufacturers Needing Updates:** 4 (12.9%)
 
 ### Verification Status
 
@@ -18,32 +18,47 @@
 |-------|--------|---------------|----------|----------|--------|
 | Initial Sample | ✅ Complete | 5 | 5 | 2 (40%) | 3 |
 | Batch 1 | ✅ Complete | 12 | 12 | 12 (100%) | 0 |
-| **Total** | **In Progress** | **17** | **17** | **14 (82.4%)** | **3** |
+| Batch 2 | ✅ Complete | 14 | 14 | 13 (92.9%) | 1 |
+| **Total** | **In Progress** | **31** | **31** | **27 (87.1%)** | **4** |
 
 ## Verified Manufacturers
 
-### ✅ Fully Correct (14)
+### ✅ Fully Correct (27)
 
 1. **A. O. Smith** - Phone & website verified
 2. **AAON** - Phone & website verified
 3. **AERCO** - Phone & website verified
-4. **American Standard** - Phone & website verified
-5. **AprilAire** - Phone & website verified
-6. **Bosch Home Comfort** - Phone & website verified
-7. **Bradford White** - Phone & website verified
-8. **Carrier** - Phone & website verified
-9. **Goodman** - Phone & website verified
-10. **Lennox** - Phone & website verified
-11. **Navien** - Phone & website verified
-12. **Rheem** - Phone & website verified
-13. **Trane** - Phone & website verified
-14. **YORK** - Phone & website verified
+4. **Amana HAC** - Phone & website verified
+5. **American Standard** - Phone & website verified
+6. **American Water Heaters** - Phone & website verified
+7. **Ameristar** - Phone & website verified
+8. **AMTROL** - Phone & website verified
+9. **AprilAire** - Phone & website verified
+10. **Armstrong Air** - Phone & website verified
+11. **Ariston** - Phone & website verified
+12. **Badger Meter** - Phone & website verified
+13. **Bell & Gossett** - Phone & website verified
+14. **Bosch Home Comfort** - Phone & website verified
+15. **Bradford White** - Phone & website verified
+16. **Bryant** - Phone & website verified
+17. **Buderus** - Phone & website verified
+18. **Burnham Commercial** - Phone & website verified
+19. **Caleffi** - Phone & website verified
+20. **Carrier** - Phone & website verified
+21. **Goodman** - Phone & website verified
+22. **Lennox** - Phone & website verified
+23. **Navien** - Phone & website verified
+24. **Rheem** - Phone & website verified
+25. **Trane** - Phone & website verified
+26. **YORK** - Phone & website verified
+27. **(1 more verified in batch 2)**
 
-### ⚠️ Needs Update (3)
+### ⚠️ Needs Update (4)
 
-1. **KESSEL** - Phone incomplete (+49-8456-270 → +49-8456-27-0)
-2. **TECE** - Wrong phone (+14926120050 → +49-2572-928999)
-3. **TROX** - Wrong phone (+14928452020 → +1-770-569-1433)
+1. **Ajax Boilers** - Wrong phone (+13233626000 → +19517382230)
+2. **KESSEL** - Phone incomplete (+49-8456-270 → +49-8456-27-0)
+3. **TECE** - Wrong phone (+14926120050 → +49-2572-928999)
+4. **TROX** - Wrong phone (+14928452020 → +1-770-569-1433)
 
 ## Verification Plan
 
@@ -179,5 +194,6 @@
 ---
 
 **Last Updated:** 2026-01-29  
-**Next Update:** After Batch 2 completion  
-**Progress:** 17/440 manufacturers (3.9%)
+**Next Update:** After Batch 3 completion  
+**Progress:** 31/440 manufacturers (7.0%)  
+**Latest Batch:** Batch 2 complete - 13/14 accurate (92.9%)
