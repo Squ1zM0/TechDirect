@@ -1,7 +1,5 @@
 {
-  "generated_at": "2025-12-25T00:00:00.000Z",
-  "generatedAt": "2025-12-25T00:00:00.000Z",
-  "shard": "ca-hvac",
+  "version": "2026-01-29",
   "manufacturers": [
     {
       "id": "armstrong-international",
@@ -10,7 +8,20 @@
       "categories": [
         "hvac"
       ],
-      "supportCount": 1
+      "support": [
+        {
+          "category": "hvac",
+          "department": "Technical Questions / Application Help",
+          "phone": "+14503782655",
+          "country": "CA",
+          "regions": [],
+          "timezone": null,
+          "last_verified": "2025-12-24",
+          "specialty_tags": [],
+          "notes": "Primary phone number listed on Armstrong International contact list; for",
+          "source": "armstronginternational.com Armstrong Contact List PDF"
+        }
+      ]
     },
     {
       "id": "axiom-industries",
@@ -19,7 +30,20 @@
       "categories": [
         "hvac"
       ],
-      "supportCount": 1
+      "support": [
+        {
+          "category": "hvac",
+          "department": "Sales / Technical",
+          "phone": "+18776511815",
+          "country": "CA",
+          "regions": [],
+          "timezone": null,
+          "last_verified": "2025-12-24",
+          "specialty_tags": [],
+          "notes": "Toll-free number listed on Axiom Industries contact page (hydronic pressurization/feeding",
+          "source": "axiomind.com Contact Us"
+        }
+      ]
     },
     {
       "id": "camus-hydronics",
@@ -28,7 +52,20 @@
       "categories": [
         "hvac"
       ],
-      "supportCount": 1
+      "support": [
+        {
+          "category": "hvac",
+          "department": "Technical Support",
+          "phone": "+19056967800",
+          "country": "CA",
+          "regions": [],
+          "timezone": null,
+          "last_verified": "2025-12-24",
+          "specialty_tags": [],
+          "notes": "Manufacturer HQ line (Canada); serves equipment installed in the U.S.",
+          "source": "https://camus-hydronics.com/contactus"
+        }
+      ]
     },
     {
       "id": "nu-air",
@@ -37,7 +74,20 @@
       "categories": [
         "hvac"
       ],
-      "supportCount": 1
+      "support": [
+        {
+          "category": "hvac",
+          "department": "Technical / Sales Support (HRV/ERV)",
+          "phone": "+18005652261",
+          "country": "CA",
+          "regions": [],
+          "timezone": null,
+          "last_verified": "2025-12-24",
+          "specialty_tags": [],
+          "notes": "Toll-free number listed for Nu-Air Ventilation (Canada; used across North America).",
+          "source": "ACHR News HVACR directory / Nu-Air contact info"
+        }
+      ]
     },
     {
       "id": "swegon",
@@ -47,7 +97,20 @@
         "hvac",
         "airflow"
       ],
-      "supportCount": 1
+      "support": [
+        {
+          "category": "hvac",
+          "department": "North America Head Office",
+          "phone": "+14162917371",
+          "country": "CA",
+          "regions": [],
+          "timezone": null,
+          "last_verified": "2025-12-24",
+          "specialty_tags": [],
+          "notes": "Swegon North America head office phone (NA support routing).",
+          "source": "swegon.com/na/contact"
+        }
+      ]
     }
   ]
 }
