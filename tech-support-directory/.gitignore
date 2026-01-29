@@ -1,0 +1,7 @@
+# Verification reports - keep summaries, exclude large JSON files
+verification-reports/*.json
+verification-reports/*.csv
+
+# Keep summary reports
+!verification-reports/VALIDATION_SUMMARY.md
+!verification-reports/*.md

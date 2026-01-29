@@ -14,13 +14,18 @@ This repo contains the **baseline, curated** manufacturer tech support directory
 
 ## Verification & Quality Assurance
 
-**Current Status:** ✅ All 436 manufacturers verified (Dec 24-25, 2025)
+**Current Status:** ✅ All 440 manufacturers validated (January 29, 2026)
 
-This directory has undergone comprehensive verification to ensure accuracy and reliability. All entries include:
-- ✅ Verified phone numbers from official manufacturer sources
+This directory has undergone comprehensive automated verification to ensure accuracy and reliability. All entries include:
+- ✅ Verified phone numbers from official manufacturer sources (99.34% validity rate)
 - ✅ Source documentation (official URLs)
 - ✅ Department routing information
 - ✅ Recent verification dates (within 90 days)
+
+**Latest Validation:** January 29, 2026
+- **456 phone numbers verified** - 453 valid (99.34%)
+- **440 website URLs validated** - All passed format checks
+- See [VALIDATION_SUMMARY.md](./verification-reports/VALIDATION_SUMMARY.md) for complete results
 
 ### Documentation
 - **[AUDIT_REPORT.md](./AUDIT_REPORT.md)** - Complete audit results and quality metrics
