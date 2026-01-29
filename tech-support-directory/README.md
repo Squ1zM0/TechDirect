@@ -33,11 +33,22 @@ This directory has undergone comprehensive automated verification to ensure accu
 
 ### Verification Scripts
 
-**Comprehensive contact verification (NEW):**
+**Comprehensive contact verification:**
 ```bash
 node scripts/verify-contacts.js
 ```
 Automated verification of phone numbers and websites with detailed reporting. Validates format, checks accessibility, SSL certificates, and generates comprehensive reports in JSON, CSV, or Markdown formats.
+
+**Network-enabled validation (recommended for full validation):**
+```bash
+node scripts/network-validation.js --verbose
+```
+⚠️ **Requires network access** to fully validate websites (HTTP status, SSL certificates, accessibility). The sandbox environment has network limitations. For complete validation, run on:
+- Your local machine
+- GitHub Actions (workflow included)
+- Cloud instance with network access
+
+See **[NETWORK_VALIDATION_QUICKSTART.md](./NETWORK_VALIDATION_QUICKSTART.md)** for setup instructions.
 
 See **[VERIFICATION_TOOL.md](./VERIFICATION_TOOL.md)** for complete documentation.
 

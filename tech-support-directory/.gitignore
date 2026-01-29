@@ -2,6 +2,11 @@
 verification-reports/*.json
 verification-reports/*.csv
 
+# Network validation reports - keep summaries
+network-validation-reports/*.json
+network-validation-reports/*.csv
+
 # Keep summary reports
 !verification-reports/VALIDATION_SUMMARY.md
 !verification-reports/*.md
+!network-validation-reports/*.md
