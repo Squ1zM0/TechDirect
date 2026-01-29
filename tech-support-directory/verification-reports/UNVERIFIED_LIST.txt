@@ -1,0 +1,356 @@
+Unverified Manufacturers (352 total)
+Generated: 2026-01-29T22:18:42.743Z
+
+NAME	CATEGORY	COUNTRY	FILE
+A. O. Smith Water Products	hvac	undefined	a/a-o-smith.yaml
+Aalberts integrated piping systems (Apollo Valves)	plumbing	undefined	a/aalberts-ips.yaml
+AB&I Foundry (McWane)	plumbing	undefined	a/ab-i-foundry.yaml
+ABB Installation Products (Carlon / T&B)	electrical	undefined	a/abb-installation-products.yaml
+ABB	electrical	undefined	a/abb.yaml
+ACO Drain	plumbing	undefined	a/aco-drain.yaml
+Acorn Engineering	plumbing	undefined	a/acorn-engineering.yaml
+AcornVac	plumbing	undefined	a/acornvac.yaml
+Acuity Brands	electrical	undefined	a/acuity-brands.yaml
+Addison HVAC	hvac	undefined	a/addison.yaml
+Advance Tabco	plumbing	undefined	a/advance-tabco.yaml
+Advantech	electrical	undefined	a/advantech.yaml
+Airedale by Modine	hvac	undefined	a/airedale.yaml
+Alfa Laval	hvac	undefined	a/alfa-laval.yaml
+Amana Heating & Air Conditioning	hvac	undefined	a/amana-hac.yaml
+American-Marsh Pumps	hvac, plumbing	undefined	a/american-marsh.yaml
+American Standard Heating & Air Conditioning	hvac	undefined	a/american-standard-air.yaml
+American Standard (Plumbing)	plumbing	undefined	a/american-standard-plumbing.yaml
+Ames Fire & Waterworks	plumbing	undefined	a/ames-fire-and-waterworks.yaml
+AMT Pump Company	plumbing	undefined	a/amt-pumps.yaml
+Anden	hvac	undefined	a/anden.yaml
+Anemostat (Air Distribution Laboratories)	hvac	undefined	a/anemostat.yaml
+Anvil (ASC Engineered Solutions)	plumbing, hydronics	undefined	a/anvil.yaml
+A. O. Smith Water Products	hvac	undefined	a/ao-smith-water-products.yaml
+A. O. Smith Water Products	hvac	undefined	a/ao-smith.yaml
+APC by Schneider Electric	electrical	undefined	a/apc.yaml
+aquatherm North America	plumbing, hydronics	undefined	a/aquatherm.yaml
+Ariston (USA)	plumbing	undefined	a/ariston.yaml
+Armstrong Fluid Technology	hvac	undefined	a/armstrong-fluid-technology.yaml
+Armstrong International	hvac	undefined	a/armstrong-international.yaml
+Axiom Industries	hvac	undefined	a/axiom-industries.yaml
+A.Y. McDonald	plumbing	undefined	a/ay-mcdonald.yaml
+Baltimore Aircoil Company (BAC)	hvac	undefined	b/baltimore-aircoil.yaml
+Banner Engineering	electrical	undefined	b/banner-engineering.yaml
+Basement Watchdog	plumbing	undefined	b/basement-watchdog.yaml
+Beckett (R.W. Beckett)	hvac	undefined	b/beckett.yaml
+Belden	electrical	undefined	b/belden.yaml
+Belimo	hvac	undefined	b/belimo.yaml
+Bell & Gossett (Xylem)	hvac, plumbing	undefined	b/bell-gossett.yaml
+Bender (North America)	electrical	undefined	b/bender.yaml
+Berkeley Pumps (Pentair)	plumbing	undefined	b/berkeley-pumps.yaml
+BITZER	hvac	undefined	b/bitzer.yaml
+BLANCO America	plumbing	undefined	b/blanco.yaml
+BLÜCHER (USA)	plumbing, drainage	undefined	b/blucher.yaml
+Blue Angel Pumps	plumbing	undefined	b/blue-angel-pumps.yaml
+Bosch Home Comfort (Thermotechnology)	plumbing	undefined	b/bosch-thermotechnology.yaml
+Bradley Corporation	plumbing	undefined	b/bradley-corporation.yaml
+Bradley Corporation	plumbing	undefined	b/bradley.yaml
+BrassCraft	plumbing	undefined	b/brasscraft.yaml
+Bridgeport Fittings (NSI Industries)	electrical	undefined	b/bridgeport-fittings.yaml
+Brizo	plumbing	undefined	b/brizo.yaml
+Buderus (Bosch Thermotechnology)	hvac	undefined	b/buderus.yaml
+Burcam	plumbing	undefined	b/burcam.yaml
+BURNDY	electrical	undefined	b/burndy.yaml
+Burnham Commercial Boilers	hvac, plumbing	undefined	b/burnham-commercial.yaml
+Burnham Hydronics	hvac	undefined	b/burnham-hydronics.yaml
+Caleffi North America	hvac	undefined	c/caleffi.yaml
+Calpeda	hvac	undefined	c/calpeda.yaml
+Camfil USA	hvac, airflow	undefined	c/camfil.yaml
+Camus Hydronics	hvac	undefined	c/camus-hydronics.yaml
+Camus Hydronics	hydronics, boilers, water-heaters	undefined	c/camus.yaml
+CANTEX	electrical	undefined	c/cantex.yaml
+CaptiveAire	hvac	undefined	c/captiveaire.yaml
+CAREL USA	hvac	undefined	c/carel.yaml
+Carlin Combustion	hvac	undefined	c/carlin.yaml
+Cherne (Oatey)	plumbing	undefined	c/cherne.yaml
+Cimberio Valve US	plumbing	undefined	c/cimberio.yaml
+Cla-Val	plumbing	undefined	c/cla-val.yaml
+ClimateMaster	hvac	undefined	c/climatemaster.yaml
+Clivet (Mits Airconditioning Inc.)	hvac	undefined	c/clivet.yaml
+Colmac Coil	hvac	undefined	c/colmac-coil.yaml
+Columbia Boiler Company	hvac	undefined	c/columbia-boiler.yaml
+Condair	hvac	undefined	c/condair.yaml
+Control Techniques (Nidec Drives)	electrical	undefined	c/control-techniques.yaml
+Cooper Lighting Solutions	electrical	undefined	c/cooper-lighting-solutions.yaml
+Copeland	hvac	undefined	c/copeland.yaml
+Cresline Plastic Pipe Co., Inc.	plumbing	undefined	c/cresline.yaml
+Daikin Applied	hvac	undefined	d/daikin-applied.yaml
+Data Aire	hvac	undefined	d/data-aire.yaml
+Dearborn (Oatey)	plumbing	undefined	d/dearborn.yaml
+Dectron	hvac	undefined	d/dectron.yaml
+Desert Aire	hvac	undefined	d/desert-aire.yaml
+Diamond Plastics Corporation	plumbing	undefined	d/diamond-plastics.yaml
+DriSteem	hvac	undefined	d/dristeem.yaml
+Dunkirk Boilers	hvac	undefined	d/dunkirk.yaml
+Duravit USA	plumbing	undefined	d/duravit.yaml
+Eaton	electrical	undefined	e/eaton.yaml
+ebm-papst USA	hvac	undefined	e/ebm-papst.yaml
+EcoSmart	plumbing	undefined	e/ecosmart.yaml
+Eemax	plumbing	undefined	e/eemax.yaml
+ELCO	hvac	undefined	e/elco.yaml
+Eljer	plumbing	undefined	e/eljer.yaml
+Emerson Appleton	electrical	undefined	e/emerson-appleton.yaml
+Encore Wire	electrical	undefined	e/encore-wire.yaml
+Energy Kinetics	hvac	undefined	e/energy-kinetics.yaml
+Engineered Air, LLC	hvac	undefined	e/engineered-air-llc.yaml
+Environment One (E/One)	plumbing, hydronics	undefined	e/environment-one.yaml
+Environment One (E/One)	plumbing	undefined	e/eone.yaml
+EVAPCO	hvac	undefined	e/evapco.yaml
+Fantech	hvac	undefined	f/fantech.yaml
+FEBCO (Watts)	plumbing	undefined	f/febco.yaml
+Fenwal Controls (Kidde-Fenwal)	hvac	undefined	f/fenwal-controls.yaml
+Fernco	plumbing	undefined	f/fernco.yaml
+Fernox	hvac, plumbing	undefined	f/fernox.yaml
+Fisher Manufacturing	plumbing	undefined	f/fisher-manufacturing.yaml
+Fl\xE4ktGroup SEMCO	hvac	undefined	f/flaktgroup-semco.yaml
+Flamco	hvac	undefined	f/flamco.yaml
+Flexcon	hvac	undefined	f/flexcon.yaml
+Flint & Walling (Pentair)	plumbing, pumps, water-systems	undefined	f/flint-walling.yaml
+Flomatic Valves	plumbing	undefined	f/flomatic.yaml
+Flotec (Pentair)	plumbing	undefined	f/flotec.yaml
+Fluidmaster	plumbing	undefined	f/fluidmaster.yaml
+Flushmate (Pressure-Assist Systems)	plumbing	undefined	f/flushmate.yaml
+Ford Meter Box	plumbing, waterworks, valves	undefined	f/ford-meter-box.yaml
+Franke	plumbing	undefined	f/franke.yaml
+Fujitsu General America	hvac	undefined	f/fujitsu-general.yaml
+Fulton	hvac	undefined	f/fulton.yaml
+Geberit	plumbing	undefined	g/geberit.yaml
+Georg Fischer (GF Piping Systems)	plumbing, piping-systems	undefined	g/georg-fischer.yaml
+Gerber Plumbing Fixtures	plumbing	undefined	g/gerber.yaml
+GF Piping Systems	plumbing, hydronics	undefined	g/gf-piping-systems.yaml
+Giacomini	hydronics, plumbing	undefined	g/giacomini.yaml
+Goulds Water Technology (Xylem)	plumbing	undefined	g/goulds-water-technology.yaml
+GREE Comfort	hvac	undefined	g/gree.yaml
+Greenheck (DOAS)	hvac	undefined	g/greenheck-doas.yaml
+Guardian Equipment	plumbing	undefined	g/guardian-equipment.yaml
+Halton	hvac	undefined	h/halton.yaml
+Hammond Power Solutions	electrical	undefined	h/hammond-power-solutions.yaml
+Hansgrohe USA	plumbing	undefined	h/hansgrohe.yaml
+Hart & Cooley	hvac	undefined	h/hart-cooley.yaml
+Heat-Timer	hvac	undefined	h/heat-timer.yaml
+Heatcraft Refrigeration Products	hvac	undefined	h/heatcraft-refrigeration-products.yaml
+Heatcraft Refrigeration Products	hvac	undefined	h/heatcraft-rpd.yaml
+HELUKABEL USA	electrical	undefined	h/helukabel.yaml
+Hitachi Cooling & Heating	hvac	undefined	h/hitachi.yaml
+HL Hutterer & Lechner	plumbing, drainage	undefined	h/hl-hutterer-lechner.yaml
+Hoffman Controls	hvac	undefined	h/hoffman-controls.yaml
+Hoval	hvac	undefined	h/hoval.yaml
+HTP (Heat Transfer Products)	hvac	undefined	h/htp.yaml
+Hubbell	electrical	undefined	h/hubbell.yaml
+Hurst Boiler	hvac	undefined	h/hurst-boiler.yaml
+Hydro-Thermal	hvac, plumbing	undefined	h/hydro-thermal.yaml
+Hydrolevel	hvac	undefined	h/hydrolevel.yaml
+Hydromatic (Pentair)	plumbing, pumps, sump-sewage	undefined	h/hydromatic.yaml
+International Comfort Products (ICP)	hvac	undefined	i/icp.yaml
+IDEAL Industries	electrical	undefined	i/ideal-industries.yaml
+ifm efector, inc.	electrical	undefined	i/ifm.yaml
+ILSCO	electrical	undefined	i/ilsco.yaml
+IMI Hydronic Engineering (IMI Flow Design / TA / Pneumatex)	hydronics, plumbing, hvac-controls	undefined	i/imi-hydronic-engineering.yaml
+IMI Hydronic Engineering	hvac	undefined	i/imi-hydronic.yaml
+Infinity Drain	plumbing, drainage	undefined	i/infinity-drain.yaml
+Intermatic	electrical	undefined	i/intermatic.yaml
+IPEX	plumbing	undefined	i/ipex.yaml
+IPS Corp Plumbing	plumbing	undefined	i/ips-plumbing.yaml
+Itron	electrical	undefined	i/itron.yaml
+Jay R. Smith Mfg. Co.	plumbing	undefined	j/jay-r-smith.yaml
+JM Eagle	plumbing	undefined	j/jm-eagle.yaml
+Jones Stephens	plumbing	undefined	j/jones-stephens.yaml
+Just Manufacturing	plumbing	undefined	j/just-manufacturing.yaml
+Keeney	plumbing	undefined	k/keeney.yaml
+Keystone Technologies	electrical	undefined	k/keystone-tech.yaml
+Killark (Hubbell)	electrical	undefined	k/killark.yaml
+Kinetico	plumbing	undefined	k/kinetico.yaml
+Kohler (Plumbing)	plumbing	undefined	k/kohler-plumbing.yaml
+Korky (Lavelle Industries)	plumbing	undefined	k/korky.yaml
+KRAUS USA	plumbing	undefined	k/kraus.yaml
+Krowne	plumbing	undefined	k/krowne.yaml
+KSB	hvac	undefined	k/ksb.yaml
+Laars Heating Systems	hvac	undefined	l/laars.yaml
+LAPP North America	electrical	undefined	l/lapp.yaml
+LASCO Fittings, Inc.	plumbing	undefined	l/lasco-fittings.yaml
+LASCO Fittings	plumbing	undefined	l/lasco.yaml
+LEDVANCE	electrical	undefined	l/ledvance.yaml
+Legend Valve	plumbing	undefined	l/legend-valve.yaml
+Legrand	electrical	undefined	l/legrand.yaml
+Leonard Valve	plumbing	undefined	l/leonard-valve.yaml
+Lithonia Lighting	electrical	undefined	l/lithonia-lighting.yaml
+Littelfuse	electrical	undefined	l/littelfuse.yaml
+Little Giant (Franklin Electric)	plumbing	undefined	l/little-giant.yaml
+Loren Cook Company	airflow, hvac	undefined	l/loren-cook.yaml
+Lowara	hvac	undefined	l/lowara.yaml
+LG HVAC	hvac	undefined	lg/lg-hvac.yaml
+Mansfield Plumbing Products	plumbing	undefined	m/mansfield-plumbing.yaml
+Marvair	hvac	undefined	m/marvair.yaml
+Matco-Norca	plumbing	undefined	m/matco-norca.yaml
+McGuire Manufacturing	plumbing	undefined	m/mcguire-manufacturing.yaml
+MEAN WELL USA	electrical	undefined	m/mean-well.yaml
+Megger	electrical	undefined	m/megger.yaml
+Mersen	electrical	undefined	m/mersen.yaml
+Metal-Fab (Commercial Venting)	hvac	undefined	m/metal-fab.yaml
+Metraflex	hvac, plumbing	undefined	m/metraflex.yaml
+Midco International	hvac	undefined	m/midco-international.yaml
+Midea	hvac	undefined	m/midea.yaml
+MIFAB	plumbing	undefined	m/mifab.yaml
+Milbank	electrical	undefined	m/milbank.yaml
+Mission Rubber Company	plumbing	undefined	m/mission-rubber.yaml
+Mitsubishi Electric Automation	electrical	undefined	m/mitsubishi-electric-automation.yaml
+Mitsubishi Electric Trane HVAC US (METUS)	hvac	undefined	m/mitsubishi-electric-hvac.yaml
+Miura America	hvac	undefined	m/miura.yaml
+Modine HVAC	hvac	undefined	m/modine.yaml
+Molex	electrical	undefined	m/molex.yaml
+MovinCool	hvac	undefined	m/movincool.yaml
+Moxa Americas	electrical	undefined	m/moxa-americas.yaml
+Mueller Co. (Water Products)	plumbing	undefined	m/mueller-co.yaml
+Mueller Co. (Water Products)	plumbing, hydronics	undefined	m/mueller-company.yaml
+Mueller Streamline Co.	plumbing, hvac	undefined	m/mueller-streamline.yaml
+Mueller Co. Water Products	plumbing	undefined	m/mueller-water-products.yaml
+Munters (US)	hvac	undefined	m/munters-us.yaml
+Munters	hvac	undefined	m/munters.yaml
+Murdock Manufacturing	plumbing	undefined	m/murdock-manufacturing.yaml
+Myers (Pentair)	plumbing, pumps, sump-sewage	undefined	m/myers-pumps.yaml
+Myers (Pentair)	plumbing	undefined	m/myers.yaml
+Nailor Industries	hvac	undefined	n/nailor.yaml
+NDS	plumbing	undefined	n/nds.yaml
+Neoperl	plumbing	undefined	n/neoperl.yaml
+Neptronic	hvac	undefined	n/neptronic.yaml
+New Yorker Boiler	hvac	undefined	n/new-yorker-boiler.yaml
+Niagara Conservation	plumbing	undefined	n/niagara-conservation.yaml
+Nordyne	hvac	undefined	n/nordyne.yaml
+Noritz America	plumbing, hydronics	undefined	n/noritz.yaml
+Nortek Global HVAC	hvac	undefined	n/nortek-global-hvac.yaml
+NSI Industries	electrical	undefined	n/nsi-industries.yaml
+NTI Boilers	hvac, plumbing	undefined	n/nti-boilers.yaml
+Nu-Air Ventilation Systems Inc.	hvac	undefined	n/nu-air.yaml
+Nupi Americas	plumbing, hydronics	undefined	n/nupi-americas.yaml
+nVent ERICO	electrical	undefined	n/nvent-erico.yaml
+nVent HOFFMAN	electrical	undefined	n/nvent-hoffman.yaml
+OASIS International	plumbing	undefined	o/oasis-international.yaml
+Oatey	plumbing	undefined	o/oatey.yaml
+The Okonite Company	electrical	undefined	o/okonite.yaml
+OMRON Automation	electrical	undefined	o/omron-automation.yaml
+Oventrop	hvac	undefined	o/oventrop.yaml
+Panasonic HVAC / IAQ	hvac	undefined	p/panasonic.yaml
+Panduit	electrical	undefined	p/panduit.yaml
+Payne HVAC	hvac	undefined	p/payne.yaml
+PB Heat (Peerless Boilers)	hvac	undefined	p/pb-heat.yaml
+PennBarry	hvac	undefined	p/pennbarry.yaml
+Pentair - Hydromatic	plumbing	undefined	p/pentair-hydromatic.yaml
+Pentair - Myers	plumbing	undefined	p/pentair-myers.yaml
+Pentek (Pentair)	plumbing	undefined	p/pentek.yaml
+Phoenix Contact	electrical	undefined	p/phoenix-contact.yaml
+Plad	hvac, plumbing	undefined	p/plad.yaml
+Plasma Air	hvac	undefined	p/plasma-air.yaml
+POWERS (Watts Brand)	plumbing, hydronics	undefined	p/powers.yaml
+Precision Boilers	hvac	undefined	p/precision-boilers.yaml
+PRIER Products	plumbing	undefined	p/prier.yaml
+Prysmian Group North America (General Cable / Draka)	electrical	undefined	p/prysmian.yaml
+PVI	hvac	undefined	p/pvi.yaml
+QuantumFlo	hvac, plumbing	undefined	q/quantumflo.yaml
+RAB Lighting	electrical	undefined	r/rab-lighting.yaml
+RBI	hvac	undefined	r/rbi-water-heaters.yaml
+RED-WHITE VALVE CORP.	plumbing, hydronics	undefined	r/red-white-valve.yaml
+REHAU	plumbing	undefined	r/rehau.yaml
+Reliable Automatic Sprinkler Co., Inc.	plumbing	undefined	r/reliable-automatic-sprinkler.yaml
+Reliance Worldwide / SharkBite	plumbing	undefined	r/reliance-worldwide.yaml
+Remeha	hvac	undefined	r/remeha.yaml
+RenewAire	hvac	undefined	r/renewaire.yaml
+Resideo	hvac	undefined	r/resideo.yaml
+Riello North America	hvac	undefined	r/riello.yaml
+Rite Boilers	hvac	undefined	r/rite-boiler.yaml
+Rittal	electrical	undefined	r/rittal.yaml
+ROCA USA	plumbing	undefined	r/roca.yaml
+Rockwell Automation	electrical	undefined	r/rockwell-automation.yaml
+Ruskin	hvac	undefined	r/ruskin.yaml
+Reliance Worldwide Corporation (RWC)	plumbing	undefined	r/rwc.yaml
+Safgard	hvac	undefined	s/safgard.yaml
+Samsung HVAC	hvac	undefined	s/samsung-hvac.yaml
+S&C Electric Company	electrical	undefined	s/sandc-electric.yaml
+SFA Saniflo	plumbing	undefined	s/saniflo.yaml
+Scot Pump	hvac, plumbing	undefined	s/scot-pump.yaml
+Schweitzer Engineering Laboratories	electrical	undefined	s/sel.yaml
+Selkirk	hvac	undefined	s/selkirk.yaml
+Sentinel	hvac	undefined	s/sentinel.yaml
+SFA Saniflo	plumbing	undefined	s/sfa-saniflo.yaml
+Siemens	electrical	undefined	s/siemens.yaml
+Signify	electrical	undefined	s/signify.yaml
+Sime	hvac	undefined	s/sime.yaml
+Smith Cast Iron Boilers	hvac	undefined	s/smith-boilers.yaml
+Smith Cast Iron Boilers	hydronics, boilers	undefined	s/smith-cast-iron.yaml
+Soler & Palau (S&P USA Ventilation Systems)	hvac	undefined	s/soler-palau.yaml
+Southwire	electrical	undefined	s/southwire.yaml
+SpacePak	hvac	undefined	s/spacepak.yaml
+Spears Manufacturing	plumbing	undefined	s/spears.yaml
+Spirax Sarco	hvac	undefined	s/spirax-sarco.yaml
+Spirotherm	hvac	undefined	s/spirotherm.yaml
+SPX Cooling Technologies (Marley)	hvac	undefined	s/spx-cooling-technologies.yaml
+Sta-Rite (Pentair)	plumbing	undefined	s/sta-rite.yaml
+Stiebel Eltron USA	hvac	undefined	s/stiebel-eltron.yaml
+STULZ USA	hvac	undefined	s/stulz.yaml
+Suntec Industries	hvac	undefined	s/suntec.yaml
+Superior Boiler	hvac	undefined	s/superior-boiler.yaml
+Swegon North America	hvac, airflow	undefined	s/swegon.yaml
+Symmons	plumbing	undefined	s/symmons.yaml
+Systemair USA	hvac, airflow	undefined	s/systemair.yaml
+Taco Hydroflo Pump Solutions	hvac, plumbing	undefined	t/taco-hydroflo.yaml
+Takagi Tankless	plumbing	undefined	t/takagi.yaml
+Tecumseh Products Company	hvac	undefined	t/tecumseh.yaml
+tekmar Control Systems (Watts)	hvac	undefined	t/tekmar.yaml
+Temtrol	hvac	undefined	t/temtrol.yaml
+Therma-Stor	hvac	undefined	t/therma-stor.yaml
+Thermal Solutions	hvac	undefined	t/thermal-solutions.yaml
+TOTO	plumbing	undefined	t/toto.yaml
+TPI Corporation	electrical	undefined	t/tpi-corporation.yaml
+Tranter	hvac	undefined	t/tranter.yaml
+Eaton Tripp Lite	electrical	undefined	t/tripp-lite.yaml
+TROX Group	hvac, airflow	undefined	t/trox.yaml
+T&S Brass	plumbing	undefined	t/ts-brass.yaml
+Tsurumi	hvac	undefined	t/tsurumi.yaml
+Turck USA	electrical	undefined	t/turck.yaml
+Twin City Fan & Blower	airflow, hvac	undefined	t/twin-city-fan.yaml
+Tyco Fire Products	plumbing	undefined	t/tyco-fire-products.yaml
+Tyler Pipe & Coupling (McWane)	plumbing	undefined	t/tyler-pipe.yaml
+The Unico System	hvac	undefined	u/unico.yaml
+Uponor North America	hvac, plumbing	undefined	u/uponor.yaml
+U.S. Boiler Company	hvac	undefined	u/us-boiler.yaml
+Valent Air	hvac	undefined	v/valent-air.yaml
+Valent Air	hvac	undefined	v/valent.yaml
+Velocity Boiler Works	hvac	undefined	v/velocity-boiler-works.yaml
+Venmar Systems, Inc.	hvac	undefined	v/venmar-systems.yaml
+Vertiv (Liebert Thermal Management)	hvac	undefined	v/vertiv-liebert.yaml
+Vertiv	electrical	undefined	v/vertiv.yaml
+Viking Corporation	plumbing	undefined	v/viking-corporation.yaml
+Vilter (Copeland)	hvac	undefined	v/vilter.yaml
+Wade Drains	plumbing	undefined	w/wade-drains.yaml
+WAGO	electrical	undefined	w/wago.yaml
+Ward Manufacturing (WardFLEX / Ward Fittings)	plumbing	undefined	w/ward-manufacturing.yaml
+WARDFlex (Ward Manufacturing / ASC Engineered Solutions)	plumbing, hydronics	undefined	w/wardflex.yaml
+Watco Manufacturing	plumbing	undefined	w/watco-manufacturing.yaml
+Watco Manufacturing Company	plumbing	undefined	w/watco-mfg.yaml
+Water Ace (Pentair)	plumbing	undefined	w/water-ace.yaml
+WaterFurnace (Tech Services)	hvac	undefined	w/waterfurnace-tech-services.yaml
+WAYNE Pumps	plumbing	undefined	w/wayne-pumps.yaml
+Wayne Water Systems	plumbing	undefined	w/wayne-water-systems.yaml
+Weidmüller	electrical	undefined	w/weidmuller.yaml
+Weil Pump	hvac, plumbing	undefined	w/weil-pump.yaml
+Weinman	hvac	undefined	w/weinman.yaml
+Weishaupt	hvac	undefined	w/weishaupt.yaml
+Wellmate (Pentair)	plumbing	undefined	w/wellmate.yaml
+Wessels Company	hvac	undefined	w/wessels.yaml
+Westlake Pipe & Fittings	plumbing	undefined	w/westlake-pipe-and-fittings.yaml
+White-Rodgers (Copeland)	hvac	undefined	w/white-rodgers.yaml
+Wieland Electric	electrical	undefined	w/wieland-electric.yaml
+Willoughby Industries	plumbing	undefined	w/willoughby-industries.yaml
+Willoughby Industries (WSF)	plumbing, commercial-fixtures	undefined	w/willoughby.yaml
+Wilo USA	hvac	undefined	w/wilo.yaml
+Woodford Manufacturing Company, LLC	plumbing	undefined	w/woodford-manufacturing.yaml
+Woodford Manufacturing	plumbing	undefined	w/woodford.yaml
+Yaskawa Motoman	electrical	undefined	y/yaskawa-motoman.yaml
+ZIEHL-ABEGG USA	hvac	undefined	z/ziehl-abegg.yaml
+Zoeller Pump Company	plumbing	undefined	z/zoeller.yaml
+Zurn Wilkins	plumbing, hvac	undefined	z/zurn-wilkins.yaml
+Zurn (Zurn Elkay Water Solutions)	plumbing	undefined	z/zurn.yaml
