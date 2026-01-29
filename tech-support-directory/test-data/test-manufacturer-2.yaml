@@ -1,0 +1,12 @@
+id: test-manufacturer-2
+name: Invalid Phone Company
+website: http://www.test-site.com
+categories: [electrical]
+support:
+  - category: electrical
+    department: Support
+    phone: "123"
+    country: US
+    notes: "Invalid phone number for testing"
+    source: "https://www.test-site.com/contact"
+    last_verified: "2026-01-29"

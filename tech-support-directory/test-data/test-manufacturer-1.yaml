@@ -1,0 +1,16 @@
+id: test-manufacturer-1
+name: Test Company Inc.
+website: https://www.example.com/support
+categories: [hvac]
+aliases: ["Test Co", "Test Corp"]
+support:
+  - category: hvac
+    department: Technical Support
+    phone: "+18005551212"
+    country: US
+    notes: "24/7 technical support line"
+    source: "https://www.example.com/support/contact"
+    last_verified: "2026-01-29"
+    hours:
+      timezone: "ET"
+      mon_fri: "24/7"

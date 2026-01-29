@@ -28,6 +28,14 @@ This directory has undergone comprehensive verification to ensure accuracy and r
 
 ### Verification Scripts
 
+**Comprehensive contact verification (NEW):**
+```bash
+node scripts/verify-contacts.js
+```
+Automated verification of phone numbers and websites with detailed reporting. Validates format, checks accessibility, SSL certificates, and generates comprehensive reports in JSON, CSV, or Markdown formats.
+
+See **[VERIFICATION_TOOL.md](./VERIFICATION_TOOL.md)** for complete documentation.
+
 **Check verification status:**
 ```bash
 node scripts/verification-status.js
