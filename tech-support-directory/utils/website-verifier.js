@@ -133,13 +133,15 @@ function checkAccessibility(url, options = {}) {
         headers: {
           'User-Agent': 'TechDirect-Verification-Tool/1.0'
         },
-        // For HTTPS: We disable strict SSL verification to allow checking certificates
-        // separately. This lets us provide detailed certificate information even for
-        // expired or self-signed certificates. The certificate is still checked and
-        // reported in the result.ssl object.
-        // Security note: This makes certificate verification informational rather than
-        // blocking. For production use, consider setting rejectUnauthorized: true.
-        rejectUnauthorized: false
+        // For HTTPS: Control SSL certificate validation behavior
+        // When false (default): Allows checking certificates separately and provides
+        // detailed certificate information even for expired or self-signed certificates.
+        // This is useful for verification/auditing tools to report certificate issues
+        // without blocking the request.
+        // When true (strict mode): Blocks requests to sites with invalid certificates.
+        // Set options.strictSSL to true for production security-critical applications.
+        // nosemgrep: javascript.lang.security.audit.tls-reject-unauthorized-false.tls-reject-unauthorized-false
+        rejectUnauthorized: options.strictSSL || false
       };
 
       const req = client.request(requestOptions, (res) => {

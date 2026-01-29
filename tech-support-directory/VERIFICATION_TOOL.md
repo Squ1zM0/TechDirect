@@ -106,6 +106,11 @@ console.log(result.status); // 'valid', 'invalid', 'warning', 'inaccessible', 'e
 console.log(result.checks.ssl); // SSL certificate status
 console.log(result.details.responseTime); // Response time in ms
 
+// Verify with strict SSL validation (blocks invalid certificates)
+const strictResult = await verifyWebsite('https://www.example.com', {
+  strictSSL: true  // Reject sites with invalid/expired certificates
+});
+
 // Batch verification
 const websites = [
   { id: 'mfr1', url: 'https://www.example.com' },
@@ -113,9 +118,12 @@ const websites = [
 ];
 const results = await batchVerifyWebsites(websites, {
   timeout: 10000,
-  delayBetweenRequests: 100
+  delayBetweenRequests: 100,
+  strictSSL: false  // Default: allow checking expired certificates for reporting
 });
 ```
+
+**Security Note**: By default, SSL certificate verification is informational rather than blocking. This allows the tool to report on expired or self-signed certificates without failing the verification. For production security-critical applications, set `strictSSL: true` to block connections to sites with invalid certificates.
 
 #### Report Generation
 
