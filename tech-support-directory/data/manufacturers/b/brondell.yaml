@@ -1,0 +1,18 @@
+id: brondell
+name: Brondell
+website: https://www.brondell.com/
+categories:
+- plumbing
+aliases:
+- Brondell Inc
+support:
+- category: plumbing
+  department: Technical Support
+  phone: "+18885423355"
+  country: US
+  hours:
+    timezone: America/Los_Angeles
+    mon_fri: "08:00-15:00"
+  notes: Brondell technical support for bidet toilets and smart bathroom products.
+  source: https://help.brondell.com/hc/en-us
+  last_verified: '2026-01-29'
