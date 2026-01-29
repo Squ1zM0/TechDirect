@@ -133,6 +133,16 @@ function findYamlFiles(dir) {
 
 /**
  * Parse YAML file (simple parser for manufacturer data)
+ * 
+ * Note: This is a simplified YAML parser sufficient for the current data format.
+ * It handles basic key-value pairs and simple lists but doesn't support:
+ * - Multiline values
+ * - Complex nested structures
+ * - Quoted strings with special characters
+ * - YAML anchors and references
+ * 
+ * For production use with more complex YAML, consider using the 'js-yaml' library.
+ * The current implementation is intentionally minimal to avoid external dependencies.
  */
 function parseManufacturerYaml(filePath) {
   const content = fs.readFileSync(filePath, 'utf8');

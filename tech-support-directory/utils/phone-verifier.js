@@ -35,10 +35,17 @@ function normalizePhone(phone) {
   
   // Keep leading +, remove all non-digits except the leading +
   let normalized = phone.trim();
+  
+  // Handle empty string after trim
+  if (!normalized) return '';
+  
   const hasLeadingPlus = normalized.startsWith('+');
   normalized = normalized.replace(/[^\d]/g, '');
   
-  if (hasLeadingPlus && normalized) {
+  // If no digits found, return empty string
+  if (!normalized) return '';
+  
+  if (hasLeadingPlus) {
     normalized = '+' + normalized;
   }
   
@@ -119,17 +126,10 @@ function validatePhoneFormat(phone, expectedCountry) {
       // Check digit count (excluding country code and +)
       let digitsOnly = normalized.replace(/\+/g, '');
       
-      // Remove country code prefix
-      if (expectedCountry === 'US' || expectedCountry === 'CA') {
-        digitsOnly = digitsOnly.replace(/^1/, ''); // Remove leading 1
-      } else if (expectedCountry === 'GB') {
-        digitsOnly = digitsOnly.replace(/^44/, ''); // Remove leading 44
-      } else if (expectedCountry === 'DE') {
-        digitsOnly = digitsOnly.replace(/^49/, ''); // Remove leading 49
-      } else if (expectedCountry === 'FR') {
-        digitsOnly = digitsOnly.replace(/^33/, ''); // Remove leading 33
-      } else if (expectedCountry === 'MX') {
-        digitsOnly = digitsOnly.replace(/^52/, ''); // Remove leading 52
+      // Remove country code prefix dynamically using COUNTRY_CODES
+      const countryCodeDigits = countryInfo.code.replace(/\+/g, '');
+      if (digitsOnly.startsWith(countryCodeDigits)) {
+        digitsOnly = digitsOnly.substring(countryCodeDigits.length);
       }
       
       if (digitsOnly.length >= countryInfo.minDigits && digitsOnly.length <= countryInfo.maxDigits) {

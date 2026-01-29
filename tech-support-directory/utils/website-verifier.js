@@ -133,8 +133,13 @@ function checkAccessibility(url, options = {}) {
         headers: {
           'User-Agent': 'TechDirect-Verification-Tool/1.0'
         },
-        // For HTTPS, check certificate
-        rejectUnauthorized: false // We'll check SSL separately
+        // For HTTPS: We disable strict SSL verification to allow checking certificates
+        // separately. This lets us provide detailed certificate information even for
+        // expired or self-signed certificates. The certificate is still checked and
+        // reported in the result.ssl object.
+        // Security note: This makes certificate verification informational rather than
+        // blocking. For production use, consider setting rejectUnauthorized: true.
+        rejectUnauthorized: false
       };
 
       const req = client.request(requestOptions, (res) => {
@@ -183,6 +188,7 @@ function checkAccessibility(url, options = {}) {
 
           if (redirectCount <= maxRedirects) {
             makeRequest(absoluteRedirectUrl);
+            return; // Prevent further execution after recursive call
           } else {
             result.error = `Too many redirects (${redirectCount})`;
             result.redirects = redirectChain;
