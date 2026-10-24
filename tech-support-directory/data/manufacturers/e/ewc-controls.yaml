@@ -1,0 +1,24 @@
+id: ewc-controls
+name: EWC Controls
+categories:
+- hvac
+aliases: []
+support:
+- category: hvac
+  department: Technical Support
+  phone: '+8004463110'
+  country: US
+  notes: 'Imported from verified manufacturer spreadsheet (Oct 2026). Tech/support
+    page: https://ewccontrols.com/. Support hours (spreadsheet): Mon-Fri 8am-5pm EST
+    (Technical Support). Support email (spreadsheet): info@ewccontrols.com. Warranty
+    (spreadsheet): 1-800-446-3110. Parent (spreadsheet): EWC Controls Inc.. Spreadsheet
+    notes: Brand-specific toll-free Technical Support hotline for job-site troubleshooting.'
+  source: https://ewccontrols.com/forum/viewtopic.php?p=2621
+  last_verified: '2026-10-24'
+- category: hvac
+  department: General Customer Support
+  phone: '+7324463110'
+  country: US
+  notes: General customer support line (manufacturer spreadsheet, Oct 2026).
+  source: https://ewccontrols.com/forum/viewtopic.php?p=2621
+  last_verified: '2026-10-24'

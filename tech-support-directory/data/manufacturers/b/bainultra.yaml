@@ -1,0 +1,17 @@
+id: bainultra
+name: BainUltra
+categories:
+- plumbing
+aliases: []
+support:
+- category: plumbing
+  department: Technical Support
+  phone: '+8004632189'
+  country: US
+  notes: 'Imported from verified manufacturer spreadsheet (Oct 2026). Tech/support
+    page: https://www.bainultra.com. Warranty (spreadsheet): 1-800-463-2189. Parent
+    (spreadsheet): BainUltra Inc.. Spreadsheet notes: Toll-free from BainUltra published
+    listings - verify on bainultra.com contact page; flagged as secondary-source number.
+    No dedicated tech line published.'
+  source: https://www.bainultra.com
+  last_verified: '2026-10-24'

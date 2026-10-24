@@ -1,0 +1,21 @@
+id: navac
+name: NAVAC
+categories:
+- pumps
+- hvac
+- electrical
+aliases: []
+support:
+- category: pumps
+  department: Technical Support
+  phone: '+8776962822'
+  country: US
+  notes: 'Imported from verified manufacturer spreadsheet (Oct 2026). Tech/support
+    page: https://www.navacglobal.com. Support email (spreadsheet): techsupport@navacglobal.com.
+    Warranty (spreadsheet): 1-877-696-2822. Parent (spreadsheet): NAVAC Inc.. Spreadsheet
+    notes: Phone is 1-877-MY-NAVAC per NAVAC manuals/service notices (Lyndhurst NJ);
+    general email Info@NavacGlobal.com in NAVAC catalog AUDIT 2026-10-24: Source was
+    a third-party aggregator (manuals.plus); not re-verified against the official
+    site.'
+  source: https://manuals.plus/m/1f3fe82a5a2b1cdbcc4148601d427ee442a88ef25e6cd6bdf06f40685c7f0ce4.pdf
+  last_verified: '2026-10-23'

@@ -1,0 +1,24 @@
+id: lg-thinq-hvac-controls
+name: LG ThinQ HVAC Controls
+categories:
+- hvac
+aliases: []
+support:
+- category: hvac
+  department: Technical Support
+  phone: '+8883461923'
+  country: US
+  notes: 'Imported from verified manufacturer spreadsheet (Oct 2026). Tech/support
+    page: https://www.lg.com/us/support/business. Support hours (spreadsheet): Mon-Sun
+    8am-9pm ET (general). Warranty (spreadsheet): 1-800-243-0000. Parent (spreadsheet):
+    LG Electronics. Spreadsheet notes: Control line of v1 LG HVAC parent - parent-routed
+    via LG CAC line 888-346-1923.'
+  source: https://www.lg.com/us/support/contact
+  last_verified: '2026-10-24'
+- category: hvac
+  department: General Customer Support
+  phone: '+8002430000'
+  country: US
+  notes: General customer support line (manufacturer spreadsheet, Oct 2026).
+  source: https://www.lg.com/us/support/contact
+  last_verified: '2026-10-24'

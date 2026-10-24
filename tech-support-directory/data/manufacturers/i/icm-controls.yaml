@@ -1,0 +1,26 @@
+id: icm-controls
+name: ICM Controls
+categories:
+- airflow
+- hvac
+aliases: []
+support:
+- category: airflow
+  department: Technical Support
+  phone: '+8003655525'
+  country: US
+  notes: 'Imported from verified manufacturer spreadsheet (Oct 2026). Tech/support
+    page: https://www.icmcontrols.com. Support email (spreadsheet): icmorders@icmcontrols.com
+    (orders). Warranty (spreadsheet): 1-800-365-5525. Parent (spreadsheet): ICM Controls
+    Corporation. Spreadsheet notes: Toll-free per ICM catalog/contact listings; local
+    Syracuse NY number 315-233-5266; email shown is the published orders email - no
+    separate tech email published in sources checked'
+  source: https://www.icmcontrols.com
+  last_verified: '2026-10-23'
+- category: airflow
+  department: General Customer Support
+  phone: '+3152335266'
+  country: US
+  notes: General customer support line (manufacturer spreadsheet, Oct 2026).
+  source: https://www.icmcontrols.com
+  last_verified: '2026-10-23'

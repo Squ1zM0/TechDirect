@@ -1,0 +1,24 @@
+id: yellow-jacket
+name: Yellow Jacket
+categories:
+- hvac
+aliases: []
+support:
+- category: hvac
+  department: Technical Support
+  phone: '+8007698370'
+  country: US
+  notes: 'Imported from verified manufacturer spreadsheet (Oct 2026). Tech/support
+    page: https://yellowjacket.com. Support email (spreadsheet): custserv@yellowjacket.com.
+    Warranty (spreadsheet): 800-769-8370. Parent (spreadsheet): Ritchie Engineering
+    Company Inc.. Spreadsheet notes: Numbers/email per Yellow Jacket HVAC catalog
+    (Ritchie Engineering)'
+  source: https://yellowjacket.com
+  last_verified: '2026-10-23'
+- category: hvac
+  department: General Customer Support
+  phone: '+9529431300'
+  country: US
+  notes: General customer support line (manufacturer spreadsheet, Oct 2026).
+  source: https://yellowjacket.com
+  last_verified: '2026-10-23'

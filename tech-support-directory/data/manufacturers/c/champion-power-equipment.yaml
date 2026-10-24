@@ -1,0 +1,18 @@
+id: champion-power-equipment
+name: Champion Power Equipment
+categories:
+- electrical
+aliases: []
+support:
+- category: electrical
+  department: Technical Support
+  phone: '+8773380999'
+  country: US
+  notes: 'Imported from verified manufacturer spreadsheet (Oct 2026). Tech/support
+    page: https://www.championpowerequipment.com/. Support hours (spreadsheet): Technical
+    Service Mon-Fri 8:30am-5pm PST/PDT. Support email (spreadsheet): support@championpowerequipment.com.
+    Warranty (spreadsheet): 1-877-338-0999. Parent (spreadsheet): Champion Power Equipment,
+    Inc.. Spreadsheet notes: Technical Support Team toll-free 1-877-338-0999, support@championpowerequipment.com
+    per Champion manuals.'
+  source: https://manualmachine.com/champion/200921/26758277-operators-manual-for-all-in/
+  last_verified: '2026-10-24'

@@ -1,0 +1,18 @@
+id: oxbox
+name: Oxbox
+categories:
+- hvac
+- airflow
+aliases: []
+support:
+- category: hvac
+  department: Technical Support
+  phone: '+8446926923'
+  country: US
+  notes: 'Imported from verified manufacturer spreadsheet (Oct 2026). Tech/support
+    page: https://www.oxboxhvac.com/contractors. Warranty (spreadsheet): +1 (844)
+    692-6923. Parent (spreadsheet): Oxbox (endorsed by Trane). Spreadsheet notes:
+    Brand-specific Oxbox line published on the official Oxbox contractor page; brand
+    is endorsed by Trane.'
+  source: https://www.oxboxhvac.com/contractors
+  last_verified: '2026-10-24'

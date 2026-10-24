@@ -1,0 +1,32 @@
+id: fasco
+name: Fasco
+categories:
+- hvac
+aliases: []
+support:
+- category: hvac
+  department: Technical Support
+  phone: '+8003258313'
+  country: US
+  notes: 'Imported from verified manufacturer spreadsheet (Oct 2026). Tech/support
+    page: https://www.regalrexnord.com (contact / expert form; distributor route).
+    Support hours (spreadsheet): Not published for the Fasco line. Support email (spreadsheet):
+    No public support email found. Warranty (spreadsheet): Via distributor / Regal
+    Rexnord. Parent (spreadsheet): Regal Rexnord. Spreadsheet notes: IMPROVED - no
+    longer catalog-only: 1-800-325-8313 is corroborated as Fasco''s own Customer Service
+    Department number by a Fasco employee newsletter (Aug 2009: ''contact Fasco''s
+    Customer Service Department at 1-800-325-8313'') and a 2017 Fasco product news
+    item with the same wording,  plus an independent vendor list (''Fasco Motors 800-325-8313'').
+    No separate Fasco tech-only line found; current parent route is Regal Rexnord
+    Customer Care 1-866-739-6673 (from regalrexnord.com content). Keep the caveat:
+    this is a customer-service line,  not a dedicated tech line. | V2 2026-10-24 weak-source
+    fix applied.'
+  source: https://www.oozzio.com/Attachment/Fasco_A066_Data_Sheet.pdf
+  last_verified: '2026-10-24'
+- category: hvac
+  department: General Customer Support
+  phone: '+180032583131866739667314146433000'
+  country: US
+  notes: General customer support line (manufacturer spreadsheet, Oct 2026).
+  source: https://www.oozzio.com/Attachment/Fasco_A066_Data_Sheet.pdf
+  last_verified: '2026-10-24'

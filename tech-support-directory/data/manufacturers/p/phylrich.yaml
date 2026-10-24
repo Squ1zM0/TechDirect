@@ -1,0 +1,18 @@
+id: phylrich
+name: Phylrich
+categories:
+- plumbing
+aliases: []
+support:
+- category: plumbing
+  department: Technical Support
+  phone: '+8007779762'
+  country: US
+  notes: 'Imported from verified manufacturer spreadsheet (Oct 2026). Tech/support
+    page: https://houseofrohl.ca/support/faqs/. Support email (spreadsheet): technical@houseofrohl.com.
+    Warranty (spreadsheet): 1-800-777-9762. Parent (spreadsheet): Phylrich (Perrin
+    & Rowe / House of Rohl group). Spreadsheet notes: Support via House of Rohl (same
+    as Rohl/Perrin & Rowe); no standalone Phylrich line published. AUDIT 2026-10-24:
+    Parent-routed: support via House of Rohl (shared line 800-777-9762).'
+  source: https://houseofrohl.ca/support/faqs/
+  last_verified: '2026-10-24'

@@ -1,0 +1,18 @@
+id: duravent
+name: DuraVent
+categories:
+- hvac
+aliases: []
+support:
+- category: hvac
+  department: Technical Support
+  phone: '+8008354429'
+  country: US
+  notes: 'Imported from verified manufacturer spreadsheet (Oct 2026). Tech/support
+    page: https://duravent.com/. Support hours (spreadsheet): Mon-Fri 8am-7pm EST.
+    Support email (spreadsheet): techsupport@duravent.com. Warranty (spreadsheet):
+    800-835-4429. Parent (spreadsheet): M&G DuraVent Inc. (DuraVent Group). Spreadsheet
+    notes: Brand-specific tech support email techsupport@duravent.com published with
+    the 800-835-4429 line; no separate tech-only number published.'
+  source: https://duraventgroup.com/contact
+  last_verified: '2026-10-24'

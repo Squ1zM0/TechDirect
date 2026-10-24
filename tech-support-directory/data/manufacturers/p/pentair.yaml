@@ -1,0 +1,24 @@
+id: pentair
+name: Pentair
+categories:
+- pumps
+aliases: []
+support:
+- category: pumps
+  department: Technical Support
+  phone: '+8889878677'
+  country: US
+  notes: 'Imported from verified manufacturer spreadsheet (Oct 2026). Tech/support
+    page: https://www.pentair.com. Warranty (spreadsheet): 1-888-987-8677. Parent
+    (spreadsheet): Pentair plc. Spreadsheet notes: Pentair parent itself was NOT in
+    v1 (only Goulds/Xylem etc.). Pump support line is the Berkeley/Myers/Sta-Rite
+    shared line. Pool support separate via pentair.com/pool.'
+  source: https://www.pentair.com
+  last_verified: '2026-10-24'
+- category: pumps
+  department: General Customer Support
+  phone: '+8008317133'
+  country: US
+  notes: General customer support line (manufacturer spreadsheet, Oct 2026).
+  source: https://www.pentair.com
+  last_verified: '2026-10-24'

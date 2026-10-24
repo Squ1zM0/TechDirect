@@ -1,0 +1,17 @@
+id: inficon-service-tools
+name: Inficon (Service Tools)
+categories:
+- hvac
+aliases: []
+support:
+- category: hvac
+  department: Technical Support
+  phone: '+8003443304'
+  country: US
+  notes: 'Imported from verified manufacturer spreadsheet (Oct 2026). Tech/support
+    page: https://www.inficonservicetools.com. Warranty (spreadsheet): 1-800-344-3304.
+    Parent (spreadsheet): INFICON Holding AG. Spreadsheet notes: Service-tools line
+    from INFICON service-tools catalog; main INFICON support routed via inficon.com
+    support portal. Flagged as catalog source.'
+  source: https://www.inficonservicetools.com
+  last_verified: '2026-10-24'

@@ -1,0 +1,17 @@
+id: gastite
+name: Gastite
+categories:
+- plumbing
+aliases: []
+support:
+- category: plumbing
+  department: Technical Support
+  phone: '+8006620208'
+  country: US
+  notes: 'Imported from verified manufacturer spreadsheet (Oct 2026). Tech/support
+    page: https://www.gastite.com/. Warranty (spreadsheet): 1-800-662-0208. Parent
+    (spreadsheet): Gastite Division (Titeflex Corporation). Spreadsheet notes: Brand-specific
+    Gastite customer service and technical support line from Gastite catalog; Gastite
+    Division of Titeflex Corporation, Portland TN.'
+  source: https://mccallssupply.com/documents/Gastite_REG11_300_Catalog.pdf
+  last_verified: '2026-10-24'

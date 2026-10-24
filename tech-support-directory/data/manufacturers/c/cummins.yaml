@@ -1,0 +1,16 @@
+id: cummins
+name: Cummins
+categories:
+- electrical
+aliases: []
+support:
+- category: electrical
+  department: Technical Support
+  phone: '+8002866467'
+  country: US
+  notes: 'Imported from verified manufacturer spreadsheet (Oct 2026). Tech/support
+    page: https://www.cummins.com/support/electronic-service-tools-support. Warranty
+    (spreadsheet): 1-800-343-7357. Parent (spreadsheet): Cummins Inc.. Spreadsheet
+    notes: 800-CUMMINS for US/Canada; Cummins Care (QuickServe/service locator) 1-800-343-7357'
+  source: https://www.cummins.com/support/electronic-service-tools-support
+  last_verified: '2026-10-23'

@@ -1,0 +1,26 @@
+id: thermo-pride
+name: Thermo Pride
+categories:
+- boilers
+- hvac
+aliases: []
+support:
+- category: boilers
+  department: Technical Support
+  phone: '+8003485130'
+  country: US
+  notes: 'Imported from verified manufacturer spreadsheet (Oct 2026). Tech/support
+    page: https://thermopride.com/support/. Warranty (spreadsheet): 800-348-5130.
+    Parent (spreadsheet): Thermo Products, LLC (Thermo Pride). Spreadsheet notes:
+    Tech assistance for service professionals 800-348-5130 per Thermo Pride support
+    page; homeowners are directed to their contractor. Customer service/firebrick
+    800-476-4328.'
+  source: https://thermopride.com/support/
+  last_verified: '2026-10-24'
+- category: boilers
+  department: General Customer Support
+  phone: '+80034851308004764328'
+  country: US
+  notes: General customer support line (manufacturer spreadsheet, Oct 2026).
+  source: https://thermopride.com/support/
+  last_verified: '2026-10-24'

@@ -1,0 +1,18 @@
+id: jb-industries
+name: JB Industries
+categories:
+- pumps
+- hvac
+aliases: []
+support:
+- category: pumps
+  department: Technical Support
+  phone: '+8003230811'
+  country: US
+  notes: 'Imported from verified manufacturer spreadsheet (Oct 2026). Tech/support
+    page: https://www.jbind.com. Support email (spreadsheet): sales@jbind.com. Warranty
+    (spreadsheet): 1-800-323-0811. Parent (spreadsheet): JB Industries Inc.. Spreadsheet
+    notes: Local Aurora IL 630-851-9444. No dedicated tech line published separate
+    from customer service.'
+  source: https://www.jbind.com
+  last_verified: '2026-10-24'

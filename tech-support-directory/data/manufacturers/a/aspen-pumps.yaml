@@ -1,0 +1,19 @@
+id: aspen-pumps
+name: Aspen Pumps
+categories:
+- pumps
+- hvac
+aliases: []
+support:
+- category: pumps
+  department: Technical Support
+  phone: '+441323848842'
+  country: US
+  notes: 'Imported from verified manufacturer spreadsheet (Oct 2026). Tech/support
+    page: https://www.aspenpumps.com/. Support email (spreadsheet): technical@aspenpumps.com.
+    Warranty (spreadsheet): +44-1323-848842. Parent (spreadsheet): Aspen Pumps Ltd
+    (UK). Spreadsheet notes: Brand-specific technical contact from Aspen Pumps manuals,
+    but UK headquarters only — no US support line found. US distribution is via wholesalers;
+    verify US support route before use.'
+  source: https://manuals.plus/m/2db74c398310dd7944c9b2d4f3a1f6fd490edde3afcd290417e31427ddb4a9e5
+  last_verified: '2026-10-24'

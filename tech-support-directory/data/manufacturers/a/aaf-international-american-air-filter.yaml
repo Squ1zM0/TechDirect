@@ -1,0 +1,18 @@
+id: aaf-international-american-air-filter
+name: AAF International (American Air Filter)
+categories:
+- hvac
+aliases: []
+support:
+- category: hvac
+  department: Technical Support
+  phone: '+8882232003'
+  country: US
+  notes: 'Imported from verified manufacturer spreadsheet (Oct 2026). Tech/support
+    page: https://www.aafintl.com/. Support email (spreadsheet): productsupport@aafintl.com.
+    Warranty (spreadsheet): 888-223-2003. Parent (spreadsheet): AAF International
+    (Daikin Group). Spreadsheet notes: Brand-specific technical/application line and
+    product support email from AAF literature. Member of the Daikin Group; AAF Flanders
+    brand is covered by this row.'
+  source: https://manuals.plus/aaf/astrofan-ec-ffu-self-contained-ceiling-filter-fan-unit-manual
+  last_verified: '2026-10-24'

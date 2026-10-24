@@ -1,0 +1,20 @@
+id: diversitech
+name: DiversiTech
+categories:
+- pumps
+- hvac
+aliases: []
+support:
+- category: pumps
+  department: Technical Support
+  phone: '+8009952222'
+  country: US
+  notes: 'Imported from verified manufacturer spreadsheet (Oct 2026). Tech/support
+    page: https://www.diversitech.com. Support hours (spreadsheet): 8 a.m.-5 p.m.
+    EST. Support email (spreadsheet): techsupport@diversitech.com. Warranty (spreadsheet):
+    warranty@diversitech.com. Parent (spreadsheet): DiversiTech Corporation. Spreadsheet
+    notes: Per DiversiTech contact listings: Customer Service is Option 1 and Technical
+    Support is Option 2 on the same number; general email csr@diversitech.com; orders@diversitech.com
+    for orders; Duluth GA'
+  source: https://www.pissedconsumer.com/company/diversitech/customer-service.html
+  last_verified: '2026-10-23'

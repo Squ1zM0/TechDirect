@@ -1,0 +1,17 @@
+id: mitsubishi-kumo-cloud
+name: Mitsubishi Kumo Cloud
+categories:
+- hvac
+aliases: []
+support:
+- category: hvac
+  department: General Customer Support
+  phone: '+8004334822'
+  country: US
+  notes: 'Imported from verified manufacturer spreadsheet (Oct 2026). Tech/support
+    page: https://www.mitsubishicomfort.com. Support email (spreadsheet): customercare@hvac.mea.com.
+    Warranty (spreadsheet): 1-800-433-4822. Parent (spreadsheet): Mitsubishi Electric
+    Trane HVAC US (METUS). Spreadsheet notes: Control sub-brand of v1 Mitsubishi Electric
+    parent - parent-routed, no standalone Kumo Cloud phone published.'
+  source: https://www.mitsubishicomfort.com
+  last_verified: '2026-10-24'

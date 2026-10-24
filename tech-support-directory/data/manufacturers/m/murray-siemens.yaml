@@ -1,0 +1,25 @@
+id: murray-siemens
+name: Murray (Siemens)
+categories:
+- electrical
+aliases: []
+support:
+- category: electrical
+  department: Technical Support
+  phone: '+8003337421'
+  country: US
+  notes: 'Imported from verified manufacturer spreadsheet (Oct 2026). Tech/support
+    page: https://www.siemens.com/en-us/content/power-distribution-systems-product-support/.
+    Support hours (spreadsheet): 24-hr tech hotline. Warranty (spreadsheet): 1-800-333-7421.
+    Parent (spreadsheet): Siemens (Siemens Industry). Spreadsheet notes: Siemens line
+    - NOT a duplicate of v1 Siemens row (parent). Murray MP type = Siemens Q type.
+    Power-distribution support center 800-347-6659.'
+  source: https://www.siemens.com
+  last_verified: '2026-10-24'
+- category: electrical
+  department: General Customer Support
+  phone: '+8003476659'
+  country: US
+  notes: General customer support line (manufacturer spreadsheet, Oct 2026).
+  source: https://www.siemens.com
+  last_verified: '2026-10-24'

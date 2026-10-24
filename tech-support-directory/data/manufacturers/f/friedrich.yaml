@@ -1,0 +1,18 @@
+id: friedrich
+name: Friedrich
+categories:
+- hvac
+aliases: []
+support:
+- category: hvac
+  department: Technical Support
+  phone: '+8005416645'
+  country: US
+  notes: 'Imported from verified manufacturer spreadsheet (Oct 2026). Tech/support
+    page: https://www.friedrich.com/. Support hours (spreadsheet): Mon-Fri 8am-5pm
+    CT. Parent (spreadsheet): Friedrich Air Conditioning Co.. Spreadsheet notes: in
+    searches 2026-10-24 - support via friedrich.com contact/dealer route. Do not use
+    a guessed number. AUDIT 2026-10-24: Technical/customer service line 800-541-6645
+    (Spanish line via option 9, same hours). Friedrich is a Rheem company.'
+  source: https://hvacinsider.com/friedrich-launches-dedicated-spanish-speaking-technical-and-customer-service-line/
+  last_verified: '2026-10-24'

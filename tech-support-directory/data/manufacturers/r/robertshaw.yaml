@@ -1,0 +1,25 @@
+id: robertshaw
+name: Robertshaw
+categories:
+- plumbing
+aliases: []
+support:
+- category: plumbing
+  department: Technical Support
+  phone: '+8004458299'
+  country: US
+  notes: 'Imported from verified manufacturer spreadsheet (Oct 2026). Tech/support
+    page: https://www.robertshaw.com/support/. Support hours (spreadsheet): Customer
+    Service Mon-Fri 6:00am-3:30pm PST. Support email (spreadsheet): HVACCustomerService@robertshaw.com.
+    Warranty (spreadsheet): 800-445-8299. Parent (spreadsheet): Robertshaw Controls
+    Company. Spreadsheet notes: Technical Service 800-445-8299 per Robertshaw manuals;
+    customer service line covers NA/SA replacement parts'
+  source: https://www.robertshaw.com/support/
+  last_verified: '2026-10-23'
+- category: plumbing
+  department: General Customer Support
+  phone: '+8003046563'
+  country: US
+  notes: General customer support line (manufacturer spreadsheet, Oct 2026).
+  source: https://www.robertshaw.com/support/
+  last_verified: '2026-10-23'

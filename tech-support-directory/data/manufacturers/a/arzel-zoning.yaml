@@ -1,0 +1,25 @@
+id: arzel-zoning
+name: Arzel Zoning
+categories:
+- hvac
+aliases: []
+support:
+- category: hvac
+  department: Technical Support
+  phone: '+8006118312'
+  country: US
+  notes: 'Imported from verified manufacturer spreadsheet (Oct 2026). Tech/support
+    page: https://www.arzelzoning.com/contact-us/. Support hours (spreadsheet): Technician
+    Support 8am-9pm EDT 7 days; Office Mon-Fri 8am-5pm EDT. Support email (spreadsheet):
+    techsupport@arzelzoning.com. Warranty (spreadsheet): 1-800-611-8312. Parent (spreadsheet):
+    Arzel Zoning Technology Inc.. Spreadsheet notes: Brand-specific Tech Support line
+    and email published on Arzel contact page.'
+  source: https://www.arzelzoning.com/contact-us/
+  last_verified: '2026-10-24'
+- category: hvac
+  department: General Customer Support
+  phone: '+2168316068'
+  country: US
+  notes: General customer support line (manufacturer spreadsheet, Oct 2026).
+  source: https://www.arzelzoning.com/contact-us/
+  last_verified: '2026-10-24'

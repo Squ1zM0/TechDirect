@@ -1,0 +1,18 @@
+id: testo
+name: Testo
+categories:
+- hvac
+- electrical
+aliases: []
+support:
+- category: hvac
+  department: Technical Support
+  phone: '+8002270729'
+  country: US
+  notes: 'Imported from verified manufacturer spreadsheet (Oct 2026). Tech/support
+    page: https://www.testo.com/en-US/contact. Support email (spreadsheet): info@testo.com.
+    Warranty (spreadsheet): 1-800-227-0729. Parent (spreadsheet): Testo SE & Co. KGaA
+    (Testo Inc. North America). Spreadsheet notes: No dedicated tech line published
+    separate from main line.'
+  source: https://www.testo.com
+  last_verified: '2026-10-24'

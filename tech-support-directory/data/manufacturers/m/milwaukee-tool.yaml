@@ -1,0 +1,18 @@
+id: milwaukee-tool
+name: Milwaukee Tool
+categories:
+- electrical
+aliases: []
+support:
+- category: electrical
+  department: Technical Support
+  phone: '+8007293878'
+  country: US
+  notes: 'Imported from verified manufacturer spreadsheet (Oct 2026). Tech/support
+    page: https://www.milwaukeetool.com/support. Warranty (spreadsheet): 1-800-729-3878.
+    Parent (spreadsheet): Milwaukee Tool (Techtronic Industries - TTI). Spreadsheet
+    notes: Phone is 1-800-SAWDUST; milwaukeetool.com lists it for After-Sales Service
+    - Technical Support and US Customer Service; warranty/service via eService Center
+    and Service Center Locator on the support page; Brookfield WI'
+  source: https://www.milwaukeetool.com/contact
+  last_verified: '2026-10-23'

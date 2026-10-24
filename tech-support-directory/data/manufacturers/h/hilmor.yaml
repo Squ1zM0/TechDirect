@@ -1,0 +1,26 @@
+id: hilmor
+name: Hilmor
+categories:
+- pumps
+- hvac
+- electrical
+aliases: []
+support:
+- category: pumps
+  department: Technical Support
+  phone: '+8006420010'
+  country: US
+  notes: 'Imported from verified manufacturer spreadsheet (Oct 2026). Tech/support
+    page: https://www.hilmor.com/. Warranty (spreadsheet): 1-800-642-0010. Parent
+    (spreadsheet): Hilmor (formerly part of Emerson; now independent HVAC/R tool brand).
+    Spreadsheet notes: Brand-specific hilmor Technical Services line from product
+    manuals; general line 1-800-628-8810 from hilmor tool literature.'
+  source: https://manuals.plus/hilmor/1839106-dual-readout-thermometer-and-clamps-manual
+  last_verified: '2026-10-24'
+- category: pumps
+  department: General Customer Support
+  phone: '+8006288810'
+  country: US
+  notes: General customer support line (manufacturer spreadsheet, Oct 2026).
+  source: https://manuals.plus/hilmor/1839106-dual-readout-thermometer-and-clamps-manual
+  last_verified: '2026-10-24'

@@ -1,0 +1,18 @@
+id: turbo-air
+name: Turbo Air
+categories:
+- hvac
+aliases: []
+support:
+- category: hvac
+  department: Technical Support
+  phone: '+8003817770'
+  country: US
+  notes: 'Imported from verified manufacturer spreadsheet (Oct 2026). Tech/support
+    page: https://www.turboairinc.com/. Support email (spreadsheet): warranty@turboairinc.com.
+    Parent (spreadsheet): Turbo Air Inc.. Spreadsheet notes: in searches 2026-10-24
+    - support via turboairinc.com / distributor. AUDIT 2026-10-24: Customer Service
+    line 800-381-7770 from Turbo Air manuals; warranty email warranty@turboairinc.com.
+    Older literature also shows 800-627-0032 (USA & Canada).'
+  source: https://manualspro.net/69206-turbo-air-ctst-1200-n-countertop-salad-table-user-manual
+  last_verified: '2026-10-24'

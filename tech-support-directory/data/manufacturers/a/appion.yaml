@@ -1,0 +1,19 @@
+id: appion
+name: Appion
+categories:
+- pumps
+- hvac
+- electrical
+aliases: []
+support:
+- category: pumps
+  department: Technical Support
+  phone: '+3039371580'
+  country: US
+  notes: 'Imported from verified manufacturer spreadsheet (Oct 2026). Tech/support
+    page: https://www.appiontools.com. Support email (spreadsheet): Support@AppionTools.com.
+    Warranty (spreadsheet): 303-937-1580. Parent (spreadsheet): Appion Inc.. Spreadsheet
+    notes: Manuals state lifetime technical troubleshooting support; older Appion
+    catalog also lists Support@AppionInc.com / Sales@AppionInc.com'
+  source: https://www.appiontools.com
+  last_verified: '2026-10-23'

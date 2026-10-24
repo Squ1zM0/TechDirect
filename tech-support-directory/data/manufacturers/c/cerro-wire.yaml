@@ -1,0 +1,17 @@
+id: cerro-wire
+name: Cerro Wire
+categories:
+- electrical
+aliases: []
+support:
+- category: electrical
+  department: Technical Support
+  phone: '+8005233869'
+  country: US
+  notes: 'Imported from verified manufacturer spreadsheet (Oct 2026). Tech/support
+    page: https://www.cerrowire.com. Warranty (spreadsheet): 1-800-523-3869. Parent
+    (spreadsheet): Marmon Wire & Cable (Berkshire Hathaway). Spreadsheet notes: Electrical
+    Division number 800-523-3869 from Cerro docs - verify on cerrowire.com; flagged
+    as older-doc source.'
+  source: https://www.cerrowire.com
+  last_verified: '2026-10-24'

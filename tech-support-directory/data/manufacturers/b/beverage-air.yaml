@@ -1,0 +1,26 @@
+id: beverage-air
+name: Beverage-Air
+categories:
+- hvac
+aliases: []
+support:
+- category: hvac
+  department: Technical Support
+  phone: '+8006841199'
+  country: US
+  notes: 'Imported from verified manufacturer spreadsheet (Oct 2026). Tech/support
+    page: https://www.beverage-air.com/. Support hours (spreadsheet): Tech Service
+    Mon-Fri 8am-5pm EST (per manuals listing). Warranty (spreadsheet): 1-800-684-1199.
+    Parent (spreadsheet): Beverage-Air (Ali Group). Spreadsheet notes: Technical Service
+    1-800-684-1199; Sales/toll-free 1-800-845-9800; local 864-582-8111 per Beverage-Air
+    manuals. AUDIT 2026-10-24: Source was a third-party aggregator (manuals.plus);
+    not re-verified against the official site.'
+  source: https://manuals.plus/m/e3063e7ef4c638115f46632767e45348468a045faed4edfe9d85d60fb1fb6692
+  last_verified: '2026-10-24'
+- category: hvac
+  department: General Customer Support
+  phone: '+8008459800'
+  country: US
+  notes: General customer support line (manufacturer spreadsheet, Oct 2026).
+  source: https://manuals.plus/m/e3063e7ef4c638115f46632767e45348468a045faed4edfe9d85d60fb1fb6692
+  last_verified: '2026-10-24'

@@ -1,0 +1,17 @@
+id: sigma-faucet
+name: Sigma Faucet
+categories:
+- plumbing
+aliases: []
+support:
+- category: plumbing
+  department: Technical Support
+  phone: '+8008228855'
+  country: US
+  notes: 'Imported from verified manufacturer spreadsheet (Oct 2026). Tech/support
+    page: https://www.calfaucets.com. Warranty (spreadsheet): 1-800-822-8855. Parent
+    (spreadsheet): Sigma (California Faucets group / Sigma Faucet). Spreadsheet notes:
+    Sigma support via California Faucets parent line; no standalone Sigma phone published
+    - noted as parent-routed.'
+  source: https://www.calfaucets.com
+  last_verified: '2026-10-24'

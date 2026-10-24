@@ -1,0 +1,18 @@
+id: klein-tools
+name: Klein Tools
+categories:
+- electrical
+aliases: []
+support:
+- category: electrical
+  department: Technical Support
+  phone: '+8005534676'
+  country: US
+  notes: 'Imported from verified manufacturer spreadsheet (Oct 2026). Tech/support
+    page: https://www.kleintools.com. Support hours (spreadsheet): Mon-Fri 7:30 A.M.-6:00
+    P.M. CT (per Klein recall notice); hard hats line 8am-5pm CST. Warranty (spreadsheet):
+    1-800-553-4676. Parent (spreadsheet): Klein Tools Inc.. Spreadsheet notes: Customer
+    Service handles warranty returns (WRA number required per Klein warranty); international
+    1-847-821-5500; Lincolnshire IL'
+  source: https://hardhats.kleintools.com/contact
+  last_verified: '2026-10-23'

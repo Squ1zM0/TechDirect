@@ -1,0 +1,19 @@
+id: tosot
+name: Tosot
+categories:
+- hvac
+aliases: []
+support:
+- category: hvac
+  department: Technical Support
+  phone: '+8888507928'
+  country: US
+  notes: 'Imported from verified manufacturer spreadsheet (Oct 2026). Tech/support
+    page: https://www.greecomfort.com/. Support email (spreadsheet): techsupport@twclimate.com.
+    Warranty (spreadsheet): 888-850-7928. Parent (spreadsheet): Gree Electric Appliances.
+    Spreadsheet notes: Gree sub-brand; support via same Gree Comfort distributor route.
+    No separate Tosot line published. AUDIT 2026-10-24: Parent-routed: support via
+    Gree (shared line 888-850-7928). AUDIT 2026-10-24: Source was a third-party aggregator
+    (manuals.plus); not re-verified against the official site.'
+  source: https://manuals.plus/jw/category/gree
+  last_verified: '2026-10-24'

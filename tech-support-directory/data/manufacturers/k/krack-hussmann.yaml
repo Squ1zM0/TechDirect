@@ -1,0 +1,27 @@
+id: krack-hussmann
+name: Krack (Hussmann)
+categories:
+- hvac
+aliases: []
+support:
+- category: hvac
+  department: Technical Support
+  phone: '+86678584991'
+  country: US
+  notes: 'Imported from verified manufacturer spreadsheet (Oct 2026). Tech/support
+    page: https://www.hussmann.com/en/contact-hussmann. Support hours (spreadsheet):
+    Tech support Mon-Fri 7am-5pm CST. Warranty (spreadsheet): 1-800-922-1919. Parent
+    (spreadsheet): Hussmann Corporation. Spreadsheet notes: Krack is a Hussmann brand;
+    tech support 1-800-922-1919 per manuals listings. AUDIT 2026-10-24: Corrected
+    from third-party source: Hussmann official contact page lists Technical Support
+    (Hussmann & Krack) 866-785-8499 option 1 — a shared Hussmann/Krack line, not a
+    Krack-only line.'
+  source: https://www.hussmann.com/en/contact-hussmann
+  last_verified: '2026-10-24'
+- category: hvac
+  department: General Customer Support
+  phone: '+8009221919'
+  country: US
+  notes: General customer support line (manufacturer spreadsheet, Oct 2026).
+  source: https://www.hussmann.com/en/contact-hussmann
+  last_verified: '2026-10-24'

@@ -1,0 +1,26 @@
+id: dewalt
+name: DeWalt
+categories:
+- electrical
+aliases: []
+support:
+- category: electrical
+  department: Technical Support
+  phone: '+8004339258'
+  country: US
+  notes: 'Imported from verified manufacturer spreadsheet (Oct 2026). Tech/support
+    page: https://support.dewalt.com. Support hours (spreadsheet): Mon-Sun 7am-11pm
+    ET. Warranty (spreadsheet): 1-800-433-9258. Parent (spreadsheet): Stanley Black
+    & Decker (DeWalt brand). Spreadsheet notes: No dedicated tech line published separate
+    from Customer Care. Support email support.dewalt@sbdinc.com per secondary listings.
+    [Gap-fill, Oct 2026 — verified] Product lines: Power tools, hand tools, measuring/layout
+    tools, outdoor power equipment, jobsite equipment/storage, power-tool accessories.
+    NO dedicated HVAC equipment line verified (battery platforms 12V MAX, 20V MAX,
+    FLEXVOLT 60V MAX, POWERSTACK; drills/drivers; saws; grinders; rotary hammers;
+    sanders; routers; nailers; hand tools; lasers; outdoor tools; LED work lights;
+    wet/dry vacuums; tool storage TSTAK/ToughSystem; accessories incl. plumbing-tool
+    accessories). Do NOT list DeWalt as an HVAC equipment brand — verified relevance
+    is tools and trade accessories only. CUBIX in-line centrifugal fans and TOUGHWIRE
+    hangers were NOT verified on dewalt.com in this pass and are NOT included above.'
+  source: https://www.dewalt.com/en-us/support/warranty
+  last_verified: '2026-10-24'

@@ -1,0 +1,17 @@
+id: fresh-aire-uv
+name: Fresh-Aire UV
+categories:
+- hvac
+aliases: []
+support:
+- category: hvac
+  department: Technical Support
+  phone: '+8007411195'
+  country: US
+  notes: 'Imported from verified manufacturer spreadsheet (Oct 2026). Tech/support
+    page: https://www.freshaireuv.com/. Support email (spreadsheet): sales@freshaireuv.com.
+    Warranty (spreadsheet): 800-741-1195. Parent (spreadsheet): Fresh-Aire UV. Spreadsheet
+    notes: No dedicated tech line published separate from main line; main line and
+    sales email from company profile.'
+  source: https://www.thomasnet.com/company/fresh-aire-uv-30718742/profile
+  last_verified: '2026-10-24'

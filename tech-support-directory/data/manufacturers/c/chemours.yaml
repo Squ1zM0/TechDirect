@@ -1,0 +1,17 @@
+id: chemours
+name: Chemours
+categories:
+- hvac
+aliases: []
+support:
+- category: hvac
+  department: Technical Support
+  phone: '+8447732436'
+  country: US
+  notes: 'Imported from verified manufacturer spreadsheet (Oct 2026). Tech/support
+    page: https://www.chemours.com. Parent (spreadsheet): The Chemours Company. Spreadsheet
+    notes: Phone is 1-844-773-CHEM as printed as supplier telephone on Chemours Freon
+    134a Safety Data Sheet; SDS emergency telephone +1 703-741-5970; no separate refrigerant
+    tech-support line published in sources checked'
+  source: https://royalrefrigerants.com/cdn/shop/files/Chemours_134A.pdf
+  last_verified: '2026-10-23'

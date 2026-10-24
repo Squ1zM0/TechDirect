@@ -1,0 +1,17 @@
+id: polaris-nsi
+name: Polaris (NSi)
+categories:
+- electrical
+aliases: []
+support:
+- category: electrical
+  department: Technical Support
+  phone: '+8003215847'
+  country: US
+  notes: 'Imported from verified manufacturer spreadsheet (Oct 2026). Tech/support
+    page: https://www.nsiindustries.com. Support email (spreadsheet): info@nsiindustries.com.
+    Warranty (spreadsheet): 1-800-321-5847. Parent (spreadsheet): NSi Industries LLC
+    (Polaris brand). Spreadsheet notes: NSi brand line; support via NSi main line.
+    No standalone Polaris phone published.'
+  source: https://www.nsiindustries.com
+  last_verified: '2026-10-24'

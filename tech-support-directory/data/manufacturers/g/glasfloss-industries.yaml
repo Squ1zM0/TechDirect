@@ -1,0 +1,18 @@
+id: glasfloss-industries
+name: Glasfloss Industries
+categories:
+- hvac
+aliases: []
+support:
+- category: hvac
+  department: Technical Support
+  phone: '+2147417056'
+  country: US
+  notes: 'Imported from verified manufacturer spreadsheet (Oct 2026). Tech/support
+    page: https://www.glasfloss.com/. Support email (spreadsheet): inquiry@glasfloss.com.
+    Warranty (spreadsheet): 214-741-7056. Parent (spreadsheet): Glasfloss Industries
+    (employee-owned ESOP). Spreadsheet notes: No dedicated tech line published separate
+    from Glasfloss main line; oldest American-owned HVAC filter manufacturer, five
+    US plants.'
+  source: https://www.glasfloss.com/
+  last_verified: '2026-10-24'

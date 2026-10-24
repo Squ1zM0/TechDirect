@@ -1,0 +1,16 @@
+id: aurora-pump
+name: Aurora Pump
+categories:
+- pumps
+aliases: []
+support:
+- category: pumps
+  department: Technical Support
+  phone: '+8889878677'
+  country: US
+  notes: 'Imported from verified manufacturer spreadsheet (Oct 2026). Tech/support
+    page: https://www.pentair.com. Warranty (spreadsheet): 1-888-987-8677. Parent
+    (spreadsheet): Pentair (Aurora Pump brand). Spreadsheet notes: Aurora is a Pentair
+    Pump Group brand; support via Pentair shared pump line - parent-routed.'
+  source: https://www.pentair.com
+  last_verified: '2026-10-24'

@@ -1,0 +1,17 @@
+id: genteq
+name: Genteq
+categories:
+- hvac
+aliases: []
+support:
+- category: hvac
+  department: Technical Support
+  phone: '+8665038566'
+  country: US
+  notes: 'Imported from verified manufacturer spreadsheet (Oct 2026). Tech/support
+    page: https://www.regalrexnord.com/brands/genteq/evergreen-motor-technical-support.
+    Support hours (spreadsheet): Mon-Fri 8am-5pm CST. Warranty (spreadsheet): 866-503-8566.
+    Parent (spreadsheet): Regal Rexnord Corporation. Spreadsheet notes: Evergreen/Genteq
+    technical support is Option 3 per Genteq manuals'
+  source: https://www.regalrexnord.com/brands/genteq/evergreen-motor-technical-support
+  last_verified: '2026-10-23'

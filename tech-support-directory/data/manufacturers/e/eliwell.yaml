@@ -1,0 +1,19 @@
+id: eliwell
+name: Eliwell
+categories:
+- airflow
+- hvac
+aliases: []
+support:
+- category: airflow
+  department: Technical Support
+  phone: '+8773425173'
+  country: US
+  notes: 'Imported from verified manufacturer spreadsheet (Oct 2026). Tech/support
+    page: https://www.se.com/us/en/work/help/. Support email (spreadsheet): techsuppeliwell@schneiderelectric.com.
+    Warranty (spreadsheet): 877-342-5173. Parent (spreadsheet): Eliwell (Schneider
+    Electric). Spreadsheet notes: Parent-routed: US support via Schneider Electric
+    Help Center; Eliwell technical support email techsuppeliwell@schneiderelectric.com
+    and Italy tech line +39 0437 986 300 also published.'
+  source: https://www.se.com/us/en/work/help/
+  last_verified: '2026-10-24'

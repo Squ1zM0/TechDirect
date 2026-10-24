@@ -1,0 +1,17 @@
+id: sanhua
+name: Sanhua
+categories:
+- hvac
+aliases: []
+support:
+- category: hvac
+  department: Technical Support
+  phone: '+2818828000'
+  country: US
+  notes: 'Imported from verified manufacturer spreadsheet (Oct 2026). Tech/support
+    page: https://sanhuausa.com/. Warranty (spreadsheet): 281-882-8000. Parent (spreadsheet):
+    Sanhua International USA. Spreadsheet notes: WEAK SOURCE: US office line from
+    employer filing, not confirmed on the official sanhuausa.com contact page; no
+    dedicated tech line published - verify before use.'
+  source: https://www.immihelp.com/h1b-visa-sponsors/Sanhua_International_Inc/view-2022-I_200_22181_324405/
+  last_verified: '2026-10-24'

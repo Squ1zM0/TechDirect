@@ -1,0 +1,26 @@
+id: marley-engineered-products
+name: Marley Engineered Products
+categories:
+- boilers
+- water-heaters
+aliases: []
+support:
+- category: boilers
+  department: Technical Support
+  phone: '+8006424328'
+  country: US
+  notes: 'Imported from verified manufacturer spreadsheet (Oct 2026). Tech/support
+    page: https://www.marleymep.com/. Support hours (spreadsheet): Mon-Fri 8am-4:30pm
+    EST (Technical Services). Support email (spreadsheet): webmaster@marleymep.com.
+    Warranty (spreadsheet): 800-642-4328. Parent (spreadsheet): Marley Engineered
+    Products. Spreadsheet notes: Brand-specific Technical Services line; replacement
+    parts 1-800-654-3545. Covers QMark and Berko brands.'
+  source: https://marleymep.com/wp-content/uploads/MEP-QMark-DigitalCatalog_2026-03-web.pdf
+  last_verified: '2026-10-24'
+- category: boilers
+  department: General Customer Support
+  phone: '+8434794006'
+  country: US
+  notes: General customer support line (manufacturer spreadsheet, Oct 2026).
+  source: https://marleymep.com/wp-content/uploads/MEP-QMark-DigitalCatalog_2026-03-web.pdf
+  last_verified: '2026-10-24'

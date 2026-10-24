@@ -1,0 +1,18 @@
+id: kingston-brass
+name: Kingston Brass
+categories:
+- plumbing
+aliases: []
+support:
+- category: plumbing
+  department: Technical Support
+  phone: '+8772527277'
+  country: US
+  notes: 'Imported from verified manufacturer spreadsheet (Oct 2026). Tech/support
+    page: https://www.kingstonbrass.com/pages/contact-us. Support hours (spreadsheet):
+    Mon-Fri 8am-5pm PT. Support email (spreadsheet): techsupport@kingstonbrass.com.
+    Warranty (spreadsheet): 1-877-252-7277; warranty@kingstonbrass.com. Parent (spreadsheet):
+    Kingston Brass Inc.. Spreadsheet notes: General email contact@kingstonbrass.com
+    also published.'
+  source: https://www.kingstonbrass.com/pages/contact-us
+  last_verified: '2026-10-24'

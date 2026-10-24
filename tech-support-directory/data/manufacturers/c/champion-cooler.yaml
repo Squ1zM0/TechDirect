@@ -1,0 +1,17 @@
+id: champion-cooler
+name: Champion Cooler
+categories:
+- hvac
+aliases: []
+support:
+- category: hvac
+  department: Technical Support
+  phone: '+8006438341'
+  country: US
+  notes: 'Imported from verified manufacturer spreadsheet (Oct 2026). Tech/support
+    page: https://www.championcooler.com/. Support email (spreadsheet): info@championcooler.com.
+    Warranty (spreadsheet): 1-800-643-8341. Parent (spreadsheet): Champion Cooler
+    Corporation. Spreadsheet notes: No dedicated tech line published separate from
+    the Champion Cooler Customer Service line.'
+  source: https://pimmedia.winsupplyinc.com/pim/INTA/112017/CHAMPION-COOLER-CORP-_10-12DD_CHM1012DD_INTA.pdf
+  last_verified: '2026-10-24'

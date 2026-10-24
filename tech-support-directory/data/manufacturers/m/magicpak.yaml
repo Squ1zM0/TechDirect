@@ -1,0 +1,17 @@
+id: magicpak
+name: MagicPak
+categories:
+- hvac
+aliases: []
+support:
+- category: hvac
+  department: General Customer Support
+  phone: '+8004485872'
+  country: US
+  notes: 'Imported from verified manufacturer spreadsheet (Oct 2026). Tech/support
+    page: https://www.magic-pak.com/. Warranty (spreadsheet): 1-800-448-5872. Parent
+    (spreadsheet): Lennox International (Allied Air Enterprises). Spreadsheet notes:
+    Allied Air brand; support via Allied Air line. No separate MagicPak tech line
+    published in sources checked.'
+  source: https://www.alliednow.com/buyers-guide/choosing-a-dealer/
+  last_verified: '2026-10-24'

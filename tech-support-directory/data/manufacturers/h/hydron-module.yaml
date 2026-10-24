@@ -1,0 +1,16 @@
+id: hydron-module
+name: Hydron Module
+categories:
+- hvac
+aliases: []
+support:
+- category: hvac
+  department: Technical Support
+  phone: '+6186649010'
+  country: US
+  notes: 'Imported from verified manufacturer spreadsheet (Oct 2026). Tech/support
+    page: https://enertechusa.com/. Warranty (spreadsheet): 618-664-9010. Parent (spreadsheet):
+    Enertech Global, LLC (Hydron brand). Spreadsheet notes: Hydron is an Enertech
+    brand; support via Enertech line/distributor.'
+  source: https://enertechusa.com/partners/heat-pumps
+  last_verified: '2026-10-24'

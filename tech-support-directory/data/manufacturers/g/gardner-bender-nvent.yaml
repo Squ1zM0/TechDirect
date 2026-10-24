@@ -1,0 +1,17 @@
+id: gardner-bender-nvent
+name: Gardner Bender (nVent)
+categories:
+- electrical
+aliases: []
+support:
+- category: electrical
+  department: Technical Support
+  phone: '+8006244320'
+  country: US
+  notes: 'Imported from verified manufacturer spreadsheet (Oct 2026). Tech/support
+    page: https://www.nvent.com/gardnerbender. Warranty (spreadsheet): 1-800-624-4320.
+    Parent (spreadsheet): nVent (Gardner Bender brand). Spreadsheet notes: nVent Gardner
+    Bender USA line per nVent catalog. No dedicated tech line published separate from
+    main line.'
+  source: https://www.nvent.com
+  last_verified: '2026-10-24'

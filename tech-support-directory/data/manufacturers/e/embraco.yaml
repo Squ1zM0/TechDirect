@@ -1,0 +1,18 @@
+id: embraco
+name: Embraco
+categories:
+- hvac
+aliases: []
+support:
+- category: hvac
+  department: Technical Support
+  phone: '+8554876686'
+  country: US
+  notes: 'Imported from verified manufacturer spreadsheet (Oct 2026). Tech/support
+    page: https://www.embraco.com/en/faq. Support email (spreadsheet): HVACRCustomerService@nidec-motor.com.
+    Warranty (spreadsheet): 855-487-6686. Parent (spreadsheet): Embraco (Nidec Global
+    Appliance). Spreadsheet notes: Parent-routed: US support via Nidec US Motors customer
+    service (number from Embraco aftermarket catalog); Embraco directs field technicians
+    to its distributors rather than direct tech support.'
+  source: https://www.embraco.com/en/faq
+  last_verified: '2026-10-24'

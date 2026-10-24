@@ -1,0 +1,17 @@
+id: patterson-pumps
+name: Patterson Pumps
+categories:
+- pumps
+- hvac
+aliases: []
+support:
+- category: pumps
+  department: Technical Support
+  phone: '+8003567793'
+  country: US
+  notes: 'Imported from verified manufacturer spreadsheet (Oct 2026). Tech/support
+    page: https://www.pattersonpumps.com. Warranty (spreadsheet): 1-800-356-7793.
+    Parent (spreadsheet): Patterson Pump Company (Gorman-Rupp). Spreadsheet notes:
+    Number from Patterson published listings - verify; flagged as secondary-source.'
+  source: https://www.pattersonpumps.com
+  last_verified: '2026-10-24'

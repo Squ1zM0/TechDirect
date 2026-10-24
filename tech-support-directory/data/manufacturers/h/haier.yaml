@@ -1,0 +1,17 @@
+id: haier
+name: Haier
+categories:
+- hvac
+aliases: []
+support:
+- category: hvac
+  department: General Customer Support
+  phone: '+8773373639'
+  country: US
+  notes: 'Imported from verified manufacturer spreadsheet (Oct 2026). Tech/support
+    page: https://www.haierappliances.com/. Warranty (spreadsheet): 1-877-337-3639.
+    Parent (spreadsheet): Haier US Appliance Solutions (GE Appliances / Haier Group).
+    Spreadsheet notes: Haier America toll-free 1-877-337-3639 per Haier appliance
+    manuals. HVAC-specific tech line not separately published in sources checked.'
+  source: https://www.manualslib.fr/manual/1097889/Commercial-Cool-Cte08A.html?page=14
+  last_verified: '2026-10-24'

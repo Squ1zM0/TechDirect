@@ -1,0 +1,26 @@
+id: fluke
+name: Fluke
+categories:
+- electrical
+aliases: []
+support:
+- category: electrical
+  department: Technical Support
+  phone: '+8004435853'
+  country: US
+  notes: 'Imported from verified manufacturer spreadsheet (Oct 2026). Tech/support
+    page: https://www.fluke.com. Support hours (spreadsheet): Technical Support Mon-Fri
+    6:30 AM-3:00 PM PT. Support email (spreadsheet): service@fluke.com. Warranty (spreadsheet):
+    1-877-355-3225 (Fluke Calibration). Parent (spreadsheet): Fluke Corporation (Fortive).
+    Spreadsheet notes: US service center (Everett WA) phone (888) 993-5853 = 1-888-99-FLUKE
+    per fluke.com service center page; Fluke Technical Support hours/phone per Fluke
+    support listings; service email is for RMA/service center'
+  source: https://www.fluke.com/en-ca/support/service-center-locations
+  last_verified: '2026-10-23'
+- category: electrical
+  department: General Customer Support
+  phone: '+8889935853'
+  country: US
+  notes: General customer support line (manufacturer spreadsheet, Oct 2026).
+  source: https://www.fluke.com/en-ca/support/service-center-locations
+  last_verified: '2026-10-23'

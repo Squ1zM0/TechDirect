@@ -1,0 +1,24 @@
+id: ibc
+name: IBC
+categories:
+- boilers
+aliases: []
+support:
+- category: boilers
+  department: Technical Support
+  phone: '+184443284221844'
+  country: US
+  notes: 'Imported from verified manufacturer spreadsheet (Oct 2026). Tech/support
+    page: https://www.ibcboiler.com/. Support hours (spreadsheet): Mon-Fri 8am-4:30pm
+    PT (per Health Canada/CPSC recall notice for this number). Warranty (spreadsheet):
+    1-844-432-8422. Parent (spreadsheet): IBC Technologies Inc. (Rheem group). Spreadsheet
+    notes: Phone displayed as 1-844-HEAT-IBC on every ibcboiler.com page'
+  source: https://www.ibcboiler.com/
+  last_verified: '2026-10-23'
+- category: boilers
+  department: General Customer Support
+  phone: '+8444328422'
+  country: US
+  notes: General customer support line (manufacturer spreadsheet, Oct 2026).
+  source: https://www.ibcboiler.com/
+  last_verified: '2026-10-23'

@@ -1,0 +1,16 @@
+id: mti-baths
+name: MTI Baths
+categories:
+- plumbing
+aliases: []
+support:
+- category: plumbing
+  department: Technical Support
+  phone: '+8007838827'
+  country: US
+  notes: 'Imported from verified manufacturer spreadsheet (Oct 2026). Tech/support
+    page: https://www.mtibaths.com. Support email (spreadsheet): customerservice@mtibaths.com.
+    Warranty (spreadsheet): 1-800-783-8827. Parent (spreadsheet): MTI Baths (MTI Whirlpools).
+    Spreadsheet notes: Service email service@mtibaths.com also published. Local 770-271-8228.'
+  source: https://www.mtibaths.com
+  last_verified: '2026-10-24'

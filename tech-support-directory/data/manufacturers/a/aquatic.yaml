@@ -1,0 +1,17 @@
+id: aquatic
+name: Aquatic
+categories:
+- plumbing
+aliases: []
+support:
+- category: plumbing
+  department: Technical Support
+  phone: '+8009452726'
+  country: US
+  notes: 'Imported from verified manufacturer spreadsheet (Oct 2026). Tech/support
+    page: https://www.aquaticbath.com. Warranty (spreadsheet): 1-800-945-2726. Parent
+    (spreadsheet): American Bath Group (Aquatic). Spreadsheet notes: No dedicated
+    tech line or published email found in manuals checked; customer service center
+    number.'
+  source: https://www.aquaticbath.com
+  last_verified: '2026-10-24'

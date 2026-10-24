@@ -1,0 +1,23 @@
+id: cambridge-air-solutions
+name: Cambridge Air Solutions
+categories:
+- hvac
+aliases: []
+support:
+- category: hvac
+  department: Technical Support
+  phone: '+8008991989'
+  country: US
+  notes: 'Imported from verified manufacturer spreadsheet (Oct 2026). Tech/support
+    page: https://www.cambridgeair.com/. Warranty (spreadsheet): 800-899-1989. Parent
+    (spreadsheet): Cambridge Air Solutions. Spreadsheet notes: Manual lists 800-899-1989
+    and 636-532-2233 (Chesterfield MO); website footer lists 636-532-6165.'
+  source: https://www.cambridgeair.com/Portals/0/S-Series%20Tech%20Manual_June%2020_2022.pdf
+  last_verified: '2026-10-24'
+- category: hvac
+  department: General Customer Support
+  phone: '+63653222336365326165'
+  country: US
+  notes: General customer support line (manufacturer spreadsheet, Oct 2026).
+  source: https://www.cambridgeair.com/Portals/0/S-Series%20Tech%20Manual_June%2020_2022.pdf
+  last_verified: '2026-10-24'

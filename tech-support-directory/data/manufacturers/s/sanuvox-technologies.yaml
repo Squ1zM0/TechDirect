@@ -1,0 +1,17 @@
+id: sanuvox-technologies
+name: Sanuvox Technologies
+categories:
+- hvac
+aliases: []
+support:
+- category: hvac
+  department: Technical Support
+  phone: '+8887268869'
+  country: US
+  notes: 'Imported from verified manufacturer spreadsheet (Oct 2026). Tech/support
+    page: https://sanuvox.com/. Support email (spreadsheet): info@sanuvox.com. Warranty
+    (spreadsheet): 1-888-726-8869. Parent (spreadsheet): Sanuvox Technologies. Spreadsheet
+    notes: No dedicated tech line published separate from Sanuvox toll-free customer
+    service line; installation questions directed to the same number in Sanuvox manuals.'
+  source: https://sanuvox.com/media/mmgf3lqx/p900-complete_instruction_manual-en_usint-oct2023.pdf
+  last_verified: '2026-10-24'

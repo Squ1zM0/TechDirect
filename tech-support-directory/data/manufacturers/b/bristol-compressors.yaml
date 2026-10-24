@@ -1,0 +1,18 @@
+id: bristol-compressors
+name: Bristol Compressors
+categories:
+- hvac
+aliases: []
+support:
+- category: hvac
+  department: Technical Support
+  phone: '+2764664121'
+  country: US
+  notes: 'Imported from verified manufacturer spreadsheet (Oct 2026). Tech/support
+    page: https://www.bristolcompressors.com/. Warranty (spreadsheet): 276-466-4121.
+    Parent (spreadsheet): Bristol Compressors International, Inc. (Kulthorn Kirby
+    / legacy). Spreadsheet notes: Bristol VA 276-466-4121 per Bristol compressor manuals.
+    Company status/ownership has changed over time - verify current support before
+    ordering; legacy manuals remain the published contact.'
+  source: https://www.scribd.com/document/367197009/Bristol-Compressor-G-Series
+  last_verified: '2026-10-24'

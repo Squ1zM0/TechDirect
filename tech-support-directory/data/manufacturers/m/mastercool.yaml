@@ -1,0 +1,18 @@
+id: mastercool
+name: Mastercool
+categories:
+- pumps
+- hvac
+aliases: []
+support:
+- category: pumps
+  department: Technical Support
+  phone: '+9732529119'
+  country: US
+  notes: 'Imported from verified manufacturer spreadsheet (Oct 2026). Tech/support
+    page: https://mastercool.com. Support email (spreadsheet): techs@mastercool.com.
+    Warranty (spreadsheet): 973-252-9119. Parent (spreadsheet): Mastercool Inc.. Spreadsheet
+    notes: No toll-free published; same Randolph NJ number for tech and general. General
+    email customerservice@mastercool.com.'
+  source: https://mastercool.com
+  last_verified: '2026-10-24'

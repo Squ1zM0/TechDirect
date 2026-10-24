@@ -1,0 +1,17 @@
+id: continental-fan
+name: Continental Fan
+categories:
+- airflow
+aliases: []
+support:
+- category: airflow
+  department: Technical Support
+  phone: '+8007794021'
+  country: US
+  notes: 'Imported from verified manufacturer spreadsheet (Oct 2026). Tech/support
+    page: https://continentalfan.com/faqs/. Support email (spreadsheet): info@continentalfan.com.
+    Warranty (spreadsheet): 1-800-779-4021. Parent (spreadsheet): Continental Fan
+    Manufacturing Inc.. Spreadsheet notes: No dedicated tech line published separate
+    from the 1-800-779-4021 customer service line.'
+  source: https://continentalfan.com/faqs/
+  last_verified: '2026-10-24'

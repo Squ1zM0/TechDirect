@@ -1,0 +1,19 @@
+id: predator-harbor-freight
+name: Predator (Harbor Freight)
+categories:
+- electrical
+aliases: []
+support:
+- category: electrical
+  department: Technical Support
+  phone: '+8004443353'
+  country: US
+  notes: 'Imported from verified manufacturer spreadsheet (Oct 2026). Tech/support
+    page: https://www.harborfreight.com/. Warranty (spreadsheet): 1-800-444-3353.
+    Parent (spreadsheet): Harbor Freight Tools (Predator brand). Spreadsheet notes:
+    SUPPORT ROUTE: Predator has no separate factory line - support is via Harbor Freight
+    customer service. Number shown is Harbor Freight''s widely published customer
+    service line; verify on harborfreight.com before relying - flagged as a support-route
+    entry, not a Predator factory tech line.'
+  source: https://www.harborfreight.com/
+  last_verified: '2026-10-24'

@@ -1,0 +1,17 @@
+id: intertherm
+name: Intertherm
+categories:
+- hvac
+aliases: []
+support:
+- category: hvac
+  department: Technical Support
+  phone: '+8004224328'
+  country: US
+  notes: 'Imported from verified manufacturer spreadsheet (Oct 2026). Tech/support
+    page: https://www.intertherm.net/. Support email (spreadsheet): consumercare@rheem.com.
+    Warranty (spreadsheet): 1-800-422-4328. Parent (spreadsheet): Intertherm (Nordyne
+    / Nortek Global HVAC). Spreadsheet notes: Parent-routed: support via Nordyne;
+    line shared across Nordyne brands (Intertherm; Miller; Revolv), not Intertherm-dedicated.'
+  source: https://www.intertherm.net/
+  last_verified: '2026-10-24'

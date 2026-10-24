@@ -1,0 +1,17 @@
+id: merit-brass
+name: Merit Brass
+categories:
+- plumbing
+aliases: []
+support:
+- category: plumbing
+  department: Technical Support
+  phone: '+8007269800'
+  country: US
+  notes: 'Imported from verified manufacturer spreadsheet (Oct 2026). Tech/support
+    page: https://www.meritbrass.com. Warranty (spreadsheet): 1-800-726-9800. Parent
+    (spreadsheet): Merit Brass Co.. Spreadsheet notes: Number from Merit Brass published
+    listings - verify on meritbrass.com; flagged as secondary-source. No dedicated
+    tech line published.'
+  source: https://www.meritbrass.com
+  last_verified: '2026-10-24'

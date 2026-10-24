@@ -1,0 +1,24 @@
+id: century
+name: Century
+categories:
+- hvac
+aliases: []
+support:
+- category: hvac
+  department: Technical Support
+  phone: '+8006726495'
+  country: US
+  notes: 'Imported from verified manufacturer spreadsheet (Oct 2026). Tech/support
+    page: https://www.regalrexnord.com/en/brands/century/Contact. Warranty (spreadsheet):
+    1-866-567-3875. Parent (spreadsheet): Regal Rexnord Corporation. Spreadsheet notes:
+    Distributor Customer Service 800-672-6495 per official Regal Rexnord Century contact
+    page; OEM Customer Service 1-866-567-3875 [Legacy audit, Oct 2026 — KEEP v4 parent,
+    ADD ambiguity flag] Century Motors -> Regal Rexnord. Secondary history: Century
+    Electric Co. (1911) -> A.O. Smith Motors -> Regal Beloit 2011 (now Regal Rexnord).
+    Regal''s own brand page runs different timeline (''tradition since 1940''). Founding
+    accounts conflict — do not pick one as verified. Alternative: Century Engineering
+    Corp., Cedar Rapids, purchased by Heat Controller 1975 — if cross-reference ''Century''
+    derives from that line, lineage differs. Confirm from Johnstone product context
+    before assigning one chain.'
+  source: https://www.regalrexnord.com/en/brands/century/Contact
+  last_verified: '2026-10-23'

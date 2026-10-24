@@ -1,0 +1,25 @@
+id: bard-manufacturing
+name: Bard Manufacturing
+categories:
+- hvac
+aliases: []
+support:
+- category: hvac
+  department: Technical Support
+  phone: '+4196360439'
+  country: US
+  notes: 'Imported from verified manufacturer spreadsheet (Oct 2026). Tech/support
+    page: https://www.bardhvac.com/. Support hours (spreadsheet): Mon-Fri 8am-5pm
+    ET. Parent (spreadsheet): Bard Manufacturing Company. Spreadsheet notes: in searches
+    2026-10-24 - support via bardhvac.com / local rep. Do not use a guessed number.
+    AUDIT 2026-10-24: Tech Support line 419-636-0439 (Mon-Fri 8am-5pm ET) via Bard
+    dealer page quoting Bard direct; general 419-636-1194.'
+  source: https://www.bardwallmount.com/bard_parts
+  last_verified: '2026-10-24'
+- category: hvac
+  department: General Customer Support
+  phone: '+4196361194'
+  country: US
+  notes: General customer support line (manufacturer spreadsheet, Oct 2026).
+  source: https://www.bardwallmount.com/bard_parts
+  last_verified: '2026-10-24'

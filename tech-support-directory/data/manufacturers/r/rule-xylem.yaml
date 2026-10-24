@@ -1,0 +1,16 @@
+id: rule-xylem
+name: Rule (Xylem)
+categories:
+- pumps
+aliases: []
+support:
+- category: pumps
+  department: Technical Support
+  phone: '+8449957867'
+  country: US
+  notes: 'Imported from verified manufacturer spreadsheet (Oct 2026). Tech/support
+    page: https://www.xylem.com. Warranty (spreadsheet): 1-844-995-7867. Parent (spreadsheet):
+    Xylem Inc. (Rule brand). Spreadsheet notes: Rule support via Xylem (844-XYL-PUMP)
+    as in v1 Goulds/B&G rows; no standalone Rule phone published.'
+  source: https://www.xylem.com
+  last_verified: '2026-10-24'

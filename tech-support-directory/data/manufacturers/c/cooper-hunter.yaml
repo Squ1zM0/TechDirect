@@ -1,0 +1,24 @@
+id: cooper-hunter
+name: Cooper & Hunter
+categories:
+- hvac
+aliases: []
+support:
+- category: hvac
+  department: Technical Support
+  phone: '+8882939252'
+  country: US
+  notes: 'Imported from verified manufacturer spreadsheet (Oct 2026). Tech/support
+    page: https://cooperandhunter.us/. Support hours (spreadsheet): Mon-Fri 9am-5pm
+    ET (per manuals). Warranty (spreadsheet): 1-888-293-9252. Parent (spreadsheet):
+    Cooper & Hunter (C&H Distributors). Spreadsheet notes: Official site footer lists
+    +1-888-293-9252 and +1-800-977-0722 (Doral FL). Older trade article lists 305-961-1809.'
+  source: http://cooperandhunter.us/protech
+  last_verified: '2026-10-24'
+- category: hvac
+  department: General Customer Support
+  phone: '+180097707223059611809'
+  country: US
+  notes: General customer support line (manufacturer spreadsheet, Oct 2026).
+  source: http://cooperandhunter.us/protech
+  last_verified: '2026-10-24'

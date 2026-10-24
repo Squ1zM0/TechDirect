@@ -1,0 +1,18 @@
+id: comfort-aire
+name: Comfort-Aire
+categories:
+- hvac
+aliases: []
+support:
+- category: hvac
+  department: Technical Support
+  phone: '+5177872100'
+  country: US
+  notes: 'Imported from verified manufacturer spreadsheet (Oct 2026). Tech/support
+    page: https://www.comfort-aire.com/. Warranty (spreadsheet): 866-557-1865 (service
+    and warranty). Parent (spreadsheet): Heat Controller Inc.. Spreadsheet notes:
+    Brand-specific Heat Controller Customer/Technical Service Department line from
+    Comfort-Aire manuals; service and warranty line 866-557-1865 also published. No
+    support email verified.'
+  source: https://manualsfile.com/product/k3zb75my3wa.html?page=5
+  last_verified: '2026-10-24'

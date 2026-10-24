@@ -1,0 +1,24 @@
+id: true-manufacturing
+name: True Manufacturing
+categories:
+- hvac
+aliases: []
+support:
+- category: hvac
+  department: Technical Support
+  phone: '+8003256152'
+  country: US
+  notes: 'Imported from verified manufacturer spreadsheet (Oct 2026). Tech/support
+    page: https://www.truemfg.com/. Support hours (spreadsheet): Service Dept Mon-Fri
+    7:30am-5:30pm, Sat 7:45-11:45am CST. Warranty (spreadsheet): 800-325-6152. Parent
+    (spreadsheet): True Manufacturing Co., Inc. (True Food Service). Spreadsheet notes:
+    Service Dept 800-325-6152 / 636-240-2400 per True manuals.'
+  source: https://archive.org/stream/manualzilla-id-6961647/6961647_djvu.txt
+  last_verified: '2026-10-24'
+- category: hvac
+  department: General Customer Support
+  phone: '+63624024008003256152'
+  country: US
+  notes: General customer support line (manufacturer spreadsheet, Oct 2026).
+  source: https://archive.org/stream/manualzilla-id-6961647/6961647_djvu.txt
+  last_verified: '2026-10-24'

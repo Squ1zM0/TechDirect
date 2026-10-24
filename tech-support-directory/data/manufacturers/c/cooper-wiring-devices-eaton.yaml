@@ -1,0 +1,18 @@
+id: cooper-wiring-devices-eaton
+name: Cooper Wiring Devices (Eaton)
+categories:
+- electrical
+aliases: []
+support:
+- category: electrical
+  department: Technical Support
+  phone: '+8773862273'
+  country: US
+  notes: 'Imported from verified manufacturer spreadsheet (Oct 2026). Tech/support
+    page: https://www.eaton.com. Support hours (spreadsheet): Mon-Fri 8am-5pm ET.
+    Support email (spreadsheet): trc@eaton.com. Warranty (spreadsheet): 1-877-386-2273.
+    Parent (spreadsheet): Eaton Corporation. Spreadsheet notes: Cooper Wiring is now
+    Eaton; support via Eaton ETN-CARE. AUDIT 2026-10-24: Parent-routed: support via
+    Eaton (shared line 877-386-2273).'
+  source: https://www.eaton.com
+  last_verified: '2026-10-24'

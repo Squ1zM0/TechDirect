@@ -1,0 +1,17 @@
+id: fraser-johnston
+name: Fraser-Johnston
+categories:
+- airflow
+- hvac
+aliases: []
+support:
+- category: airflow
+  department: General Customer Support
+  phone: '+8778747378'
+  country: US
+  notes: 'Imported from verified manufacturer spreadsheet (Oct 2026). Tech/support
+    page: https://www.york.com/. Warranty (spreadsheet): 877-874-7378. Parent (spreadsheet):
+    Johnson Controls (JCI) Unitary Products (legacy). Spreadsheet notes: Legacy JCI
+    brand; no dedicated line published - via JCI line.'
+  source: https://www.manualshelf.com/manual/johnson-controls/813196-uum-a-0112/user-guide-english/page-4.html
+  last_verified: '2026-10-24'

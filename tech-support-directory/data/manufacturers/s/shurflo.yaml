@@ -1,0 +1,16 @@
+id: shurflo
+name: Shurflo
+categories:
+- pumps
+aliases: []
+support:
+- category: pumps
+  department: Technical Support
+  phone: '+8008543218'
+  country: US
+  notes: 'Imported from verified manufacturer spreadsheet (Oct 2026). Tech/support
+    page: https://www.pentair.com. Warranty (spreadsheet): 1-800-854-3218. Parent
+    (spreadsheet): Pentair (Shurflo brand). Spreadsheet notes: Number from Shurflo/Pentair
+    published listings - verify; flagged as secondary-source.'
+  source: https://www.pentair.com
+  last_verified: '2026-10-24'

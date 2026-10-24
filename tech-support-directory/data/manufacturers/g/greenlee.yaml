@@ -1,0 +1,17 @@
+id: greenlee
+name: Greenlee
+categories:
+- electrical
+aliases: []
+support:
+- category: electrical
+  department: Technical Support
+  phone: '+8004350786'
+  country: US
+  notes: 'Imported from verified manufacturer spreadsheet (Oct 2026). Tech/support
+    page: https://www.greenlee.com. Support email (spreadsheet): grntechnicalsupport@emerson.com.
+    Warranty (spreadsheet): 1-800-435-0786. Parent (spreadsheet): Emerson (Greenlee
+    / Professional Tools). Spreadsheet notes: Tech support 800-435-0786 per greenlee.com
+    Q&A; aggregator also lists 844-789-8665 for Greenlee Technical Services.'
+  source: https://www.greenlee.com
+  last_verified: '2026-10-24'

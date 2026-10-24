@@ -1,0 +1,16 @@
+id: red-lion
+name: Red Lion
+categories:
+- pumps
+aliases: []
+support:
+- category: pumps
+  department: Technical Support
+  phone: '+8888859254'
+  country: US
+  notes: 'Imported from verified manufacturer spreadsheet (Oct 2026). Tech/support
+    page: https://www.redlionproducts.com. Warranty (spreadsheet): 1-888-885-9254.
+    Parent (spreadsheet): Franklin Electric (Red Lion brand). Spreadsheet notes: Older
+    catalogs show hotline 1-888-956-0000; current site hotline is 888-885-9254.'
+  source: https://www.redlionproducts.com
+  last_verified: '2026-10-24'

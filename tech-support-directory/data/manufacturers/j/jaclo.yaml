@@ -1,0 +1,17 @@
+id: jaclo
+name: JACLO
+categories:
+- drainage
+- plumbing
+aliases: []
+support:
+- category: drainage
+  department: Technical Support
+  phone: '+8008523906'
+  country: US
+  notes: 'Imported from verified manufacturer spreadsheet (Oct 2026). Tech/support
+    page: https://www.jaclo.com. Warranty (spreadsheet): 1-800-852-3906. Parent (spreadsheet):
+    JACLO Industries. Spreadsheet notes: Number from JACLO published listings - verify
+    on jaclo.com; flagged as secondary-source.'
+  source: https://www.jaclo.com
+  last_verified: '2026-10-24'

@@ -1,0 +1,19 @@
+id: ecobee
+name: ecobee
+categories:
+- hvac
+aliases: []
+support:
+- category: hvac
+  department: Technical Support
+  phone: '+8779326233'
+  country: US
+  notes: 'Imported from verified manufacturer spreadsheet (Oct 2026). Tech/support
+    page: https://www.ecobee.com/support. Support hours (spreadsheet): Mon-Fri 8am-11pm
+    EST; Sat-Sun 9am-9pm EST (per ecobee manuals). Support email (spreadsheet): support@ecobee.com.
+    Warranty (spreadsheet): 1-877-932-6233. Parent (spreadsheet): ecobee Inc. (a Generac
+    company). Spreadsheet notes: ecobee Pro catalog lists hours Mon-Sat 8:00am-Midnight
+    EST and Sun 9am-9pm EST; an older Smart Premium manual excerpt showed 1-866-518-6740
+    - the 877 number is the one printed across ecobee manuals and catalogs'
+  source: https://www.ecobee.com/support
+  last_verified: '2026-10-23'

@@ -1,0 +1,17 @@
+id: california-faucets
+name: California Faucets
+categories:
+- drainage
+- plumbing
+aliases: []
+support:
+- category: drainage
+  department: Technical Support
+  phone: '+8008228855'
+  country: US
+  notes: 'Imported from verified manufacturer spreadsheet (Oct 2026). Tech/support
+    page: https://www.calfaucets.com/contact. Warranty (spreadsheet): 1-800-822-8855.
+    Parent (spreadsheet): California Faucets Inc.. Spreadsheet notes: No dedicated
+    tech line or published email found on official pages checked; contact via form/phone.'
+  source: https://www.calfaucets.com/contact
+  last_verified: '2026-10-24'

@@ -1,0 +1,16 @@
+id: jabsco
+name: Jabsco
+categories:
+- pumps
+aliases: []
+support:
+- category: pumps
+  department: Technical Support
+  phone: '+8449957867'
+  country: US
+  notes: 'Imported from verified manufacturer spreadsheet (Oct 2026). Tech/support
+    page: https://www.xylem.com. Warranty (spreadsheet): 1-844-995-7867. Parent (spreadsheet):
+    Xylem Inc. (Jabsco brand). Spreadsheet notes: Jabsco support via Xylem; no standalone
+    Jabsco phone published - parent-routed.'
+  source: https://www.xylem.com
+  last_verified: '2026-10-24'

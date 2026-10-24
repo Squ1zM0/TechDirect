@@ -1,0 +1,19 @@
+id: robinair
+name: Robinair
+categories:
+- pumps
+- hvac
+- electrical
+aliases: []
+support:
+- category: pumps
+  department: Technical Support
+  phone: '+8005336127'
+  country: US
+  notes: 'Imported from verified manufacturer spreadsheet (Oct 2026). Tech/support
+    page: https://www.robinair.com. Support email (spreadsheet): techsupport@robinair.com.
+    Warranty (spreadsheet): 1-800-533-6127. Parent (spreadsheet): Bosch Automotive
+    Service Solutions (Robinair brand). Spreadsheet notes: Current site lists 800-533-6127
+    for both customer and tech support; older manuals list a separate tech line 800-822-5561.'
+  source: https://www.robinair.com
+  last_verified: '2026-10-24'

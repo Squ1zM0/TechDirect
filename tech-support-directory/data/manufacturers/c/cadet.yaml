@@ -1,0 +1,18 @@
+id: cadet
+name: Cadet
+categories:
+- hvac
+aliases: []
+support:
+- category: hvac
+  department: Technical Support
+  phone: '+8552233887'
+  country: US
+  notes: 'Imported from verified manufacturer spreadsheet (Oct 2026). Tech/support
+    page: https://www.cadet.glendimplexamericas.com/electric-heating-solutions/thermostats.
+    Support hours (spreadsheet): Mon-Thu 8am-5pm PT; Fri 8am-3pm PT. Support email
+    (spreadsheet): customerservice@cadetheat.com. Warranty (spreadsheet): 855-223-3887.
+    Parent (spreadsheet): Cadet (Glen Dimplex Americas). Spreadsheet notes: Brand-specific
+    Technical Support team line 855-CADET-US (855-223-3887); outside US 360-693-2505.'
+  source: https://www.cadet.glendimplexamericas.com/electric-heating-solutions/thermostats
+  last_verified: '2026-10-24'

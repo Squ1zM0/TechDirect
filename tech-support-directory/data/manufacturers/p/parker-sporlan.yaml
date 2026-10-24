@@ -1,0 +1,18 @@
+id: parker-sporlan
+name: Parker / Sporlan
+categories:
+- hvac
+aliases: []
+support:
+- category: hvac
+  department: Technical Support
+  phone: '+6362391111'
+  country: US
+  notes: 'Imported from verified manufacturer spreadsheet (Oct 2026). Tech/support
+    page: https://ph.parker.com. Parent (spreadsheet): Parker Hannifin Corporation
+    (Sporlan Division). Spreadsheet notes: Sporlan Division direct phone (Washington
+    MO) published as Local Contact on Parker product pages; Parker describes Sporlan
+    application engineering/tech sales support for HVACR - no separate toll-free tech
+    line published; fax +1 (636) 239-9130'
+  source: https://ph.parker.com/us/en/960071
+  last_verified: '2026-10-23'

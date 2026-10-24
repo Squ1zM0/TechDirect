@@ -1,0 +1,18 @@
+id: senville
+name: Senville
+categories:
+- hvac
+aliases: []
+support:
+- category: hvac
+  department: Technical Support
+  phone: '+8002424935'
+  country: US
+  notes: 'Imported from verified manufacturer spreadsheet (Oct 2026). Tech/support
+    page: https://senville.com/. Support hours (spreadsheet): Mon-Fri 9am-5pm (per
+    senville.com footer). Warranty (spreadsheet): 1-800-242-4935. Parent (spreadsheet):
+    Senville (Senville USA). Spreadsheet notes: Phone 1-800-242-4935 from official
+    senville.com footer (Fort Worth TX). Note: some aggregators claim no phone - official
+    site footer contradicts that; use official number.'
+  source: https://senville.com/terms/
+  last_verified: '2026-10-24'

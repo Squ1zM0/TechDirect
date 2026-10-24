@@ -1,0 +1,16 @@
+id: simer
+name: Simer
+categories:
+- pumps
+aliases: []
+support:
+- category: pumps
+  department: Technical Support
+  phone: '+8889878677'
+  country: US
+  notes: 'Imported from verified manufacturer spreadsheet (Oct 2026). Tech/support
+    page: https://www.pentair.com. Warranty (spreadsheet): 1-888-987-8677. Parent
+    (spreadsheet): Pentair (Simer brand). Spreadsheet notes: Simer support via Pentair
+    shared pump line; no standalone Simer phone published - parent-routed.'
+  source: https://www.pentair.com
+  last_verified: '2026-10-24'

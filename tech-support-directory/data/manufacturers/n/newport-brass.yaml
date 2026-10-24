@@ -1,0 +1,16 @@
+id: newport-brass
+name: Newport Brass
+categories:
+- plumbing
+aliases: []
+support:
+- category: plumbing
+  department: Technical Support
+  phone: '+9494175207'
+  country: US
+  notes: 'Imported from verified manufacturer spreadsheet (Oct 2026). Tech/support
+    page: https://www.newportbrass.com. Warranty (spreadsheet): 1-949-417-5207. Parent
+    (spreadsheet): Brasstech Inc. (Masco). Spreadsheet notes: No dedicated tech line
+    or published support email found; contact via form/phone.'
+  source: https://www.newportbrass.com
+  last_verified: '2026-10-24'

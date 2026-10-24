@@ -1,0 +1,17 @@
+id: ecr-international
+name: ECR International
+categories:
+- boilers
+- hvac
+aliases: []
+support:
+- category: boilers
+  department: Technical Support
+  phone: '+8003255479'
+  country: US
+  notes: 'Imported from verified manufacturer spreadsheet (Oct 2026). Tech/support
+    page: https://www.ecrinternational.com/. Warranty (spreadsheet): 1-800-325-5479.
+    Parent (spreadsheet): ECR International, Inc.. Spreadsheet notes: Parent line
+    for the ECR boiler brands above.'
+  source: https://forum.heatinghelp.com/discussion/comment/1209372
+  last_verified: '2026-10-24'

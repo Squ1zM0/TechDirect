@@ -1,0 +1,25 @@
+id: nor-lake
+name: Nor-Lake
+categories:
+- hvac
+aliases: []
+support:
+- category: hvac
+  department: Technical Support
+  phone: '+8003885253'
+  country: US
+  notes: 'Imported from verified manufacturer spreadsheet (Oct 2026). Tech/support
+    page: https://norlake.com/. Support email (spreadsheet): rsgservice@refsg.com.
+    Warranty (spreadsheet): 1-800-388-5253. Parent (spreadsheet): Refrigerated Solutions
+    Group (RSG) / Standex. Spreadsheet notes: RSG Tech Service 1-800-388-5253 per
+    Master-Bilt/RSG page (handles Master-Bilt and Norlake); Norlake HQ 715-386-2323
+    and 833-327-5989 on norlake.com.'
+  source: https://master-bilt.com/warranty/
+  last_verified: '2026-10-24'
+- category: hvac
+  department: General Customer Support
+  phone: '+71538623238333275989'
+  country: US
+  notes: General customer support line (manufacturer spreadsheet, Oct 2026).
+  source: https://master-bilt.com/warranty/
+  last_verified: '2026-10-24'

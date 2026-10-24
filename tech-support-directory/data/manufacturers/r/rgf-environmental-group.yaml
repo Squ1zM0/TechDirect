@@ -1,0 +1,17 @@
+id: rgf-environmental-group
+name: RGF Environmental Group
+categories:
+- hvac
+aliases: []
+support:
+- category: hvac
+  department: Technical Support
+  phone: '+8008427771'
+  country: US
+  notes: 'Imported from verified manufacturer spreadsheet (Oct 2026). Tech/support
+    page: https://rgf.com/. Warranty (spreadsheet): 800-842-7771 / 561-848-1826. Parent
+    (spreadsheet): RGF Environmental Group Inc.. Spreadsheet notes: No dedicated tech
+    line published separate from main contact line; warranty service via Customer
+    Service Department at 800-842-7771. No support email verified on official site.'
+  source: https://rgf.com/privacy-policy/
+  last_verified: '2026-10-24'

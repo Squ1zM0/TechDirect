@@ -1,0 +1,17 @@
+id: nu-calgon
+name: Nu-Calgon
+categories:
+- hvac
+aliases: []
+support:
+- category: hvac
+  department: Technical Support
+  phone: '+8005545499'
+  country: US
+  notes: 'Imported from verified manufacturer spreadsheet (Oct 2026). Tech/support
+    page: https://nucalgon.com/. Support email (spreadsheet): info@nucalgon.com. Warranty
+    (spreadsheet): 800-554-5499. Parent (spreadsheet): Nu-Calgon Wholesaler Inc..
+    Spreadsheet notes: No dedicated tech line published separate from the 800-554-5499
+    main line.'
+  source: https://nucalgon.com/product-list/ph-treat-inline-refillable/
+  last_verified: '2026-10-24'

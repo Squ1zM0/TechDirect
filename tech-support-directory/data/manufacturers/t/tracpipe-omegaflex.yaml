@@ -1,0 +1,18 @@
+id: tracpipe-omegaflex
+name: TracPipe (OmegaFlex)
+categories:
+- plumbing
+aliases: []
+support:
+- category: plumbing
+  department: Technical Support
+  phone: '+8006718622'
+  country: US
+  notes: 'Imported from verified manufacturer spreadsheet (Oct 2026). Tech/support
+    page: https://tracpipe.com/. Support email (spreadsheet): sales@tracpipe.com.
+    Warranty (spreadsheet): 1-800-671-8622. Parent (spreadsheet): Omega Flex Inc..
+    Spreadsheet notes: No dedicated tech line published separate from TracPipe main
+    line; Omega Flex direct line 610-524-7272 also published. OmegaFlex training portal
+    at omegaflextraining.com.'
+  source: https://tracpipe.com/wp-content/uploads/FGP-745-USA-Catalog.pdf
+  last_verified: '2026-10-24'

@@ -1,0 +1,17 @@
+id: ips-corporation
+name: IPS Corporation
+categories:
+- electrical
+aliases: []
+support:
+- category: electrical
+  department: Technical Support
+  phone: '+8008888312'
+  country: US
+  notes: 'Imported from verified manufacturer spreadsheet (Oct 2026). Tech/support
+    page: https://www.ipscorp.com. Support email (spreadsheet): tncustserv@ipscorp.com.
+    Warranty (spreadsheet): 1-800-888-8312. Parent (spreadsheet): IPS Corporation
+    (Weld-On; Water-Tite; Test-Tite). Spreadsheet notes: FloodStop pump tech support
+    separate: 1-833-786-7779. No dedicated general tech line published.'
+  source: https://www.ipscorp.com
+  last_verified: '2026-10-24'

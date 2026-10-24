@@ -1,0 +1,17 @@
+id: briggs-stratton-power
+name: Briggs & Stratton (Power)
+categories:
+- electrical
+aliases: []
+support:
+- category: electrical
+  department: Technical Support
+  phone: '+8007434115'
+  country: US
+  notes: 'Imported from verified manufacturer spreadsheet (Oct 2026). Tech/support
+    page: https://www.briggsandstratton.com/. Warranty (spreadsheet): 800-743-4115.
+    Parent (spreadsheet): Briggs & Stratton Corporation. Spreadsheet notes: Customer
+    Service 800-743-4115 per Briggs generator manuals. Generator-specific Answer Center
+    staffing varies during storms.'
+  source: https://c.searspartsdirect.com/doc/1803052L
+  last_verified: '2026-10-24'

@@ -1,0 +1,19 @@
+id: janitrol
+name: Janitrol
+categories:
+- hvac
+aliases: []
+support:
+- category: hvac
+  department: Technical Support
+  phone: '+8772544729'
+  country: US
+  notes: 'Imported from verified manufacturer spreadsheet (Oct 2026). Tech/support
+    page: https://www.goodmanmfg.com/. Support hours (spreadsheet): Mon-Fri 8am-5pm
+    ET (Goodman line, per v1). Warranty (spreadsheet): 1-877-254-4729. Parent (spreadsheet):
+    Goodman / Daikin Comfort Technologies (legacy); formerly Johnson Controls. Spreadsheet
+    notes: Legacy brand: Janitrol line was sold to Goodman in 1982 (per InspectAPedia
+    history); current support is via Goodman/Daikin line. No dedicated Janitrol line
+    published.'
+  source: https://www.goodmanmfg.com/
+  last_verified: '2026-10-24'

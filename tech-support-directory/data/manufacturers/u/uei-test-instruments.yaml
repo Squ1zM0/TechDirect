@@ -1,0 +1,17 @@
+id: uei-test-instruments
+name: UEi Test Instruments
+categories:
+- electrical
+aliases: []
+support:
+- category: electrical
+  department: Technical Support
+  phone: '+8005475740'
+  country: US
+  notes: 'Imported from verified manufacturer spreadsheet (Oct 2026). Tech/support
+    page: https://www.ueitest.com. Support email (spreadsheet): info@ueitest.com.
+    Warranty (spreadsheet): 1-800-547-5740. Parent (spreadsheet): UEi Test Instruments
+    (Kane Group). Spreadsheet notes: Service dept 800-308-7709 per older manuals.
+    No dedicated tech line published separate from main line.'
+  source: https://www.ueitest.com
+  last_verified: '2026-10-24'

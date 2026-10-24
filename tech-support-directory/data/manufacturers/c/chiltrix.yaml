@@ -1,0 +1,24 @@
+id: chiltrix
+name: Chiltrix
+categories:
+- hvac
+- airflow
+aliases: []
+support:
+- category: hvac
+  department: Technical Support
+  phone: '+7574108640112'
+  country: US
+  notes: 'Imported from verified manufacturer spreadsheet (Oct 2026). Tech/support
+    page: https://www.chiltrix.com/faq/. Warranty (spreadsheet): 757-410-8640. Parent
+    (spreadsheet): Chiltrix Inc. (affiliate of HotSpot Energy Inc.). Spreadsheet notes:
+    Tech support ext 112 per Chiltrix manual; HQ Chesapeake VA 4021 Holland Blvd.'
+  source: https://www.chiltrix.com/faq/
+  last_verified: '2026-10-24'
+- category: hvac
+  department: General Customer Support
+  phone: '+7574108640'
+  country: US
+  notes: General customer support line (manufacturer spreadsheet, Oct 2026).
+  source: https://www.chiltrix.com/faq/
+  last_verified: '2026-10-24'

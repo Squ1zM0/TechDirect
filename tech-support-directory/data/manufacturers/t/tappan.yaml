@@ -1,0 +1,19 @@
+id: tappan
+name: Tappan
+categories:
+- hvac
+aliases: []
+support:
+- category: hvac
+  department: Technical Support
+  phone: '+8004224328'
+  country: US
+  notes: 'Imported from verified manufacturer spreadsheet (Oct 2026). Tech/support
+    page: https://www.tappan.net/. Warranty (spreadsheet): 1-800-422-4328. Parent
+    (spreadsheet): Nortek Global HVAC / Rheem Manufacturing. Spreadsheet notes: Nortek
+    brand revived under Nordyne licence; support via Nortek/Rheem consumer care line
+    in v1 (Nordyne/Nortek row). Local Nortek HQ 636-561-7300 also published. AUDIT
+    2026-10-24: Parent-routed: support via Nordyne / Nortek Global HVAC (shared line
+    800-422-4328).'
+  source: https://www.nordyne.com/business-segments/
+  last_verified: '2026-10-24'

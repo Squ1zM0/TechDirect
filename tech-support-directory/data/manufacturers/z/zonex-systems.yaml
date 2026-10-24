@@ -1,0 +1,17 @@
+id: zonex-systems
+name: Zonex Systems
+categories:
+- electrical
+aliases: []
+support:
+- category: electrical
+  department: Technical Support
+  phone: '+8002282966'
+  country: US
+  notes: 'Imported from verified manufacturer spreadsheet (Oct 2026). Tech/support
+    page: https://www.zonexproducts.com/. Support email (spreadsheet): rfq@zonexsystems.com.
+    Warranty (spreadsheet): 800-228-2966. Parent (spreadsheet): Zonex Systems. Spreadsheet
+    notes: Brand-specific Technical Support Department line; warranty dept 714-898-9963
+    and warranties@zonexsystems.com also published.'
+  source: https://www.zonexproducts.com/us/zonex-commander/
+  last_verified: '2026-10-24'

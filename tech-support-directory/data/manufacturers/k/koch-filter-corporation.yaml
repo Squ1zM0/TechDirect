@@ -1,0 +1,17 @@
+id: koch-filter-corporation
+name: Koch Filter Corporation
+categories:
+- hvac
+aliases: []
+support:
+- category: hvac
+  department: Technical Support
+  phone: '+8007575624'
+  country: US
+  notes: 'Imported from verified manufacturer spreadsheet (Oct 2026). Tech/support
+    page: https://www.kochfilter.com/. Support email (spreadsheet): info@kochfilter.com.
+    Warranty (spreadsheet): 800-757-5624. Parent (spreadsheet): Koch Filter Corporation.
+    Spreadsheet notes: No dedicated tech line published separate from Koch toll-free
+    line; direct line 502-634-4796 also published.'
+  source: https://pdf.directindustry.com/pdf/koch-filter-corporation/multi-cell/100863-929196.html
+  last_verified: '2026-10-24'

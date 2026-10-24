@@ -1,0 +1,19 @@
+id: airthings
+name: Airthings
+categories:
+- hvac
+aliases: []
+support:
+- category: hvac
+  department: Technical Support
+  phone: '+8662542221'
+  country: US
+  notes: 'Imported from verified manufacturer spreadsheet (Oct 2026). Tech/support
+    page: https://support.airthings.com/. Support hours (spreadsheet): Mon-Fri 7:00am-1:00am
+    CET. Support email (spreadsheet): support@airthings.com. Warranty (spreadsheet):
+    1-866-254-2221. Parent (spreadsheet): Airthings ASA (Airthings America Inc.).
+    Spreadsheet notes: Brand-specific US customer service line from Airthings product
+    manual; support also via app and support.airthings.com. No separate contractor
+    tech line published.'
+  source: https://manuals.plus/m/526829c8935edcc6b6438b6e5f60f9f427901815b9bdfccf3e83efcbd572efae
+  last_verified: '2026-10-24'

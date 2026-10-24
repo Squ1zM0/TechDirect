@@ -1,0 +1,18 @@
+id: fieldpiece
+name: Fieldpiece
+categories:
+- hvac
+- electrical
+aliases: []
+support:
+- category: hvac
+  department: Technical Support
+  phone: '+7146341844'
+  country: US
+  notes: 'Imported from verified manufacturer spreadsheet (Oct 2026). Tech/support
+    page: https://www.fieldpiece.com. Warranty (spreadsheet): 714-634-1844. Parent
+    (spreadsheet): Fieldpiece Instruments Inc.. Spreadsheet notes: Customer Service
+    line (Orange CA) per fieldpiece.com; no separate tech-only phone published in
+    sources checked'
+  source: https://www.fieldpiece.com
+  last_verified: '2026-10-23'

@@ -1,0 +1,18 @@
+id: mr-steam
+name: Mr Steam
+categories:
+- electrical
+aliases: []
+support:
+- category: electrical
+  department: Technical Support
+  phone: '+8007678326'
+  country: US
+  notes: 'Imported from verified manufacturer spreadsheet (Oct 2026). Tech/support
+    page: https://www.mrsteam.com/. Warranty (spreadsheet): 1-800-767-8326 (East)
+    / 1-800-727-8326 (West). Parent (spreadsheet): Mr Steam (Sussman-Automatic Corp.).
+    Spreadsheet notes: Brand-specific Technical Service Department lines: East Coast
+    1-800-76-STEAM (767-8326), West Coast 1-800-72-STEAM (727-8326); Virtual Tech
+    troubleshooting is for licensed electricians.'
+  source: http://prodrep.mrsteam.com/DocumentResources/8b746e59-032c-4384-9c5e-eb5f75451217.pdf
+  last_verified: '2026-10-24'

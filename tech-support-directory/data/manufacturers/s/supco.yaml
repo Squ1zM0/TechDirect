@@ -1,0 +1,19 @@
+id: supco
+name: Supco
+categories:
+- electrical
+aliases: []
+support:
+- category: electrical
+  department: Technical Support
+  phone: '+8003339125'
+  country: US
+  notes: 'Imported from verified manufacturer spreadsheet (Oct 2026). Tech/support
+    page: https://supco.com. Support email (spreadsheet): surge@supco.com. Warranty
+    (spreadsheet): 800-333-9125. Parent (spreadsheet): Sealed Unit Parts Co. Inc.
+    (SUPCO). Spreadsheet notes: Customer Service 800-333-9125 per supco.com (Allenwood
+    NJ); surge@supco.com is for SCM surge protector replacements and replacement@supco.com
+    for that program contact (360-953-1436) per the official SUPCO notice; fax 800-458-2818
+    in Supco catalog'
+  source: https://supco.com/web/supco_live/test/surge.html
+  last_verified: '2026-10-23'

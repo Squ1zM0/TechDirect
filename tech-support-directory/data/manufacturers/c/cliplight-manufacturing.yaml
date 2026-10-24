@@ -1,0 +1,26 @@
+id: cliplight-manufacturing
+name: Cliplight Manufacturing
+categories:
+- hvac
+- electrical
+aliases: []
+support:
+- category: hvac
+  department: Technical Support
+  phone: '+8665483644'
+  country: US
+  notes: 'Imported from verified manufacturer spreadsheet (Oct 2026). Tech/support
+    page: https://www.cliplight.com/. Support email (spreadsheet): hvacr@cliplight.com.
+    Warranty (spreadsheet): 1-866-548-3644. Parent (spreadsheet): Cliplight Manufacturing
+    Co.. Spreadsheet notes: Brand-specific HVAC/R contact line and email from Cliplight
+    company profile; general line 1-800-628-8810 from product manuals. HQ Toronto
+    with Cleveland OH operation.'
+  source: https://www.thomasnet.com/company/cliplight-manufacturing-co-10008480/profile
+  last_verified: '2026-10-24'
+- category: hvac
+  department: General Customer Support
+  phone: '+8006288810'
+  country: US
+  notes: General customer support line (manufacturer spreadsheet, Oct 2026).
+  source: https://www.thomasnet.com/company/cliplight-manufacturing-co-10008480/profile
+  last_verified: '2026-10-24'

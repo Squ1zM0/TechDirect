@@ -1,0 +1,16 @@
+id: secop
+name: Secop
+categories:
+- hvac
+aliases: []
+support:
+- category: hvac
+  department: Technical Support
+  phone: '+6785335022'
+  country: US
+  notes: 'Imported from verified manufacturer spreadsheet (Oct 2026). Tech/support
+    page: https://www.secop.com/. Warranty (spreadsheet): +1-678-533-5022. Parent
+    (spreadsheet): Secop Inc. (USA). Spreadsheet notes: No dedicated tech line published
+    separate from the Secop Inc. US (Roswell GA) office line.'
+  source: https://www.secop.com/fileadmin/user_upload/technical-literature/quick-references/dc-powered_compressors_12-24-48vdc_09-2026_desb100a2102.pdf
+  last_verified: '2026-10-24'

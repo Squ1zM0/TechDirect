@@ -1,0 +1,25 @@
+id: aspen-manufacturing
+name: Aspen Manufacturing
+categories:
+- airflow
+- hvac
+aliases: []
+support:
+- category: airflow
+  department: Technical Support
+  phone: '+8004239007'
+  country: US
+  notes: 'Imported from verified manufacturer spreadsheet (Oct 2026). Tech/support
+    page: https://aspenmfg.com/. Support email (spreadsheet): info@aspenmfg.com. Warranty
+    (spreadsheet): 800-423-9007. Parent (spreadsheet): Aspen Manufacturing LLC. Spreadsheet
+    notes: No dedicated tech line published separate from Aspen main lines; warranty
+    team warranty@aspenmfg.com also published.'
+  source: https://aspenmfg.com/wp-content/uploads/2024/08/Aspen-Coil-BLComm-5-year-Warranty.pdf
+  last_verified: '2026-10-24'
+- category: airflow
+  department: General Customer Support
+  phone: '+2814416500'
+  country: US
+  notes: General customer support line (manufacturer spreadsheet, Oct 2026).
+  source: https://aspenmfg.com/wp-content/uploads/2024/08/Aspen-Coil-BLComm-5-year-Warranty.pdf
+  last_verified: '2026-10-24'

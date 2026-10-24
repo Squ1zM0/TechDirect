@@ -1,0 +1,17 @@
+id: maxitrol
+name: Maxitrol
+categories:
+- plumbing
+aliases: []
+support:
+- category: plumbing
+  department: Technical Support
+  phone: '+2483561400'
+  country: US
+  notes: 'Imported from verified manufacturer spreadsheet (Oct 2026). Tech/support
+    page: https://www.maxitrol.com/. Support email (spreadsheet): infoNA@maxitrol.com.
+    Warranty (spreadsheet): 248-356-1400. Parent (spreadsheet): Maxitrol Company.
+    Spreadsheet notes: No dedicated tech line published separate from the Maxitrol
+    Company US main line.'
+  source: https://www.maxitrol.com/wp-admin/admin-ajax.php?juwpfisadmin=false&action=wpfd&task=file.download&wpfd_category_id=249&wpfd_file_id=17090&token=&preview=1
+  last_verified: '2026-10-24'

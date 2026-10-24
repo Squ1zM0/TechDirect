@@ -1,0 +1,19 @@
+id: sensi-copeland
+name: Sensi (Copeland)
+categories:
+- hvac
+aliases: []
+support:
+- category: hvac
+  department: Technical Support
+  phone: '+8886057131'
+  country: US
+  notes: 'Imported from verified manufacturer spreadsheet (Oct 2026). Tech/support
+    page: https://sensi.copeland.com. Support hours (spreadsheet): Mon-Fri 7am-7pm
+    CST; Sat-Sun 8am-5pm CST. Support email (spreadsheet): support@sensicomfort.com.
+    Warranty (spreadsheet): 1-888-605-7131. Parent (spreadsheet): Copeland (formerly
+    Emerson/White-Rodgers). Spreadsheet notes: Sensi brand - NOT a duplicate of v1
+    White-Rodgers/Copeland rows. Now under Copeland (sensi.copeland.com); formerly
+    Emerson.'
+  source: https://sensi.copeland.com
+  last_verified: '2026-10-24'

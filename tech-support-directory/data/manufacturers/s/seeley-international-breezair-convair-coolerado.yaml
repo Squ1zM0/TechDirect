@@ -1,0 +1,20 @@
+id: seeley-international-breezair-convair-coolerado
+name: Seeley International (Breezair, Convair, Coolerado)
+categories:
+- airflow
+aliases: []
+support:
+- category: airflow
+  department: Technical Support
+  phone: '+3033750878'
+  country: US
+  notes: 'Imported from verified manufacturer spreadsheet (Oct 2026). Tech/support
+    page: https://www.seeleyinternational.com/us/corporate/about/contact/contact-na/.
+    Support email (spreadsheet): ussales@seeleyinternational.com. Warranty (spreadsheet):
+    303-375-0878 (Denver) / 602-353-8066 (Phoenix). Parent (spreadsheet): Seeley International
+    Americas. Spreadsheet notes: No dedicated US tech line separate from Americas
+    office lines; Americas contact form includes a Technical Support enquiry type.
+    Australian tech line 1300 650 644 is not a US number. Brands include Breezair,
+    Convair, Coolerado, Climate Wizard.'
+  source: https://www.seeleyinternational.com/us/corporate/about/contact/contact-na/
+  last_verified: '2026-10-24'

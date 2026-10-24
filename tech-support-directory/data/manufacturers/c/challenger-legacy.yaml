@@ -1,0 +1,18 @@
+id: challenger-legacy
+name: Challenger (legacy)
+categories:
+- electrical
+aliases: []
+support:
+- category: electrical
+  department: Technical Support
+  phone: '+8773862273'
+  country: US
+  notes: 'Imported from verified manufacturer spreadsheet (Oct 2026). Tech/support
+    page: https://www.eaton.com. Support hours (spreadsheet): Mon-Fri 8am-5pm ET.
+    Support email (spreadsheet): trc@eaton.com. Warranty (spreadsheet): 1-877-386-2273.
+    Parent (spreadsheet): Eaton Corporation (legacy Challenger). Spreadsheet notes:
+    Legacy/defunct brand; support via Eaton. Challenger C-type breakers cross to Eaton
+    BR type. AUDIT 2026-10-24: Parent-routed: support via Eaton (shared line 877-386-2273).'
+  source: https://www.eaton.com
+  last_verified: '2026-10-24'

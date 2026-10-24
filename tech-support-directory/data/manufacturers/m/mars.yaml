@@ -1,0 +1,26 @@
+id: mars
+name: MARS
+categories:
+- hvac
+aliases: []
+support:
+- category: hvac
+  department: Technical Support
+  phone: '+8006789888'
+  country: US
+  notes: 'Imported from verified manufacturer spreadsheet (Oct 2026). Tech/support
+    page: https://www.marsdelivers.com. Support hours (spreadsheet): Technical Help
+    Line Mon-Fri 8am-5pm EST. Support email (spreadsheet): customerservice@marsdelivers.com.
+    Warranty (spreadsheet): 800-678-9888. Parent (spreadsheet): Motors & Armatures
+    Inc. (MARS). Spreadsheet notes: MARS = Motors & Armatures Inc. (not Regal); warranty
+    email hcwarranty@marsdelivers.com; legacy catalog toll-free 800-445-4155; Jackson
+    MI HQ'
+  source: https://www.marsdelivers.com
+  last_verified: '2026-10-23'
+- category: hvac
+  department: General Customer Support
+  phone: '+5177872100'
+  country: US
+  notes: General customer support line (manufacturer spreadsheet, Oct 2026).
+  source: https://www.marsdelivers.com
+  last_verified: '2026-10-23'

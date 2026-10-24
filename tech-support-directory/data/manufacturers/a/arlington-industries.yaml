@@ -9,6 +9,13 @@ support:
   department: Technical Support
   phone: '+18008873040'
   country: US
-  notes: Technical Support Hotline - press ext. 2012 or 2018. Mon-Fri 8am-5pm EST. For general inquiries: 1-800-233-4717.
+  notes: "Technical Support Hotline - press ext. 2012 or 2018. Mon-Fri 8am-5pm EST. For general inquiries: 1-800-233-4717."
   source: https://arli.com/technical-support/
   last_verified: '2025-12-26'
+- category: electrical
+  department: General Support
+  phone: '+18002334717'
+  country: US
+  notes: "General/main line (no dedicated tech line published separate from main line, per manufacturer spreadsheet Oct 2026)."
+  source: https://www.aifittings.com
+  last_verified: '2026-10-24'

@@ -1,0 +1,17 @@
+id: tjernlund-products
+name: Tjernlund Products
+categories:
+- electrical
+aliases: []
+support:
+- category: electrical
+  department: Technical Support
+  phone: '+8002554208'
+  country: US
+  notes: 'Imported from verified manufacturer spreadsheet (Oct 2026). Tech/support
+    page: https://www.tjernlundproducts.com/. Support hours (spreadsheet): Mon-Fri
+    7:30am-4:30pm CST (Technical Customer Service). Warranty (spreadsheet): 1-800-255-4208.
+    Parent (spreadsheet): Tjernlund Products Inc.. Spreadsheet notes: Brand-specific
+    Technical Customer Service line published in Tjernlund instructions.'
+  source: https://www.tjernlundproducts.com/Tjernlund_8504025.pdf
+  last_verified: '2026-10-24'

@@ -1,0 +1,18 @@
+id: steamist
+name: Steamist
+categories:
+- electrical
+aliases: []
+support:
+- category: electrical
+  department: Technical Support
+  phone: '+8003946478'
+  country: US
+  notes: 'Imported from verified manufacturer spreadsheet (Oct 2026). Tech/support
+    page: https://steamist.com/. Support email (spreadsheet): steam-product@deltafaucet.com.
+    Warranty (spreadsheet): 800-394-6478. Parent (spreadsheet): Steamist (Delta Faucet
+    Company). Spreadsheet notes: Parent-routed: support via Delta Faucet Company.
+    Steamist was acquired by Delta; systems no longer manufactured under the Steamist
+    name but warranty and product support continue via Delta at 800-394-6478.'
+  source: https://steamist.com/
+  last_verified: '2026-10-24'

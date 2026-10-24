@@ -1,0 +1,17 @@
+id: mrcool
+name: MrCool
+categories:
+- hvac
+aliases: []
+support:
+- category: hvac
+  department: Technical Support
+  phone: '+2703660457'
+  country: US
+  notes: 'Imported from verified manufacturer spreadsheet (Oct 2026). Tech/support
+    page: https://support.mrcool.com/. Support email (spreadsheet): support@mrcool.com.
+    Warranty (spreadsheet): 270-366-0457. Parent (spreadsheet): MRCOOL (Ingram''s
+    Water & Air / MRCOOL Home). Spreadsheet notes: Warranty/support line 270-366-0457
+    and support@mrcool.com per MRCOOL warranty docs.'
+  source: https://support.mrcool.com/hc/en-us/articles/28517084424212-Where-to-Purchase-Products
+  last_verified: '2026-10-24'

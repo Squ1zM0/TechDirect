@@ -1,0 +1,24 @@
+id: ge-electrical-ge-industrial-solutions
+name: GE Electrical (GE Industrial Solutions)
+categories:
+- electrical
+aliases: []
+support:
+- category: electrical
+  department: Technical Support
+  phone: '+8884373765'
+  country: US
+  notes: 'Imported from verified manufacturer spreadsheet (Oct 2026). Tech/support
+    page: https://www.geindustrial.com/post-sales-technical-support. Warranty (spreadsheet):
+    1-888-437-3765. Parent (spreadsheet): ABB (GE Industrial Solutions, acquired by
+    ABB). Spreadsheet notes: ABB-owned line - NOT a duplicate of v1 ABB row. Post-sales/returns
+    888-GE-RESOLVE; field service 888-434-7378.'
+  source: https://www.geindustrial.com
+  last_verified: '2026-10-24'
+- category: electrical
+  department: General Customer Support
+  phone: '+8004317867'
+  country: US
+  notes: General customer support line (manufacturer spreadsheet, Oct 2026).
+  source: https://www.geindustrial.com
+  last_verified: '2026-10-24'

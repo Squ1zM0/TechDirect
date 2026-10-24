@@ -1,0 +1,18 @@
+id: allied-air-allied
+name: Allied Air (Allied)
+categories:
+- hvac
+aliases: []
+support:
+- category: hvac
+  department: Technical Support
+  phone: '+8004485872'
+  country: US
+  notes: 'Imported from verified manufacturer spreadsheet (Oct 2026). Tech/support
+    page: https://www.alliednow.com/. Support hours (spreadsheet): Mon-Fri 8am-5pm
+    ET. Warranty (spreadsheet): 1-800-448-5872. Parent (spreadsheet): Lennox International
+    (Allied Air Enterprises). Spreadsheet notes: Parent brand line for AirEase/Concord/Ducane/Armstrong
+    Air/MagicPak. Tech support number 800-515-3501 also appears in Allied kit literature
+    - use 800-448-5872 as main published line.'
+  source: https://www.alliednow.com/buyers-guide/choosing-a-dealer/
+  last_verified: '2026-10-24'

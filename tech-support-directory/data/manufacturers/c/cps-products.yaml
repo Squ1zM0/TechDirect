@@ -1,0 +1,17 @@
+id: cps-products
+name: CPS Products
+categories:
+- pumps
+aliases: []
+support:
+- category: pumps
+  department: Technical Support
+  phone: '+8002773808'
+  country: US
+  notes: 'Imported from verified manufacturer spreadsheet (Oct 2026). Tech/support
+    page: https://www.cpsproducts.com. Warranty (spreadsheet): 1-800-277-3808. Parent
+    (spreadsheet): CPS Products Inc.. Spreadsheet notes: HQ Hialeah FL 305-687-4121.
+    NOT Consumer Priority Service (cpscentral.com) - different company; do not use
+    CPS warranty-plan numbers for this brand.'
+  source: https://www.cpsproducts.com
+  last_verified: '2026-10-24'

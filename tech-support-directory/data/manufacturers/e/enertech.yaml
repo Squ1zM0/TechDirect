@@ -1,0 +1,18 @@
+id: enertech
+name: Enertech
+categories:
+- hvac
+aliases: []
+support:
+- category: hvac
+  department: Technical Support
+  phone: '+6186649010'
+  country: US
+  notes: 'Imported from verified manufacturer spreadsheet (Oct 2026). Tech/support
+    page: https://enertechusa.com/. Support hours (spreadsheet): Mon-Fri 8am-5pm (per
+    enertechusa.com listing). Warranty (spreadsheet): 618-664-9010. Parent (spreadsheet):
+    Enertech Global, LLC. Spreadsheet notes: HQ Greenville IL 618-664-9010. Site states
+    24-hour technical support is available through distributors - no separate toll-free
+    tech line published.'
+  source: https://enertechusa.com/partners/heat-pumps
+  last_verified: '2026-10-24'

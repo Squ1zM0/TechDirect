@@ -1,0 +1,17 @@
+id: 3m-electrical
+name: 3M Electrical
+categories:
+- electrical
+aliases: []
+support:
+- category: electrical
+  department: Technical Support
+  phone: '+8002453573'
+  country: US
+  notes: 'Imported from verified manufacturer spreadsheet (Oct 2026). Tech/support
+    page: https://www.3m.com/electrical. Warranty (spreadsheet): 1-800-245-3573. Parent
+    (spreadsheet): 3M Company (Electrical Markets Division). Spreadsheet notes: No
+    dedicated tech line published separate from division line; tech service team 512-984-5522
+    for OEM/electrical equipment.'
+  source: https://www.3m.com/electrical
+  last_verified: '2026-10-24'

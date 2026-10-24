@@ -1,0 +1,24 @@
+id: dwyer-instruments
+name: Dwyer Instruments
+categories:
+- electrical
+aliases: []
+support:
+- category: electrical
+  department: Technical Support
+  phone: '+2198798000'
+  country: US
+  notes: 'Imported from verified manufacturer spreadsheet (Oct 2026). Tech/support
+    page: https://www.dwyer-inst.com/. Support email (spreadsheet): info@dwyer-inst.com.
+    Warranty (spreadsheet): (219) 879-8000. Parent (spreadsheet): Dwyer Instruments
+    Inc.. Spreadsheet notes: Technical Assistance line (219) 879-8000 published in
+    Dwyer manuals; general/customer service 1-800-872-9141.'
+  source: https://legacy.dwyer-inst.com/Distributors/DistContactInfo.cfm
+  last_verified: '2026-10-24'
+- category: electrical
+  department: General Customer Support
+  phone: '+8008729141'
+  country: US
+  notes: General customer support line (manufacturer spreadsheet, Oct 2026).
+  source: https://legacy.dwyer-inst.com/Distributors/DistContactInfo.cfm
+  last_verified: '2026-10-24'

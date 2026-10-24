@@ -1,0 +1,18 @@
+id: coleman
+name: Coleman
+categories:
+- hvac
+aliases: []
+support:
+- category: hvac
+  department: General Customer Support
+  phone: '+8778747378'
+  country: US
+  notes: 'Imported from verified manufacturer spreadsheet (Oct 2026). Tech/support
+    page: https://www.colemanac.com/. Support hours (spreadsheet): Mon-Fri 8am-5pm
+    CT. Warranty (spreadsheet): 877-874-7378. Parent (spreadsheet): Johnson Controls
+    (JCI) - Coleman HVAC licensee. Spreadsheet notes: Coleman HVAC manufactured by
+    Johnson Controls per coleman.com licensee page - NOT Coleman camping products
+    (1-800-835-3278). Email on that page was redacted in search output - left blank'
+  source: https://www.coleman.com/coleman-licensee-product-support.html
+  last_verified: '2026-10-23'

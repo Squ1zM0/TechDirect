@@ -1,0 +1,18 @@
+id: luxaire
+name: Luxaire
+categories:
+- hvac
+aliases: []
+support:
+- category: hvac
+  department: General Customer Support
+  phone: '+8778747378'
+  country: US
+  notes: 'Imported from verified manufacturer spreadsheet (Oct 2026). Tech/support
+    page: https://www.luxaire.com/. Support hours (spreadsheet): Warranty service
+    Mon-Fri 9am-5pm (per JCI warranty doc). Warranty (spreadsheet): 877-874-7378.
+    Parent (spreadsheet): Johnson Controls (JCI). Spreadsheet notes: Extra JCI unitary
+    brand beyond task list; same JCI Unitary Products Consumer Relations line as York/Coleman
+    - 5005 York Dr Norman OK'
+  source: https://www.manualsdir.com/manuals/132648/johnson-controls-unitary-products-outdoor-split-system-air-conditioning-or-heat-pump-813196-uum-a-0112.html?page=4
+  last_verified: '2026-10-23'

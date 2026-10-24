@@ -1,0 +1,16 @@
+id: zero-zone
+name: Zero Zone
+categories:
+- hvac
+aliases: []
+support:
+- category: hvac
+  department: Technical Support
+  phone: '+8002474496'
+  country: US
+  notes: 'Imported from verified manufacturer spreadsheet (Oct 2026). Tech/support
+    page: https://www.zero-zone.com/. Warranty (spreadsheet): 1-800-247-4496. Parent
+    (spreadsheet): Zero Zone, Inc.. Spreadsheet notes: Contact/support 1-800-247-4496
+    per zero-zone.com footer (North Prairie WI).'
+  source: https://www.zero-zone.com/refrigeration-upgrades/
+  last_verified: '2026-10-24'

@@ -1,0 +1,16 @@
+id: mountain-plumbing-products
+name: Mountain Plumbing Products
+categories:
+- drainage
+aliases: []
+support:
+- category: drainage
+  department: Technical Support
+  phone: '+8008002246'
+  country: US
+  notes: 'Imported from verified manufacturer spreadsheet (Oct 2026). Tech/support
+    page: https://www.mountainplumbing.com. Warranty (spreadsheet): 1-800-800-2246.
+    Parent (spreadsheet): Mountain Plumbing Products Inc.. Spreadsheet notes: Number
+    from Mountain Plumbing published listings - verify; flagged as secondary-source.'
+  source: https://www.mountainplumbing.com
+  last_verified: '2026-10-24'

@@ -1,0 +1,17 @@
+id: waterworks
+name: Waterworks
+categories:
+- plumbing
+aliases: []
+support:
+- category: plumbing
+  department: Technical Support
+  phone: '+8009272120'
+  country: US
+  notes: 'Imported from verified manufacturer spreadsheet (Oct 2026). Tech/support
+    page: https://www.waterworks.com. Warranty (spreadsheet): 1-800-927-2120. Parent
+    (spreadsheet): Waterworks Operating Co. LLC. Spreadsheet notes: Client Services
+    line; Direct Sales 800-899-6757; Commercial Sales 800-927-2120 x3. Tech support
+    via online form; no dedicated tech phone published.'
+  source: https://www.waterworks.com
+  last_verified: '2026-10-24'

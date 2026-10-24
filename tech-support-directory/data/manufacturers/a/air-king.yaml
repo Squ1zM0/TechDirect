@@ -1,0 +1,17 @@
+id: air-king
+name: Air King
+categories:
+- airflow
+aliases: []
+support:
+- category: airflow
+  department: Technical Support
+  phone: '+8004657300'
+  country: US
+  notes: 'Imported from verified manufacturer spreadsheet (Oct 2026). Tech/support
+    page: https://www.airkinglimited.com/. Support hours (spreadsheet): Mon-Fri 8am-4pm
+    EST. Warranty (spreadsheet): 1-800-465-7300. Parent (spreadsheet): Air King Limited.
+    Spreadsheet notes: Brand-specific Parts/Technical Assistance line for Air King
+    ventilation products. (Air King portable fans use a separate 1-800-233-0268 hotline.)'
+  source: https://manuals.plus/m/0325e744837f7469d1f8f3a656b8f6f39e9bb17fd2b9ef0bf3b9bc4ac0c856cc
+  last_verified: '2026-10-24'
