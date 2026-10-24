@@ -1,0 +1,115 @@
+{
+  "version": "2026-10-24",
+  "manufacturers": [
+    {
+      "id": "dewalt",
+      "name": "DeWalt",
+      "website": null,
+      "categories": [
+        "hardware"
+      ],
+      "support": [
+        {
+          "category": "hardware",
+          "department": "Technical Support",
+          "phone": "+8004339258",
+          "country": "US",
+          "regions": [],
+          "timezone": null,
+          "last_verified": "2026-10-24",
+          "specialty_tags": [],
+          "notes": "Imported from verified manufacturer spreadsheet (Oct 2026). Tech/support",
+          "source": "https://www.dewalt.com/en-us/support/warranty"
+        }
+      ]
+    },
+    {
+      "id": "greenlee",
+      "name": "Greenlee",
+      "website": null,
+      "categories": [
+        "hardware"
+      ],
+      "support": [
+        {
+          "category": "hardware",
+          "department": "Technical Support",
+          "phone": "+8004350786",
+          "country": "US",
+          "regions": [],
+          "timezone": null,
+          "last_verified": "2026-10-24",
+          "specialty_tags": [],
+          "notes": "Imported from verified manufacturer spreadsheet (Oct 2026). Tech/support",
+          "source": "https://www.greenlee.com"
+        }
+      ]
+    },
+    {
+      "id": "inficon-service-tools",
+      "name": "Inficon (Service Tools)",
+      "website": null,
+      "categories": [
+        "hardware"
+      ],
+      "support": [
+        {
+          "category": "hardware",
+          "department": "Technical Support",
+          "phone": "+8003443304",
+          "country": "US",
+          "regions": [],
+          "timezone": null,
+          "last_verified": "2026-10-24",
+          "specialty_tags": [],
+          "notes": "Imported from verified manufacturer spreadsheet (Oct 2026). Tech/support",
+          "source": "https://www.inficonservicetools.com"
+        }
+      ]
+    },
+    {
+      "id": "klein-tools",
+      "name": "Klein Tools",
+      "website": null,
+      "categories": [
+        "hardware"
+      ],
+      "support": [
+        {
+          "category": "hardware",
+          "department": "Technical Support",
+          "phone": "+8005534676",
+          "country": "US",
+          "regions": [],
+          "timezone": null,
+          "last_verified": "2026-10-23",
+          "specialty_tags": [],
+          "notes": "Imported from verified manufacturer spreadsheet (Oct 2026). Tech/support",
+          "source": "https://hardhats.kleintools.com/contact"
+        }
+      ]
+    },
+    {
+      "id": "milwaukee-tool",
+      "name": "Milwaukee Tool",
+      "website": null,
+      "categories": [
+        "hardware"
+      ],
+      "support": [
+        {
+          "category": "hardware",
+          "department": "Technical Support",
+          "phone": "+8007293878",
+          "country": "US",
+          "regions": [],
+          "timezone": null,
+          "last_verified": "2026-10-23",
+          "specialty_tags": [],
+          "notes": "Phone is 1-800-SAWDUST; milwaukeetool.com lists it for After-Sales Service",
+          "source": "https://www.milwaukeetool.com/contact"
+        }
+      ]
+    }
+  ]
+}
