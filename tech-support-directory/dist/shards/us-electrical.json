@@ -1,6 +1,28 @@
 {
-  "version": "2026-01-29",
+  "version": "2026-10-24",
   "manufacturers": [
+    {
+      "id": "3m-electrical",
+      "name": "3M Electrical",
+      "website": null,
+      "categories": [
+        "electrical"
+      ],
+      "support": [
+        {
+          "category": "electrical",
+          "department": "Technical Support",
+          "phone": "+8002453573",
+          "country": "US",
+          "regions": [],
+          "timezone": null,
+          "last_verified": "2026-10-24",
+          "specialty_tags": [],
+          "notes": "Imported from verified manufacturer spreadsheet (Oct 2026). Tech/support",
+          "source": "https://www.3m.com/electrical"
+        }
+      ]
+    },
     {
       "id": "abb-installation-products",
       "name": "ABB Installation Products (Carlon / T&B)",
@@ -90,6 +112,40 @@
       ]
     },
     {
+      "id": "amprobe",
+      "name": "Amprobe",
+      "website": null,
+      "categories": [
+        "electrical"
+      ],
+      "support": [
+        {
+          "category": "electrical",
+          "department": "Technical Support",
+          "phone": "+8008735853",
+          "country": "US",
+          "regions": [],
+          "timezone": null,
+          "last_verified": "2026-10-24",
+          "specialty_tags": [],
+          "notes": "Imported from verified manufacturer spreadsheet (Oct 2026). Tech/support",
+          "source": "https://www.fluke.com"
+        },
+        {
+          "category": "electrical",
+          "department": "General Customer Support",
+          "phone": "+8004435853",
+          "country": "US",
+          "regions": [],
+          "timezone": null,
+          "last_verified": "2026-10-24",
+          "specialty_tags": [],
+          "notes": "General customer support line (manufacturer spreadsheet, Oct 2026).",
+          "source": "https://www.fluke.com"
+        }
+      ]
+    },
+    {
       "id": "apc",
       "name": "APC by Schneider Electric",
       "website": "https://www.se.com/us/en/work/support/",
@@ -130,6 +186,40 @@
           "specialty_tags": [],
           "notes": "Technical Support Hotline - press ext. 2012 or 2018. Mon-Fri 8am-5pm EST. For general inquiries: 1-800-233-4717.",
           "source": "https://arli.com/technical-support/"
+        },
+        {
+          "category": "electrical",
+          "department": "General Support",
+          "phone": "+18002334717",
+          "country": "US",
+          "regions": [],
+          "timezone": null,
+          "last_verified": "2026-10-24",
+          "specialty_tags": [],
+          "notes": "General/main line (no dedicated tech line published separate from main line, per manufacturer spreadsheet Oct 2026).",
+          "source": "https://www.aifittings.com"
+        }
+      ]
+    },
+    {
+      "id": "arrow-hart-eaton",
+      "name": "Arrow Hart (Eaton)",
+      "website": null,
+      "categories": [
+        "electrical"
+      ],
+      "support": [
+        {
+          "category": "electrical",
+          "department": "Technical Support",
+          "phone": "+8773862273",
+          "country": "US",
+          "regions": [],
+          "timezone": null,
+          "last_verified": "2026-10-24",
+          "specialty_tags": [],
+          "notes": "Imported from verified manufacturer spreadsheet (Oct 2026). Tech/support",
+          "source": "https://www.eaton.com"
         }
       ]
     },
@@ -244,6 +334,28 @@
       ]
     },
     {
+      "id": "briggs-stratton-power",
+      "name": "Briggs & Stratton (Power)",
+      "website": null,
+      "categories": [
+        "electrical"
+      ],
+      "support": [
+        {
+          "category": "electrical",
+          "department": "Technical Support",
+          "phone": "+8007434115",
+          "country": "US",
+          "regions": [],
+          "timezone": null,
+          "last_verified": "2026-10-24",
+          "specialty_tags": [],
+          "notes": "Imported from verified manufacturer spreadsheet (Oct 2026). Tech/support",
+          "source": "https://c.searspartsdirect.com/doc/1803052L"
+        }
+      ]
+    },
+    {
       "id": "burndy",
       "name": "BURNDY",
       "website": "https://www.hubbell.com/burndy/en/contact-us",
@@ -266,6 +378,28 @@
       ]
     },
     {
+      "id": "caddy-nvent",
+      "name": "Caddy (nVent)",
+      "website": null,
+      "categories": [
+        "electrical"
+      ],
+      "support": [
+        {
+          "category": "electrical",
+          "department": "Technical Support",
+          "phone": "+8007539221",
+          "country": "US",
+          "regions": [],
+          "timezone": null,
+          "last_verified": "2026-10-24",
+          "specialty_tags": [],
+          "notes": "Imported from verified manufacturer spreadsheet (Oct 2026). Tech/support",
+          "source": "https://www.nvent.com"
+        }
+      ]
+    },
+    {
       "id": "cantex",
       "name": "CANTEX",
       "website": "https://www.cantexinc.com/",
@@ -284,6 +418,72 @@
           "specialty_tags": [],
           "notes": "Primary contact number listed by CANTEX for agent/help requests; used for",
           "source": "https://www.cantexinc.com/contact/agent-search"
+        }
+      ]
+    },
+    {
+      "id": "cerro-wire",
+      "name": "Cerro Wire",
+      "website": null,
+      "categories": [
+        "electrical"
+      ],
+      "support": [
+        {
+          "category": "electrical",
+          "department": "Technical Support",
+          "phone": "+8005233869",
+          "country": "US",
+          "regions": [],
+          "timezone": null,
+          "last_verified": "2026-10-24",
+          "specialty_tags": [],
+          "notes": "Imported from verified manufacturer spreadsheet (Oct 2026). Tech/support",
+          "source": "https://www.cerrowire.com"
+        }
+      ]
+    },
+    {
+      "id": "challenger-legacy",
+      "name": "Challenger (legacy)",
+      "website": null,
+      "categories": [
+        "electrical"
+      ],
+      "support": [
+        {
+          "category": "electrical",
+          "department": "Technical Support",
+          "phone": "+8773862273",
+          "country": "US",
+          "regions": [],
+          "timezone": null,
+          "last_verified": "2026-10-24",
+          "specialty_tags": [],
+          "notes": "Imported from verified manufacturer spreadsheet (Oct 2026). Tech/support",
+          "source": "https://www.eaton.com"
+        }
+      ]
+    },
+    {
+      "id": "champion-power-equipment",
+      "name": "Champion Power Equipment",
+      "website": null,
+      "categories": [
+        "electrical"
+      ],
+      "support": [
+        {
+          "category": "electrical",
+          "department": "Technical Support",
+          "phone": "+8773380999",
+          "country": "US",
+          "regions": [],
+          "timezone": null,
+          "last_verified": "2026-10-24",
+          "specialty_tags": [],
+          "notes": "Imported from verified manufacturer spreadsheet (Oct 2026). Tech/support",
+          "source": "https://manualmachine.com/champion/200921/26758277-operators-manual-for-all-in/"
         }
       ]
     },
@@ -328,6 +528,84 @@
           "specialty_tags": [],
           "notes": "Lighting controls technical support number (24/7).",
           "source": "cooperlighting.com controls technical support page"
+        }
+      ]
+    },
+    {
+      "id": "cooper-wiring-devices-eaton",
+      "name": "Cooper Wiring Devices (Eaton)",
+      "website": null,
+      "categories": [
+        "electrical"
+      ],
+      "support": [
+        {
+          "category": "electrical",
+          "department": "Technical Support",
+          "phone": "+8773862273",
+          "country": "US",
+          "regions": [],
+          "timezone": null,
+          "last_verified": "2026-10-24",
+          "specialty_tags": [],
+          "notes": "Imported from verified manufacturer spreadsheet (Oct 2026). Tech/support",
+          "source": "https://www.eaton.com"
+        }
+      ]
+    },
+    {
+      "id": "cummins",
+      "name": "Cummins",
+      "website": null,
+      "categories": [
+        "electrical"
+      ],
+      "support": [
+        {
+          "category": "electrical",
+          "department": "Technical Support",
+          "phone": "+8002866467",
+          "country": "US",
+          "regions": [],
+          "timezone": null,
+          "last_verified": "2026-10-23",
+          "specialty_tags": [],
+          "notes": "800-CUMMINS for US/Canada; Cummins Care (QuickServe/service locator) 1-800-343-7357",
+          "source": "https://www.cummins.com/support/electronic-service-tools-support"
+        }
+      ]
+    },
+    {
+      "id": "dwyer-instruments",
+      "name": "Dwyer Instruments",
+      "website": null,
+      "categories": [
+        "electrical"
+      ],
+      "support": [
+        {
+          "category": "electrical",
+          "department": "Technical Support",
+          "phone": "+2198798000",
+          "country": "US",
+          "regions": [],
+          "timezone": null,
+          "last_verified": "2026-10-24",
+          "specialty_tags": [],
+          "notes": "Imported from verified manufacturer spreadsheet (Oct 2026). Tech/support",
+          "source": "https://legacy.dwyer-inst.com/Distributors/DistContactInfo.cfm"
+        },
+        {
+          "category": "electrical",
+          "department": "General Customer Support",
+          "phone": "+8008729141",
+          "country": "US",
+          "regions": [],
+          "timezone": null,
+          "last_verified": "2026-10-24",
+          "specialty_tags": [],
+          "notes": "General customer support line (manufacturer spreadsheet, Oct 2026).",
+          "source": "https://legacy.dwyer-inst.com/Distributors/DistContactInfo.cfm"
         }
       ]
     },
@@ -394,6 +672,96 @@
           "specialty_tags": [],
           "notes": "Toll-free customer service. Ask for Customer Service ext 1260 if needed.",
           "source": "encorewire.com contact page"
+        }
+      ]
+    },
+    {
+      "id": "fluke",
+      "name": "Fluke",
+      "website": null,
+      "categories": [
+        "electrical"
+      ],
+      "support": [
+        {
+          "category": "electrical",
+          "department": "Technical Support",
+          "phone": "+8004435853",
+          "country": "US",
+          "regions": [],
+          "timezone": null,
+          "last_verified": "2026-10-23",
+          "specialty_tags": [],
+          "notes": "Imported from verified manufacturer spreadsheet (Oct 2026). Tech/support",
+          "source": "https://www.fluke.com/en-ca/support/service-center-locations"
+        },
+        {
+          "category": "electrical",
+          "department": "General Customer Support",
+          "phone": "+8889935853",
+          "country": "US",
+          "regions": [],
+          "timezone": null,
+          "last_verified": "2026-10-23",
+          "specialty_tags": [],
+          "notes": "General customer support line (manufacturer spreadsheet, Oct 2026).",
+          "source": "https://www.fluke.com/en-ca/support/service-center-locations"
+        }
+      ]
+    },
+    {
+      "id": "gardner-bender-nvent",
+      "name": "Gardner Bender (nVent)",
+      "website": null,
+      "categories": [
+        "electrical"
+      ],
+      "support": [
+        {
+          "category": "electrical",
+          "department": "Technical Support",
+          "phone": "+8006244320",
+          "country": "US",
+          "regions": [],
+          "timezone": null,
+          "last_verified": "2026-10-24",
+          "specialty_tags": [],
+          "notes": "Imported from verified manufacturer spreadsheet (Oct 2026). Tech/support",
+          "source": "https://www.nvent.com"
+        }
+      ]
+    },
+    {
+      "id": "ge-electrical-ge-industrial-solutions",
+      "name": "GE Electrical (GE Industrial Solutions)",
+      "website": null,
+      "categories": [
+        "electrical"
+      ],
+      "support": [
+        {
+          "category": "electrical",
+          "department": "Technical Support",
+          "phone": "+8884373765",
+          "country": "US",
+          "regions": [],
+          "timezone": null,
+          "last_verified": "2026-10-24",
+          "specialty_tags": [],
+          "notes": "Imported from verified manufacturer spreadsheet (Oct 2026). Tech/support",
+          "source": "https://www.geindustrial.com"
+        },
+        {
+          "category": "electrical",
+          "department": "General Customer Support",
+          "phone": "+8004317867",
+          "country": "US",
+          "regions": [],
+          "timezone": null,
+          "last_verified": "2026-10-24",
+          "specialty_tags": [],
+          "notes": "General customer support line (manufacturer spreadsheet, Oct 2026).",
+          "source": "https://www.geindustrial.com"
         }
       ]
     },
@@ -570,6 +938,28 @@
           "specialty_tags": [],
           "notes": "Technical support for installation/troubleshooting.",
           "source": "https://www.intermatic.com/support/contact-us"
+        }
+      ]
+    },
+    {
+      "id": "ips-corporation",
+      "name": "IPS Corporation",
+      "website": null,
+      "categories": [
+        "electrical"
+      ],
+      "support": [
+        {
+          "category": "electrical",
+          "department": "Technical Support",
+          "phone": "+8008888312",
+          "country": "US",
+          "regions": [],
+          "timezone": null,
+          "last_verified": "2026-10-24",
+          "specialty_tags": [],
+          "notes": "Imported from verified manufacturer spreadsheet (Oct 2026). Tech/support",
+          "source": "https://www.ipscorp.com"
         }
       ]
     },
@@ -948,6 +1338,62 @@
       ]
     },
     {
+      "id": "mr-steam",
+      "name": "Mr Steam",
+      "website": null,
+      "categories": [
+        "electrical"
+      ],
+      "support": [
+        {
+          "category": "electrical",
+          "department": "Technical Support",
+          "phone": "+8007678326",
+          "country": "US",
+          "regions": [],
+          "timezone": null,
+          "last_verified": "2026-10-24",
+          "specialty_tags": [],
+          "notes": "Imported from verified manufacturer spreadsheet (Oct 2026). Tech/support",
+          "source": "http://prodrep.mrsteam.com/DocumentResources/8b746e59-032c-4384-9c5e-eb5f75451217.pdf"
+        }
+      ]
+    },
+    {
+      "id": "murray-siemens",
+      "name": "Murray (Siemens)",
+      "website": null,
+      "categories": [
+        "electrical"
+      ],
+      "support": [
+        {
+          "category": "electrical",
+          "department": "Technical Support",
+          "phone": "+8003337421",
+          "country": "US",
+          "regions": [],
+          "timezone": null,
+          "last_verified": "2026-10-24",
+          "specialty_tags": [],
+          "notes": "Imported from verified manufacturer spreadsheet (Oct 2026). Tech/support",
+          "source": "https://www.siemens.com"
+        },
+        {
+          "category": "electrical",
+          "department": "General Customer Support",
+          "phone": "+8003476659",
+          "country": "US",
+          "regions": [],
+          "timezone": null,
+          "last_verified": "2026-10-24",
+          "specialty_tags": [],
+          "notes": "General customer support line (manufacturer spreadsheet, Oct 2026).",
+          "source": "https://www.siemens.com"
+        }
+      ]
+    },
+    {
       "id": "nsi-industries",
       "name": "NSI Industries",
       "website": "https://nsiindustries.com/",
@@ -1098,6 +1544,50 @@
           "specialty_tags": [],
           "notes": "Professional/contractor technical support line (per source).",
           "source": "https://www.phoenixcontact.com/en-us/service-and-support/contact"
+        }
+      ]
+    },
+    {
+      "id": "polaris-nsi",
+      "name": "Polaris (NSi)",
+      "website": null,
+      "categories": [
+        "electrical"
+      ],
+      "support": [
+        {
+          "category": "electrical",
+          "department": "Technical Support",
+          "phone": "+8003215847",
+          "country": "US",
+          "regions": [],
+          "timezone": null,
+          "last_verified": "2026-10-24",
+          "specialty_tags": [],
+          "notes": "Imported from verified manufacturer spreadsheet (Oct 2026). Tech/support",
+          "source": "https://www.nsiindustries.com"
+        }
+      ]
+    },
+    {
+      "id": "predator-harbor-freight",
+      "name": "Predator (Harbor Freight)",
+      "website": null,
+      "categories": [
+        "electrical"
+      ],
+      "support": [
+        {
+          "category": "electrical",
+          "department": "Technical Support",
+          "phone": "+8004443353",
+          "country": "US",
+          "regions": [],
+          "timezone": null,
+          "last_verified": "2026-10-24",
+          "specialty_tags": [],
+          "notes": "Imported from verified manufacturer spreadsheet (Oct 2026). Tech/support",
+          "source": "https://www.harborfreight.com/"
         }
       ]
     },
@@ -1322,6 +1812,106 @@
       ]
     },
     {
+      "id": "steamist",
+      "name": "Steamist",
+      "website": null,
+      "categories": [
+        "electrical"
+      ],
+      "support": [
+        {
+          "category": "electrical",
+          "department": "Technical Support",
+          "phone": "+8003946478",
+          "country": "US",
+          "regions": [],
+          "timezone": null,
+          "last_verified": "2026-10-24",
+          "specialty_tags": [],
+          "notes": "Imported from verified manufacturer spreadsheet (Oct 2026). Tech/support",
+          "source": "https://steamist.com/"
+        }
+      ]
+    },
+    {
+      "id": "supco",
+      "name": "Supco",
+      "website": null,
+      "categories": [
+        "electrical"
+      ],
+      "support": [
+        {
+          "category": "electrical",
+          "department": "Technical Support",
+          "phone": "+8003339125",
+          "country": "US",
+          "regions": [],
+          "timezone": null,
+          "last_verified": "2026-10-23",
+          "specialty_tags": [],
+          "notes": "Imported from verified manufacturer spreadsheet (Oct 2026). Tech/support",
+          "source": "https://supco.com/web/supco_live/test/surge.html"
+        }
+      ]
+    },
+    {
+      "id": "tjernlund-products",
+      "name": "Tjernlund Products",
+      "website": null,
+      "categories": [
+        "electrical"
+      ],
+      "support": [
+        {
+          "category": "electrical",
+          "department": "Technical Support",
+          "phone": "+8002554208",
+          "country": "US",
+          "regions": [],
+          "timezone": null,
+          "last_verified": "2026-10-24",
+          "specialty_tags": [],
+          "notes": "Imported from verified manufacturer spreadsheet (Oct 2026). Tech/support",
+          "source": "https://www.tjernlundproducts.com/Tjernlund_8504025.pdf"
+        }
+      ]
+    },
+    {
+      "id": "tork-nsi",
+      "name": "Tork (NSi)",
+      "website": null,
+      "categories": [
+        "electrical"
+      ],
+      "support": [
+        {
+          "category": "electrical",
+          "department": "Technical Support",
+          "phone": "+8885004598",
+          "country": "US",
+          "regions": [],
+          "timezone": null,
+          "last_verified": "2026-10-24",
+          "specialty_tags": [],
+          "notes": "Imported from verified manufacturer spreadsheet (Oct 2026). Tech/support",
+          "source": "https://www.nsiindustries.com"
+        },
+        {
+          "category": "electrical",
+          "department": "General Customer Support",
+          "phone": "+8003215847",
+          "country": "US",
+          "regions": [],
+          "timezone": null,
+          "last_verified": "2026-10-24",
+          "specialty_tags": [],
+          "notes": "General customer support line (manufacturer spreadsheet, Oct 2026).",
+          "source": "https://www.nsiindustries.com"
+        }
+      ]
+    },
+    {
       "id": "tpi-corporation",
       "name": "TPI Corporation",
       "website": "https://www.tpicorp.com/",
@@ -1384,6 +1974,28 @@
           "specialty_tags": [],
           "notes": "Use for contractor/industrial product support.",
           "source": "https://www.turck.us/en/company-news-2863_latest-information-about-the-covid19-situation-36667.php"
+        }
+      ]
+    },
+    {
+      "id": "uei-test-instruments",
+      "name": "UEi Test Instruments",
+      "website": null,
+      "categories": [
+        "electrical"
+      ],
+      "support": [
+        {
+          "category": "electrical",
+          "department": "Technical Support",
+          "phone": "+8005475740",
+          "country": "US",
+          "regions": [],
+          "timezone": null,
+          "last_verified": "2026-10-24",
+          "specialty_tags": [],
+          "notes": "Imported from verified manufacturer spreadsheet (Oct 2026). Tech/support",
+          "source": "https://www.ueitest.com"
         }
       ]
     },
@@ -1494,6 +2106,28 @@
           "specialty_tags": [],
           "notes": "Customer support hotline listed on Motoman contact page.",
           "source": "https://www.motoman.com/en-us/about/company/contact-us"
+        }
+      ]
+    },
+    {
+      "id": "zonex-systems",
+      "name": "Zonex Systems",
+      "website": null,
+      "categories": [
+        "electrical"
+      ],
+      "support": [
+        {
+          "category": "electrical",
+          "department": "Technical Support",
+          "phone": "+8002282966",
+          "country": "US",
+          "regions": [],
+          "timezone": null,
+          "last_verified": "2026-10-24",
+          "specialty_tags": [],
+          "notes": "Brand-specific Technical Support Department line; warranty dept 714-898-9963",
+          "source": "https://www.zonexproducts.com/us/zonex-commander/"
         }
       ]
     }

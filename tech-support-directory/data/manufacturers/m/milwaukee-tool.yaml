@@ -1,10 +1,10 @@
 id: milwaukee-tool
 name: Milwaukee Tool
 categories:
-- electrical
+- hardware
 aliases: []
 support:
-- category: electrical
+- category: hardware
   department: Technical Support
   phone: '+8007293878'
   country: US

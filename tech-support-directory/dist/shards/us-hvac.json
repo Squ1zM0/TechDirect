@@ -1,5 +1,5 @@
 {
-  "version": "2026-01-29",
+  "version": "2026-10-24",
   "manufacturers": [
     {
       "id": "a-o-smith",
@@ -20,6 +20,28 @@
           "specialty_tags": [],
           "notes": "A. O. Smith Water Products technical support and warranty department. Mon-Fri 7am-7pm CT, Sat 8am-5pm CT.",
           "source": "https://www.hotwater.com/support/contact-tech-support.html"
+        }
+      ]
+    },
+    {
+      "id": "aaf-international-american-air-filter",
+      "name": "AAF International (American Air Filter)",
+      "website": null,
+      "categories": [
+        "hvac"
+      ],
+      "support": [
+        {
+          "category": "hvac",
+          "department": "Technical Support",
+          "phone": "+8882232003",
+          "country": "US",
+          "regions": [],
+          "timezone": null,
+          "last_verified": "2026-10-24",
+          "specialty_tags": [],
+          "notes": "Imported from verified manufacturer spreadsheet (Oct 2026). Tech/support",
+          "source": "https://manuals.plus/aaf/astrofan-ec-ffu-self-contained-ceiling-filter-fan-unit-manual"
         }
       ]
     },
@@ -68,6 +90,28 @@
       ]
     },
     {
+      "id": "adey",
+      "name": "Adey",
+      "website": "https://adey.com/us",
+      "categories": [
+        "hvac"
+      ],
+      "support": [
+        {
+          "category": "hvac",
+          "department": "Support",
+          "phone": "+14124068292",
+          "country": "US",
+          "regions": [],
+          "timezone": null,
+          "last_verified": "2025-12-24",
+          "specialty_tags": [],
+          "notes": "USA support line",
+          "source": "https://adey.com/us/contact"
+        }
+      ]
+    },
+    {
       "id": "aerco",
       "name": "AERCO",
       "website": "https://www.aerco.com/",
@@ -86,6 +130,28 @@
           "specialty_tags": [],
           "notes": "AERCO tech support line (Mon–Fri 8am–5pm ET).",
           "source": "https://www.aerco.com/my-support (official)"
+        }
+      ]
+    },
+    {
+      "id": "airease",
+      "name": "AirEase",
+      "website": null,
+      "categories": [
+        "hvac"
+      ],
+      "support": [
+        {
+          "category": "hvac",
+          "department": "Technical Support",
+          "phone": "+8004485872",
+          "country": "US",
+          "regions": [],
+          "timezone": null,
+          "last_verified": "2026-10-24",
+          "specialty_tags": [],
+          "notes": "Allied Air brand; shares Allied Air line with Armstrong Air, Ducane, Concord.",
+          "source": "https://www.alliednow.com/buyers-guide/choosing-a-dealer/"
         }
       ]
     },
@@ -112,6 +178,72 @@
       ]
     },
     {
+      "id": "airtemp",
+      "name": "Airtemp",
+      "website": null,
+      "categories": [
+        "hvac"
+      ],
+      "support": [
+        {
+          "category": "hvac",
+          "department": "General Customer Support",
+          "phone": "+8004224328",
+          "country": "US",
+          "regions": [],
+          "timezone": null,
+          "last_verified": "2026-10-23",
+          "specialty_tags": [],
+          "notes": "Imported from verified manufacturer spreadsheet (Oct 2026). Tech/support",
+          "source": "https://manuals.plus/m/1923d4d95e21acc2b241585e4eec2fed8de8e2de60a53e810fec69ef1d177187"
+        }
+      ]
+    },
+    {
+      "id": "airthings",
+      "name": "Airthings",
+      "website": null,
+      "categories": [
+        "hvac"
+      ],
+      "support": [
+        {
+          "category": "hvac",
+          "department": "Technical Support",
+          "phone": "+8662542221",
+          "country": "US",
+          "regions": [],
+          "timezone": null,
+          "last_verified": "2026-10-24",
+          "specialty_tags": [],
+          "notes": "Imported from verified manufacturer spreadsheet (Oct 2026). Tech/support",
+          "source": "https://manuals.plus/m/526829c8935edcc6b6438b6e5f60f9f427901815b9bdfccf3e83efcbd572efae"
+        }
+      ]
+    },
+    {
+      "id": "ajax-boilers",
+      "name": "Ajax Boilers",
+      "website": "https://www.aceheaters.com",
+      "categories": [
+        "hvac"
+      ],
+      "support": [
+        {
+          "category": "hvac",
+          "department": "Technical Support",
+          "phone": "+13233626000",
+          "country": "US",
+          "regions": [],
+          "timezone": null,
+          "last_verified": "2025-12-24",
+          "specialty_tags": [],
+          "notes": "Ajax Boiler legacy / Ace Heaters contact",
+          "source": "https://www.aceheaters.com/contact"
+        }
+      ]
+    },
+    {
       "id": "alfa-laval",
       "name": "Alfa Laval",
       "website": "https://www.alfalaval.us/",
@@ -130,6 +262,28 @@
           "specialty_tags": [],
           "notes": "Alfa Laval USA customer service hotline (heat transfer/fluid handling).",
           "source": "alfalaval.com contact page"
+        }
+      ]
+    },
+    {
+      "id": "allied-air-allied",
+      "name": "Allied Air (Allied)",
+      "website": null,
+      "categories": [
+        "hvac"
+      ],
+      "support": [
+        {
+          "category": "hvac",
+          "department": "Technical Support",
+          "phone": "+8004485872",
+          "country": "US",
+          "regions": [],
+          "timezone": null,
+          "last_verified": "2026-10-24",
+          "specialty_tags": [],
+          "notes": "Imported from verified manufacturer spreadsheet (Oct 2026). Tech/support",
+          "source": "https://www.alliednow.com/buyers-guide/choosing-a-dealer/"
         }
       ]
     },
@@ -400,6 +554,40 @@
       ]
     },
     {
+      "id": "arzel-zoning",
+      "name": "Arzel Zoning",
+      "website": null,
+      "categories": [
+        "hvac"
+      ],
+      "support": [
+        {
+          "category": "hvac",
+          "department": "Technical Support",
+          "phone": "+8006118312",
+          "country": "US",
+          "regions": [],
+          "timezone": null,
+          "last_verified": "2026-10-24",
+          "specialty_tags": [],
+          "notes": "Imported from verified manufacturer spreadsheet (Oct 2026). Tech/support",
+          "source": "https://www.arzelzoning.com/contact-us/"
+        },
+        {
+          "category": "hvac",
+          "department": "General Customer Support",
+          "phone": "+2168316068",
+          "country": "US",
+          "regions": [],
+          "timezone": null,
+          "last_verified": "2026-10-24",
+          "specialty_tags": [],
+          "notes": "General customer support line (manufacturer spreadsheet, Oct 2026).",
+          "source": "https://www.arzelzoning.com/contact-us/"
+        }
+      ]
+    },
+    {
       "id": "atmosair",
       "name": "AtmosAir Solutions",
       "website": "https://atmosair.com/",
@@ -422,6 +610,40 @@
       ]
     },
     {
+      "id": "bacharach-msa",
+      "name": "Bacharach (MSA)",
+      "website": null,
+      "categories": [
+        "hvac"
+      ],
+      "support": [
+        {
+          "category": "hvac",
+          "department": "Technical Support",
+          "phone": "+8007364666",
+          "country": "US",
+          "regions": [],
+          "timezone": null,
+          "last_verified": "2026-10-24",
+          "specialty_tags": [],
+          "notes": "Imported from verified manufacturer spreadsheet (Oct 2026). Tech/support",
+          "source": "https://www.msasafety.com"
+        },
+        {
+          "category": "hvac",
+          "department": "General Customer Support",
+          "phone": "+8776723473",
+          "country": "US",
+          "regions": [],
+          "timezone": null,
+          "last_verified": "2026-10-24",
+          "specialty_tags": [],
+          "notes": "General customer support line (manufacturer spreadsheet, Oct 2026).",
+          "source": "https://www.msasafety.com"
+        }
+      ]
+    },
+    {
       "id": "baltimore-aircoil",
       "name": "Baltimore Aircoil Company (BAC)",
       "website": "https://baltimoreaircoil.com/",
@@ -440,6 +662,40 @@
           "specialty_tags": [],
           "notes": "Customer service number listed on BAC shop contact page; for product questions",
           "source": "BAC shop contact page"
+        }
+      ]
+    },
+    {
+      "id": "bard-manufacturing",
+      "name": "Bard Manufacturing",
+      "website": null,
+      "categories": [
+        "hvac"
+      ],
+      "support": [
+        {
+          "category": "hvac",
+          "department": "Technical Support",
+          "phone": "+4196360439",
+          "country": "US",
+          "regions": [],
+          "timezone": null,
+          "last_verified": "2026-10-24",
+          "specialty_tags": [],
+          "notes": "Imported from verified manufacturer spreadsheet (Oct 2026). Tech/support",
+          "source": "https://www.bardwallmount.com/bard_parts"
+        },
+        {
+          "category": "hvac",
+          "department": "General Customer Support",
+          "phone": "+4196361194",
+          "country": "US",
+          "regions": [],
+          "timezone": null,
+          "last_verified": "2026-10-24",
+          "specialty_tags": [],
+          "notes": "General customer support line (manufacturer spreadsheet, Oct 2026).",
+          "source": "https://www.bardwallmount.com/bard_parts"
         }
       ]
     },
@@ -533,6 +789,40 @@
       ]
     },
     {
+      "id": "beverage-air",
+      "name": "Beverage-Air",
+      "website": null,
+      "categories": [
+        "hvac"
+      ],
+      "support": [
+        {
+          "category": "hvac",
+          "department": "Technical Support",
+          "phone": "+8006841199",
+          "country": "US",
+          "regions": [],
+          "timezone": null,
+          "last_verified": "2026-10-24",
+          "specialty_tags": [],
+          "notes": "Imported from verified manufacturer spreadsheet (Oct 2026). Tech/support",
+          "source": "https://manuals.plus/m/e3063e7ef4c638115f46632767e45348468a045faed4edfe9d85d60fb1fb6692"
+        },
+        {
+          "category": "hvac",
+          "department": "General Customer Support",
+          "phone": "+8008459800",
+          "country": "US",
+          "regions": [],
+          "timezone": null,
+          "last_verified": "2026-10-24",
+          "specialty_tags": [],
+          "notes": "General customer support line (manufacturer spreadsheet, Oct 2026).",
+          "source": "https://manuals.plus/m/e3063e7ef4c638115f46632767e45348468a045faed4edfe9d85d60fb1fb6692"
+        }
+      ]
+    },
+    {
       "id": "bitzer",
       "name": "BITZER",
       "website": "https://www.bitzer.de/us/us/contact/",
@@ -595,6 +885,28 @@
           "specialty_tags": [],
           "notes": "24/7 technical support; Bradford White notes tech support is for plumbing",
           "source": "bradfordwhite.com contact Bradford White page"
+        }
+      ]
+    },
+    {
+      "id": "bristol-compressors",
+      "name": "Bristol Compressors",
+      "website": null,
+      "categories": [
+        "hvac"
+      ],
+      "support": [
+        {
+          "category": "hvac",
+          "department": "Technical Support",
+          "phone": "+2764664121",
+          "country": "US",
+          "regions": [],
+          "timezone": null,
+          "last_verified": "2026-10-24",
+          "specialty_tags": [],
+          "notes": "Imported from verified manufacturer spreadsheet (Oct 2026). Tech/support",
+          "source": "https://www.scribd.com/document/367197009/Bristol-Compressor-G-Series"
         }
       ]
     },
@@ -688,6 +1000,28 @@
       ]
     },
     {
+      "id": "cadet",
+      "name": "Cadet",
+      "website": null,
+      "categories": [
+        "hvac"
+      ],
+      "support": [
+        {
+          "category": "hvac",
+          "department": "Technical Support",
+          "phone": "+8552233887",
+          "country": "US",
+          "regions": [],
+          "timezone": null,
+          "last_verified": "2026-10-24",
+          "specialty_tags": [],
+          "notes": "Imported from verified manufacturer spreadsheet (Oct 2026). Tech/support",
+          "source": "https://www.cadet.glendimplexamericas.com/electric-heating-solutions/thermostats"
+        }
+      ]
+    },
+    {
       "id": "caleffi",
       "name": "Caleffi North America",
       "website": "https://www.caleffi.com/en-us",
@@ -706,6 +1040,40 @@
           "specialty_tags": [],
           "notes": "Hydronics technical support line (Milwaukee, WI).",
           "source": "https://www.caleffi.com/en-us/contacts/contact-us"
+        }
+      ]
+    },
+    {
+      "id": "cambridge-air-solutions",
+      "name": "Cambridge Air Solutions",
+      "website": null,
+      "categories": [
+        "hvac"
+      ],
+      "support": [
+        {
+          "category": "hvac",
+          "department": "Technical Support",
+          "phone": "+8008991989",
+          "country": "US",
+          "regions": [],
+          "timezone": null,
+          "last_verified": "2026-10-24",
+          "specialty_tags": [],
+          "notes": "Imported from verified manufacturer spreadsheet (Oct 2026). Tech/support",
+          "source": "https://www.cambridgeair.com/Portals/0/S-Series%20Tech%20Manual_June%2020_2022.pdf"
+        },
+        {
+          "category": "hvac",
+          "department": "General Customer Support",
+          "phone": "+63653222336365326165",
+          "country": "US",
+          "regions": [],
+          "timezone": null,
+          "last_verified": "2026-10-24",
+          "specialty_tags": [],
+          "notes": "General customer support line (manufacturer spreadsheet, Oct 2026).",
+          "source": "https://www.cambridgeair.com/Portals/0/S-Series%20Tech%20Manual_June%2020_2022.pdf"
         }
       ]
     },
@@ -821,6 +1189,107 @@
       ]
     },
     {
+      "id": "century",
+      "name": "Century",
+      "website": null,
+      "categories": [
+        "hvac"
+      ],
+      "support": [
+        {
+          "category": "hvac",
+          "department": "Technical Support",
+          "phone": "+8006726495",
+          "country": "US",
+          "regions": [],
+          "timezone": null,
+          "last_verified": "2026-10-23",
+          "specialty_tags": [],
+          "notes": "Imported from verified manufacturer spreadsheet (Oct 2026). Tech/support",
+          "source": "https://www.regalrexnord.com/en/brands/century/Contact"
+        }
+      ]
+    },
+    {
+      "id": "champion-cooler",
+      "name": "Champion Cooler",
+      "website": null,
+      "categories": [
+        "hvac"
+      ],
+      "support": [
+        {
+          "category": "hvac",
+          "department": "Technical Support",
+          "phone": "+8006438341",
+          "country": "US",
+          "regions": [],
+          "timezone": null,
+          "last_verified": "2026-10-24",
+          "specialty_tags": [],
+          "notes": "Imported from verified manufacturer spreadsheet (Oct 2026). Tech/support",
+          "source": "https://pimmedia.winsupplyinc.com/pim/INTA/112017/CHAMPION-COOLER-CORP-_10-12DD_CHM1012DD_INTA.pdf"
+        }
+      ]
+    },
+    {
+      "id": "chemours",
+      "name": "Chemours",
+      "website": null,
+      "categories": [
+        "hvac"
+      ],
+      "support": [
+        {
+          "category": "hvac",
+          "department": "Technical Support",
+          "phone": "+8447732436",
+          "country": "US",
+          "regions": [],
+          "timezone": null,
+          "last_verified": "2026-10-23",
+          "specialty_tags": [],
+          "notes": "Phone is 1-844-773-CHEM as printed as supplier telephone on Chemours Freon",
+          "source": "https://royalrefrigerants.com/cdn/shop/files/Chemours_134A.pdf"
+        }
+      ]
+    },
+    {
+      "id": "chiltrix",
+      "name": "Chiltrix",
+      "website": null,
+      "categories": [
+        "hvac",
+        "airflow"
+      ],
+      "support": [
+        {
+          "category": "hvac",
+          "department": "Technical Support",
+          "phone": "+7574108640112",
+          "country": "US",
+          "regions": [],
+          "timezone": null,
+          "last_verified": "2026-10-24",
+          "specialty_tags": [],
+          "notes": "Imported from verified manufacturer spreadsheet (Oct 2026). Tech/support",
+          "source": "https://www.chiltrix.com/faq/"
+        },
+        {
+          "category": "hvac",
+          "department": "General Customer Support",
+          "phone": "+7574108640",
+          "country": "US",
+          "regions": [],
+          "timezone": null,
+          "last_verified": "2026-10-24",
+          "specialty_tags": [],
+          "notes": "General customer support line (manufacturer spreadsheet, Oct 2026).",
+          "source": "https://www.chiltrix.com/faq/"
+        }
+      ]
+    },
+    {
       "id": "cleaver-brooks",
       "name": "Cleaver-Brooks",
       "website": "https://cleaverbrooks.com/",
@@ -866,6 +1335,41 @@
       ]
     },
     {
+      "id": "cliplight-manufacturing",
+      "name": "Cliplight Manufacturing",
+      "website": null,
+      "categories": [
+        "hvac",
+        "electrical"
+      ],
+      "support": [
+        {
+          "category": "hvac",
+          "department": "Technical Support",
+          "phone": "+8665483644",
+          "country": "US",
+          "regions": [],
+          "timezone": null,
+          "last_verified": "2026-10-24",
+          "specialty_tags": [],
+          "notes": "Imported from verified manufacturer spreadsheet (Oct 2026). Tech/support",
+          "source": "https://www.thomasnet.com/company/cliplight-manufacturing-co-10008480/profile"
+        },
+        {
+          "category": "hvac",
+          "department": "General Customer Support",
+          "phone": "+8006288810",
+          "country": "US",
+          "regions": [],
+          "timezone": null,
+          "last_verified": "2026-10-24",
+          "specialty_tags": [],
+          "notes": "General customer support line (manufacturer spreadsheet, Oct 2026).",
+          "source": "https://www.thomasnet.com/company/cliplight-manufacturing-co-10008480/profile"
+        }
+      ]
+    },
+    {
       "id": "clivet",
       "name": "Clivet (Mits Airconditioning Inc.)",
       "website": "https://www.clivet.us/",
@@ -884,6 +1388,28 @@
           "specialty_tags": [],
           "notes": "North America master distributor contact for Clivet technical/after-sales",
           "source": "clivet.us contact page"
+        }
+      ]
+    },
+    {
+      "id": "coleman",
+      "name": "Coleman",
+      "website": null,
+      "categories": [
+        "hvac"
+      ],
+      "support": [
+        {
+          "category": "hvac",
+          "department": "General Customer Support",
+          "phone": "+8778747378",
+          "country": "US",
+          "regions": [],
+          "timezone": null,
+          "last_verified": "2026-10-23",
+          "specialty_tags": [],
+          "notes": "Imported from verified manufacturer spreadsheet (Oct 2026). Tech/support",
+          "source": "https://www.coleman.com/coleman-licensee-product-support.html"
         }
       ]
     },
@@ -932,6 +1458,28 @@
       ]
     },
     {
+      "id": "comfort-aire",
+      "name": "Comfort-Aire",
+      "website": null,
+      "categories": [
+        "hvac"
+      ],
+      "support": [
+        {
+          "category": "hvac",
+          "department": "Technical Support",
+          "phone": "+5177872100",
+          "country": "US",
+          "regions": [],
+          "timezone": null,
+          "last_verified": "2026-10-24",
+          "specialty_tags": [],
+          "notes": "Imported from verified manufacturer spreadsheet (Oct 2026). Tech/support",
+          "source": "https://manualsfile.com/product/k3zb75my3wa.html?page=5"
+        }
+      ]
+    },
+    {
       "id": "comfortmaker",
       "name": "Comfortmaker",
       "website": "https://www.comfortmaker.com/en/us/",
@@ -954,6 +1502,28 @@
       ]
     },
     {
+      "id": "concord",
+      "name": "Concord",
+      "website": null,
+      "categories": [
+        "hvac"
+      ],
+      "support": [
+        {
+          "category": "hvac",
+          "department": "Technical Support",
+          "phone": "+8004485872",
+          "country": "US",
+          "regions": [],
+          "timezone": null,
+          "last_verified": "2026-10-24",
+          "specialty_tags": [],
+          "notes": "Imported from verified manufacturer spreadsheet (Oct 2026). Tech/support",
+          "source": "https://www.alliednow.com/buyers-guide/choosing-a-dealer/"
+        }
+      ]
+    },
+    {
       "id": "condair",
       "name": "Condair",
       "website": "https://www.condair.com/contact-us",
@@ -972,6 +1542,40 @@
           "specialty_tags": [],
           "notes": "North America technical support phone.",
           "source": "condair.com contractor/support contact"
+        }
+      ]
+    },
+    {
+      "id": "cooper-hunter",
+      "name": "Cooper & Hunter",
+      "website": null,
+      "categories": [
+        "hvac"
+      ],
+      "support": [
+        {
+          "category": "hvac",
+          "department": "Technical Support",
+          "phone": "+8882939252",
+          "country": "US",
+          "regions": [],
+          "timezone": null,
+          "last_verified": "2026-10-24",
+          "specialty_tags": [],
+          "notes": "Imported from verified manufacturer spreadsheet (Oct 2026). Tech/support",
+          "source": "http://cooperandhunter.us/protech"
+        },
+        {
+          "category": "hvac",
+          "department": "General Customer Support",
+          "phone": "+180097707223059611809",
+          "country": "US",
+          "regions": [],
+          "timezone": null,
+          "last_verified": "2026-10-24",
+          "specialty_tags": [],
+          "notes": "General customer support line (manufacturer spreadsheet, Oct 2026).",
+          "source": "http://cooperandhunter.us/protech"
         }
       ]
     },
@@ -1174,6 +1778,28 @@
       ]
     },
     {
+      "id": "ducane",
+      "name": "Ducane",
+      "website": null,
+      "categories": [
+        "hvac"
+      ],
+      "support": [
+        {
+          "category": "hvac",
+          "department": "Technical Support",
+          "phone": "+8004485872",
+          "country": "US",
+          "regions": [],
+          "timezone": null,
+          "last_verified": "2026-10-24",
+          "specialty_tags": [],
+          "notes": "Imported from verified manufacturer spreadsheet (Oct 2026). Tech/support",
+          "source": "https://www.alliednow.com/buyers-guide/choosing-a-dealer/"
+        }
+      ]
+    },
+    {
       "id": "dunkirk",
       "name": "Dunkirk Boilers",
       "website": "https://dunkirk.com",
@@ -1192,6 +1818,28 @@
           "specialty_tags": [],
           "notes": "Technical support for installing contractors (not homeowner line).",
           "source": "https://dunkirk.com/contact-us/"
+        }
+      ]
+    },
+    {
+      "id": "duravent",
+      "name": "DuraVent",
+      "website": null,
+      "categories": [
+        "hvac"
+      ],
+      "support": [
+        {
+          "category": "hvac",
+          "department": "Technical Support",
+          "phone": "+8008354429",
+          "country": "US",
+          "regions": [],
+          "timezone": null,
+          "last_verified": "2026-10-24",
+          "specialty_tags": [],
+          "notes": "Brand-specific tech support email techsupport@duravent.com published with",
+          "source": "https://duraventgroup.com/contact"
         }
       ]
     },
@@ -1218,6 +1866,50 @@
       ]
     },
     {
+      "id": "ecobee",
+      "name": "ecobee",
+      "website": null,
+      "categories": [
+        "hvac"
+      ],
+      "support": [
+        {
+          "category": "hvac",
+          "department": "Technical Support",
+          "phone": "+8779326233",
+          "country": "US",
+          "regions": [],
+          "timezone": null,
+          "last_verified": "2026-10-23",
+          "specialty_tags": [],
+          "notes": "Imported from verified manufacturer spreadsheet (Oct 2026). Tech/support",
+          "source": "https://www.ecobee.com/support"
+        }
+      ]
+    },
+    {
+      "id": "embraco",
+      "name": "Embraco",
+      "website": null,
+      "categories": [
+        "hvac"
+      ],
+      "support": [
+        {
+          "category": "hvac",
+          "department": "Technical Support",
+          "phone": "+8554876686",
+          "country": "US",
+          "regions": [],
+          "timezone": null,
+          "last_verified": "2026-10-24",
+          "specialty_tags": [],
+          "notes": "Imported from verified manufacturer spreadsheet (Oct 2026). Tech/support",
+          "source": "https://www.embraco.com/en/faq"
+        }
+      ]
+    },
+    {
       "id": "emerson",
       "name": "Emerson",
       "website": "https://www.emerson.com/",
@@ -1236,6 +1928,50 @@
           "specialty_tags": [],
           "notes": "Product Support toll-free number listed for US/Canada.",
           "source": "emerson.com technical support contact information"
+        }
+      ]
+    },
+    {
+      "id": "energy-kinetics",
+      "name": "Energy Kinetics",
+      "website": "https://energykinetics.com",
+      "categories": [
+        "hvac"
+      ],
+      "support": [
+        {
+          "category": "hvac",
+          "department": "Technical Support",
+          "phone": "+19087352066",
+          "country": "US",
+          "regions": [],
+          "timezone": null,
+          "last_verified": "2025-12-24",
+          "specialty_tags": [],
+          "notes": "Heating professionals tech support",
+          "source": "https://energykinetics.com/heating-professional-resources/"
+        }
+      ]
+    },
+    {
+      "id": "enertech",
+      "name": "Enertech",
+      "website": null,
+      "categories": [
+        "hvac"
+      ],
+      "support": [
+        {
+          "category": "hvac",
+          "department": "Technical Support",
+          "phone": "+6186649010",
+          "country": "US",
+          "regions": [],
+          "timezone": null,
+          "last_verified": "2026-10-24",
+          "specialty_tags": [],
+          "notes": "Imported from verified manufacturer spreadsheet (Oct 2026). Tech/support",
+          "source": "https://enertechusa.com/partners/heat-pumps"
         }
       ]
     },
@@ -1284,6 +2020,62 @@
       ]
     },
     {
+      "id": "evcon",
+      "name": "Evcon",
+      "website": null,
+      "categories": [
+        "hvac"
+      ],
+      "support": [
+        {
+          "category": "hvac",
+          "department": "Technical Support",
+          "phone": "+8778747378",
+          "country": "US",
+          "regions": [],
+          "timezone": null,
+          "last_verified": "2026-10-24",
+          "specialty_tags": [],
+          "notes": "Imported from verified manufacturer spreadsheet (Oct 2026). Tech/support",
+          "source": "https://www.manualshelf.com/manual/johnson-controls/813196-uum-a-0112/user-guide-english/page-4.html"
+        }
+      ]
+    },
+    {
+      "id": "ewc-controls",
+      "name": "EWC Controls",
+      "website": null,
+      "categories": [
+        "hvac"
+      ],
+      "support": [
+        {
+          "category": "hvac",
+          "department": "Technical Support",
+          "phone": "+8004463110",
+          "country": "US",
+          "regions": [],
+          "timezone": null,
+          "last_verified": "2026-10-24",
+          "specialty_tags": [],
+          "notes": "Brand-specific toll-free Technical Support hotline for job-site troubleshooting.",
+          "source": "https://ewccontrols.com/forum/viewtopic.php?p=2621"
+        },
+        {
+          "category": "hvac",
+          "department": "General Customer Support",
+          "phone": "+7324463110",
+          "country": "US",
+          "regions": [],
+          "timezone": null,
+          "last_verified": "2026-10-24",
+          "specialty_tags": [],
+          "notes": "General customer support line (manufacturer spreadsheet, Oct 2026).",
+          "source": "https://ewccontrols.com/forum/viewtopic.php?p=2621"
+        }
+      ]
+    },
+    {
       "id": "fantech",
       "name": "Fantech",
       "website": "https://www.fantech.net/en-us/contact-and-support",
@@ -1302,6 +2094,40 @@
           "specialty_tags": [],
           "notes": "Fantech U.S. support line (ventilation products).",
           "source": "fantech.net contact/support page"
+        }
+      ]
+    },
+    {
+      "id": "fasco",
+      "name": "Fasco",
+      "website": null,
+      "categories": [
+        "hvac"
+      ],
+      "support": [
+        {
+          "category": "hvac",
+          "department": "Technical Support",
+          "phone": "+8003258313",
+          "country": "US",
+          "regions": [],
+          "timezone": null,
+          "last_verified": "2026-10-24",
+          "specialty_tags": [],
+          "notes": "Imported from verified manufacturer spreadsheet (Oct 2026). Tech/support",
+          "source": "https://www.oozzio.com/Attachment/Fasco_A066_Data_Sheet.pdf"
+        },
+        {
+          "category": "hvac",
+          "department": "General Customer Support",
+          "phone": "+180032583131866739667314146433000",
+          "country": "US",
+          "regions": [],
+          "timezone": null,
+          "last_verified": "2026-10-24",
+          "specialty_tags": [],
+          "notes": "General customer support line (manufacturer spreadsheet, Oct 2026).",
+          "source": "https://www.oozzio.com/Attachment/Fasco_A066_Data_Sheet.pdf"
         }
       ]
     },
@@ -1351,6 +2177,28 @@
       ]
     },
     {
+      "id": "fhp-florida-heat-pump",
+      "name": "FHP / Florida Heat Pump",
+      "website": null,
+      "categories": [
+        "hvac"
+      ],
+      "support": [
+        {
+          "category": "hvac",
+          "department": "Technical Support",
+          "phone": "+8002833787",
+          "country": "US",
+          "regions": [],
+          "timezone": null,
+          "last_verified": "2026-10-24",
+          "specialty_tags": [],
+          "notes": "TASK LISTED FHP AND FLORIDA HEAT PUMP SEPARATELY - merged as one brand",
+          "source": "https://mans.io/files/viewer/1772645/8"
+        }
+      ]
+    },
+    {
       "id": "field-controls",
       "name": "Field Controls",
       "website": "https://www.fieldcontrols.com/",
@@ -1369,6 +2217,29 @@
           "specialty_tags": [],
           "notes": "Tech support for product application, wiring, and installation.",
           "source": "fieldcontrols.com tech support"
+        }
+      ]
+    },
+    {
+      "id": "fieldpiece",
+      "name": "Fieldpiece",
+      "website": null,
+      "categories": [
+        "hvac",
+        "electrical"
+      ],
+      "support": [
+        {
+          "category": "hvac",
+          "department": "Technical Support",
+          "phone": "+7146341844",
+          "country": "US",
+          "regions": [],
+          "timezone": null,
+          "last_verified": "2026-10-23",
+          "specialty_tags": [],
+          "notes": "Imported from verified manufacturer spreadsheet (Oct 2026). Tech/support",
+          "source": "https://www.fieldpiece.com"
         }
       ]
     },
@@ -1439,6 +2310,50 @@
       ]
     },
     {
+      "id": "fresh-aire-uv",
+      "name": "Fresh-Aire UV",
+      "website": null,
+      "categories": [
+        "hvac"
+      ],
+      "support": [
+        {
+          "category": "hvac",
+          "department": "Technical Support",
+          "phone": "+8007411195",
+          "country": "US",
+          "regions": [],
+          "timezone": null,
+          "last_verified": "2026-10-24",
+          "specialty_tags": [],
+          "notes": "No dedicated tech line published separate from main line; main line and",
+          "source": "https://www.thomasnet.com/company/fresh-aire-uv-30718742/profile"
+        }
+      ]
+    },
+    {
+      "id": "friedrich",
+      "name": "Friedrich",
+      "website": null,
+      "categories": [
+        "hvac"
+      ],
+      "support": [
+        {
+          "category": "hvac",
+          "department": "Technical Support",
+          "phone": "+8005416645",
+          "country": "US",
+          "regions": [],
+          "timezone": null,
+          "last_verified": "2026-10-24",
+          "specialty_tags": [],
+          "notes": "Imported from verified manufacturer spreadsheet (Oct 2026). Tech/support",
+          "source": "https://hvacinsider.com/friedrich-launches-dedicated-spanish-speaking-technical-and-customer-service-line/"
+        }
+      ]
+    },
+    {
       "id": "fujitsu-general",
       "name": "Fujitsu General America",
       "website": "https://www.fujitsugeneral.com/us/",
@@ -1483,6 +2398,72 @@
       ]
     },
     {
+      "id": "genteq",
+      "name": "Genteq",
+      "website": null,
+      "categories": [
+        "hvac"
+      ],
+      "support": [
+        {
+          "category": "hvac",
+          "department": "Technical Support",
+          "phone": "+8665038566",
+          "country": "US",
+          "regions": [],
+          "timezone": null,
+          "last_verified": "2026-10-23",
+          "specialty_tags": [],
+          "notes": "Imported from verified manufacturer spreadsheet (Oct 2026). Tech/support",
+          "source": "https://www.regalrexnord.com/brands/genteq/evergreen-motor-technical-support"
+        }
+      ]
+    },
+    {
+      "id": "gibson",
+      "name": "Gibson",
+      "website": null,
+      "categories": [
+        "hvac"
+      ],
+      "support": [
+        {
+          "category": "hvac",
+          "department": "Technical Support",
+          "phone": "+8004224328",
+          "country": "US",
+          "regions": [],
+          "timezone": null,
+          "last_verified": "2026-10-24",
+          "specialty_tags": [],
+          "notes": "Imported from verified manufacturer spreadsheet (Oct 2026). Tech/support",
+          "source": "https://www.nordyne.com/business-segments/"
+        }
+      ]
+    },
+    {
+      "id": "glasfloss-industries",
+      "name": "Glasfloss Industries",
+      "website": null,
+      "categories": [
+        "hvac"
+      ],
+      "support": [
+        {
+          "category": "hvac",
+          "department": "Technical Support",
+          "phone": "+2147417056",
+          "country": "US",
+          "regions": [],
+          "timezone": null,
+          "last_verified": "2026-10-24",
+          "specialty_tags": [],
+          "notes": "Imported from verified manufacturer spreadsheet (Oct 2026). Tech/support",
+          "source": "https://www.glasfloss.com/"
+        }
+      ]
+    },
+    {
       "id": "goodman",
       "name": "Goodman",
       "website": "https://www.goodmanmfg.com/",
@@ -1501,6 +2482,40 @@
           "specialty_tags": [],
           "notes": "Goodman/Daikin homeowner support line listed on Goodman contact/warranty FAQ pages.",
           "source": "goodmanmfg.com contact us / warranty FAQ"
+        }
+      ]
+    },
+    {
+      "id": "gps-air-global-plasma-solutions",
+      "name": "GPS Air (Global Plasma Solutions)",
+      "website": null,
+      "categories": [
+        "hvac"
+      ],
+      "support": [
+        {
+          "category": "hvac",
+          "department": "Technical Support",
+          "phone": "+9802795622",
+          "country": "US",
+          "regions": [],
+          "timezone": null,
+          "last_verified": "2026-10-24",
+          "specialty_tags": [],
+          "notes": "Imported from verified manufacturer spreadsheet (Oct 2026). Tech/support",
+          "source": "https://manuals.plus/category/global-plasma-solutions"
+        },
+        {
+          "category": "hvac",
+          "department": "General Customer Support",
+          "phone": "+9123560115",
+          "country": "US",
+          "regions": [],
+          "timezone": null,
+          "last_verified": "2026-10-24",
+          "specialty_tags": [],
+          "notes": "General customer support line (manufacturer spreadsheet, Oct 2026).",
+          "source": "https://manuals.plus/category/global-plasma-solutions"
         }
       ]
     },
@@ -1589,6 +2604,50 @@
           "specialty_tags": [],
           "notes": "Pumps support phone (U.S.) from Grundfos contact page (use for product/application",
           "source": "https://www.grundfos.com/us/campaign/yeomans-chicago-corporation-ycc/explore-contact"
+        }
+      ]
+    },
+    {
+      "id": "guardian",
+      "name": "Guardian",
+      "website": null,
+      "categories": [
+        "hvac"
+      ],
+      "support": [
+        {
+          "category": "hvac",
+          "department": "Technical Support",
+          "phone": "+8778747378",
+          "country": "US",
+          "regions": [],
+          "timezone": null,
+          "last_verified": "2026-10-24",
+          "specialty_tags": [],
+          "notes": "Imported from verified manufacturer spreadsheet (Oct 2026). Tech/support",
+          "source": "https://www.manualshelf.com/manual/johnson-controls/813196-uum-a-0112/user-guide-english/page-4.html"
+        }
+      ]
+    },
+    {
+      "id": "haier",
+      "name": "Haier",
+      "website": null,
+      "categories": [
+        "hvac"
+      ],
+      "support": [
+        {
+          "category": "hvac",
+          "department": "General Customer Support",
+          "phone": "+8773373639",
+          "country": "US",
+          "regions": [],
+          "timezone": null,
+          "last_verified": "2026-10-24",
+          "specialty_tags": [],
+          "notes": "Imported from verified manufacturer spreadsheet (Oct 2026). Tech/support",
+          "source": "https://www.manualslib.fr/manual/1097889/Commercial-Cool-Cte08A.html?page=14"
         }
       ]
     },
@@ -1703,6 +2762,40 @@
       ]
     },
     {
+      "id": "hillphoenix",
+      "name": "Hillphoenix",
+      "website": null,
+      "categories": [
+        "hvac"
+      ],
+      "support": [
+        {
+          "category": "hvac",
+          "department": "Technical Support",
+          "phone": "+7702853200",
+          "country": "US",
+          "regions": [],
+          "timezone": null,
+          "last_verified": "2026-10-24",
+          "specialty_tags": [],
+          "notes": "Imported from verified manufacturer spreadsheet (Oct 2026). Tech/support",
+          "source": "https://www.manualshelf.com/manual/hill-phoenix/p074749f/freezer-user-manual/page-31.html"
+        },
+        {
+          "category": "hvac",
+          "department": "General Customer Support",
+          "phone": "+770285326418002831109",
+          "country": "US",
+          "regions": [],
+          "timezone": null,
+          "last_verified": "2026-10-24",
+          "specialty_tags": [],
+          "notes": "General customer support line (manufacturer spreadsheet, Oct 2026).",
+          "source": "https://www.manualshelf.com/manual/hill-phoenix/p074749f/freezer-user-manual/page-31.html"
+        }
+      ]
+    },
+    {
       "id": "hitachi",
       "name": "Hitachi Cooling & Heating",
       "website": "https://www.hitachiaircon.com/us/",
@@ -1743,6 +2836,28 @@
           "specialty_tags": [],
           "notes": "Toll-free number; tech support extension listed on Hoffman Controls Contact",
           "source": "hoffmancontrols.com Contact Us"
+        }
+      ]
+    },
+    {
+      "id": "hoval",
+      "name": "Hoval",
+      "website": "https://www.hoval.com",
+      "categories": [
+        "hvac"
+      ],
+      "support": [
+        {
+          "category": "hvac",
+          "department": "US Partner Support",
+          "phone": "+12292263024",
+          "country": "US",
+          "regions": [],
+          "timezone": null,
+          "last_verified": "2025-12-24",
+          "specialty_tags": [],
+          "notes": "US partner Cleaver-Brooks (Hoval USA partner listing)",
+          "source": "https://www.hovalpartners.com/en/united-states-of-america/"
         }
       ]
     },
@@ -1813,6 +2928,40 @@
       ]
     },
     {
+      "id": "hussmann",
+      "name": "Hussmann",
+      "website": null,
+      "categories": [
+        "hvac"
+      ],
+      "support": [
+        {
+          "category": "hvac",
+          "department": "Technical Support",
+          "phone": "+86678584991",
+          "country": "US",
+          "regions": [],
+          "timezone": null,
+          "last_verified": "2026-10-24",
+          "specialty_tags": [],
+          "notes": "Imported from verified manufacturer spreadsheet (Oct 2026). Tech/support",
+          "source": "https://www.hussmann.com/en/contact-hussmann"
+        },
+        {
+          "category": "hvac",
+          "department": "General Customer Support",
+          "phone": "+8009221919",
+          "country": "US",
+          "regions": [],
+          "timezone": null,
+          "last_verified": "2026-10-24",
+          "specialty_tags": [],
+          "notes": "General customer support line (manufacturer spreadsheet, Oct 2026).",
+          "source": "https://www.hussmann.com/en/contact-hussmann"
+        }
+      ]
+    },
+    {
       "id": "hydro-thermal",
       "name": "Hydro-Thermal",
       "website": "https://www.hydro-thermal.com/",
@@ -1854,6 +3003,28 @@
           "specialty_tags": [],
           "notes": "Hydrolevel technical support hotline as listed on their contact page.",
           "source": "https://hydrolevel.com/contact-us/"
+        }
+      ]
+    },
+    {
+      "id": "hydron-module",
+      "name": "Hydron Module",
+      "website": null,
+      "categories": [
+        "hvac"
+      ],
+      "support": [
+        {
+          "category": "hvac",
+          "department": "Technical Support",
+          "phone": "+6186649010",
+          "country": "US",
+          "regions": [],
+          "timezone": null,
+          "last_verified": "2026-10-24",
+          "specialty_tags": [],
+          "notes": "Imported from verified manufacturer spreadsheet (Oct 2026). Tech/support",
+          "source": "https://enertechusa.com/partners/heat-pumps"
         }
       ]
     },
@@ -1914,6 +3085,194 @@
       ]
     },
     {
+      "id": "imi-hydronic",
+      "name": "IMI Hydronic Engineering",
+      "website": "https://climatecontrol.imiplc.com/en-us",
+      "categories": [
+        "hvac"
+      ],
+      "support": [
+        {
+          "category": "hvac",
+          "department": "Technical Support",
+          "phone": "+18002753569",
+          "country": "US",
+          "regions": [],
+          "timezone": null,
+          "last_verified": "2025-12-24",
+          "specialty_tags": [],
+          "notes": "Toll-free (ASK.FLOW)",
+          "source": "https://www.imiflowdesign.com/contact/"
+        }
+      ]
+    },
+    {
+      "id": "intertherm",
+      "name": "Intertherm",
+      "website": null,
+      "categories": [
+        "hvac"
+      ],
+      "support": [
+        {
+          "category": "hvac",
+          "department": "Technical Support",
+          "phone": "+8004224328",
+          "country": "US",
+          "regions": [],
+          "timezone": null,
+          "last_verified": "2026-10-24",
+          "specialty_tags": [],
+          "notes": "Imported from verified manufacturer spreadsheet (Oct 2026). Tech/support",
+          "source": "https://www.intertherm.net/"
+        }
+      ]
+    },
+    {
+      "id": "janitrol",
+      "name": "Janitrol",
+      "website": null,
+      "categories": [
+        "hvac"
+      ],
+      "support": [
+        {
+          "category": "hvac",
+          "department": "Technical Support",
+          "phone": "+8772544729",
+          "country": "US",
+          "regions": [],
+          "timezone": null,
+          "last_verified": "2026-10-24",
+          "specialty_tags": [],
+          "notes": "Legacy brand: Janitrol line was sold to Goodman in 1982 (per InspectAPedia",
+          "source": "https://www.goodmanmfg.com/"
+        }
+      ]
+    },
+    {
+      "id": "kelvinator-hvac",
+      "name": "Kelvinator (HVAC)",
+      "website": null,
+      "categories": [
+        "hvac"
+      ],
+      "support": [
+        {
+          "category": "hvac",
+          "department": "General Customer Support",
+          "phone": "+8004224328",
+          "country": "US",
+          "regions": [],
+          "timezone": null,
+          "last_verified": "2026-10-24",
+          "specialty_tags": [],
+          "notes": "Legacy Nortek HVAC brand; no current dedicated line published - support",
+          "source": "https://www.nordyne.com/business-segments/"
+        }
+      ]
+    },
+    {
+      "id": "kinghome",
+      "name": "Kinghome",
+      "website": null,
+      "categories": [
+        "hvac"
+      ],
+      "support": [
+        {
+          "category": "hvac",
+          "department": "Technical Support",
+          "phone": "+8888507928",
+          "country": "US",
+          "regions": [],
+          "timezone": null,
+          "last_verified": "2026-10-24",
+          "specialty_tags": [],
+          "notes": "Imported from verified manufacturer spreadsheet (Oct 2026). Tech/support",
+          "source": "https://manuals.plus/jw/category/gree"
+        }
+      ]
+    },
+    {
+      "id": "koch-filter-corporation",
+      "name": "Koch Filter Corporation",
+      "website": null,
+      "categories": [
+        "hvac"
+      ],
+      "support": [
+        {
+          "category": "hvac",
+          "department": "Technical Support",
+          "phone": "+8007575624",
+          "country": "US",
+          "regions": [],
+          "timezone": null,
+          "last_verified": "2026-10-24",
+          "specialty_tags": [],
+          "notes": "Imported from verified manufacturer spreadsheet (Oct 2026). Tech/support",
+          "source": "https://pdf.directindustry.com/pdf/koch-filter-corporation/multi-cell/100863-929196.html"
+        }
+      ]
+    },
+    {
+      "id": "krack-hussmann",
+      "name": "Krack (Hussmann)",
+      "website": null,
+      "categories": [
+        "hvac"
+      ],
+      "support": [
+        {
+          "category": "hvac",
+          "department": "Technical Support",
+          "phone": "+86678584991",
+          "country": "US",
+          "regions": [],
+          "timezone": null,
+          "last_verified": "2026-10-24",
+          "specialty_tags": [],
+          "notes": "Imported from verified manufacturer spreadsheet (Oct 2026). Tech/support",
+          "source": "https://www.hussmann.com/en/contact-hussmann"
+        },
+        {
+          "category": "hvac",
+          "department": "General Customer Support",
+          "phone": "+8009221919",
+          "country": "US",
+          "regions": [],
+          "timezone": null,
+          "last_verified": "2026-10-24",
+          "specialty_tags": [],
+          "notes": "General customer support line (manufacturer spreadsheet, Oct 2026).",
+          "source": "https://www.hussmann.com/en/contact-hussmann"
+        }
+      ]
+    },
+    {
+      "id": "ksb",
+      "name": "KSB",
+      "website": "https://www.ksb.com/en-us",
+      "categories": [
+        "hvac"
+      ],
+      "support": [
+        {
+          "category": "hvac",
+          "department": "Customer Service / Support",
+          "phone": "+17068631011",
+          "country": "US",
+          "regions": [],
+          "timezone": null,
+          "last_verified": "2025-12-24",
+          "specialty_tags": [],
+          "notes": "KSB USA contact (GIW listed; use for US support routing)",
+          "source": "https://www.ksb.com/en-us/contact"
+        }
+      ]
+    },
+    {
       "id": "laars",
       "name": "Laars Heating Systems",
       "website": "https://www.laars.com/",
@@ -1954,6 +3313,40 @@
           "specialty_tags": [],
           "notes": "Lennox residential tech support line listed for residential tech support.",
           "source": "lennox.com commercial tech support request page"
+        }
+      ]
+    },
+    {
+      "id": "lg-thinq-hvac-controls",
+      "name": "LG ThinQ HVAC Controls",
+      "website": null,
+      "categories": [
+        "hvac"
+      ],
+      "support": [
+        {
+          "category": "hvac",
+          "department": "Technical Support",
+          "phone": "+8883461923",
+          "country": "US",
+          "regions": [],
+          "timezone": null,
+          "last_verified": "2026-10-24",
+          "specialty_tags": [],
+          "notes": "Imported from verified manufacturer spreadsheet (Oct 2026). Tech/support",
+          "source": "https://www.lg.com/us/support/contact"
+        },
+        {
+          "category": "hvac",
+          "department": "General Customer Support",
+          "phone": "+8002430000",
+          "country": "US",
+          "regions": [],
+          "timezone": null,
+          "last_verified": "2026-10-24",
+          "specialty_tags": [],
+          "notes": "General customer support line (manufacturer spreadsheet, Oct 2026).",
+          "source": "https://www.lg.com/us/support/contact"
         }
       ]
     },
@@ -2003,6 +3396,50 @@
       ]
     },
     {
+      "id": "lowara",
+      "name": "Lowara",
+      "website": "https://www.xylem.com/en-us/brands/lowara/",
+      "categories": [
+        "hvac"
+      ],
+      "support": [
+        {
+          "category": "hvac",
+          "department": "Technical Support",
+          "phone": "+19143235700",
+          "country": "US",
+          "regions": [],
+          "timezone": null,
+          "last_verified": "2025-12-24",
+          "specialty_tags": [],
+          "notes": "Xylem Technical Support (covers Xylem brands)",
+          "source": "https://www.xylem.com/en-lc/brands/hypack/support/"
+        }
+      ]
+    },
+    {
+      "id": "luxaire",
+      "name": "Luxaire",
+      "website": null,
+      "categories": [
+        "hvac"
+      ],
+      "support": [
+        {
+          "category": "hvac",
+          "department": "General Customer Support",
+          "phone": "+8778747378",
+          "country": "US",
+          "regions": [],
+          "timezone": null,
+          "last_verified": "2026-10-23",
+          "specialty_tags": [],
+          "notes": "Imported from verified manufacturer spreadsheet (Oct 2026). Tech/support",
+          "source": "https://www.manualsdir.com/manuals/132648/johnson-controls-unitary-products-outdoor-split-system-air-conditioning-or-heat-pump-813196-uum-a-0112.html?page=4"
+        }
+      ]
+    },
+    {
       "id": "lg-hvac",
       "name": "LG HVAC",
       "website": "https://lghvac.com/",
@@ -2025,6 +3462,62 @@
       ]
     },
     {
+      "id": "magicpak",
+      "name": "MagicPak",
+      "website": null,
+      "categories": [
+        "hvac"
+      ],
+      "support": [
+        {
+          "category": "hvac",
+          "department": "General Customer Support",
+          "phone": "+8004485872",
+          "country": "US",
+          "regions": [],
+          "timezone": null,
+          "last_verified": "2026-10-24",
+          "specialty_tags": [],
+          "notes": "Imported from verified manufacturer spreadsheet (Oct 2026). Tech/support",
+          "source": "https://www.alliednow.com/buyers-guide/choosing-a-dealer/"
+        }
+      ]
+    },
+    {
+      "id": "mars",
+      "name": "MARS",
+      "website": null,
+      "categories": [
+        "hvac"
+      ],
+      "support": [
+        {
+          "category": "hvac",
+          "department": "Technical Support",
+          "phone": "+8006789888",
+          "country": "US",
+          "regions": [],
+          "timezone": null,
+          "last_verified": "2026-10-23",
+          "specialty_tags": [],
+          "notes": "Imported from verified manufacturer spreadsheet (Oct 2026). Tech/support",
+          "source": "https://www.marsdelivers.com"
+        },
+        {
+          "category": "hvac",
+          "department": "General Customer Support",
+          "phone": "+5177872100",
+          "country": "US",
+          "regions": [],
+          "timezone": null,
+          "last_verified": "2026-10-23",
+          "specialty_tags": [],
+          "notes": "General customer support line (manufacturer spreadsheet, Oct 2026).",
+          "source": "https://www.marsdelivers.com"
+        }
+      ]
+    },
+    {
       "id": "marvair",
       "name": "Marvair",
       "website": "https://marvair.com/",
@@ -2043,6 +3536,28 @@
           "specialty_tags": [],
           "notes": "Marvair manuals direct unresolved troubleshooting to contact the factory",
           "source": "https://marvair.com/doc/77/ComPac%20AVHDA90%20Manual%20Rev.3 (manual)"
+        }
+      ]
+    },
+    {
+      "id": "master-bilt",
+      "name": "Master-Bilt",
+      "website": null,
+      "categories": [
+        "hvac"
+      ],
+      "support": [
+        {
+          "category": "hvac",
+          "department": "Technical Support",
+          "phone": "+8003885253",
+          "country": "US",
+          "regions": [],
+          "timezone": null,
+          "last_verified": "2026-10-24",
+          "specialty_tags": [],
+          "notes": "Imported from verified manufacturer spreadsheet (Oct 2026). Tech/support",
+          "source": "https://master-bilt.com/warranty/"
         }
       ]
     },
@@ -2180,6 +3695,28 @@
       ]
     },
     {
+      "id": "mitsubishi-kumo-cloud",
+      "name": "Mitsubishi Kumo Cloud",
+      "website": null,
+      "categories": [
+        "hvac"
+      ],
+      "support": [
+        {
+          "category": "hvac",
+          "department": "General Customer Support",
+          "phone": "+8004334822",
+          "country": "US",
+          "regions": [],
+          "timezone": null,
+          "last_verified": "2026-10-24",
+          "specialty_tags": [],
+          "notes": "Imported from verified manufacturer spreadsheet (Oct 2026). Tech/support",
+          "source": "https://www.mitsubishicomfort.com"
+        }
+      ]
+    },
+    {
       "id": "miura",
       "name": "Miura America",
       "website": "https://miuraboiler.com/contact/",
@@ -2242,6 +3779,28 @@
           "specialty_tags": [],
           "notes": "Toll-free technical support; MovinCool support page indicates Option 3 for",
           "source": "movincool.com support page"
+        }
+      ]
+    },
+    {
+      "id": "mrcool",
+      "name": "MrCool",
+      "website": null,
+      "categories": [
+        "hvac"
+      ],
+      "support": [
+        {
+          "category": "hvac",
+          "department": "Technical Support",
+          "phone": "+2703660457",
+          "country": "US",
+          "regions": [],
+          "timezone": null,
+          "last_verified": "2026-10-24",
+          "specialty_tags": [],
+          "notes": "Imported from verified manufacturer spreadsheet (Oct 2026). Tech/support",
+          "source": "https://support.mrcool.com/hc/en-us/articles/28517084424212-Where-to-Purchase-Products"
         }
       ]
     },
@@ -2378,6 +3937,74 @@
       ]
     },
     {
+      "id": "nidec-u-s-motors",
+      "name": "Nidec / U.S. MOTORS",
+      "website": null,
+      "categories": [
+        "hvac"
+      ],
+      "support": [
+        {
+          "category": "hvac",
+          "department": "Technical Support",
+          "phone": "+8005661418",
+          "country": "US",
+          "regions": [],
+          "timezone": null,
+          "last_verified": "2026-10-23",
+          "specialty_tags": [],
+          "notes": "Imported from verified manufacturer spreadsheet (Oct 2026). Tech/support",
+          "source": "https://acim.nidec.com/motors/sitecore/content/Nidec/eCatalog/Home/Contact-Us"
+        },
+        {
+          "category": "hvac",
+          "department": "General Customer Support",
+          "phone": "+8886377333",
+          "country": "US",
+          "regions": [],
+          "timezone": null,
+          "last_verified": "2026-10-23",
+          "specialty_tags": [],
+          "notes": "General customer support line (manufacturer spreadsheet, Oct 2026).",
+          "source": "https://acim.nidec.com/motors/sitecore/content/Nidec/eCatalog/Home/Contact-Us"
+        }
+      ]
+    },
+    {
+      "id": "nor-lake",
+      "name": "Nor-Lake",
+      "website": null,
+      "categories": [
+        "hvac"
+      ],
+      "support": [
+        {
+          "category": "hvac",
+          "department": "Technical Support",
+          "phone": "+8003885253",
+          "country": "US",
+          "regions": [],
+          "timezone": null,
+          "last_verified": "2026-10-24",
+          "specialty_tags": [],
+          "notes": "Imported from verified manufacturer spreadsheet (Oct 2026). Tech/support",
+          "source": "https://master-bilt.com/warranty/"
+        },
+        {
+          "category": "hvac",
+          "department": "General Customer Support",
+          "phone": "+71538623238333275989",
+          "country": "US",
+          "regions": [],
+          "timezone": null,
+          "last_verified": "2026-10-24",
+          "specialty_tags": [],
+          "notes": "General customer support line (manufacturer spreadsheet, Oct 2026).",
+          "source": "https://master-bilt.com/warranty/"
+        }
+      ]
+    },
+    {
       "id": "nordyne",
       "name": "Nordyne",
       "website": "https://www.nordyne.com/contact/",
@@ -2445,6 +4072,73 @@
       ]
     },
     {
+      "id": "nu-calgon",
+      "name": "Nu-Calgon",
+      "website": null,
+      "categories": [
+        "hvac"
+      ],
+      "support": [
+        {
+          "category": "hvac",
+          "department": "Technical Support",
+          "phone": "+8005545499",
+          "country": "US",
+          "regions": [],
+          "timezone": null,
+          "last_verified": "2026-10-24",
+          "specialty_tags": [],
+          "notes": "Imported from verified manufacturer spreadsheet (Oct 2026). Tech/support",
+          "source": "https://nucalgon.com/product-list/ph-treat-inline-refillable/"
+        }
+      ]
+    },
+    {
+      "id": "oventrop",
+      "name": "Oventrop",
+      "website": "https://www.oventrop-us.com",
+      "categories": [
+        "hvac"
+      ],
+      "support": [
+        {
+          "category": "hvac",
+          "department": "Technical Support / Customer Service",
+          "phone": "+18604139173",
+          "country": "US",
+          "regions": [],
+          "timezone": null,
+          "last_verified": "2025-12-24",
+          "specialty_tags": [],
+          "notes": "North America office",
+          "source": "https://www.oventrop-na.net/Contact%20Us.html"
+        }
+      ]
+    },
+    {
+      "id": "oxbox",
+      "name": "Oxbox",
+      "website": null,
+      "categories": [
+        "hvac",
+        "airflow"
+      ],
+      "support": [
+        {
+          "category": "hvac",
+          "department": "Technical Support",
+          "phone": "+8446926923",
+          "country": "US",
+          "regions": [],
+          "timezone": null,
+          "last_verified": "2026-10-24",
+          "specialty_tags": [],
+          "notes": "Imported from verified manufacturer spreadsheet (Oct 2026). Tech/support",
+          "source": "https://www.oxboxhvac.com/contractors"
+        }
+      ]
+    },
+    {
       "id": "panasonic",
       "name": "Panasonic HVAC / IAQ",
       "website": "https://iaq.na.panasonic.com/hvac",
@@ -2463,6 +4157,28 @@
           "specialty_tags": [],
           "notes": "Panasonic HVAC warranty claim form lists 888-932-4623 for technical support request.",
           "source": "panasonichvac.com warranty claim form"
+        }
+      ]
+    },
+    {
+      "id": "parker-sporlan",
+      "name": "Parker / Sporlan",
+      "website": null,
+      "categories": [
+        "hvac"
+      ],
+      "support": [
+        {
+          "category": "hvac",
+          "department": "Technical Support",
+          "phone": "+6362391111",
+          "country": "US",
+          "regions": [],
+          "timezone": null,
+          "last_verified": "2026-10-23",
+          "specialty_tags": [],
+          "notes": "Imported from verified manufacturer spreadsheet (Oct 2026). Tech/support",
+          "source": "https://ph.parker.com/us/en/960071"
         }
       ]
     },
@@ -2823,6 +4539,28 @@
       ]
     },
     {
+      "id": "revolv",
+      "name": "Revolv",
+      "website": null,
+      "categories": [
+        "hvac"
+      ],
+      "support": [
+        {
+          "category": "hvac",
+          "department": "Technical Support",
+          "phone": "+8004224328",
+          "country": "US",
+          "regions": [],
+          "timezone": null,
+          "last_verified": "2026-10-24",
+          "specialty_tags": [],
+          "notes": "Imported from verified manufacturer spreadsheet (Oct 2026). Tech/support",
+          "source": "https://www.nordyne.com/business-segments/"
+        }
+      ]
+    },
+    {
       "id": "reznor",
       "name": "Reznor",
       "website": "https://www.reznorhvac.com/where-to-buy-reznor/usa-southeast/",
@@ -2841,6 +4579,28 @@
           "specialty_tags": [],
           "notes": "Reznor/Nortek commercial technical support line (regional listing).",
           "source": "https://www.reznorhvac.com/where-to-buy-reznor/usa-southeast/ (official)"
+        }
+      ]
+    },
+    {
+      "id": "rgf-environmental-group",
+      "name": "RGF Environmental Group",
+      "website": null,
+      "categories": [
+        "hvac"
+      ],
+      "support": [
+        {
+          "category": "hvac",
+          "department": "Technical Support",
+          "phone": "+8008427771",
+          "country": "US",
+          "regions": [],
+          "timezone": null,
+          "last_verified": "2026-10-24",
+          "specialty_tags": [],
+          "notes": "Imported from verified manufacturer spreadsheet (Oct 2026). Tech/support",
+          "source": "https://rgf.com/privacy-policy/"
         }
       ]
     },
@@ -2923,6 +4683,50 @@
       ]
     },
     {
+      "id": "rite-boiler",
+      "name": "Rite Boilers",
+      "website": "https://www.riteboiler.com",
+      "categories": [
+        "hvac"
+      ],
+      "support": [
+        {
+          "category": "hvac",
+          "department": "Technical Support",
+          "phone": "+15628622135",
+          "country": "US",
+          "regions": [],
+          "timezone": null,
+          "last_verified": "2025-12-24",
+          "specialty_tags": [],
+          "notes": "Commercial boilers",
+          "source": "https://www.riteboiler.com/contact"
+        }
+      ]
+    },
+    {
+      "id": "runtru",
+      "name": "RunTru",
+      "website": null,
+      "categories": [
+        "hvac"
+      ],
+      "support": [
+        {
+          "category": "hvac",
+          "department": "Technical Support",
+          "phone": "+8332983493",
+          "country": "US",
+          "regions": [],
+          "timezone": null,
+          "last_verified": "2026-10-24",
+          "specialty_tags": [],
+          "notes": "Parent-routed: support via Trane; no RunTru-dedicated tech line published.",
+          "source": "https://www.trane.com/residential/en/contact-us/"
+        }
+      ]
+    },
+    {
       "id": "ruskin",
       "name": "Ruskin",
       "website": "https://www.ruskin.com/About-Us/Contact-Ruskin",
@@ -2967,6 +4771,28 @@
       ]
     },
     {
+      "id": "safgard",
+      "name": "Safgard",
+      "website": "https://www.hydrolevel.com",
+      "categories": [
+        "hvac"
+      ],
+      "support": [
+        {
+          "category": "hvac",
+          "department": "Technical Support",
+          "phone": "+18009892275",
+          "country": "US",
+          "regions": [],
+          "timezone": null,
+          "last_verified": "2025-12-24",
+          "specialty_tags": [],
+          "notes": "Safgard/Hydrolevel support",
+          "source": "https://www.hydrolevel.com/contact/"
+        }
+      ]
+    },
+    {
       "id": "samsung-hvac",
       "name": "Samsung HVAC",
       "website": "https://www.samsunghvac.com/about",
@@ -2985,6 +4811,50 @@
           "specialty_tags": [],
           "notes": "Samsung HVAC toll-free support line for U.S. and Canada.",
           "source": "samsunghvac.com contact page"
+        }
+      ]
+    },
+    {
+      "id": "sanhua",
+      "name": "Sanhua",
+      "website": null,
+      "categories": [
+        "hvac"
+      ],
+      "support": [
+        {
+          "category": "hvac",
+          "department": "Technical Support",
+          "phone": "+2818828000",
+          "country": "US",
+          "regions": [],
+          "timezone": null,
+          "last_verified": "2026-10-24",
+          "specialty_tags": [],
+          "notes": "Imported from verified manufacturer spreadsheet (Oct 2026). Tech/support",
+          "source": "https://www.immihelp.com/h1b-visa-sponsors/Sanhua_International_Inc/view-2022-I_200_22181_324405/"
+        }
+      ]
+    },
+    {
+      "id": "sanuvox-technologies",
+      "name": "Sanuvox Technologies",
+      "website": null,
+      "categories": [
+        "hvac"
+      ],
+      "support": [
+        {
+          "category": "hvac",
+          "department": "Technical Support",
+          "phone": "+8887268869",
+          "country": "US",
+          "regions": [],
+          "timezone": null,
+          "last_verified": "2026-10-24",
+          "specialty_tags": [],
+          "notes": "No dedicated tech line published separate from Sanuvox toll-free customer",
+          "source": "https://sanuvox.com/media/mmgf3lqx/p900-complete_instruction_manual-en_usint-oct2023.pdf"
         }
       ]
     },
@@ -3012,6 +4882,28 @@
       ]
     },
     {
+      "id": "secop",
+      "name": "Secop",
+      "website": null,
+      "categories": [
+        "hvac"
+      ],
+      "support": [
+        {
+          "category": "hvac",
+          "department": "Technical Support",
+          "phone": "+6785335022",
+          "country": "US",
+          "regions": [],
+          "timezone": null,
+          "last_verified": "2026-10-24",
+          "specialty_tags": [],
+          "notes": "Imported from verified manufacturer spreadsheet (Oct 2026). Tech/support",
+          "source": "https://www.secop.com/fileadmin/user_upload/technical-literature/quick-references/dc-powered_compressors_12-24-48vdc_09-2026_desb100a2102.pdf"
+        }
+      ]
+    },
+    {
       "id": "selkirk",
       "name": "Selkirk",
       "website": "https://www.selkirkcorp.com/contact/",
@@ -3034,6 +4926,50 @@
       ]
     },
     {
+      "id": "sensi-copeland",
+      "name": "Sensi (Copeland)",
+      "website": null,
+      "categories": [
+        "hvac"
+      ],
+      "support": [
+        {
+          "category": "hvac",
+          "department": "Technical Support",
+          "phone": "+8886057131",
+          "country": "US",
+          "regions": [],
+          "timezone": null,
+          "last_verified": "2026-10-24",
+          "specialty_tags": [],
+          "notes": "Imported from verified manufacturer spreadsheet (Oct 2026). Tech/support",
+          "source": "https://sensi.copeland.com"
+        }
+      ]
+    },
+    {
+      "id": "senville",
+      "name": "Senville",
+      "website": null,
+      "categories": [
+        "hvac"
+      ],
+      "support": [
+        {
+          "category": "hvac",
+          "department": "Technical Support",
+          "phone": "+8002424935",
+          "country": "US",
+          "regions": [],
+          "timezone": null,
+          "last_verified": "2026-10-24",
+          "specialty_tags": [],
+          "notes": "Imported from verified manufacturer spreadsheet (Oct 2026). Tech/support",
+          "source": "https://senville.com/terms/"
+        }
+      ]
+    },
+    {
       "id": "slant-fin",
       "name": "Slant/Fin",
       "website": "https://www.slantfin.com/",
@@ -3052,6 +4988,28 @@
           "specialty_tags": [],
           "notes": "Use menu options for boiler technical support (contractor/pro).",
           "source": "https://www.slantfin.com/contact/"
+        }
+      ]
+    },
+    {
+      "id": "smith-boilers",
+      "name": "Smith Cast Iron Boilers",
+      "website": "https://www.smithboilers.com",
+      "categories": [
+        "hvac"
+      ],
+      "support": [
+        {
+          "category": "hvac",
+          "department": "Technical Support",
+          "phone": "+18332655371",
+          "country": "US",
+          "regions": [],
+          "timezone": null,
+          "last_verified": "2025-12-24",
+          "specialty_tags": [],
+          "notes": "Boilers / hydronics",
+          "source": "https://www.smithboilers.com/contact"
         }
       ]
     },
@@ -3322,6 +5280,28 @@
       ]
     },
     {
+      "id": "tappan",
+      "name": "Tappan",
+      "website": null,
+      "categories": [
+        "hvac"
+      ],
+      "support": [
+        {
+          "category": "hvac",
+          "department": "Technical Support",
+          "phone": "+8004224328",
+          "country": "US",
+          "regions": [],
+          "timezone": null,
+          "last_verified": "2026-10-24",
+          "specialty_tags": [],
+          "notes": "Imported from verified manufacturer spreadsheet (Oct 2026). Tech/support",
+          "source": "https://www.nordyne.com/business-segments/"
+        }
+      ]
+    },
+    {
       "id": "tecumseh",
       "name": "Tecumseh Products Company",
       "website": "https://www.tecumseh.com/contact",
@@ -3388,6 +5368,29 @@
       ]
     },
     {
+      "id": "testo",
+      "name": "Testo",
+      "website": null,
+      "categories": [
+        "hvac",
+        "electrical"
+      ],
+      "support": [
+        {
+          "category": "hvac",
+          "department": "Technical Support",
+          "phone": "+8002270729",
+          "country": "US",
+          "regions": [],
+          "timezone": null,
+          "last_verified": "2026-10-24",
+          "specialty_tags": [],
+          "notes": "Imported from verified manufacturer spreadsheet (Oct 2026). Tech/support",
+          "source": "https://www.testo.com"
+        }
+      ]
+    },
+    {
       "id": "therma-stor",
       "name": "Therma-Stor",
       "website": "https://thermastor.com/",
@@ -3410,6 +5413,28 @@
       ]
     },
     {
+      "id": "thermal-solutions",
+      "name": "Thermal Solutions",
+      "website": "https://www.thermalsolutions.com",
+      "categories": [
+        "hvac"
+      ],
+      "support": [
+        {
+          "category": "hvac",
+          "department": "Technical Support",
+          "phone": "+18007997237",
+          "country": "US",
+          "regions": [],
+          "timezone": null,
+          "last_verified": "2025-12-24",
+          "specialty_tags": [],
+          "notes": "Hydronic boilers",
+          "source": "https://www.thermalsolutions.com/contact/"
+        }
+      ]
+    },
+    {
       "id": "titus-hvac",
       "name": "Titus HVAC",
       "website": "https://www.titus-hvac.com/main/contact",
@@ -3428,6 +5453,28 @@
           "specialty_tags": [],
           "notes": "Titus main support line for terminal units and GRD inquiries.",
           "source": "titus-hvac.com contact page"
+        }
+      ]
+    },
+    {
+      "id": "tosot",
+      "name": "Tosot",
+      "website": null,
+      "categories": [
+        "hvac"
+      ],
+      "support": [
+        {
+          "category": "hvac",
+          "department": "Technical Support",
+          "phone": "+8888507928",
+          "country": "US",
+          "regions": [],
+          "timezone": null,
+          "last_verified": "2026-10-24",
+          "specialty_tags": [],
+          "notes": "Imported from verified manufacturer spreadsheet (Oct 2026). Tech/support",
+          "source": "https://manuals.plus/jw/category/gree"
         }
       ]
     },
@@ -3494,6 +5541,84 @@
           "specialty_tags": [],
           "notes": "Tech support via main office number; select Option 1 for Tech Support.",
           "source": "triangletube.com contact us page"
+        }
+      ]
+    },
+    {
+      "id": "true-manufacturing",
+      "name": "True Manufacturing",
+      "website": null,
+      "categories": [
+        "hvac"
+      ],
+      "support": [
+        {
+          "category": "hvac",
+          "department": "Technical Support",
+          "phone": "+8003256152",
+          "country": "US",
+          "regions": [],
+          "timezone": null,
+          "last_verified": "2026-10-24",
+          "specialty_tags": [],
+          "notes": "Imported from verified manufacturer spreadsheet (Oct 2026). Tech/support",
+          "source": "https://archive.org/stream/manualzilla-id-6961647/6961647_djvu.txt"
+        },
+        {
+          "category": "hvac",
+          "department": "General Customer Support",
+          "phone": "+63624024008003256152",
+          "country": "US",
+          "regions": [],
+          "timezone": null,
+          "last_verified": "2026-10-24",
+          "specialty_tags": [],
+          "notes": "General customer support line (manufacturer spreadsheet, Oct 2026).",
+          "source": "https://archive.org/stream/manualzilla-id-6961647/6961647_djvu.txt"
+        }
+      ]
+    },
+    {
+      "id": "tsurumi",
+      "name": "Tsurumi",
+      "website": "https://www.tsurumipump.com",
+      "categories": [
+        "hvac"
+      ],
+      "support": [
+        {
+          "category": "hvac",
+          "department": "Customer Service / Support",
+          "phone": "+18888787864",
+          "country": "US",
+          "regions": [],
+          "timezone": null,
+          "last_verified": "2025-12-24",
+          "specialty_tags": [],
+          "notes": "US support contact",
+          "source": "https://www.tsurumipump.com/contact-us"
+        }
+      ]
+    },
+    {
+      "id": "turbo-air",
+      "name": "Turbo Air",
+      "website": null,
+      "categories": [
+        "hvac"
+      ],
+      "support": [
+        {
+          "category": "hvac",
+          "department": "Technical Support",
+          "phone": "+8003817770",
+          "country": "US",
+          "regions": [],
+          "timezone": null,
+          "last_verified": "2026-10-24",
+          "specialty_tags": [],
+          "notes": "Imported from verified manufacturer spreadsheet (Oct 2026). Tech/support",
+          "source": "https://manualspro.net/69206-turbo-air-ctst-1200-n-countertop-salad-table-user-manual"
         }
       ]
     },
@@ -3877,6 +6002,50 @@
       ]
     },
     {
+      "id": "weinman",
+      "name": "Weinman",
+      "website": "https://www.cranepumps.com",
+      "categories": [
+        "hvac"
+      ],
+      "support": [
+        {
+          "category": "hvac",
+          "department": "Technical Support",
+          "phone": "+19377788947",
+          "country": "US",
+          "regions": [],
+          "timezone": null,
+          "last_verified": "2025-12-24",
+          "specialty_tags": [],
+          "notes": "Weinman brand support via Crane Pumps",
+          "source": "https://www.cranepumps.com/contact/"
+        }
+      ]
+    },
+    {
+      "id": "weishaupt",
+      "name": "Weishaupt",
+      "website": "https://www.weishaupt-america.com",
+      "categories": [
+        "hvac"
+      ],
+      "support": [
+        {
+          "category": "hvac",
+          "department": "Technical Support / Sales",
+          "phone": "+18475315800",
+          "country": "US",
+          "regions": [],
+          "timezone": null,
+          "last_verified": "2025-12-24",
+          "specialty_tags": [],
+          "notes": "Weishaupt America (Elgin, IL)",
+          "source": "https://www.weishaupt-america.com"
+        }
+      ]
+    },
+    {
       "id": "wessels",
       "name": "Wessels Company",
       "website": "https://www.westank.com/",
@@ -3943,6 +6112,40 @@
       ]
     },
     {
+      "id": "yellow-jacket",
+      "name": "Yellow Jacket",
+      "website": null,
+      "categories": [
+        "hvac"
+      ],
+      "support": [
+        {
+          "category": "hvac",
+          "department": "Technical Support",
+          "phone": "+8007698370",
+          "country": "US",
+          "regions": [],
+          "timezone": null,
+          "last_verified": "2026-10-23",
+          "specialty_tags": [],
+          "notes": "Imported from verified manufacturer spreadsheet (Oct 2026). Tech/support",
+          "source": "https://yellowjacket.com"
+        },
+        {
+          "category": "hvac",
+          "department": "General Customer Support",
+          "phone": "+9529431300",
+          "country": "US",
+          "regions": [],
+          "timezone": null,
+          "last_verified": "2026-10-23",
+          "specialty_tags": [],
+          "notes": "General customer support line (manufacturer spreadsheet, Oct 2026).",
+          "source": "https://yellowjacket.com"
+        }
+      ]
+    },
+    {
       "id": "york",
       "name": "YORK",
       "website": "https://www.york.com/",
@@ -3961,6 +6164,28 @@
           "specialty_tags": [],
           "notes": "YORK Residential & Light Commercial technical services line.",
           "source": "york.com residential contact-us page"
+        }
+      ]
+    },
+    {
+      "id": "zero-zone",
+      "name": "Zero Zone",
+      "website": null,
+      "categories": [
+        "hvac"
+      ],
+      "support": [
+        {
+          "category": "hvac",
+          "department": "Technical Support",
+          "phone": "+8002474496",
+          "country": "US",
+          "regions": [],
+          "timezone": null,
+          "last_verified": "2026-10-24",
+          "specialty_tags": [],
+          "notes": "Imported from verified manufacturer spreadsheet (Oct 2026). Tech/support",
+          "source": "https://www.zero-zone.com/refrigeration-upgrades/"
         }
       ]
     },

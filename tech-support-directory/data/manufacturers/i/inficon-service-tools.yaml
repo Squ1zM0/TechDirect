@@ -1,10 +1,10 @@
 id: inficon-service-tools
 name: Inficon (Service Tools)
 categories:
-- hvac
+- hardware
 aliases: []
 support:
-- category: hvac
+- category: hardware
   department: Technical Support
   phone: '+8003443304'
   country: US

@@ -1,10 +1,10 @@
 id: dewalt
 name: DeWalt
 categories:
-- electrical
+- hardware
 aliases: []
 support:
-- category: electrical
+- category: hardware
   department: Technical Support
   phone: '+8004339258'
   country: US

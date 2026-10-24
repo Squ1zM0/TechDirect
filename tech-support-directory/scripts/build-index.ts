@@ -139,7 +139,13 @@ for (const file of walk(dataDir)) {
   const website = pickOne(/^website:\s*(.+)$/m, txt);
   const categories = pickArray("categories", txt);
   const rawSupport = parseSupportBlocks(txt).map(s => ({
-    category: s.category,
+    // A support entry is not a trade of its own. "technical" and
+    // "tech-support" are department labels, not categories, so they
+    // must never leak into the index as categories. Fall back to the
+    // manufacturer's first top-level category, which is the trade.
+    category: (s.category === "technical" || s.category === "tech-support")
+      ? (categories[0] || s.category)
+      : s.category,
     department: s.department,
     phone: s.phone,
     country: s.country,
@@ -155,7 +161,9 @@ for (const file of walk(dataDir)) {
   manufacturers.push({ id, name, website, categories, support });
 }
 
-const version = "2026-01-29";
+// Version is the build date, never a hardcoded date. A hardcoded date
+// is how dist went stale: the index looked current while its data was not.
+const version = new Date().toISOString().slice(0, 10);
 const index = { version, manufacturers };
 fs.writeFileSync(path.join(outDir, "index.min.json"), JSON.stringify(index));
 
@@ -174,6 +182,7 @@ const shards = [
   { name: "us-hvac", country: "US", category: "hvac" },
   { name: "us-plumbing", country: "US", category: "plumbing" },
   { name: "us-electrical", country: "US", category: "electrical" },
+  { name: "us-hardware", country: "US", category: "hardware" },
   { name: "us-hydronics", country: "US", category: "hydronics" },
   { name: "ca-hvac", country: "CA", category: "hvac" }
 ];

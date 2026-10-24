@@ -1,10 +1,10 @@
 id: klein-tools
 name: Klein Tools
 categories:
-- electrical
+- hardware
 aliases: []
 support:
-- category: electrical
+- category: hardware
   department: Technical Support
   phone: '+8005534676'
   country: US

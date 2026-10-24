@@ -7,7 +7,7 @@ categories:
 aliases:
 - American Water Heater
 support:
-- category: tech-support
+- category: plumbing
   department: Residential Technical Support
   phone: "+18009999515"
   country: US
@@ -19,7 +19,7 @@ support:
     mon_fri: "8:00 AM - 10:00 PM"
     sat: "9:00 AM - 6:00 PM"
     sun: "9:00 AM - 6:00 PM"
-- category: tech-support
+- category: plumbing
   department: Commercial / Polaris Tech Support
   phone: "+18004569805"
   country: US

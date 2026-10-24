@@ -1,10 +1,10 @@
 id: greenlee
 name: Greenlee
 categories:
-- electrical
+- hardware
 aliases: []
 support:
-- category: electrical
+- category: hardware
   department: Technical Support
   phone: '+8004350786'
   country: US
