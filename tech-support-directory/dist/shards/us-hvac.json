@@ -1912,6 +1912,28 @@
       ]
     },
     {
+      "id": "dorin",
+      "name": "Dorin",
+      "website": null,
+      "categories": [
+        "hvac"
+      ],
+      "support": [
+        {
+          "category": "hvac",
+          "department": "Customer Support",
+          "phone": "+15172082640",
+          "country": "US",
+          "regions": [],
+          "timezone": null,
+          "last_verified": "2026-10-25",
+          "specialty_tags": [],
+          "notes": "Imported from verified manufacturer spreadsheet (Oct 2026). US route published on Dorin''s",
+          "source": "https://www.dorin.com/en/network-ww/america/US/"
+        }
+      ]
+    },
+    {
       "id": "dristeem",
       "name": "DriSteem",
       "website": "https://www.dristeem.com/contact-us/",
