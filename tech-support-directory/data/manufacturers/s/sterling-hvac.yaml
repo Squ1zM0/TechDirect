@@ -1,0 +1,17 @@
+id: sterling-hvac
+name: Sterling HVAC
+categories:
+- hvac
+aliases: []
+support:
+- category: hvac
+  department: Customer Support
+  phone: '+18004902290'
+  country: US
+  notes: 'Imported from verified manufacturer spreadsheet (Oct 2026). Company''s published toll-free contact,
+    not labelled a dedicated tech line on the source page; main number (413) 564-5540 also published on
+    the same page. Address: 260 North Elm St., Westfield, MA 01085. Email: info@sterlinghvac.com. Parent
+    (spreadsheet): Sterling HVAC Products (Madison Air). Spreadsheet source: https://www.sterlinghvac.com/.
+    Not the unrelated Sterling contractors in GA/OK/VA.'
+  source: http://www.sterlinghvac.com/Products/Details/HS-SERIES
+  last_verified: '2026-10-25'

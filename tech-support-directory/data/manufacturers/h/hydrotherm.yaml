@@ -1,0 +1,21 @@
+id: hydrotherm
+name: HydroTherm
+categories:
+- boilers
+- hydronics
+aliases: []
+support:
+- category: boilers
+  department: Customer Support
+  phone: '+14135645515'
+  country: US
+  notes: 'Imported from verified manufacturer spreadsheet (Oct 2026). Mestek literature manual (KN Series
+    Plus IOM, Copyright 2014 Advanced Thermal Hydronics) on the official literature.mestek.com domain:
+    ''Direct all questions to your Advanced Thermal Hydronics distributor or contact the Advanced Thermal
+    Hydronics Customer Service Department at: 260 North Elm Street, Westfield, MA 01085'', with imprint
+    ''(413) 564-5515''. Brand now sits under Advanced Thermal Hydronics/Mestek; hydrotherm.com itself
+    is defunct/under construction. A variant number reported in secondary sources is NOT published here.
+    Not Hydro-Thermal Corp. of Waukesha, WI, a different company. Parent (spreadsheet): HydroTherm (Mestek).
+    Spreadsheet source: https://www.hydrotherm.com/.'
+  source: https://www.literature.mestek.com/dms/Hydrotherm%20Boilers/KN%20Series%20Plus%20IOM%20(KNP-IOM-0319).pdf
+  last_verified: '2026-10-25'

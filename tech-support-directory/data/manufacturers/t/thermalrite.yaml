@@ -1,0 +1,20 @@
+id: thermalrite
+name: ThermalRite
+categories:
+- hvac
+aliases: []
+support:
+- category: hvac
+  department: Warranty Support
+  phone: '+18882271629'
+  country: US
+  notes: 'Imported from verified manufacturer spreadsheet (Oct 2026). Everidge ThermalRite warranty document
+    (EV5022, 2026): ''Everidge and ThermalRite extend the following warranty coverage'' with ''15600 37th
+    Ave N, Suite 100, Plymouth, Minnesota 55446, 888-227-1629, www.Everidge.com, info@Everidge.com''.
+    Published as the Parts, Service & Warranty contact. RSG FAMILY RE-TEST FAILED: no ThermalRite source
+    routes ThermalRite support to the RSG/Norlake family number, so that number is NOT published here.
+    PARENT CORRECTION FLAGGED: ThermalRite is an Everidge brand per Everidge''s own documents, vs the
+    spreadsheet''s Norlake/RSG family label - workbook correction pending parent decision. Spreadsheet
+    source: https://www.thermalrite.com/.'
+  source: https://www.everidge.com/wp-content/uploads/2026/06/ThermalRite-Warranty_EV5022.pdf
+  last_verified: '2026-10-25'

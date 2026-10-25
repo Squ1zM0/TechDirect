@@ -1,0 +1,21 @@
+id: carlyle
+name: Carlyle
+categories:
+- hvac
+aliases: []
+support:
+- category: hvac
+  department: Technical Support
+  phone: '+18004622759'
+  country: US
+  notes: 'Imported from verified manufacturer spreadsheet (Oct 2026). Carlyle Service Guide 06D/06E/06CC
+    (Carrier, Rev 1/2017, Lit No. 020-611): ''Technical support is provided by your local distributor''
+    and ''If this support, along with this service guide, cannot resolve your compressor problem, please
+    contact our Carlyle engineering group'' - ''In the USA: 1-800-GO-CARLYLE (1-800-462-2759)''. Distributor-first
+    routing; currency caveat: the newest Carlyle document found is 2017 and the current carlylecompressor.com
+    site shows no phone, so a live-dial check is recommended before relying on it. REMANUFACTURER RE-TEST
+    CONFIRMED REJECTED: Compressors Unlimited is a remanufacturer, never presented by Carlyle as Carlyle''s
+    support route, and its number is NOT published here. Parent (spreadsheet): Carlyle Compressor Co.
+    (Carrier Global). Spreadsheet source: https://www.carlylecompressor.com/.'
+  source: https://econtent.adhq.com/dam/Original/126/Carrier_RCD_05GA502213_Catalog.pdf
+  last_verified: '2026-10-25'

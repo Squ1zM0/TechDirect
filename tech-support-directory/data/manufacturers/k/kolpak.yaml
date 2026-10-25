@@ -1,0 +1,20 @@
+id: kolpak
+name: Kolpak
+categories:
+- hvac
+aliases: []
+support:
+- category: hvac
+  department: Warranty Support
+  phone: '+18002259916'
+  country: US
+  notes: 'Imported from verified manufacturer spreadsheet (Oct 2026). Kolpak''s own current Installation,
+    Operation & Maintenance Manual (Part Number 500000400-18, 12/25): ''For information regarding warranty
+    guidelines, claim form, product registration, warranty verification, or locating a service provider
+    please visit our website at www.kolpak.com or call 800-225-9916.'' Sales representative number 800-826-7036
+    also published in the same manual. RSG FAMILY RE-TEST FAILED: no Kolpak source routes Kolpak support
+    to the RSG family number, so that number is NOT published here. PARENT NOTE: the current manual is
+    headed Manitowoc Foodservice Walk-In Division, vs the spreadsheet''s Standex/RSG family label - parent
+    label to confirm, not silently changed. Spreadsheet source: https://www.kolpak.com/.'
+  source: https://direct.kolpak.com/asset/?id=rfwjj&regions=aw&prefLang=en-US&download=true
+  last_verified: '2026-10-25'

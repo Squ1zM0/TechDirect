@@ -1,0 +1,16 @@
+id: first-company
+name: First Company
+categories:
+- hvac
+aliases: []
+support:
+- category: hvac
+  department: Customer Support
+  phone: '+12143885751'
+  country: US
+  notes: 'Imported from verified manufacturer spreadsheet (Oct 2026). Company''s published contact in
+    the firstco.com site footer, not labelled a dedicated tech line on the page. Address: 8273 Moberly
+    Ln, Dallas, TX 75227. Spreadsheet row name ''First Company (First Co.)'' - also known as First Co.
+    Parent (spreadsheet): First Company. Spreadsheet source: https://www.firstco.com/.'
+  source: https://firstco.com/case-studies/?page=2
+  last_verified: '2026-10-25'

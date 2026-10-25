@@ -1,0 +1,15 @@
+id: hi-velocity-systems
+name: Hi-Velocity Systems
+categories:
+- hvac
+aliases: []
+support:
+- category: hvac
+  department: Customer Support
+  phone: '+18886522219'
+  country: US
+  notes: 'Imported from verified manufacturer spreadsheet (Oct 2026). Toll-free number published on hi-velocity.com;
+    Edmonton direct line 780-453-2093 also published on the same page (Canada). Parent (spreadsheet):
+    Hi-Velocity Systems (Energy Saving Products Ltd.). Spreadsheet source: https://www.hi-velocity.com/.'
+  source: https://www.hi-velocity.com/mptext.htm
+  last_verified: '2026-10-25'

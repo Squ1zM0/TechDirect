@@ -1,0 +1,16 @@
+id: ice-air
+name: Ice Air
+categories:
+- hvac
+aliases: []
+support:
+- category: hvac
+  department: Customer Support
+  phone: '+18774232471'
+  country: US
+  notes: 'Imported from verified manufacturer spreadsheet (Oct 2026). Company''s published toll-free contact
+    (877-ICE-AIR-1), not labelled a dedicated tech line on the source sheet; main number 914-668-4700
+    also published. Address: 80 Hartford Avenue, Mount Vernon, NY 10553. Source product sheet dated 04/25.
+    Parent (spreadsheet): Ice Air (USA). Spreadsheet source: https://www.ice-air.com/.'
+  source: http://www.ice-air.com/wp-content/uploads/ice-air-wshp-chpw-product-sheet.pdf
+  last_verified: '2026-10-25'

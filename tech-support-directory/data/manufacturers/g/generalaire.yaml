@@ -1,0 +1,17 @@
+id: generalaire
+name: GeneralAire
+categories:
+- hvac
+aliases: []
+support:
+- category: hvac
+  department: Customer Support
+  phone: '+18664765101'
+  country: US
+  notes: 'Imported from verified manufacturer spreadsheet (Oct 2026). Toll-free number published in a
+    General Filters, Inc. installation manual on the official generalfilters.com domain. Address: General
+    Filters, Inc., 43800 Grand River Avenue, Novi, MI 48375. Parent (spreadsheet): General Filters, Inc.
+    (GeneralAire). Spreadsheet source: https://www.generalaire.com/. Note: a direct tech line appears
+    in third-party manual hosts but was NOT verified on the official domain and is NOT published here.'
+  source: https://www.generalfilters.com/cm/dpl/downloads/content/118/15101_MAC-L_4540_Installation_Manual.pdf
+  last_verified: '2026-10-25'

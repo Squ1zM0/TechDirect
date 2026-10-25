@@ -1,0 +1,25 @@
+id: larkin
+name: Larkin
+categories:
+- hvac
+aliases: []
+support:
+- category: hvac
+  department: Customer Support
+  phone: '+18005377775'
+  country: US
+  notes: 'Imported from verified manufacturer spreadsheet (Oct 2026). Larkin is a Heatcraft brand: the
+    source product page lists ''Product Brand | Larkin'' and the Heatcraft footer ''Heatcraft Refrigeration
+    Products, 2175 West Park Place Blvd, Stone Mountain, GA 30087''. Parent (spreadsheet): Heatcraft Refrigeration
+    Products (Lennox). Spreadsheet source: https://www.heatcraft.com/. A separate Heatcraft parent file
+    (heatcraft-rpd) already carries this number; this file is the Larkin brand entry.'
+  source: https://www.heatcraftrpd.com/products/c/larkin.LEL0100BS6EEAB0000/
+  last_verified: '2026-10-25'
+- category: hvac
+  department: Warranty Support
+  phone: '+18003211881'
+  country: US
+  notes: Heatcraft warranty department, Option 5, per Heatcraft's own FAQ document; Customer Service Option
+    1 on the same number is available 8:00 AM to 5:30 PM Eastern Time.
+  source: https://assets.heatcraftrpd.com/training-assets/hccp/hccp_faq.pdf
+  last_verified: '2026-10-25'

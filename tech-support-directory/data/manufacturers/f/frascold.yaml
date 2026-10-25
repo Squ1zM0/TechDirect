@@ -1,0 +1,16 @@
+id: frascold
+name: Frascold
+categories:
+- hvac
+aliases: []
+support:
+- category: hvac
+  department: Customer Support
+  phone: '+14253092326'
+  country: US
+  notes: 'Imported from verified manufacturer spreadsheet (Oct 2026). Frascold USA, 5343 Bowden Road,
+    Jacksonville, FL 32216; the same official contact page also publishes the vanity number 877-Frascold
+    (not converted to digits here). Email: info@frascoldusa.com. Parent (spreadsheet): Frascold S.p.A.
+    (Frascold USA). Spreadsheet source: https://www.frascold.it/.'
+  source: https://www.frascold.it/en/contact-us
+  last_verified: '2026-10-25'

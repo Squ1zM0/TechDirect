@@ -1,0 +1,18 @@
+id: titan-tankless
+name: Titan Tankless
+categories:
+- water-heaters
+aliases: []
+support:
+- category: water-heaters
+  department: Customer Support
+  phone: '+18886978456'
+  country: US
+  notes: 'Imported from verified manufacturer spreadsheet (Oct 2026). Site-wide ''Call us'' number on
+    titanheater.com; the source product page also says ''Must call to place order'' with this number.
+    Published as the company''s general contact, NOT a labelled tech line. Parent (spreadsheet): Titan
+    Tankless (Titan Water Heaters). Spreadsheet source: https://www.titanheater.com/. This is the Titan
+    Tankless water-heater brand, NOT the Packard capacitor brand and not a differently-attributed Titan
+    number seen in third-party manuals, which is not published here.'
+  source: http://www.titanheater.com/proddetail.php?prod=N-210
+  last_verified: '2026-10-25'

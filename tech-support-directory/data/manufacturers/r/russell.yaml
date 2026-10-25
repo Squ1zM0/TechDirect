@@ -1,0 +1,25 @@
+id: russell
+name: Russell
+categories:
+- hvac
+aliases: []
+support:
+- category: hvac
+  department: Customer Support
+  phone: '+18002889488'
+  country: US
+  notes: 'Imported from verified manufacturer spreadsheet (Oct 2026). Hours: Monday-Friday 7:00 a.m.-6:30
+    p.m. Central Time. Alternate number 256-259-7400 published on the same page. PARENT CORRECTION FLAGGED:
+    the spreadsheet row labels this brand ''Russell (Heatcraft)'' with a Heatcraft parent, but russell.htpg.com
+    is HTPG''s Russell site and Heatcraft''s own brand list does not include Russell; this file follows
+    the HTPG source. No Heatcraft number is published for Russell. Workbook row correction pending parent
+    decision. Spreadsheet source: https://www.heatcraft.com/.'
+  source: https://russell.htpg.com/faqs
+  last_verified: '2026-10-25'
+- category: hvac
+  department: Parts Support
+  phone: '+18554872787'
+  country: US
+  notes: HTPG Parts, published as 1-855-HTPARTS on the same Russell FAQ page; email parts@htpgusa.com.
+  source: https://russell.htpg.com/faqs
+  last_verified: '2026-10-25'

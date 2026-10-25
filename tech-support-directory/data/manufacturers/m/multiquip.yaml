@@ -1,0 +1,24 @@
+id: multiquip
+name: Multiquip
+categories:
+- electrical
+aliases: []
+support:
+- category: electrical
+  department: Technical Support - Power Solutions
+  phone: '+18008352551'
+  country: US
+  notes: 'Imported from verified manufacturer spreadsheet (Oct 2026). Hours: Monday-Friday 5AM-5PM (PST).
+    Matches the row''s generator/light-tower/power categories. Sales Support 800-426-1244 and Parts Support
+    800-427-1244 also published on the same page. Parent (spreadsheet): Multiquip Inc. Spreadsheet source:
+    https://www.multiquip.com/.'
+  source: http://www.multiquip.com/multiquip/contactus.htm
+  last_verified: '2026-10-25'
+- category: electrical
+  department: Technical Support - Construction & Lighting
+  phone: '+18886618992'
+  country: US
+  notes: 'Second Multiquip technical support division on the same official contact page. Hours: Monday-Friday
+    5AM-5PM (PST).'
+  source: http://www.multiquip.com/multiquip/contactus.htm
+  last_verified: '2026-10-25'

@@ -1,0 +1,19 @@
+id: mtu-onsite-energy
+name: MTU Onsite Energy
+categories:
+- electrical
+aliases: []
+support:
+- category: electrical
+  department: Customer Support
+  phone: '+12485608888'
+  country: US
+  notes: 'Imported from verified manufacturer spreadsheet (Oct 2026). SUCCESSOR ROUTE, flagged: the MTU
+    Onsite Energy brand for distributed power supply systems was discontinued and merged within the mtu
+    brand under Rolls-Royce Power Systems'' 2021 brand architecture; this number is the successor mtu
+    Customer Assistance Center, North and Latin America, published on mtu-solutions.com as available for
+    Sales & Service questions around the clock, 365 days a year. The CAC page names ''mtu'', not ''MTU
+    Onsite Energy'' by name. Legacy entry retained as its own file per the legacy pass-through rule, not
+    merged away. Parent (spreadsheet): Rolls-Royce Power Systems (MTU). Spreadsheet source: https://www.mtu-solutions.com/.'
+  source: https://www.mtu-solutions.com/eu/en/contact/customer-assistance-center.html
+  last_verified: '2026-10-25'
