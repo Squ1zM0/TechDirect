@@ -2000,6 +2000,40 @@
       ]
     },
     {
+      "id": "dust-free",
+      "name": "Dust Free",
+      "website": null,
+      "categories": [
+        "hvac"
+      ],
+      "support": [
+        {
+          "category": "hvac",
+          "department": "Customer Support",
+          "phone": "+18004411107",
+          "country": "US",
+          "regions": [],
+          "timezone": null,
+          "last_verified": "2026-10-25",
+          "specialty_tags": [],
+          "notes": "Manufacturer-authored Dust Free specification sheet / catalog: ''Dust Free, LP, PO Box 519,",
+          "source": "https://d1gwoui0vzuwqz.cloudfront.net/userfiles/documents/product/d/dust_free_13070_specification_sheet.pdf"
+        },
+        {
+          "category": "hvac",
+          "department": "Customer Support",
+          "phone": "+19726359564",
+          "country": "US",
+          "regions": [],
+          "timezone": null,
+          "last_verified": "2026-10-25",
+          "specialty_tags": [],
+          "notes": "Manufacturer-authored Dust Free 13070 Active Total Home Air Purification instruction manual:",
+          "source": "https://manuals.plus/m/5caaf6f7665d1f8961f01eaf9fb4a2abe5c32bb447f0c29958f9acf1ebe6ebdf"
+        }
+      ]
+    },
+    {
       "id": "ebm-papst",
       "name": "ebm-papst USA",
       "website": "https://www.ebmpapst.com/us/en/support/contact.html",
@@ -2084,6 +2118,28 @@
           "specialty_tags": [],
           "notes": "Product Support toll-free number listed for US/Canada.",
           "source": "emerson.com technical support contact information"
+        }
+      ]
+    },
+    {
+      "id": "emi",
+      "name": "EMI / EnviroMaster International",
+      "website": null,
+      "categories": [
+        "hvac"
+      ],
+      "support": [
+        {
+          "category": "hvac",
+          "department": "Technical Support",
+          "phone": "+18002289364",
+          "country": "US",
+          "regions": [],
+          "timezone": null,
+          "last_verified": "2026-10-25",
+          "specialty_tags": [],
+          "notes": "Manufacturer-authored EMI AmericaSeries installation/operation manuals (EnviroMaster International",
+          "source": "https://emiretroaire.com/sites/default/files/61.pdf"
         }
       ]
     },
@@ -3595,6 +3651,28 @@
       ]
     },
     {
+      "id": "kysor-warren",
+      "name": "Kysor Warren",
+      "website": null,
+      "categories": [
+        "hvac"
+      ],
+      "support": [
+        {
+          "category": "hvac",
+          "department": "Technical Support",
+          "phone": "+18008665596",
+          "country": "US",
+          "regions": [],
+          "timezone": null,
+          "last_verified": "2026-10-25",
+          "specialty_tags": [],
+          "notes": "Manufacturer-authored Kysor Warren manuals, independently fetched this session: the LD1C1A merchandiser",
+          "source": "https://cdn2.servls.com/view/940/940984-ld1c1a.pdf"
+        }
+      ]
+    },
+    {
       "id": "laars",
       "name": "Laars Heating Systems",
       "website": "https://www.laars.com/",
@@ -3805,6 +3883,28 @@
           "specialty_tags": [],
           "notes": "General customer support line (manufacturer spreadsheet, Oct 2026).",
           "source": "https://www.lg.com/us/support/contact"
+        }
+      ]
+    },
+    {
+      "id": "lifebreath",
+      "name": "Lifebreath",
+      "website": null,
+      "categories": [
+        "hvac"
+      ],
+      "support": [
+        {
+          "category": "hvac",
+          "department": "Technical Support",
+          "phone": "+18552474200",
+          "country": "US",
+          "regions": [],
+          "timezone": null,
+          "last_verified": "2026-10-25",
+          "specialty_tags": [],
+          "notes": "Manufacturer-authored Lifebreath homeowner guides (Metro Series and MAX Series, Airia Brands",
+          "source": "https://manuals.plus/m/0551d6cb32e0ecba8e9495f4e15442e57de21e8afc1121b422cbac1e183af806"
         }
       ]
     },
@@ -4949,6 +5049,28 @@
           "specialty_tags": [],
           "notes": "Call main line and select Option 2 for Technical Services.",
           "source": "https://rectorseal.com/technical-product-inquiries/"
+        }
+      ]
+    },
+    {
+      "id": "refplus",
+      "name": "RefPlus",
+      "website": null,
+      "categories": [
+        "hvac"
+      ],
+      "support": [
+        {
+          "category": "hvac",
+          "department": "Customer Support",
+          "phone": "+18888162665",
+          "country": "US",
+          "regions": [],
+          "timezone": null,
+          "last_verified": "2026-10-25",
+          "specialty_tags": [],
+          "notes": "Manufacturer-authored, RefPlus-copyrighted documents: the UDA catalog (CATALOG_UDA_EN-R3, Copyright",
+          "source": "https://www.master.ca/media/akeneo_connector/asset_files/C/A/CATALOG_UDA_EN_R2_anglais_fr_CA_a356.pdf"
         }
       ]
     },

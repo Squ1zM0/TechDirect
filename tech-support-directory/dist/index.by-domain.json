@@ -2903,6 +2903,34 @@
         "source": "https://duraventgroup.com/contact"
       },
       {
+        "manufacturer_id": "dust-free",
+        "manufacturer_name": "Dust Free",
+        "category": "hvac",
+        "department": "Customer Support",
+        "phone": "+18004411107",
+        "country": "US",
+        "regions": [],
+        "timezone": null,
+        "last_verified": "2026-10-25",
+        "specialty_tags": [],
+        "notes": "Manufacturer-authored Dust Free specification sheet / catalog: ''Dust Free, LP, PO Box 519,",
+        "source": "https://d1gwoui0vzuwqz.cloudfront.net/userfiles/documents/product/d/dust_free_13070_specification_sheet.pdf"
+      },
+      {
+        "manufacturer_id": "dust-free",
+        "manufacturer_name": "Dust Free",
+        "category": "hvac",
+        "department": "Customer Support",
+        "phone": "+19726359564",
+        "country": "US",
+        "regions": [],
+        "timezone": null,
+        "last_verified": "2026-10-25",
+        "specialty_tags": [],
+        "notes": "Manufacturer-authored Dust Free 13070 Active Total Home Air Purification instruction manual:",
+        "source": "https://manuals.plus/m/5caaf6f7665d1f8961f01eaf9fb4a2abe5c32bb447f0c29958f9acf1ebe6ebdf"
+      },
+      {
         "manufacturer_id": "ebm-papst",
         "manufacturer_name": "ebm-papst USA",
         "category": "hvac",
@@ -2971,6 +2999,20 @@
         "specialty_tags": [],
         "notes": "Product Support toll-free number listed for US/Canada.",
         "source": "emerson.com technical support contact information"
+      },
+      {
+        "manufacturer_id": "emi",
+        "manufacturer_name": "EMI / EnviroMaster International",
+        "category": "hvac",
+        "department": "Technical Support",
+        "phone": "+18002289364",
+        "country": "US",
+        "regions": [],
+        "timezone": null,
+        "last_verified": "2026-10-25",
+        "specialty_tags": [],
+        "notes": "Manufacturer-authored EMI AmericaSeries installation/operation manuals (EnviroMaster International",
+        "source": "https://emiretroaire.com/sites/default/files/61.pdf"
       },
       {
         "manufacturer_id": "energy-kinetics",
@@ -3981,6 +4023,20 @@
         "source": "https://www.ksb.com/en-us/contact"
       },
       {
+        "manufacturer_id": "kysor-warren",
+        "manufacturer_name": "Kysor Warren",
+        "category": "hvac",
+        "department": "Technical Support",
+        "phone": "+18008665596",
+        "country": "US",
+        "regions": [],
+        "timezone": null,
+        "last_verified": "2026-10-25",
+        "specialty_tags": [],
+        "notes": "Manufacturer-authored Kysor Warren manuals, independently fetched this session: the LD1C1A merchandiser",
+        "source": "https://cdn2.servls.com/view/940/940984-ld1c1a.pdf"
+      },
+      {
         "manufacturer_id": "laars",
         "manufacturer_name": "Laars Heating Systems",
         "category": "hvac",
@@ -4147,6 +4203,20 @@
         "specialty_tags": [],
         "notes": "General customer support line (manufacturer spreadsheet, Oct 2026).",
         "source": "https://www.lg.com/us/support/contact"
+      },
+      {
+        "manufacturer_id": "lifebreath",
+        "manufacturer_name": "Lifebreath",
+        "category": "hvac",
+        "department": "Technical Support",
+        "phone": "+18552474200",
+        "country": "US",
+        "regions": [],
+        "timezone": null,
+        "last_verified": "2026-10-25",
+        "specialty_tags": [],
+        "notes": "Manufacturer-authored Lifebreath homeowner guides (Metro Series and MAX Series, Airia Brands",
+        "source": "https://manuals.plus/m/0551d6cb32e0ecba8e9495f4e15442e57de21e8afc1121b422cbac1e183af806"
       },
       {
         "manufacturer_id": "lochinvar",
@@ -4903,6 +4973,20 @@
         "specialty_tags": [],
         "notes": "Call main line and select Option 2 for Technical Services.",
         "source": "https://rectorseal.com/technical-product-inquiries/"
+      },
+      {
+        "manufacturer_id": "refplus",
+        "manufacturer_name": "RefPlus",
+        "category": "hvac",
+        "department": "Customer Support",
+        "phone": "+18888162665",
+        "country": "US",
+        "regions": [],
+        "timezone": null,
+        "last_verified": "2026-10-25",
+        "specialty_tags": [],
+        "notes": "Manufacturer-authored, RefPlus-copyrighted documents: the UDA catalog (CATALOG_UDA_EN-R3, Copyright",
+        "source": "https://www.master.ca/media/akeneo_connector/asset_files/C/A/CATALOG_UDA_EN_R2_anglais_fr_CA_a356.pdf"
       },
       {
         "manufacturer_id": "remeha",
@@ -9519,51 +9603,21 @@
         "source": "https://smithboiler.com/contact/"
       }
     ],
-    "drainage": [
-      {
-        "manufacturer_id": "california-faucets",
-        "manufacturer_name": "California Faucets",
-        "category": "drainage",
-        "department": "Technical Support",
-        "phone": "+8008228855",
-        "country": "US",
-        "regions": [],
-        "timezone": null,
-        "last_verified": "2026-10-24",
-        "specialty_tags": [],
-        "notes": "Imported from verified manufacturer spreadsheet (Oct 2026). Tech/support",
-        "source": "https://www.calfaucets.com/contact"
-      },
-      {
-        "manufacturer_id": "jaclo",
-        "manufacturer_name": "JACLO",
-        "category": "drainage",
-        "department": "Technical Support",
-        "phone": "+8008523906",
-        "country": "US",
-        "regions": [],
-        "timezone": null,
-        "last_verified": "2026-10-24",
-        "specialty_tags": [],
-        "notes": "Imported from verified manufacturer spreadsheet (Oct 2026). Tech/support",
-        "source": "https://www.jaclo.com"
-      },
-      {
-        "manufacturer_id": "mountain-plumbing-products",
-        "manufacturer_name": "Mountain Plumbing Products",
-        "category": "drainage",
-        "department": "Technical Support",
-        "phone": "+8008002246",
-        "country": "US",
-        "regions": [],
-        "timezone": null,
-        "last_verified": "2026-10-24",
-        "specialty_tags": [],
-        "notes": "Imported from verified manufacturer spreadsheet (Oct 2026). Tech/support",
-        "source": "https://www.mountainplumbing.com"
-      }
-    ],
     "boilers": [
+      {
+        "manufacturer_id": "bryan-steam",
+        "manufacturer_name": "Bryan Steam",
+        "category": "boilers",
+        "department": "Customer Support",
+        "phone": "+17654736651",
+        "country": "US",
+        "regions": [],
+        "timezone": null,
+        "last_verified": "2026-10-25",
+        "specialty_tags": [],
+        "notes": "Manufacturer-authored Bryan Steam LLC installation/operation manuals (783 N. Chili Avenue, Peru,",
+        "source": "https://cdn2.guidespdf.com/view/955/955332-ff1000.pdf"
+      },
       {
         "manufacturer_id": "chromalox",
         "manufacturer_name": "Chromalox",
@@ -9703,6 +9757,64 @@
         "specialty_tags": [],
         "notes": "General customer support line (manufacturer spreadsheet, Oct 2026).",
         "source": "https://thermopride.com/support/"
+      },
+      {
+        "manufacturer_id": "vapor-power",
+        "manufacturer_name": "Vapor Power",
+        "category": "boilers",
+        "department": "Customer Support",
+        "phone": "+16306945500",
+        "country": "US",
+        "regions": [],
+        "timezone": null,
+        "last_verified": "2026-10-25",
+        "specialty_tags": [],
+        "notes": "Manufacturer-authored Vapor Power International manuals: STR electric steam boiler O&M manual",
+        "source": "https://www.jmcic.com/Documentation/Document/G1waEZ/Electric-Steam-Boiler-Manual-2015.pdf"
+      }
+    ],
+    "drainage": [
+      {
+        "manufacturer_id": "california-faucets",
+        "manufacturer_name": "California Faucets",
+        "category": "drainage",
+        "department": "Technical Support",
+        "phone": "+8008228855",
+        "country": "US",
+        "regions": [],
+        "timezone": null,
+        "last_verified": "2026-10-24",
+        "specialty_tags": [],
+        "notes": "Imported from verified manufacturer spreadsheet (Oct 2026). Tech/support",
+        "source": "https://www.calfaucets.com/contact"
+      },
+      {
+        "manufacturer_id": "jaclo",
+        "manufacturer_name": "JACLO",
+        "category": "drainage",
+        "department": "Technical Support",
+        "phone": "+8008523906",
+        "country": "US",
+        "regions": [],
+        "timezone": null,
+        "last_verified": "2026-10-24",
+        "specialty_tags": [],
+        "notes": "Imported from verified manufacturer spreadsheet (Oct 2026). Tech/support",
+        "source": "https://www.jaclo.com"
+      },
+      {
+        "manufacturer_id": "mountain-plumbing-products",
+        "manufacturer_name": "Mountain Plumbing Products",
+        "category": "drainage",
+        "department": "Technical Support",
+        "phone": "+8008002246",
+        "country": "US",
+        "regions": [],
+        "timezone": null,
+        "last_verified": "2026-10-24",
+        "specialty_tags": [],
+        "notes": "Imported from verified manufacturer spreadsheet (Oct 2026). Tech/support",
+        "source": "https://www.mountainplumbing.com"
       }
     ],
     "hardware": [
@@ -9805,6 +9917,20 @@
         "specialty_tags": [],
         "notes": "General customer support line (manufacturer spreadsheet, Oct 2026).",
         "source": "https://www.intellihot.com/wp-content/uploads/2022/12/Gen-II-Trouble-Shooting-Guide-11-22-2021.pdf"
+      },
+      {
+        "manufacturer_id": "marey",
+        "manufacturer_name": "Marey",
+        "category": "water-heaters",
+        "department": "Customer Support",
+        "phone": "+18556273955",
+        "country": "US",
+        "regions": [],
+        "timezone": null,
+        "last_verified": "2026-10-25",
+        "specialty_tags": [],
+        "notes": "Manufacturer-authored Marey Heater Corp. manuals: the GA14CSALP instruction manual says ''call",
+        "source": "https://manuals.plus/marey/ga14csalp-gas-tankless-water-heater-manual"
       },
       {
         "manufacturer_id": "titan-tankless",
