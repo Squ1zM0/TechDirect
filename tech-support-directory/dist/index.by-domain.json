@@ -1,5 +1,5 @@
 {
-  "version": "2026-10-24",
+  "version": "2026-10-25",
   "byDomain": {
     "electrical": [
       {
@@ -239,6 +239,20 @@
         "specialty_tags": [],
         "notes": "Imported from verified manufacturer spreadsheet (Oct 2026). Tech/support",
         "source": "https://c.searspartsdirect.com/doc/1803052L"
+      },
+      {
+        "manufacturer_id": "bryant-electrical-eaton",
+        "manufacturer_name": "Bryant Electrical (Eaton)",
+        "category": "electrical",
+        "department": "Technical Support",
+        "phone": "+18773862273",
+        "country": "US",
+        "regions": [],
+        "timezone": null,
+        "last_verified": "2026-10-24",
+        "specialty_tags": [],
+        "notes": "Eaton wiring-device line. Distinct from v1 Bryant HVAC (Carrier) row -",
+        "source": "https://www.eaton.com"
       },
       {
         "manufacturer_id": "burndy",
@@ -687,6 +701,20 @@
         "specialty_tags": [],
         "notes": "",
         "source": "https://www.hubbell.com/killark/en/contact-us"
+      },
+      {
+        "manufacturer_id": "kohler-power",
+        "manufacturer_name": "Kohler Power",
+        "category": "electrical",
+        "department": "Technical Support",
+        "phone": "+18005442444",
+        "country": "US",
+        "regions": [],
+        "timezone": null,
+        "last_verified": "2026-10-23",
+        "specialty_tags": [],
+        "notes": "Imported from verified manufacturer spreadsheet (Oct 2026). Tech/support",
+        "source": "https://www.kohlergeneratordealer.com"
       },
       {
         "manufacturer_id": "lapp",
@@ -1361,6 +1389,20 @@
         "source": "https://www.weidmuller.com/en-us/service_support/index.jsp"
       },
       {
+        "manufacturer_id": "westinghouse-outdoor-power",
+        "manufacturer_name": "Westinghouse Outdoor Power",
+        "category": "electrical",
+        "department": "Technical Support",
+        "phone": "+18559443571",
+        "country": "US",
+        "regions": [],
+        "timezone": null,
+        "last_verified": "2026-10-24",
+        "specialty_tags": [],
+        "notes": "Imported from verified manufacturer spreadsheet (Oct 2026). Tech/support",
+        "source": "https://media.tractorsupply.com/is/content/TractorSupplyCompany/tsc/product/2/29/38/89/2293889_Man1.pdf"
+      },
+      {
         "manufacturer_id": "wieland-electric",
         "manufacturer_name": "Wieland Electric",
         "category": "electrical",
@@ -2007,6 +2049,20 @@
         "source": "bitzer.de QuickShip / contact info"
       },
       {
+        "manufacturer_id": "bosch-geothermal",
+        "manufacturer_name": "Bosch Geothermal",
+        "category": "hvac",
+        "department": "Technical Support",
+        "phone": "+18002833787",
+        "country": "US",
+        "regions": [],
+        "timezone": null,
+        "last_verified": "2026-10-24",
+        "specialty_tags": [],
+        "notes": "Imported from verified manufacturer spreadsheet (Oct 2026). Tech/support",
+        "source": "https://www.bosch-homecomfort.com/us/en/residential/service-support/commercial-rep-dealer-locator/dealersearch/"
+      },
+      {
         "manufacturer_id": "bosch-home-comfort",
         "manufacturer_name": "Bosch Home Comfort",
         "category": "hvac",
@@ -2243,6 +2299,76 @@
         "specialty_tags": [],
         "notes": "Carlin technical service hotline (ET business hours).",
         "source": "https://carlincombustion.com/contact-us/technical-support/"
+      },
+      {
+        "manufacturer_id": "carrier-commercial",
+        "manufacturer_name": "Carrier Commercial",
+        "category": "hvac",
+        "department": "Technical Support",
+        "phone": "+18003796484",
+        "country": "US",
+        "regions": [],
+        "timezone": null,
+        "last_verified": "2026-10-24",
+        "specialty_tags": [],
+        "notes": "Imported from verified manufacturer spreadsheet (Oct 2026). Tech/support",
+        "source": "https://www.carrier.com/residential/en/us/warranty-lookup"
+      },
+      {
+        "manufacturer_id": "carrier-infinity-air-purifier",
+        "manufacturer_name": "Carrier Infinity Air Purifier",
+        "category": "hvac",
+        "department": "Technical Support",
+        "phone": "+18003796484",
+        "country": "US",
+        "regions": [],
+        "timezone": null,
+        "last_verified": "2026-10-24",
+        "specialty_tags": [],
+        "notes": "Imported from verified manufacturer spreadsheet (Oct 2026). Tech/support",
+        "source": "https://www.carrier.com/residential/en/us/warranty-lookup"
+      },
+      {
+        "manufacturer_id": "carrier-infinity-air-purifier",
+        "manufacturer_name": "Carrier Infinity Air Purifier",
+        "category": "hvac",
+        "department": "General Support",
+        "phone": "+18002277437",
+        "country": "US",
+        "regions": [],
+        "timezone": null,
+        "last_verified": "2026-10-24",
+        "specialty_tags": [],
+        "notes": "General/customer support line from the verified manufacturer spreadsheet",
+        "source": "https://www.carrier.com/residential/en/us/warranty-lookup"
+      },
+      {
+        "manufacturer_id": "carrier-infinity-controls",
+        "manufacturer_name": "Carrier Infinity Controls",
+        "category": "hvac",
+        "department": "Technical Support",
+        "phone": "+18003796484",
+        "country": "US",
+        "regions": [],
+        "timezone": null,
+        "last_verified": "2026-10-24",
+        "specialty_tags": [],
+        "notes": "Imported from verified manufacturer spreadsheet (Oct 2026). Tech/support",
+        "source": "https://www.carrier.com/residential/en/us/warranty-lookup"
+      },
+      {
+        "manufacturer_id": "carrier-infinity-controls",
+        "manufacturer_name": "Carrier Infinity Controls",
+        "category": "hvac",
+        "department": "General Support",
+        "phone": "+18002277437",
+        "country": "US",
+        "regions": [],
+        "timezone": null,
+        "last_verified": "2026-10-24",
+        "specialty_tags": [],
+        "notes": "General/customer support line from the verified manufacturer spreadsheet",
+        "source": "https://www.carrier.com/residential/en/us/warranty-lookup"
       },
       {
         "manufacturer_id": "carrier",
@@ -2565,6 +2691,20 @@
         "specialty_tags": [],
         "notes": "Daikin Applied service dispatch line for equipment repair/support.",
         "source": "daikinapplied.com maintain & repair page"
+      },
+      {
+        "manufacturer_id": "daikin-one",
+        "manufacturer_name": "Daikin One",
+        "category": "hvac",
+        "department": "Technical Support",
+        "phone": "+18553245461",
+        "country": "US",
+        "regions": [],
+        "timezone": null,
+        "last_verified": "2026-10-24",
+        "specialty_tags": [],
+        "notes": "Imported from verified manufacturer spreadsheet (Oct 2026). Tech/support",
+        "source": "https://daikinone.com"
       },
       {
         "manufacturer_id": "daikin",
@@ -3041,6 +3181,34 @@
         "specialty_tags": [],
         "notes": "Imported from verified manufacturer spreadsheet (Oct 2026). Tech/support",
         "source": "https://hvacinsider.com/friedrich-launches-dedicated-spanish-speaking-technical-and-customer-service-line/"
+      },
+      {
+        "manufacturer_id": "fujitsu-controls-fujitsu-general",
+        "manufacturer_name": "Fujitsu Controls (Fujitsu General)",
+        "category": "hvac",
+        "department": "Technical Support",
+        "phone": "+18006264686",
+        "country": "US",
+        "regions": [],
+        "timezone": null,
+        "last_verified": "2026-10-24",
+        "specialty_tags": [],
+        "notes": "Imported from verified manufacturer spreadsheet (Oct 2026). Tech/support",
+        "source": "https://www.fujitsugeneral.com"
+      },
+      {
+        "manufacturer_id": "fujitsu-controls-fujitsu-general",
+        "manufacturer_name": "Fujitsu Controls (Fujitsu General)",
+        "category": "hvac",
+        "department": "General Support",
+        "phone": "+18888883424",
+        "country": "US",
+        "regions": [],
+        "timezone": null,
+        "last_verified": "2026-10-24",
+        "specialty_tags": [],
+        "notes": "General/customer support line from the verified manufacturer spreadsheet",
+        "source": "https://www.fujitsugeneral.com"
       },
       {
         "manufacturer_id": "fujitsu-general",
@@ -3671,6 +3839,90 @@
         "specialty_tags": [],
         "notes": "Factory Technical Support number listed on Laars service centers page.",
         "source": "laars.com service centers page"
+      },
+      {
+        "manufacturer_id": "lennox-commercial",
+        "manufacturer_name": "Lennox Commercial",
+        "category": "hvac",
+        "department": "Technical Support",
+        "phone": "+18004536669",
+        "country": "US",
+        "regions": [],
+        "timezone": null,
+        "last_verified": "2026-10-24",
+        "specialty_tags": [],
+        "notes": "Shares Lennox tech/customer lines from v1; commercial portal is lennoxcommercial.com.",
+        "source": "https://www.lennox.com/residential/contact-us/index"
+      },
+      {
+        "manufacturer_id": "lennox-commercial",
+        "manufacturer_name": "Lennox Commercial",
+        "category": "hvac",
+        "department": "General Support",
+        "phone": "+18009536669",
+        "country": "US",
+        "regions": [],
+        "timezone": null,
+        "last_verified": "2026-10-24",
+        "specialty_tags": [],
+        "notes": "General/customer support line from the verified manufacturer spreadsheet",
+        "source": "https://www.lennox.com/residential/contact-us/index"
+      },
+      {
+        "manufacturer_id": "lennox-icomfort",
+        "manufacturer_name": "Lennox iComfort",
+        "category": "hvac",
+        "department": "Technical Support",
+        "phone": "+18004536669",
+        "country": "US",
+        "regions": [],
+        "timezone": null,
+        "last_verified": "2026-10-24",
+        "specialty_tags": [],
+        "notes": "Imported from verified manufacturer spreadsheet (Oct 2026). Tech/support",
+        "source": "https://www.lennox.com/help/"
+      },
+      {
+        "manufacturer_id": "lennox-icomfort",
+        "manufacturer_name": "Lennox iComfort",
+        "category": "hvac",
+        "department": "General Support",
+        "phone": "+18009536669",
+        "country": "US",
+        "regions": [],
+        "timezone": null,
+        "last_verified": "2026-10-24",
+        "specialty_tags": [],
+        "notes": "General/customer support line from the verified manufacturer spreadsheet",
+        "source": "https://www.lennox.com/help/"
+      },
+      {
+        "manufacturer_id": "lennox-pureair",
+        "manufacturer_name": "Lennox PureAir",
+        "category": "hvac",
+        "department": "Technical Support",
+        "phone": "+18004536669",
+        "country": "US",
+        "regions": [],
+        "timezone": null,
+        "last_verified": "2026-10-24",
+        "specialty_tags": [],
+        "notes": "Imported from verified manufacturer spreadsheet (Oct 2026). Tech/support",
+        "source": "https://www.lennox.com/residential/contact-us/index"
+      },
+      {
+        "manufacturer_id": "lennox-pureair",
+        "manufacturer_name": "Lennox PureAir",
+        "category": "hvac",
+        "department": "General Support",
+        "phone": "+18009536669",
+        "country": "US",
+        "regions": [],
+        "timezone": null,
+        "last_verified": "2026-10-24",
+        "specialty_tags": [],
+        "notes": "General/customer support line from the verified manufacturer spreadsheet",
+        "source": "https://www.lennox.com/residential/contact-us/index"
       },
       {
         "manufacturer_id": "lennox",
@@ -4807,6 +5059,34 @@
         "source": "https://senville.com/terms/"
       },
       {
+        "manufacturer_id": "siemens-building-technologies-smart-infrastructure",
+        "manufacturer_name": "Siemens Building Technologies (Smart Infrastructure)",
+        "category": "hvac",
+        "department": "Technical Support",
+        "phone": "+18002487976",
+        "country": "US",
+        "regions": [],
+        "timezone": null,
+        "last_verified": "2026-10-24",
+        "specialty_tags": [],
+        "notes": "Division row - distinct from v1 Siemens electrical row. Fire-alarm tech",
+        "source": "https://www.siemens.com"
+      },
+      {
+        "manufacturer_id": "siemens-building-technologies-smart-infrastructure",
+        "manufacturer_name": "Siemens Building Technologies (Smart Infrastructure)",
+        "category": "hvac",
+        "department": "General Support",
+        "phone": "+18007436367",
+        "country": "US",
+        "regions": [],
+        "timezone": null,
+        "last_verified": "2026-10-24",
+        "specialty_tags": [],
+        "notes": "General/customer support line from the verified manufacturer spreadsheet",
+        "source": "https://www.siemens.com"
+      },
+      {
         "manufacturer_id": "sime",
         "manufacturer_name": "Sime",
         "category": "hvac",
@@ -5155,6 +5435,90 @@
         "specialty_tags": [],
         "notes": "Imported from verified manufacturer spreadsheet (Oct 2026). Tech/support",
         "source": "https://manuals.plus/jw/category/gree"
+      },
+      {
+        "manufacturer_id": "trane-cleaneffects",
+        "manufacturer_name": "Trane CleanEffects",
+        "category": "hvac",
+        "department": "Technical Support",
+        "phone": "+18552602975",
+        "country": "US",
+        "regions": [],
+        "timezone": null,
+        "last_verified": "2026-10-24",
+        "specialty_tags": [],
+        "notes": "Imported from verified manufacturer spreadsheet (Oct 2026). Tech/support",
+        "source": "https://www.trane.com/residential/en/contact-us/"
+      },
+      {
+        "manufacturer_id": "trane-cleaneffects",
+        "manufacturer_name": "Trane CleanEffects",
+        "category": "hvac",
+        "department": "General Support",
+        "phone": "+18332983493",
+        "country": "US",
+        "regions": [],
+        "timezone": null,
+        "last_verified": "2026-10-24",
+        "specialty_tags": [],
+        "notes": "General/customer support line from the verified manufacturer spreadsheet",
+        "source": "https://www.trane.com/residential/en/contact-us/"
+      },
+      {
+        "manufacturer_id": "trane-comfortlink-trane-home",
+        "manufacturer_name": "Trane ComfortLink / Trane Home",
+        "category": "hvac",
+        "department": "Technical Support",
+        "phone": "+18772887707",
+        "country": "US",
+        "regions": [],
+        "timezone": null,
+        "last_verified": "2026-10-24",
+        "specialty_tags": [],
+        "notes": "Imported from verified manufacturer spreadsheet (Oct 2026). Tech/support",
+        "source": "https://www.trane.com"
+      },
+      {
+        "manufacturer_id": "trane-comfortlink-trane-home",
+        "manufacturer_name": "Trane ComfortLink / Trane Home",
+        "category": "hvac",
+        "department": "General Support",
+        "phone": "+18332983493",
+        "country": "US",
+        "regions": [],
+        "timezone": null,
+        "last_verified": "2026-10-24",
+        "specialty_tags": [],
+        "notes": "General/customer support line from the verified manufacturer spreadsheet",
+        "source": "https://www.trane.com"
+      },
+      {
+        "manufacturer_id": "trane-commercial",
+        "manufacturer_name": "Trane Commercial",
+        "category": "hvac",
+        "department": "Technical Support",
+        "phone": "+18552602975",
+        "country": "US",
+        "regions": [],
+        "timezone": null,
+        "last_verified": "2026-10-24",
+        "specialty_tags": [],
+        "notes": "Imported from verified manufacturer spreadsheet (Oct 2026). Tech/support",
+        "source": "https://www.trane.com/residential/en/contact-us/"
+      },
+      {
+        "manufacturer_id": "trane-commercial",
+        "manufacturer_name": "Trane Commercial",
+        "category": "hvac",
+        "department": "General Support",
+        "phone": "+18332983493",
+        "country": "US",
+        "regions": [],
+        "timezone": null,
+        "last_verified": "2026-10-24",
+        "specialty_tags": [],
+        "notes": "General/customer support line from the verified manufacturer spreadsheet",
+        "source": "https://www.trane.com/residential/en/contact-us/"
       },
       {
         "manufacturer_id": "trane",
@@ -7245,6 +7609,20 @@
         "source": "https://www.muellercompany.com/contact/"
       },
       {
+        "manufacturer_id": "mueller-industries",
+        "manufacturer_name": "Mueller Industries",
+        "category": "plumbing",
+        "department": "Technical Support",
+        "phone": "+19017533200",
+        "country": "US",
+        "regions": [],
+        "timezone": null,
+        "last_verified": "2026-10-24",
+        "specialty_tags": [],
+        "notes": "Imported from verified manufacturer spreadsheet (Oct 2026). Tech/support",
+        "source": "https://www.muellerindustries.com/contact-us"
+      },
+      {
         "manufacturer_id": "mueller-streamline",
         "manufacturer_name": "Mueller Streamline Co.",
         "category": "plumbing",
@@ -8435,6 +8813,20 @@
         "specialty_tags": [],
         "notes": "General customer support line (manufacturer spreadsheet, Oct 2026).",
         "source": "https://aspenmfg.com/wp-content/uploads/2024/08/Aspen-Coil-BLComm-5-year-Warranty.pdf"
+      },
+      {
+        "manufacturer_id": "broan-nutone",
+        "manufacturer_name": "Broan-NuTone",
+        "category": "airflow",
+        "department": "Technical Support",
+        "phone": "+18005581711",
+        "country": "US",
+        "regions": [],
+        "timezone": null,
+        "last_verified": "2026-10-24",
+        "specialty_tags": [],
+        "notes": "Imported from verified manufacturer spreadsheet (Oct 2026). Tech/support",
+        "source": "https://manuals.plus/category/broan-nutone"
       },
       {
         "manufacturer_id": "continental-fan",

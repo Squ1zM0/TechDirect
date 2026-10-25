@@ -1,5 +1,5 @@
 {
-  "version": "2026-10-24",
+  "version": "2026-10-25",
   "manufacturers": [
     {
       "id": "3m-electrical",
@@ -352,6 +352,28 @@
           "specialty_tags": [],
           "notes": "Imported from verified manufacturer spreadsheet (Oct 2026). Tech/support",
           "source": "https://c.searspartsdirect.com/doc/1803052L"
+        }
+      ]
+    },
+    {
+      "id": "bryant-electrical-eaton",
+      "name": "Bryant Electrical (Eaton)",
+      "website": null,
+      "categories": [
+        "electrical"
+      ],
+      "support": [
+        {
+          "category": "electrical",
+          "department": "Technical Support",
+          "phone": "+18773862273",
+          "country": "US",
+          "regions": [],
+          "timezone": null,
+          "last_verified": "2026-10-24",
+          "specialty_tags": [],
+          "notes": "Eaton wiring-device line. Distinct from v1 Bryant HVAC (Carrier) row -",
+          "source": "https://www.eaton.com"
         }
       ]
     },
@@ -1026,6 +1048,28 @@
           "specialty_tags": [],
           "notes": "",
           "source": "https://www.hubbell.com/killark/en/contact-us"
+        }
+      ]
+    },
+    {
+      "id": "kohler-power",
+      "name": "Kohler Power",
+      "website": null,
+      "categories": [
+        "electrical"
+      ],
+      "support": [
+        {
+          "category": "electrical",
+          "department": "Technical Support",
+          "phone": "+18005442444",
+          "country": "US",
+          "regions": [],
+          "timezone": null,
+          "last_verified": "2026-10-23",
+          "specialty_tags": [],
+          "notes": "Imported from verified manufacturer spreadsheet (Oct 2026). Tech/support",
+          "source": "https://www.kohlergeneratordealer.com"
         }
       ]
     },
@@ -2062,6 +2106,28 @@
           "specialty_tags": [],
           "notes": "Professional/contractor technical support line (per source).",
           "source": "https://www.weidmuller.com/en-us/service_support/index.jsp"
+        }
+      ]
+    },
+    {
+      "id": "westinghouse-outdoor-power",
+      "name": "Westinghouse Outdoor Power",
+      "website": null,
+      "categories": [
+        "electrical"
+      ],
+      "support": [
+        {
+          "category": "electrical",
+          "department": "Technical Support",
+          "phone": "+18559443571",
+          "country": "US",
+          "regions": [],
+          "timezone": null,
+          "last_verified": "2026-10-24",
+          "specialty_tags": [],
+          "notes": "Imported from verified manufacturer spreadsheet (Oct 2026). Tech/support",
+          "source": "https://media.tractorsupply.com/is/content/TractorSupplyCompany/tsc/product/2/29/38/89/2293889_Man1.pdf"
         }
       ]
     },

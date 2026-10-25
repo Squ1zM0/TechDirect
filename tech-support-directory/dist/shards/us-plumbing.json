@@ -1,5 +1,5 @@
 {
-  "version": "2026-10-24",
+  "version": "2026-10-25",
   "manufacturers": [
     {
       "id": "aalberts-ips",
@@ -2419,6 +2419,28 @@
           "specialty_tags": [],
           "notes": "Water distribution valves, hydrants, and related products.",
           "source": "https://www.muellercompany.com/contact/"
+        }
+      ]
+    },
+    {
+      "id": "mueller-industries",
+      "name": "Mueller Industries",
+      "website": null,
+      "categories": [
+        "plumbing"
+      ],
+      "support": [
+        {
+          "category": "plumbing",
+          "department": "Technical Support",
+          "phone": "+19017533200",
+          "country": "US",
+          "regions": [],
+          "timezone": null,
+          "last_verified": "2026-10-24",
+          "specialty_tags": [],
+          "notes": "Imported from verified manufacturer spreadsheet (Oct 2026). Tech/support",
+          "source": "https://www.muellerindustries.com/contact-us"
         }
       ]
     },
