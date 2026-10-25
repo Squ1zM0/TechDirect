@@ -1,0 +1,18 @@
+id: lifebreath
+name: Lifebreath
+categories:
+- hvac
+aliases: []
+support:
+- category: hvac
+  department: Technical Support
+  phone: '+18552474200'
+  country: US
+  notes: 'Manufacturer-authored Lifebreath homeowner guides (Metro Series and MAX Series, Airia Brands
+    Inc., 511 McCormick Blvd., London, ON, Canada) label this number ''General Info/Tech Support: 1 855.
+    247 4200''; the same guides give it for warranty registration. Document copies hosted on manuals.plus
+    (third-party host) under Fred''s approved manufacturer-authored-documents tier; not confirmed on lifebreath.com
+    itself. Parent (spreadsheet): Lifebreath (Airia Brands). Do not use a Broan/Venmar number for this
+    brand. Spreadsheet source: https://www.lifebreath.com/.'
+  source: https://manuals.plus/m/0551d6cb32e0ecba8e9495f4e15442e57de21e8afc1121b422cbac1e183af806
+  last_verified: '2026-10-25'

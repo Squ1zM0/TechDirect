@@ -1,0 +1,21 @@
+id: emi
+name: EMI / EnviroMaster International
+categories:
+- hvac
+aliases: []
+support:
+- category: hvac
+  department: Technical Support
+  phone: '+18002289364'
+  country: US
+  notes: 'Manufacturer-authored EMI AmericaSeries installation/operation manuals (EnviroMaster International
+    LLC, 5780 Success Dr., Rome, NY 13440): ''Our technical service department may be contacted at 1-800-228-9364.''
+    Explicitly labelled a technical service line, filed as Technical Support. Currency caveat: the manuals
+    found are older (2005-era revisions) and the current enviromaster.com site shows no phone, so a live-dial
+    check is recommended before relying on it. Manual fetched from emiretroaire.com, the manufacturer''s
+    own RetroAire document host. This is EnviroMaster International LLC, Rome, NY, not Enviro-Master the
+    janitorial company. An older alternate number (315-336-3716) was not confirmed in a manufacturer-authored
+    document this session and is not published here. Parent (spreadsheet): EnviroMaster International
+    (EMI). Spreadsheet source: https://www.enviromaster.com/.'
+  source: https://emiretroaire.com/sites/default/files/61.pdf
+  last_verified: '2026-10-25'

@@ -1,0 +1,19 @@
+id: bryan-steam
+name: Bryan Steam
+categories:
+- boilers
+aliases: []
+support:
+- category: boilers
+  department: Customer Support
+  phone: '+17654736651'
+  country: US
+  notes: 'Manufacturer-authored Bryan Steam LLC installation/operation manuals (783 N. Chili Avenue, Peru,
+    IN 46970): 2002/2003 boiler manuals and the Free Flex manual (Form 2435 Rev. 9, dated 9-1-2017) all
+    give ''Phone: 765-473-6651''. Unlabelled company phone, filed as Customer Support. Currency caveat:
+    the newest manufacturer document found is 2017 and the current bryanboilers.com site shows no phone,
+    so a live-dial check is recommended before relying on it. Manual copies hosted on third-party hosts
+    (manualmachine.com, guidespdf) under the approved tier. Not Bryan Boiler & Burner Co (Post Falls,
+    ID). Parent (spreadsheet): Bryan Steam LLC. Spreadsheet source: https://www.bryanboilers.com/.'
+  source: https://cdn2.guidespdf.com/view/955/955332-ff1000.pdf
+  last_verified: '2026-10-25'

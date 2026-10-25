@@ -1,0 +1,28 @@
+id: dust-free
+name: Dust Free
+categories:
+- hvac
+aliases: []
+support:
+- category: hvac
+  department: Customer Support
+  phone: '+18004411107'
+  country: US
+  notes: 'Manufacturer-authored Dust Free specification sheet / catalog: ''Dust Free, LP, PO Box 519,
+    Royse City, TX 75189, 800-441-1107, www.dustfree.com''. Unlabelled general contact, filed as Customer
+    Support. Document hosted on a third-party host (cloudfront copy of the manufacturer spec sheet) under
+    the approved manufacturer-authored-documents tier; not confirmed on dustfree.com itself. This is Dust
+    Free LP, Royse City, TX, not Dust Free PC (Jacksonville). Parent (spreadsheet): Dust Free (Dust Free
+    LP). Spreadsheet source: https://www.dustfree.com/.'
+  source: https://d1gwoui0vzuwqz.cloudfront.net/userfiles/documents/product/d/dust_free_13070_specification_sheet.pdf
+  last_verified: '2026-10-25'
+- category: hvac
+  department: Customer Support
+  phone: '+19726359564'
+  country: US
+  notes: 'Manufacturer-authored Dust Free 13070 Active Total Home Air Purification instruction manual:
+    ''Dust Free, PO Box 519, 1112 Industrial Park Drive, Royse City, TX 75189, 1-972-635-9564, www.dustfree.com'',
+    given for factory questions on use, care, and warranty. Factory-direct number; unlabelled, filed as
+    Customer Support. Manual copy hosted on manuals.plus (third-party host) under the approved tier.'
+  source: https://manuals.plus/m/5caaf6f7665d1f8961f01eaf9fb4a2abe5c32bb447f0c29958f9acf1ebe6ebdf
+  last_verified: '2026-10-25'

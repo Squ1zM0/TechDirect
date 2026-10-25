@@ -1,0 +1,19 @@
+id: vapor-power
+name: Vapor Power
+categories:
+- boilers
+aliases: []
+support:
+- category: boilers
+  department: Customer Support
+  phone: '+16306945500'
+  country: US
+  notes: 'Manufacturer-authored Vapor Power International manuals: STR electric steam boiler O&M manual
+    (''Vapor Power International LLC, 551 S County Line Road, Franklin Park, IL 60115, Phone: 630-694-5500'')
+    and Circulatic steam generator installation manual (July 2005, ''P: 630.694.5500''). Unlabelled company
+    phone, filed as Customer Support. Manual copies hosted on third-party hosts (jmcic.com, docslib) under
+    the approved manufacturer-authored-documents tier; not confirmed on vaporpower.com itself. A toll-free
+    number is also reported elsewhere but was not confirmed in a manufacturer-authored document this session
+    and is not published here. Parent (spreadsheet): Vapor Power International. Spreadsheet source: https://www.vaporpower.com/.'
+  source: https://www.jmcic.com/Documentation/Document/G1waEZ/Electric-Steam-Boiler-Manual-2015.pdf
+  last_verified: '2026-10-25'

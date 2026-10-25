@@ -1,0 +1,21 @@
+id: kysor-warren
+name: Kysor Warren
+categories:
+- hvac
+aliases: []
+support:
+- category: hvac
+  department: Technical Support
+  phone: '+18008665596'
+  country: US
+  notes: 'Manufacturer-authored Kysor Warren manuals, independently fetched this session: the LD1C1A merchandiser
+    I&O manual lists ''Technical Sales Support, Kysor/Warren, 5201 Transport Blvd, Columbus, GA 31907,
+    800-866-5596 phone'', and the GranValdaj technical manual says ''Should it be necessary to contact
+    technical assistance, contact Kysor Warren immediately: phone number: 1-800-866-5596, email: KWParts@kysorwarren.com''.
+    Labelled technical assistance/sales support, filed as Technical Support. Manual copies hosted on third-party
+    hosts (servls, guidespdf) under the approved manufacturer-authored-documents tier; not confirmed on
+    kysorwarren.com itself. Parent correction: Kysor Warren joined the Epta Group in 2019 (its own About
+    page and Epta-branded manuals), NOT Panasonic/Hussmann as the spreadsheet row states. Parent (spreadsheet,
+    corrected): Kysor Warren (Epta Group). Spreadsheet source: https://www.kysorwarren.com/.'
+  source: https://cdn2.servls.com/view/940/940984-ld1c1a.pdf
+  last_verified: '2026-10-25'

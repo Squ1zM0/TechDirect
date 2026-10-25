@@ -1,0 +1,18 @@
+id: marey
+name: Marey
+categories:
+- water-heaters
+aliases: []
+support:
+- category: water-heaters
+  department: Customer Support
+  phone: '+18556273955'
+  country: US
+  notes: 'Manufacturer-authored Marey Heater Corp. manuals: the GA14CSALP instruction manual says ''call
+    Marey Heater Corp. toll free service and support line at 1-855-627-3955'', and the GA24CSA user guide
+    lists ''Customer Support: Phone: 1-855-627-3955''. Filed as Customer Support per the brand''s own
+    label. Manual copies hosted on manuals.plus (third-party host) under the approved manufacturer-authored-documents
+    tier; not confirmed on marey.com itself. Parent (spreadsheet): Marey Heater Corp. Spreadsheet source:
+    https://www.marey.com/.'
+  source: https://manuals.plus/marey/ga14csalp-gas-tankless-water-heater-manual
+  last_verified: '2026-10-25'

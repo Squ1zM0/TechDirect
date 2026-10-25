@@ -1,0 +1,19 @@
+id: refplus
+name: RefPlus
+categories:
+- hvac
+aliases: []
+support:
+- category: hvac
+  department: Customer Support
+  phone: '+18888162665'
+  country: US
+  notes: 'Manufacturer-authored, RefPlus-copyrighted documents: the UDA catalog (CATALOG_UDA_EN-R3, Copyright
+    2022 by RefPlus Inc.) and RefPlus IOMs give ''USA & CANADA 1-888-816-2665 / refplus.com'', address
+    2777 Grande-Allee, Saint-Hubert, Quebec, Canada. Unlabelled general line, filed as Customer Support.
+    Documents hosted by distributor master.ca (third-party host) under the approved manufacturer-authored-documents
+    tier; not confirmed on refplus.com itself. The Quebec direct number 450-641-2665 appears in the same
+    documents but is a Canadian direct line, so it is noted here only and not published as a structured
+    US entry. Parent (spreadsheet): RefPlus Inc. Spreadsheet source: https://www.refplus.com/.'
+  source: https://www.master.ca/media/akeneo_connector/asset_files/C/A/CATALOG_UDA_EN_R2_anglais_fr_CA_a356.pdf
+  last_verified: '2026-10-25'
