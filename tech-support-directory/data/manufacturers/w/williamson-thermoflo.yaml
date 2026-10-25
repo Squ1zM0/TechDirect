@@ -1,0 +1,15 @@
+id: williamson-thermoflo
+name: Williamson-Thermoflo
+categories:
+- boilers
+- hvac
+- hydronics
+aliases: []
+support:
+- category: boilers
+  department: Warranty Support
+  phone: '+18888210124'
+  country: US
+  notes: 'Imported from verified manufacturer spreadsheet (Oct 2026). WARRANTY-ONLY number, published per Fred''s Oct 25, 2026 finish-up approval, following the Kolpak/ThermalRite precedent: the official Williamson-Thermoflo warranty documents (williamson-thermoflo.com) state ''you may contact the Warranty Center, 523 S New Street, Eden, NC, 27288, or call 888-821-0124, or email wt.warranty@williamsonthermoflo.com''. This is NOT a tech line. The official FAQ confirms a technical service department exists but gives no number and routes everyone through distributors (''your contractor can contact our technical service department for assistance''); no tech/general number is published here. Parent (spreadsheet): Williamson-Thermoflo (ECR / Mestek family - verify at merge). Spreadsheet source: https://www.williamson-thermoflo.com/.'
+  source: https://www.williamson-thermoflo.com/williamson/wp-content/uploads/sites/2/2024/08/WT-GL-Water-Heater-Commercial-Warranty-550141040_1019.pdf
+  last_verified: '2026-10-25'
