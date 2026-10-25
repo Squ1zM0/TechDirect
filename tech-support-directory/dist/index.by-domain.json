@@ -927,6 +927,48 @@
         "source": "http://prodrep.mrsteam.com/DocumentResources/8b746e59-032c-4384-9c5e-eb5f75451217.pdf"
       },
       {
+        "manufacturer_id": "mtu-onsite-energy",
+        "manufacturer_name": "MTU Onsite Energy",
+        "category": "electrical",
+        "department": "Customer Support",
+        "phone": "+12485608888",
+        "country": "US",
+        "regions": [],
+        "timezone": null,
+        "last_verified": "2026-10-25",
+        "specialty_tags": [],
+        "notes": "Imported from verified manufacturer spreadsheet (Oct 2026). SUCCESSOR ROUTE, flagged: the MTU",
+        "source": "https://www.mtu-solutions.com/eu/en/contact/customer-assistance-center.html"
+      },
+      {
+        "manufacturer_id": "multiquip",
+        "manufacturer_name": "Multiquip",
+        "category": "electrical",
+        "department": "Technical Support - Power Solutions",
+        "phone": "+18008352551",
+        "country": "US",
+        "regions": [],
+        "timezone": null,
+        "last_verified": "2026-10-25",
+        "specialty_tags": [],
+        "notes": "Imported from verified manufacturer spreadsheet (Oct 2026). Hours: Monday-Friday 5AM-5PM (PST).",
+        "source": "http://www.multiquip.com/multiquip/contactus.htm"
+      },
+      {
+        "manufacturer_id": "multiquip",
+        "manufacturer_name": "Multiquip",
+        "category": "electrical",
+        "department": "Technical Support - Construction & Lighting",
+        "phone": "+18886618992",
+        "country": "US",
+        "regions": [],
+        "timezone": null,
+        "last_verified": "2026-10-25",
+        "specialty_tags": [],
+        "notes": "Second Multiquip technical support division on the same official contact page. Hours: Monday-Friday",
+        "source": "http://www.multiquip.com/multiquip/contactus.htm"
+      },
+      {
         "manufacturer_id": "murray-siemens",
         "manufacturer_name": "Murray (Siemens)",
         "category": "electrical",
@@ -1415,6 +1457,20 @@
         "specialty_tags": [],
         "notes": "Professional/contractor technical support line (per source).",
         "source": "https://www.wieland-electric.com/en/company/contact/"
+      },
+      {
+        "manufacturer_id": "winco",
+        "manufacturer_name": "Winco",
+        "category": "electrical",
+        "department": "Technical Support",
+        "phone": "+15073576831",
+        "country": "US",
+        "regions": [],
+        "timezone": null,
+        "last_verified": "2026-10-25",
+        "specialty_tags": [],
+        "notes": "Imported from verified manufacturer spreadsheet (Oct 2026). Technical Support: extension 3 on",
+        "source": "https://www.wincogen.com/category/productinformation/page/2/"
       },
       {
         "manufacturer_id": "yaskawa-motoman",
@@ -2301,6 +2357,20 @@
         "source": "https://carlincombustion.com/contact-us/technical-support/"
       },
       {
+        "manufacturer_id": "carlyle",
+        "manufacturer_name": "Carlyle",
+        "category": "hvac",
+        "department": "Technical Support",
+        "phone": "+18004622759",
+        "country": "US",
+        "regions": [],
+        "timezone": null,
+        "last_verified": "2026-10-25",
+        "specialty_tags": [],
+        "notes": "Imported from verified manufacturer spreadsheet (Oct 2026). Carlyle Service Guide 06D/06E/06CC",
+        "source": "https://econtent.adhq.com/dam/Original/126/Carrier_RCD_05GA502213_Catalog.pdf"
+      },
+      {
         "manufacturer_id": "carrier-commercial",
         "manufacturer_name": "Carrier Commercial",
         "category": "hvac",
@@ -3113,6 +3183,20 @@
         "source": "https://www.fieldpiece.com"
       },
       {
+        "manufacturer_id": "first-company",
+        "manufacturer_name": "First Company",
+        "category": "hvac",
+        "department": "Customer Support",
+        "phone": "+12143885751",
+        "country": "US",
+        "regions": [],
+        "timezone": null,
+        "last_verified": "2026-10-25",
+        "specialty_tags": [],
+        "notes": "Imported from verified manufacturer spreadsheet (Oct 2026). Company''s published contact in",
+        "source": "https://firstco.com/case-studies/?page=2"
+      },
+      {
         "manufacturer_id": "flaktgroup-semco",
         "manufacturer_name": "Fl\\xE4ktGroup SEMCO",
         "category": "hvac",
@@ -3153,6 +3237,20 @@
         "specialty_tags": [],
         "notes": "Expansion tanks / hydronic accessories support.",
         "source": "https://www.flexcon.com/contact-us"
+      },
+      {
+        "manufacturer_id": "frascold",
+        "manufacturer_name": "Frascold",
+        "category": "hvac",
+        "department": "Customer Support",
+        "phone": "+14253092326",
+        "country": "US",
+        "regions": [],
+        "timezone": null,
+        "last_verified": "2026-10-25",
+        "specialty_tags": [],
+        "notes": "Imported from verified manufacturer spreadsheet (Oct 2026). Frascold USA, 5343 Bowden Road,",
+        "source": "https://www.frascold.it/en/contact-us"
       },
       {
         "manufacturer_id": "fresh-aire-uv",
@@ -3237,6 +3335,20 @@
         "specialty_tags": [],
         "notes": "Main line; after-hours emergency assistance routes via prompts.",
         "source": "https://www.fulton.com/contact/"
+      },
+      {
+        "manufacturer_id": "generalaire",
+        "manufacturer_name": "GeneralAire",
+        "category": "hvac",
+        "department": "Customer Support",
+        "phone": "+18664765101",
+        "country": "US",
+        "regions": [],
+        "timezone": null,
+        "last_verified": "2026-10-25",
+        "specialty_tags": [],
+        "notes": "Imported from verified manufacturer spreadsheet (Oct 2026). Toll-free number published in a",
+        "source": "https://www.generalfilters.com/cm/dpl/downloads/content/118/15101_MAC-L_4540_Installation_Manual.pdf"
       },
       {
         "manufacturer_id": "genteq",
@@ -3477,6 +3589,20 @@
         "source": "heatcraftrpd.com customer support"
       },
       {
+        "manufacturer_id": "hi-velocity-systems",
+        "manufacturer_name": "Hi-Velocity Systems",
+        "category": "hvac",
+        "department": "Customer Support",
+        "phone": "+18886522219",
+        "country": "US",
+        "regions": [],
+        "timezone": null,
+        "last_verified": "2026-10-25",
+        "specialty_tags": [],
+        "notes": "Imported from verified manufacturer spreadsheet (Oct 2026). Toll-free number published on hi-velocity.com;",
+        "source": "https://www.hi-velocity.com/mptext.htm"
+      },
+      {
         "manufacturer_id": "hillphoenix",
         "manufacturer_name": "Hillphoenix",
         "category": "hvac",
@@ -3659,6 +3785,20 @@
         "source": "https://enertechusa.com/partners/heat-pumps"
       },
       {
+        "manufacturer_id": "ice-air",
+        "manufacturer_name": "Ice Air",
+        "category": "hvac",
+        "department": "Customer Support",
+        "phone": "+18774232471",
+        "country": "US",
+        "regions": [],
+        "timezone": null,
+        "last_verified": "2026-10-25",
+        "specialty_tags": [],
+        "notes": "Imported from verified manufacturer spreadsheet (Oct 2026). Company''s published toll-free contact",
+        "source": "http://www.ice-air.com/wp-content/uploads/ice-air-wshp-chpw-product-sheet.pdf"
+      },
+      {
         "manufacturer_id": "ice-o-matic",
         "manufacturer_name": "Ice-O-Matic",
         "category": "hvac",
@@ -3785,6 +3925,20 @@
         "source": "https://pdf.directindustry.com/pdf/koch-filter-corporation/multi-cell/100863-929196.html"
       },
       {
+        "manufacturer_id": "kolpak",
+        "manufacturer_name": "Kolpak",
+        "category": "hvac",
+        "department": "Warranty Support",
+        "phone": "+18002259916",
+        "country": "US",
+        "regions": [],
+        "timezone": null,
+        "last_verified": "2026-10-25",
+        "specialty_tags": [],
+        "notes": "Imported from verified manufacturer spreadsheet (Oct 2026). Kolpak''s own current Installation,",
+        "source": "https://direct.kolpak.com/asset/?id=rfwjj&regions=aw&prefLang=en-US&download=true"
+      },
+      {
         "manufacturer_id": "krack-hussmann",
         "manufacturer_name": "Krack (Hussmann)",
         "category": "hvac",
@@ -3839,6 +3993,34 @@
         "specialty_tags": [],
         "notes": "Factory Technical Support number listed on Laars service centers page.",
         "source": "laars.com service centers page"
+      },
+      {
+        "manufacturer_id": "larkin",
+        "manufacturer_name": "Larkin",
+        "category": "hvac",
+        "department": "Customer Support",
+        "phone": "+18005377775",
+        "country": "US",
+        "regions": [],
+        "timezone": null,
+        "last_verified": "2026-10-25",
+        "specialty_tags": [],
+        "notes": "Imported from verified manufacturer spreadsheet (Oct 2026). Larkin is a Heatcraft brand: the",
+        "source": "https://www.heatcraftrpd.com/products/c/larkin.LEL0100BS6EEAB0000/"
+      },
+      {
+        "manufacturer_id": "larkin",
+        "manufacturer_name": "Larkin",
+        "category": "hvac",
+        "department": "Warranty Support",
+        "phone": "+18003211881",
+        "country": "US",
+        "regions": [],
+        "timezone": null,
+        "last_verified": "2026-10-25",
+        "specialty_tags": [],
+        "notes": "Heatcraft warranty department, Option 5, per Heatcraft's own FAQ document; Customer Service Option",
+        "source": "https://assets.heatcraftrpd.com/training-assets/hccp/hccp_faq.pdf"
       },
       {
         "manufacturer_id": "lennox-commercial",
@@ -4905,6 +5087,34 @@
         "source": "ruskin.com contact/FAQ pages"
       },
       {
+        "manufacturer_id": "russell",
+        "manufacturer_name": "Russell",
+        "category": "hvac",
+        "department": "Customer Support",
+        "phone": "+18002889488",
+        "country": "US",
+        "regions": [],
+        "timezone": null,
+        "last_verified": "2026-10-25",
+        "specialty_tags": [],
+        "notes": "Imported from verified manufacturer spreadsheet (Oct 2026). Hours: Monday-Friday 7:00 a.m.-6:30",
+        "source": "https://russell.htpg.com/faqs"
+      },
+      {
+        "manufacturer_id": "russell",
+        "manufacturer_name": "Russell",
+        "category": "hvac",
+        "department": "Parts Support",
+        "phone": "+18554872787",
+        "country": "US",
+        "regions": [],
+        "timezone": null,
+        "last_verified": "2026-10-25",
+        "specialty_tags": [],
+        "notes": "HTPG Parts, published as 1-855-HTPARTS on the same Russell FAQ page; email parts@htpgusa.com.",
+        "source": "https://russell.htpg.com/faqs"
+      },
+      {
         "manufacturer_id": "ruud",
         "manufacturer_name": "Ruud",
         "category": "hvac",
@@ -5199,6 +5409,20 @@
         "source": "spxcooling.com emergency service page"
       },
       {
+        "manufacturer_id": "sterling-hvac",
+        "manufacturer_name": "Sterling HVAC",
+        "category": "hvac",
+        "department": "Customer Support",
+        "phone": "+18004902290",
+        "country": "US",
+        "regions": [],
+        "timezone": null,
+        "last_verified": "2026-10-25",
+        "specialty_tags": [],
+        "notes": "Imported from verified manufacturer spreadsheet (Oct 2026). Company''s published toll-free contact,",
+        "source": "http://www.sterlinghvac.com/Products/Details/HS-SERIES"
+      },
+      {
         "manufacturer_id": "stiebel-eltron",
         "manufacturer_name": "Stiebel Eltron USA",
         "category": "hvac",
@@ -5407,6 +5631,20 @@
         "specialty_tags": [],
         "notes": "Hydronic boilers",
         "source": "https://www.thermalsolutions.com/contact/"
+      },
+      {
+        "manufacturer_id": "thermalrite",
+        "manufacturer_name": "ThermalRite",
+        "category": "hvac",
+        "department": "Warranty Support",
+        "phone": "+18882271629",
+        "country": "US",
+        "regions": [],
+        "timezone": null,
+        "last_verified": "2026-10-25",
+        "specialty_tags": [],
+        "notes": "Imported from verified manufacturer spreadsheet (Oct 2026). Everidge ThermalRite warranty document",
+        "source": "https://www.everidge.com/wp-content/uploads/2026/06/ThermalRite-Warranty_EV5022.pdf"
       },
       {
         "manufacturer_id": "titus-hvac",
@@ -9369,6 +9607,20 @@
         "source": "https://industrial-boilers.com/electro-industries-inc/"
       },
       {
+        "manufacturer_id": "hydrotherm",
+        "manufacturer_name": "HydroTherm",
+        "category": "boilers",
+        "department": "Customer Support",
+        "phone": "+14135645515",
+        "country": "US",
+        "regions": [],
+        "timezone": null,
+        "last_verified": "2026-10-25",
+        "specialty_tags": [],
+        "notes": "Imported from verified manufacturer spreadsheet (Oct 2026). Mestek literature manual (KN Series",
+        "source": "https://www.literature.mestek.com/dms/Hydrotherm%20Boilers/KN%20Series%20Plus%20IOM%20(KNP-IOM-0319).pdf"
+      },
+      {
         "manufacturer_id": "ibc",
         "manufacturer_name": "IBC",
         "category": "boilers",
@@ -9553,6 +9805,20 @@
         "specialty_tags": [],
         "notes": "General customer support line (manufacturer spreadsheet, Oct 2026).",
         "source": "https://www.intellihot.com/wp-content/uploads/2022/12/Gen-II-Trouble-Shooting-Guide-11-22-2021.pdf"
+      },
+      {
+        "manufacturer_id": "titan-tankless",
+        "manufacturer_name": "Titan Tankless",
+        "category": "water-heaters",
+        "department": "Customer Support",
+        "phone": "+18886978456",
+        "country": "US",
+        "regions": [],
+        "timezone": null,
+        "last_verified": "2026-10-25",
+        "specialty_tags": [],
+        "notes": "Imported from verified manufacturer spreadsheet (Oct 2026). Site-wide ''Call us'' number on",
+        "source": "http://www.titanheater.com/proddetail.php?prod=N-210"
       }
     ]
   }

@@ -1189,6 +1189,28 @@
       ]
     },
     {
+      "id": "carlyle",
+      "name": "Carlyle",
+      "website": null,
+      "categories": [
+        "hvac"
+      ],
+      "support": [
+        {
+          "category": "hvac",
+          "department": "Technical Support",
+          "phone": "+18004622759",
+          "country": "US",
+          "regions": [],
+          "timezone": null,
+          "last_verified": "2026-10-25",
+          "specialty_tags": [],
+          "notes": "Imported from verified manufacturer spreadsheet (Oct 2026). Carlyle Service Guide 06D/06E/06CC",
+          "source": "https://econtent.adhq.com/dam/Original/126/Carrier_RCD_05GA502213_Catalog.pdf"
+        }
+      ]
+    },
+    {
       "id": "carrier-commercial",
       "name": "Carrier Commercial",
       "website": null,
@@ -2378,6 +2400,28 @@
       ]
     },
     {
+      "id": "first-company",
+      "name": "First Company",
+      "website": null,
+      "categories": [
+        "hvac"
+      ],
+      "support": [
+        {
+          "category": "hvac",
+          "department": "Customer Support",
+          "phone": "+12143885751",
+          "country": "US",
+          "regions": [],
+          "timezone": null,
+          "last_verified": "2026-10-25",
+          "specialty_tags": [],
+          "notes": "Imported from verified manufacturer spreadsheet (Oct 2026). Company''s published contact in",
+          "source": "https://firstco.com/case-studies/?page=2"
+        }
+      ]
+    },
+    {
       "id": "flaktgroup-semco",
       "name": "Fl\\xE4ktGroup SEMCO",
       "website": "https://www.semcohvac.com/",
@@ -2440,6 +2484,28 @@
           "specialty_tags": [],
           "notes": "Expansion tanks / hydronic accessories support.",
           "source": "https://www.flexcon.com/contact-us"
+        }
+      ]
+    },
+    {
+      "id": "frascold",
+      "name": "Frascold",
+      "website": null,
+      "categories": [
+        "hvac"
+      ],
+      "support": [
+        {
+          "category": "hvac",
+          "department": "Customer Support",
+          "phone": "+14253092326",
+          "country": "US",
+          "regions": [],
+          "timezone": null,
+          "last_verified": "2026-10-25",
+          "specialty_tags": [],
+          "notes": "Imported from verified manufacturer spreadsheet (Oct 2026). Frascold USA, 5343 Bowden Road,",
+          "source": "https://www.frascold.it/en/contact-us"
         }
       ]
     },
@@ -2562,6 +2628,28 @@
           "specialty_tags": [],
           "notes": "Main line; after-hours emergency assistance routes via prompts.",
           "source": "https://www.fulton.com/contact/"
+        }
+      ]
+    },
+    {
+      "id": "generalaire",
+      "name": "GeneralAire",
+      "website": null,
+      "categories": [
+        "hvac"
+      ],
+      "support": [
+        {
+          "category": "hvac",
+          "department": "Customer Support",
+          "phone": "+18664765101",
+          "country": "US",
+          "regions": [],
+          "timezone": null,
+          "last_verified": "2026-10-25",
+          "specialty_tags": [],
+          "notes": "Imported from verified manufacturer spreadsheet (Oct 2026). Toll-free number published in a",
+          "source": "https://www.generalfilters.com/cm/dpl/downloads/content/118/15101_MAC-L_4540_Installation_Manual.pdf"
         }
       ]
     },
@@ -2930,6 +3018,28 @@
       ]
     },
     {
+      "id": "hi-velocity-systems",
+      "name": "Hi-Velocity Systems",
+      "website": null,
+      "categories": [
+        "hvac"
+      ],
+      "support": [
+        {
+          "category": "hvac",
+          "department": "Customer Support",
+          "phone": "+18886522219",
+          "country": "US",
+          "regions": [],
+          "timezone": null,
+          "last_verified": "2026-10-25",
+          "specialty_tags": [],
+          "notes": "Imported from verified manufacturer spreadsheet (Oct 2026). Toll-free number published on hi-velocity.com;",
+          "source": "https://www.hi-velocity.com/mptext.htm"
+        }
+      ]
+    },
+    {
       "id": "hillphoenix",
       "name": "Hillphoenix",
       "website": null,
@@ -3197,6 +3307,28 @@
       ]
     },
     {
+      "id": "ice-air",
+      "name": "Ice Air",
+      "website": null,
+      "categories": [
+        "hvac"
+      ],
+      "support": [
+        {
+          "category": "hvac",
+          "department": "Customer Support",
+          "phone": "+18774232471",
+          "country": "US",
+          "regions": [],
+          "timezone": null,
+          "last_verified": "2026-10-25",
+          "specialty_tags": [],
+          "notes": "Imported from verified manufacturer spreadsheet (Oct 2026). Company''s published toll-free contact",
+          "source": "http://www.ice-air.com/wp-content/uploads/ice-air-wshp-chpw-product-sheet.pdf"
+        }
+      ]
+    },
+    {
       "id": "ice-o-matic",
       "name": "Ice-O-Matic",
       "website": "https://www.iceomatic.com/",
@@ -3385,6 +3517,28 @@
       ]
     },
     {
+      "id": "kolpak",
+      "name": "Kolpak",
+      "website": null,
+      "categories": [
+        "hvac"
+      ],
+      "support": [
+        {
+          "category": "hvac",
+          "department": "Warranty Support",
+          "phone": "+18002259916",
+          "country": "US",
+          "regions": [],
+          "timezone": null,
+          "last_verified": "2026-10-25",
+          "specialty_tags": [],
+          "notes": "Imported from verified manufacturer spreadsheet (Oct 2026). Kolpak''s own current Installation,",
+          "source": "https://direct.kolpak.com/asset/?id=rfwjj&regions=aw&prefLang=en-US&download=true"
+        }
+      ]
+    },
+    {
       "id": "krack-hussmann",
       "name": "Krack (Hussmann)",
       "website": null,
@@ -3459,6 +3613,40 @@
           "specialty_tags": [],
           "notes": "Factory Technical Support number listed on Laars service centers page.",
           "source": "laars.com service centers page"
+        }
+      ]
+    },
+    {
+      "id": "larkin",
+      "name": "Larkin",
+      "website": null,
+      "categories": [
+        "hvac"
+      ],
+      "support": [
+        {
+          "category": "hvac",
+          "department": "Customer Support",
+          "phone": "+18005377775",
+          "country": "US",
+          "regions": [],
+          "timezone": null,
+          "last_verified": "2026-10-25",
+          "specialty_tags": [],
+          "notes": "Imported from verified manufacturer spreadsheet (Oct 2026). Larkin is a Heatcraft brand: the",
+          "source": "https://www.heatcraftrpd.com/products/c/larkin.LEL0100BS6EEAB0000/"
+        },
+        {
+          "category": "hvac",
+          "department": "Warranty Support",
+          "phone": "+18003211881",
+          "country": "US",
+          "regions": [],
+          "timezone": null,
+          "last_verified": "2026-10-25",
+          "specialty_tags": [],
+          "notes": "Heatcraft warranty department, Option 5, per Heatcraft's own FAQ document; Customer Service Option",
+          "source": "https://assets.heatcraftrpd.com/training-assets/hccp/hccp_faq.pdf"
         }
       ]
     },
@@ -5019,6 +5207,40 @@
       ]
     },
     {
+      "id": "russell",
+      "name": "Russell",
+      "website": null,
+      "categories": [
+        "hvac"
+      ],
+      "support": [
+        {
+          "category": "hvac",
+          "department": "Customer Support",
+          "phone": "+18002889488",
+          "country": "US",
+          "regions": [],
+          "timezone": null,
+          "last_verified": "2026-10-25",
+          "specialty_tags": [],
+          "notes": "Imported from verified manufacturer spreadsheet (Oct 2026). Hours: Monday-Friday 7:00 a.m.-6:30",
+          "source": "https://russell.htpg.com/faqs"
+        },
+        {
+          "category": "hvac",
+          "department": "Parts Support",
+          "phone": "+18554872787",
+          "country": "US",
+          "regions": [],
+          "timezone": null,
+          "last_verified": "2026-10-25",
+          "specialty_tags": [],
+          "notes": "HTPG Parts, published as 1-855-HTPARTS on the same Russell FAQ page; email parts@htpgusa.com.",
+          "source": "https://russell.htpg.com/faqs"
+        }
+      ]
+    },
+    {
       "id": "ruud",
       "name": "Ruud",
       "website": "https://www.ruud.com/",
@@ -5428,6 +5650,28 @@
       ]
     },
     {
+      "id": "sterling-hvac",
+      "name": "Sterling HVAC",
+      "website": null,
+      "categories": [
+        "hvac"
+      ],
+      "support": [
+        {
+          "category": "hvac",
+          "department": "Customer Support",
+          "phone": "+18004902290",
+          "country": "US",
+          "regions": [],
+          "timezone": null,
+          "last_verified": "2026-10-25",
+          "specialty_tags": [],
+          "notes": "Imported from verified manufacturer spreadsheet (Oct 2026). Company''s published toll-free contact,",
+          "source": "http://www.sterlinghvac.com/Products/Details/HS-SERIES"
+        }
+      ]
+    },
+    {
       "id": "stiebel-eltron",
       "name": "Stiebel Eltron USA",
       "website": "https://www.stiebel-eltron-usa.com/contact-us",
@@ -5735,6 +5979,28 @@
           "specialty_tags": [],
           "notes": "Hydronic boilers",
           "source": "https://www.thermalsolutions.com/contact/"
+        }
+      ]
+    },
+    {
+      "id": "thermalrite",
+      "name": "ThermalRite",
+      "website": null,
+      "categories": [
+        "hvac"
+      ],
+      "support": [
+        {
+          "category": "hvac",
+          "department": "Warranty Support",
+          "phone": "+18882271629",
+          "country": "US",
+          "regions": [],
+          "timezone": null,
+          "last_verified": "2026-10-25",
+          "specialty_tags": [],
+          "notes": "Imported from verified manufacturer spreadsheet (Oct 2026). Everidge ThermalRite warranty document",
+          "source": "https://www.everidge.com/wp-content/uploads/2026/06/ThermalRite-Warranty_EV5022.pdf"
         }
       ]
     },

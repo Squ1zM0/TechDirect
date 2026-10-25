@@ -1404,6 +1404,62 @@
       ]
     },
     {
+      "id": "mtu-onsite-energy",
+      "name": "MTU Onsite Energy",
+      "website": null,
+      "categories": [
+        "electrical"
+      ],
+      "support": [
+        {
+          "category": "electrical",
+          "department": "Customer Support",
+          "phone": "+12485608888",
+          "country": "US",
+          "regions": [],
+          "timezone": null,
+          "last_verified": "2026-10-25",
+          "specialty_tags": [],
+          "notes": "Imported from verified manufacturer spreadsheet (Oct 2026). SUCCESSOR ROUTE, flagged: the MTU",
+          "source": "https://www.mtu-solutions.com/eu/en/contact/customer-assistance-center.html"
+        }
+      ]
+    },
+    {
+      "id": "multiquip",
+      "name": "Multiquip",
+      "website": null,
+      "categories": [
+        "electrical"
+      ],
+      "support": [
+        {
+          "category": "electrical",
+          "department": "Technical Support - Power Solutions",
+          "phone": "+18008352551",
+          "country": "US",
+          "regions": [],
+          "timezone": null,
+          "last_verified": "2026-10-25",
+          "specialty_tags": [],
+          "notes": "Imported from verified manufacturer spreadsheet (Oct 2026). Hours: Monday-Friday 5AM-5PM (PST).",
+          "source": "http://www.multiquip.com/multiquip/contactus.htm"
+        },
+        {
+          "category": "electrical",
+          "department": "Technical Support - Construction & Lighting",
+          "phone": "+18886618992",
+          "country": "US",
+          "regions": [],
+          "timezone": null,
+          "last_verified": "2026-10-25",
+          "specialty_tags": [],
+          "notes": "Second Multiquip technical support division on the same official contact page. Hours: Monday-Friday",
+          "source": "http://www.multiquip.com/multiquip/contactus.htm"
+        }
+      ]
+    },
+    {
       "id": "murray-siemens",
       "name": "Murray (Siemens)",
       "website": null,
@@ -2150,6 +2206,28 @@
           "specialty_tags": [],
           "notes": "Professional/contractor technical support line (per source).",
           "source": "https://www.wieland-electric.com/en/company/contact/"
+        }
+      ]
+    },
+    {
+      "id": "winco",
+      "name": "Winco",
+      "website": null,
+      "categories": [
+        "electrical"
+      ],
+      "support": [
+        {
+          "category": "electrical",
+          "department": "Technical Support",
+          "phone": "+15073576831",
+          "country": "US",
+          "regions": [],
+          "timezone": null,
+          "last_verified": "2026-10-25",
+          "specialty_tags": [],
+          "notes": "Imported from verified manufacturer spreadsheet (Oct 2026). Technical Support: extension 3 on",
+          "source": "https://www.wincogen.com/category/productinformation/page/2/"
         }
       ]
     },
