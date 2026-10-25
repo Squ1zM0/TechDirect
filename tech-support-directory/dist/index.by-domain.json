@@ -395,6 +395,20 @@
         "source": "https://www.cummins.com/support/electronic-service-tools-support"
       },
       {
+        "manufacturer_id": "doosan-portable-power",
+        "manufacturer_name": "Doosan Portable Power",
+        "category": "electrical",
+        "department": "Technical Support",
+        "phone": "+18006335206",
+        "country": "US",
+        "regions": [],
+        "timezone": null,
+        "last_verified": "2026-10-25",
+        "specialty_tags": [],
+        "notes": "Imported from verified manufacturer spreadsheet (Oct 2026). SUPERSEDED NUMBER, flagged, published per Fred''s Oct 25, 2026 approval: Doosan Bobcat North America''s July 29, 2024 safety recall letter (NHTSA 24V544) says ''please call Doosan Bobcat Portable Power Technical Services at 1-800-633-5206 Option #2'' (option in notes; base number in phone field); letterhead: ''1293 Glenway Drive, Statesville, NC 28625, T: 800-633-5206''. The number was still in manufacturer use in July 2024, AFTER the brand transition: Doosan Portable Power products were transitioned to Bobcat branding in 2023, and Bobcat''s current FAQ routes other support requests to the local dealer. A caller may therefore reach Bobcat or a dealer route rather than a Doosan-branded desk. Parent (spreadsheet): Doosan Portable Power (Doosan Bobcat). Spreadsheet source: https://www.doosanportablepower.com/.",
+        "source": "https://static.nhtsa.gov/odi/rcl/2024/RCMN-24V544-4362.pdf"
+      },
+      {
         "manufacturer_id": "dwyer-instruments",
         "manufacturer_name": "Dwyer Instruments",
         "category": "electrical",
@@ -673,6 +687,20 @@
         "specialty_tags": [],
         "notes": "Itron GCSS support line (Continental U.S.).",
         "source": "https://na.itron.com/what-we-offer/services/customer-support"
+      },
+      {
+        "manufacturer_id": "katolight",
+        "manufacturer_name": "Katolight",
+        "category": "electrical",
+        "department": "Customer Support",
+        "phone": "+12485608888",
+        "country": "US",
+        "regions": [],
+        "timezone": null,
+        "last_verified": "2026-10-25",
+        "specialty_tags": [],
+        "notes": "Imported from verified manufacturer spreadsheet (Oct 2026). SUCCESSOR ROUTE, flagged, published per Fred''s Oct 25, 2026 approval (same treatment as MTU Onsite Energy): Tognum acquired Katolight Corp. (Mankato, MN) on April 24, 2007; Katolight was renamed MTU Onsite Energy Corp. in 2008; MTU Onsite Energy was later discontinued and merged within the mtu brand under Rolls-Royce Power Systems'' 2021 brand architecture. No Katolight-named phone exists in any source checked. This number is the successor mtu Customer Assistance Center, North and Latin America, published on mtu-solutions.com as available for Sales & Service questions around the clock, 365 days a year. The CAC page names ''mtu'', not ''Katolight'' by name. Legacy entry retained as its own file per the legacy pass-through rule, not merged away. Parent (spreadsheet): Katolight Corporation (MTU / Rolls-Royce Power Systems family). Spreadsheet source: https://www.katolight.com/.",
+        "source": "https://www.mtu-solutions.com/eu/en/contact/customer-assistance-center.html"
       },
       {
         "manufacturer_id": "keystone-tech",
@@ -9094,6 +9122,20 @@
       }
     ],
     "airflow": [
+      {
+        "manufacturer_id": "acme-engineering",
+        "manufacturer_name": "Acme Engineering",
+        "category": "airflow",
+        "department": "Customer Support",
+        "phone": "+19186827791",
+        "country": "US",
+        "regions": [],
+        "timezone": null,
+        "last_verified": "2026-10-25",
+        "specialty_tags": [],
+        "notes": "Imported from verified manufacturer spreadsheet (Oct 2026). Referent RESOLVED by Fred Oct 25, 2026, overriding the row''s ambiguity flag: this is Acme Engineering & Manufacturing Corp., Muskogee, OK (fans/blowers/ventilation), not Acme Engineering Products Inc., Montreal QC / Mooers, NY (gas detection, boilers, strainers). Number from acmefan.com documents: ''ACME ENGINEERING & MANUFACTURING CORPORATION, P.O Box 978, Muskogee, OK 74402, 1820 North York Street, Muskogee, OK 74403, Telephone: 918-682-7791, Telephone: 800-774-3267'' (toll-free in notes; base number in phone field). General company contact, not labelled a tech line, filed as Customer Support. Do NOT assign Watsco Acme Refrigeration or Limbach ACME Industrial Piping. Parent (spreadsheet): Acme Engineering & Manufacturing Corp. Spreadsheet source: https://www.acmefan.com/.",
+        "source": "https://www.acmefan.com/InformationFiles/ModelInformation/610254.PDF"
+      },
       {
         "manufacturer_id": "adp-advanced-distributor-products",
         "manufacturer_name": "ADP (Advanced Distributor Products)",
