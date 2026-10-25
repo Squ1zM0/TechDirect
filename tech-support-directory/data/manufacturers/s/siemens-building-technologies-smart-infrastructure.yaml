@@ -1,0 +1,25 @@
+id: siemens-building-technologies-smart-infrastructure
+name: Siemens Building Technologies (Smart Infrastructure)
+categories:
+- hvac
+aliases: []
+support:
+- category: hvac
+  department: Technical Support
+  phone: '+18002487976'
+  country: US
+  notes: 'Imported from verified manufacturer spreadsheet (Oct 2026). Tech/support
+    page: https://www.siemens.com/us/en/products/buildings.html. Warranty (spreadsheet):
+    1-800-248-7976. Parent (spreadsheet): Siemens AG (Siemens Industry Inc.). Spreadsheet
+    notes: Division row - distinct from v1 Siemens electrical row. Fire-alarm tech
+    support 800-248-7976 Mon-Fri 8am-6pm; industry hotline 800-333-7421 also published.'
+  source: https://www.siemens.com
+  last_verified: '2026-10-24'
+- category: hvac
+  department: General Support
+  phone: '+18007436367'
+  country: US
+  notes: 'General/customer support line from the verified manufacturer spreadsheet
+    (Oct 2026). Parent (spreadsheet): Siemens AG (Siemens Industry Inc.).'
+  source: https://www.siemens.com
+  last_verified: '2026-10-24'

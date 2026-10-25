@@ -1,0 +1,18 @@
+id: westinghouse-outdoor-power
+name: Westinghouse Outdoor Power
+categories:
+- electrical
+aliases: []
+support:
+- category: electrical
+  department: Technical Support
+  phone: '+18559443571'
+  country: US
+  notes: 'Imported from verified manufacturer spreadsheet (Oct 2026). Tech/support
+    page: https://www.westinghouseoutdoorpower.com/. Warranty (spreadsheet): 1-855-944-3571.
+    Parent (spreadsheet): Westinghouse Outdoor Power Equipment (MWE Investments).
+    Spreadsheet notes: Customer service toll-free 1-855-944-3571 per Westinghouse
+    generator manuals. NOT Westinghouse HVAC (Nortek) and NOT Westinghouse appliances.
+    Also published as the general/customer line.'
+  source: https://media.tractorsupply.com/is/content/TractorSupplyCompany/tsc/product/2/29/38/89/2293889_Man1.pdf
+  last_verified: '2026-10-24'

@@ -1,0 +1,18 @@
+id: daikin-one
+name: Daikin One
+categories:
+- hvac
+aliases: []
+support:
+- category: hvac
+  department: Technical Support
+  phone: '+18553245461'
+  country: US
+  notes: 'Imported from verified manufacturer spreadsheet (Oct 2026). Tech/support
+    page: https://daikinone.com/dev/. Warranty (spreadsheet): 1-855-502-3903. Parent
+    (spreadsheet): Daikin Comfort Technologies. Email: daikinone.support@daikincomfort.com.
+    Spreadsheet notes: Control sub-brand of v1 Daikin parent. Daikin One thermostat
+    support email from v1 Daikin row; tech opt 3 per installation docs. Also published
+    as the general/customer line.'
+  source: https://daikinone.com
+  last_verified: '2026-10-24'

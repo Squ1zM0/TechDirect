@@ -1,0 +1,26 @@
+id: trane-commercial
+name: Trane Commercial
+categories:
+- hvac
+aliases: []
+support:
+- category: hvac
+  department: Technical Support
+  phone: '+18552602975'
+  country: US
+  notes: 'Imported from verified manufacturer spreadsheet (Oct 2026). Tech/support
+    page: https://www.trane.com/commercial/. Warranty (spreadsheet): 1-855-260-2975.
+    Parent (spreadsheet): Trane Technologies. Hours: Mon-Fri 7am-5pm CT (residential
+    care hours, v1). Spreadsheet notes: Commercial support is primarily via local
+    Trane office/dealer; numbers shown are the published Trane customer/warranty lines
+    from v1 - no separate commercial toll-free tech line published in sources checked.'
+  source: https://www.trane.com/residential/en/contact-us/
+  last_verified: '2026-10-24'
+- category: hvac
+  department: General Support
+  phone: '+18332983493'
+  country: US
+  notes: 'General/customer support line from the verified manufacturer spreadsheet
+    (Oct 2026). Parent (spreadsheet): Trane Technologies.'
+  source: https://www.trane.com/residential/en/contact-us/
+  last_verified: '2026-10-24'

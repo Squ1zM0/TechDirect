@@ -1,0 +1,19 @@
+id: carrier-commercial
+name: Carrier Commercial
+categories:
+- hvac
+aliases: []
+support:
+- category: hvac
+  department: Technical Support
+  phone: '+18003796484'
+  country: US
+  notes: 'Imported from verified manufacturer spreadsheet (Oct 2026). Tech/support
+    page: https://www.carrier.com/us/en/commercial/service/welcome-kit/. Warranty
+    (spreadsheet): 1-800-379-6484. Parent (spreadsheet): Carrier Global Corporation.
+    Hours: Commercial Service 24/7/365 (per v1 Carrier row). Spreadsheet notes: Commercial
+    line distinct in purpose from v1 Carrier residential row (1-800-CARRIER); commercial
+    service number already in v1 Carrier row - listed here as the commercial-facing
+    entry. Also published as the general/customer line.'
+  source: https://www.carrier.com/residential/en/us/warranty-lookup
+  last_verified: '2026-10-24'

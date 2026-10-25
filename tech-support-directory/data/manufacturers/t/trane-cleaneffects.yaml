@@ -1,0 +1,24 @@
+id: trane-cleaneffects
+name: Trane CleanEffects
+categories:
+- hvac
+aliases: []
+support:
+- category: hvac
+  department: Technical Support
+  phone: '+18552602975'
+  country: US
+  notes: 'Imported from verified manufacturer spreadsheet (Oct 2026). Tech/support
+    page: https://www.trane.com/. Warranty (spreadsheet): 1-855-260-2975. Parent (spreadsheet):
+    Trane Technologies. Spreadsheet notes: BRAND LINE - parent Trane. Shares Trane
+    lines from v1.'
+  source: https://www.trane.com/residential/en/contact-us/
+  last_verified: '2026-10-24'
+- category: hvac
+  department: General Support
+  phone: '+18332983493'
+  country: US
+  notes: 'General/customer support line from the verified manufacturer spreadsheet
+    (Oct 2026). Parent (spreadsheet): Trane Technologies.'
+  source: https://www.trane.com/residential/en/contact-us/
+  last_verified: '2026-10-24'

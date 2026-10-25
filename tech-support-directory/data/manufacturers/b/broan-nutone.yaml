@@ -1,0 +1,24 @@
+id: broan-nutone
+name: Broan-NuTone
+categories:
+- airflow
+- hvac
+aliases: []
+support:
+- category: airflow
+  department: Technical Support
+  phone: '+18005581711'
+  country: US
+  notes: 'Imported from verified manufacturer spreadsheet (Oct 2026). Tech/support
+    page: https://www.broan-nutone.com/. Warranty (spreadsheet): 800-558-1711. Parent
+    (spreadsheet): Broan-NuTone LLC (Nortek). Hours: Technical Support Mon-Fri 7:30
+    AM-6:00 PM CST (per Broan answers). Spreadsheet notes: Customer Service 800-558-1711
+    per Broan manuals; Technical Support Department also published as 1-888-336-6151
+    Mon-Fri 8:30 AM-7:00 PM EST in Broan-NuTone product Q&A - two tech numbers appear
+    in Broan materials; range hood customer service 1-888-336-3948 AUDIT 2026-10-24:
+    Corrected from third-party source: US technical support 800-558-1711 from Broan-NuTone
+    manuals; Canada line 800-567-3855; older warranty docs also show 800-637-1453.
+    AUDIT 2026-10-24: Source was a third-party aggregator (manuals.plus); not re-verified
+    against the official site. Also published as the general/customer line.'
+  source: https://manuals.plus/category/broan-nutone
+  last_verified: '2026-10-24'

@@ -1,0 +1,19 @@
+id: mueller-industries
+name: Mueller Industries
+categories:
+- plumbing
+aliases: []
+support:
+- category: plumbing
+  department: Technical Support
+  phone: '+19017533200'
+  country: US
+  notes: 'Imported from verified manufacturer spreadsheet (Oct 2026). Tech/support
+    page: https://www.muellerindustries.com/contact-us. Warranty (spreadsheet): 901-753-3200.
+    Parent (spreadsheet): Mueller Industries Inc.. Email: inquiries@muellerindustries.com.
+    Spreadsheet notes: HQ number; product questions routed to specific Mueller companies
+    per official contact page. NOT Mueller Co. waterworks (800-423-1323, different
+    company). No dedicated tech line published. Also published as the general/customer
+    line.'
+  source: https://www.muellerindustries.com/contact-us
+  last_verified: '2026-10-24'

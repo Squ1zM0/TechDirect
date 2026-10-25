@@ -1,0 +1,25 @@
+id: fujitsu-controls-fujitsu-general
+name: Fujitsu Controls (Fujitsu General)
+categories:
+- hvac
+aliases: []
+support:
+- category: hvac
+  department: Technical Support
+  phone: '+18006264686'
+  country: US
+  notes: 'Imported from verified manufacturer spreadsheet (Oct 2026). Tech/support
+    page: https://www.fujitsugeneral.com. Warranty (spreadsheet): 1-866-952-8324.
+    Parent (spreadsheet): Fujitsu General America. Hours: Mon-Fri 5am-5pm PT (TAC).
+    Spreadsheet notes: Control line of v1 Fujitsu parent - parent-routed via Technical
+    Assistance Center.'
+  source: https://www.fujitsugeneral.com
+  last_verified: '2026-10-24'
+- category: hvac
+  department: General Support
+  phone: '+18888883424'
+  country: US
+  notes: 'General/customer support line from the verified manufacturer spreadsheet
+    (Oct 2026). Parent (spreadsheet): Fujitsu General America.'
+  source: https://www.fujitsugeneral.com
+  last_verified: '2026-10-24'

@@ -1,0 +1,25 @@
+id: carrier-infinity-air-purifier
+name: Carrier Infinity Air Purifier
+categories:
+- hvac
+aliases: []
+support:
+- category: hvac
+  department: Technical Support
+  phone: '+18003796484'
+  country: US
+  notes: 'Imported from verified manufacturer spreadsheet (Oct 2026). Tech/support
+    page: https://www.carrier.com/. Warranty (spreadsheet): 1-800-227-7437. Parent
+    (spreadsheet): Carrier Global Corporation. Spreadsheet notes: BRAND LINE, not
+    a separate company - parent Carrier. Shares Carrier lines from v1.'
+  source: https://www.carrier.com/residential/en/us/warranty-lookup
+  last_verified: '2026-10-24'
+- category: hvac
+  department: General Support
+  phone: '+18002277437'
+  country: US
+  notes: 'General/customer support line from the verified manufacturer spreadsheet
+    (Oct 2026). Parent (spreadsheet): Carrier Global Corporation. Also published as
+    the warranty line.'
+  source: https://www.carrier.com/residential/en/us/warranty-lookup
+  last_verified: '2026-10-24'

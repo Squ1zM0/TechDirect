@@ -1,0 +1,25 @@
+id: lennox-pureair
+name: Lennox PureAir
+categories:
+- hvac
+aliases: []
+support:
+- category: hvac
+  department: Technical Support
+  phone: '+18004536669'
+  country: US
+  notes: 'Imported from verified manufacturer spreadsheet (Oct 2026). Tech/support
+    page: https://www.lennox.com/. Warranty (spreadsheet): 1-800-453-6669. Parent
+    (spreadsheet): Lennox International. Spreadsheet notes: BRAND LINE, not a separate
+    company - parent Lennox. Shares Lennox tech/customer lines from v1. Listed per
+    task as a brand line.'
+  source: https://www.lennox.com/residential/contact-us/index
+  last_verified: '2026-10-24'
+- category: hvac
+  department: General Support
+  phone: '+18009536669'
+  country: US
+  notes: 'General/customer support line from the verified manufacturer spreadsheet
+    (Oct 2026). Parent (spreadsheet): Lennox International.'
+  source: https://www.lennox.com/residential/contact-us/index
+  last_verified: '2026-10-24'

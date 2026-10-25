@@ -1,0 +1,18 @@
+id: kohler-power
+name: Kohler Power
+categories:
+- electrical
+aliases: []
+support:
+- category: electrical
+  department: Technical Support
+  phone: '+18005442444'
+  country: US
+  notes: 'Imported from verified manufacturer spreadsheet (Oct 2026). Tech/support
+    page: https://www.kohlerhomeenergy.com. Warranty (spreadsheet): 1-800-544-2444.
+    Parent (spreadsheet): Rehlko (formerly Kohler Energy). Spreadsheet notes: Home
+    generators US/Canada line per Kohler generator manuals; Kohler Energy rebranded
+    to Rehlko - dealer pages now carry Rehlko copyright. Also published as the general/customer
+    line.'
+  source: https://www.kohlergeneratordealer.com
+  last_verified: '2026-10-23'
