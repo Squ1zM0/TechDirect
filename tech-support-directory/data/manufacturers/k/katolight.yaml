@@ -1,0 +1,13 @@
+id: katolight
+name: Katolight
+categories:
+- electrical
+aliases: []
+support:
+- category: electrical
+  department: Customer Support
+  phone: '+12485608888'
+  country: US
+  notes: 'Imported from verified manufacturer spreadsheet (Oct 2026). SUCCESSOR ROUTE, flagged, published per Fred''s Oct 25, 2026 approval (same treatment as MTU Onsite Energy): Tognum acquired Katolight Corp. (Mankato, MN) on April 24, 2007; Katolight was renamed MTU Onsite Energy Corp. in 2008; MTU Onsite Energy was later discontinued and merged within the mtu brand under Rolls-Royce Power Systems'' 2021 brand architecture. No Katolight-named phone exists in any source checked. This number is the successor mtu Customer Assistance Center, North and Latin America, published on mtu-solutions.com as available for Sales & Service questions around the clock, 365 days a year. The CAC page names ''mtu'', not ''Katolight'' by name. Legacy entry retained as its own file per the legacy pass-through rule, not merged away. Parent (spreadsheet): Katolight Corporation (MTU / Rolls-Royce Power Systems family). Spreadsheet source: https://www.katolight.com/.'
+  source: https://www.mtu-solutions.com/eu/en/contact/customer-assistance-center.html
+  last_verified: '2026-10-25'

@@ -1,0 +1,13 @@
+id: acme-engineering
+name: Acme Engineering
+categories:
+- airflow
+aliases: []
+support:
+- category: airflow
+  department: Customer Support
+  phone: '+19186827791'
+  country: US
+  notes: 'Imported from verified manufacturer spreadsheet (Oct 2026). Referent RESOLVED by Fred Oct 25, 2026, overriding the row''s ambiguity flag: this is Acme Engineering & Manufacturing Corp., Muskogee, OK (fans/blowers/ventilation), not Acme Engineering Products Inc., Montreal QC / Mooers, NY (gas detection, boilers, strainers). Number from acmefan.com documents: ''ACME ENGINEERING & MANUFACTURING CORPORATION, P.O Box 978, Muskogee, OK 74402, 1820 North York Street, Muskogee, OK 74403, Telephone: 918-682-7791, Telephone: 800-774-3267'' (toll-free in notes; base number in phone field). General company contact, not labelled a tech line, filed as Customer Support. Do NOT assign Watsco Acme Refrigeration or Limbach ACME Industrial Piping. Parent (spreadsheet): Acme Engineering & Manufacturing Corp. Spreadsheet source: https://www.acmefan.com/.'
+  source: https://www.acmefan.com/InformationFiles/ModelInformation/610254.PDF
+  last_verified: '2026-10-25'

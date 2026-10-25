@@ -1,0 +1,13 @@
+id: doosan-portable-power
+name: Doosan Portable Power
+categories:
+- electrical
+aliases: []
+support:
+- category: electrical
+  department: Technical Support
+  phone: '+18006335206'
+  country: US
+  notes: 'Imported from verified manufacturer spreadsheet (Oct 2026). SUPERSEDED NUMBER, flagged, published per Fred''s Oct 25, 2026 approval: Doosan Bobcat North America''s July 29, 2024 safety recall letter (NHTSA 24V544) says ''please call Doosan Bobcat Portable Power Technical Services at 1-800-633-5206 Option #2'' (option in notes; base number in phone field); letterhead: ''1293 Glenway Drive, Statesville, NC 28625, T: 800-633-5206''. The number was still in manufacturer use in July 2024, AFTER the brand transition: Doosan Portable Power products were transitioned to Bobcat branding in 2023, and Bobcat''s current FAQ routes other support requests to the local dealer. A caller may therefore reach Bobcat or a dealer route rather than a Doosan-branded desk. Parent (spreadsheet): Doosan Portable Power (Doosan Bobcat). Spreadsheet source: https://www.doosanportablepower.com/.'
+  source: https://static.nhtsa.gov/odi/rcl/2024/RCMN-24V544-4362.pdf
+  last_verified: '2026-10-25'
