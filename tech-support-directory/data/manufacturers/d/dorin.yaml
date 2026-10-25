@@ -1,0 +1,20 @@
+id: dorin
+name: Dorin
+categories:
+- hvac
+aliases: []
+support:
+- category: hvac
+  department: Customer Support
+  phone: '+15172082640'
+  country: US
+  notes: 'Imported from verified manufacturer spreadsheet (Oct 2026). US route published on Dorin''s
+    own site: the dorin.com network page lists ''Dorin USA LLC, Mr. Brian Porter, 49286 -, 788 Campus
+    Parkway, TECUMSEH, Tel. (+1) 517 208 2640 ext 1003'' (extension in notes; base number in phone
+    field). General company contact, not labelled a tech line, filed as Customer Support. The Italy
+    HQ number is NOT published here — US-file bar requires a US route. A directory-listed
+    alternate Dorin USA number is not used. American
+    Hermetics, listed on the same dorin.com page as a separate US partner, is not published here.
+    Parent (spreadsheet): Dorin S.p.A. (Officine Mario Dorin). Spreadsheet source: https://www.dorin.com/.'
+  source: https://www.dorin.com/en/network-ww/america/US/
+  last_verified: '2026-10-25'
