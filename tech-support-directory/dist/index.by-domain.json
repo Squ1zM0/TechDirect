@@ -1,5 +1,5 @@
 {
-  "version": "2026-10-25",
+  "version": "2026-10-26",
   "byDomain": {
     "electrical": [
       {
@@ -4017,9 +4017,9 @@
         "country": "US",
         "regions": [],
         "timezone": null,
-        "last_verified": "2026-10-25",
+        "last_verified": "2026-10-26",
         "specialty_tags": [],
-        "notes": "Imported from verified manufacturer spreadsheet (Oct 2026). Kolpak''s own current Installation,",
+        "notes": "Parent confirmed Oct 26, 2026: Kolpak is a Welbilt (Ali Group) brand - ex-Manitowoc",
         "source": "https://direct.kolpak.com/asset/?id=rfwjj&regions=aw&prefLang=en-US&download=true"
       },
       {
@@ -4390,14 +4390,14 @@
         "manufacturer_id": "master-bilt",
         "manufacturer_name": "Master-Bilt",
         "category": "hvac",
-        "department": "Technical Support",
-        "phone": "+8003885253",
+        "department": "General Customer Support",
+        "phone": "+18333275991",
         "country": "US",
         "regions": [],
         "timezone": null,
-        "last_verified": "2026-10-24",
+        "last_verified": "2026-10-26",
         "specialty_tags": [],
-        "notes": "Imported from verified manufacturer spreadsheet (Oct 2026). Tech/support",
+        "notes": "Successor route verified Oct 26, 2026: Standex sold the Refrigerated Solutions",
         "source": "https://master-bilt.com/warranty/"
       },
       {
@@ -4670,29 +4670,29 @@
         "manufacturer_id": "nor-lake",
         "manufacturer_name": "Nor-Lake",
         "category": "hvac",
-        "department": "Technical Support",
-        "phone": "+8003885253",
+        "department": "General Customer Support",
+        "phone": "+17153862323",
         "country": "US",
         "regions": [],
         "timezone": null,
-        "last_verified": "2026-10-24",
+        "last_verified": "2026-10-26",
         "specialty_tags": [],
-        "notes": "Imported from verified manufacturer spreadsheet (Oct 2026). Tech/support",
-        "source": "https://master-bilt.com/warranty/"
+        "notes": "Successor route verified Oct 26, 2026: Standex sold the Refrigerated Solutions",
+        "source": "https://norlake.com/"
       },
       {
         "manufacturer_id": "nor-lake",
         "manufacturer_name": "Nor-Lake",
         "category": "hvac",
         "department": "General Customer Support",
-        "phone": "+71538623238333275989",
+        "phone": "+18333275989",
         "country": "US",
         "regions": [],
         "timezone": null,
-        "last_verified": "2026-10-24",
+        "last_verified": "2026-10-26",
         "specialty_tags": [],
-        "notes": "General customer support line (manufacturer spreadsheet, Oct 2026).",
-        "source": "https://master-bilt.com/warranty/"
+        "notes": "RSG Refrigeration Systems 833-327-5989 per norlake.com (refrigeration systems",
+        "source": "https://norlake.com/category/refrigeration-systems/"
       },
       {
         "manufacturer_id": "nordyne",
@@ -5767,9 +5767,9 @@
         "country": "US",
         "regions": [],
         "timezone": null,
-        "last_verified": "2026-10-25",
+        "last_verified": "2026-10-26",
         "specialty_tags": [],
-        "notes": "Imported from verified manufacturer spreadsheet (Oct 2026). Everidge ThermalRite warranty document",
+        "notes": "Parent confirmed Oct 26, 2026: ThermalRite is an Everidge brand (Everidge",
         "source": "https://www.everidge.com/wp-content/uploads/2026/06/ThermalRite-Warranty_EV5022.pdf"
       },
       {
