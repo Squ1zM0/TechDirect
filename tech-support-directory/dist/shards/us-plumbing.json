@@ -4770,6 +4770,28 @@
       ]
     },
     {
+      "id": "sterling-plumbing",
+      "name": "Sterling Plumbing",
+      "website": null,
+      "categories": [
+        "plumbing"
+      ],
+      "support": [
+        {
+          "category": "plumbing",
+          "department": "Trade Hotline (Plumbing)",
+          "phone": "+19208033927",
+          "country": "US",
+          "regions": [],
+          "timezone": null,
+          "last_verified": "2026-10-26",
+          "specialty_tags": [],
+          "notes": "Sterling is Kohler Co.''s plumbing brand (baths, shower doors, sinks, Vikrell",
+          "source": "https://www.kohler.com/en/for-professionals/plumber-resources"
+        }
+      ]
+    },
+    {
       "id": "strom-living",
       "name": "Strom Living",
       "website": "https://stromliving.com/",

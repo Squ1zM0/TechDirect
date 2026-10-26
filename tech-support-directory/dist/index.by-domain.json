@@ -28917,6 +28917,20 @@
         "source": "https://phoenixmanufacturing.com/frigiking-aspen/"
       },
       {
+        "manufacturer_id": "pioneer",
+        "manufacturer_name": "Pioneer (mini-split)",
+        "category": "hvac",
+        "department": "Customer Support",
+        "phone": "+13055134488",
+        "country": "US",
+        "regions": [],
+        "timezone": null,
+        "last_verified": "2026-10-26",
+        "specialty_tags": [],
+        "notes": "Pioneer ductless mini-split / multi-split brand of Parker Davis HVAC International,",
+        "source": "https://manuals.plus/pioneer/yn020glfi22m2d-diamante-ultra-36000-btu-quad-zone-mini-split-heat-pump-manual"
+      },
+      {
         "manufacturer_id": "plad",
         "manufacturer_name": "Plad",
         "category": "hvac",
@@ -30847,6 +30861,20 @@
         "specialty_tags": [],
         "notes": "Bluffs IL. Email customercare@westermeyerind.com. Hours M-F 8am-4:30pm (timezone not stated in source, so no hours block). Refrigeration oil management components (oil separators, reservoirs, strainers); closest vocabulary term: hvac. Xref spelling Westermeyer shares this file.",
         "source": "https://westermeyerind.com/wp-content/uploads/2026/04/OilStrainer_InstructionSheet.pdf"
+      },
+      {
+        "manufacturer_id": "westinghouse-hvac",
+        "manufacturer_name": "Westinghouse (HVAC)",
+        "category": "hvac",
+        "department": "Technical Services",
+        "phone": "+18004224328",
+        "country": "US",
+        "regions": [],
+        "timezone": null,
+        "last_verified": "2026-10-26",
+        "specialty_tags": [],
+        "notes": "Westinghouse HVAC is a Nordyne (Nortek Global HVAC) licence brand; support",
+        "source": "https://www.nordyne.com/contact/"
       },
       {
         "manufacturer_id": "white-rodgers",
@@ -34097,6 +34125,20 @@
         "specialty_tags": [],
         "notes": "Water heater technical support (incl. commercial).",
         "source": "https://www.statewaterheaters.com/support/contact-tech-support.html"
+      },
+      {
+        "manufacturer_id": "sterling-plumbing",
+        "manufacturer_name": "Sterling Plumbing",
+        "category": "plumbing",
+        "department": "Trade Hotline (Plumbing)",
+        "phone": "+19208033927",
+        "country": "US",
+        "regions": [],
+        "timezone": null,
+        "last_verified": "2026-10-26",
+        "specialty_tags": [],
+        "notes": "Sterling is Kohler Co.''s plumbing brand (baths, shower doors, sinks, Vikrell",
+        "source": "https://www.kohler.com/en/for-professionals/plumber-resources"
       },
       {
         "manufacturer_id": "strom-living",

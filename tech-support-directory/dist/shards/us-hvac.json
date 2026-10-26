@@ -7280,6 +7280,28 @@
       ]
     },
     {
+      "id": "pioneer",
+      "name": "Pioneer (mini-split)",
+      "website": null,
+      "categories": [
+        "hvac"
+      ],
+      "support": [
+        {
+          "category": "hvac",
+          "department": "Customer Support",
+          "phone": "+13055134488",
+          "country": "US",
+          "regions": [],
+          "timezone": null,
+          "last_verified": "2026-10-26",
+          "specialty_tags": [],
+          "notes": "Pioneer ductless mini-split / multi-split brand of Parker Davis HVAC International,",
+          "source": "https://manuals.plus/pioneer/yn020glfi22m2d-diamante-ultra-36000-btu-quad-zone-mini-split-heat-pump-manual"
+        }
+      ]
+    },
+    {
       "id": "plad",
       "name": "Plad",
       "website": "https://wilo.com/us/en_us/",
@@ -10117,6 +10139,28 @@
           "specialty_tags": [],
           "notes": "Bluffs IL. Email customercare@westermeyerind.com. Hours M-F 8am-4:30pm (timezone not stated in source, so no hours block). Refrigeration oil management components (oil separators, reservoirs, strainers); closest vocabulary term: hvac. Xref spelling Westermeyer shares this file.",
           "source": "https://westermeyerind.com/wp-content/uploads/2026/04/OilStrainer_InstructionSheet.pdf"
+        }
+      ]
+    },
+    {
+      "id": "westinghouse-hvac",
+      "name": "Westinghouse (HVAC)",
+      "website": null,
+      "categories": [
+        "hvac"
+      ],
+      "support": [
+        {
+          "category": "hvac",
+          "department": "Technical Services",
+          "phone": "+18004224328",
+          "country": "US",
+          "regions": [],
+          "timezone": null,
+          "last_verified": "2026-10-26",
+          "specialty_tags": [],
+          "notes": "Westinghouse HVAC is a Nordyne (Nortek Global HVAC) licence brand; support",
+          "source": "https://www.nordyne.com/contact/"
         }
       ]
     },
