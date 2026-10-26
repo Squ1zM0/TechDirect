@@ -12,6 +12,12 @@ support:
   department: Customer Service / Product Support
   phone: "+18003488464"
   country: US
-  notes: Customer Service line listed as 1-800-FITTING.
-  source: muellerstreamline.com find-a-rep/contact pages (Customer Service 1-800-FITTING)
-  last_verified: '2025-12-25'
+  notes: 'Wholly-owned subsidiary of Mueller Industries, Inc. (SEC 10-K subsidiary
+    lists; shared Collierville, TN HQ - Industries Suite 100, Streamline Suite 201).
+    Customer Service line 1-800-FITTING (800-348-8464) per Streamline product documents
+    and muellerstreamline.com. Mueller Industries HQ/general line 901-753-3200 is
+    NOT Streamline''s support line (Industries contact page routes product questions
+    to the operating companies). Not Mueller Co. waterworks (different company).
+    No dedicated tech-labelled line published. D6 ambiguity resolved Oct 26, 2026.'
+  source: https://muellerstreamline.com/contact/
+  last_verified: '2026-10-26'
