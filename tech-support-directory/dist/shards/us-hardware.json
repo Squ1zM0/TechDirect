@@ -2720,6 +2720,50 @@
       ]
     },
     {
+      "id": "franklin-international",
+      "name": "Franklin International",
+      "website": "https://titebond.com",
+      "categories": [
+        "hardware"
+      ],
+      "support": [
+        {
+          "category": "hardware",
+          "department": "Technical Support",
+          "phone": "+18003474583",
+          "country": "US",
+          "regions": [],
+          "timezone": null,
+          "last_verified": "2026-10-26",
+          "specialty_tags": [],
+          "notes": "Columbus, OH adhesives maker (Titebond brand); page labels it 'Franklin Technical",
+          "source": "https://titebond.com/print/product/60e6eb46-89e3-4da1-b259-f2c80266f3ac"
+        }
+      ]
+    },
+    {
+      "id": "french-creek-production",
+      "name": "French Creek Production",
+      "website": "https://fcsafety.com",
+      "categories": [
+        "hardware"
+      ],
+      "support": [
+        {
+          "category": "hardware",
+          "department": "Customer Support",
+          "phone": "+18772289327",
+          "country": "US",
+          "regions": [],
+          "timezone": null,
+          "last_verified": "2026-10-26",
+          "specialty_tags": [],
+          "notes": "Franklin, PA fall-protection maker (harnesses, ladder systems); local 814-437-1808",
+          "source": "https://fcsafety.com/ladder-safety-systems-for-maximum-fall-protection-frenchcreek-fall-safety/"
+        }
+      ]
+    },
+    {
       "id": "freud",
       "name": "'Freud'",
       "website": null,
@@ -2760,6 +2804,28 @@
           "specialty_tags": [],
           "notes": "Inquiry email inquiry@fuchs.com. Lubricants, so hardware is the closest vocabulary term.",
           "source": "https://fuchs.azureedge.net/fileadmin/us/product-data/Lubricants_for_Mining.pdf"
+        }
+      ]
+    },
+    {
+      "id": "gardner-gibson",
+      "name": "Gardner-Gibson",
+      "website": "https://gardnercoatings.com",
+      "categories": [
+        "hardware"
+      ],
+      "support": [
+        {
+          "category": "hardware",
+          "department": "Customer Support",
+          "phone": "+18002371155",
+          "country": "US",
+          "regions": [],
+          "timezone": null,
+          "last_verified": "2026-10-26",
+          "specialty_tags": [],
+          "notes": "Tampa, FL roofing coatings, cements and sealants maker; SDS technical line",
+          "source": "https://gardnercoatings.com/pages/faq-roof-coatings-cements"
         }
       ]
     },
@@ -2830,6 +2896,28 @@
       ]
     },
     {
+      "id": "general-wire-spring",
+      "name": "General Wire Spring Company",
+      "website": "https://www.generalwirespring.com/",
+      "categories": [
+        "hardware"
+      ],
+      "support": [
+        {
+          "category": "hardware",
+          "department": "Customer Support",
+          "phone": "+18002456200",
+          "country": "US",
+          "regions": [],
+          "timezone": null,
+          "last_verified": "2026-10-26",
+          "specialty_tags": [],
+          "notes": "McKees Rocks, PA custom spring maker since 1930; parent of General Pipe Cleaners",
+          "source": "https://www.thomasnet.com/company/general-wire-spring-co-162440/profile?what=Semi-Elliptical+Springs&heading=77842201"
+        }
+      ]
+    },
+    {
       "id": "geocel",
       "name": "'GEocel'",
       "website": null,
@@ -2874,6 +2962,28 @@
       ]
     },
     {
+      "id": "glasmasters",
+      "name": "GlasMasters",
+      "website": "http://www.glasmasters.com/",
+      "categories": [
+        "hardware"
+      ],
+      "support": [
+        {
+          "category": "hardware",
+          "department": "Customer Support",
+          "phone": "+19044007100",
+          "country": "US",
+          "regions": [],
+          "timezone": null,
+          "last_verified": "2026-10-26",
+          "specialty_tags": [],
+          "notes": "Glass manufacturer/fabricator with Jacksonville, FL and Sweetwater, TN locations",
+          "source": "http://www.glasmasters.com/"
+        }
+      ]
+    },
+    {
       "id": "gorilla-glue",
       "name": "'Gorilla Glue'",
       "website": null,
@@ -2892,6 +3002,50 @@
           "specialty_tags": [],
           "notes": "Email customercare@gorillaglue.com. Hours Mon - Thu 8 AM - 4 PM EST, Fri 8 AM - 12 PM EST. Adhesives, so hardware is the closest vocabulary term.",
           "source": "https://gorillatough.com/about"
+        }
+      ]
+    },
+    {
+      "id": "gorilla-mill",
+      "name": "Gorilla Mill",
+      "website": null,
+      "categories": [
+        "hardware"
+      ],
+      "support": [
+        {
+          "category": "hardware",
+          "department": "Customer Support",
+          "phone": "+18668889600",
+          "country": "US",
+          "regions": [],
+          "timezone": null,
+          "last_verified": "2026-10-26",
+          "specialty_tags": [],
+          "notes": "Waukesha, WI carbide end-mill maker; number published as 'Gorilla Tools",
+          "source": "https://ctemag.com/articles/no-monkeying-around/"
+        }
+      ]
+    },
+    {
+      "id": "greenfield-industries",
+      "name": "Greenfield Industries, Inc.",
+      "website": "https://www.gfii.com",
+      "categories": [
+        "hardware"
+      ],
+      "support": [
+        {
+          "category": "hardware",
+          "department": "Customer Support",
+          "phone": "+18003482885",
+          "country": "US",
+          "regions": [],
+          "timezone": null,
+          "last_verified": "2026-10-26",
+          "specialty_tags": [],
+          "notes": "Seneca, SC cutting-tool maker; brands Cleveland, Chicago-Latrobe, Cle-Line.",
+          "source": "https://www.gfii.com/brands/cleveland"
         }
       ]
     },
@@ -2940,6 +3094,28 @@
       ]
     },
     {
+      "id": "guardair",
+      "name": "Guardair Corporation",
+      "website": "https://guardair.com",
+      "categories": [
+        "hardware"
+      ],
+      "support": [
+        {
+          "category": "hardware",
+          "department": "Customer Support",
+          "phone": "+18004827324",
+          "country": "US",
+          "regions": [],
+          "timezone": "America/New_York",
+          "last_verified": "2026-10-26",
+          "specialty_tags": [],
+          "notes": "Chicopee, MA maker of OSHA-compliant safety air guns and pneumatic vacuums;",
+          "source": "https://guardair.com/collections/safety-air-guns/medium"
+        }
+      ]
+    },
+    {
       "id": "guardian-fall-protection",
       "name": "'Guardian Fall Protection'",
       "website": null,
@@ -2958,6 +3134,94 @@
           "specialty_tags": [],
           "notes": "Email customer.service@guardianfall.com. Pure Safety Group. Explicitly NOT the existing guardian.yaml, which is the Johnson Controls unitary HVAC brand.",
           "source": "https://puresafetygroup.com/assets/e5dab105-a5bf-4ee7-b479-f31413c5b169"
+        }
+      ]
+    },
+    {
+      "id": "halls-safety-equipment",
+      "name": "Halls Safety Equipment",
+      "website": "https://www.hallssafety.com/",
+      "categories": [
+        "hardware"
+      ],
+      "support": [
+        {
+          "category": "hardware",
+          "department": "Customer Support",
+          "phone": "+18002274255",
+          "country": "US",
+          "regions": [],
+          "timezone": "America/New_York",
+          "last_verified": "2026-10-26",
+          "specialty_tags": [],
+          "notes": "Grove City, PA safety-equipment, tools and lineman-supplies supplier (distributor,",
+          "source": "https://www.hallssafety.com/"
+        }
+      ]
+    },
+    {
+      "id": "hangsterfers-laboratories",
+      "name": "Hangsterfer's Laboratories, Inc.",
+      "website": "https://www.hangsterfers.com",
+      "categories": [
+        "hardware"
+      ],
+      "support": [
+        {
+          "category": "hardware",
+          "department": "Customer Support",
+          "phone": "+18564680216",
+          "country": "US",
+          "regions": [],
+          "timezone": "America/New_York",
+          "last_verified": "2026-10-26",
+          "specialty_tags": [],
+          "notes": "Mantua, NJ metalworking fluids/lubricants maker; sales@hangsterfers.com;",
+          "source": "https://www.hangsterfers.com/products/products-cutting-oils/"
+        }
+      ]
+    },
+    {
+      "id": "hannibal-carbide-tool",
+      "name": "Hannibal Carbide Tool, Inc.",
+      "website": "http://www.hannibalcarbide.com/",
+      "categories": [
+        "hardware"
+      ],
+      "support": [
+        {
+          "category": "hardware",
+          "department": "Customer Support",
+          "phone": "+18004519436",
+          "country": "US",
+          "regions": [],
+          "timezone": null,
+          "last_verified": "2026-10-26",
+          "specialty_tags": [],
+          "notes": "Hannibal, MO carbide-tipped and solid-carbide cutting-tool maker (reamers,",
+          "source": "https://www.hannibalcarbide.com/product/48617/"
+        }
+      ]
+    },
+    {
+      "id": "harrison-bonini",
+      "name": "Harrison & Bonini",
+      "website": null,
+      "categories": [
+        "hardware"
+      ],
+      "support": [
+        {
+          "category": "hardware",
+          "department": "Customer Support",
+          "phone": "+14158618300",
+          "country": "US",
+          "regions": [],
+          "timezone": null,
+          "last_verified": "2026-10-26",
+          "specialty_tags": [],
+          "notes": "San Francisco, CA wholesale hardware/fastener distributor at 1122 Harrison",
+          "source": "https://www.bbb.org/us/ca/san-francisco/profile/wholesale-hardware/harrison-bonini-1116-41570/more-info"
         }
       ]
     },
@@ -5933,6 +6197,28 @@
       ]
     },
     {
+      "id": "powers-fasteners",
+      "name": "\"Powers Fasteners\"",
+      "website": null,
+      "categories": [
+        "hardware"
+      ],
+      "support": [
+        {
+          "category": "hardware",
+          "department": "Customer Support",
+          "phone": "+18005243244",
+          "country": "US",
+          "regions": [],
+          "timezone": null,
+          "last_verified": "2026-10-26",
+          "specialty_tags": [],
+          "notes": "Powers Fasteners anchor line, part of the GTS division of Stanley Black & Decker since 2012 and supported via DEWALT Anchors; the DEWALT 2024 Buyers Guide lists this number for both Customer Service and Engineering & Product Support; email anchors@DEWALT.com per the same guide. Not the Watts POWERS brand (existing powers file).",
+          "source": "https://manuals.plus/m/177cb631b6fdd4cc12fa6a3857b1944d5c140e5a111ff6f24b26481e02c07ed5"
+        }
+      ]
+    },
+    {
       "id": "precision-brand-products",
       "name": "Precision Brand Products",
       "website": "https://www.precisionbrand.com/contact-us/",
@@ -5951,6 +6237,94 @@
           "specialty_tags": [],
           "notes": "2250 Curtiss Street, Downers Grove, IL. A 1-800 number also appears in Thomasnet releases; the official contact-page number is used.",
           "source": "https://www.precisionbrand.com/contact-us/"
+        }
+      ]
+    },
+    {
+      "id": "precision-dormer",
+      "name": "\"Precision Dormer\"",
+      "website": null,
+      "categories": [
+        "hardware"
+      ],
+      "support": [
+        {
+          "category": "hardware",
+          "department": "Customer Support",
+          "phone": "+18008773745",
+          "country": "US",
+          "regions": [],
+          "timezone": null,
+          "last_verified": "2026-10-26",
+          "specialty_tags": [],
+          "notes": "Precision Dormer formed in the NAFTA region when Precision Twist Drill joined the Dormer Group; now a Dormer Pramet brand (Sandvik Group). US number is Dormer Pramet's published US line per CTE Magazine ('For more information about Dormer Pramet, call 800-877-3745'). The Elgin IL office number for a named marketing contact was not filed.",
+          "source": "https://ctemag.com/articles/stainless-takes-flight/"
+        }
+      ]
+    },
+    {
+      "id": "precision-twist-drill",
+      "name": "\"Precision Twist Drill\"",
+      "website": null,
+      "categories": [
+        "hardware"
+      ],
+      "support": [
+        {
+          "category": "hardware",
+          "department": "Customer Support",
+          "phone": "+18008773745",
+          "country": "US",
+          "regions": [],
+          "timezone": null,
+          "last_verified": "2026-10-26",
+          "specialty_tags": [],
+          "notes": "Precision Twist Drill (PTD) is a market-leading Dormer Pramet brand (Sandvik Group); Dormer merged with Precision Twist Drill and Union Butterfield in the US, Canada and Mexico in 2007. US number is Dormer Pramet's published US line per CTE Magazine. Separate file from Precision Dormer; not merged.",
+          "source": "https://ctemag.com/articles/stainless-takes-flight/"
+        }
+      ]
+    },
+    {
+      "id": "prest-o-lite",
+      "name": "\"Prest-O-Lite\"",
+      "website": null,
+      "categories": [
+        "hardware"
+      ],
+      "support": [
+        {
+          "category": "hardware",
+          "department": "Customer Support",
+          "phone": "+18003722123",
+          "country": "US",
+          "regions": [],
+          "timezone": null,
+          "last_verified": "2026-10-26",
+          "specialty_tags": [],
+          "notes": "Legacy torch/regulator brand; PREST-O-LITE is a registered trademark of ESAB Welding & Cutting Products per ESAB regulator documents. Filed number is ESAB's published 1.800.ESAB.123 contact line, converted from vanity letters to digits (E=3, S=7, A=2, B=2, giving 372-2123). Not merged into the Victor (ESAB family) file; Victor has its own staged file with its own number.",
+          "source": "https://esab.com/us/nam_en/search/"
+        }
+      ]
+    },
+    {
+      "id": "primus-sievert",
+      "name": "\"Primus-Sievert\"",
+      "website": null,
+      "categories": [
+        "hardware"
+      ],
+      "support": [
+        {
+          "category": "hardware",
+          "department": "Customer Support",
+          "phone": "+18005457698",
+          "country": "US",
+          "regions": [],
+          "timezone": null,
+          "last_verified": "2026-10-26",
+          "specialty_tags": [],
+          "notes": "Sievert (historically Primus-Sievert) is part of the Rothenberger Group; US service via Rothenberger USA. The Rothenberger USA catalog lists Sievert torches (Turbo Jet, Handyjet, Brass Torch, Easyjet) with 'CUSTOMER SERVICE - 800-545-7698'. The Best Materials LLC distributor number was not filed as the manufacturer line.",
+          "source": "http://selectumllc.com/attachments/rothenberger/RO_USA_Catalog_2020_LOW_RES.pdf"
         }
       ]
     },
@@ -5999,6 +6373,50 @@
       ]
     },
     {
+      "id": "psc-fabricating",
+      "name": "\"PSC Fabricating\"",
+      "website": null,
+      "categories": [
+        "hardware"
+      ],
+      "support": [
+        {
+          "category": "hardware",
+          "department": "Customer Support",
+          "phone": "+18124259071",
+          "country": "US",
+          "regions": [],
+          "timezone": null,
+          "last_verified": "2026-10-26",
+          "specialty_tags": [],
+          "notes": "PSC Fabricating, 900 E. Virginia St., Evansville, IN 47711 - distributor of foam gaskets and foam plastic products. The Fort Smith AR entity of the same name in OSHA records is a separate record, not the filed company.",
+          "source": "https://www.bbb.org/us/il/edwardsville/category/recycling-center?page=6"
+        }
+      ]
+    },
+    {
+      "id": "public-steel",
+      "name": "\"Public Steel\"",
+      "website": "\"http://www.publicsteel.com/\"",
+      "categories": [
+        "hardware"
+      ],
+      "support": [
+        {
+          "category": "hardware",
+          "department": "Customer Support",
+          "phone": "+18063761345",
+          "country": "US",
+          "regions": [],
+          "timezone": "CT",
+          "last_verified": "2026-10-26",
+          "specialty_tags": [],
+          "notes": "Public Steel Inc., 1012 SW 4th Ave, Amarillo, TX - family-owned since 1948, structural and miscellaneous steel. A ScrapMonster listing shows a different (855) number that was not tied to a primary source and was not filed.",
+          "source": "http://www.publicsteel.com/"
+        }
+      ]
+    },
+    {
       "id": "purolator",
       "name": "Purolator",
       "website": "https://www.purolatornow.com/",
@@ -6021,6 +6439,50 @@
       ]
     },
     {
+      "id": "pyramex-safety-products",
+      "name": "\"Pyramex Safety Products\"",
+      "website": "\"https://www.pyramex.com/pages/customer-service\"",
+      "categories": [
+        "hardware"
+      ],
+      "support": [
+        {
+          "category": "hardware",
+          "department": "Customer Support",
+          "phone": "+18007368673",
+          "country": "US",
+          "regions": [],
+          "timezone": null,
+          "last_verified": "2026-10-26",
+          "specialty_tags": [],
+          "notes": "Pyramex Safety Products, LLC, 305 Keough Drive, Piperton, TN 38017; email help@pyramex.com. No PPE category exists in the vocabulary; hardware is the closest term. Covers xref spellings Pyramex, Pyramex Safety (Safety Glasses), and Pyramex Safety Products.",
+          "source": "https://www.pyramex.com/pages/customer-service"
+        }
+      ]
+    },
+    {
+      "id": "quest-lasercut",
+      "name": "\"Quest Lasercut\"",
+      "website": null,
+      "categories": [
+        "hardware"
+      ],
+      "support": [
+        {
+          "category": "hardware",
+          "department": "Customer Support",
+          "phone": "+19377431200",
+          "country": "US",
+          "regions": [],
+          "timezone": null,
+          "last_verified": "2026-10-26",
+          "specialty_tags": [],
+          "notes": "Quest Lasercut, Franklin, OH 45005 - precision laser and waterjet cutting services since 1995 (aerospace, agriculture, automotive, medical, computer, food service, trucking). Phone per IQS Directory; identity corroborated by Thomasnet listings.",
+          "source": "https://www.iqsdirectory.com/laser-cutting/laser-cutting-2/"
+        }
+      ]
+    },
+    {
       "id": "quickbolt",
       "name": "QuickBOLT",
       "website": "https://quickbolt.com/",
@@ -6039,6 +6501,62 @@
           "specialty_tags": [],
           "notes": "QuickBOLT is a division of Quickscrews International Corp.; Quickscrews International is itself a separate batch row (NEEDS-HUMAN) and the two are not merged.",
           "source": "https://quickbolt.com/sites/default/files/catalog/QBQuick_Catalog_Iss_1.pdf"
+        }
+      ]
+    },
+    {
+      "id": "quickflash-weatherproofing-products",
+      "name": "\"Quickflash Weatherproofing Products\"",
+      "website": null,
+      "categories": [
+        "hardware"
+      ],
+      "support": [
+        {
+          "category": "hardware",
+          "department": "Customer Support",
+          "phone": "+17026146100",
+          "country": "US",
+          "regions": [],
+          "timezone": null,
+          "last_verified": "2026-10-26",
+          "specialty_tags": [],
+          "notes": "Quickflash Weatherproofing Products, Inc., 4129 Wagon Trail Avenue, Las Vegas, NV 89118 - flashing panels for wall penetrations (electrical, plumbing, HVAC); email qfinfo@quickflashproducts.com. Covers xref spellings Quickflash, QUICKFLASH WEATHERPROOFING, and Quickflash Weatherproofing Products. A 2026 brochure also lists a toll-free line, filed as a second entry below. Not Quickflash New Zealand (quickflash.co.nz).",
+          "source": "http://www.quickflashproducts.com/Forms/Quickflash Weatherproofing - Guide Specification.pdf"
+        },
+        {
+          "category": "hardware",
+          "department": "Customer Support",
+          "phone": "+18009636886",
+          "country": "US",
+          "regions": [],
+          "timezone": null,
+          "last_verified": "2026-10-26",
+          "specialty_tags": [],
+          "notes": "Toll-free line per the 2026 Quickflash brochure.",
+          "source": "https://www.weatherizationpartners.com/wp-content/uploads/2026/03/Quickflash-Brochure-2026.pdf"
+        }
+      ]
+    },
+    {
+      "id": "quickscrews-international",
+      "name": "\"Quickscrews International\"",
+      "website": "\"https://quickscrews.com/\"",
+      "categories": [
+        "hardware"
+      ],
+      "support": [
+        {
+          "category": "hardware",
+          "department": "Customer Support",
+          "phone": "+18007436916",
+          "country": "US",
+          "regions": [],
+          "timezone": "PT",
+          "last_verified": "2026-10-26",
+          "specialty_tags": [],
+          "notes": "Quickscrews International Corporation, Livermore, CA (warehouse 5830 Las Positas Rd, Livermore, CA 94551; also Rock Hill SC) - woodworking/furniture screws and solar brackets. QuickBOLT is a division of Quickscrews International Corp. per QuickBOLT install documents, but the staged quickbolt file stays separate (not merged).",
+          "source": "https://quickscrews.com/"
         }
       ]
     },
@@ -6153,6 +6671,28 @@
       ]
     },
     {
+      "id": "reed-manufacturing",
+      "name": "\"Reed Manufacturing\"",
+      "website": null,
+      "categories": [
+        "hardware"
+      ],
+      "support": [
+        {
+          "category": "hardware",
+          "department": "Customer Support",
+          "phone": "+18006663691",
+          "country": "US",
+          "regions": [],
+          "timezone": null,
+          "last_verified": "2026-10-26",
+          "specialty_tags": [],
+          "notes": "Reed Manufacturing Company, 1425 W 8th St, Erie, PA - pipe tools and vises since 1896 (pipe/tubing cutters, cutter wheels, vises, groovers, power drives, threaders, water services tools); email reedsales@reedmfgco.com. Toll-free line filed; Erie direct line +1-814-452-3691 also published. Covers both xref spellings: Reed Manufacturing and Reed Manufacturing Company (the second is the CSV's embedded-newline variant).",
+          "source": "https://www.thomasnet.com/company/reed-manufacturing-co-159103/profile?heading=48991004"
+        }
+      ]
+    },
+    {
       "id": "reelcraft",
       "name": "Reelcraft Industries",
       "website": "https://www.reelcraft.com/how-reelcrafts-warranty-works/",
@@ -6171,6 +6711,28 @@
           "specialty_tags": [],
           "notes": "Official warranty page labels this Customer Service. Main numbers also published; the labelled Customer Service number is used.",
           "source": "https://www.reelcraft.com/how-reelcrafts-warranty-works/"
+        }
+      ]
+    },
+    {
+      "id": "regal-cutting-tools",
+      "name": "\"Regal Cutting Tools\"",
+      "website": "\"https://regalcuttingtools.com/about-us/\"",
+      "categories": [
+        "hardware"
+      ],
+      "support": [
+        {
+          "category": "hardware",
+          "department": "Customer Support",
+          "phone": "+18004352948",
+          "country": "US",
+          "regions": [],
+          "timezone": null,
+          "last_verified": "2026-10-26",
+          "specialty_tags": [],
+          "notes": "Regal Cutting Tools, 5330 East Rockton Road, Roscoe, IL 61073 (plus Loris SC plant) - taps, drills, end mills, dies, gages, reamers; acquired National Twist Drill 1985, Glenbard Tool 1984, New York Twist Drill 1988; email sales@regalcuttingtools.com. Distinct from Regal Rexnord (staged regal-rexnord). A place-listing alternate for Roscoe was not used; the official site/catalog number wins.",
+          "source": "https://regalcuttingtools.com/about-us/"
         }
       ]
     },
@@ -7341,6 +7903,84 @@
       ]
     },
     {
+      "id": "stout-tool",
+      "name": "Stout Tool",
+      "website": "https://www.stouttool.com/",
+      "categories": [
+        "hardware"
+      ],
+      "support": [
+        {
+          "category": "hardware",
+          "department": "Customer Support",
+          "phone": "+18773378688",
+          "country": "US",
+          "regions": [],
+          "timezone": null,
+          "last_verified": "2026-10-26",
+          "specialty_tags": [],
+          "notes": "Stout Tool Corp., Wixom, MI. Maker of the X-Band cordless bandsaw. Number",
+          "source": "https://www.finehomebuilding.com/2007/11/26/stx-250-stout-x-band-cordless-bandsaw-review"
+        },
+        {
+          "category": "hardware",
+          "department": "Customer Support",
+          "phone": "+12484860454",
+          "country": "US",
+          "regions": [],
+          "timezone": null,
+          "last_verified": "2026-10-26",
+          "specialty_tags": [],
+          "notes": "Stout Tool Corp. local line from the current Thomasnet company profile (29233",
+          "source": "https://www.thomasnet.com/company/stout-tool-corp-20095591/profile"
+        }
+      ]
+    },
+    {
+      "id": "sturgeon-bay-metal-products",
+      "name": "Sturgeon Bay Metal Products",
+      "website": "https://handystraps.com/",
+      "categories": [
+        "hardware"
+      ],
+      "support": [
+        {
+          "category": "hardware",
+          "department": "Customer Support",
+          "phone": "+19207432221",
+          "country": "US",
+          "regions": [],
+          "timezone": null,
+          "last_verified": "2026-10-26",
+          "specialty_tags": [],
+          "notes": "Family-owned maker of HANDY STRAP cable straps, Sturgeon Bay, WI, established 1946 (metal strap patented by an electrician; insulated plastic line added later). Covers both the 'Sturgeon Bay' and 'Sturgeon Bay Metal Products' rows: a Made in the USA listing describes 'Sturgeon Bay' selling the same straps. Hardware is the closest category-vocabulary term for cable straps/fasteners. NOTE: the company site returned a verification page on 2026-10-26, so this number is place-listing-sourced; re-confirm against the company site at port time.",
+          "source": "https://handystraps.com/"
+        }
+      ]
+    },
+    {
+      "id": "sunset-ladder",
+      "name": "Sunset Ladder",
+      "website": "http://www.sunsetladder.com/",
+      "categories": [
+        "hardware"
+      ],
+      "support": [
+        {
+          "category": "hardware",
+          "department": "Customer Support",
+          "phone": "+18006601311",
+          "country": "US",
+          "regions": [],
+          "timezone": null,
+          "last_verified": "2026-10-26",
+          "specialty_tags": [],
+          "notes": "Sunset Ladder & Scaffold Co, South El Monte, CA. Manufacturer and distributor of ladders and scaffolding since 1929, including its own Sunset brand (Thomasnet: Manufacturer and Distributor of Ladders). Number is the South El Monte RMA/returns line published on the company's own Terms of Use page; the local South El Monte number from place listings is noted. Port-time scope check: this is a manufacturer-distributor, not a pure manufacturer; a human may still exclude it from TechDirect on scope grounds.",
+          "source": "https://www.sunsetladder.com/terms_of_use.html"
+        }
+      ]
+    },
+    {
       "id": "superior-glove",
       "name": "\"Superior Glove\"",
       "website": "\"https://www.superiorglove.com/\"",
@@ -7385,6 +8025,94 @@
       ]
     },
     {
+      "id": "tap-magic",
+      "name": "Tap Magic",
+      "website": null,
+      "categories": [
+        "hardware"
+      ],
+      "support": [
+        {
+          "category": "hardware",
+          "department": "Customer Support",
+          "phone": "+18006438026",
+          "country": "US",
+          "regions": [],
+          "timezone": null,
+          "last_verified": "2026-10-26",
+          "specialty_tags": [],
+          "notes": "Tap Magic cutting-fluid brand; supplier The Steco Corporation, Little Rock, AR. Number 800-643-8026 and steco@tapmagic.com are on the current Tap Magic SDS (issue date 11/26/2025). Hardware is the closest category-vocabulary term for cutting fluids/tools. Forney Industries also sells a Tap Magic cutting fluid, but the SDS supplier for the Tap Magic brand is Steco; the two are not merged.",
+          "source": "https://documents.mrosupply.com/product_documents/97/16/97169307/ic-ProTap-Cutting-Fluid-Aerosol-SDS-US-En-2025_YPXRA4q.pdf"
+        }
+      ]
+    },
+    {
+      "id": "te-co",
+      "name": "TE-CO Workholding",
+      "website": "https://www.te-co.com/",
+      "categories": [
+        "hardware"
+      ],
+      "support": [
+        {
+          "category": "hardware",
+          "department": "Customer Support",
+          "phone": "+18005434071",
+          "country": "US",
+          "regions": [],
+          "timezone": null,
+          "last_verified": "2026-10-26",
+          "specialty_tags": [],
+          "notes": "TE-CO Workholding / TE-CO Manufacturing, Union, OH. Workholding components and fasteners (TOOLEX vises, jig and fixture components). Number is the manufacturer toll-free line from Thomasnet releases and catalogs; the own site also lists toll-free 855-573-1431 and local 937-836-0961, noted, not filed as main.",
+          "source": "https://www.te-co.com/products/oem-mro-components/"
+        }
+      ]
+    },
+    {
+      "id": "tech-products",
+      "name": "Tech Products",
+      "website": "https://www.techproducts.com/",
+      "categories": [
+        "hardware"
+      ],
+      "support": [
+        {
+          "category": "hardware",
+          "department": "Customer Support",
+          "phone": "+18002211311",
+          "country": "US",
+          "regions": [],
+          "timezone": null,
+          "last_verified": "2026-10-26",
+          "specialty_tags": [],
+          "notes": "Tech Products, Inc., Staten Island, NY. Everlast signs and tag holders for utilities and telecom. Number 800-221-1311 is from a company press release on the Thomasnet profile page ('call 800-221-1311 or visit www.TechProducts.com'); the Thomasnet number (718) 442-4900 is noted. Hardware is the closest category-vocabulary term for signs/tag holders.",
+          "source": "https://www.thomasnet.com/company/tech-products-inc-416033/profile"
+        }
+      ]
+    },
+    {
+      "id": "tenmat",
+      "name": "Tenmat",
+      "website": "https://www.tenmatusa.com/",
+      "categories": [
+        "hardware"
+      ],
+      "support": [
+        {
+          "category": "hardware",
+          "department": "Customer Support",
+          "phone": "+18008213436",
+          "country": "US",
+          "regions": [],
+          "timezone": null,
+          "last_verified": "2026-10-26",
+          "specialty_tags": [],
+          "notes": "Tenmat USA (Tenmat Inc.), Wilmington/Newport, DE. Passive fire protection and intumescent firestopping products. Number is the North America Customer Service Center line 1-800-821-3436 in the company's own fire-protection brochure, with info@tenmatusa.com. Hardware is the closest category-vocabulary term for firestopping products.",
+          "source": "https://www.tenmatusa.com/wp-content/uploads/Tenmat-Fire-Protection-Brochure.pdf"
+        }
+      ]
+    },
+    {
       "id": "texwipe",
       "name": "\"Texwipe\"",
       "website": "\"https://www.texwipe.com\"",
@@ -7403,6 +8131,28 @@
           "specialty_tags": [],
           "notes": "ITW Texwipe cleanroom wipers, Kernersville NC (1210 South Park Drive). North America office line; email info@texwipe.com. Xref category consumables mapped to hardware (no consumables term in the vocabulary).",
           "source": "https://www.soscleanroom.com/content/texwipe_pdf/3212.pdf"
+        }
+      ]
+    },
+    {
+      "id": "the-safety-zone",
+      "name": "The Safety Zone",
+      "website": null,
+      "categories": [
+        "hardware"
+      ],
+      "support": [
+        {
+          "category": "hardware",
+          "department": "Customer Support",
+          "phone": "+18009429199",
+          "country": "US",
+          "regions": [],
+          "timezone": null,
+          "last_verified": "2026-10-26",
+          "specialty_tags": [],
+          "notes": "The Safety Zone, Centerbrook/Essex, CT (39 Industrial Park). Safety gloves and PPE, a Hospeco Brands Group brand. Number 1-800-942-9199 is the brand contact printed in a product specification for Safety Zone gloves. Hardware is the closest category-vocabulary term for gloves/PPE.",
+          "source": "https://www.ontimesupplies.com/szngvp9lg1blct-3-mil-general-purpose-vinyl-gloves-large-size-vinyl-polypropylene-blue.html"
         }
       ]
     },
@@ -7447,6 +8197,28 @@
           "specialty_tags": [],
           "notes": "Thermwell Products, Mahwah NJ (420 Rt 17 South). Frost King is Thermwell's brand. Xref category pipe insulation mapped to hardware (no insulation term in the vocabulary).",
           "source": "https://thermwell.com/news/frost_king_house_davey_award"
+        }
+      ]
+    },
+    {
+      "id": "thiel-tool-and-engineering",
+      "name": "Thiel Tool & Engineering",
+      "website": "http://www.thieltool.com/",
+      "categories": [
+        "hardware"
+      ],
+      "support": [
+        {
+          "category": "hardware",
+          "department": "Customer Support",
+          "phone": "+13142416121",
+          "country": "US",
+          "regions": [],
+          "timezone": null,
+          "last_verified": "2026-10-26",
+          "specialty_tags": [],
+          "notes": "Thiel Tool & Engineering, Inc., St. Louis, MO (4622 Bulwer Ave). Progressive dies and machine shop, est. 1945; a 1998 Design News award ties the company to an electrical fastener. NOTE: this number is place/directory-sourced for the St. Louis address; confirm against thieltool.com at port time. 'Thiel' and 'Thiel Tool & Die Company' are alias-candidates only and are NOT merged into this file (see REWORK-REPORT.md).",
+          "source": "http://www.thieltool.com/"
         }
       ]
     },

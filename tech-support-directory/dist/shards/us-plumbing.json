@@ -1946,6 +1946,28 @@
       ]
     },
     {
+      "id": "general-pipe-cleaners",
+      "name": "General Pipe Cleaners",
+      "website": "https://drainbrain.com",
+      "categories": [
+        "plumbing"
+      ],
+      "support": [
+        {
+          "category": "plumbing",
+          "department": "Customer Support",
+          "phone": "+18002456200",
+          "country": "US",
+          "regions": [],
+          "timezone": null,
+          "last_verified": "2026-10-26",
+          "specialty_tags": [],
+          "notes": "Division of General Wire Spring Co., McKees Rocks, PA; drain-cleaning equipment",
+          "source": "https://news.thomasnet.com/fullstory/drain-cleaning-machine-blends-features-for-durability-usage-579915/"
+        }
+      ]
+    },
+    {
       "id": "genova",
       "name": "'Genova Products'",
       "website": "https://www.genovaproducts.com/",
@@ -4104,6 +4126,41 @@
       ]
     },
     {
+      "id": "premier-copper-products",
+      "name": "\"Premier Copper Products\"",
+      "website": null,
+      "categories": [
+        "plumbing",
+        "bathroom-systems"
+      ],
+      "support": [
+        {
+          "category": "plumbing",
+          "department": "Customer Support",
+          "phone": "+16024767332",
+          "country": "US",
+          "regions": [],
+          "timezone": null,
+          "last_verified": "2026-10-26",
+          "specialty_tags": [],
+          "notes": "Premier Copper Products, Phoenix, AZ (23910 N. 19th Ave. Building #4 Ste. 62, Phoenix, AZ 85085) - handmade copper sinks and baths. Main phone per the manufacturer warranty document; the same document lists a toll-free line as a second entry below.",
+          "source": "https://mans.io/files/viewer/741015/1"
+        },
+        {
+          "category": "plumbing",
+          "department": "Customer Support",
+          "phone": "+18772514486",
+          "country": "US",
+          "regions": [],
+          "timezone": null,
+          "last_verified": "2026-10-26",
+          "specialty_tags": [],
+          "notes": "Toll-free line from the same manufacturer warranty document (header: Toll Free: (877) 251-4486 / Phone: (602) 476-7332).",
+          "source": "https://mans.io/files/viewer/741015/1"
+        }
+      ]
+    },
+    {
       "id": "prier",
       "name": "PRIER Products",
       "website": "https://www.prier.com",
@@ -4144,6 +4201,28 @@
           "specialty_tags": [],
           "notes": "PROFLO products are manufactured for and distributed exclusively by Ferguson Enterprises, LLC; warranty documents direct callers to PROFLO customer service. Ferguson has no TechDirect file, so PROFLO has its own file with Ferguson as parent.",
           "source": "https://fergusonprod.a.bigcontent.io/v1/static/4334987_1479047_parts"
+        }
+      ]
+    },
+    {
+      "id": "real-tite",
+      "name": "\"Real-Tite\"",
+      "website": "\"https://real-titeplugs.com/\"",
+      "categories": [
+        "plumbing"
+      ],
+      "support": [
+        {
+          "category": "plumbing",
+          "department": "Customer Support",
+          "phone": "+18008213944",
+          "country": "US",
+          "regions": [],
+          "timezone": null,
+          "last_verified": "2026-10-26",
+          "specialty_tags": [],
+          "notes": "Real-Tite Plugs, Inc. (RealTite Plugs), 14940 Thunderbird Road, Kansas City, MO 64147 - plumbing expansion plugs (cleanout plugs, sleeves), 'Trusted in the field since 1981'. Official site footer gives Phone: 800-821-3944. An older Golden Valley MN Thomasnet listing with a different number is superseded/unconfirmed and was not filed.",
+          "source": "https://real-titeplugs.com/"
         }
       ]
     },

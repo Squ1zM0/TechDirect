@@ -3770,6 +3770,28 @@
       ]
     },
     {
+      "id": "gaskets-unlimited",
+      "name": "Gaskets Unlimited, LLC",
+      "website": "http://www.gasketsunlimited.com/",
+      "categories": [
+        "hvac"
+      ],
+      "support": [
+        {
+          "category": "hvac",
+          "department": "Customer Support",
+          "phone": "+18775427538",
+          "country": "US",
+          "regions": [],
+          "timezone": null,
+          "last_verified": "2026-10-26",
+          "specialty_tags": [],
+          "notes": "Atlanta, GA gasket and seal maker; hours Mon-Fri 8-5 ET per place listing;",
+          "source": "http://www.gasketsunlimited.com/"
+        }
+      ]
+    },
+    {
       "id": "ge-appliances",
       "name": "'GE Appliances'",
       "website": "https://www.geappliances.com/",
@@ -3810,6 +3832,28 @@
           "specialty_tags": [],
           "notes": "Imported from verified manufacturer spreadsheet (Oct 2026). Toll-free number published in a",
           "source": "https://www.generalfilters.com/cm/dpl/downloads/content/118/15101_MAC-L_4540_Installation_Manual.pdf"
+        }
+      ]
+    },
+    {
+      "id": "genetron",
+      "name": "Genetron",
+      "website": null,
+      "categories": [
+        "hvac"
+      ],
+      "support": [
+        {
+          "category": "hvac",
+          "department": "Customer Support",
+          "phone": "+18005228001",
+          "country": "US",
+          "regions": [],
+          "timezone": null,
+          "last_verified": "2026-10-26",
+          "specialty_tags": [],
+          "notes": "Honeywell refrigerant brand (Genetron refrigerants, Honeywell Advanced Materials);",
+          "source": "https://cdn.sanity.io/files/frn7dw1m/dev/723b0bf430c06dd5c635620e06839b5f9f814ac6.pdf"
         }
       ]
     },
@@ -4086,6 +4130,28 @@
           "specialty_tags": [],
           "notes": "US office main line (Texas). Ask for service/tech support as needed.",
           "source": "halton.com Halton USA location page"
+        }
+      ]
+    },
+    {
+      "id": "hankison",
+      "name": "Hankison",
+      "website": null,
+      "categories": [
+        "hvac"
+      ],
+      "support": [
+        {
+          "category": "hvac",
+          "department": "Customer Support",
+          "phone": "+17247451555",
+          "country": "US",
+          "regions": [],
+          "timezone": null,
+          "last_verified": "2026-10-26",
+          "specialty_tags": [],
+          "notes": "SPX Flow brand (compressed-air dryers and filtration, since 1948); this Hankison-specific",
+          "source": "https://www.compressorworld.com/assets/hankison-flex-air-dryers-brochure.pdf"
         }
       ]
     },
@@ -7193,6 +7259,52 @@
       ]
     },
     {
+      "id": "proline-radiant-heat",
+      "name": "\"ProLine Radiant Heat\"",
+      "website": "\"https://www.prolineradiant.com/radiant-heat/contact-us.php\"",
+      "categories": [
+        "hvac",
+        "hydronics"
+      ],
+      "support": [
+        {
+          "category": "hvac",
+          "department": "Customer Support",
+          "phone": "+18666769276",
+          "country": "US",
+          "regions": [],
+          "timezone": "MT",
+          "last_verified": "2026-10-26",
+          "specialty_tags": [],
+          "notes": "ProLine Radiant Heat, Springville, UT (141 W 900 N) - wholesale radiant heat solutions: heated driveways, roof de-icing, floor heating, pipe tracing; email sales@prolineradiant.com.",
+          "source": "https://www.prolineradiant.com/radiant-heat/contact-us.php"
+        }
+      ]
+    },
+    {
+      "id": "proselect",
+      "name": "\"PROSELECT\"",
+      "website": null,
+      "categories": [
+        "hvac",
+        "plumbing"
+      ],
+      "support": [
+        {
+          "category": "hvac",
+          "department": "Customer Support",
+          "phone": "+18007212590",
+          "country": "US",
+          "regions": [],
+          "timezone": "ET",
+          "last_verified": "2026-10-26",
+          "specialty_tags": [],
+          "notes": "PROSELECT is a Ferguson house brand (est. 2008): HVAC supplies, accessories, tools, water filtration, hydronics; PROSELECT FORCE boilers are sold exclusively by Ferguson. No standalone PROSELECT support contact exists, so the filed line is Ferguson's published general help line. PROSELECT FORCE shares this file as the PROSELECT boiler line. No Ferguson parent file exists in the existing or staged references, so this is filed as NEW-FILE rather than PARENT-RESOLVED; see REWORK-REPORT.md.",
+          "source": "https://www.ferguson.com/category/equipment-controls/?brandId=2136040802"
+        }
+      ]
+    },
+    {
       "id": "purafil",
       "name": "Purafil",
       "website": "https://purafil.com/",
@@ -7260,6 +7372,28 @@
       ]
     },
     {
+      "id": "quest",
+      "name": "\"Quest\"",
+      "website": null,
+      "categories": [
+        "hvac"
+      ],
+      "support": [
+        {
+          "category": "hvac",
+          "department": "Customer Support",
+          "phone": "+18774201330",
+          "country": "US",
+          "regions": [],
+          "timezone": null,
+          "last_verified": "2026-10-26",
+          "specialty_tags": [],
+          "notes": "Quest dehumidifiers by Therma-Stor LLC, 4201 Lien Rd, Madison, WI 53704 - sold through HVAC distributors; manuals say 'ask for the Service Department' for warranty service. Older Therma-Stor manuals show a general line 1-800-533-7533, not filed. Not Quest Software; Quest Electric Inc. (Casa Grande AZ contractor); Quest Controls (Palmetto FL); Quest Contracting & Engineering LLC (Macon GA); Quest Industrial LLC (Monroe WI); or Quest Technology Management.",
+          "source": "https://www.questclimate.com/wp-content/uploads/2024/09/Quest-225-QSG-A2L.pdf?dsview=1"
+        }
+      ]
+    },
+    {
       "id": "quincy-compressor",
       "name": "Quincy Compressor",
       "website": null,
@@ -7278,6 +7412,52 @@
           "specialty_tags": [],
           "notes": "Quincy Compressor is an Atlas Copco brand; no distinct Quincy line was verified in this pass, so the Atlas Copco US number is used with the parent noted. Air compressors; no compressor term exists in the vocabulary, so mapped to hvac. An Atlas Copco emergency line also exists and is not published as the Quincy line.",
           "source": "https://www.atlascopco.com/en-us/compressors/service/Plans?__hsfp=1281939615&__hssc=204429455.2.1617644513514&__hstc=204429455.acacebc73d1a89b602bd334b1b5b482c.1590594476709.1617282763078.1617644513514.373"
+        }
+      ]
+    },
+    {
+      "id": "rapid-locking-system",
+      "name": "\"Rapid Locking System\"",
+      "website": "\"https://rapidlockingsystem.com/about-rls-hvacr-press-fittings/rls-history/\"",
+      "categories": [
+        "hvac",
+        "piping-systems"
+      ],
+      "support": [
+        {
+          "category": "hvac",
+          "department": "Customer Support",
+          "phone": "+13149070300",
+          "country": "US",
+          "regions": [],
+          "timezone": null,
+          "last_verified": "2026-10-26",
+          "specialty_tags": [],
+          "notes": "RLS LLC, St. Louis, MO - Rapid Locking System flame-free press-to-connect fittings for HVAC/refrigeration; part of Marmon Holdings (Berkshire Hathaway). Introduced as ZoomLock under a Parker Hannifin private-label agreement in 2015, relaunched under its own brand end of 2019, moved to an 80,000-sq-ft St. Louis HQ in 2022. Not Spectrum Aquatics' Rapid Lock starting-block feature or NETZSCH SMARTLOCK.",
+          "source": "https://rapidlockingsystem.com/about-rls-hvacr-press-fittings/rls-history/"
+        }
+      ]
+    },
+    {
+      "id": "raychem",
+      "name": "\"Raychem\"",
+      "website": null,
+      "categories": [
+        "electrical",
+        "hvac"
+      ],
+      "support": [
+        {
+          "category": "hvac",
+          "department": "Technical Support",
+          "phone": "+18005456258",
+          "country": "US",
+          "regions": [],
+          "timezone": null,
+          "last_verified": "2026-10-26",
+          "specialty_tags": [],
+          "notes": "nVent RAYCHEM heat tracing scope ONLY: 'For technical support call nVent at (800) 545-6258' per the nVent RAYCHEM JBM-100-L-A instruction manual; nVent design guides give North America Tel +1.800.545.6258, thermal.info@nVent.com. Raychem originated with TE Connectivity; the heat-tracing business is now nVent RAYCHEM. This number covers heat tracing only - not TE heat-shrink.",
+          "source": "https://www.manualshelf.com/manual/nvent-raychem/jbm-100-l-a/instruction-manual-english-french.html"
         }
       ]
     },
@@ -7367,6 +7547,28 @@
           "specialty_tags": [],
           "notes": "Red Dot Corporation, P.O. Box 58270, Seattle, WA 98138. Mobile-vehicle HVAC (trucks, buses, off-highway), founded 1965. Thomasnet confirms the same number and Seattle address.",
           "source": "https://www.texastruckac.com/_files/ugd/3a3306_5d626b8186294b4fb8aab8d17917861b.pdf"
+        }
+      ]
+    },
+    {
+      "id": "refco",
+      "name": "\"Refco\"",
+      "website": "\"https://refcoswiss.com/en-us?_ptr=1\"",
+      "categories": [
+        "hvac"
+      ],
+      "support": [
+        {
+          "category": "hvac",
+          "department": "Customer Support",
+          "phone": "+14137394761",
+          "country": "US",
+          "regions": [],
+          "timezone": null,
+          "last_verified": "2026-10-26",
+          "specialty_tags": [],
+          "notes": "REFCO Manufacturing Ltd., Swiss HVAC/R service tools manufacturer (manifolds, vacuum pumps, recovery stations, condensate pumps; founded 1972, Hitzkirch, Switzerland). Filed line is the US subsidiary: REFCO Manufacturing (US) Inc., 66 B Industry Avenue, Springfield, MA 01104; email sales@refcoswiss.com. Swiss HQ line +41 41 919 72 82 (Industriestrasse 11, CH-6285 Hitzkirch) is the parent-company line, not filed. Not Repco (erepco.com, appliance controls), a different company.",
+          "source": "https://refcoswiss.com/en-us?_ptr=1"
         }
       ]
     },
@@ -8442,6 +8644,50 @@
       ]
     },
     {
+      "id": "surestart",
+      "name": "SureStart",
+      "website": null,
+      "categories": [
+        "hvac"
+      ],
+      "support": [
+        {
+          "category": "hvac",
+          "department": "Customer Support",
+          "phone": "+18479311304",
+          "country": "US",
+          "regions": [],
+          "timezone": null,
+          "last_verified": "2026-10-26",
+          "specialty_tags": [],
+          "notes": "SureStart single-phase soft-starter line for large single-phase compressors and motors, by Hyper Engineering; the SureStart pages now carry Eltwin branding. The US line +1 847 931 1304 is printed on the product page; an Australian line is also printed, noted, not filed. NOT a Supco product: the CSV's hypothesized Supco connection is rejected (Supco makes SPP hard-start kits, a different technology; SureStart is a soft starter). CSV category 'hard start kits' is corrected to soft starters here.",
+          "source": "http://hypereng.com/single_phase.html"
+        }
+      ]
+    },
+    {
+      "id": "surface-igniter",
+      "name": "Surface Igniter",
+      "website": "https://surfaceigniter.com/",
+      "categories": [
+        "hvac"
+      ],
+      "support": [
+        {
+          "category": "hvac",
+          "department": "Customer Support",
+          "phone": "+18652682833",
+          "country": "US",
+          "regions": [],
+          "timezone": null,
+          "last_verified": "2026-10-26",
+          "specialty_tags": [],
+          "notes": "Surface Igniter, LLC, Maryville, TN (1709 Henry G Lane St). Hot surface igniters (silicon carbide / silicon nitride) for HVAC, boilers, water heaters, cooking and dryer industries. Established 1997 when Graphite Sales Inc. purchased the silicon carbide igniter business from the Carborundum Company (pioneering since 1969). Number and customerservice@surfaceigniter.com are in the official site footer.",
+          "source": "https://surfaceigniter.com/"
+        }
+      ]
+    },
+    {
       "id": "systemair",
       "name": "Systemair USA",
       "website": "https://www.systemair.com/en-us/",
@@ -8576,6 +8822,28 @@
       ]
     },
     {
+      "id": "temp-cool",
+      "name": "TEMP-COOL",
+      "website": null,
+      "categories": [
+        "hvac"
+      ],
+      "support": [
+        {
+          "category": "hvac",
+          "department": "Customer Support",
+          "phone": "+18663732474",
+          "country": "US",
+          "regions": [],
+          "timezone": null,
+          "last_verified": "2026-10-26",
+          "specialty_tags": [],
+          "notes": "TEMP-COOL portable cooling line of TEMP-AIR Inc., Burnsville, MN (3700 West Preserve Boulevard). Portable HVAC units TC-12B through TC-60B4. Number 1-866-373-2474 is the equipment-sales consultation line on the current TEMP-AIR Equipment Sales site; also 1-888-535-8841 is noted. TEMP-AIR, Inc. joined Sunbelt Rentals effective February 8, 2019; the pre-acquisition 2013 manual number is superseded and is not filed. Filed as Customer Support (sales consultation line), not Technical Support, since the source does not label it tech.",
+          "source": "https://tempairsales.com/portable-hvac-solutions-fall-fleet-planning/"
+        }
+      ]
+    },
+    {
       "id": "temprite",
       "name": "\"Temprite\"",
       "website": "\"https://temprite.com/products/\"",
@@ -8705,6 +8973,28 @@
           "specialty_tags": [],
           "notes": "Parent confirmed Oct 26, 2026: ThermalRite is an Everidge brand (Everidge",
           "source": "https://www.everidge.com/wp-content/uploads/2026/06/ThermalRite-Warranty_EV5022.pdf"
+        }
+      ]
+    },
+    {
+      "id": "thermo-manufacturing",
+      "name": "Thermo Manufacturing",
+      "website": "https://www.thermopan.com/",
+      "categories": [
+        "hvac"
+      ],
+      "support": [
+        {
+          "category": "hvac",
+          "department": "Customer Support",
+          "phone": "+18886783709",
+          "country": "US",
+          "regions": [],
+          "timezone": null,
+          "last_verified": "2026-10-26",
+          "specialty_tags": [],
+          "notes": "Thermo Manufacturing, Inc., Canton, OH. Sheet-metal return-air pans and grilles (ThermoPan). Number (888) 678-3709 is the toll-free line on the manufacturer's own specification sheet. A local number is noted.",
+          "source": "https://externalassets.unilogcorp.com/ASSETS/DOCUMENTS/ITEMS/EN/Thermo_Manufacturing_30033_Specification_Sheet.pdf"
         }
       ]
     },
