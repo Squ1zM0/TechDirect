@@ -23,7 +23,7 @@ function readYamlAsText(file) {
 
 function pickOne(re, txt) {
   const m = txt.match(re);
-  return m ? m[1].trim() : null;
+  return m ? m[1].trim().replace(/^["']|["']$/g, "") : null;
 }
 
 function pickArray(key, txt) {
