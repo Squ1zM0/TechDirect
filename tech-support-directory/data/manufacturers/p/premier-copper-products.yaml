@@ -1,0 +1,19 @@
+id: premier-copper-products
+name: "Premier Copper Products"
+categories: [plumbing, bathroom-systems]
+aliases: []
+support:
+  - category: plumbing
+    department: Customer Support
+    phone: "+16024767332"
+    country: US
+    notes: "Premier Copper Products, Phoenix, AZ (23910 N. 19th Ave. Building #4 Ste. 62, Phoenix, AZ 85085) - handmade copper sinks and baths. Main phone per the manufacturer warranty document; the same document lists a toll-free line as a second entry below."
+    source: "https://mans.io/files/viewer/741015/1"
+    last_verified: "2026-10-26"
+  - category: plumbing
+    department: Customer Support
+    phone: "+18772514486"
+    country: US
+    notes: "Toll-free line from the same manufacturer warranty document (header: Toll Free: (877) 251-4486 / Phone: (602) 476-7332)."
+    source: "https://mans.io/files/viewer/741015/1"
+    last_verified: "2026-10-26"

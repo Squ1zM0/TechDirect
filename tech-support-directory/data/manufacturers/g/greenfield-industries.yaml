@@ -1,0 +1,14 @@
+id: greenfield-industries
+name: Greenfield Industries, Inc.
+website: https://www.gfii.com
+categories:
+- hardware
+aliases: []
+support:
+- category: hardware
+  department: Customer Support
+  phone: '+18003482885'
+  country: US
+  notes: Seneca, SC cutting-tool maker; brands Cleveland, Chicago-Latrobe, Cle-Line.
+  source: https://www.gfii.com/brands/cleveland
+  last_verified: '2026-10-26'

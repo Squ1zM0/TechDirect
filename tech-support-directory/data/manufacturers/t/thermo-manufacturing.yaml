@@ -1,0 +1,14 @@
+id: thermo-manufacturing
+name: Thermo Manufacturing
+website: https://www.thermopan.com/
+categories:
+- hvac
+aliases: []
+support:
+- category: hvac
+  department: Customer Support
+  phone: "+18886783709"
+  country: US
+  notes: "Thermo Manufacturing, Inc., Canton, OH. Sheet-metal return-air pans and grilles (ThermoPan). Number (888) 678-3709 is the toll-free line on the manufacturer's own specification sheet. A local number is noted."
+  source: https://externalassets.unilogcorp.com/ASSETS/DOCUMENTS/ITEMS/EN/Thermo_Manufacturing_30033_Specification_Sheet.pdf
+  last_verified: "2026-10-26"

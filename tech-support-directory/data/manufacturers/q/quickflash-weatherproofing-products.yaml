@@ -1,0 +1,19 @@
+id: quickflash-weatherproofing-products
+name: "Quickflash Weatherproofing Products"
+categories: [hardware]
+aliases: ["Quickflash", "QUICKFLASH WEATHERPROOFING"]
+support:
+  - category: hardware
+    department: Customer Support
+    phone: "+17026146100"
+    country: US
+    notes: "Quickflash Weatherproofing Products, Inc., 4129 Wagon Trail Avenue, Las Vegas, NV 89118 - flashing panels for wall penetrations (electrical, plumbing, HVAC); email qfinfo@quickflashproducts.com. Covers xref spellings Quickflash, QUICKFLASH WEATHERPROOFING, and Quickflash Weatherproofing Products. A 2026 brochure also lists a toll-free line, filed as a second entry below. Not Quickflash New Zealand (quickflash.co.nz)."
+    source: "http://www.quickflashproducts.com/Forms/Quickflash Weatherproofing - Guide Specification.pdf"
+    last_verified: "2026-10-26"
+  - category: hardware
+    department: Customer Support
+    phone: "+18009636886"
+    country: US
+    notes: "Toll-free line per the 2026 Quickflash brochure."
+    source: "https://www.weatherizationpartners.com/wp-content/uploads/2026/03/Quickflash-Brochure-2026.pdf"
+    last_verified: "2026-10-26"

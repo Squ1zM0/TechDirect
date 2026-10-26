@@ -1,0 +1,20 @@
+id: tappan-wire-and-cable
+name: Tappan Wire & Cable
+categories:
+- electrical
+aliases: []
+support:
+- category: electrical
+  department: Customer Support
+  phone: '+18009473911'
+  country: US
+  notes: 'Tappan Wire & Cable Inc., Blauvelt, NY (100 Bradley Parkway, Blauvelt, NY
+    10913). Wire and cable maker. Number 1-800-WIRE-911 and fax 1-845-353-9315 are
+    in a July 2012 Tappan products document; the brand is still listed by distributors,
+    but currency of this 2012-era number is unverified and should be re-confirmed
+    at port time. Distinct from existing tappan (Nortek/Rheem HVAC appliance brand);
+    the two are not merged. Port-time re-check Oct 26, 2026: no newer published number
+    found (distributor listings carry Tappan products but publish no phone); the July
+    2012 document remains the only published source.'
+  source: https://images.thdstatic.com/catalog/pdfImages/a6/a6f2add2-1483-43bf-8476-ddcee7bc0f92.pdf
+  last_verified: '2026-10-26'

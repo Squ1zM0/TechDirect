@@ -1,0 +1,13 @@
+id: thermal-arc
+name: Thermal Arc
+categories:
+- electrical
+aliases: []
+support:
+- category: electrical
+  department: Technical Support
+  phone: "+18003722123"
+  country: US
+  notes: "Legacy file per the legacy rule. Thermal Arc is a Victor / ESAB welding brand; no Thermal Arc-specific routing was verified, so support is via the ESAB general Technical Service line 1-800-ESAB-123 (printed in the ESAB Communication Guide in ESAB manuals, hours 7:30 AM-5:00 PM EST). The ESAB engineering-service troubleshooting line (843) 664-4416 is noted. NOT parent-resolved to staged thermal-dynamics (batch-18), which is a separate ESAB/Victor brand with its own number; the sibling question is resolved as an own file with the ESAB line. Electrical is the closest category-vocabulary term for welding equipment."
+  source: https://manuzoid.com/manuals/1g28k-ESAB%20PCM-625i%20Plasma%20Arc%20Cutting%20Package%20Troubleshooting%20instruction
+  last_verified: "2026-10-26"

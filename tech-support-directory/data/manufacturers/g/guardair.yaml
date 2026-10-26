@@ -1,0 +1,18 @@
+id: guardair
+name: Guardair Corporation
+website: https://guardair.com
+categories:
+- hardware
+aliases: []
+support:
+- category: hardware
+  department: Customer Support
+  phone: '+18004827324'
+  country: US
+  notes: Chicopee, MA maker of OSHA-compliant safety air guns and pneumatic vacuums;
+    info@guardair.com.
+  source: https://guardair.com/collections/safety-air-guns/medium
+  last_verified: '2026-10-26'
+hours:
+  timezone: America/New_York
+  mon_fri: 8AM-5PM

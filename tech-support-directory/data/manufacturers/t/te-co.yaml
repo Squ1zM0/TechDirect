@@ -1,0 +1,15 @@
+id: te-co
+name: TE-CO Workholding
+website: https://www.te-co.com/
+categories:
+- hardware
+aliases:
+- TE-CO Manufacturing
+support:
+- category: hardware
+  department: Customer Support
+  phone: "+18005434071"
+  country: US
+  notes: "TE-CO Workholding / TE-CO Manufacturing, Union, OH. Workholding components and fasteners (TOOLEX vises, jig and fixture components). Number is the manufacturer toll-free line from Thomasnet releases and catalogs; the own site also lists toll-free 855-573-1431 and local 937-836-0961, noted, not filed as main."
+  source: https://www.te-co.com/products/oem-mro-components/
+  last_verified: "2026-10-26"

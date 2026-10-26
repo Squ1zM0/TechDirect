@@ -1,0 +1,15 @@
+id: proselect
+name: "PROSELECT"
+categories: [hvac, plumbing]
+aliases: ["PROSELECT FORCE"]
+support:
+  - category: hvac
+    department: Customer Support
+    phone: "+18007212590"
+    country: US
+    notes: "PROSELECT is a Ferguson house brand (est. 2008): HVAC supplies, accessories, tools, water filtration, hydronics; PROSELECT FORCE boilers are sold exclusively by Ferguson. No standalone PROSELECT support contact exists, so the filed line is Ferguson's published general help line. PROSELECT FORCE shares this file as the PROSELECT boiler line. No Ferguson parent file exists in the existing or staged references, so this is filed as NEW-FILE rather than PARENT-RESOLVED; see REWORK-REPORT.md."
+    source: "https://www.ferguson.com/category/equipment-controls/?brandId=2136040802"
+    last_verified: "2026-10-26"
+    hours:
+      timezone: "ET"
+      mon_fri: "8:00 AM - 6:00 PM"

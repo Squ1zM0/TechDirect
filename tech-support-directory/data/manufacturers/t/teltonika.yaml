@@ -1,0 +1,14 @@
+id: teltonika
+name: Teltonika Networks
+website: https://www.teltonika-networks.com/
+categories:
+- electrical
+aliases: []
+support:
+- category: electrical
+  department: Technical Support
+  phone: "+16406502356"
+  country: US
+  notes: "Teltonika Networks, Kaunas, Lithuania. IoT routers and gateways. The official contacts and support pages list a US technical support line +1 640 650 2356 (hours 08:00-00:00 Lithuania time, Monday-Friday; support in English and Lithuanian); this resolves the prior 'non-US manufacturer, no US line verified' note with an official-site US line. Electrical is the closest category-vocabulary term for IoT networking hardware."
+  source: https://www.teltonika-networks.com/about-us/contacts
+  last_verified: "2026-10-26"

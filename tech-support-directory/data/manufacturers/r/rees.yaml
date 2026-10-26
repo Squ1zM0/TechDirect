@@ -1,0 +1,12 @@
+id: rees
+name: "Rees"
+categories: [electrical]
+aliases: []
+support:
+  - category: electrical
+    department: Customer Support
+    phone: "+12604959811"
+    country: US
+    notes: "Rees, Inc. - explosion-proof switches, palm switches, cable-operated pull switches, mushroom plungers (heavy-duty control-circuit devices). Number per the Thomasnet catalog page; the (260) area code places the company in northeast Indiana."
+    source: "https://www.thomasnet.com/company/rees-inc-109546/catalog?family=guards&category=switch-guards"
+    last_verified: "2026-10-26"

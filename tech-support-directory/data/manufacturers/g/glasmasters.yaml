@@ -1,0 +1,16 @@
+id: glasmasters
+name: GlasMasters
+website: http://www.glasmasters.com/
+categories:
+- hardware
+aliases: []
+support:
+- category: hardware
+  department: Customer Support
+  phone: '+19044007100'
+  country: US
+  notes: Glass manufacturer/fabricator with Jacksonville, FL and Sweetwater, TN locations
+    (Sweetwater 423-271-6223 also published); no glass term in vocabulary so mapped
+    to hardware; xref spelling 'Glas Masters' is the same company name with a space.
+  source: http://www.glasmasters.com/
+  last_verified: '2026-10-26'

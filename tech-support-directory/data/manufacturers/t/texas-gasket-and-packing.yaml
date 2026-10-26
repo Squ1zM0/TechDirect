@@ -1,0 +1,22 @@
+id: texas-gasket-and-packing
+name: Texas Gasket & Packing
+website: http://www.texasgasketandpacking.com/
+categories:
+- piping-systems
+aliases: []
+support:
+- category: piping-systems
+  department: Customer Support
+  phone: '+17136747531'
+  country: US
+  notes: 'Texas Gasket & Packing Co., Houston, TX (1255 Lathrop St, Houston, TX 77020).
+    Distributor and fabricator of gaskets and gasket material since 1977; an Elliott
+    Electric catalog lists the company as the manufacturer of a conduit-body gasket.
+    NOTE: the company site did not load on 2026-10-26 (DNS/connection failure), so
+    this number is place-listing-sourced for the Houston address; re-confirm against
+    the company site at port time. The failed load is not treated as proof the site
+    is dead. Piping-systems is the closest category-vocabulary term for gaskets/seals.
+    Port-time re-check Oct 26, 2026: company site still unreachable (DNS failure,
+    second attempt); file ports with its place-listing sourcing caveat intact.'
+  source: http://www.texasgasketandpacking.com/
+  last_verified: '2026-10-26'

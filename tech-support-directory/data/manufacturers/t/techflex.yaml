@@ -1,0 +1,14 @@
+id: techflex
+name: Techflex
+website: https://www.techflex.com/
+categories:
+- electrical
+aliases: []
+support:
+- category: electrical
+  department: Customer Support
+  phone: "+18337533846"
+  country: US
+  notes: "Techflex Inc., Sparta, NJ (104 Demarest Road). Braided sleeving and cable protection since 1965. Number 1-833-SLEEVING (1-833-753-3846), 9:00am-5:30pm EST, is on techflex.com's own page and resolves the prior conflict: the number that surfaced in Phase 1 (800-633-6339) appears on GlobalSpec datasheets with supplier listed as Lapp Tannehill, and a Lapp Tannehill FAQ shows it as Lapp Tannehill's own contact, so it is a distributor number and is NOT filed. Older Techflex catalog numbers (800-323-5140 / 973-300-9242) are noted, not filed."
+  source: https://www.techflex.com/resources/tips/using-a-hot-knife
+  last_verified: "2026-10-26"

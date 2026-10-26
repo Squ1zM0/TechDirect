@@ -1,0 +1,17 @@
+id: franklin-international
+name: Franklin International
+website: https://titebond.com
+categories:
+- hardware
+aliases:
+- Titebond
+support:
+- category: hardware
+  department: Technical Support
+  phone: '+18003474583'
+  country: US
+  notes: Columbus, OH adhesives maker (Titebond brand); page labels it 'Franklin Technical
+    Service' / 'TECH SERVICE'; Customer Service 800-669-4583 also published but the
+    tech line is filed; adhesives/sealants mapped to hardware.
+  source: https://titebond.com/print/product/60e6eb46-89e3-4da1-b259-f2c80266f3ac
+  last_verified: '2026-10-26'

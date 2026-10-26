@@ -1,0 +1,12 @@
+id: reed-manufacturing
+name: "Reed Manufacturing"
+categories: [hardware]
+aliases: ["Reed Manufacturing Company"]
+support:
+  - category: hardware
+    department: Customer Support
+    phone: "+18006663691"
+    country: US
+    notes: "Reed Manufacturing Company, 1425 W 8th St, Erie, PA - pipe tools and vises since 1896 (pipe/tubing cutters, cutter wheels, vises, groovers, power drives, threaders, water services tools); email reedsales@reedmfgco.com. Toll-free line filed; Erie direct line +1-814-452-3691 also published. Covers both xref spellings: Reed Manufacturing and Reed Manufacturing Company (the second is the CSV's embedded-newline variant)."
+    source: "https://www.thomasnet.com/company/reed-manufacturing-co-159103/profile?heading=48991004"
+    last_verified: "2026-10-26"

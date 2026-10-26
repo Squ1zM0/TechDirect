@@ -1,0 +1,13 @@
+id: surestart
+name: SureStart
+categories:
+- hvac
+aliases: []
+support:
+- category: hvac
+  department: Customer Support
+  phone: "+18479311304"
+  country: US
+  notes: "SureStart single-phase soft-starter line for large single-phase compressors and motors, by Hyper Engineering; the SureStart pages now carry Eltwin branding. The US line +1 847 931 1304 is printed on the product page; an Australian line is also printed, noted, not filed. NOT a Supco product: the CSV's hypothesized Supco connection is rejected (Supco makes SPP hard-start kits, a different technology; SureStart is a soft starter). CSV category 'hard start kits' is corrected to soft starters here."
+  source: http://hypereng.com/single_phase.html
+  last_verified: "2026-10-26"

@@ -1,0 +1,14 @@
+id: targetti
+name: Targetti
+website: https://www.targettiusa.com/
+categories:
+- electrical
+aliases: []
+support:
+- category: electrical
+  department: Customer Support
+  phone: "+17145131991"
+  country: US
+  notes: "Targetti USA, Costa Mesa, CA (750 W 17th St). Architectural/outdoor lighting; US arm of Targetti Sankey S.r.l., Florence, Italy (an Italian parent number is listed on parent datasheets, noted, not filed). The split row 'TARGETTI/LOUIS POULSEN' is resolved here for Targetti only: Targetti bought Louis Poulsen in 2007, but the two are separate brands today and are not merged. The Louis Poulsen portion is NO-NUMBER within this row: Louis Poulsen (Danish lighting maker, founded 1874, now part of the FLOS B&B Italia Group since December 2018) publishes no US support phone on its official pages (emails and a NYC Madison Avenue showroom only); retailer numbers are retailer lines, not manufacturer lines. A UK online-store line exists but is not a US support line."
+  source: https://landscapearchitect.com/ladetails/landscape-supplier/targetti-usa&view=list&order=alpha
+  last_verified: "2026-10-26"

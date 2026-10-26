@@ -1,0 +1,12 @@
+id: real-time-automation
+name: "Real Time Automation"
+categories: [electrical, hvac-controls]
+aliases: []
+support:
+  - category: electrical
+    department: Customer Support
+    phone: "+18002491612"
+    country: US
+    notes: "Real Time Automation, Inc. (RTA), Pewaukee, WI - industrial/building-automation protocol gateways (Modbus, BACnet, PROFINET, EtherNet/IP); founded 1989; email solutions@rtautomation.com. Older Milwaukee address (2825 North Mayfair Road, (414) 453-5100) superseded by the Pewaukee HQ and 800 line."
+    source: "https://www.rtautomation.com/tag/dce/"
+    last_verified: "2026-10-26"

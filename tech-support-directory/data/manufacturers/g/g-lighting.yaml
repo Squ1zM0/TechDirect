@@ -1,0 +1,15 @@
+id: g-lighting
+name: G Lighting
+website: http://www.glighting.com/
+categories:
+- electrical
+aliases: []
+support:
+- category: electrical
+  department: Customer Support
+  phone: '+13146316000'
+  country: US
+  notes: St. Louis, MO manufacturer of specification and commercial grade lighting
+    since 1908; fixtures made to order in St. Louis; sales@glighting.com.
+  source: https://16500.com/wp-content/uploads/2022/03/TERMS-AND-CONDITIONS-G-LIGHTING-FEB-2022.pdf
+  last_verified: '2026-10-26'

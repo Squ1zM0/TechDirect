@@ -1,0 +1,21 @@
+id: superior-electric
+name: Superior Electric
+categories:
+- electrical
+aliases: []
+support:
+- category: electrical
+  department: Customer Support
+  phone: '+18007873532'
+  country: US
+  notes: 'POWERSTAT variable-transformer maker (Danaher era, Farmington, CT). Number
+    is the Customer Service line printed across POWERSTAT datasheets (also 860-507-2025,
+    noted). The brand is currently marketed via Specialty Product Technologies (current
+    POWERSTAT product page), so currency of this Danaher-era line should be re-confirmed
+    at port time. Distinct from existing superior-boiler, staged superior-essex and
+    superior-glove, and from the many Superior Electric contractor firms. Port-time
+    re-check Oct 26, 2026: current Specialty Product Technologies POWERSTAT pages
+    list no support phone; the datasheet Customer Service line (1-800-787-3532) remains
+    the only published line, corroborated by two datasheet sources.'
+  source: https://datasheet.octopart.com/L2M226C-Superior-Electric-datasheet-8491390.pdf
+  last_verified: '2026-10-26'

@@ -1,0 +1,12 @@
+id: quest
+name: "Quest"
+categories: [hvac]
+aliases: []
+support:
+  - category: hvac
+    department: Customer Support
+    phone: "+18774201330"
+    country: US
+    notes: "Quest dehumidifiers by Therma-Stor LLC, 4201 Lien Rd, Madison, WI 53704 - sold through HVAC distributors; manuals say 'ask for the Service Department' for warranty service. Older Therma-Stor manuals show a general line 1-800-533-7533, not filed. Not Quest Software; Quest Electric Inc. (Casa Grande AZ contractor); Quest Controls (Palmetto FL); Quest Contracting & Engineering LLC (Macon GA); Quest Industrial LLC (Monroe WI); or Quest Technology Management."
+    source: "https://www.questclimate.com/wp-content/uploads/2024/09/Quest-225-QSG-A2L.pdf?dsview=1"
+    last_verified: "2026-10-26"

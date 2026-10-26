@@ -1,0 +1,15 @@
+id: tele-fonika-cable
+name: Tele-Fonika Cable Americas
+website: https://www.tfcable.com/
+categories:
+- electrical
+aliases:
+- TF Cable
+support:
+- category: electrical
+  department: Customer Support
+  phone: "+16304069000"
+  country: US
+  notes: "Tele-Fonika Cable Americas (TFCA), Batavia, IL (1160 Pierson Drive, Suite 102). Wholly owned US subsidiary of Tele-Fonika Kable (TFKable Group, Poland), active in the Americas since 1987. Number (630) 406-9000 is in an IEWC-hosted TF Cable catalogue PDF (www.tfcable.com). A later directory profile places the company in Franklin Park, IL; the Batavia catalogue address is used here and the discrepancy is noted."
+  source: https://www.iewc.com/UserFiles/documents/products/w0/40/2_/0_/tf/_s/pe/ci/fi/ca/w0402_0_tf_specification.pdf
+  last_verified: "2026-10-26"

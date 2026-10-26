@@ -1,0 +1,16 @@
+id: quabbin-wire-cable
+name: "Quabbin Wire and Cable"
+website: "http://www.quabbin.com/"
+categories: [electrical]
+aliases: ["Quabbin Wire & Cable Co., Inc."]
+support:
+  - category: electrical
+    department: Customer Support
+    phone: "+18003683311"
+    country: US
+    notes: "Quabbin Wire & Cable Co., Inc., 10 Maple Street, Ware, MA 01082 - electronic cables; email sales@quabbin.com. Official brochure labels this the Sales Service Department line; a GlobalSpec announcement phrases the same line as technical support, but the manufacturer label (Sales Service) governs the department. The earlier near-miss ABB candidate was a false friend."
+    source: "http://www.quabbin.com/sites/default/files/publications/Quabbin%20corporate%20brochure%202014-5-27.pdf"
+    last_verified: "2026-10-26"
+    hours:
+      timezone: "ET"
+      mon_fri: "8:00 AM - 5:00 PM"

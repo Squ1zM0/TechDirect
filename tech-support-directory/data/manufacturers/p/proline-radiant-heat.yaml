@@ -1,0 +1,16 @@
+id: proline-radiant-heat
+name: "ProLine Radiant Heat"
+website: "https://www.prolineradiant.com/radiant-heat/contact-us.php"
+categories: [hvac, hydronics]
+aliases: []
+support:
+  - category: hvac
+    department: Customer Support
+    phone: "+18666769276"
+    country: US
+    notes: "ProLine Radiant Heat, Springville, UT (141 W 900 N) - wholesale radiant heat solutions: heated driveways, roof de-icing, floor heating, pipe tracing; email sales@prolineradiant.com."
+    source: "https://www.prolineradiant.com/radiant-heat/contact-us.php"
+    last_verified: "2026-10-26"
+    hours:
+      timezone: "MT"
+      mon_fri: "8:00 AM - 5:00 PM"

@@ -1,0 +1,13 @@
+id: quirk-wire
+name: "Quirk Wire"
+website: "https://quirkwire.com/"
+categories: [electrical]
+aliases: []
+support:
+  - category: electrical
+    department: Customer Support
+    phone: "+15088673155"
+    country: US
+    notes: "Quirk Wire Co. Inc., 146 E Main St, West Brookfield, MA - high-temperature wire and cable (PTFE, FEP, ETFE, PFA, Kapton insulations); founded as Wirecraft Products 1956, reorganised as Quirk Wire 1978. Number per the company's catalog and place listing."
+    source: "https://quirkwire.com/"
+    last_verified: "2026-10-26"

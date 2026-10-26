@@ -1,0 +1,16 @@
+id: public-steel
+name: "Public Steel"
+website: "http://www.publicsteel.com/"
+categories: [hardware]
+aliases: []
+support:
+  - category: hardware
+    department: Customer Support
+    phone: "+18063761345"
+    country: US
+    notes: "Public Steel Inc., 1012 SW 4th Ave, Amarillo, TX - family-owned since 1948, structural and miscellaneous steel. A ScrapMonster listing shows a different (855) number that was not tied to a primary source and was not filed."
+    source: "http://www.publicsteel.com/"
+    last_verified: "2026-10-26"
+    hours:
+      timezone: "CT"
+      mon_fri: "8:00 AM - 5:00 PM"

@@ -1,0 +1,17 @@
+id: gamma-insulators
+name: GAMMA Insulators Company
+website: https://www.gammainsulators.com
+categories:
+- electrical
+aliases:
+- GAMMA
+support:
+- category: electrical
+  department: Customer Support
+  phone: '+16186494162'
+  country: US
+  notes: Colombia-based insulator maker (Corona Group subsidiary) with US warehouses
+    in Houston, TX and Plainfield, IN; brochure also lists +1 (760) 742-9749; porcelain/glass/polymer
+    insulators for utilities.
+  source: https://www.gammainsulators.com/wp-content/uploads/2024/07/Product_Brochure_24062024_.pdf
+  last_verified: '2026-10-26'

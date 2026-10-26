@@ -1,0 +1,13 @@
+id: pupi
+name: "PUPI"
+website: "https://pupi.com/why-pupi/engineering/"
+categories: [electrical]
+aliases: []
+support:
+  - category: electrical
+    department: Customer Support
+    phone: "+18005331680"
+    country: US
+    notes: "PUPI fiberglass crossarms by GEOTEK, Stewartville, MN (1421 Second Ave. NW, Stewartville, MN 55976); email pupisales@geotek.com. GEOTEK bought Pultruded Utility Products Incorporated in 2000 and has made PUPI crossarms since 1994."
+    source: "https://pupi.com/why-pupi/engineering/"
+    last_verified: "2026-10-26"

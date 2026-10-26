@@ -1,0 +1,16 @@
+id: premier-conduit
+name: "Premier Conduit"
+website: "http://www.premierconduit.com/"
+categories: [electrical]
+aliases: []
+support:
+  - category: electrical
+    department: Customer Support
+    phone: "+18148352900"
+    country: US
+    notes: "Premier Conduit Inc., 2930 W. 22nd St., Erie, PA 16506 - manufacturer of flexible non-metallic corrugated raceways/conduits (UL-2024). Distinct from Prime Conduit (staged prime-conduit)."
+    source: "https://www.premierconduit.com/products/"
+    last_verified: "2026-10-26"
+    hours:
+      timezone: "ET"
+      mon_fri: "8:00 AM - 5:00 PM"

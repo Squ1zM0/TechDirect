@@ -1,0 +1,17 @@
+id: grecon
+name: GreCon (Fagus GreCon Inc.)
+website: http://www.grecon.us/
+categories:
+- electrical
+aliases:
+- Fagus GreCon
+support:
+- category: electrical
+  department: Customer Support
+  phone: '+17049122000'
+  country: US
+  notes: Charlotte, NC spark-detection / fire-protection systems maker; spark detection
+    mapped to electrical (closest term); number from place listing for grecon.us -
+    re-verify on the company's own site at port time.
+  source: http://www.grecon.us/
+  last_verified: '2026-10-26'

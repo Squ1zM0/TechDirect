@@ -1,0 +1,13 @@
+id: radar-engineers
+name: "Radar Engineers"
+website: "http://www.radarengineers.com/"
+categories: [electrical]
+aliases: []
+support:
+  - category: electrical
+    department: Customer Support
+    phone: "+15032563417"
+    country: US
+    notes: "Radar Engineers, 9535 NE Colfax St, Portland, OR - electrical utility engineering services / T&D. Number per place listing for the company domain, corroborated by a Blue Book profile."
+    source: "http://www.radarengineers.com/"
+    last_verified: "2026-10-26"

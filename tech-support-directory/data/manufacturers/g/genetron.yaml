@@ -1,0 +1,15 @@
+id: genetron
+name: Genetron
+categories:
+- hvac
+aliases: []
+support:
+- category: hvac
+  department: Customer Support
+  phone: '+18005228001'
+  country: US
+  notes: Honeywell refrigerant brand (Genetron refrigerants, Honeywell Advanced Materials);
+    this refrigerants customer-service line is distinct from the buildings tech-support
+    line in the staged honeywell file; hours Mon-Fri 9am-5pm per SDS.
+  source: https://cdn.sanity.io/files/frn7dw1m/dev/723b0bf430c06dd5c635620e06839b5f9f814ac6.pdf
+  last_verified: '2026-10-26'

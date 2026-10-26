@@ -1,0 +1,16 @@
+id: qpc-fiber-optic
+name: "QPC Fiber Optic"
+website: "http://www.qpcfiber.com/"
+categories: [electrical]
+aliases: []
+support:
+  - category: electrical
+    department: Customer Support
+    phone: "+19493618855"
+    country: US
+    notes: "QPC Fiber Optic, Inc., 27612 El Lazo Road, Laguna Niguel, CA 92677 - harsh-environment fiber-optic connectors and cable assemblies since 1999; acquired by senior management March 2016. Not QPC Lasers (Laser Operations LLC)."
+    source: "https://www.thomasnet.com/company/qpc-fiber-optic-inc-30242067/profile"
+    last_verified: "2026-10-26"
+    hours:
+      timezone: "PT"
+      mon_fri: "8:00 AM - 5:00 PM"

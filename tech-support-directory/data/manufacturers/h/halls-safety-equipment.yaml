@@ -1,0 +1,19 @@
+id: halls-safety-equipment
+name: Halls Safety Equipment
+website: https://www.hallssafety.com/
+categories:
+- hardware
+aliases:
+- Halls Safety
+support:
+- category: hardware
+  department: Customer Support
+  phone: '+18002274255'
+  country: US
+  notes: Grove City, PA safety-equipment, tools and lineman-supplies supplier (distributor,
+    not manufacturer); no 'safety' term in vocabulary so mapped to hardware.
+  source: https://www.hallssafety.com/
+  last_verified: '2026-10-26'
+hours:
+  timezone: America/New_York
+  mon_fri: 7AM-5PM

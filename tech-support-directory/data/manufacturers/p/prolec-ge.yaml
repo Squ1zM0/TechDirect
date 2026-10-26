@@ -1,0 +1,16 @@
+id: prolec-ge
+name: Prolec GE
+website: http://www.prolecge.com
+categories:
+- electrical
+aliases: []
+support:
+- category: electrical
+  department: Customer Support
+  phone: '+18004377653'
+  country: US
+  notes: GE Vernova / Prolec transformer joint venture; xref row 'GE Transformers'
+    maps to this file (recorded here, NOT as a verified alias); toll-free US & Canada
+    line per Prolec GE brochure.
+  source: http://www.prolecge.com/wp-content/uploads/2017/10/ProlecGE-Power_distribution.pdf
+  last_verified: '2026-10-26'

@@ -1,0 +1,13 @@
+id: suttle
+name: Suttle
+categories:
+- electrical
+aliases: []
+support:
+- category: electrical
+  department: Customer Support
+  phone: "+18778817875"
+  country: US
+  notes: "Legacy file per the legacy rule. Suttle Inc., Hector, MN, telecom connectivity (SOHO, MediaMAX and Speedstar lines). Its assets were acquired by Primex Technologies Inc., a wholly owned subsidiary of Oldcastle Infrastructure, from Communications Systems Inc.; the Primex acquisition announcement gives this toll-free line and Primex.CustomerService@oldcastle.com as the successor contact. NOT covered by staged primex-manufacturing (batch-15), which is a different Canadian company (primexfits.com) with no Suttle connection."
+  source: https://primex.com/primex-technologies-inc-acquires-assets-of-suttle-inc/
+  last_verified: "2026-10-26"

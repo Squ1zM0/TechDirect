@@ -1,0 +1,12 @@
+id: pr-electronics
+name: "PR Electronics"
+categories: [electrical]
+aliases: []
+support:
+  - category: electrical
+    department: Customer Support
+    phone: "+17732190720"
+    country: US
+    notes: "Danish manufacturer PR electronics A/S (Ronde, Denmark); US line published on the company's careers page alongside UK +44 (0) 1243 776 450 and HQ +45 86 37 26 77 lines (only the US line is filed here)."
+    source: "https://www.prelectronics.com/career/meet-our-people/jacob/"
+    last_verified: "2026-10-26"

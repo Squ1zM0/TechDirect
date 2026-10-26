@@ -1,0 +1,16 @@
+id: gibson-stainless-specialty
+name: Gibson Stainless & Specialty, Inc.
+website: https://www.gibsonstainless.com/
+categories:
+- electrical
+aliases: []
+support:
+- category: electrical
+  department: Customer Support
+  phone: '+18009454316'
+  country: US
+  notes: Greensburg, PA maker of stainless-steel hazardous-location conduit bodies,
+    hubs and locknuts (316 SS, UL listed); local 724-838-8320 and sales@gibsonstainless.com
+    also published; NOT the Gibson HVAC brand in TechDirect.
+  source: https://www.gibsonstainless.com/product-category/stainless-steel-hazardous-location-fittings/gua-series-conduit-bodies/
+  last_verified: '2026-10-26'

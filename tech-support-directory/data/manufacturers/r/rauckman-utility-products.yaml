@@ -1,0 +1,12 @@
+id: rauckman-utility-products
+name: "Rauckman Utility Products"
+categories: [electrical]
+aliases: []
+support:
+  - category: electrical
+    department: Customer Support
+    phone: "+16182340001"
+    country: US
+    notes: "Rauckman Utility Products, LLC, 33 Empire Drive, Belleville, IL 62220 - products for electric utility companies (Wildlife Shield, ZAPshield, MeterPuller, BugWrench, RUP HOLDTAG, VoltWitch, rescue hooks, hot arms). Current manufacturer documents give the Belleville number; an older Thomasnet-hosted document gives a former Swansea IL address with a different number, superseded - not filed."
+    source: "https://rauckmanutility.com/wp-content/uploads/Rescue-Hook-RUPUT3239A.pdf"
+    last_verified: "2026-10-26"

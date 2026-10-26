@@ -1,0 +1,17 @@
+id: george-risk-industries
+name: George Risk Industries, Inc.
+website: https://www.grisk.com
+categories:
+- electrical
+aliases:
+- GRI
+support:
+- category: electrical
+  department: Customer Support
+  phone: '+18004455218'
+  country: US
+  notes: Kimball, NE maker of security switches and sensors; local 308-235-4645 also
+    published; xref row 'GRI George' is the same company (GRI = George Risk Industries)
+    and shares this file.
+  source: https://www.grisk.com/about-us/history/
+  last_verified: '2026-10-26'

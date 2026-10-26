@@ -1,0 +1,14 @@
+id: tantalus-systems
+name: Tantalus Systems
+website: https://www.tantalus.com/
+categories:
+- electrical
+aliases: []
+support:
+- category: electrical
+  department: Technical Support
+  phone: "+16042990458"
+  country: CA
+  notes: "Tantalus Systems Holding Inc. (TSX: GRID), Burnaby, BC, Canada. Smart-grid / advanced-metering-infrastructure vendor (TRUConnect AMI, TRUFlex, TRUGrid, TRUSync, TRUSense). Number is the Technical Support line in a Tantalus TUNet guide (301-3480 Gilmore Way, Burnaby, BC V5G 4Y1; techsupport@tantalus.com), corroborated by a company profile listing the same number. No US line is published and none is invented; the Canadian line is recorded with its country code. Electrical is the closest category-vocabulary term for smart-grid/AMI equipment. Individual marketing contacts seen in press releases are not used."
+  source: https://cdn4.guidespdf.com/view/2172/2172596-tunet_tc111210.pdf
+  last_verified: "2026-10-26"

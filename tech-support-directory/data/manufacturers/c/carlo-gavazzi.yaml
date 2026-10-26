@@ -1,0 +1,18 @@
+id: carlo-gavazzi
+name: Carlo Gavazzi Inc.
+website: https://www.gavazziautomation.com/
+categories:
+- electrical
+aliases: []
+support:
+- category: electrical
+  department: Customer Support
+  phone: '+18474656100'
+  country: US
+  notes: US arm of the Carlo Gavazzi automation-components group (sensors, relays,
+    timers, energy management), Buffalo Grove, IL; email Sales@CarloGavazzi.com; xref
+    spelling 'Garvazzi' treated as a probable line-card misspelling of Carlo Gavazzi
+    (the only electrical-automation company of this name carried by supply houses)
+    - NOT recorded as a verified alias; confirm at port time.
+  source: https://www.thomasnet.com/company/carlo-gavazzi-inc-10061021/profile?coverage_area=ON&heading=50893254
+  last_verified: '2026-10-26'

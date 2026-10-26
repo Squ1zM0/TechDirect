@@ -1,0 +1,15 @@
+id: piab
+name: Piab
+categories:
+- electrical
+aliases: []
+support:
+- category: electrical
+  department: Customer Support
+  phone: '+18003217422'
+  country: US
+  notes: Piab USA Inc., Hingham, MA; vacuum products and sensors; xref row 'Gigasense/PIAB'
+    maps here - Gigasense is a Piab sensor brand/line; vacuum/sensors mapped to electrical
+    per xref hint.
+  source: https://www.automation.com/article/piab-introduces-the-p6010-vacuum-pump-with-coax174
+  last_verified: '2026-10-26'

@@ -1,0 +1,13 @@
+id: strand-lighting
+name: Strand Lighting
+categories:
+- electrical
+aliases: []
+support:
+- category: electrical
+  department: Customer Support
+  phone: "+18004787263"
+  country: US
+  notes: "Theatrical lighting brand in the Signify / Vari-Lite family. Own distinct support numbers, so it is filed separately rather than parent-resolved to existing signify. A Strand manual (Signify Holding, 2021) gives NORTH AMERICA SUPPORT 800-4-STRAND (800-478-7263) and a global 24-hour technical support line (noted, not filed as main) and entertainment.service@signify.com."
+  source: https://manuals.plus/strand/st64511101-acclaim-led-fresnel-manual
+  last_verified: "2026-10-26"

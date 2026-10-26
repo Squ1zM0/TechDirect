@@ -1,0 +1,18 @@
+id: hangsterfers-laboratories
+name: Hangsterfer's Laboratories, Inc.
+website: https://www.hangsterfers.com
+categories:
+- hardware
+aliases: []
+support:
+- category: hardware
+  department: Customer Support
+  phone: '+18564680216'
+  country: US
+  notes: Mantua, NJ metalworking fluids/lubricants maker; sales@hangsterfers.com;
+    metalworking fluids mapped to hardware.
+  source: https://www.hangsterfers.com/products/products-cutting-oils/
+  last_verified: '2026-10-26'
+hours:
+  timezone: America/New_York
+  mon_fri: 9AM-5PM

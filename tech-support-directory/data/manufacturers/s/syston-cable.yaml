@@ -1,0 +1,14 @@
+id: syston-cable
+name: Syston Cable Technology
+website: https://systoncable.com/
+categories:
+- electrical
+aliases: []
+support:
+- category: electrical
+  department: Customer Support
+  phone: "+18886797866"
+  country: US
+  notes: "Eastvale, CA (6074 Orbis Way, Unit A). Low-voltage / Ethernet cable. Number is the 'Syston Support' line (1-888-679-7866, 1-888-6-SYSTON) in the official site footer, with info@systoncable.com."
+  source: https://systoncable.com/
+  last_verified: "2026-10-26"

@@ -1,0 +1,16 @@
+id: greystone-energy-systems
+name: Greystone Energy Systems Inc.
+categories:
+- hvac-controls
+aliases: []
+support:
+- category: hvac-controls
+  department: Customer Support
+  phone: '+15068533057'
+  country: CA
+  notes: Moncton, NB, Canada maker of HVAC sensors/transducers for building automation;
+    Canadian number recorded with actual country code per PROGRAM.md (no verified
+    US line); a North America toll-free line appears in third-party directories but
+    was not verified on the official site and is not recorded here.
+  source: https://www.hvacquick.com/catalog_files/Greystone_CO_and_Hazardous_Gas_IOM.pdf?srsltid=AfmBOopNVgi4IOl72qMkJy2TprHgpZDwCPWrYF6ajeehxBB9284htdu9
+  last_verified: '2026-10-26'

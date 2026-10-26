@@ -1,0 +1,28 @@
+id: stout-tool
+name: Stout Tool
+website: https://www.stouttool.com/
+categories:
+- hardware
+aliases: []
+support:
+- category: hardware
+  department: Customer Support
+  phone: '+18773378688'
+  country: US
+  notes: 'Stout Tool Corp., Wixom, MI. Maker of the X-Band cordless bandsaw. Number
+    is the manufacturer number in Fine Homebuilding manufacturer specifications and
+    in a FARM SHOW followup (29233 Haas Rd, Suite A, Wixom, MI), which also gives
+    248-767-0780. Currency of the line should be re-confirmed at port time, as the
+    company''s current site status was not verified in this pass. Port-time re-check
+    Oct 26, 2026: Thomasnet company profile (same Wixom address, 29233 Haas Rd) lists
+    local line 248-486-0454, added as a second entry below.'
+  source: https://www.finehomebuilding.com/2007/11/26/stx-250-stout-x-band-cordless-bandsaw-review
+  last_verified: '2026-10-26'
+- category: hardware
+  department: Customer Support
+  phone: '+12484860454'
+  country: US
+  notes: Stout Tool Corp. local line from the current Thomasnet company profile (29233
+    Haas Rd, Wixom, MI 48393, www.stouttool.com).
+  source: https://www.thomasnet.com/company/stout-tool-corp-20095591/profile
+  last_verified: '2026-10-26'

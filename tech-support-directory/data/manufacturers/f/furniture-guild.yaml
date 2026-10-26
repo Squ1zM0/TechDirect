@@ -1,0 +1,16 @@
+id: furniture-guild
+name: The Furniture Guild
+website: https://www.furnitureguild.com
+categories:
+- bathroom-systems
+aliases: []
+support:
+- category: bathroom-systems
+  department: Customer Support
+  phone: '+17704794108'
+  country: US
+  notes: Canton, GA maker of custom bath furniture since 1984; FG Bath line sold exclusively
+    through decorative plumbing showrooms; filed under bathroom-systems on the bath-vanity
+    line despite furniture origin; toll-free 888-479-4108 also published.
+  source: https://www.furnitureguild.com/products
+  last_verified: '2026-10-26'

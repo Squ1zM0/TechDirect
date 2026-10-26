@@ -1,0 +1,13 @@
+id: quickgrind
+name: "Quickgrind"
+website: "https://quickgrind.com/faq/"
+categories: [hardware]
+aliases: []
+support:
+  - category: hardware
+    department: Customer Support
+    phone: "+441684294090"
+    country: GB
+    notes: "Quickgrind Ltd, Unit 5701 Shannon Place, Shannon Way, Tewkesbury, Gloucestershire, GL20 8SL, UK - solid carbide cutting tools; email contact@quickgrind.com. UK-only line per the PROGRAM non-US rule; no US line invented."
+    source: "https://quickgrind.com/faq/"
+    last_verified: "2026-10-26"

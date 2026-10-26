@@ -1,0 +1,18 @@
+id: gregory-industries
+name: Gregory Industries
+website: https://www.gregorycorp.com
+categories:
+- electrical
+aliases:
+- G-STRUT
+- Gregory Strut
+support:
+- category: electrical
+  department: Customer Support
+  phone: '+18669978788'
+  country: US
+  notes: Canton/North Canton, OH strut-channel maker (G-STRUT); corporate 330-477-4800
+    also published; xref rows 'Gregory Industries' and 'GREGORY INDUSTRIES/G-STRUT'
+    share this file.
+  source: https://www.gregorycorp.com/sites/default/files/G-STRUT%20%28Gregory%20Strut%29%20Conformance%20Statement%202026.pdf
+  last_verified: '2026-10-26'

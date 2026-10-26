@@ -1,0 +1,15 @@
+id: gardner-gibson
+name: Gardner-Gibson
+website: https://gardnercoatings.com
+categories:
+- hardware
+aliases: []
+support:
+- category: hardware
+  department: Customer Support
+  phone: '+18002371155'
+  country: US
+  notes: Tampa, FL roofing coatings, cements and sealants maker; SDS technical line
+    813-248-2101 also published; no roofing term in vocabulary so mapped to hardware.
+  source: https://gardnercoatings.com/pages/faq-roof-coatings-cements
+  last_verified: '2026-10-26'

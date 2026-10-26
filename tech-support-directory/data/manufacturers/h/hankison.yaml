@@ -1,0 +1,15 @@
+id: hankison
+name: Hankison
+categories:
+- hvac
+aliases: []
+support:
+- category: hvac
+  department: Customer Support
+  phone: '+17247451555'
+  country: US
+  notes: SPX Flow brand (compressed-air dryers and filtration, since 1948); this Hankison-specific
+    Americas number and hankison.americas@spxflow.com are distinct from the staged
+    spx-flow general number; filed as its own brand file, not merged into spx-flow.
+  source: https://www.compressorworld.com/assets/hankison-flex-air-dryers-brochure.pdf
+  last_verified: '2026-10-26'

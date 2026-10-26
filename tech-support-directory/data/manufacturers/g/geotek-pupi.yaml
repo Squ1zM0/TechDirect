@@ -1,0 +1,17 @@
+id: geotek-pupi
+name: GEOTEK (PUPI)
+website: https://pupi.com
+categories:
+- electrical
+aliases:
+- PUPI
+support:
+- category: electrical
+  department: Customer Support
+  phone: '+18005331680'
+  country: US
+  notes: Stewartville, MN maker of PUPI fiberglass crossarms and pole products for
+    electric utilities; GEOTEK founded 1990, acquired Pultruded Utility Products Inc.
+    in 2000; email pupisales@geotek.com.
+  source: https://pupi.com/why-pupi/engineering/
+  last_verified: '2026-10-26'

@@ -1,0 +1,15 @@
+id: stored-energy-systems
+name: Stored Energy Systems
+website: https://www.sens-usa.com/
+categories:
+- electrical
+aliases:
+- SENS
+support:
+- category: electrical
+  department: Customer Support
+  phone: "+13036787500"
+  country: US
+  notes: "Stored Energy Systems (SENS), Longmont, CO. Battery chargers and DC power systems. Number and email info@sens-usa.com are on the official About page."
+  source: https://www.sens-usa.com/about-us
+  last_verified: "2026-10-26"

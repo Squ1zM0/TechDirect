@@ -1,0 +1,13 @@
+id: tap-magic
+name: Tap Magic
+categories:
+- hardware
+aliases: []
+support:
+- category: hardware
+  department: Customer Support
+  phone: "+18006438026"
+  country: US
+  notes: "Tap Magic cutting-fluid brand; supplier The Steco Corporation, Little Rock, AR. Number 800-643-8026 and steco@tapmagic.com are on the current Tap Magic SDS (issue date 11/26/2025). Hardware is the closest category-vocabulary term for cutting fluids/tools. Forney Industries also sells a Tap Magic cutting fluid, but the SDS supplier for the Tap Magic brand is Steco; the two are not merged."
+  source: https://documents.mrosupply.com/product_documents/97/16/97169307/ic-ProTap-Cutting-Fluid-Aerosol-SDS-US-En-2025_YPXRA4q.pdf
+  last_verified: "2026-10-26"

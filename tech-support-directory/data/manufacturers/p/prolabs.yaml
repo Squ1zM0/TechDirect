@@ -1,0 +1,12 @@
+id: prolabs
+name: "ProLabs"
+categories: [electrical]
+aliases: []
+support:
+  - category: electrical
+    department: Customer Support
+    phone: "+19528520252"
+    country: US
+    notes: "ProLabs - compatible optical transceivers, DAC/AOC cables, media converters; lifetime warranty. US contact per ProLabs-authored datasheets (sales@prolabs.com). SDxCentral describes ProLabs as Amphenol-owned; the xref's AddOn Networks lineage note was not corroborated in this pass and is not asserted."
+    source: "https://www.mouser.com/datasheet/3/59/3/QK702A_C_Datasheets_EN.pdf"
+    last_verified: "2026-10-26"

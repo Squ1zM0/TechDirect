@@ -1,0 +1,19 @@
+id: raychem
+name: "Raychem"
+categories: [electrical, hvac]
+aliases: ["RAYCHEM HTS"]
+support:
+  - category: hvac
+    department: Technical Support
+    phone: "+18005456258"
+    country: US
+    notes: "nVent RAYCHEM heat tracing scope ONLY: 'For technical support call nVent at (800) 545-6258' per the nVent RAYCHEM JBM-100-L-A instruction manual; nVent design guides give North America Tel +1.800.545.6258, thermal.info@nVent.com. Raychem originated with TE Connectivity; the heat-tracing business is now nVent RAYCHEM. This number covers heat tracing only - not TE heat-shrink."
+    source: "https://www.manualshelf.com/manual/nvent-raychem/jbm-100-l-a/instruction-manual-english-french.html"
+    last_verified: "2026-10-26"
+  - category: electrical
+    department: Technical Support
+    phone: "+18007221111"
+    country: US
+    notes: "TE Connectivity Raychem heat-shrink / wire & cable scope ONLY: 'Technical Questions or Problems? Call the USA Field Service Hotline at 1-800-722-1111' per the TE Raychem heat-shrink tooling document. This number covers TE heat-shrink only - not nVent heat tracing. RAYCHEM HTS shares this file via the nVent heat-tracing entry."
+    source: "https://gr.mouser.com/datasheet/3/80/39/ENG_DS_1_1773872_1_raychem_tooling_1119.pdf"
+    last_verified: "2026-10-26"

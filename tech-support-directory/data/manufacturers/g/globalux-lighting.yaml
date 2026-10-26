@@ -1,0 +1,16 @@
+id: globalux-lighting
+name: GlobaLux Lighting LLC
+website: https://www.globaluxlighting.com
+categories:
+- electrical
+aliases:
+- GlobaLux
+support:
+- category: electrical
+  department: Customer Support
+  phone: '+19095917506'
+  country: US
+  notes: Ontario, CA commercial/industrial/residential LED lighting manufacturer;
+    email info@globaluxlighting.com.
+  source: https://www.globaluxlighting.com/terms-conditions/
+  last_verified: '2026-10-26'

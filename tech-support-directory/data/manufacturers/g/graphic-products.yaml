@@ -1,0 +1,16 @@
+id: graphic-products
+name: Graphic Products, Inc.
+categories:
+- electrical
+aliases:
+- DuraLabel
+support:
+- category: electrical
+  department: Customer Support
+  phone: '+18007885572'
+  country: US
+  notes: Beaverton, OR maker of DuraLabel industrial label/sign printers including
+    arc-flash labels; local 503-644-5572 and support@graphicproducts.com also published;
+    labels/identification mapped to electrical.
+  source: https://resources.duralabel.com/hubfs/Downloads-PublicNoIndex/Support-Downloads/duralabel-lobo-user-guide.pdf
+  last_verified: '2026-10-26'

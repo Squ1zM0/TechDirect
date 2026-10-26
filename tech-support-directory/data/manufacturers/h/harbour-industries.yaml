@@ -1,0 +1,14 @@
+id: harbour-industries
+name: Harbour Industries LLC
+categories:
+- electrical
+aliases: []
+support:
+- category: electrical
+  department: Customer Support
+  phone: '+18029853311'
+  country: US
+  notes: Shelburne, VT high-temperature / mil-spec wire and cable maker; Marmon /
+    Berkshire Hathaway company.
+  source: https://media.iewc.com/PublicAssets/SpecificationSheets/3212_10T105-2_Specification.pdf
+  last_verified: '2026-10-26'

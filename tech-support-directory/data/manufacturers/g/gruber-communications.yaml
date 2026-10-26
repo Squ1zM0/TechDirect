@@ -1,0 +1,15 @@
+id: gruber-communications
+name: Gruber Communications
+website: https://grubercommunications.com
+categories:
+- electrical
+aliases: []
+support:
+- category: electrical
+  department: Customer Support
+  phone: '+18006585883'
+  country: US
+  notes: Phoenix, AZ data-cabling manufacturer (fiber and copper cabling, metal racks);
+    part of Gruber Industries; products made in its Phoenix machine shop.
+  source: https://grubercommunications.com/product-category/metal/brackets-adapters/
+  last_verified: '2026-10-26'

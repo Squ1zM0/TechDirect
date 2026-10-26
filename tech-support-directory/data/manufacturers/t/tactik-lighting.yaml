@@ -1,0 +1,14 @@
+id: tactik-lighting
+name: Tactik Lighting
+website: https://tactiklighting.com/
+categories:
+- electrical
+aliases: []
+support:
+- category: electrical
+  department: Customer Support
+  phone: "+19202873840"
+  country: US
+  notes: "Sheboygan, WI. LED area and hazardous-location fixtures. Number 920-287-3840 appears in the manufacturer's own spec sheets and in place listings; a variant number on one 2023 spec sheet footer is noted, not filed."
+  source: https://tactiklighting.com/wp-content/uploads/2021/03/Area-LED-Light-Tactik-Lighting-Spec-Sheet-352021.pdf
+  last_verified: "2026-10-26"

@@ -1,0 +1,14 @@
+id: sun-tech
+name: Sun-Tech
+website: https://www.fpolc.com/
+categories:
+- electrical
+aliases: []
+support:
+- category: electrical
+  department: Customer Support
+  phone: "+15088849732"
+  country: US
+  notes: "Fisher Pierce Sun-Tech photocontrol line, now under Sunrise Technologies / FP Outdoor Lighting Controls (FP-OLC), Raynham, MA (370 Paramount Drive, Raynham, MA 02767). Number 508-884-9732 is on an FP-OLC spec sheet (www.suntech.biz | www.fpolc.com; 2020, Sunrise Technologies, Inc.). The xref/WUE annotation '(Fisher-Price)' appears to be a corruption of Fisher Pierce, not the Mattel toy brand. Individual contact numbers seen in a NEMRA listing are deliberately NOT published; only the company line is filed. Separate file from sunrise-technologies (the company file); the two cross-note each other."
+  source: https://www.fpolc.com/sites/fpolc/files/resources/files/2020-04/5-FPN7840_FPSI200-Photocontrols-SS.pdf
+  last_verified: "2026-10-26"

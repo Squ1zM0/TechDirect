@@ -1,0 +1,15 @@
+id: french-creek-production
+name: French Creek Production
+website: https://fcsafety.com
+categories:
+- hardware
+aliases: []
+support:
+- category: hardware
+  department: Customer Support
+  phone: '+18772289327'
+  country: US
+  notes: Franklin, PA fall-protection maker (harnesses, ladder systems); local 814-437-1808
+    also published; no 'safety' term in vocabulary so mapped to hardware.
+  source: https://fcsafety.com/ladder-safety-systems-for-maximum-fall-protection-frenchcreek-fall-safety/
+  last_verified: '2026-10-26'

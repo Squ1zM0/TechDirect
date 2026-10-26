@@ -1,0 +1,14 @@
+id: swivelpole
+name: Swivelpole
+website: https://swivelpole.com/
+categories:
+- electrical
+aliases: []
+support:
+- category: electrical
+  department: Customer Support
+  phone: "+18553094023"
+  country: US
+  notes: "Swivelpole lowering poles for lighting maintenance (Australian company with US/Canada presence). The official product page lists the North America line +1 855 309 4023; an Australian line is also shown, noted, not filed. Distinct from Swivelier (legacy, no current support; see REWORK-REPORT.md)."
+  source: https://swivelpole.com/ca/products/c2-m2-nec
+  last_verified: "2026-10-26"

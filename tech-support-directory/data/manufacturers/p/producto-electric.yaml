@@ -1,0 +1,12 @@
+id: producto-electric
+name: "Producto Electric"
+categories: [electrical]
+aliases: ["PECO"]
+support:
+  - category: electrical
+    department: Customer Support
+    phone: "+18453594900"
+    country: US
+    notes: "Producto Electric Corporation, Orangeburg, NY - hazardous-location fittings (capped elbows, flexible couplings, conduit bodies, sealing fittings); email sales@pecoelect.com. Not PECO Energy, the Philadelphia utility, a different company."
+    source: "https://www.thomasnet.com/company/producto-electric-corp-421866/profile?what=PVC+Fittings&pdtl=any&heading=96081021"
+    last_verified: "2026-10-26"

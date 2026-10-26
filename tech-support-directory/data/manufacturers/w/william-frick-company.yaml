@@ -1,0 +1,20 @@
+id: william-frick-company
+name: William Frick & Company
+website: https://www.fricknet.com
+categories:
+- electrical
+aliases:
+- Frick
+support:
+- category: electrical
+  department: Customer Support
+  phone: '+18479183700'
+  country: US
+  notes: 'Chicagoland identification-products maker (labels, nameplates, RFID tags,
+    utility markers, signs) serving electric utilities, telecom and oil & gas; xref
+    row ''Frick (Labels)'' is this company; number from company press release (2010)
+    - re-verify currency at port time. Port-time re-check Oct 26, 2026: 847-918-3700
+    confirmed current (company releases incl. a 2023-updated PRWeb release publish
+    it).'
+  source: https://news.cision.com/william-frick---company/r/chicagoland-label-and-identification-company--william-frick--celebrates-35th-anniversary-with-record-profits,g505301
+  last_verified: '2026-10-26'

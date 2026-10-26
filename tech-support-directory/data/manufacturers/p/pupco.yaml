@@ -1,0 +1,12 @@
+id: pupco
+name: "PUPCO"
+categories: [electrical]
+aliases: ["Power-Utility Products Co."]
+support:
+  - category: electrical
+    department: Customer Support
+    phone: "+17043750776"
+    country: US
+    notes: "Power-Utility Products Co. (PUPCO), founded 1973 - master distributor of strut channel, cable tray, fittings. Filed line is the Charlotte HQ (PUPCO South) line, 8710 Air Park West Drive Suite 100, Charlotte, NC 28214, per the company's careers page and 2025 catalog; the North Jackson OH branch line was not filed."
+    source: "https://pupco.com/careers-power-utility-products-co-charlotte-nc"
+    last_verified: "2026-10-26"

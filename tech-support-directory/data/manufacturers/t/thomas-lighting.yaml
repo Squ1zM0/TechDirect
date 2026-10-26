@@ -1,0 +1,15 @@
+id: thomas-lighting
+name: Thomas Lighting
+website: https://www.visualcomfort.com/
+categories:
+- electrical
+aliases:
+- Thomas LTG
+support:
+- category: electrical
+  department: Customer Support
+  phone: "+18009693347"
+  country: US
+  notes: "Legacy file per the legacy rule. Lineage: Moe-Bridges Company (1919) -> Thomas Industries (moved HQ Wisconsin -> Louisville, KY in 1955) -> ELK Group International -> Generation Lighting / Visual Comfort & Co. Number 800.969.3347 is the Generation Lighting product-information line on a 2023 instruction sheet (7400 Linder Ave, Skokie, IL; www.visualcomfort.com). The ELK-era catalog number and the 2012 CPSC recall-era number are both superseded and are NOT filed as current lines. The parent corporate line (847-410-4400, staged generation-lighting) is noted as an alternate route. Covers both the 'Thomas Lighting' and 'Thomas LTG' rows: LTG reads as a Thomas Lighting abbreviation and both CSV rows carry the same parent field 'Thomas Lighting (Generation Lighting)'."
+  source: https://api.endlessaisles.visualcomfort.com/media/pdf/ig_990op8252701-tom.pdf
+  last_verified: "2026-10-26"

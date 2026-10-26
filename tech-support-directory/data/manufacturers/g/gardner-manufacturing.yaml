@@ -1,0 +1,21 @@
+id: gardner-manufacturing
+name: Gardner Manufacturing
+website: http://www.gardnermfg.com/
+categories:
+- electrical
+aliases:
+- Gardner Products
+support:
+- category: electrical
+  department: Customer Support
+  phone: '+18005588890'
+  country: US
+  notes: Horicon, WI custom sheet-metal fabricator (NEMA enclosures and cabinets for
+    energy/electronics industries) and maker of Gardner Products pest-control equipment;
+    number corroborated by place listing and ZoomInfo profile, not yet confirmed on
+    the company's own contact page.
+  source: http://www.gardnermfg.com/
+  last_verified: '2026-10-26'
+hours:
+  timezone: America/Chicago
+  mon_fri: 8:00 AM-4:30 PM

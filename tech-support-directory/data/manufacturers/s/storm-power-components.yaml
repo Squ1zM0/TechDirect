@@ -1,0 +1,14 @@
+id: storm-power-components
+name: Storm Power Components
+website: https://stormpowercomponents.com/
+categories:
+- electrical
+aliases: []
+support:
+- category: electrical
+  department: Customer Support
+  phone: "+14233344800"
+  country: US
+  notes: "Decatur, TN. Custom copper/aluminum bus bars and electrical interconnects. Number is from the company's own capability statement ('contact our office at (423) 334-4800'). A Thomasnet alternate toll-free number is noted in research, not filed as main."
+  source: https://stormpowercomponents.com/wp-content/uploads/2020/04/Capability-Statement-Storm-Power-Components.pdf
+  last_verified: "2026-10-26"

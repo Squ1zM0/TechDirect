@@ -1,0 +1,16 @@
+id: randl-industries
+name: "RANDL Industries"
+website: "https://www.randl-inc.com/index.html"
+categories: [electrical]
+aliases: []
+support:
+  - category: electrical
+    department: Customer Support
+    phone: "+15093400050"
+    country: US
+    notes: "RANDL Industries, Inc., 3808 N Sullivan Rd, Spokane Valley, WA - electrical box manufacturer (5 Square fire-signal, telecom, bracket boxes, extension rings, blank covers); founded 1999. Official site: 'Call Today for information on the 5 Square Box. 509-340-0050'."
+    source: "https://www.randl-inc.com/index.html"
+    last_verified: "2026-10-26"
+    hours:
+      timezone: "PT"
+      mon_fri: "8:00 AM - 5:00 PM"

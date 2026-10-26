@@ -1,0 +1,14 @@
+id: techline-manufacturing
+name: TechLine Manufacturing
+website: https://www.techlinemfg.com/
+categories:
+- electrical
+aliases: []
+support:
+- category: electrical
+  department: Customer Support
+  phone: "+18003953369"
+  country: US
+  notes: "TechLine Mfg. (techlinemfg.com). Instrumentation and electrical supports and Snap Track cable tray. Number 800-395-3369 is on the company's own site pages. Distinct from the Toronto namesake Techline Manufacturing (techlinemfg.ca, machine shop); the two are not merged."
+  source: https://www.techlinemfg.com/industries-served.html
+  last_verified: "2026-10-26"

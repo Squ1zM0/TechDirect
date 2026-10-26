@@ -1,0 +1,16 @@
+id: hartfiel-automation
+name: Hartfiel Automation
+website: https://www.hartfiel.com
+categories:
+- electrical
+aliases: []
+support:
+- category: electrical
+  department: Customer Support
+  phone: '+18003317301'
+  country: US
+  notes: Eden Prairie, MN automation distributor (pneumatics, motion, robotics; carries
+    Piab among others); distributor, not manufacturer; automation/electrical-cabinet
+    components mapped to electrical.
+  source: https://www.hartfiel.com/wp-content/uploads/2023/12/South-Linecard-Version-1.0-Dec-2023.pdf
+  last_verified: '2026-10-26'

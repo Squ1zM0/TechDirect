@@ -1,0 +1,15 @@
+id: franklin-instrument
+name: Franklin Instrument Co., Inc.
+categories:
+- electrical
+aliases: []
+support:
+- category: electrical
+  department: Customer Support
+  phone: '+13107541015'
+  country: US
+  notes: Los Angeles, CA maker of institutional, commercial and industrial clocks,
+    timers and time systems since 1969; the only US manufacturer of this exact name
+    found; clocks/time systems mapped to electrical (no clock category in vocabulary).
+  source: https://www.thomasnet.com/company/franklin-instrument-co-inc-145001/profile?heading=15073000
+  last_verified: '2026-10-26'

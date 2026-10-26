@@ -1,0 +1,15 @@
+id: thermaflo
+name: ThermaFlo Engineering
+website: https://www.thermafloengineering.com/
+categories:
+- boilers
+- water-heaters
+aliases: []
+support:
+- category: boilers
+  department: Customer Support
+  phone: "+17049401228"
+  country: US
+  notes: "ThermaFlo Engineering Inc., Newberry, SC (2880 Fair Ave). Steam-fired water heaters, condensate return systems and steam specialties. Number 704.940.1228 and info@thermafloengineering.com are on the company's own site. Distinct from the older I.T.S. Thermaflo of Bristol, CT (refrigerant recovery); the two are not merged."
+  source: https://www.thermafloengineering.com/
+  last_verified: "2026-10-26"

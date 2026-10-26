@@ -1,0 +1,17 @@
+id: general-wire-spring
+name: General Wire Spring Company
+website: https://www.generalwirespring.com/
+categories:
+- hardware
+aliases:
+- General Wire Spring Co.
+support:
+- category: hardware
+  department: Customer Support
+  phone: '+18002456200'
+  country: US
+  notes: McKees Rocks, PA custom spring maker since 1930; parent of General Pipe Cleaners
+    (separate file); the published 800-245-6200 number serves both companies; local
+    412-771-6300 also published.
+  source: https://www.thomasnet.com/company/general-wire-spring-co-162440/profile?what=Semi-Elliptical+Springs&heading=77842201
+  last_verified: '2026-10-26'

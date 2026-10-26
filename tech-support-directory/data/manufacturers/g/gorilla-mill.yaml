@@ -1,0 +1,14 @@
+id: gorilla-mill
+name: Gorilla Mill
+categories:
+- hardware
+aliases: []
+support:
+- category: hardware
+  department: Customer Support
+  phone: '+18668889600'
+  country: US
+  notes: Waukesha, WI carbide end-mill maker; number published as 'Gorilla Tools'
+    in CTE Magazine article; NOT Gorilla Manufacturing (separate unverified row).
+  source: https://ctemag.com/articles/no-monkeying-around/
+  last_verified: '2026-10-26'

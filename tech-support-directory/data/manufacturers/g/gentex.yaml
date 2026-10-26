@@ -1,0 +1,16 @@
+id: gentex
+name: Gentex Corporation
+website: http://www.Gentex.com
+categories:
+- electrical
+aliases: []
+support:
+- category: electrical
+  department: Customer Support
+  phone: '+16167721800'
+  country: US
+  notes: Zeeland, MI fire-protection products group (and auto mirrors); main number
+    published on the fire-protection page; NOT the Carbondale, PA Gentex defense-helmet
+    company, which is a different company.
+  source: http://www.Gentex.com/products-technology/fire-protection/
+  last_verified: '2026-10-26'

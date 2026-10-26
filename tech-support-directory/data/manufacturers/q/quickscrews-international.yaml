@@ -1,0 +1,16 @@
+id: quickscrews-international
+name: "Quickscrews International"
+website: "https://quickscrews.com/"
+categories: [hardware]
+aliases: []
+support:
+  - category: hardware
+    department: Customer Support
+    phone: "+18007436916"
+    country: US
+    notes: "Quickscrews International Corporation, Livermore, CA (warehouse 5830 Las Positas Rd, Livermore, CA 94551; also Rock Hill SC) - woodworking/furniture screws and solar brackets. QuickBOLT is a division of Quickscrews International Corp. per QuickBOLT install documents, but the staged quickbolt file stays separate (not merged)."
+    source: "https://quickscrews.com/"
+    last_verified: "2026-10-26"
+    hours:
+      timezone: "PT"
+      mon_fri: "7:00 AM - 5:00 PM"

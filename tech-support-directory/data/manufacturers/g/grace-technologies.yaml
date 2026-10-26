@@ -1,0 +1,19 @@
+id: grace-technologies
+name: Grace Technologies
+website: https://www.graceport.com
+categories:
+- electrical
+aliases:
+- Grace Engineered Products
+- GracePort
+support:
+- category: electrical
+  department: Technical Support
+  phone: '+18002809517'
+  country: US
+  notes: Davenport, IA maker of electrical-safety products (GracePort, GracePESDs,
+    GraceSense); formerly Grace Engineered Products, same company/address, rebranded
+    2020; source labels the line technical support; xref rows 'GRACE ENGINEERED PRODUCTS'
+    and 'Grace Technologies' share this file.
+  source: https://www.graceport.com/blog/predictive-maintenance-prevents-thermal-event
+  last_verified: '2026-10-26'

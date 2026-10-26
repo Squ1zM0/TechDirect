@@ -1,0 +1,13 @@
+id: studio-italia-design
+name: Studio Italia Design
+categories:
+- electrical
+aliases: []
+support:
+- category: electrical
+  department: Customer Support
+  phone: "+390414569266"
+  country: IT
+  notes: "Studio Italia Design srl, Via Pialoi 32, 30020 Marcon (Venezia), Italy. Italian lighting maker; this is the non-US line from a manufacturer catalog (tel +39 041 4569266, info@studioitaliadesign.com). No US line is published and none is invented. A later Lodes document gives the same Via Pialoi 32 address, indicating Lodes as successor; the old SID USA (Miami) number is dated and is NOT filed as current."
+  source: http://www.lightpholio.com/bkz/studio-italiacatalogo_05_screen.pdf
+  last_verified: "2026-10-26"

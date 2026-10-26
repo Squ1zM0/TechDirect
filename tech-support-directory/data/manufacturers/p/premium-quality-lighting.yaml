@@ -1,0 +1,16 @@
+id: premium-quality-lighting
+name: "Premium Quality Lighting"
+website: "https://pqlighting.com/"
+categories: [electrical]
+aliases: []
+support:
+  - category: electrical
+    department: Customer Support
+    phone: "+18003238107"
+    country: US
+    notes: "P.Q.L., Inc., 2285 Ward Avenue, Simi Valley, CA 93065. Official homepage lists 'Customer Service: 800-323-8107'. Directory numbers for a place listing and for a permanently closed Des Moines contractor of the same name were not used."
+    source: "https://pqlighting.com/"
+    last_verified: "2026-10-26"
+    hours:
+      timezone: "PT"
+      mon_fri: "7:30 AM - 5:00 PM"

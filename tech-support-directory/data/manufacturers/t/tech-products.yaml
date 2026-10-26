@@ -1,0 +1,14 @@
+id: tech-products
+name: Tech Products
+website: https://www.techproducts.com/
+categories:
+- hardware
+aliases: []
+support:
+- category: hardware
+  department: Customer Support
+  phone: "+18002211311"
+  country: US
+  notes: "Tech Products, Inc., Staten Island, NY. Everlast signs and tag holders for utilities and telecom. Number 800-221-1311 is from a company press release on the Thomasnet profile page ('call 800-221-1311 or visit www.TechProducts.com'); the Thomasnet number (718) 442-4900 is noted. Hardware is the closest category-vocabulary term for signs/tag holders."
+  source: https://www.thomasnet.com/company/tech-products-inc-416033/profile
+  last_verified: "2026-10-26"

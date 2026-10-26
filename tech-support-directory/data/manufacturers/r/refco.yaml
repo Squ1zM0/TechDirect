@@ -1,0 +1,13 @@
+id: refco
+name: "Refco"
+website: "https://refcoswiss.com/en-us?_ptr=1"
+categories: [hvac]
+aliases: []
+support:
+  - category: hvac
+    department: Customer Support
+    phone: "+14137394761"
+    country: US
+    notes: "REFCO Manufacturing Ltd., Swiss HVAC/R service tools manufacturer (manifolds, vacuum pumps, recovery stations, condensate pumps; founded 1972, Hitzkirch, Switzerland). Filed line is the US subsidiary: REFCO Manufacturing (US) Inc., 66 B Industry Avenue, Springfield, MA 01104; email sales@refcoswiss.com. Swiss HQ line +41 41 919 72 82 (Industriestrasse 11, CH-6285 Hitzkirch) is the parent-company line, not filed. Not Repco (erepco.com, appliance controls), a different company."
+    source: "https://refcoswiss.com/en-us?_ptr=1"
+    last_verified: "2026-10-26"

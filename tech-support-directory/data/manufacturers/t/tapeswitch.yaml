@@ -1,0 +1,14 @@
+id: tapeswitch
+name: Tapeswitch
+website: https://www.tapeswitch.com/
+categories:
+- electrical
+aliases: []
+support:
+- category: electrical
+  department: Customer Support
+  phone: "+18002348273"
+  country: US
+  notes: "Tapeswitch Corporation, Farmingdale, NY. Machine-safety switches (safety mats, edges, bumpers, light curtains). Number is the manufacturer-published line: a Tapeswitch manual gives 'Phone: 800-234-8273, info@tapeswitch.com' and the company profile gives 'Customer service: 1-800-234-8273'."
+  source: https://www.tapeswitch.com/support/manuals/PRSUn_Safety_Controller_Manual_V1.0.pdf
+  last_verified: "2026-10-26"

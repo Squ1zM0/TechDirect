@@ -1,0 +1,13 @@
+id: pyramex-safety-products
+name: "Pyramex Safety Products"
+website: "https://www.pyramex.com/pages/customer-service"
+categories: [hardware]
+aliases: ["Pyramex", "Pyramex Safety (Safety Glasses)"]
+support:
+  - category: hardware
+    department: Customer Support
+    phone: "+18007368673"
+    country: US
+    notes: "Pyramex Safety Products, LLC, 305 Keough Drive, Piperton, TN 38017; email help@pyramex.com. No PPE category exists in the vocabulary; hardware is the closest term. Covers xref spellings Pyramex, Pyramex Safety (Safety Glasses), and Pyramex Safety Products."
+    source: "https://www.pyramex.com/pages/customer-service"
+    last_verified: "2026-10-26"

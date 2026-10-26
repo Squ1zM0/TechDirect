@@ -1,0 +1,14 @@
+id: sterling-locks
+name: Sterling Locks
+website: https://uk.burg.biz/about-us/
+categories:
+- hardware
+aliases: []
+support:
+- category: hardware
+  department: Customer Support
+  phone: "+441274395333"
+  country: GB
+  notes: "UK lock maker (Leeds; padlocks, cables, chains, safes, locks). Acquired by German firm Burg-Wachter in 2013 and renamed BURG-WACHTER UK in 2015; Sterling continues as a sister brand at the Bradford HQ. No US support line is published; this is the BURG-WACHTER UK line. Earlier Leeds contact details are superseded and are not filed. Covers the Sterling Locks row; Sterling Padlocks is the same brand's padlock line, not a separate manufacturer (see REWORK-REPORT.md). Distinct from Kohler's Sterling plumbing brand and from existing sterling-hvac."
+  source: https://uk.burg.biz/about-us/
+  last_verified: "2026-10-26"

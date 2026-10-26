@@ -1,0 +1,12 @@
+id: puro-lighting
+name: "PURO Lighting"
+categories: [electrical]
+aliases: []
+support:
+  - category: electrical
+    department: Customer Support
+    phone: "+18774528785"
+    country: US
+    notes: "PURO Lighting, Lakewood, CO - UV disinfection (Helo/Sentry) products; email support@purolighting.com. Caveat: a place listing reports the Lakewood location (12340 W Cedar Dr) as permanently closed, so current operability of this line is unconfirmed; filed with this caveat, not dropped. Not PuroAir (getpuroair.com), a different company."
+    source: "https://manualspro.net/120240-puro-lighting-helo-f1-air-handling-units-with-uv-disinfection-user-manual"
+    last_verified: "2026-10-26"

@@ -1,0 +1,13 @@
+id: temp-cool
+name: TEMP-COOL
+categories:
+- hvac
+aliases: []
+support:
+- category: hvac
+  department: Customer Support
+  phone: "+18663732474"
+  country: US
+  notes: "TEMP-COOL portable cooling line of TEMP-AIR Inc., Burnsville, MN (3700 West Preserve Boulevard). Portable HVAC units TC-12B through TC-60B4. Number 1-866-373-2474 is the equipment-sales consultation line on the current TEMP-AIR Equipment Sales site; also 1-888-535-8841 is noted. TEMP-AIR, Inc. joined Sunbelt Rentals effective February 8, 2019; the pre-acquisition 2013 manual number is superseded and is not filed. Filed as Customer Support (sales consultation line), not Technical Support, since the source does not label it tech."
+  source: https://tempairsales.com/portable-hvac-solutions-fall-fleet-planning/
+  last_verified: "2026-10-26"

@@ -1,0 +1,17 @@
+id: glyptal
+name: Glyptal
+categories:
+- electrical
+aliases:
+- Glyptal Inc.
+support:
+- category: electrical
+  department: Customer Support
+  phone: '+16178846918'
+  country: US
+  notes: 'LEGACY: GE-origin insulating-varnish brand; Glyptal Inc., Chelsea, MA; acquired
+    by NCP Coatings (announced Aug 2025); own file per legacy rule with successor
+    chain GE -> Glyptal Inc. -> NCP Coatings; number from Glyptal''s own SDS/product
+    data sheets.'
+  source: https://assets.testequity.com/te1/Documents/pdf/glyptal/Glyptal_S1193G_SafetyDataSheet_0325.pdf
+  last_verified: '2026-10-26'

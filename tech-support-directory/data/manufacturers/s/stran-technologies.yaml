@@ -1,0 +1,14 @@
+id: stran-technologies
+name: STRAN Technologies
+website: https://www.strantech.com/
+categories:
+- electrical
+aliases: []
+support:
+- category: electrical
+  department: Customer Support
+  phone: "+12037206500"
+  country: US
+  notes: "Naugatuck, CT. Harsh-environment connectivity and fiber-optic connectors. Number is the 'Call Us' line on the company's own privacy-policy page; a directory alternate is noted, not filed. Individual employee numbers and emails seen in a Thomasnet press release are deliberately NOT published here."
+  source: https://www.strantech.com/privacy-policy/
+  last_verified: "2026-10-26"

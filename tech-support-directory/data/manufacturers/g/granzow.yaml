@@ -1,0 +1,15 @@
+id: granzow
+name: Granzow, Inc.
+website: https://www.granzow.com
+categories:
+- pumps
+aliases: []
+support:
+- category: pumps
+  department: Customer Support
+  phone: '+17048452300'
+  country: US
+  notes: Charlotte, NC valves, pumps and level-controls company; NOT the Danish Granzow
+    A/S (whose +45 number must not be used).
+  source: https://www.granzow.com/PDFs/XPUMPS.pdf
+  last_verified: '2026-10-26'

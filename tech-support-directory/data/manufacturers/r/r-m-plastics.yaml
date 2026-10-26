@@ -1,0 +1,12 @@
+id: r-m-plastics
+name: "R&M Plastics"
+categories: [electrical]
+aliases: []
+support:
+  - category: electrical
+    department: Customer Support
+    phone: "+18003614774"
+    country: CA
+    notes: "R&M Plastic Products Ltd., Barrie, Ontario, Canada, founded 1967 - extruded plastic pole-line guards protecting cable lines on utility poles. In April 2025 Plastifab Industries Inc. (Montreal) acquired R&M's Pole Line Products business (assets and IP); manufacturing integrated into Plastifab's Montreal plant. Filed line is Plastifab's published toll-free line (successor's number, per the legacy rule). Country CA (Canadian successor; North American toll-free line)."
+    source: "https://www.plastifab.ca/about-us/"
+    last_verified: "2026-10-26"

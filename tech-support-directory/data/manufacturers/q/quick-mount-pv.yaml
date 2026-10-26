@@ -1,0 +1,12 @@
+id: quick-mount-pv
+name: "Quick Mount PV"
+categories: [electrical]
+aliases: []
+support:
+  - category: electrical
+    department: Customer Support
+    phone: "+19254788269"
+    country: US
+    notes: "Quick Mount PV - solar roof mounts/flashings. Filed line is the later Walnut Creek number (2700 Mitchell Dr., Bldg. 2, Walnut Creek, CA 94598) from a 2013 spec and an April 2018 brochure; an Aug 2011 spec gives an older Concord number (936 Detroit Ave Suite D, Concord, CA 94518, (925) 687-6686) - conflict documented, not silently resolved; the later manufacturer documents win. Not filed on the unclaimed Manta listing."
+    source: "https://www.invertersupply.com/media/data/QMPVCompRoofsBrochure.pdf"
+    last_verified: "2026-10-26"

@@ -1,0 +1,14 @@
+id: tenmat
+name: Tenmat
+website: https://www.tenmatusa.com/
+categories:
+- hardware
+aliases: []
+support:
+- category: hardware
+  department: Customer Support
+  phone: "+18008213436"
+  country: US
+  notes: "Tenmat USA (Tenmat Inc.), Wilmington/Newport, DE. Passive fire protection and intumescent firestopping products. Number is the North America Customer Service Center line 1-800-821-3436 in the company's own fire-protection brochure, with info@tenmatusa.com. Hardware is the closest category-vocabulary term for firestopping products."
+  source: https://www.tenmatusa.com/wp-content/uploads/Tenmat-Fire-Protection-Brochure.pdf
+  last_verified: "2026-10-26"

@@ -1,0 +1,12 @@
+id: precision-resistor-company
+name: "Precision Resistor Company"
+categories: [electrical]
+aliases: []
+support:
+  - category: electrical
+    department: Technical Support
+    phone: "+17275415771"
+    country: US
+    notes: "Precision Resistor Co., Inc., 10601 75th Street North, Largo, FL 33777-1421; email sales@precisionresistor.com. The number is the company's published line in its HR Series datasheet; a 2014 manufacturer product-change notice labels this number as the tech support contact, hence Technical Support."
+    source: "https://www.precisionresistor.com/skin/reboot/pdf/HRSeriesUltraPrecisionWireWoundResistorPDF.pdf"
+    last_verified: "2026-10-26"

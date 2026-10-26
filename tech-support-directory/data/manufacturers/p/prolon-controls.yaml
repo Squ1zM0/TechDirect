@@ -1,0 +1,13 @@
+id: prolon-controls
+name: "Prolon Controls"
+website: "http://www.proloncontrols.com/"
+categories: [hvac-controls]
+aliases: []
+support:
+  - category: hvac-controls
+    department: Customer Support
+    phone: "+18779776566"
+    country: CA
+    notes: "Canadian HVAC controls manufacturer, head office 17510 Charles Street Suite 100, Mirabel, Quebec J7J 1X9 (formerly Laval, QC). Filed line is the published North American toll-free line, printed as 1-877-9PROLON in Prolon manuals (9PROLON converts to 977-6566); email info@proloncontrols.com. Country CA because the company and its published lines are Canadian; the toll-free line is diallable from the US."
+    source: "https://cdn3.guidespdf.com/view/1354/1354745-c1000_series.pdf"
+    last_verified: "2026-10-26"

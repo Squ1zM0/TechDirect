@@ -1,0 +1,12 @@
+id: prest-o-lite
+name: "Prest-O-Lite"
+categories: [hardware]
+aliases: []
+support:
+  - category: hardware
+    department: Customer Support
+    phone: "+18003722123"
+    country: US
+    notes: "Legacy torch/regulator brand; PREST-O-LITE is a registered trademark of ESAB Welding & Cutting Products per ESAB regulator documents. Filed number is ESAB's published 1.800.ESAB.123 contact line, converted from vanity letters to digits (E=3, S=7, A=2, B=2, giving 372-2123). Not merged into the Victor (ESAB family) file; Victor has its own staged file with its own number."
+    source: "https://esab.com/us/nam_en/search/"
+    last_verified: "2026-10-26"

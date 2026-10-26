@@ -1,0 +1,14 @@
+id: gatco
+name: Gatco
+categories:
+- bathroom-systems
+aliases: []
+support:
+- category: bathroom-systems
+  department: Customer Support
+  phone: '+18002275640'
+  country: US
+  notes: San Leandro, CA maker of bath accessories and grab bars; email cs@gatcoinc.com
+    per spec sheets.
+  source: https://images.thdstatic.com/catalog/pdfImages/ed/ed354694-bbcd-4b9c-add4-41eb42bf16ce.pdf
+  last_verified: '2026-10-26'

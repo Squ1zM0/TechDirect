@@ -1,0 +1,16 @@
+id: hammond-manufacturing
+name: Hammond Manufacturing Co.
+website: https://www.hammfg.com
+categories:
+- electrical
+aliases: []
+support:
+- category: electrical
+  department: Customer Support
+  phone: '+17166307030'
+  country: US
+  notes: US office Cheektowaga, NY; enclosures and transformers maker; distinct from
+    the existing hammond-power-solutions (HPS) file; xref rows 'Hammond', 'Hammond
+    Manufacturing', 'Hammond Mfg' and 'HAMMOND MFG CO' all share this file.
+  source: https://www.hammfg.com/electrical/products/modular/imep
+  last_verified: '2026-10-26'
