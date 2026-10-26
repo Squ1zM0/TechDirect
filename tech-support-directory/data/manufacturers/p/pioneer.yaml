@@ -1,0 +1,17 @@
+id: pioneer
+name: Pioneer (mini-split)
+categories:
+- hvac
+support:
+- category: hvac
+  department: Customer Support
+  phone: '+13055134488'
+  country: US
+  notes: Pioneer ductless mini-split / multi-split brand of Parker Davis HVAC International,
+    Inc., Doral FL (3250 NW 107 Avenue, Doral, FL 33172). Number from Parker Davis
+    manufacturer manuals (general manufacturer contact for assistance/inquiries; not
+    labelled a dedicated technical line, so filed as Customer Support). Distinct from
+    Pioneer Industries and Pioneer Power Solutions, unrelated companies with their
+    own files.
+  source: https://manuals.plus/pioneer/yn020glfi22m2d-diamante-ultra-36000-btu-quad-zone-mini-split-heat-pump-manual
+  last_verified: '2026-10-26'

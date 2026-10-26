@@ -1,0 +1,17 @@
+id: westinghouse-hvac
+name: Westinghouse (HVAC)
+categories:
+- hvac
+support:
+- category: hvac
+  department: Technical Services
+  phone: '+18004224328'
+  country: US
+  notes: Westinghouse HVAC is a Nordyne (Nortek Global HVAC) licence brand; support
+    routes through Nordyne Technical Services (number re-confirmed current on nordyne.com
+    contact page 2026-10-26, listed as Nordyne's contact phone; the Nordyne file documents
+    it as the Technical Services Team line for licensed HVAC technicians). The Nordyne
+    file lists Westinghouse as an alias. Distinct from Westinghouse Electric Company
+    and Westinghouse Lighting, unrelated companies with their own files.
+  source: https://www.nordyne.com/contact/
+  last_verified: '2026-10-26'
