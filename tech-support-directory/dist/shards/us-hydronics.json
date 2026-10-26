@@ -140,7 +140,7 @@
     },
     {
       "id": "warmup",
-      "name": "\"Warmup\"",
+      "name": "Warmup",
       "website": "https://www.warmup.com",
       "categories": [
         "hydronics"
@@ -162,7 +162,7 @@
     },
     {
       "id": "watts-radiant",
-      "name": "\"Watts Radiant\"",
+      "name": "Watts Radiant",
       "website": "https://www.watts.com",
       "categories": [
         "hydronics"

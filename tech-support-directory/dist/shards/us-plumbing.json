@@ -1500,7 +1500,7 @@
     },
     {
       "id": "endot-industries",
-      "name": "\"Endot Industries\"",
+      "name": "Endot Industries",
       "website": null,
       "categories": [
         "plumbing",
@@ -1568,7 +1568,7 @@
     },
     {
       "id": "ez-flo",
-      "name": "\"EZ-Flo\"",
+      "name": "EZ-Flo",
       "website": null,
       "categories": [
         "plumbing"
@@ -1590,7 +1590,7 @@
     },
     {
       "id": "falcon-stainless",
-      "name": "\"Falcon Stainless\"",
+      "name": "Falcon Stainless",
       "website": null,
       "categories": [
         "plumbing"
@@ -1656,7 +1656,7 @@
     },
     {
       "id": "fiat-products",
-      "name": "\"FIAT Products\"",
+      "name": "FIAT Products",
       "website": null,
       "categories": [
         "plumbing"
@@ -1746,7 +1746,7 @@
     },
     {
       "id": "florestone",
-      "name": "\"Florestone\"",
+      "name": "Florestone",
       "website": null,
       "categories": [
         "plumbing"
@@ -1969,7 +1969,7 @@
     },
     {
       "id": "genova",
-      "name": "'Genova Products'",
+      "name": "Genova Products",
       "website": "https://www.genovaproducts.com/",
       "categories": [
         "plumbing"
@@ -2081,7 +2081,7 @@
     },
     {
       "id": "graff",
-      "name": "'Graff'",
+      "name": "Graff",
       "website": null,
       "categories": [
         "plumbing"
@@ -3000,7 +3000,7 @@
     {
       "id": "lsp-products",
       "name": "LSP Products",
-      "website": "\"https://www.lspproducts.com\"",
+      "website": "https://www.lspproducts.com",
       "categories": [
         "plumbing"
       ],
@@ -4127,7 +4127,7 @@
     },
     {
       "id": "premier-copper-products",
-      "name": "\"Premier Copper Products\"",
+      "name": "Premier Copper Products",
       "website": null,
       "categories": [
         "plumbing",
@@ -4206,8 +4206,8 @@
     },
     {
       "id": "real-tite",
-      "name": "\"Real-Tite\"",
-      "website": "\"https://real-titeplugs.com/\"",
+      "name": "Real-Tite",
+      "website": "https://real-titeplugs.com/",
       "categories": [
         "plumbing"
       ],
@@ -4727,8 +4727,8 @@
     },
     {
       "id": "strom-living",
-      "name": "\"Strom Living\"",
-      "website": "\"https://stromliving.com/\"",
+      "name": "Strom Living",
+      "website": "https://stromliving.com/",
       "categories": [
         "plumbing"
       ],
@@ -4793,7 +4793,7 @@
     },
     {
       "id": "tectite",
-      "name": "\"Tectite\"",
+      "name": "Tectite",
       "website": null,
       "categories": [
         "plumbing"
@@ -5170,7 +5170,7 @@
     },
     {
       "id": "waterstone",
-      "name": "\"Waterstone Faucets\"",
+      "name": "Waterstone Faucets",
       "website": "https://www.waterstoneco.com",
       "categories": [
         "plumbing"
@@ -5347,7 +5347,7 @@
     },
     {
       "id": "william-h-harvey-company",
-      "name": "\"William H. Harvey Company\"",
+      "name": "William H. Harvey Company",
       "website": "http://www.oatey.com/brands/harvey",
       "categories": [
         "plumbing"

@@ -3007,8 +3007,8 @@
     },
     {
       "id": "esco-institute",
-      "name": "\"Esco Institute\"",
-      "website": "\"https://www.escogroup.org/training/epa608.aspx\"",
+      "name": "Esco Institute",
+      "website": "https://www.escogroup.org/training/epa608.aspx",
       "categories": [
         "hvac"
       ],
@@ -3029,7 +3029,7 @@
     },
     {
       "id": "essick",
-      "name": "\"Essick\"",
+      "name": "Essick",
       "website": null,
       "categories": [
         "hvac"
@@ -3151,8 +3151,8 @@
     },
     {
       "id": "famco",
-      "name": "\"Famco\"",
-      "website": "\"https://www.famcomfg.com/?p=57936\"",
+      "name": "Famco",
+      "website": "https://www.famcomfg.com/?p=57936",
       "categories": [
         "hvac"
       ],
@@ -3341,8 +3341,8 @@
     },
     {
       "id": "filter-1",
-      "name": "\"Filter 1\"",
-      "website": "\"http://www.filter-1.com/\"",
+      "name": "Filter 1",
+      "website": "http://www.filter-1.com/",
       "categories": [
         "hvac"
       ],
@@ -3363,8 +3363,8 @@
     },
     {
       "id": "filtration-group",
-      "name": "\"Filtration Group\"",
-      "website": "\"http://www.filtrationgroup.com/\"",
+      "name": "Filtration Group",
+      "website": "http://www.filtrationgroup.com/",
       "categories": [
         "hvac"
       ],
@@ -3385,8 +3385,8 @@
     },
     {
       "id": "filtration-manufacturing",
-      "name": "\"Filtration Manufacturing\"",
-      "website": "\"http://www.filtrationmanufacturing.com/\"",
+      "name": "Filtration Manufacturing",
+      "website": "http://www.filtrationmanufacturing.com/",
       "categories": [
         "hvac"
       ],
@@ -3473,7 +3473,7 @@
     },
     {
       "id": "flanders",
-      "name": "\"Flanders\"",
+      "name": "Flanders",
       "website": null,
       "categories": [
         "hvac"
@@ -3495,8 +3495,8 @@
     },
     {
       "id": "flex-kleen",
-      "name": "\"Flex-Kleen\"",
-      "website": "\"https://www.cecoenviro.com/product-brands/flex-kleen/\"",
+      "name": "Flex-Kleen",
+      "website": "https://www.cecoenviro.com/product-brands/flex-kleen/",
       "categories": [
         "hvac"
       ],
@@ -3539,7 +3539,7 @@
     },
     {
       "id": "floaire",
-      "name": "\"FloAire\"",
+      "name": "FloAire",
       "website": null,
       "categories": [
         "hvac"
@@ -3561,8 +3561,8 @@
     },
     {
       "id": "forane",
-      "name": "\"Forane\"",
-      "website": "\"https://forane.arkema.com/en/forane-products/forane-refrigerants/forane-retrofits/forane-427a-retrofit-guides/\"",
+      "name": "Forane",
+      "website": "https://forane.arkema.com/en/forane-products/forane-refrigerants/forane-retrofits/forane-427a-retrofit-guides/",
       "categories": [
         "hvac"
       ],
@@ -3583,7 +3583,7 @@
     },
     {
       "id": "fr-filter",
-      "name": "\"FR Filter\"",
+      "name": "FR Filter",
       "website": null,
       "categories": [
         "hvac"
@@ -3649,7 +3649,7 @@
     },
     {
       "id": "freudenberg-filtration-technologies",
-      "name": "'Freudenberg Filtration Technologies'",
+      "name": "Freudenberg Filtration Technologies",
       "website": null,
       "categories": [
         "hvac"
@@ -3793,7 +3793,7 @@
     },
     {
       "id": "ge-appliances",
-      "name": "'GE Appliances'",
+      "name": "GE Appliances",
       "website": "https://www.geappliances.com/",
       "categories": [
         "hvac"
@@ -4157,7 +4157,7 @@
     },
     {
       "id": "harris-products-group",
-      "name": "'Harris Products Group'",
+      "name": "Harris Products Group",
       "website": "http://harrisproductsgroup.com",
       "categories": [
         "hvac"
@@ -5635,7 +5635,7 @@
     {
       "id": "lm-curbs",
       "name": "LM Curbs",
-      "website": "\"https://www.lmcurbs.com\"",
+      "website": "https://www.lmcurbs.com",
       "categories": [
         "hvac"
       ],
@@ -5724,7 +5724,7 @@
     {
       "id": "lucas-milhaupt",
       "name": "Lucas-Milhaupt",
-      "website": "\"https://www.lucasmilhaupt.com\"",
+      "website": "https://www.lucasmilhaupt.com",
       "categories": [
         "hvac"
       ],
@@ -5812,7 +5812,7 @@
     {
       "id": "m-m-manufacturing",
       "name": "M&M Manufacturing",
-      "website": "\"http://www.mmmfg.com/\"",
+      "website": "http://www.mmmfg.com/",
       "categories": [
         "hvac"
       ],
@@ -7260,8 +7260,8 @@
     },
     {
       "id": "proline-radiant-heat",
-      "name": "\"ProLine Radiant Heat\"",
-      "website": "\"https://www.prolineradiant.com/radiant-heat/contact-us.php\"",
+      "name": "ProLine Radiant Heat",
+      "website": "https://www.prolineradiant.com/radiant-heat/contact-us.php",
       "categories": [
         "hvac",
         "hydronics"
@@ -7283,7 +7283,7 @@
     },
     {
       "id": "proselect",
-      "name": "\"PROSELECT\"",
+      "name": "PROSELECT",
       "website": null,
       "categories": [
         "hvac",
@@ -7373,7 +7373,7 @@
     },
     {
       "id": "quest",
-      "name": "\"Quest\"",
+      "name": "Quest",
       "website": null,
       "categories": [
         "hvac"
@@ -7417,8 +7417,8 @@
     },
     {
       "id": "rapid-locking-system",
-      "name": "\"Rapid Locking System\"",
-      "website": "\"https://rapidlockingsystem.com/about-rls-hvacr-press-fittings/rls-history/\"",
+      "name": "Rapid Locking System",
+      "website": "https://rapidlockingsystem.com/about-rls-hvacr-press-fittings/rls-history/",
       "categories": [
         "hvac",
         "piping-systems"
@@ -7440,7 +7440,7 @@
     },
     {
       "id": "raychem",
-      "name": "\"Raychem\"",
+      "name": "Raychem",
       "website": null,
       "categories": [
         "electrical",
@@ -7552,8 +7552,8 @@
     },
     {
       "id": "refco",
-      "name": "\"Refco\"",
-      "website": "\"https://refcoswiss.com/en-us?_ptr=1\"",
+      "name": "Refco",
+      "website": "https://refcoswiss.com/en-us?_ptr=1",
       "categories": [
         "hvac"
       ],
@@ -8491,8 +8491,8 @@
     },
     {
       "id": "steffes",
-      "name": "\"Steffes Corporation\"",
-      "website": "\"https://steffes.com/ets/thermelect-hydronic-furnace/\"",
+      "name": "Steffes Corporation",
+      "website": "https://steffes.com/ets/thermelect-hydronic-furnace/",
       "categories": [
         "hvac"
       ],
@@ -8513,8 +8513,8 @@
     },
     {
       "id": "stelpro-design",
-      "name": "\"Stelpro\"",
-      "website": "\"https://www.stelpro.com/tools-and-support/support-and-faq/\"",
+      "name": "Stelpro",
+      "website": "https://www.stelpro.com/tools-and-support/support-and-faq/",
       "categories": [
         "hvac"
       ],
@@ -8845,8 +8845,8 @@
     },
     {
       "id": "temprite",
-      "name": "\"Temprite\"",
-      "website": "\"https://temprite.com/products/\"",
+      "name": "Temprite",
+      "website": "https://temprite.com/products/",
       "categories": [
         "hvac"
       ],
@@ -9000,7 +9000,7 @@
     },
     {
       "id": "tif",
-      "name": "\"TIF Instruments\"",
+      "name": "TIF Instruments",
       "website": null,
       "categories": [
         "hvac"
@@ -9723,7 +9723,7 @@
     },
     {
       "id": "virginia-kmp",
-      "name": "\"Virginia KMP\"",
+      "name": "Virginia KMP",
       "website": "https://www.virginiakmp.com",
       "categories": [
         "hvac"
@@ -9901,7 +9901,7 @@
     },
     {
       "id": "wellair",
-      "name": "\"WellAir\"",
+      "name": "WellAir",
       "website": "https://www.wellairsolutions.com",
       "categories": [
         "hvac"
@@ -9945,7 +9945,7 @@
     },
     {
       "id": "westermeyer-industries",
-      "name": "\"Westermeyer Industries\"",
+      "name": "Westermeyer Industries",
       "website": "https://westermeyerind.com",
       "categories": [
         "hvac"
@@ -9989,7 +9989,7 @@
     },
     {
       "id": "williams-furnace",
-      "name": "\"Williams Furnace Company\"",
+      "name": "Williams Furnace Company",
       "website": "https://www.williamscomfortprod.com",
       "categories": [
         "hvac"
@@ -10033,7 +10033,7 @@
     },
     {
       "id": "worthington",
-      "name": "\"Worthington\"",
+      "name": "Worthington",
       "website": "https://www.worthingtonenterprises.com",
       "categories": [
         "hvac"
