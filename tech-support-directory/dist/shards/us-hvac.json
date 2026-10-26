@@ -2620,6 +2620,28 @@
       ]
     },
     {
+      "id": "divspec",
+      "name": "Divspec",
+      "website": "https://divspec.com/",
+      "categories": [
+        "hvac"
+      ],
+      "support": [
+        {
+          "category": "hvac",
+          "department": "Customer Support",
+          "phone": "+19086882550",
+          "country": "US",
+          "regions": [],
+          "timezone": "ET",
+          "last_verified": "2026-10-26",
+          "specialty_tags": [],
+          "notes": "Divspec, Inc., Kenilworth NJ (605 Springfield Rd), est. 1980, WBENC woman-owned; strut, strut fittings, and fasteners. Xref hint 'HVAC; products'; strut/supports for HVAC installs, no exact vocabulary term for strut. SOURCE TIER: phone from directory page Manta, corroborated by an agreeing place record (same number, address, and hours); official site confirms the company and business but publishes no phone. NOT Diversified Spec Sales, Inc. (Oak Park MI plumbing rep, a different company).",
+          "source": "https://www.manta.com/c/mm2rhh8/divspec"
+        }
+      ]
+    },
+    {
       "id": "dorin",
       "name": "Dorin",
       "website": null,
@@ -2870,6 +2892,28 @@
           "specialty_tags": [],
           "notes": "Imported from verified manufacturer spreadsheet (Oct 2026). Tech/support",
           "source": "https://www.ecobee.com/support"
+        }
+      ]
+    },
+    {
+      "id": "electromode",
+      "name": "Electromode",
+      "website": null,
+      "categories": [
+        "hvac"
+      ],
+      "support": [
+        {
+          "category": "hvac",
+          "department": "Technical Support",
+          "phone": "+18883467539",
+          "country": "US",
+          "regions": [],
+          "timezone": "ET",
+          "last_verified": "2026-10-26",
+          "specialty_tags": [],
+          "notes": "LEGACY brand, own file per the standing legacy rule. ELECTROMODE trademark of DIMPLEX NORTH AMERICA LIMITED (USPTO serial 71617659, electric space heaters, air duct heaters, explosion-proof heaters, electric furnaces; registration cancelled, Section 8 non-filing). Successor: Dimplex (Glen Dimplex Americas); the number filed is Dimplex's published technical support line, not an Electromode-era line. The Rexel catalog order line and Mor Electric Heating retailer number were NOT filed (catalog publisher's / retailer's lines, not Electromode's).",
+          "source": "https://www.dimplex.glendimplexamericas.com/sites/g/files/emiian436/files/downloads/DF3033ST_Owners_Manual_1.pdf"
         }
       ]
     },
@@ -3556,6 +3600,28 @@
           "specialty_tags": [],
           "notes": "FloAire Inc. Manuals direct warranty and technical support issues to this service department number. Commercial and industrial ventilation: exhaust fans, kitchen hoods, make-up air, heaters. A distributor number 678-383-6420 seen in a distributor profile is the distributor, NOT FloAire, and is not used. Category hvac preferred over airflow.",
           "source": "https://www.manualsdir.com/manuals/676098/floaire-fkb-inline-pcu-blower.html?page=4"
+        }
+      ]
+    },
+    {
+      "id": "fluorofusion",
+      "name": "FluoroFusion Specialty Chemicals, Inc.",
+      "website": "https://fluorofusion.com/",
+      "categories": [
+        "hvac"
+      ],
+      "support": [
+        {
+          "category": "hvac",
+          "department": "Customer Support",
+          "phone": "+13369473882",
+          "country": "US",
+          "regions": [],
+          "timezone": null,
+          "last_verified": "2026-10-26",
+          "specialty_tags": [],
+          "notes": "Number from the official site footer (110 Avondale Street, High Point, NC 27260). US manufacturer of sustainable refrigerants (HFC/HFO blends, reclaimed R-410A) for mechanical contractors and wholesalers; AHRI 700 lab. A Clayton NC directory listing shows a different number; the official-site High Point number is filed.",
+          "source": "https://fluorofusion.com/"
         }
       ]
     },
@@ -4306,6 +4372,28 @@
           "specialty_tags": [],
           "notes": "Hercules Industries, Denver, CO. HQ 303-937-1000; email info@hercmail.com. Sheet metal, ductwork.",
           "source": "https://www.herculesindustries.com/about"
+        }
+      ]
+    },
+    {
+      "id": "hero-fabriduct",
+      "name": "Hero Fabriduct, Inc.",
+      "website": "https://herofabriduct.com/",
+      "categories": [
+        "hvac"
+      ],
+      "support": [
+        {
+          "category": "hvac",
+          "department": "Customer Support",
+          "phone": "+18774376247",
+          "country": "US",
+          "regions": [],
+          "timezone": null,
+          "last_verified": "2026-10-26",
+          "specialty_tags": [],
+          "notes": "Toll-free 877-HERO-AIR from the official About page footer; local line 423-510-8225 and quotes@herofabriduct.com also published (P.O. Box 9414, Chattanooga, TN 37412). Fabric ductwork, est. 1998. Not FabricAir.",
+          "source": "https://www.herofabriduct.com/about/"
         }
       ]
     },
@@ -5072,6 +5160,28 @@
           "specialty_tags": [],
           "notes": "HVAC distributor cooperative of independently owned branches. The filed number is the corporate HQ, Portland, OR, 11632 N.E. Ainsworth Circle, Portland, OR 97220, not a branch line; branch numbers are not the corporate line.",
           "source": "https://reviews.birdeye.com/johnstone-supply-corporate-headquarters-165416023668275"
+        }
+      ]
+    },
+    {
+      "id": "juglugger",
+      "name": "JugLugger",
+      "website": "https://juglugger.com/",
+      "categories": [
+        "hvac"
+      ],
+      "support": [
+        {
+          "category": "hvac",
+          "department": "Customer Support",
+          "phone": "+13026551255",
+          "country": "US",
+          "regions": [],
+          "timezone": null,
+          "last_verified": "2026-10-26",
+          "specialty_tags": [],
+          "notes": "Number from the manufacturer JugLugger specification sheet (SC Products Inc., Wilmington, DE 19803) and trade press. Refrigerant-cylinder carrying strap for HVACR contractors. A 2007 ACHR listing also published toll-free 888-558-4584 as an older alternate; the spec-sheet number is filed.",
+          "source": "https://assets.unilogcorp.com/267/ITEM/DOC/JugLugger_JL1_Specification_Sheet.pdf"
         }
       ]
     },
@@ -7055,6 +7165,28 @@
           "specialty_tags": [],
           "notes": "PDM US LLC (formerly PDM US Corp.), Rock Hill, SC (640 Cel River Rd, 29730). Number printed in the company's own Gelcopper material safety data sheets alongside info@pdmus.com and corroborated across multiple SDS revisions. Manufacturer of Gelcopper pre-insulated copper linesets and polyethylene foam tubular insulation (ASTM C 1427, Type I, Grade I; UL 723 classified) for HVAC/refrigeration systems. The xref string 'PDM US GelcopperUS' is the company name plus its Gelcopper product line, recorded here as one file. General company number, not labelled technical support, so recorded as Customer Support.",
           "source": "https://pdmus.com/wp-content/uploads/2020/10/GELCOPPER-MDS-2020.pdf"
+        }
+      ]
+    },
+    {
+      "id": "peerless-of-america",
+      "name": "Peerless of America",
+      "website": "https://www.peerlessofamerica.com/",
+      "categories": [
+        "hvac"
+      ],
+      "support": [
+        {
+          "category": "hvac",
+          "department": "Customer Support",
+          "phone": "+12173420400",
+          "country": "US",
+          "regions": [],
+          "timezone": null,
+          "last_verified": "2026-10-26",
+          "specialty_tags": [],
+          "notes": "Peerless of America, LLC, 1201 W Wabash Ave, Effingham, IL 62401. Manufacturer of all-aluminum and aluminum/copper heat transfer coils, unit coolers and custom tubing assemblies for air conditioning and commercial/domestic refrigeration since 1912; sales@peerlessofamerica.com. Number is the plant/general number published in the official site footer; it is not labelled Technical Support, so Customer Support. Distinct from Peerless Pump Company (Grundfos subsidiary, existing peerless-pump file) and from PB Heat / Peerless Boilers (existing pb-heat file) — the Phase 1 tentative parent-resolution to peerless-pump is rejected and this company is filed on its own. Covers the xref spelling 'Peerless Of America, Inc.' (Inc. vs current LLC suffix).",
+          "source": "https://www.peerlessofamerica.com/"
         }
       ]
     },
@@ -9896,6 +10028,29 @@
           "specialty_tags": [],
           "notes": "Weishaupt America (Elgin, IL)",
           "source": "https://www.weishaupt-america.com"
+        }
+      ]
+    },
+    {
+      "id": "weiss-instruments",
+      "name": "Weiss Instruments",
+      "website": "https://www.weissinstruments.com/",
+      "categories": [
+        "hvac",
+        "plumbing"
+      ],
+      "support": [
+        {
+          "category": "hvac",
+          "department": "Customer Support",
+          "phone": "+16312071200",
+          "country": "US",
+          "regions": [],
+          "timezone": null,
+          "last_verified": "2026-10-26",
+          "specialty_tags": [],
+          "notes": "Weiss Instruments, Inc., 905 Waverly Ave, Holtsville, NY 11742; founded 1882. Pressure gauges, thermometers, needle and ball valves for plumbing, cooling and heating applications. sales@weissinstruments.com on the same bulletin. Filed as the trade-fit Weiss maker; the xref carries no category, and other Weiss companies (Weiss Technik environmental chambers, Weiss North America automation) are different companies and are NOT filed here.",
+          "source": "https://www.weissinstruments.com/assets/potable.lead_free_bulletin.pdf"
         }
       ]
     },

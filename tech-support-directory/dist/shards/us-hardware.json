@@ -420,6 +420,28 @@
       ]
     },
     {
+      "id": "apex-dynamics",
+      "name": "Apex Dynamics",
+      "website": "http://www.apexdynamicsusa.com/",
+      "categories": [
+        "hardware"
+      ],
+      "support": [
+        {
+          "category": "hardware",
+          "department": "Customer Support",
+          "phone": "+16312449040",
+          "country": "US",
+          "regions": [],
+          "timezone": "ET",
+          "last_verified": "2026-10-26",
+          "specialty_tags": [],
+          "notes": "US office, Ronkonkoma, NY, of Apex Dynamics, Inc., manufacturer of precision planetary gearboxes and servo gear reducers. General office contact from the official US homepage footer, not labelled a tech line. Closest category-vocabulary term is hardware; precision gearboxes have no exact term in the vocabulary.",
+          "source": "http://www.apexdynamicsusa.com/"
+        }
+      ]
+    },
+    {
       "id": "apex-tool-group",
       "name": "Apex Tool Group",
       "website": null,
@@ -1938,6 +1960,28 @@
       ]
     },
     {
+      "id": "congress-drives",
+      "name": "Congress Drives",
+      "website": "https://www.congressdrives.com/",
+      "categories": [
+        "hardware"
+      ],
+      "support": [
+        {
+          "category": "hardware",
+          "department": "Customer Support",
+          "phone": "+16366773364",
+          "country": "US",
+          "regions": [],
+          "timezone": null,
+          "last_verified": "2026-10-26",
+          "specialty_tags": [],
+          "notes": "Congress Drives, Fenton MO; manufacturer of standard/custom pulleys/sheaves for boat control, fan, HVAC and motor applications, serving since 1915. Xref hint 'Drives; motor drives' has no vocabulary term; mechanical drive components fit hardware closest. The old catalog-footer Ennis TX number was NOT filed (appears only in an old catalog mirror; current official site shows Fenton MO).",
+          "source": "https://www.congressdrives.com/"
+        }
+      ]
+    },
+    {
       "id": "continental-western",
       "name": "Continental Western Corporation",
       "website": "https://www.cwcglobal.com/",
@@ -2386,6 +2430,28 @@
           "specialty_tags": [],
           "notes": "Earnest Machine Products Co. (Rocky River, OH, founded 1948) master distributor of large-diameter and specialty industrial fasteners. Toll-free line from the company's official About Us page; email Inquiry@EarnestMachine.com; direct 216-362-1100 also published.",
           "source": "https://www.earnestmachine.com/about-us"
+        }
+      ]
+    },
+    {
+      "id": "elk-river",
+      "name": "Elk River",
+      "website": "https://www.elkriver.com",
+      "categories": [
+        "hardware"
+      ],
+      "support": [
+        {
+          "category": "hardware",
+          "department": "Customer Support",
+          "phone": "+18006333954",
+          "country": "US",
+          "regions": [],
+          "timezone": null,
+          "last_verified": "2026-10-26",
+          "specialty_tags": [],
+          "notes": "Elk River, Inc., Cullman AL, fall protection manufacturer since 1988, 1,600+ line items. Xref hint 'Safety; fall protection' has no vocabulary term; hardware is closest. Phone printed on the company's own technical data sheets (not labelled tech, so Customer Support). Mazzella distributor numbers were NOT filed (distributor's lines, not the manufacturer's).",
+          "source": "https://www.elkriver.com:443/wp-content/uploads/2022/06/36827-Elk-River-FlexZorber-Lanyard-TDS.pdf"
         }
       ]
     },
@@ -5888,6 +5954,28 @@
       ]
     },
     {
+      "id": "orion-ropeworks",
+      "name": "Orion Ropeworks",
+      "website": null,
+      "categories": [
+        "hardware"
+      ],
+      "support": [
+        {
+          "category": "hardware",
+          "department": "Customer Support",
+          "phone": "+18885377673",
+          "country": "US",
+          "regions": [],
+          "timezone": null,
+          "last_verified": "2026-10-26",
+          "specialty_tags": [],
+          "notes": "Winslow, ME rope manufacturer (brands EsterPlex, Lockman, Lublock); government/military-specification double-braid and twisted rope. Toll-free number as listed on the Thomasnet Orion Ropeworks profile at the Winslow address; the same Winslow address and toll-free line are also associated with the Orion Cordage operation. Xref notes the company as formerly Wellington.",
+          "source": "https://www.thomasnet.com/company/orion-ropeworks-inc-20068495/profile?heading=96124037"
+        }
+      ]
+    },
+    {
       "id": "osg-usa",
       "name": "OSG USA",
       "website": "https://osgtool.com/blog/high-speed-machining/",
@@ -5906,6 +5994,28 @@
           "specialty_tags": [],
           "notes": "OSG USA, Inc., St. Charles IL (620 Stetson Avenue); formerly OSG Tap & Die; taps, drills, end mills, dies.",
           "source": "https://osgtool.com/blog/high-speed-machining/"
+        }
+      ]
+    },
+    {
+      "id": "oshkosh-tools",
+      "name": "Oshkosh Tools",
+      "website": "https://www.oshkoshtools.com/pages/contact",
+      "categories": [
+        "hardware"
+      ],
+      "support": [
+        {
+          "category": "hardware",
+          "department": "Customer Support",
+          "phone": "+19208590023",
+          "country": "US",
+          "regions": [],
+          "timezone": null,
+          "last_verified": "2026-10-26",
+          "specialty_tags": [],
+          "notes": "Omro, WI maker of pole-line construction tools (pike poles, cant hooks, digging bars, tongs); order line from the official contact page. Business hours Monday-Thursday 6am-4pm CT; closed Friday-Sunday. Email info@oshkoshtools.com also published on the same page.",
+          "source": "https://www.oshkoshtools.com/pages/contact"
         }
       ]
     },
@@ -7551,6 +7661,28 @@
       ]
     },
     {
+      "id": "smi-carr",
+      "name": "Smi-Carr",
+      "website": "http://www.smicarr.com/",
+      "categories": [
+        "hardware"
+      ],
+      "support": [
+        {
+          "category": "hardware",
+          "department": "Customer Support",
+          "phone": "+18006221303",
+          "country": "US",
+          "regions": [],
+          "timezone": null,
+          "last_verified": "2026-10-26",
+          "specialty_tags": [],
+          "notes": "Smi-Carr, Inc., 2573 Pine St, PO Box 3436, Abilene, TX 79604. Manufacturer of marking products, best known for the Stake Chaser brand marking whiskers — used for marking buried utility lines, survey points and athletic fields, as well as road construction. Number published on the official homepage; not labelled Technical Support, so Customer Support. Hardware is the closest vocabulary term, following the Safety Flag Company of America precedent for marking-flag products. Phase 1 recorded the trade as unclear; the official site confirms the utility-line marking use.",
+          "source": "http://www.smicarr.com/"
+        }
+      ]
+    },
+    {
       "id": "snap-on",
       "name": "Snap-on",
       "website": "https://www.snapon.com",
@@ -8311,6 +8443,28 @@
       ]
     },
     {
+      "id": "top-knobs",
+      "name": "Top Knobs",
+      "website": "https://www.topknobs.com/",
+      "categories": [
+        "hardware"
+      ],
+      "support": [
+        {
+          "category": "hardware",
+          "department": "Customer Support",
+          "phone": "+18004999095",
+          "country": "US",
+          "regions": [],
+          "timezone": "ET",
+          "last_verified": "2026-10-26",
+          "specialty_tags": [],
+          "notes": "Top Knobs decorative cabinet hardware. Source page is Top Knobs own dealer page; CustomerService@TopKnobs.com published on the same page. Retailer and distributor numbers (knobs.co, Ferguson, topknobsdecor.com, topknobsupply.com) are NOT filed here.",
+          "source": "https://www.topknobs.com/become-a-dealer"
+        }
+      ]
+    },
+    {
       "id": "travis-pattern-foundry",
       "name": "Travis Pattern & Foundry",
       "website": "http://www.travispattern.com/",
@@ -8487,6 +8641,28 @@
       ]
     },
     {
+      "id": "ullman",
+      "name": "Ullman Devices",
+      "website": "https://ullmandevices.com/",
+      "categories": [
+        "hardware"
+      ],
+      "support": [
+        {
+          "category": "hardware",
+          "department": "Customer Support",
+          "phone": "+12034386577",
+          "country": "US",
+          "regions": [],
+          "timezone": null,
+          "last_verified": "2026-10-26",
+          "specialty_tags": [],
+          "notes": "Ullman Devices Corp., 664 Danbury Rd, Ridgefield, CT. Inspection mirrors, magnetic pickups, LED inspection lights, hook-and-pick sets. Hours Mon-Fri 8:00 AM-5:00 PM ET per place listing; support email Ullman@ntplx.net per the NeweggBusiness manufacturer-contact block. Distinct from Ullman Precision (gunstock tools, New Braunfels, TX, (830) 627-9030) - that number is NOT filed here. Retailer numbers (Northern Tool, ToolSource) are NOT filed here.",
+          "source": "https://www.neweggbusiness.com/product/product.aspx?item=9b-0hv-0085-00007&srsltid=AfmBOopBvscPWDSg3fQ2RgYcxEVIk2b6dJUSCxlfpbYWkgmg9FODwIik"
+        }
+      ]
+    },
+    {
       "id": "unicorp",
       "name": "Unicorp",
       "website": "https://www.unicorpinc.com/",
@@ -8527,6 +8703,28 @@
           "specialty_tags": [],
           "notes": "U.S. Sales line; Manufacturing Headquarters 185 Boston Post Rd, North Windham, CT 06256; info@unitedabrasives.com.",
           "source": "https://www.unitedabrasives.com/"
+        }
+      ]
+    },
+    {
+      "id": "uttermost",
+      "name": "Uttermost",
+      "website": "https://uttermost.com/",
+      "categories": [
+        "hardware"
+      ],
+      "support": [
+        {
+          "category": "hardware",
+          "department": "Customer Support",
+          "phone": "+18006785486",
+          "country": "US",
+          "regions": [],
+          "timezone": null,
+          "last_verified": "2026-10-26",
+          "specialty_tags": [],
+          "notes": "Uttermost, founded 1975, HQ Rocky Mount, VA; trade-only home decor, lighting and furniture. Phone from the footer of the official homepage. Vocabulary has no decor or furniture term; hardware is the closest for this row. Retailer numbers (Lighting New York 866-344-3875, Lightopia, City Mattress) are NOT filed here.",
+          "source": "https://uttermost.com/"
         }
       ]
     },
@@ -8641,6 +8839,28 @@
       ]
     },
     {
+      "id": "w-l-fuller",
+      "name": "W.L. Fuller",
+      "website": "http://www.wlfuller.com/",
+      "categories": [
+        "hardware"
+      ],
+      "support": [
+        {
+          "category": "hardware",
+          "department": "Customer Support",
+          "phone": "+14014672900",
+          "country": "US",
+          "regions": [],
+          "timezone": null,
+          "last_verified": "2026-10-26",
+          "specialty_tags": [],
+          "notes": "W.L. Fuller, Inc., 7 Cypress St, Warwick, RI 02888. Countersinks, counterbores, plug cutters, taper point drills, brad point drills, step drills; family-owned, made in USA. Hours Mon-Fri 8:00 AM-5:00 PM ET per listings. Number corroborated by two independent listings at the same address; the official homepage text fetch shows no phone, so the number rests on those listings.",
+          "source": "https://www.engineering10.com/US/Warwick/110667747356/W-L-FULLER-INC"
+        }
+      ]
+    },
+    {
       "id": "w-steps",
       "name": "W.steps",
       "website": "https://www.wsteps.us",
@@ -8663,6 +8883,28 @@
       ]
     },
     {
+      "id": "w-t-hight",
+      "name": "W.T. Hight Company",
+      "website": "https://wthight.com/",
+      "categories": [
+        "hardware"
+      ],
+      "support": [
+        {
+          "category": "hardware",
+          "department": "Customer Support",
+          "phone": "+18004454082",
+          "country": "US",
+          "regions": [],
+          "timezone": "ET",
+          "last_verified": "2026-10-26",
+          "specialty_tags": [],
+          "notes": "W.T. Hight Company, 42 Winter St, Pembroke, MA 02359; founded 1866. Material handling and storage systems: casters, wheels, machine levelers, vibration mounts, hand trucks, racking, mezzanines. Toll-free 800-445-4082 is the sites header call number; office 781-682-7976 published on the same page. Merged with Deluxe Systems Jan 1, 2019; also operates Caster Central.",
+          "source": "https://wthight.com/"
+        }
+      ]
+    },
+    {
       "id": "wacker-neuson",
       "name": "Wacker Neuson",
       "website": "https://www.wackerneuson.com",
@@ -8681,6 +8923,28 @@
           "specialty_tags": [],
           "notes": "General published number on official US support/downloads pages. Construction equipment/tools; closest vocabulary term: hardware (no exact term exists).",
           "source": "https://www.wackerneuson.com/us/support"
+        }
+      ]
+    },
+    {
+      "id": "walker",
+      "name": "Walker Manufacturing Company",
+      "website": "https://www.walker.com/",
+      "categories": [
+        "hardware"
+      ],
+      "support": [
+        {
+          "category": "hardware",
+          "department": "Customer Support",
+          "phone": "+19702215614",
+          "country": "US",
+          "regions": [],
+          "timezone": null,
+          "last_verified": "2026-10-26",
+          "specialty_tags": [],
+          "notes": "Walker Manufacturing Company, 5925 E Harmony Rd, Fort Collins, CO 80528. Commercial zero-turn riding lawn mowers (Walker Mower). Number from the companys own operators manuals (call Walker Manufacturing Company at (970) 221-5614). Hours Mon-Fri 8:00 AM-4:30 PM MT per place listing. Identification caveat: filed as the Colorado-headquartered Walker maker; no competing Walker trade brand was found, but the xref carries no category, so if the row means a different Walker (for example Walker Exhaust), this file must be revisited. Vocabulary has no outdoor-power term; hardware is the closest.",
+          "source": "https://www.walker.com/hubfs/PDF/6000-46.pdf?hsLang=en-us"
         }
       ]
     },
@@ -8839,6 +9103,28 @@
       ]
     },
     {
+      "id": "wells-technology",
+      "name": "Wells Technology",
+      "website": "https://www.wellstech.com/",
+      "categories": [
+        "hardware"
+      ],
+      "support": [
+        {
+          "category": "hardware",
+          "department": "Customer Support",
+          "phone": "+12187511412",
+          "country": "US",
+          "regions": [],
+          "timezone": null,
+          "last_verified": "2026-10-26",
+          "specialty_tags": [],
+          "notes": "Wells Technology, 4885 Windsor Ct NW, Bemidji, MN 56601; founded 1989. CNC precision machining; NSN listings show the same company name for screws, conduit and nuts. Number from the companys own brochure; a directory listing shows a different (218) 751-5117, which is NOT filed. Caveat: the xref carries no category and this is a job shop rather than a product brand, so if the row means a different Wells Technology, this file must be revisited.",
+          "source": "https://www.wellstech.com/s/Wells-Technology-Brochure-1.pdf"
+        }
+      ]
+    },
+    {
       "id": "wera-tools",
       "name": "Wera Tools",
       "website": "https://www.weratools.com",
@@ -8901,6 +9187,28 @@
           "specialty_tags": [],
           "notes": "West Chester Holdings; Monroe OH; since 1978. PPE gloves/apparel/rainwear; closest vocabulary term: hardware.",
           "source": "https://www.ishn.com/articles/97179-west-chester-protective-gear-honored-with-vendor-of-the-year-award-by-do-it-best-corp"
+        }
+      ]
+    },
+    {
+      "id": "west-coast-shoe-company",
+      "name": "West Coast Shoe Company",
+      "website": "http://www.wescoboots.com/",
+      "categories": [
+        "hardware"
+      ],
+      "support": [
+        {
+          "category": "hardware",
+          "department": "Customer Support",
+          "phone": "+18003262711",
+          "country": "US",
+          "regions": [],
+          "timezone": null,
+          "last_verified": "2026-10-26",
+          "specialty_tags": [],
+          "notes": "West Coast Shoe Company (Wesco), 52828 NW Shoe Factory Ln, Scappoose, OR 97056; founded 1918. US-made work boots for linemen, loggers and wildland firefighters, including electrical-hazard boots. Toll-free 800-326-2711 (US and Canada) from company press releases; direct (503) 543-7114 on the same releases and the BBB profile. Hours Mon-Fri 7:30 AM-4:00 PM PT. Vocabulary has no safety or PPE term; hardware is the closest for the xref Safety; work shoes / PPE scope.",
+          "source": "https://www.prlog.org/10488007-custom-boot-maker-wesco-details-century-of-made-in-america-craftsmanship-in-its-release.html"
         }
       ]
     },
@@ -8971,6 +9279,28 @@
       ]
     },
     {
+      "id": "wilcor",
+      "name": "Wilcor International",
+      "website": "https://wilcor.net/",
+      "categories": [
+        "hardware"
+      ],
+      "support": [
+        {
+          "category": "hardware",
+          "department": "Customer Support",
+          "phone": "+18003462345",
+          "country": "US",
+          "regions": [],
+          "timezone": null,
+          "last_verified": "2026-10-26",
+          "specialty_tags": [],
+          "notes": "Wilcor International, 161 Drive In Road, Frankfort, NY 13340. Wholesale supplier to the vacation industry (camping, summer fun, gifts, custom products; 6000+ products). Number from the companys own order form; fax 315-733-3215 and sales@wilcor.net on the same form. Caveat: the xref carries no category and Wilcor is a wholesale distributor, not a trade manufacturer; filed as the only exact-name Wilcor company found, with no competing candidate. If the row means a different Wilcor, this file must be revisited.",
+          "source": "https://wilcor.net/pdf/order.pdf"
+        }
+      ]
+    },
+    {
       "id": "wishbone-safety",
       "name": "WishboneSafety, Inc.",
       "website": "https://www.wishbonesafety.com",
@@ -9011,6 +9341,28 @@
           "specialty_tags": [],
           "notes": "Wolverine World Wide, Rockford MI. Email customerservice@wwwinc.com; hours Mon-Fri 8am-9pm, Sat-Sun 9am-6pm ET. Work boots/PPE; closest vocabulary term: hardware. Distinct from the existing wolverine-brass file. A 1000 Mile concierge line is NOT used as the general line.",
           "source": "https://www.elliott.org/company-contacts/wolverine-world-wide/"
+        }
+      ]
+    },
+    {
+      "id": "worden-safety",
+      "name": "Worden Safety",
+      "website": "http://chocks.com/",
+      "categories": [
+        "hardware"
+      ],
+      "support": [
+        {
+          "category": "hardware",
+          "department": "Customer Support",
+          "phone": "+18004246257",
+          "country": "US",
+          "regions": [],
+          "timezone": null,
+          "last_verified": "2026-10-26",
+          "specialty_tags": [],
+          "notes": "Worden Safety Products, 1548 Burden Lake Rd, Sand Lake, NY. Wheel chocks for trailers, boats and large vehicles; site tagline 1 800 4 CHOCKS. Hours Mon-Fri 8:00 AM-5:00 PM ET per place listing. Vocabulary has no safety or PPE term; hardware is the closest for the xref Safety; trailer chocks scope.",
+          "source": "http://chocks.com/"
         }
       ]
     },

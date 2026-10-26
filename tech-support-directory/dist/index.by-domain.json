@@ -1039,6 +1039,20 @@
         "source": "https://ameronpoles.com/wp-content/uploads/2024/05/ameron-contemporary-series-1c4-0c4-octagonal-poles-data-sheet.pdf"
       },
       {
+        "manufacturer_id": "ametek",
+        "manufacturer_name": "AMETEK",
+        "category": "electrical",
+        "department": "Customer Support",
+        "phone": "+16106472121",
+        "country": "US",
+        "regions": [],
+        "timezone": null,
+        "last_verified": "2026-10-26",
+        "specialty_tags": [],
+        "notes": "AMETEK, Inc. corporate headquarters main line, Berwyn, PA, as published in the company's own SEC filing entity block and corroborated by BBB and directory listings. General corporate contact, not a division technical-support line; AMETEK's divisions publish their own support contacts. Closest category-vocabulary term is electrical.",
+        "source": "https://www.advfn.com/stock-market/NYSE/AME/stock-news/98609297/form-8-k-current-report"
+      },
+      {
         "manufacturer_id": "amphenol-tpc",
         "manufacturer_name": "Amphenol TPC Wire & Cable",
         "category": "electrical",
@@ -1051,6 +1065,20 @@
         "specialty_tags": [],
         "notes": "High-performance wire, cable, connectors and assemblies for harsh industrial environments (Super-Trex, Trex-Onics, Thermo-Trex). Amphenol division with its own site and support line published in TPC brochures; Canada line 800-545-0122 and Mexico line 001-877-283-1696 also published. The Amphenol parent itself has no verified corporate support line in this batch (see NEEDS-HUMAN), so TPC is filed on its own contact, not parent-resolved.",
         "source": "https://www.tpcwire.com/hubfs/TPC1750-Utility-Transmission%20and%20Distribution%20Brochure-V10.pdf?hsLang=en"
+      },
+      {
+        "manufacturer_id": "amphenol",
+        "manufacturer_name": "Amphenol",
+        "category": "electrical",
+        "department": "Customer Support",
+        "phone": "+12032658900",
+        "country": "US",
+        "regions": [],
+        "timezone": null,
+        "last_verified": "2026-10-26",
+        "specialty_tags": [],
+        "notes": "Amphenol Corporation world headquarters main line, Wallingford, CT, as published on the official Contact Us page. General corporate contact, not a division technical-support line; Amphenol divisions publish their own contacts. Distinct from the staged Amphenol TPC Wire & Cable file.",
+        "source": "https://amphenol.com/contact"
       },
       {
         "manufacturer_id": "amprobe",
@@ -1079,6 +1107,20 @@
         "specialty_tags": [],
         "notes": "General customer support line (manufacturer spreadsheet, Oct 2026).",
         "source": "https://www.fluke.com"
+      },
+      {
+        "manufacturer_id": "amrad",
+        "manufacturer_name": "AmRad",
+        "category": "electrical",
+        "department": "Customer Support",
+        "phone": "+18004456033",
+        "country": "US",
+        "regions": [],
+        "timezone": null,
+        "last_verified": "2026-10-26",
+        "specialty_tags": [],
+        "notes": "AmRad Engineering, Inc., a division of American Radionic Co., Inc., Palm Coast, FL, manufacturer of Turbo200 universal motor-run capacitors for HVACR service. General company contact, not labelled a tech line. AmRad's own homepage could not be used as the source page in this pass, so the phone is cited to the manufacturer's Turbo200 document.",
+        "source": "https://rexel-cdn.com/products/turbo200.pdf?i=7CCF4387-45EA-45A3-971F-7B2619638B70"
       },
       {
         "manufacturer_id": "anaconda",
@@ -1235,6 +1277,20 @@
         "source": "http://www.1000bulbs.com/pdf/archipelago-lg16526c24027k3-specs.pdf"
       },
       {
+        "manufacturer_id": "architectural-lighting-works",
+        "manufacturer_name": "Architectural Lighting Works",
+        "category": "electrical",
+        "department": "Technical Support",
+        "phone": "+15104892530",
+        "country": "US",
+        "regions": [],
+        "timezone": null,
+        "last_verified": "2026-10-26",
+        "specialty_tags": [],
+        "notes": "ALW, Oakland, CA, specification-grade architectural lighting manufacturer; phone and techsupport@alwusa.com from ALW's own Technical Support form. Acquired by LMPG Inc. in February 2023 and still trading as ALW with a live alwusa.com site; a stale third-party 'Closed' status is contradicted by the live site and is not followed. Closest category-vocabulary term is electrical; lighting has no exact term in the vocabulary.",
+        "source": "https://www.alw-inc.com/files/permanent-file/en/858/c38139098f1d0fe66086b341867b85f4"
+      },
+      {
         "manufacturer_id": "arlington-industries",
         "manufacturer_name": "Arlington Industries",
         "category": "electrical",
@@ -1289,6 +1345,20 @@
         "specialty_tags": [],
         "notes": "Imported from verified manufacturer spreadsheet (Oct 2026). Tech/support",
         "source": "https://www.eaton.com"
+      },
+      {
+        "manufacturer_id": "arteche",
+        "manufacturer_name": "Arteche",
+        "category": "electrical",
+        "department": "Customer Support",
+        "phone": "+34946011200",
+        "country": "ES",
+        "regions": [],
+        "timezone": null,
+        "last_verified": "2026-10-26",
+        "specialty_tags": [],
+        "notes": "Arteche Group headquarters line, Mungia, Spain, as published on the official Arteche configurator site. No US support line was found in this pass, so the Spain headquarters line is filed with its actual country code and no US line is invented; US distributor numbers were deliberately not used. Manufacturer of relays, instrument transformers and substation equipment.",
+        "source": "https://configure.arteche.com/glo_usd/en/"
       },
       {
         "manufacturer_id": "artemide",
@@ -2537,6 +2607,20 @@
         "source": "https://manualsfile.com/product/k2bj17y7j7v.html"
       },
       {
+        "manufacturer_id": "candela-corporation",
+        "manufacturer_name": "Candela Corporation",
+        "category": "electrical",
+        "department": "Customer Support",
+        "phone": "+18009229226",
+        "country": "US",
+        "regions": [],
+        "timezone": null,
+        "last_verified": "2026-10-26",
+        "specialty_tags": [],
+        "notes": "Lamp company (not Candela Medical, the aesthetic-laser company, which is a different company). Site lists this as a general phone, not labelled tech, so Customer Support. Slug uses '-corporation' to avoid confusion with Candela Medical.",
+        "source": "https://www.candelacorp.com/products/lighting/"
+      },
+      {
         "manufacturer_id": "canfield-connector",
         "manufacturer_name": "Canfield Connector",
         "category": "electrical",
@@ -2787,6 +2871,20 @@
         "specialty_tags": [],
         "notes": "Imported from verified manufacturer spreadsheet (Oct 2026). Tech/support",
         "source": "https://www.cerrowire.com"
+      },
+      {
+        "manufacturer_id": "certicable",
+        "manufacturer_name": "CertiCable",
+        "category": "electrical",
+        "department": "Customer Support",
+        "phone": "+16319322253",
+        "country": "US",
+        "regions": [],
+        "timezone": null,
+        "last_verified": "2026-10-26",
+        "specialty_tags": [],
+        "notes": "CertiCable Inc., custom cable manufacturer (Cat-5e/6/6A/7/8, fiber assemblies, MIL spec), Farmingdale NY. Homepage slogan '(631) WECABLE' = 932-2253; corroborated by RocketReach (631) 932-2253. USPTO trademark CERTICABLE, LIVE REGISTERED to CERTICABLE, LLC (serial 88662479).",
+        "source": "http://certicable.com/"
       },
       {
         "manufacturer_id": "cg-pauwels",
@@ -3307,6 +3405,34 @@
         "source": "https://commoditycables.com/our-warranty/"
       },
       {
+        "manufacturer_id": "commscope",
+        "manufacturer_name": "CommScope",
+        "category": "electrical",
+        "department": "Technical Support",
+        "phone": "+18889444357",
+        "country": "US",
+        "regions": [],
+        "timezone": null,
+        "last_verified": "2026-10-26",
+        "specialty_tags": [],
+        "notes": "Global Technical Support (ANS) toll-free line from CommScope's official ARRIS technical support contact sheet. Xref hint 'Networking; cable, connectivity' has no vocabulary term; electrical is closest.",
+        "source": "https://www.commscope.com/globalassets/digizuite/294037-arris-combined-contact-information-phone.pdf"
+      },
+      {
+        "manufacturer_id": "commscope",
+        "manufacturer_name": "CommScope",
+        "category": "electrical",
+        "department": "Technical Support",
+        "phone": "+12153232345",
+        "country": "US",
+        "regions": [],
+        "timezone": null,
+        "last_verified": "2026-10-26",
+        "specialty_tags": [],
+        "notes": "TAC emergency line from the same official CommScope ARRIS contact sheet. Prior HQ/customer-service/enterprise numbers were not filed; the official TAC lines win.",
+        "source": "https://www.commscope.com/globalassets/digizuite/294037-arris-combined-contact-information-phone.pdf"
+      },
+      {
         "manufacturer_id": "comnet",
         "manufacturer_name": "ComNet",
         "category": "electrical",
@@ -3487,6 +3613,20 @@
         "specialty_tags": [],
         "notes": "Connecticut Electric (Anderson, IN) general support for electrical supplies, product specs, pricing and availability. Support email published on the same page (see source). Products include circuit breakers, panels and RV power products.",
         "source": "https://connecticut-electric.com/exploring-our-new-website-getting-electrical-supplies-has-never-been-easier/"
+      },
+      {
+        "manufacturer_id": "connomac",
+        "manufacturer_name": "Connomac",
+        "category": "electrical",
+        "department": "Customer Support",
+        "phone": "+17084823434",
+        "country": "US",
+        "regions": [],
+        "timezone": null,
+        "last_verified": "2026-10-26",
+        "specialty_tags": [],
+        "notes": "Connomac Corp., La Grange IL, est. 1975; molded rubber electrical connectors, temporary lighting, power cords. Mergr reports a 2025 acquisition by Sandman.com; recorded as an ownership note only, no Sandman number verified or filed.",
+        "source": "https://www.connomac.com/contact/"
       },
       {
         "manufacturer_id": "contech-lighting",
@@ -3753,6 +3893,20 @@
         "specialty_tags": [],
         "notes": "D-Link Technical Support for US customers per the manufacturer's own product manuals (877-DLINK-55). Networking: switches, routers and wireless products. No separate networking category exists in the vocabulary, so electrical is the closest.",
         "source": "https://www.manualowl.com/m/D-Link/DES-1228P/Manual/157321?page=51"
+      },
+      {
+        "manufacturer_id": "dcd-design-and-manufacturing",
+        "manufacturer_name": "DCD Design and Manufacturing",
+        "category": "electrical",
+        "department": "Customer Support",
+        "phone": "+18887948357",
+        "country": "CA",
+        "regions": [],
+        "timezone": null,
+        "last_verified": "2026-10-26",
+        "specialty_tags": [],
+        "notes": "DCD Design and Manufacturing Ltd, Richmond BC, Canada; underground and aerial cable installation tools and HDD equipment for 38 years. No US line published; Canadian company shipping to the USA. Retailer PhoneTX numbers were NOT filed (retailer's own numbers, not the manufacturer's). Covers both xref rows 'DCD Design' and 'DCD Design & Manufacturing'.",
+        "source": "https://www.dcddesign.com/contact-us.asp"
       },
       {
         "manufacturer_id": "dialight",
@@ -4245,6 +4399,20 @@
         "source": "https://www.eccoesg.com/us/en/products/worklights/medium-duty-worklights/e92004-series"
       },
       {
+        "manufacturer_id": "eclipse-lighting",
+        "manufacturer_name": "Eclipse Lighting",
+        "category": "electrical",
+        "department": "Customer Support",
+        "phone": "+18472600333",
+        "country": "US",
+        "regions": [],
+        "timezone": null,
+        "last_verified": "2026-10-26",
+        "specialty_tags": [],
+        "notes": "Eclipse Lighting Inc., Schiller Park IL (9245 W. Ivanhoe); specification-grade architectural sconces, pendants, decorative and vandal-resistant fixtures. Xref row carries no categories; lighting fixtures map to electrical. SOURCE TIER: phone from trade directory ADEX, corroborated by LightDirectory, ProcessRegister and Manta (all agree on 9245 W. Ivanhoe, Schiller Park IL, and this number); official site confirms identity but its fetched pages show no phone. NOT Eclipse Exterior Lighting LLC (Louisville KY, different company). A single aggregator listing showing a Burlington NC address with a one-digit-different number is treated as a misattributed duplicate of the IL entry, not a second company.",
+        "source": "https://adexawards.com/companies/detail/289-eclipse-lighting-inc"
+      },
+      {
         "manufacturer_id": "ecofasten",
         "manufacturer_name": "EcoFasten",
         "category": "electrical",
@@ -4413,6 +4581,20 @@
         "source": "https://www.thomasnet.com/company/electri-flex-co-435509/profile"
       },
       {
+        "manufacturer_id": "electric-motors-and-specialties",
+        "manufacturer_name": "Electric Motors & Specialties",
+        "category": "electrical",
+        "department": "Customer Support",
+        "phone": "+12603574141",
+        "country": "US",
+        "regions": [],
+        "timezone": "ET",
+        "last_verified": "2026-10-26",
+        "specialty_tags": [],
+        "notes": "Electric Motors & Specialties LLC, Garrett IN (701 W. King St), since 1946; fractional-horsepower Unit Bearing fan motors, fans, agitator motors for domestic and commercial refrigeration OEMs. Xref hints 'Motors' and 'Electrical; products' have no exact vocabulary term; motors are electrical products. Covers BOTH xref rows 'Electrical Motors & Specialties' (Motors, 4 locations) and 'EM&S' (Electrical; products, 4 locations): the company's own site header is 'EM&S' and both rows carry the same location count. Johnstone Supply is listed on the company's site as a buy channel.",
+        "source": "http://emsmotors.com/"
+      },
+      {
         "manufacturer_id": "electrical-materials-company",
         "manufacturer_name": "Electrical Materials Company",
         "category": "electrical",
@@ -4537,6 +4719,20 @@
         "specialty_tags": [],
         "notes": "ELK Lighting, Inc. (Nesquehoning, PA, founded 1983) decorative and architectural lighting fixtures and decor. HQ line from business profiles; an alternate customer-service number 630-484-1848 appears in aggregator listings.",
         "source": "https://rocketreach.co/elk-lighting-inc-profile_b5e63786f42e5ff4"
+      },
+      {
+        "manufacturer_id": "elliott-industries",
+        "manufacturer_name": "Elliott Industries",
+        "category": "electrical",
+        "department": "Customer Support",
+        "phone": "+13187463296",
+        "country": "US",
+        "regions": [],
+        "timezone": null,
+        "last_verified": "2026-10-26",
+        "specialty_tags": [],
+        "notes": "Elliott Industries, Inc., Bossier City LA (1509 Hamilton Rd), founded 1952; custom electrical equipment for utilities, OEMs and C&I customers (pad-mounted switchgear, bus enclosures, metering stations, bushings, insulators). Acquired 17-Dec-2024 by Power Grid Components (Blackstone portfolio); brand preserved. SOURCE TIER: phone from trade directory ProcessRegister; address matches PGC's acquisition release and PitchBook. Website omitted: trade directories list elliott-industries.com but it was not fetched in this pass.",
+        "source": "https://www.processregister.com/Switch_Gear/Suppliers/Page7/cid109.htm"
       },
       {
         "manufacturer_id": "emerson-appleton",
@@ -4677,6 +4873,20 @@
         "specialty_tags": [],
         "notes": "Energy Focus, Inc., 32000 Aurora Road Suite B, Solon OH. HQ alternate (440) 715-1300. NASDAQ EFOI. Flicker-free LED products.",
         "source": "https://ledinside.com/node/26933"
+      },
+      {
+        "manufacturer_id": "energy-solutions-international",
+        "manufacturer_name": "Energy Solutions International",
+        "category": "electrical",
+        "department": "Customer Support",
+        "phone": "+16512686060",
+        "country": "US",
+        "regions": [],
+        "timezone": null,
+        "last_verified": "2026-10-26",
+        "specialty_tags": [],
+        "notes": "General company line from the manufacturer product guide footer (West St Paul, MN; LED fixtures and retrofit kits, founded 1992). Not labelled a technical-support line. A conflicting Houston-area number cited in Phase 1 was not used; the Saint Paul number is corroborated across the manufacturer guide, place data, RocketReach, and Prospeo.",
+        "source": "https://docs.esilighting.com/ESI-Product-Guide.pdf"
       },
       {
         "manufacturer_id": "enerlites",
@@ -4903,6 +5113,20 @@
         "source": "https://www.espentech.com/who-we-are"
       },
       {
+        "manufacturer_id": "essex-solutions",
+        "manufacturer_name": "Essex Solutions",
+        "category": "electrical",
+        "department": "Customer Support",
+        "phone": "+12604614000",
+        "country": "US",
+        "regions": [],
+        "timezone": null,
+        "last_verified": "2026-10-26",
+        "specialty_tags": [],
+        "notes": "Number from a manufacturer-authored Essex Furukawa datasheet footer (info.northamerica@essexfurukawa.com). Lineage: Essex Furukawa was the 2020 Furukawa Electric + Superior Essex joint venture; the business now trades as Essex Solutions, whose current site is form-based with no published phone, so the datasheet number is filed with this caveat. Distinct from Superior Essex communications cable (staged superior-essex); not folded in.",
+        "source": "https://www.eimet.com/uploads/b/2abe3df0-d082-11ec-a57e-fd6f1dcc3137/essex-ultrashield.pdf"
+      },
+      {
         "manufacturer_id": "esteem",
         "manufacturer_name": "ESTeem",
         "category": "electrical",
@@ -5015,6 +5239,20 @@
         "source": "https://www.euchner-usa.com/en-us/service/"
       },
       {
+        "manufacturer_id": "euclid-garment",
+        "manufacturer_name": "Euclid Garment Manufacturing Co.",
+        "category": "electrical",
+        "department": "Customer Support",
+        "phone": "+13306737413",
+        "country": "US",
+        "regions": [],
+        "timezone": null,
+        "last_verified": "2026-10-26",
+        "specialty_tags": [],
+        "notes": "Number from the manufacturer KV-Gard brochure (Euclid Vidaro Mfg Co., PO Box 550, 333 Martinel Drive, Kent OH 44240) and corroborated by a Kent OH directory listing. KV-GARD conductive suits for live-line work (soft Faraday cage). Filed under electrical as utility live-line PPE; the xref category was workwear/energized clothing. Distinct from Euclid Chemical (concrete, Cleveland OH); its number is not filed here.",
+        "source": "https://tallmanequipment.com/wp-content/uploads/2022/05/KV-Gard-Brochure-pdf.pdf?srsltid=AfmBOoqMwd9pzgzd-ufHPsDVglxo1JueOUuvXpIuZwBQmpPo01uUfqS3"
+      },
+      {
         "manufacturer_id": "eureka-lighting",
         "manufacturer_name": "Eureka Lighting",
         "category": "electrical",
@@ -5097,6 +5335,20 @@
         "specialty_tags": [],
         "notes": "Exacq Technologies, Fishers IN, a Johnson Controls company. Johnson Controls docs list this technical support line. Email support@exacq.com. exacqVision video management; electrical is the closest vocabulary term for security/video.",
         "source": "https://docs.johnsoncontrols.com/exacq/r/Exacq/en-US/exacqVision-Start-User-Manual/21.03/Technical-support"
+      },
+      {
+        "manufacturer_id": "exceline",
+        "manufacturer_name": "ExceLine",
+        "category": "electrical",
+        "department": "Technical Support",
+        "phone": "+18005550050",
+        "country": "US",
+        "regions": [],
+        "timezone": null,
+        "last_verified": "2026-10-26",
+        "specialty_tags": [],
+        "notes": "Legacy Philips Group brand (ILXSB Series spec sheet, San Marcos TX; SiteLyter/ProLyter",
+        "source": "https://www.signify.com/en-us/get-in-touch"
       },
       {
         "manufacturer_id": "exergen",
@@ -5531,6 +5783,20 @@
         "specialty_tags": [],
         "notes": "Focus Industries, Inc., 25301 Commercentre Drive, Lake Forest, CA 92630. Toll-free line from a manufacturer listing; HQ alternate (949) 830-1350. LED, landscape, architectural, hospitality, entertainment, and custom lighting, made in USA since 1989.",
         "source": "https://www.activepoolsupply.com/manufacturer/focus-industries-inc/83"
+      },
+      {
+        "manufacturer_id": "forest-lighting",
+        "manufacturer_name": "Forest Lighting",
+        "category": "electrical",
+        "department": "Customer Support",
+        "phone": "+18009942143",
+        "country": "US",
+        "regions": [],
+        "timezone": null,
+        "last_verified": "2026-10-26",
+        "specialty_tags": [],
+        "notes": "Number and address from a manufacturer spec sheet (2252 Northwest Pkwy SE, Suite D, Marietta, GA 30067; info@forestlighting.com). LED lamps and fixtures, UL/DLC. Corroborated by a Manta listing.",
+        "source": "https://www.slideshare.net/hannahmayer/t8-led-integrated-lamp-by-forest-lighting-usa"
       },
       {
         "manufacturer_id": "formex",
@@ -6457,6 +6723,20 @@
         "source": "https://hew.com/index.php/markets"
       },
       {
+        "manufacturer_id": "healthe",
+        "manufacturer_name": "Healthe",
+        "category": "electrical",
+        "department": "Customer Support",
+        "phone": "+18779995742",
+        "country": "US",
+        "regions": [],
+        "timezone": null,
+        "last_verified": "2026-10-26",
+        "specialty_tags": [],
+        "notes": "Customer-service/sales line, not a Technical Support line: the manufacturer spec sheet says to contact your agent or Healthe customer service at 1-877-999-5742, and warranty text says to call Customer Support at 1-877-999-5742. Corroborated by a 2019 company press release. Conflicting aggregator HQ numbers (RocketReach and a 2019 press-contact number) were not used.",
+        "source": "https://images.tradeservice.com/ATTACHMENTS/DIR100307/Healthe_00001_1-3_SPEC.pdf"
+      },
+      {
         "manufacturer_id": "hellermanntyton",
         "manufacturer_name": "HellermannTyton",
         "category": "electrical",
@@ -6513,6 +6793,20 @@
         "source": "https://marmonutility.com/wp-content/uploads/2026/04/Tap-Tie-Ground-Wire-Brochure_20260402.pdf"
       },
       {
+        "manufacturer_id": "hessamerica",
+        "manufacturer_name": "HessAmerica",
+        "category": "electrical",
+        "department": "Customer Support",
+        "phone": "+18644873535",
+        "country": "US",
+        "regions": [],
+        "timezone": null,
+        "last_verified": "2026-10-26",
+        "specialty_tags": [],
+        "notes": "General contact from the official contact page (427 Hyatt Street, Gaffney, SC 29341; Info@hessamerica.com). Page routes distributor/contractor inquiries to local representatives. US arm of Hess GmbH Licht + Form (Nordeon Group). Prior concern about only a German line is superseded by this verified US line; the German parent line is not filed.",
+        "source": "https://www.hessamerica.com/contact"
+      },
+      {
         "manufacturer_id": "hevi-duty",
         "manufacturer_name": "Hevi-Duty",
         "category": "electrical",
@@ -6553,6 +6847,20 @@
         "specialty_tags": [],
         "notes": "Heyco Products, Inc., Toms River, NJ. NJ 732-286-1800. Wire management, bushings, fittings.",
         "source": "https://pdf.directindustry.com/pdf/heyco/heyco-straight-thru-strain-relief-bushings-round-cables/11746-129589.html"
+      },
+      {
+        "manufacturer_id": "hi-lite-mfg-co",
+        "manufacturer_name": "Hi-Lite Mfg. Co., Inc.",
+        "category": "electrical",
+        "department": "Customer Support",
+        "phone": "+18004650211",
+        "country": "US",
+        "regions": [],
+        "timezone": null,
+        "last_verified": "2026-10-26",
+        "specialty_tags": [],
+        "notes": "Toll-free from manufacturer spec sheets (13450 Monte Vista Avenue, Chino, CA 91710; local 909-465-1999). Independent Chino CA company founded 1958 (gooseneck and sign shades); NOT the Philips/Signify group -- the xref parent claim Hi-Lite (Signify / Philips) is refuted, and the Philips-group emergency-lighting brand High-Lites (Waterbury CT) is a different company whose number is not filed here. Do not parent-resolve to signify.",
+        "source": "https://new.hilitemfg.com/uploads/products/6477/H-87508 gooseneck.pdf"
       },
       {
         "manufacturer_id": "hialeah-meter",
@@ -7085,6 +7393,20 @@
         "specialty_tags": [],
         "notes": "Product application support line listed on Contact Us page.",
         "source": "ilsco.com contact page"
+      },
+      {
+        "manufacturer_id": "imo-precision-controls",
+        "manufacturer_name": "IMO Precision Controls",
+        "category": "electrical",
+        "department": "Customer Support",
+        "phone": "+14044768810",
+        "country": "US",
+        "regions": [],
+        "timezone": null,
+        "last_verified": "2026-10-26",
+        "specialty_tags": [],
+        "notes": "Office contact from the IMO corporate brochure 2024 worldwide-offices table (IMO Automation LLC, Suite 112, 5910 Shiloh Road East, Alpharetta, GA 30005; salesna@imopc.com), under parent IMO Precision Controls Limited (Hatfield, UK). Not labelled a tech-support line. Distinct from the German IMO slew-drive company (imo.de) and from the unverified Thomasnet IMO USA Corp. North Charleston SC listing; neither is used.",
+        "source": "https://images-96-4.imostatic.net/pdf_catalogues/documents/imo-corporate-brochure-2024.pdf"
       },
       {
         "manufacturer_id": "indatech-lighting",
@@ -7773,6 +8095,20 @@
         "source": "https://www.mtu-solutions.com/eu/en/contact/customer-assistance-center.html"
       },
       {
+        "manufacturer_id": "katy-instruments",
+        "manufacturer_name": "Katy Instruments",
+        "category": "electrical",
+        "department": "Customer Support",
+        "phone": "+12814927817",
+        "country": "US",
+        "regions": [],
+        "timezone": null,
+        "last_verified": "2026-10-26",
+        "specialty_tags": [],
+        "notes": "Number corroborated by place data and a Manta listing (16514 Park Row, Houston, TX 77084). Houston manufacturer of precision AC current sensors (25+ years; isolated two-wire transmitters to 1500 A). Distinct from Katy Industries, Inc.",
+        "source": "https://www.manta.com/c/mh119rr/katy-instruments-sales-llc"
+      },
+      {
         "manufacturer_id": "kauffman-engineering",
         "manufacturer_name": "Kauffman Engineering, Inc.",
         "category": "electrical",
@@ -8039,6 +8375,20 @@
         "source": "https://www.scgrp.com/StresscreteGroup/media/images/products/King-Luminaires,-Arms-Accessories-Brochure.pdf"
       },
       {
+        "manufacturer_id": "king-wire",
+        "manufacturer_name": "King Wire, Inc.",
+        "category": "electrical",
+        "department": "Customer Support",
+        "phone": "+18476881100",
+        "country": "US",
+        "regions": [],
+        "timezone": null,
+        "last_verified": "2026-10-26",
+        "specialty_tags": [],
+        "notes": "Number corroborated across place data, Birdeye, MapQuest, and Datanyze (1 Cable Pl / 2500 Commonwealth Ave, North Chicago, IL 60064). Aluminum building wire, service drop, and portable cord for electrical distributors; Elliott Electric lists KING WIRE INC. as a brand. The official homepage (kingwire.com) carries no published phone in its fetched text, so the corroborated directory number is filed with this caveat.",
+        "source": "https://www.mapquest.com/us/illinois/king-wire-inc-351264304"
+      },
+      {
         "manufacturer_id": "kirk-key-interlock",
         "manufacturer_name": "Kirk Key Interlock Company, LLC",
         "category": "electrical",
@@ -8163,6 +8513,20 @@
         "specialty_tags": [],
         "notes": "Power cords, cordsets, and wire harnesses; 62 Industrial Cir, Lancaster, PA 17601. Direct 717-556-5673 per RocketReach (secondary source). Company states it is the largest US manufacturer of power cords.",
         "source": "https://www.kordking.com/heavy-duty-right-angle-power-cords/"
+      },
+      {
+        "manufacturer_id": "kortick",
+        "manufacturer_name": "Kortick Manufacturing",
+        "category": "electrical",
+        "department": "Customer Support",
+        "phone": "+15108563600",
+        "country": "US",
+        "regions": [],
+        "timezone": null,
+        "last_verified": "2026-10-26",
+        "specialty_tags": [],
+        "notes": "Number corroborated across place data, SignalHire, SuperPages, ZoomInfo, and Adapt (2261 Carion Ct, Pittsburg, CA 94565). Pole-line and T&D/telecom/marine hardware, Buy America, in business since the 1890s; the official site is form-based with no published phone in its fetched text. Category note: the xref category says HVAC duct/sheet metal, but the only Kortick Manufacturing found makes electrical utility hardware; filed under electrical with the discrepancy flagged. An older Hayward-era CMTC listing shows a different number and is not used.",
+        "source": "https://www.signalhire.com/companies/kortick-manufacturing"
       },
       {
         "manufacturer_id": "kristech-wire",
@@ -8457,6 +8821,20 @@
         "specialty_tags": [],
         "notes": "Professional/contractor technical support line (per source).",
         "source": "https://legrand.my.site.com/knowledgebase/s/article/Additional-Contacting-Wiremold-Technical-Support"
+      },
+      {
+        "manufacturer_id": "lei",
+        "manufacturer_name": "Lighting Etc., Inc.",
+        "category": "electrical",
+        "department": "Customer Support",
+        "phone": "+12819928308",
+        "country": "US",
+        "regions": [],
+        "timezone": null,
+        "last_verified": "2026-10-26",
+        "specialty_tags": [],
+        "notes": "Pearland, TX manufacturer of washdown and industrial lighting (IP69K-rated fixtures); number as printed on LEI product literature on lighting-etc.com. Not LEI Companies, Inc., the Denver-area electrical contractor of the same initials.",
+        "source": "https://lighting-etc.com/wp-content/uploads/2017/12/NXGEN-Spec-Sheet-2021C.pdf"
       },
       {
         "manufacturer_id": "lem-products",
@@ -9383,6 +9761,20 @@
         "source": "https://www.RegalRexnord.com/brands/marathon-special-products/contact"
       },
       {
+        "manufacturer_id": "marlin-manufacturing",
+        "manufacturer_name": "Marlin Manufacturing",
+        "category": "electrical",
+        "department": "Customer Support",
+        "phone": "+18003216648",
+        "country": "US",
+        "regions": [],
+        "timezone": null,
+        "last_verified": "2026-10-26",
+        "specialty_tags": [],
+        "notes": "Cleveland/Parma, OH manufacturer of temperature instrumentation (thermocouples, sensors, thermowells) since 1952; toll-free number as published on marlinmfg.com. Not Marlin Manufacturing of Orlando, FL, a wholesale plumbing supply distributor of the same name.",
+        "source": "https://marlinmfg.com/staging/old-site/Survey.html"
+      },
+      {
         "manufacturer_id": "maxi-signal-products",
         "manufacturer_name": "Maxi-Signal Products",
         "category": "electrical",
@@ -10069,6 +10461,20 @@
         "source": "https://www.moxa.com/getmedia/448700cb-bb39-4448-91e7-b67a183ea4a0/moxa-software-license-portal-manual-v1.0.pdf"
       },
       {
+        "manufacturer_id": "mp-husky",
+        "manufacturer_name": "MP Husky",
+        "category": "electrical",
+        "department": "Customer Support",
+        "phone": "+18642344800",
+        "country": "US",
+        "regions": [],
+        "timezone": null,
+        "last_verified": "2026-10-26",
+        "specialty_tags": [],
+        "notes": "Greenville/Simpsonville, SC manufacturer of cable tray and cable bus power distribution systems (UL/CSA/NEMA); founded as Husky Products, through Husky/Burndy and Metal Products lineages to present-day MP Husky. General contact number from the mphusky.com site footer. Not Huskie Tools (cable tools) and not the Husky hand-tool brand.",
+        "source": "https://mphusky.com/cable-tray/covers/"
+      },
+      {
         "manufacturer_id": "mp-lighting",
         "manufacturer_name": "MP Lighting",
         "category": "electrical",
@@ -10291,6 +10697,20 @@
         "specialty_tags": [],
         "notes": "National Specialty Lighting, Inc. (NSL), Buffalo/Tonawanda NY (2299 Kenmore Ave); architectural and specialty LED lighting; email jeff@nslusa.com (SVP Business Development). Louisville CO location shown permanently closed - its 303-926-1100 is not used.",
         "source": "https://www.thomasnet.com/company/national-specialty-lighting-inc-10051615/profile?heading=44101202"
+      },
+      {
+        "manufacturer_id": "national-standard-parts",
+        "manufacturer_name": "National Standard Parts Associates, Inc.",
+        "category": "electrical",
+        "department": "Customer Support",
+        "phone": "+18504565771",
+        "country": "US",
+        "regions": [],
+        "timezone": null,
+        "last_verified": "2026-10-26",
+        "specialty_tags": [],
+        "notes": "Pensacola, FL manufacturer of sealed heat-shrink electrical connectors and terminals (Sealed Electrical System: KrimpaSeal, ElektraLink, MultiLink); in business since 1980. Number corroborated by the BBB profile, an ECM credit document, and directory listings at the Pensacola HQ address; the official nspa.com homepage does not surface a phone.",
+        "source": "https://www.bbb.org/us/fl/pensacola/profile/electric-connectors/national-standard-parts-association-inc-0683-11001956"
       },
       {
         "manufacturer_id": "national-strand-products",
@@ -10669,6 +11089,20 @@
         "specialty_tags": [],
         "notes": "NOVA of California, Huntington Park CA; email customerservice@novaofcalifornia.com. Distinct from the Utah retail stores using the Nova Lighting name (novalighting.com, Orem/Midvale UT) and from Nova Lighting Trinidad; the Thomasnet item giving 1.800.835.6682 is an older number, not used.",
         "source": "https://www.cmtc.com/made-in-california-profile-archived/nova-of-california"
+      },
+      {
+        "manufacturer_id": "novax",
+        "manufacturer_name": "NOVAX",
+        "category": "electrical",
+        "department": "Customer Support",
+        "phone": "+60380238899",
+        "country": "MY",
+        "regions": [],
+        "timezone": null,
+        "last_verified": "2026-10-26",
+        "specialty_tags": [],
+        "notes": "Malaysian manufacturer (G.B. Industries Sdn. Bhd.) of NOVAX rubber insulating gloves (Class 00-4), sleeves, blankets and dielectric boots. No US support line is published, so the Malaysian sales-office number is listed with its country code. NOT a Salisbury/Honeywell line: Novax is a standalone manufacturer, and Salisbury by Honeywell is filed separately.",
+        "source": "https://novax-intl.com/about-novax/"
       },
       {
         "manufacturer_id": "nsi-industries",
@@ -12799,6 +13233,20 @@
         "source": "https://nsiindustries.com/remke/"
       },
       {
+        "manufacturer_id": "remphos-technologies",
+        "manufacturer_name": "RemPhos Technologies",
+        "category": "electrical",
+        "department": "Customer Support",
+        "phone": "+18473803540",
+        "country": "US",
+        "regions": [],
+        "timezone": null,
+        "last_verified": "2026-10-26",
+        "specialty_tags": [],
+        "notes": "Legacy/acquired brand, filed on its own per the legacy rule (never merged away). RemPhos Technologies LLC, 90 Holten St, Danvers, MA 01923, was a manufacturer of LED lighting products (LED tubes, bulbs, fixtures, modules, flood lights, sensors; Thomasnet profile) founded 2008/2009. PitchBook records RemPhos as acquired/merged on 2018-02-01 by Light Efficient Design (existing staged file light-efficient-design, batch-11). Support is therefore via the successor: Light Efficient Design, North Barrington, IL, 847-380-3540. Caveat, carried from the successor file: that number comes from a trade-source company profile, not an official-site contact page, so it is a successor trade-source number, not an official-site number. RemPhos's own pre-acquisition numbers — 877-997-3674 (Manta listing) and 978-884-8377 (GovCB vendor profile) — are checked evidence only and are NOT published, as their post-acquisition currency is unverified. Phase 1 recorded 'no match found'; the company, its product line and its acquirer were identified in this rework.",
+        "source": "https://www.parking.net/parking-industry/light-efficient-design"
+      },
+      {
         "manufacturer_id": "renova-lighting",
         "manufacturer_name": "Renova Lighting Systems",
         "category": "electrical",
@@ -13065,6 +13513,20 @@
         "source": "Royal Switchgear disconnect-switch catalog PDF (royalswitchgear.com)"
       },
       {
+        "manufacturer_id": "rp-lighting-fans",
+        "manufacturer_name": "RP Lighting + Fans",
+        "category": "electrical",
+        "department": "Customer Support",
+        "phone": "+18009376925",
+        "country": "US",
+        "regions": [],
+        "timezone": null,
+        "last_verified": "2026-10-26",
+        "specialty_tags": [],
+        "notes": "RP Lighting + Fans, 4931 Paseo Del Norte NE, Albuquerque, NM 87113. Supplier for electrical distributors and lighting showrooms; lighting and ceiling-fan brand (ENERGY STAR lists the brand as 'RP LIGHTING + FANS'). The xref 'RP Lighting' is treated as the truncated form of this name. Support line 1-800-937-6925 is published in RP Lighting's own ceiling-fan installation guide (document RP-070920: 'For support or inquiries, please contact: RP Lighting'); it is not labelled Technical Support, so Customer Support. Albuquerque HQ 505-821-6964 is also published in place listings but the manual support line is filed. Royal Pacific Lighting (888-616-3532) was considered and rejected: its brand name is Royal Pacific, with no 'RP Lighting' branding found, so it is a different company.",
+        "source": "https://manuals.plus/m/edcf5b71ae1b44404a4e6f5552fcf9ee4bcaea81981b8f6f35ed6c68a6065075"
+      },
+      {
         "manufacturer_id": "russellstoll",
         "manufacturer_name": "Russellstoll",
         "category": "electrical",
@@ -13133,6 +13595,20 @@
         "specialty_tags": [],
         "notes": "SAB Cable / SAB North America, 344 Kaplan Drive, Fairfield, NJ 07004. info@sabcable.com. German parent SAB Bröckskes. Wire and cable.",
         "source": "sabcable.com press release and SAB catalog PDFs"
+      },
+      {
+        "manufacturer_id": "sabre-industries",
+        "manufacturer_name": "Sabre Industries",
+        "category": "electrical",
+        "department": "Customer Support",
+        "phone": "+18178521700",
+        "country": "US",
+        "regions": [],
+        "timezone": null,
+        "last_verified": "2026-10-26",
+        "specialty_tags": [],
+        "notes": "Sabre Industries, Inc., 8653 E Highway 67, Alvarado, TX 76009. Designs and manufactures infrastructure products for electric transmission and distribution; its Sabre Tubular Structures division is a leading provider of tubular steel utility poles/structures (transmission structures 69kV to 765kV). The xref label 'Sabre Tubular Steel' is treated as a division-label variant of Sabre Tubular Structures — no company literally named 'Sabre Tubular Steel' was found. Sabre Alloys (stainless, Houston) and Tubular Steel Inc (St. Louis) were considered and rejected: neither matches the utility tubular-steel product line. Number is the Alvarado HQ/division number published on the Thomasnet profile; not labelled Technical Support, so Customer Support.",
+        "source": "https://www.thomasnet.com/company/sabre-industries-inc-30521431/profile?coverage_area=NT&heading=92372507"
       },
       {
         "manufacturer_id": "safe-t-alert",
@@ -13399,6 +13875,20 @@
         "specialty_tags": [],
         "notes": "SEECO (Southern Electrical Equipment Company, Inc.), 4862 Corporate Center Dr, Monroe, NC 28110. sales@seecoswitch.com. Transmission and substation disconnect switches, 15kV-500kV. Founded 1920;",
         "source": "seecoswitch.com official site (+1 (704) 392-1396)"
+      },
+      {
+        "manufacturer_id": "sefcor",
+        "manufacturer_name": "SEFCOR",
+        "category": "electrical",
+        "department": "Customer Support",
+        "phone": "+17702278297",
+        "country": "US",
+        "regions": [],
+        "timezone": null,
+        "last_verified": "2026-10-26",
+        "specialty_tags": [],
+        "notes": "SEFCOR Inc., 1150 Uniform Rd, Griffin, GA 30224. Supplier of substation power connectors since 1971 — bolted, welded and compression fittings and connectors for the power industry, including EHV applications through 765kV, with more than 25,000 standard and special designs. Phase 1 recorded 'no identifiable match'; the company was identified in this rework from the WUE manufacturer list corroboration plus its own site. The official homepage labels the number only as 'Phone', so Customer Support (a manufacturers-rep page claims 'superior technical support', but that is the rep's wording, not SEFCOR's label, and is not adopted).",
+        "source": "https://www.sefcor.com"
       },
       {
         "manufacturer_id": "seg-solar",
@@ -13721,6 +14211,20 @@
         "specialty_tags": [],
         "notes": "Shurtape Technologies, LLC, Hickory, NC (pressure-sensitive adhesive tapes, including electrical and HVAC tapes). Toll-free published as 1-888-442-TAPE; headquarters phone 828-322-2700 also published.",
         "source": "https://bluegrassjanitorial.com/wp-content/uploads/2025/11/SH-142920-SafetyDataSheet.pdf"
+      },
+      {
+        "manufacturer_id": "sick",
+        "manufacturer_name": "SICK",
+        "category": "electrical",
+        "department": "Customer Support",
+        "phone": "+18003257425",
+        "country": "US",
+        "regions": [],
+        "timezone": null,
+        "last_verified": "2026-10-26",
+        "specialty_tags": [],
+        "notes": "SICK, Inc., 6900 W 110th St, Minneapolis, MN 55438 (US subsidiary of SICK AG, founded 1946). Manufacturer of sensors, safety systems, machine vision, encoders and automatic identification products, including photoelectric/optic sensors — the xref 'Sick Optic' is treated as a line-card shorthand for SICK's optic-electronic sensor line, not a separate company. Toll-free 800-325-7425 published on sick.com press pages as the SICK, Inc. contact; direct 952-941-6780 is also published on SICK manuals. Not labelled Technical Support on the cited page, so Customer Support; SICK's contracted 24/7 helpdesk datasheet service is not filed as a general support line. Email info@sickusa.com per SICK manuals.",
+        "source": "https://www.sick.com/us/en/powerprox-photoelectric-sensors-detect-objects-over-long-sensing-ranges/w/press-powerprox/"
       },
       {
         "manufacturer_id": "siemens",
@@ -15305,6 +15809,20 @@
         "source": "https://tiitech.com/product/fet2/"
       },
       {
+        "manufacturer_id": "timco-instruments",
+        "manufacturer_name": "TIMCO Instruments",
+        "category": "electrical",
+        "department": "Customer Support",
+        "phone": "+14015397120",
+        "country": "US",
+        "regions": [],
+        "timezone": null,
+        "last_verified": "2026-10-26",
+        "specialty_tags": [],
+        "notes": "TIMCO Instruments, LLC, P.O. Box 100 / 540 Spring Street, Rockville, RI 02873. Manufactures test equipment for the electric utility industry, including the Spitfire buried-cable fault locator and the Impulse Phaser cable-identification system. Distinct from Timco Inc. (Columbia, TN, coil handling), TIMCO Engineering Inc. (Newberry, FL, FCC/telecom certification), Timco Rubber and Timco Industries (marine/tank barge) - none of those companies numbers is filed here. Fax 401-539-6018 on the same page.",
+        "source": "https://timcoinstruments.com/"
+      },
+      {
         "manufacturer_id": "time-mark",
         "manufacturer_name": "Time Mark",
         "category": "electrical",
@@ -15345,6 +15863,20 @@
         "specialty_tags": [],
         "notes": "Times Square Lighting, 5 Holt Drive, Stony Point, NY 10980. Founded 1934; theatrical, architectural",
         "source": "https://www.tslight.com/company/"
+      },
+      {
+        "manufacturer_id": "tinifiber",
+        "manufacturer_name": "TiniFiber",
+        "category": "electrical",
+        "department": "Technical Support",
+        "phone": "+18003960142",
+        "country": "US",
+        "regions": [],
+        "timezone": null,
+        "last_verified": "2026-10-26",
+        "specialty_tags": [],
+        "notes": "TiniFiber is a registered trademark of CertiCable, Inc.; head office 1180 Route 109, Lindenhurst, NY 11757. Source page labels the line Customer Service and Technical Support, so it is filed as Technical Support. Micro Armor Fiber optical cabling; sales@tinifiber.com on the same page.",
+        "source": "https://tinifiber.com/contact-us/request-a-quote/?prod=TF1-OS2-PLO"
       },
       {
         "manufacturer_id": "tivoli-lighting",
@@ -15501,6 +16033,34 @@
         "source": "https://www.toruspower.com/670-2/"
       },
       {
+        "manufacturer_id": "toshiba",
+        "manufacturer_name": "Toshiba",
+        "category": "electrical",
+        "department": "Customer Support",
+        "phone": "+18002311412",
+        "country": "US",
+        "regions": [],
+        "timezone": null,
+        "last_verified": "2026-10-26",
+        "specialty_tags": [],
+        "notes": "Toshiba International Corporation (TIC), Motors and Drives Division, 13131 West Little York Rd, Houston, TX 77041. Covers the motors and drives part of the xref scope (motors, drives and electronics); TICs range also includes adjustable speed drives, LED lighting and batteries. General line as published in TIC documents, not labelled technical support.",
+        "source": "https://toshiba.com/tic/wp-content/uploads/EQP_Global_840_Flyer.pdf"
+      },
+      {
+        "manufacturer_id": "toshiba",
+        "manufacturer_name": "Toshiba",
+        "category": "electrical",
+        "department": "Technical Support",
+        "phone": "+18776894899",
+        "country": "US",
+        "regions": [],
+        "timezone": "PT",
+        "last_verified": "2026-10-26",
+        "specialty_tags": [],
+        "notes": "Toshiba America Electronic Components, consumer storage (HDD) Technical Support, North America (U.S. and Canada only), option 2 for technical support (option 1 is warranty). Covers the electronics part of the xref scope. The legacy laptop Customer Support Center line (800) 457-7777 is Dynabook-era and is NOT filed here. No website field: the two entries come from different Toshiba units, so no single official homepage is asserted.",
+        "source": "https://storage.toshiba.com/consumer-hdd-2/support/contact"
+      },
+      {
         "manufacturer_id": "tosibox",
         "manufacturer_name": "Tosibox",
         "category": "electrical",
@@ -15569,6 +16129,34 @@
         "specialty_tags": [],
         "notes": "Trace-Lite is a brand of Barron Lighting Group, 7885 N Glen Harbor Blvd, Glendale, AZ 85307;",
         "source": "https://barronltg.com/terms-trace-lite.php"
+      },
+      {
+        "manufacturer_id": "tracer-electronics",
+        "manufacturer_name": "Tracer Electronics",
+        "category": "electrical",
+        "department": "Customer Support",
+        "phone": "+16152853952",
+        "country": "US",
+        "regions": [],
+        "timezone": null,
+        "last_verified": "2026-10-26",
+        "specialty_tags": [],
+        "notes": "Tracer Electronics LLC, 6981 Eastgate Blvd, Lebanon, TN 37090. Distributor and service provider for underground utility locating equipment (EM locators, GPR carts, water-leak detection, video pipe inspection); the repair form lists Clamp among equipment items. CAVEAT: the xref qualifier (Meter Clamps) could not be independently tied to this company - if the xref row means a different meter-clamp maker, this file must be revisited. Fax (615) 285-3970 on the same form.",
+        "source": "https://tracerelectronicsllc.com/resources/Repair-Services/Repair-Form.pdf"
+      },
+      {
+        "manufacturer_id": "trachte",
+        "manufacturer_name": "TRACHTE",
+        "category": "electrical",
+        "department": "Customer Support",
+        "phone": "+18008375707",
+        "country": "US",
+        "regions": [],
+        "timezone": null,
+        "last_verified": "2026-10-26",
+        "specialty_tags": [],
+        "notes": "nVent TRACHTE, utility enclosures (T and D). Corporate Office 422 N. Burr Oak Ave, Oregon, WI 53575; Madison Office 45 Nob Hill Rd, Madison, WI 53713; the same (800) 837-5707 is listed for both. Distinct from Trachte Building Systems (self-storage buildings, Sun Prairie, WI, 800-356-5824) - that number is NOT filed here - and from Trachte, Inc. modular prefab shelters. No website field: the verified source is the nVent company-profile PDF, so no homepage URL is asserted.",
+        "source": "https://www.elexant.com/sites/default/files/dam//catalog---nvent-trachte-company-profile.pdf"
       },
       {
         "manufacturer_id": "trans-coil",
@@ -15823,6 +16411,20 @@
         "source": "https://manuals.plus/nvent-raychem/elexant-3500i-electronic-thermostat-manual"
       },
       {
+        "manufacturer_id": "ucl-swift",
+        "manufacturer_name": "UCL Swift",
+        "category": "electrical",
+        "department": "Customer Support",
+        "phone": "+19725560916",
+        "country": "US",
+        "regions": [],
+        "timezone": null,
+        "last_verified": "2026-10-26",
+        "specialty_tags": [],
+        "notes": "UCL Swift North America, 3200 Commander Dr Suite 100, Carrollton, TX. Fiber-optic fusion splicers, splice-on connectors, cleavers. Formerly America Ilsintech; rebranded UCL Swift in 2021; parent UCL Swift (formerly Ilsintech Co.). Info@uclswiftna.com on the homepage. General listing, not labelled technical support.",
+        "source": "https://uclswiftna.com/"
+      },
+      {
         "manufacturer_id": "uei-test-instruments",
         "manufacturer_name": "UEi Test Instruments",
         "category": "electrical",
@@ -15849,6 +16451,20 @@
         "specialty_tags": [],
         "notes": "Ultralights Lighting, 320 S Plumer Ave, Tucson, AZ 85719; info@ultralightslighting.com. US-based",
         "source": "https://www.ultralightslighting.com/Advantages-of-Choosing-a-USBased-Lighting-Manufacturer-for-Your-Projects/"
+      },
+      {
+        "manufacturer_id": "underground-devices",
+        "manufacturer_name": "Underground Devices",
+        "category": "electrical",
+        "department": "Customer Support",
+        "phone": "+18472059000",
+        "country": "US",
+        "regions": [],
+        "timezone": null,
+        "last_verified": "2026-10-26",
+        "specialty_tags": [],
+        "notes": "Underground Devices, Inc., founded 1973; current site address 887 Deerfield Pkwy, Buffalo Grove, IL 60089 (older listings show Northbrook, IL). Duct spacers, bore spacers and nonmetallic cable racks for underground power infrastructure. Fax 847-205-9004 on the same page. A separate toll-free (800) 800-2118 seen in a BBB listing is NOT filed as primary.",
+        "source": "http://udevices.com/"
       },
       {
         "manufacturer_id": "underwater-kinetics",
@@ -16439,6 +17055,20 @@
         "source": "https://www.valmontutility.com/products-solutions/transmission-poles/newmark-poles"
       },
       {
+        "manufacturer_id": "w-w-cross",
+        "manufacturer_name": "W.W. Cross Industries",
+        "category": "electrical",
+        "department": "Customer Support",
+        "phone": "+18009920314",
+        "country": "US",
+        "regions": [],
+        "timezone": null,
+        "last_verified": "2026-10-26",
+        "specialty_tags": [],
+        "notes": "W. W. Cross Industries, Inc., 2510 Allen Ave SE, Canton, OH 44707. Producers of Cross, Viking and Fat Man brand staples; Viking staples are Cross Industries own most preferred product per the official about page, hence Viking Staple and Viking Staples resolve here, not to separate files. Electrical staples, conduit straps, specialty fasteners; in business since 1932 (Jaffrey, NH shoe tacks). Customer-service line is toll-free 800-992-0314 per the official contact page; direct (330) 588-8400 and info@wwcross.com on the same page. Hours Mon-Fri 9:00 AM-4:30 PM (Fri to 2:00 PM) ET per place listing.",
+        "source": "https://www.wwcross.com/contactus.html"
+      },
+      {
         "manufacturer_id": "wac-lighting",
         "manufacturer_name": "WAC Lighting",
         "category": "electrical",
@@ -16495,6 +17125,20 @@
         "source": "https://www.bbb.org/us/ca/mountain-view/profile/electric-connectors/wallbox-usa-inc-1216-1000009597/details"
       },
       {
+        "manufacturer_id": "warren-heim",
+        "manufacturer_name": "Warren Heim Corporation",
+        "category": "electrical",
+        "department": "Customer Support",
+        "phone": "+17724668265",
+        "country": "US",
+        "regions": [],
+        "timezone": null,
+        "last_verified": "2026-10-26",
+        "specialty_tags": [],
+        "notes": "Warren Heim Corporation, 3107 Industrial 25th St, Fort Pierce, FL 34946. Insulated bags and aerial-bucket accessories for the electrical utility market; BUZZLINE brand. Acquired by National Safety Apparel (NSA) Jan 2025; the company site remains live under its own name. Xref spelling Warran Heim, Co is treated as a misspelling of Warren Heim. Hours Mon-Fri 9:00 AM-6:00 PM ET per place listing. Phone corroborated by two independent listings at the same address.",
+        "source": "https://akama.com/company/Warren_Heim_Corp_a7a002989845.html"
+      },
+      {
         "manufacturer_id": "watlow",
         "manufacturer_name": "Watlow Electric",
         "category": "electrical",
@@ -16535,6 +17179,34 @@
         "specialty_tags": [],
         "notes": "St. Louis MO. Hours Mon-Fri 9am-5pm CT.",
         "source": "https://www.wavelighting.com/contact/"
+      },
+      {
+        "manufacturer_id": "wavenet",
+        "manufacturer_name": "Wavenet",
+        "category": "electrical",
+        "department": "Customer Support",
+        "phone": "+18884928363",
+        "country": "US",
+        "regions": [],
+        "timezone": null,
+        "last_verified": "2026-10-26",
+        "specialty_tags": [],
+        "notes": "Wavenet, Inc., 707 E. Sepulveda Blvd, Carson, CA 90745. Networking and security cable manufacturer. Toll-free 888-492-8363 is the preferred line; direct 310-885-4200 on the same spec sheet. Distinct from Wavenet Ltd (UK managed IT and telecom, wavenet.co.uk), Wavenet International (Australia, defunct modem maker) and Global Wavenet (Singapore) - none of those numbers is filed here.",
+        "source": "https://www.wavenetcable.com/_files/ugd/e294d1_ac84804cbe7f4b7a94480619ef15a72b.pdf"
+      },
+      {
+        "manufacturer_id": "wbt",
+        "manufacturer_name": "WBT",
+        "category": "electrical",
+        "department": "Customer Support",
+        "phone": "+18016211500",
+        "country": "US",
+        "regions": [],
+        "timezone": null,
+        "last_verified": "2026-10-26",
+        "specialty_tags": [],
+        "notes": "WBT-USA, 2752 South 1900 West, Ogden, UT 84401, US arm of WBT-Industrie Elektromechanische Produkte GmbH, Essen, Germany (founded 1985; high-end audio connectors). US line filed per the US-lines rule; the German parent number +49 (0)2054 87 552-50 is noted, not filed as the US line.",
+        "source": "https://www.madisound.com/pdf/printcatalog/WBT.pdf"
       },
       {
         "manufacturer_id": "we-ef-lighting",
@@ -16633,6 +17305,20 @@
         "specialty_tags": [],
         "notes": "Toll-free, option 2 then option 3 for IBW products; local 630-898-2500; email support@westell.com. Hours 8am-6pm ET. Telecom/networking.",
         "source": "https://www.westell.com/support/faq"
+      },
+      {
+        "manufacturer_id": "western-technology",
+        "manufacturer_name": "Western Technology",
+        "category": "electrical",
+        "department": "Customer Support",
+        "phone": "+18006545483",
+        "country": "US",
+        "regions": [],
+        "timezone": null,
+        "last_verified": "2026-10-26",
+        "specialty_tags": [],
+        "notes": "Western Technology, Inc., 3517 Arsenal Way, Bremerton, WA 98312. Explosion-proof low-voltage lighting, deadman remote controls and LED safety lights for abrasive blasting (KICK-IT TOUGH). Toll-free from the manufacturers own catalog PDF; local (360) 917-0080 on the same PDF. Distinct from Western Integrated Technologies (westernintech.com, hydraulics) - that companys number is NOT filed here.",
+        "source": "https://www.twrs.com/pdf/LED-AREA-LIGHTS-WESTERN-TECH.pdf"
       },
       {
         "manufacturer_id": "western-tube-conduit",
@@ -17405,6 +18091,20 @@
         "specialty_tags": [],
         "notes": "Gloves and PPE manufacturer; US customer service line published on ansell.com, email customerserviceus@ansell.com. No safety/PPE category exists in the TechDirect vocabulary, so hardware is used as the closest term.",
         "source": "https://www.ansell.com/us/en/glove-finder/sustainable-healthcare-gloves"
+      },
+      {
+        "manufacturer_id": "apex-dynamics",
+        "manufacturer_name": "Apex Dynamics",
+        "category": "hardware",
+        "department": "Customer Support",
+        "phone": "+16312449040",
+        "country": "US",
+        "regions": [],
+        "timezone": "ET",
+        "last_verified": "2026-10-26",
+        "specialty_tags": [],
+        "notes": "US office, Ronkonkoma, NY, of Apex Dynamics, Inc., manufacturer of precision planetary gearboxes and servo gear reducers. General office contact from the official US homepage footer, not labelled a tech line. Closest category-vocabulary term is hardware; precision gearboxes have no exact term in the vocabulary.",
+        "source": "http://www.apexdynamicsusa.com/"
       },
       {
         "manufacturer_id": "apex-tool-group",
@@ -18373,6 +19073,20 @@
         "source": "https://pimctosprod.azureedge.net/pim-assets/Docs/OperManual/1383881.pdf"
       },
       {
+        "manufacturer_id": "congress-drives",
+        "manufacturer_name": "Congress Drives",
+        "category": "hardware",
+        "department": "Customer Support",
+        "phone": "+16366773364",
+        "country": "US",
+        "regions": [],
+        "timezone": null,
+        "last_verified": "2026-10-26",
+        "specialty_tags": [],
+        "notes": "Congress Drives, Fenton MO; manufacturer of standard/custom pulleys/sheaves for boat control, fan, HVAC and motor applications, serving since 1915. Xref hint 'Drives; motor drives' has no vocabulary term; mechanical drive components fit hardware closest. The old catalog-footer Ennis TX number was NOT filed (appears only in an old catalog mirror; current official site shows Fenton MO).",
+        "source": "https://www.congressdrives.com/"
+      },
+      {
         "manufacturer_id": "continental-western",
         "manufacturer_name": "Continental Western Corporation",
         "category": "hardware",
@@ -18679,6 +19393,20 @@
         "specialty_tags": [],
         "notes": "Earnest Machine Products Co. (Rocky River, OH, founded 1948) master distributor of large-diameter and specialty industrial fasteners. Toll-free line from the company's official About Us page; email Inquiry@EarnestMachine.com; direct 216-362-1100 also published.",
         "source": "https://www.earnestmachine.com/about-us"
+      },
+      {
+        "manufacturer_id": "elk-river",
+        "manufacturer_name": "Elk River",
+        "category": "hardware",
+        "department": "Customer Support",
+        "phone": "+18006333954",
+        "country": "US",
+        "regions": [],
+        "timezone": null,
+        "last_verified": "2026-10-26",
+        "specialty_tags": [],
+        "notes": "Elk River, Inc., Cullman AL, fall protection manufacturer since 1988, 1,600+ line items. Xref hint 'Safety; fall protection' has no vocabulary term; hardware is closest. Phone printed on the company's own technical data sheets (not labelled tech, so Customer Support). Mazzella distributor numbers were NOT filed (distributor's lines, not the manufacturer's).",
+        "source": "https://www.elkriver.com:443/wp-content/uploads/2022/06/36827-Elk-River-FlexZorber-Lanyard-TDS.pdf"
       },
       {
         "manufacturer_id": "emc-fasteners",
@@ -20935,6 +21663,20 @@
         "source": "https://www.oregonproducts.com/en/c/mower-blades-c"
       },
       {
+        "manufacturer_id": "orion-ropeworks",
+        "manufacturer_name": "Orion Ropeworks",
+        "category": "hardware",
+        "department": "Customer Support",
+        "phone": "+18885377673",
+        "country": "US",
+        "regions": [],
+        "timezone": null,
+        "last_verified": "2026-10-26",
+        "specialty_tags": [],
+        "notes": "Winslow, ME rope manufacturer (brands EsterPlex, Lockman, Lublock); government/military-specification double-braid and twisted rope. Toll-free number as listed on the Thomasnet Orion Ropeworks profile at the Winslow address; the same Winslow address and toll-free line are also associated with the Orion Cordage operation. Xref notes the company as formerly Wellington.",
+        "source": "https://www.thomasnet.com/company/orion-ropeworks-inc-20068495/profile?heading=96124037"
+      },
+      {
         "manufacturer_id": "osg-usa",
         "manufacturer_name": "OSG USA",
         "category": "hardware",
@@ -20947,6 +21689,20 @@
         "specialty_tags": [],
         "notes": "OSG USA, Inc., St. Charles IL (620 Stetson Avenue); formerly OSG Tap & Die; taps, drills, end mills, dies.",
         "source": "https://osgtool.com/blog/high-speed-machining/"
+      },
+      {
+        "manufacturer_id": "oshkosh-tools",
+        "manufacturer_name": "Oshkosh Tools",
+        "category": "hardware",
+        "department": "Customer Support",
+        "phone": "+19208590023",
+        "country": "US",
+        "regions": [],
+        "timezone": null,
+        "last_verified": "2026-10-26",
+        "specialty_tags": [],
+        "notes": "Omro, WI maker of pole-line construction tools (pike poles, cant hooks, digging bars, tongs); order line from the official contact page. Business hours Monday-Thursday 6am-4pm CT; closed Friday-Sunday. Email info@oshkoshtools.com also published on the same page.",
+        "source": "https://www.oshkoshtools.com/pages/contact"
       },
       {
         "manufacturer_id": "osmose-products",
@@ -22013,6 +22769,20 @@
         "source": "https://www.slingco.com/us/products/cable-conductor-installation-pulling/cable-pulling-grips/splicing-grips"
       },
       {
+        "manufacturer_id": "smi-carr",
+        "manufacturer_name": "Smi-Carr",
+        "category": "hardware",
+        "department": "Customer Support",
+        "phone": "+18006221303",
+        "country": "US",
+        "regions": [],
+        "timezone": null,
+        "last_verified": "2026-10-26",
+        "specialty_tags": [],
+        "notes": "Smi-Carr, Inc., 2573 Pine St, PO Box 3436, Abilene, TX 79604. Manufacturer of marking products, best known for the Stake Chaser brand marking whiskers — used for marking buried utility lines, survey points and athletic fields, as well as road construction. Number published on the official homepage; not labelled Technical Support, so Customer Support. Hardware is the closest vocabulary term, following the Safety Flag Company of America precedent for marking-flag products. Phase 1 recorded the trade as unclear; the official site confirms the utility-line marking use.",
+        "source": "http://www.smicarr.com/"
+      },
+      {
         "manufacturer_id": "snap-on",
         "manufacturer_name": "Snap-on",
         "category": "hardware",
@@ -22531,6 +23301,20 @@
         "source": "https://www.titantool.com/resources"
       },
       {
+        "manufacturer_id": "top-knobs",
+        "manufacturer_name": "Top Knobs",
+        "category": "hardware",
+        "department": "Customer Support",
+        "phone": "+18004999095",
+        "country": "US",
+        "regions": [],
+        "timezone": "ET",
+        "last_verified": "2026-10-26",
+        "specialty_tags": [],
+        "notes": "Top Knobs decorative cabinet hardware. Source page is Top Knobs own dealer page; CustomerService@TopKnobs.com published on the same page. Retailer and distributor numbers (knobs.co, Ferguson, topknobsdecor.com, topknobsupply.com) are NOT filed here.",
+        "source": "https://www.topknobs.com/become-a-dealer"
+      },
+      {
         "manufacturer_id": "travis-pattern-foundry",
         "manufacturer_name": "Travis Pattern & Foundry",
         "category": "hardware",
@@ -22643,6 +23427,20 @@
         "source": "https://www.uline.com/CustomerService/PolicyPrivacy.htm"
       },
       {
+        "manufacturer_id": "ullman",
+        "manufacturer_name": "Ullman Devices",
+        "category": "hardware",
+        "department": "Customer Support",
+        "phone": "+12034386577",
+        "country": "US",
+        "regions": [],
+        "timezone": null,
+        "last_verified": "2026-10-26",
+        "specialty_tags": [],
+        "notes": "Ullman Devices Corp., 664 Danbury Rd, Ridgefield, CT. Inspection mirrors, magnetic pickups, LED inspection lights, hook-and-pick sets. Hours Mon-Fri 8:00 AM-5:00 PM ET per place listing; support email Ullman@ntplx.net per the NeweggBusiness manufacturer-contact block. Distinct from Ullman Precision (gunstock tools, New Braunfels, TX, (830) 627-9030) - that number is NOT filed here. Retailer numbers (Northern Tool, ToolSource) are NOT filed here.",
+        "source": "https://www.neweggbusiness.com/product/product.aspx?item=9b-0hv-0085-00007&srsltid=AfmBOopBvscPWDSg3fQ2RgYcxEVIk2b6dJUSCxlfpbYWkgmg9FODwIik"
+      },
+      {
         "manufacturer_id": "unicorp",
         "manufacturer_name": "Unicorp",
         "category": "hardware",
@@ -22669,6 +23467,20 @@
         "specialty_tags": [],
         "notes": "U.S. Sales line; Manufacturing Headquarters 185 Boston Post Rd, North Windham, CT 06256; info@unitedabrasives.com.",
         "source": "https://www.unitedabrasives.com/"
+      },
+      {
+        "manufacturer_id": "uttermost",
+        "manufacturer_name": "Uttermost",
+        "category": "hardware",
+        "department": "Customer Support",
+        "phone": "+18006785486",
+        "country": "US",
+        "regions": [],
+        "timezone": null,
+        "last_verified": "2026-10-26",
+        "specialty_tags": [],
+        "notes": "Uttermost, founded 1975, HQ Rocky Mount, VA; trade-only home decor, lighting and furniture. Phone from the footer of the official homepage. Vocabulary has no decor or furniture term; hardware is the closest for this row. Retailer numbers (Lighting New York 866-344-3875, Lightopia, City Mattress) are NOT filed here.",
+        "source": "https://uttermost.com/"
       },
       {
         "manufacturer_id": "uvex-safety",
@@ -22741,6 +23553,20 @@
         "source": "https://vetopropac.com/warranty-policy/"
       },
       {
+        "manufacturer_id": "w-l-fuller",
+        "manufacturer_name": "W.L. Fuller",
+        "category": "hardware",
+        "department": "Customer Support",
+        "phone": "+14014672900",
+        "country": "US",
+        "regions": [],
+        "timezone": null,
+        "last_verified": "2026-10-26",
+        "specialty_tags": [],
+        "notes": "W.L. Fuller, Inc., 7 Cypress St, Warwick, RI 02888. Countersinks, counterbores, plug cutters, taper point drills, brad point drills, step drills; family-owned, made in USA. Hours Mon-Fri 8:00 AM-5:00 PM ET per listings. Number corroborated by two independent listings at the same address; the official homepage text fetch shows no phone, so the number rests on those listings.",
+        "source": "https://www.engineering10.com/US/Warwick/110667747356/W-L-FULLER-INC"
+      },
+      {
         "manufacturer_id": "w-steps",
         "manufacturer_name": "W.steps",
         "category": "hardware",
@@ -22755,6 +23581,20 @@
         "source": "https://wsteps.us/wp-content/uploads/2020/08/100-1561-WS03-Instruction-Manual-Rescue-Line-Ver.2025.1.pdf"
       },
       {
+        "manufacturer_id": "w-t-hight",
+        "manufacturer_name": "W.T. Hight Company",
+        "category": "hardware",
+        "department": "Customer Support",
+        "phone": "+18004454082",
+        "country": "US",
+        "regions": [],
+        "timezone": "ET",
+        "last_verified": "2026-10-26",
+        "specialty_tags": [],
+        "notes": "W.T. Hight Company, 42 Winter St, Pembroke, MA 02359; founded 1866. Material handling and storage systems: casters, wheels, machine levelers, vibration mounts, hand trucks, racking, mezzanines. Toll-free 800-445-4082 is the sites header call number; office 781-682-7976 published on the same page. Merged with Deluxe Systems Jan 1, 2019; also operates Caster Central.",
+        "source": "https://wthight.com/"
+      },
+      {
         "manufacturer_id": "wacker-neuson",
         "manufacturer_name": "Wacker Neuson",
         "category": "hardware",
@@ -22767,6 +23607,20 @@
         "specialty_tags": [],
         "notes": "General published number on official US support/downloads pages. Construction equipment/tools; closest vocabulary term: hardware (no exact term exists).",
         "source": "https://www.wackerneuson.com/us/support"
+      },
+      {
+        "manufacturer_id": "walker",
+        "manufacturer_name": "Walker Manufacturing Company",
+        "category": "hardware",
+        "department": "Customer Support",
+        "phone": "+19702215614",
+        "country": "US",
+        "regions": [],
+        "timezone": null,
+        "last_verified": "2026-10-26",
+        "specialty_tags": [],
+        "notes": "Walker Manufacturing Company, 5925 E Harmony Rd, Fort Collins, CO 80528. Commercial zero-turn riding lawn mowers (Walker Mower). Number from the companys own operators manuals (call Walker Manufacturing Company at (970) 221-5614). Hours Mon-Fri 8:00 AM-4:30 PM MT per place listing. Identification caveat: filed as the Colorado-headquartered Walker maker; no competing Walker trade brand was found, but the xref carries no category, so if the row means a different Walker (for example Walker Exhaust), this file must be revisited. Vocabulary has no outdoor-power term; hardware is the closest.",
+        "source": "https://www.walker.com/hubfs/PDF/6000-46.pdf?hsLang=en-us"
       },
       {
         "manufacturer_id": "walton-tools",
@@ -22867,6 +23721,20 @@
         "source": "https://www.wellslamontindustrial.com/wp-content/uploads/2022/03/Y1919_WL_SpecSheet.pdf"
       },
       {
+        "manufacturer_id": "wells-technology",
+        "manufacturer_name": "Wells Technology",
+        "category": "hardware",
+        "department": "Customer Support",
+        "phone": "+12187511412",
+        "country": "US",
+        "regions": [],
+        "timezone": null,
+        "last_verified": "2026-10-26",
+        "specialty_tags": [],
+        "notes": "Wells Technology, 4885 Windsor Ct NW, Bemidji, MN 56601; founded 1989. CNC precision machining; NSN listings show the same company name for screws, conduit and nuts. Number from the companys own brochure; a directory listing shows a different (218) 751-5117, which is NOT filed. Caveat: the xref carries no category and this is a job shop rather than a product brand, so if the row means a different Wells Technology, this file must be revisited.",
+        "source": "https://www.wellstech.com/s/Wells-Technology-Brochure-1.pdf"
+      },
+      {
         "manufacturer_id": "wera-tools",
         "manufacturer_name": "Wera Tools",
         "category": "hardware",
@@ -22907,6 +23775,20 @@
         "specialty_tags": [],
         "notes": "West Chester Holdings; Monroe OH; since 1978. PPE gloves/apparel/rainwear; closest vocabulary term: hardware.",
         "source": "https://www.ishn.com/articles/97179-west-chester-protective-gear-honored-with-vendor-of-the-year-award-by-do-it-best-corp"
+      },
+      {
+        "manufacturer_id": "west-coast-shoe-company",
+        "manufacturer_name": "West Coast Shoe Company",
+        "category": "hardware",
+        "department": "Customer Support",
+        "phone": "+18003262711",
+        "country": "US",
+        "regions": [],
+        "timezone": null,
+        "last_verified": "2026-10-26",
+        "specialty_tags": [],
+        "notes": "West Coast Shoe Company (Wesco), 52828 NW Shoe Factory Ln, Scappoose, OR 97056; founded 1918. US-made work boots for linemen, loggers and wildland firefighters, including electrical-hazard boots. Toll-free 800-326-2711 (US and Canada) from company press releases; direct (503) 543-7114 on the same releases and the BBB profile. Hours Mon-Fri 7:30 AM-4:00 PM PT. Vocabulary has no safety or PPE term; hardware is the closest for the xref Safety; work shoes / PPE scope.",
+        "source": "https://www.prlog.org/10488007-custom-boot-maker-wesco-details-century-of-made-in-america-craftsmanship-in-its-release.html"
       },
       {
         "manufacturer_id": "westlake-royal-building-products",
@@ -22951,6 +23833,20 @@
         "source": "https://www.wihatools.com:443/index.php?main_page=product_info&cPath=34_873&products_id=873"
       },
       {
+        "manufacturer_id": "wilcor",
+        "manufacturer_name": "Wilcor International",
+        "category": "hardware",
+        "department": "Customer Support",
+        "phone": "+18003462345",
+        "country": "US",
+        "regions": [],
+        "timezone": null,
+        "last_verified": "2026-10-26",
+        "specialty_tags": [],
+        "notes": "Wilcor International, 161 Drive In Road, Frankfort, NY 13340. Wholesale supplier to the vacation industry (camping, summer fun, gifts, custom products; 6000+ products). Number from the companys own order form; fax 315-733-3215 and sales@wilcor.net on the same form. Caveat: the xref carries no category and Wilcor is a wholesale distributor, not a trade manufacturer; filed as the only exact-name Wilcor company found, with no competing candidate. If the row means a different Wilcor, this file must be revisited.",
+        "source": "https://wilcor.net/pdf/order.pdf"
+      },
+      {
         "manufacturer_id": "wishbone-safety",
         "manufacturer_name": "WishboneSafety, Inc.",
         "category": "hardware",
@@ -22977,6 +23873,20 @@
         "specialty_tags": [],
         "notes": "Wolverine World Wide, Rockford MI. Email customerservice@wwwinc.com; hours Mon-Fri 8am-9pm, Sat-Sun 9am-6pm ET. Work boots/PPE; closest vocabulary term: hardware. Distinct from the existing wolverine-brass file. A 1000 Mile concierge line is NOT used as the general line.",
         "source": "https://www.elliott.org/company-contacts/wolverine-world-wide/"
+      },
+      {
+        "manufacturer_id": "worden-safety",
+        "manufacturer_name": "Worden Safety",
+        "category": "hardware",
+        "department": "Customer Support",
+        "phone": "+18004246257",
+        "country": "US",
+        "regions": [],
+        "timezone": null,
+        "last_verified": "2026-10-26",
+        "specialty_tags": [],
+        "notes": "Worden Safety Products, 1548 Burden Lake Rd, Sand Lake, NY. Wheel chocks for trailers, boats and large vehicles; site tagline 1 800 4 CHOCKS. Hours Mon-Fri 8:00 AM-5:00 PM ET per place listing. Vocabulary has no safety or PPE term; hardware is the closest for the xref Safety; trailer chocks scope.",
+        "source": "http://chocks.com/"
       },
       {
         "manufacturer_id": "workrite-uniform",
@@ -24913,6 +25823,20 @@
         "source": "https://www.dimplex.glendimplexamericas.com/sites/g/files/emiian436/files/downloads/DF3033ST_Owners_Manual_1.pdf"
       },
       {
+        "manufacturer_id": "divspec",
+        "manufacturer_name": "Divspec",
+        "category": "hvac",
+        "department": "Customer Support",
+        "phone": "+19086882550",
+        "country": "US",
+        "regions": [],
+        "timezone": "ET",
+        "last_verified": "2026-10-26",
+        "specialty_tags": [],
+        "notes": "Divspec, Inc., Kenilworth NJ (605 Springfield Rd), est. 1980, WBENC woman-owned; strut, strut fittings, and fasteners. Xref hint 'HVAC; products'; strut/supports for HVAC installs, no exact vocabulary term for strut. SOURCE TIER: phone from directory page Manta, corroborated by an agreeing place record (same number, address, and hours); official site confirms the company and business but publishes no phone. NOT Diversified Spec Sales, Inc. (Oak Park MI plumbing rep, a different company).",
+        "source": "https://www.manta.com/c/mm2rhh8/divspec"
+      },
+      {
         "manufacturer_id": "dorin",
         "manufacturer_name": "Dorin",
         "category": "hvac",
@@ -25093,6 +26017,20 @@
         "specialty_tags": [],
         "notes": "Service line (Germany)",
         "source": "https://www.elco.net/en/contact.html"
+      },
+      {
+        "manufacturer_id": "electromode",
+        "manufacturer_name": "Electromode",
+        "category": "hvac",
+        "department": "Technical Support",
+        "phone": "+18883467539",
+        "country": "US",
+        "regions": [],
+        "timezone": "ET",
+        "last_verified": "2026-10-26",
+        "specialty_tags": [],
+        "notes": "LEGACY brand, own file per the standing legacy rule. ELECTROMODE trademark of DIMPLEX NORTH AMERICA LIMITED (USPTO serial 71617659, electric space heaters, air duct heaters, explosion-proof heaters, electric furnaces; registration cancelled, Section 8 non-filing). Successor: Dimplex (Glen Dimplex Americas); the number filed is Dimplex's published technical support line, not an Electromode-era line. The Rexel catalog order line and Mor Electric Heating retailer number were NOT filed (catalog publisher's / retailer's lines, not Electromode's).",
+        "source": "https://www.dimplex.glendimplexamericas.com/sites/g/files/emiian436/files/downloads/DF3033ST_Owners_Manual_1.pdf"
       },
       {
         "manufacturer_id": "embraco",
@@ -25541,6 +26479,20 @@
         "specialty_tags": [],
         "notes": "FloAire Inc. Manuals direct warranty and technical support issues to this service department number. Commercial and industrial ventilation: exhaust fans, kitchen hoods, make-up air, heaters. A distributor number 678-383-6420 seen in a distributor profile is the distributor, NOT FloAire, and is not used. Category hvac preferred over airflow.",
         "source": "https://www.manualsdir.com/manuals/676098/floaire-fkb-inline-pcu-blower.html?page=4"
+      },
+      {
+        "manufacturer_id": "fluorofusion",
+        "manufacturer_name": "FluoroFusion Specialty Chemicals, Inc.",
+        "category": "hvac",
+        "department": "Customer Support",
+        "phone": "+13369473882",
+        "country": "US",
+        "regions": [],
+        "timezone": null,
+        "last_verified": "2026-10-26",
+        "specialty_tags": [],
+        "notes": "Number from the official site footer (110 Avondale Street, High Point, NC 27260). US manufacturer of sustainable refrigerants (HFC/HFO blends, reclaimed R-410A) for mechanical contractors and wholesalers; AHRI 700 lab. A Clayton NC directory listing shows a different number; the official-site High Point number is filed.",
+        "source": "https://fluorofusion.com/"
       },
       {
         "manufacturer_id": "forane",
@@ -26031,6 +26983,20 @@
         "specialty_tags": [],
         "notes": "Hercules Industries, Denver, CO. HQ 303-937-1000; email info@hercmail.com. Sheet metal, ductwork.",
         "source": "https://www.herculesindustries.com/about"
+      },
+      {
+        "manufacturer_id": "hero-fabriduct",
+        "manufacturer_name": "Hero Fabriduct, Inc.",
+        "category": "hvac",
+        "department": "Customer Support",
+        "phone": "+18774376247",
+        "country": "US",
+        "regions": [],
+        "timezone": null,
+        "last_verified": "2026-10-26",
+        "specialty_tags": [],
+        "notes": "Toll-free 877-HERO-AIR from the official About page footer; local line 423-510-8225 and quotes@herofabriduct.com also published (P.O. Box 9414, Chattanooga, TN 37412). Fabric ductwork, est. 1998. Not FabricAir.",
+        "source": "https://www.herofabriduct.com/about/"
       },
       {
         "manufacturer_id": "hi-velocity-systems",
@@ -26535,6 +27501,20 @@
         "specialty_tags": [],
         "notes": "HVAC distributor cooperative of independently owned branches. The filed number is the corporate HQ, Portland, OR, 11632 N.E. Ainsworth Circle, Portland, OR 97220, not a branch line; branch numbers are not the corporate line.",
         "source": "https://reviews.birdeye.com/johnstone-supply-corporate-headquarters-165416023668275"
+      },
+      {
+        "manufacturer_id": "juglugger",
+        "manufacturer_name": "JugLugger",
+        "category": "hvac",
+        "department": "Customer Support",
+        "phone": "+13026551255",
+        "country": "US",
+        "regions": [],
+        "timezone": null,
+        "last_verified": "2026-10-26",
+        "specialty_tags": [],
+        "notes": "Number from the manufacturer JugLugger specification sheet (SC Products Inc., Wilmington, DE 19803) and trade press. Refrigerant-cylinder carrying strap for HVACR contractors. A 2007 ACHR listing also published toll-free 888-558-4584 as an older alternate; the spec-sheet number is filed.",
+        "source": "https://assets.unilogcorp.com/267/ITEM/DOC/JugLugger_JL1_Specification_Sheet.pdf"
       },
       {
         "manufacturer_id": "k-flex-usa",
@@ -27865,6 +28845,20 @@
         "specialty_tags": [],
         "notes": "PDM US LLC (formerly PDM US Corp.), Rock Hill, SC (640 Cel River Rd, 29730). Number printed in the company's own Gelcopper material safety data sheets alongside info@pdmus.com and corroborated across multiple SDS revisions. Manufacturer of Gelcopper pre-insulated copper linesets and polyethylene foam tubular insulation (ASTM C 1427, Type I, Grade I; UL 723 classified) for HVAC/refrigeration systems. The xref string 'PDM US GelcopperUS' is the company name plus its Gelcopper product line, recorded here as one file. General company number, not labelled technical support, so recorded as Customer Support.",
         "source": "https://pdmus.com/wp-content/uploads/2020/10/GELCOPPER-MDS-2020.pdf"
+      },
+      {
+        "manufacturer_id": "peerless-of-america",
+        "manufacturer_name": "Peerless of America",
+        "category": "hvac",
+        "department": "Customer Support",
+        "phone": "+12173420400",
+        "country": "US",
+        "regions": [],
+        "timezone": null,
+        "last_verified": "2026-10-26",
+        "specialty_tags": [],
+        "notes": "Peerless of America, LLC, 1201 W Wabash Ave, Effingham, IL 62401. Manufacturer of all-aluminum and aluminum/copper heat transfer coils, unit coolers and custom tubing assemblies for air conditioning and commercial/domestic refrigeration since 1912; sales@peerlessofamerica.com. Number is the plant/general number published in the official site footer; it is not labelled Technical Support, so Customer Support. Distinct from Peerless Pump Company (Grundfos subsidiary, existing peerless-pump file) and from PB Heat / Peerless Boilers (existing pb-heat file) — the Phase 1 tentative parent-resolution to peerless-pump is rejected and this company is filed on its own. Covers the xref spelling 'Peerless Of America, Inc.' (Inc. vs current LLC suffix).",
+        "source": "https://www.peerlessofamerica.com/"
       },
       {
         "manufacturer_id": "peerless-pump",
@@ -29797,6 +30791,20 @@
         "specialty_tags": [],
         "notes": "Weishaupt America (Elgin, IL)",
         "source": "https://www.weishaupt-america.com"
+      },
+      {
+        "manufacturer_id": "weiss-instruments",
+        "manufacturer_name": "Weiss Instruments",
+        "category": "hvac",
+        "department": "Customer Support",
+        "phone": "+16312071200",
+        "country": "US",
+        "regions": [],
+        "timezone": null,
+        "last_verified": "2026-10-26",
+        "specialty_tags": [],
+        "notes": "Weiss Instruments, Inc., 905 Waverly Ave, Holtsville, NY 11742; founded 1882. Pressure gauges, thermometers, needle and ball valves for plumbing, cooling and heating applications. sales@weissinstruments.com on the same bulletin. Filed as the trade-fit Weiss maker; the xref carries no category, and other Weiss companies (Weiss Technik environmental chambers, Weiss North America automation) are different companies and are NOT filed here.",
+        "source": "https://www.weissinstruments.com/assets/potable.lead_free_bulletin.pdf"
       },
       {
         "manufacturer_id": "wellair",
@@ -31943,6 +32951,34 @@
         "source": "https://s22970.pcdn.co/wp-content/uploads/2018/01/LSP_2018Catalog.pdf"
       },
       {
+        "manufacturer_id": "luxart",
+        "manufacturer_name": "Luxart",
+        "category": "plumbing",
+        "department": "Warranty Support",
+        "phone": "+12252954212",
+        "country": "US",
+        "regions": [],
+        "timezone": null,
+        "last_verified": "2026-10-26",
+        "specialty_tags": [],
+        "notes": "Hajoca house brand for faucets and bath accessories. Warranty inquiries route to Hajoca Mainline Customer Service; number as printed in the current Luxart warranty document hosted by Hajoca. An older Luxart warranty document listed a different toll-free number; the current Hajoca-hosted warranty document and the 2023 catalog route to this number, which is the one filed here.",
+        "source": "https://webassets.hajoca.com/ownerguides/840004/84000495710.pdf"
+      },
+      {
+        "manufacturer_id": "mainline",
+        "manufacturer_name": "Mainline",
+        "category": "plumbing",
+        "department": "Customer Support",
+        "phone": "+12252954212",
+        "country": "US",
+        "regions": [],
+        "timezone": null,
+        "last_verified": "2026-10-26",
+        "specialty_tags": [],
+        "notes": "Hajoca private-label plumbing brand (faucets, trap primers, distribution units and related products). Number is the Mainline Customer Service line printed in Mainline installation and warranty documents hosted by Hajoca; the same line also handles Luxart warranty inquiries.",
+        "source": "https://webassets.hajoca.com/ownerguides/840004/84000491699.pdf"
+      },
+      {
         "manufacturer_id": "mansfield-plumbing",
         "manufacturer_name": "Mansfield Plumbing Products",
         "category": "plumbing",
@@ -33483,6 +34519,20 @@
         "source": "https://www.westlakepipe.com/contact/customer-service"
       },
       {
+        "manufacturer_id": "whitlam",
+        "manufacturer_name": "Whitlam",
+        "category": "plumbing",
+        "department": "Customer Support",
+        "phone": "+18003218358",
+        "country": "US",
+        "regions": [],
+        "timezone": null,
+        "last_verified": "2026-10-26",
+        "specialty_tags": [],
+        "notes": "J.C. Whitlam Manufacturing Company, 200 West Walnut St, P.O. Box 380, Wadsworth, OH 44282-0380; pipe-joining materials since 1900 (Tyte-Unyte thread compound, fluxes, solders, putties). US and Canada phone 1-800-321-8358; international 1-330-334-2524 on the same documents; sales@jcwhitlam.com.",
+        "source": "https://www.jcwhitlam.com/ManagedFiles/Whitlam%20Credit Application.pdf"
+      },
+      {
         "manufacturer_id": "william-h-harvey-company",
         "manufacturer_name": "William H. Harvey Company",
         "category": "plumbing",
@@ -33819,6 +34869,20 @@
         "specialty_tags": [],
         "notes": "Builder's Best, Inc., 201 Broiles Drive, Jacksonville, TX 75766, manufacturer of dryer venting, bathroom fan venting, fresh air ventilation and general venting products since 1990. Acquired by the Duravent Group; its trademarks are now registered to the Duravent Group. Email sales@buildersbest.com, orders@buildersbest.com.",
         "source": "https://buildersbest.com/uploads/BB_CT-001E_10-25_web.pdf"
+      },
+      {
+        "manufacturer_id": "can-fan",
+        "manufacturer_name": "Can-Fan",
+        "category": "airflow",
+        "department": "Customer Support",
+        "phone": "+18884786544",
+        "country": "US",
+        "regions": [],
+        "timezone": null,
+        "last_verified": "2026-10-26",
+        "specialty_tags": [],
+        "notes": "Can-Fan is a Can Filters brand (Max-Fan inline fans, Can-Lite filters). Number is Can-Filters' own published contact from the footer of its official How-To page, filed as Customer Support because the page does not label it a tech line. The Hawthorne Gardening Co. distributor technical-support line was deliberately not filed as Can-Fan's number.",
+        "source": "https://canfilters.com/help/how-to/"
       },
       {
         "manufacturer_id": "continental-fan",
@@ -34749,6 +35813,20 @@
         "source": "https://www.manualshelf.com/manual/hydro-systems/syd6032awp-whi-lh/installation-guide-english/page-5.html"
       },
       {
+        "manufacturer_id": "jetta",
+        "manufacturer_name": "Jetta Corporation",
+        "category": "bathroom-systems",
+        "department": "Customer Support",
+        "phone": "+18002887771",
+        "country": "US",
+        "regions": [],
+        "timezone": null,
+        "last_verified": "2026-10-26",
+        "specialty_tags": [],
+        "notes": "Customer Service toll-free from the manufacturer brochure and catalog (425 Centennial Boulevard, Edmond, OK 73013; local 405-340-6661; sales@jettacorp.com). Acrylic bathtubs, whirlpools, and walk-in tubs; sold via specialty plumbing distribution (e.g. Locke Supply).",
+        "source": "https://jettacorp.com/storage/uploads/Jetta%20Walk-In%20Brochure%202021.pdf"
+      },
+      {
         "manufacturer_id": "kartners",
         "manufacturer_name": "Kartners Bathroom Accessories",
         "category": "bathroom-systems",
@@ -35155,6 +36233,20 @@
         "specialty_tags": [],
         "notes": "DwyerOmega is the combined corporate brand of Dwyer Instruments and Omega Engineering (Dwyer Group, Michigan City, IN), with its own customer support line (Mon-Fri 8 AM - 5 PM EST). Distinct from the existing dwyer-instruments file, which covers Dwyer Instruments alone; DwyerOmega covers the combined Dwyer + Omega portfolio. Category note: measurement/control instruments mapped to hvac-controls as the closest term.",
         "source": "https://www.dwyeromega.com/en-ca/help/omega-business-profile"
+      },
+      {
+        "manufacturer_id": "evolution-controls",
+        "manufacturer_name": "Evolution Controls",
+        "category": "hvac-controls",
+        "department": "Technical Support",
+        "phone": "+18587487359",
+        "country": "US",
+        "regions": [],
+        "timezone": null,
+        "last_verified": "2026-10-26",
+        "specialty_tags": [],
+        "notes": "Official site footer labels this Tech Support (support@gotoevo.com). Evolution Controls Inc., Poway CA, EC motor controls.",
+        "source": "https://gotoevo.com/techsupport"
       },
       {
         "manufacturer_id": "fast-stat",
@@ -35649,6 +36741,34 @@
         "source": "https://www.3m.com/3M/en_US/biopharmaceutical-purification-us/support/"
       },
       {
+        "manufacturer_id": "spa-builders",
+        "manufacturer_name": "Spa Builders",
+        "category": "water-systems",
+        "department": "Customer Support",
+        "phone": "+18666397274",
+        "country": "US",
+        "regions": [],
+        "timezone": null,
+        "last_verified": "2026-10-26",
+        "specialty_tags": [],
+        "notes": "Spa Builders Systems Group (SBSG), formerly 9225 Stellar Court, Corona, CA 92883, and Spa Builders Support Group, Inc., 1219 South Bon View Avenue, Ontario, CA 91761. Manufacturer of spa control systems and components (LX-10, LX-15, LX-20, LX-25, LX-30 control packs, topsides, heaters and pumps). Number 1-866-639-7274 is published in Spa Builders' own MC-MP-SBD Owner's Manual ('phone us at our tollfree number') and as the SBSG customer service department number for warranty return authorizations; it is a customer-service line, not labelled Technical Support. The LX troubleshooting guides also publish a Las Vegas office line, 800-772-7257, noted here in text only and not filed as the support number. Caveat (DESA precedent): current operability is not independently confirmed — all numbers are manufacturer-manual numbers, no verified current official website was found, and some Australian listings describe the LX line as obsolete. The parts dealer's number (Bath & Spa Parts Online, 800-918-9143) is NOT used. Allied Innovations markets/distributes Spa Builders among other spa brands; it is not adopted as a successor.",
+        "source": "https://cdn3.guidespdf.com/view/1589/1589439-mclass_mcmpsbd.pdf"
+      },
+      {
+        "manufacturer_id": "veolia",
+        "manufacturer_name": "Veolia",
+        "category": "water-systems",
+        "department": "Customer Support",
+        "phone": "+18004468004",
+        "country": "US",
+        "regions": [],
+        "timezone": null,
+        "last_verified": "2026-10-26",
+        "specialty_tags": [],
+        "notes": "Filed line is Veolia Water Technologies US water emergency and customer-support line (24/7 water-treatment trucks) from its Customer Support page. This does NOT cover Veolias regional municipal and residential customer-service centers (for example NY and NJ numbers on mywater.veolia.us), which are regional and are not filed here. Cary, NC office 919.677.8310 is an office number, not the support line. The source page labels the department Customer Support; the line itself is the emergency line and is NOT labelled Technical Support.",
+        "source": "https://www.watertechnologies.com/customer-support"
+      },
+      {
         "manufacturer_id": "water-control-corp",
         "manufacturer_name": "Water Control Corporation",
         "category": "water-systems",
@@ -35831,6 +36951,20 @@
         "specialty_tags": [],
         "notes": "LEGACY brand file: Conbraco Industries, founded 1928 (Consolidated Brass Company merger); all products brought under the Apollo Valves brand in 2005; Aalberts Integrated Piping Systems acquired Conbraco in 2010. Support now via Aalberts IPS / Apollo Valves customer service line (same number as the existing apollo-valves file). Kept as its own file per the legacy rule so technicians on older Conbraco-marked valves can trace the successor chain.",
         "source": "https://aalberts-ips.us/contact/"
+      },
+      {
+        "manufacturer_id": "cp-test-valvco",
+        "manufacturer_name": "CP Test & Valvco",
+        "category": "valves",
+        "department": "Customer Support",
+        "phone": "+12019981500",
+        "country": "US",
+        "regions": [],
+        "timezone": null,
+        "last_verified": "2026-10-26",
+        "specialty_tags": [],
+        "notes": "CP Test & Valvco, Inc., formerly CP Test Valve Products, Inc., Middlesex NJ; cathodic protection test stations, valve/curb boxes, manhole covers. Xref hint 'Test instruments' has no vocabulary term; valve/curb boxes fit valves. Ferguson brand label 'CP Test Services-Valvco' is the same company family.",
+        "source": "https://cptest.com/wp-content/uploads/2023/02/SC40-New.pdf"
       },
       {
         "manufacturer_id": "dezurik",
@@ -36663,6 +37797,20 @@
         "specialty_tags": [],
         "notes": "Pipe hangers and supports, fittings, valves and seismic bracing; parent of the Anvil brand (Anvil is an ASC brand, not ASC itself, so ASC gets its own file). Company line published on ASC Engineered Solutions documents; 24-hour technical hotline 401-533-6896 also published for engineered pipe supports.",
         "source": "https://www.asc-es.com/resources-and-downloads/asc-engineered-solutions-overview-brochure"
+      },
+      {
+        "manufacturer_id": "carolina-moldings",
+        "manufacturer_name": "Carolina Moldings",
+        "category": "piping-systems",
+        "department": "Customer Support",
+        "phone": "+18005237475",
+        "country": "US",
+        "regions": [],
+        "timezone": null,
+        "last_verified": "2026-10-26",
+        "specialty_tags": [],
+        "notes": "Carolina Moldings, Inc., Charlotte NC, family-owned since 1975; gas meter index covers, Snap Seal tamper systems, meter parts. Xref hint 'Plumbing; molded products'; actual products are gas-meter parts, so piping-systems is closest. Hours omitted: official-site snippets conflict (Mon-Fri 9am-5pm EST vs a 09:00-15:00 hours line).",
+        "source": "https://carolinamoldings.com/"
       },
       {
         "manufacturer_id": "cci-pipeline-systems",
