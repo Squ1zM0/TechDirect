@@ -5,14 +5,16 @@ categories:
 aliases: []
 support:
 - category: hvac
-  department: Technical Support
-  phone: '+8003885253'
+  department: General Customer Support
+  phone: '+18333275991'
   country: US
-  notes: 'Imported from verified manufacturer spreadsheet (Oct 2026). Tech/support
-    page: https://master-bilt.com/warranty/. Support hours (spreadsheet): Tech Service
-    7:30am-4:30pm CST; Level 1 7am-7pm. Support email (spreadsheet): rsgservice@refsg.com.
-    Warranty (spreadsheet): 1-800-388-5253. Parent (spreadsheet): Refrigerated Solutions
-    Group (RSG) / Standex. Spreadsheet notes: RSG parts & service 1-800-388-5253,
-    rsgservice@refsg.com per Master-Bilt warranty page; same team handles Norlake.'
+  notes: 'Successor route verified Oct 26, 2026: Standex sold the Refrigerated Solutions
+    Group (RSG - Master-Bilt + Nor-Lake) to Ten Oaks Group in 2020. RSG Technical
+    Services handles Master-Bilt and Nor-Lake equipment; reach it via rsgservice@refsg.com
+    and the service-request form at https://master-bilt.com/warranty/. Sales & Service
+    833-327-5991 per the warranty page footer. Parts via Parts Town (master distributor).
+    Hours: Tech Service 7:30am-4:30pm CST; Level 1 7am-7pm. The RSG tech-team toll-free
+    number is withheld here per the Oct 26, 2026 workbook decision - it is NOT published
+    in this file. Workbook source: https://master-bilt.com/warranty/.'
   source: https://master-bilt.com/warranty/
-  last_verified: '2026-10-24'
+  last_verified: '2026-10-26'
