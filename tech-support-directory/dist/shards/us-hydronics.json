@@ -25,6 +25,29 @@
       ]
     },
     {
+      "id": "heatlink",
+      "name": "HeatLink Group USA",
+      "website": "https://www.heatlink.com/",
+      "categories": [
+        "hydronics",
+        "plumbing"
+      ],
+      "support": [
+        {
+          "category": "hydronics",
+          "department": "Customer Support",
+          "phone": "+18003231545",
+          "country": "US",
+          "regions": [],
+          "timezone": null,
+          "last_verified": "2026-10-26",
+          "specialty_tags": [],
+          "notes": "HeatLink Group USA LLC, Collierville, TN. Canadian HQ numbers also published: 403-250-3432 and toll-free 800-661-5332. Radiant heating, PEX systems.",
+          "source": "https://www.phcppros.com/directories/364-buyer-s-guide/listing/169-heatlink-group-usa-llc"
+        }
+      ]
+    },
+    {
       "id": "imi-hydronic-engineering",
       "name": "IMI Hydronic Engineering (IMI Flow Design / TA / Pneumatex)",
       "website": "https://www.imiflowdesign.com/",
@@ -49,6 +72,50 @@
       ]
     },
     {
+      "id": "maid-o-mist",
+      "name": "Maid-O'-Mist",
+      "website": "https://maidmist.com",
+      "categories": [
+        "hydronics"
+      ],
+      "support": [
+        {
+          "category": "hydronics",
+          "department": "Customer Support",
+          "phone": "+17736857300",
+          "country": "US",
+          "regions": [],
+          "timezone": null,
+          "last_verified": "2026-10-26",
+          "specialty_tags": [],
+          "notes": "Automatic and manual air vents, float level controls. Email contact@maidmist.com.",
+          "source": "https://hello.nextsupply.ca/media/a9/43/96/Maid_O_Mist_No_66_Specification_Sheet.pdf?ts=1765193772"
+        }
+      ]
+    },
+    {
+      "id": "myson",
+      "name": "Myson",
+      "website": null,
+      "categories": [
+        "hydronics"
+      ],
+      "support": [
+        {
+          "category": "hydronics",
+          "department": "Customer Support",
+          "phone": "+18006989690",
+          "country": "US",
+          "regions": [],
+          "timezone": null,
+          "last_verified": "2026-10-26",
+          "specialty_tags": [],
+          "notes": "Myson (Rettig USA Inc., Williston VT, 45 Krupp Drive); manuals say 'consult Myson at 1-800-698-9690'; parent Rettig USA / Purmo Group.",
+          "source": "https://manuals.plus/m/71227b78b0198b32dfe2647ac4663a0bdd6e96a70d2564717f3bed99c665856a"
+        }
+      ]
+    },
+    {
       "id": "smith-cast-iron",
       "name": "Smith Cast Iron Boilers",
       "website": "https://smithboiler.com/",
@@ -68,6 +135,50 @@
           "specialty_tags": [],
           "notes": "Customer service line on Smith Cast Iron Boilers contact information.",
           "source": "https://smithboiler.com/contact/"
+        }
+      ]
+    },
+    {
+      "id": "warmup",
+      "name": "\"Warmup\"",
+      "website": "https://www.warmup.com",
+      "categories": [
+        "hydronics"
+      ],
+      "support": [
+        {
+          "category": "hydronics",
+          "department": "Technical Support",
+          "phone": "+18889276333",
+          "country": "US",
+          "regions": [],
+          "timezone": null,
+          "last_verified": "2026-10-26",
+          "specialty_tags": [],
+          "notes": "Installer support page: technical support line available 24/7, all year round. Email ussales@warmup.com. Electric floor heating.",
+          "source": "https://www.warmup.com/installers"
+        }
+      ]
+    },
+    {
+      "id": "watts-radiant",
+      "name": "\"Watts Radiant\"",
+      "website": "https://www.watts.com",
+      "categories": [
+        "hydronics"
+      ],
+      "support": [
+        {
+          "category": "hydronics",
+          "department": "Technical Support",
+          "phone": "+18002762419",
+          "country": "US",
+          "regions": [],
+          "timezone": null,
+          "last_verified": "2026-10-26",
+          "specialty_tags": [],
+          "notes": "Watts Water Technologies company; Springfield MO; local 417-864-6108. Distinct number from the watts file, so its own file. Radiant heating.",
+          "source": "https://www.watts.com/dfsmedia/0533dbba17714b1ab581ab07a4cbb521/46012-source%7D"
         }
       ]
     }

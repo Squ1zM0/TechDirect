@@ -46,6 +46,28 @@
       ]
     },
     {
+      "id": "brinmar",
+      "name": "Brinmar",
+      "website": "https://brinmar.com",
+      "categories": [
+        "hvac"
+      ],
+      "support": [
+        {
+          "category": "hvac",
+          "department": "Customer Support",
+          "phone": "+18884546627",
+          "country": "CA",
+          "regions": [],
+          "timezone": null,
+          "last_verified": "2026-10-26",
+          "specialty_tags": [],
+          "notes": "Brinmar Limited, 91A Carlauren Road, Vaughan, Ontario, Canada, maker of air-conditioner covers (limited lifetime warranty) and compressor sound blankets (10-year warranty) since 1975. Canadian company; the published toll-free line is North-America-wide. Local line 905-265-0172 also published.",
+          "source": "https://brinmar.com/pages/warranty-returns"
+        }
+      ]
+    },
+    {
       "id": "camus-hydronics",
       "name": "Camus Hydronics",
       "website": "https://camus-hydronics.com/",
@@ -86,6 +108,28 @@
           "specialty_tags": [],
           "notes": "Toll-free number listed for Nu-Air Ventilation (Canada; used across North America).",
           "source": "ACHR News HVACR directory / Nu-Air contact info"
+        }
+      ]
+    },
+    {
+      "id": "respicaire",
+      "name": "Respicaire",
+      "website": "https://respicaire.com/",
+      "categories": [
+        "hvac"
+      ],
+      "support": [
+        {
+          "category": "hvac",
+          "department": "Customer Support",
+          "phone": "+14166150214",
+          "country": "CA",
+          "regions": [],
+          "timezone": null,
+          "last_verified": "2026-10-26",
+          "specialty_tags": [],
+          "notes": "Respicaire, 746 Warden Ave, Toronto, ON. Mon-Fri 8:00 am-4:30 pm. Canadian line; no US line was published, so none is invented. HVAC IAQ: air purifiers, UV air treatment.",
+          "source": "respicaire.com product page"
         }
       ]
     },

@@ -2,6 +2,28 @@
   "version": "2026-10-26",
   "manufacturers": [
     {
+      "id": "a-gas",
+      "name": "A-Gas",
+      "website": "https://www.agas.com",
+      "categories": [
+        "hvac"
+      ],
+      "support": [
+        {
+          "category": "hvac",
+          "department": "Customer Support",
+          "phone": "+18003721301",
+          "country": "US",
+          "regions": [],
+          "timezone": null,
+          "last_verified": "2026-10-26",
+          "specialty_tags": [],
+          "notes": "A-Gas US customer services number published on agas.com US pages (refrigerant supply, recovery and reclamation; Bowling Green OH and Rhome TX facilities).",
+          "source": "https://www.agas.com/us/resources/penguin-certified-reclaimed-refrigerants/"
+        }
+      ]
+    },
+    {
       "id": "a-o-smith",
       "name": "A. O. Smith Water Products",
       "website": "https://www.hotwater.com/support/contact-tech-support.html",
@@ -64,6 +86,28 @@
           "specialty_tags": [],
           "notes": "Service and tech support line listed on AAON contact page.",
           "source": "aaon.com contact"
+        }
+      ]
+    },
+    {
+      "id": "ace-chemical",
+      "name": "ACE Chemical",
+      "website": "https://acechempro.com/",
+      "categories": [
+        "hvac"
+      ],
+      "support": [
+        {
+          "category": "hvac",
+          "department": "Customer Support",
+          "phone": "+18009292436",
+          "country": "US",
+          "regions": [],
+          "timezone": null,
+          "last_verified": "2026-10-26",
+          "specialty_tags": [],
+          "notes": "ACE Chemical (Atlantic Chemical & Equipment Company), 3471 Atlanta Industrial Parkway, Suite 200, Atlanta, GA 30331. Manufacturer of HVAC/R chemicals: coil cleaners, degreasers, leak detection, boiler treatments. Direct line (404) 505-6626 also published on the manufacturer's own safety data sheets. Category note: chemicals have no exact vocabulary term; hvac is closest, as the line is HVAC/R chemicals. Not ACE Chemicals of South Africa, nor Ace Chemicals of New Brunswick, NJ.",
+          "source": "https://acechempro.com/wp-content/uploads/2020/12/aceecokleenekc.msds_.pdf"
         }
       ]
     },
@@ -134,6 +178,50 @@
       ]
     },
     {
+      "id": "aftermarket-specialties",
+      "name": "Aftermarket Specialties",
+      "website": null,
+      "categories": [
+        "hvac"
+      ],
+      "support": [
+        {
+          "category": "hvac",
+          "department": "Customer Support",
+          "phone": "+16788192274",
+          "country": "US",
+          "regions": [],
+          "timezone": null,
+          "last_verified": "2026-10-26",
+          "specialty_tags": [],
+          "notes": "Aftermarket Specialties, Inc. (ASI), 980 Cobb Place Blvd NW, Kennesaw, GA 30144. International distributor of rotary and reciprocating compressors, condensing units, run capacitors and chemicals for the air conditioning, heating and refrigeration industry, plus air quality and zone management products. Matches the xref category 'HVAC aftermarket parts'. NOT the Mabscott, WV automotive shop of the same name.",
+          "source": "https://akama.com/company/Aftermarket_Specialties_Inc_afb0577255.html"
+        }
+      ]
+    },
+    {
+      "id": "air-care",
+      "name": "Air-Care",
+      "website": "https://www.air-care.com",
+      "categories": [
+        "hvac"
+      ],
+      "support": [
+        {
+          "category": "hvac",
+          "department": "Customer Support",
+          "phone": "+17024545515",
+          "country": "US",
+          "regions": [],
+          "timezone": null,
+          "last_verified": "2026-10-26",
+          "specialty_tags": [],
+          "notes": "Air-Care, a division of D.P.L. Enterprises Inc., 3868 East Post Road, Las Vegas, NV 89120. Founded 1979; manufacturer of air duct cleaning equipment, electrostatic and HEPA filters, and UV air-purification systems. Email sales@air-care.com; fax (702) 454-5225 also published.",
+          "source": "https://manuals.plus/st/category/air-care"
+        }
+      ]
+    },
+    {
       "id": "airease",
       "name": "AirEase",
       "website": null,
@@ -174,6 +262,28 @@
           "specialty_tags": [],
           "notes": "Airedale (US) service/technical support line (Engineered Air, LLC d/b/a Airedale",
           "source": "Engineered Air, LLC LinkedIn company page (Airedale contact)"
+        }
+      ]
+    },
+    {
+      "id": "airex-manufacturing",
+      "name": "Airex Manufacturing",
+      "website": "https://airexmfg.com",
+      "categories": [
+        "hvac"
+      ],
+      "support": [
+        {
+          "category": "hvac",
+          "department": "Customer Support",
+          "phone": "+17603432277",
+          "country": "US",
+          "regions": [],
+          "timezone": "PT",
+          "last_verified": "2026-10-26",
+          "specialty_tags": [],
+          "notes": "Airex Manufacturing Inc., 72170 Dunham Way, Suite D, Thousand Palms, CA 92276. HVACR insulation protection products (E-Flex Guard, Pro-System kits) for refrigerant and piping insulation. Email customerservice@airexmfg.com; fax (760) 343-5599 also published. NOT Airex AG (Swiss foam core material) and NOT Airex Corporation of Hudson, NH (filters).",
+          "source": "https://airexmfg.com/prosystem/"
         }
       ]
     },
@@ -288,6 +398,28 @@
       ]
     },
     {
+      "id": "allstyle-coil",
+      "name": "Allstyle Coil",
+      "website": "https://www.allstyle.com",
+      "categories": [
+        "hvac"
+      ],
+      "support": [
+        {
+          "category": "hvac",
+          "department": "Customer Support",
+          "phone": "+17134666333",
+          "country": "US",
+          "regions": [],
+          "timezone": null,
+          "last_verified": "2026-10-26",
+          "specialty_tags": [],
+          "notes": "Allstyle Coil Company, L.P., 7037 Brittmoore Road, Houston, TX 77041. Residential and commercial evaporator coils, hydronic coils, air handlers, plenum coils, fan coils and mobile-home HVAC products since 1989/1990; number printed on the manufacturer's own product literature (fax (713) 466-6363). A third-party directory lists an 800-643-7701 number, but the number on the manufacturer's own spec sheets is used.",
+          "source": "https://library.coburns.com/specs/ALLSTYLE-VLCOIL.PDF"
+        }
+      ]
+    },
+    {
       "id": "amana-hac",
       "name": "Amana Heating & Air Conditioning",
       "website": "https://www.amana-hac.com/about-us/contact-us",
@@ -329,6 +461,28 @@
           "specialty_tags": [],
           "notes": "Wilo USA main line (covers Wilo brands including American-Marsh).",
           "source": "https://wilo.com/us/en_us/About-Wilo/Company-Information/Contact-Us/"
+        }
+      ]
+    },
+    {
+      "id": "american-metal-filter",
+      "name": "American Metal Filter",
+      "website": "https://amfco.com/",
+      "categories": [
+        "hvac"
+      ],
+      "support": [
+        {
+          "category": "hvac",
+          "department": "Customer Support",
+          "phone": "+16196281917",
+          "country": "US",
+          "regions": [],
+          "timezone": null,
+          "last_verified": "2026-10-26",
+          "specialty_tags": [],
+          "notes": "American Metal Filter Company, 611 Marsat Ct, Chula Vista, CA 91911, with a second plant in Nashville, TN. Metal air filters and housings for OEMs and aftermarket HVAC wholesalers since 1986; wholesale number published on the manufacturer's own site ('Wholesale Filters Available: 619-628-1917'). No exact vocabulary term covers filters; hvac is the closest (air filtration for HVAC). Covers the xref spelling American Metal Filter Co.",
+          "source": "https://amfco.com/"
         }
       ]
     },
@@ -396,6 +550,28 @@
           "specialty_tags": [],
           "notes": "Hydronic expansion tanks / heating systems product support line.",
           "source": "https://www.amtrol.com/resources-rewards/technical-support/"
+        }
+      ]
+    },
+    {
+      "id": "anchor-products",
+      "name": "Anchor Products",
+      "website": null,
+      "categories": [
+        "hvac"
+      ],
+      "support": [
+        {
+          "category": "hvac",
+          "department": "Customer Support",
+          "phone": "+18885752131",
+          "country": "US",
+          "regions": [],
+          "timezone": null,
+          "last_verified": "2026-10-26",
+          "specialty_tags": [],
+          "notes": "Rooftop securement attachments (U-Anchor 2000/3000 Series) for HVAC units, pipe, conduit, solar racking and duct, Haltom City TX (6316 Airport Fwy, founded 2010). Line published on anchorp.com; office hours Mon-Fri 8am-5pm CT.",
+          "source": "https://www.anchorp.com/3000seriesanchors"
         }
       ]
     },
@@ -510,6 +686,50 @@
       ]
     },
     {
+      "id": "arkema",
+      "name": "Arkema",
+      "website": null,
+      "categories": [
+        "hvac"
+      ],
+      "support": [
+        {
+          "category": "hvac",
+          "department": "Customer Support",
+          "phone": "+16102057000",
+          "country": "US",
+          "regions": [],
+          "timezone": null,
+          "last_verified": "2026-10-26",
+          "specialty_tags": [],
+          "notes": "Specialty chemicals manufacturer (incl. refrigerants/fluoropolymers used in HVAC). US headquarters general line published on arkema.com's King of Prussia HQ page. No chemicals category exists in the TechDirect vocabulary; hvac is used as the closest term given the refrigerant line.",
+          "source": "https://www.arkema.com/usa/en/united-states/headquarters/king-of-prussia-pa-hq/"
+        }
+      ]
+    },
+    {
+      "id": "armaflex",
+      "name": "ArmaFlex",
+      "website": null,
+      "categories": [
+        "hvac"
+      ],
+      "support": [
+        {
+          "category": "hvac",
+          "department": "Customer Support",
+          "phone": "+18008665638",
+          "country": "US",
+          "regions": [],
+          "timezone": null,
+          "last_verified": "2026-10-26",
+          "specialty_tags": [],
+          "notes": "Flexible elastomeric pipe and duct insulation (AP/ArmaFlex, ArmaFlex Coil, ArmaFlex Shield), a brand of Armacell, Charlotte NC (5605 Carnegie Blvd Ste 100). Insulation line published on armacell.com; component foams line 800-973-0490 and info.AI.US@armacell.com also published. Armacell itself has no TechDirect file, so this file carries the ArmaFlex brand with the Armacell contact.",
+          "source": "https://www.armacell.com/en-US/aparmaflex-w"
+        }
+      ]
+    },
+    {
       "id": "armstrong-air",
       "name": "Armstrong Air",
       "website": "https://www.armstrongair.com/contact/",
@@ -588,6 +808,28 @@
       ]
     },
     {
+      "id": "aspen-refrigerants",
+      "name": "Aspen Refrigerants",
+      "website": null,
+      "categories": [
+        "hvac"
+      ],
+      "support": [
+        {
+          "category": "hvac",
+          "department": "Customer Support",
+          "phone": "+18004733766",
+          "country": "US",
+          "regions": [],
+          "timezone": null,
+          "last_verified": "2026-10-26",
+          "specialty_tags": [],
+          "notes": "Refrigerant supplier, Long Island City NY. Toll-free line published in a TIPS-USA vendor contract document for Aspen Refrigerants, Inc.; office line 718-392-8002 also published.",
+          "source": "https://tips-usa.com/assets/Vendorspdf/180603_Vehicle_Parts_Supplies_Equip_Contract_Aspen_Refrig_Inc.pdf"
+        }
+      ]
+    },
+    {
       "id": "atmosair",
       "name": "AtmosAir Solutions",
       "website": "https://atmosair.com/",
@@ -640,6 +882,28 @@
           "specialty_tags": [],
           "notes": "General customer support line (manufacturer spreadsheet, Oct 2026).",
           "source": "https://www.msasafety.com"
+        }
+      ]
+    },
+    {
+      "id": "bally-refrigerated-boxes",
+      "name": "Bally Refrigerated Boxes",
+      "website": null,
+      "categories": [
+        "hvac"
+      ],
+      "support": [
+        {
+          "category": "hvac",
+          "department": "Parts and Service",
+          "phone": "+18003449302",
+          "country": "US",
+          "regions": [],
+          "timezone": null,
+          "last_verified": "2026-10-26",
+          "specialty_tags": [],
+          "notes": "Walk-in coolers, freezers and refrigerated buildings, Morehead City NC. Parts and Service Hotline published in Bally installation manuals; main line 252-240-2829 also published.",
+          "source": "https://www.manualsdir.com/manuals/582244/bally-refrigerated-boxes-walk-in-installation-manual.html?page=2"
         }
       ]
     },
@@ -718,6 +982,28 @@
           "specialty_tags": [],
           "notes": "Bard Technical Service line listed on Bard product literature/support resources.",
           "source": "https://www.bardhvac.com/literature/ (official)"
+        }
+      ]
+    },
+    {
+      "id": "bay-cities-metal-products",
+      "name": "Bay Cities Metal Products",
+      "website": null,
+      "categories": [
+        "hvac"
+      ],
+      "support": [
+        {
+          "category": "hvac",
+          "department": "Customer Support",
+          "phone": "+13106600351",
+          "country": "US",
+          "regions": [],
+          "timezone": null,
+          "last_verified": "2026-10-26",
+          "specialty_tags": [],
+          "notes": "Sheet-metal building products (roofing, gutters, HVAC duct/pipes/elbows, ventilators), HQ Gardena CA (301 E Alondra Blvd, founded 1958); branch lines Manteca CA 209-721-8910 and Phoenix AZ 602-345-9190 also published. Sells exclusively through distribution.",
+          "source": "https://www.signalhire.com/companies/bay-cities-metal-products"
         }
       ]
     },
@@ -911,6 +1197,52 @@
       ]
     },
     {
+      "id": "bradleys-hermetics",
+      "name": "Bradleys Hermetics",
+      "website": "https://www.bradleyshermetics.com",
+      "categories": [
+        "hvac"
+      ],
+      "support": [
+        {
+          "category": "hvac",
+          "department": "Customer Support",
+          "phone": "+13618549833",
+          "country": "US",
+          "regions": [],
+          "timezone": null,
+          "last_verified": "2026-10-26",
+          "specialty_tags": [],
+          "notes": "Bradleys Hermetics, Inc., 6501 Robertson Dr, Corpus Christi, TX 78415, ISO 9001 supplier (est. 1964) of aftermarket parts for industrial air-conditioning and refrigeration semi-hermetic compressors: terminals and terminal kits, seals, valves, bearings, pistons and overload-protection sensors. Toll-free 800-531-3120 also published. Covers xref variant Bradleys' Hermetics, Inc.",
+          "source": "https://www.thomasnet.com/company/bradleys-hermetics-inc-10005667/profile"
+        }
+      ]
+    },
+    {
+      "id": "bramec",
+      "name": "Bramec",
+      "website": "https://bramec.com",
+      "categories": [
+        "hvac",
+        "plumbing",
+        "electrical"
+      ],
+      "support": [
+        {
+          "category": "hvac",
+          "department": "Customer Support",
+          "phone": "+18008439974",
+          "country": "US",
+          "regions": [],
+          "timezone": null,
+          "last_verified": "2026-10-26",
+          "specialty_tags": [],
+          "notes": "Bramec Corporation, 403 Highway 105, North Sioux City, SD 57049, master distributor of parts and supplies for the air conditioning, heating, refrigeration and plumbing industries, plus electrical conduit and fittings. Toll-free line from bramec.com product pages; general-assistance line 605-232-4311 also published on Bramec safety data sheets. Email bramecsales@bramec.com. Support entry filed under hvac (the company's lead trade); plumbing and electrical lines noted here.",
+          "source": "https://bramec.com/index.php/product/wiring-tacker-2/"
+        }
+      ]
+    },
+    {
       "id": "bristol-compressors",
       "name": "Bristol Compressors",
       "website": null,
@@ -929,6 +1261,50 @@
           "specialty_tags": [],
           "notes": "Imported from verified manufacturer spreadsheet (Oct 2026). Tech/support",
           "source": "https://www.scribd.com/document/367197009/Bristol-Compressor-G-Series"
+        }
+      ]
+    },
+    {
+      "id": "bromic",
+      "name": "Bromic",
+      "website": "https://www.bromic.com/heating",
+      "categories": [
+        "hvac"
+      ],
+      "support": [
+        {
+          "category": "hvac",
+          "department": "Customer Support",
+          "phone": "+18003011293",
+          "country": "US",
+          "regions": [],
+          "timezone": null,
+          "last_verified": "2026-10-26",
+          "specialty_tags": [],
+          "notes": "Bromic Heating, head office Ingleburn NSW, Australia, maker of Platinum, Tungsten and Eclipse Smart-Heat gas and electric outdoor heaters. Australian company; the US toll-free line from Bromic's own installation manuals is used here. Australian line 1300 276 642 not published as a US contact.",
+          "source": "https://manualsfile.com/product/k5bcqib1wp5.html"
+        }
+      ]
+    },
+    {
+      "id": "brookaire",
+      "name": "Brookaire",
+      "website": "https://www.brookaire.com",
+      "categories": [
+        "hvac"
+      ],
+      "support": [
+        {
+          "category": "hvac",
+          "department": "Customer Support",
+          "phone": "+18002953047",
+          "country": "US",
+          "regions": [],
+          "timezone": "ET",
+          "last_verified": "2026-10-26",
+          "specialty_tags": [],
+          "notes": "Brookaire Company, 17-02 Nevins Road, Fair Lawn, NJ 07410, third-generation family manufacturer and distributor of commercial HVAC air filters since 1974, with distribution centers in NJ, PA, MN and MA. Hours Mon-Fri 7 AM-5 PM. Email sales@brookaire.com. Local line 973-473-7527 also published.",
+          "source": "https://www.brookaire.com/industries"
         }
       ]
     },
@@ -1018,6 +1394,28 @@
           "specialty_tags": [],
           "notes": "Technical Services Hotline for Burnham Hydronics boilers; option 1 referenced",
           "source": "Burnham Hydronics product sheet (hotline options)"
+        }
+      ]
+    },
+    {
+      "id": "bva-oils",
+      "name": "BVA",
+      "website": "https://www.bvaoils.com",
+      "categories": [
+        "hvac"
+      ],
+      "support": [
+        {
+          "category": "hvac",
+          "department": "Customer Support",
+          "phone": "+12483484920",
+          "country": "US",
+          "regions": [],
+          "timezone": null,
+          "last_verified": "2026-10-26",
+          "specialty_tags": [],
+          "notes": "BVA Inc., New Hudson/Commerce Township, MI, founded 1983 by Robert Vincent, independent manufacturer of compressor and refrigeration lubricants (mineral, alkylbenzene and POE oils, Auto 100). Per the xref correction note, BVA is CURRENT and INDEPENDENT; Johnstone ACE Chemical/Nu-Calgon facets are distribution mapping, not acquisition, and the American Chemical Exchange (ACE) acquired in 2008 is a different company. Customer Service line printed on BVA safety data sheets.",
+          "source": "https://contentassets.autozone.com/safety_data_sheet/USA/1349431.pdf"
         }
       ]
     },
@@ -1189,6 +1587,28 @@
       ]
     },
     {
+      "id": "carlisle-hvac-products",
+      "name": "Carlisle HVAC Products",
+      "website": "https://www.supplyhouse.com/product_files/Hardcast-Carlisle-304142-Submittal-Sheet.pdf?srsltid=AfmBOoraDrJhs_MI0PJoChFVQp0s32or_zG7q_daJ-PXB5OT2519r9AC",
+      "categories": [
+        "hvac"
+      ],
+      "support": [
+        {
+          "category": "hvac",
+          "department": "Customer Support",
+          "phone": "+18774954822",
+          "country": "US",
+          "regions": [],
+          "timezone": null,
+          "last_verified": "2026-10-26",
+          "specialty_tags": [],
+          "notes": "Carlisle HVAC Products USA line published on current (2024) Carlisle/Hardcast technical data sheets (Wylie, TX). Hardcast duct sealants, DynAir airflow hardware and Nexus flange systems; parent Carlisle Companies per xref, with Hardcast as the product line. Older Carlisle literature also lists a technical assistance line; the TDS USA line above is the current general contact.",
+          "source": "https://www.supplyhouse.com/product_files/Hardcast-Carlisle-304142-Submittal-Sheet.pdf?srsltid=AfmBOoraDrJhs_MI0PJoChFVQp0s32or_zG7q_daJ-PXB5OT2519r9AC"
+        }
+      ]
+    },
+    {
       "id": "carlyle",
       "name": "Carlyle",
       "website": null,
@@ -1207,6 +1627,29 @@
           "specialty_tags": [],
           "notes": "Imported from verified manufacturer spreadsheet (Oct 2026). Carlyle Service Guide 06D/06E/06CC",
           "source": "https://econtent.adhq.com/dam/Original/126/Carrier_RCD_05GA502213_Catalog.pdf"
+        }
+      ]
+    },
+    {
+      "id": "carnes",
+      "name": "Carnes",
+      "website": "https://www.carnes.com",
+      "categories": [
+        "hvac",
+        "airflow"
+      ],
+      "support": [
+        {
+          "category": "hvac",
+          "department": "Customer Support",
+          "phone": "+16088456411",
+          "country": "US",
+          "regions": [],
+          "timezone": null,
+          "last_verified": "2026-10-26",
+          "specialty_tags": [],
+          "notes": "Carnes Company general line (Verona, WI), published in Carnes manuals; not labelled technical support, so recorded as Customer Support. Email carnes@carnes.com. HVAC fans, ventilation and energy recovery.",
+          "source": "https://carnes.com/GeneralCatalogs/26049.pdf"
         }
       ]
     },
@@ -1323,6 +1766,95 @@
       ]
     },
     {
+      "id": "casablanca-fan",
+      "name": "Casablanca Fan",
+      "website": "https://manualmachine.com/casablanca/54002/1252060-user-manual/",
+      "categories": [
+        "hvac",
+        "airflow"
+      ],
+      "support": [
+        {
+          "category": "hvac",
+          "department": "Customer Support",
+          "phone": "+18882272178",
+          "country": "US",
+          "regions": [],
+          "timezone": null,
+          "last_verified": "2026-10-26",
+          "specialty_tags": [],
+          "notes": "Casablanca Fan Company's own published support line, printed in Casablanca manuals (www.CasablancaFanCo.com). Casablanca is a Hunter Fan Company brand with a distinct published Casablanca number; current Hunter-hosted Casablanca pages also route to Hunter's 1-888-830-1326 line. Also covers xref spelling 'CASABLANCA' (same brand). Ceiling fans.",
+          "source": "https://manualmachine.com/casablanca/54002/1252060-user-manual/"
+        }
+      ]
+    },
+    {
+      "id": "cdi-custom-curb-adapters",
+      "name": "CDI Custom Curb Adapters",
+      "website": "http://www.cdicurbs.com/",
+      "categories": [
+        "hvac"
+      ],
+      "support": [
+        {
+          "category": "hvac",
+          "department": "Customer Support",
+          "phone": "+18882347001",
+          "country": "US",
+          "regions": [],
+          "timezone": null,
+          "last_verified": "2026-10-26",
+          "specialty_tags": [],
+          "notes": "CDI (Crystal Distribution, Inc.), founded 1994, Elk River, MN; manufacturer of HVAC curb adapters, isolation/seismic curbs and accessories, with plants in Minneapolis, Dallas, Seattle, Charlotte and Phoenix. Toll-free 1-888-234-7001 published as the company number; HQ line (763) 391-7790 also published. Covers xref spelling 'CDI Custom Curb Adapters' only; the separate xref row 'CDI' (Electrical; connectors, components) is NOT merged here because its category does not match this HVAC curb manufacturer and is flagged NEEDS-HUMAN in the batch report.",
+          "source": "https://www.signalhire.com/companies/cdi-custom-curb-adapters"
+        }
+      ]
+    },
+    {
+      "id": "cellarcool",
+      "name": "CellarCool",
+      "website": "https://www.cellarcool.com/wp-content/uploads/2023/08/CC-Ultimate-R-OM-042523-24V.pdf",
+      "categories": [
+        "hvac"
+      ],
+      "support": [
+        {
+          "category": "hvac",
+          "department": "Technical Support",
+          "phone": "+18003439463",
+          "country": "US",
+          "regions": [],
+          "timezone": null,
+          "last_verified": "2026-10-26",
+          "specialty_tags": [],
+          "notes": "CellarCool wine cellar cooling units (Stockton, CA). Line published in CellarCool manuals as 'Tech Support & Customer Service: 1-800-343-9463' and 'Customer Service & Technical Support: 1-800-343-9463'. Local line (209) 466-9463 and a separate sales/sizing line 1-855-235-5271 also published.",
+          "source": "https://www.cellarcool.com/wp-content/uploads/2023/08/CC-Ultimate-R-OM-042523-24V.pdf"
+        }
+      ]
+    },
+    {
+      "id": "centrotherm",
+      "name": "Centrotherm",
+      "website": "https://www.centrotherm.us.com/products/innoflue-polypropylene-vent-systems/concentric/terminations",
+      "categories": [
+        "hvac"
+      ],
+      "support": [
+        {
+          "category": "hvac",
+          "department": "Customer Support",
+          "phone": "+15184343400",
+          "country": "US",
+          "regions": [],
+          "timezone": null,
+          "last_verified": "2026-10-26",
+          "specialty_tags": [],
+          "notes": "Centrotherm Eco Systems LLC (Waterford, NY) line published on centrotherm.us.com product pages; customer service team per the same pages. Email info@centrotherm.us.com. A toll-free 877-434-3432 also appears in older Centrotherm literature. InnoFlue polypropylene venting systems.",
+          "source": "https://www.centrotherm.us.com/products/innoflue-polypropylene-vent-systems/concentric/terminations"
+        }
+      ]
+    },
+    {
       "id": "century",
       "name": "Century",
       "website": null,
@@ -1341,6 +1873,28 @@
           "specialty_tags": [],
           "notes": "Imported from verified manufacturer spreadsheet (Oct 2026). Tech/support",
           "source": "https://www.regalrexnord.com/en/brands/century/Contact"
+        }
+      ]
+    },
+    {
+      "id": "chamflex",
+      "name": "ChamFlex",
+      "website": "https://chamflex.com/wp-content/uploads/2023/11/chamflex-hose-assemblies-quick-connect-system-submittal-2-17_001-1.pdf",
+      "categories": [
+        "hvac"
+      ],
+      "support": [
+        {
+          "category": "hvac",
+          "department": "Customer Support",
+          "phone": "+15854277780",
+          "country": "US",
+          "regions": [],
+          "timezone": null,
+          "last_verified": "2026-10-26",
+          "specialty_tags": [],
+          "notes": "ChamFlex hose assemblies are a brand of Chamberlin Rubber Company, Inc., Rochester, NY; support is via Chamberlin Rubber at (585) 427-7780 as published on ChamFlex submittals. Hose assemblies for water/glycol (not rated for potable water). ChamFlex has no distinct support contact of its own, so the parent company's published number is staged with that lineage stated.",
+          "source": "https://chamflex.com/wp-content/uploads/2023/11/usa-9101-for-web.pdf"
         }
       ]
     },
@@ -1443,6 +1997,28 @@
           "specialty_tags": [],
           "notes": "Cleaver-Brooks customer service line used for parts/service routing for boiler",
           "source": "cleaverbrooks.com/contactus"
+        }
+      ]
+    },
+    {
+      "id": "clenair",
+      "name": "ClenAir",
+      "website": "https://nucalgon.com/products/indoor-air-quality/clenair-odor-neutralizer-liquids/",
+      "categories": [
+        "hvac"
+      ],
+      "support": [
+        {
+          "category": "hvac",
+          "department": "Customer Support",
+          "phone": "+18005545499",
+          "country": "US",
+          "regions": [],
+          "timezone": null,
+          "last_verified": "2026-10-26",
+          "specialty_tags": [],
+          "notes": "ClenAir odor neutralizers (tubs, sprays, HVAC odor blocks) are a Nu-Calgon brand line; support via Nu-Calgon. Nu-Calgon has no TechDirect file in this batch's reference, so the line stages here with the manufacturer's published support line. An older ClenAir Mfg. Inc. SDS lists 888-764-2110 for the former standalone entity.",
+          "source": "https://nucalgon.com/products/indoor-air-quality/clenair-odor-neutralizer-liquids/"
         }
       ]
     },
@@ -1592,6 +2168,28 @@
       ]
     },
     {
+      "id": "columbus-industries",
+      "name": "Columbus Industries",
+      "website": "https://www.colind.com/",
+      "categories": [
+        "hvac"
+      ],
+      "support": [
+        {
+          "category": "hvac",
+          "department": "Customer Support",
+          "phone": "+17409832552",
+          "country": "US",
+          "regions": [],
+          "timezone": null,
+          "last_verified": "2026-10-26",
+          "specialty_tags": [],
+          "notes": "Columbus Industries, Inc., Ashville, OH (since 1965); air filters — expanded metal, charcoal, high-efficiency, furnace, paint-collector and humidifier-pad filters (CI and FITS trademarks). Number per the company's own site and catalogs; West Union, OH production facility line (937) 544-6896 also published. Note: BBB lists the company as believed out of business, but the company's own site (colind.com / columbusindustries.com) is live with the same number, so the BBB flag is recorded as unverified/conflicting, not as a closure.",
+          "source": "https://www.columbusindustries.com/"
+        }
+      ]
+    },
+    {
       "id": "comfort-aire",
       "name": "Comfort-Aire",
       "website": null,
@@ -1680,6 +2278,28 @@
       ]
     },
     {
+      "id": "continental-refrigerator",
+      "name": "Continental Refrigerator",
+      "website": "https://www.continentalrefrigerator.com",
+      "categories": [
+        "hvac"
+      ],
+      "support": [
+        {
+          "category": "hvac",
+          "department": "Service Department",
+          "phone": "+18005237138",
+          "country": "US",
+          "regions": [],
+          "timezone": "ET",
+          "last_verified": "2026-10-26",
+          "specialty_tags": [],
+          "notes": "Continental Refrigerator Service Department (Bensalem, PA) for commercial refrigeration cabinets. No separate refrigeration category exists in the vocabulary, so hvac is the closest. Service email in current manuals: continental-service@nrac.com; older manuals list service@continentalrefrigerator.com.",
+          "source": "https://www.manualshelf.com/manual/continental-refrigerator/d27n8fb/owners-manual-german-english/page-18.html"
+        }
+      ]
+    },
+    {
       "id": "cooper-hunter",
       "name": "Cooper & Hunter",
       "website": null,
@@ -1732,6 +2352,28 @@
           "specialty_tags": [],
           "notes": "Copeland technical support for contractors and technicians working with HVAC and refrigeration compressors. For Copeland brands like White-Rodgers or Vilter, see separate entries.",
           "source": "https://www.copeland.com/en-us/training-support/technical-support"
+        }
+      ]
+    },
+    {
+      "id": "cozy",
+      "name": "Cozy Heating Systems",
+      "website": "https://cozyheaters.com",
+      "categories": [
+        "hvac"
+      ],
+      "support": [
+        {
+          "category": "hvac",
+          "department": "Customer Support",
+          "phone": "+18884441212",
+          "country": "US",
+          "regions": [],
+          "timezone": null,
+          "last_verified": "2026-10-26",
+          "specialty_tags": [],
+          "notes": "Cozy Heating Systems, LLC (Colton, CA) general company phone per its own wall-furnace manuals; wall furnaces and heaters. The number is published as a general contact, not labelled technical support.",
+          "source": "https://www.prowaterheatersupply.com/PDFS/Cozy_Direct_Vent_Wall_Furnace_CDV155C_CDV255C_CDV335C_CDV156C_CDV256C_CDV336C_Manual.pdf?srsltid=AfmBOop9TlAtanJoZQgPViznhjfg-eaanjAGtfc3pL5YLPxqcDRrKm-y"
         }
       ]
     },
@@ -1868,6 +2510,28 @@
       ]
     },
     {
+      "id": "dayton",
+      "name": "Dayton",
+      "website": "https://www.grainger.com",
+      "categories": [
+        "hvac"
+      ],
+      "support": [
+        {
+          "category": "hvac",
+          "department": "Repair Parts",
+          "phone": "+18003230620",
+          "country": "US",
+          "regions": [],
+          "timezone": null,
+          "last_verified": "2026-10-26",
+          "specialty_tags": [],
+          "notes": "Dayton is Grainger's private-label brand (motors, fans, blowers, ventilators); Dayton manuals direct repair-parts calls to Grainger Parts, 24 hours a day, 365 days a year. No standalone Dayton support line exists; support is via Grainger. An older Dayton Motor Hotline (888-286-5220) appeared in a 2001 CPSC recall notice only.",
+          "source": "https://new.grainger.ca/ec/pdf/6E815A-6E821A-Owners-Manual.pdf"
+        }
+      ]
+    },
+    {
       "id": "dectron",
       "name": "Dectron",
       "website": "https://dectron.com/",
@@ -1912,6 +2576,50 @@
       ]
     },
     {
+      "id": "dial-manufacturing",
+      "name": "Dial Manufacturing",
+      "website": "https://dialmfg.com",
+      "categories": [
+        "hvac"
+      ],
+      "support": [
+        {
+          "category": "hvac",
+          "department": "Customer Support",
+          "phone": "+18003503425",
+          "country": "US",
+          "regions": [],
+          "timezone": null,
+          "last_verified": "2026-10-26",
+          "specialty_tags": [],
+          "notes": "Dial Manufacturing, Inc. (Phoenix, AZ) customer service per its own cooler manuals (1-800-350-DIAL); email customerservice@dialmfg.com. Evaporative coolers, fans and related HVAC products.",
+          "source": "https://manuals.plus/dial/pec-a-2200-1rc-portable-evaporative-cooler-manual.pdf"
+        }
+      ]
+    },
+    {
+      "id": "dimplex",
+      "name": "Dimplex",
+      "website": "https://www.dimplex.com/customer_support",
+      "categories": [
+        "hvac"
+      ],
+      "support": [
+        {
+          "category": "hvac",
+          "department": "Technical Support",
+          "phone": "+18883467539",
+          "country": "US",
+          "regions": [],
+          "timezone": "ET",
+          "last_verified": "2026-10-26",
+          "specialty_tags": [],
+          "notes": "Dimplex electric fireplaces and heaters, by Glen Dimplex Americas. Technical support line published in Dimplex owner's manuals: Mon-Fri 8:00 AM - 4:30 PM EST; have model and serial number ready.",
+          "source": "https://www.dimplex.glendimplexamericas.com/sites/g/files/emiian436/files/downloads/DF3033ST_Owners_Manual_1.pdf"
+        }
+      ]
+    },
+    {
       "id": "dorin",
       "name": "Dorin",
       "website": null,
@@ -1930,6 +2638,28 @@
           "specialty_tags": [],
           "notes": "Imported from verified manufacturer spreadsheet (Oct 2026). US route published on Dorin''s",
           "source": "https://www.dorin.com/en/network-ww/america/US/"
+        }
+      ]
+    },
+    {
+      "id": "drake-refrigeration",
+      "name": "Drake Refrigeration",
+      "website": "https://www.drakechillers.com",
+      "categories": [
+        "hvac"
+      ],
+      "support": [
+        {
+          "category": "hvac",
+          "department": "Customer Support",
+          "phone": "+12156385515",
+          "country": "US",
+          "regions": [],
+          "timezone": null,
+          "last_verified": "2026-10-26",
+          "specialty_tags": [],
+          "notes": "Drake Refrigeration, Inc. (Bensalem, PA) industrial process chillers, 50+ years. Sales line; tech support/parts email drakeservice@drakechillers.com; toll-free 888-289-7299 also published. Distinct from the Toto Drake toilet line (parent-resolved to toto) and from Drake Refrigeration the Nebraska HVAC contractor.",
+          "source": "https://www.drakechillers.com/"
         }
       ]
     },
@@ -2000,6 +2730,28 @@
       ]
     },
     {
+      "id": "durastar",
+      "name": "Durastar",
+      "website": "https://www.durastar.com",
+      "categories": [
+        "hvac"
+      ],
+      "support": [
+        {
+          "category": "hvac",
+          "department": "Customer Support",
+          "phone": "+18883200706",
+          "country": "US",
+          "regions": [],
+          "timezone": null,
+          "last_verified": "2026-10-26",
+          "specialty_tags": [],
+          "notes": "Durastar mini-split and PTAC air conditioners (sold through distributors). Customer service line and email questions@durastar.com from the official owner's manuals and warranty documents; damaged-product claims go through the selling retailer/dealer first.",
+          "source": "https://www.durastar.com/wp-content/uploads/2023/10/Durastar-LimitedWarrantyPDFs-PTAC-r1.pdf"
+        }
+      ]
+    },
+    {
       "id": "duravent",
       "name": "DuraVent",
       "website": null,
@@ -2052,6 +2804,28 @@
           "specialty_tags": [],
           "notes": "Manufacturer-authored Dust Free 13070 Active Total Home Air Purification instruction manual:",
           "source": "https://manuals.plus/m/5caaf6f7665d1f8961f01eaf9fb4a2abe5c32bb447f0c29958f9acf1ebe6ebdf"
+        }
+      ]
+    },
+    {
+      "id": "easyheat",
+      "name": "EasyHeat",
+      "website": "https://www.easyheat.com",
+      "categories": [
+        "hvac"
+      ],
+      "support": [
+        {
+          "category": "hvac",
+          "department": "Technical Support",
+          "phone": "+18005456258",
+          "country": "US",
+          "regions": [],
+          "timezone": null,
+          "last_verified": "2026-10-26",
+          "specialty_tags": [],
+          "notes": "EasyHeat (nVent, formerly Emerson) electric heating cables and controls, including freeze-protection and floor-warming systems.",
+          "source": "https://manuals.plus/m/16748a34e3d666227d02eaec64d2825d35ba644877e6bb013377f4d683f9dd98"
         }
       ]
     },
@@ -2232,6 +3006,50 @@
       ]
     },
     {
+      "id": "esco-institute",
+      "name": "\"Esco Institute\"",
+      "website": "\"https://www.escogroup.org/training/epa608.aspx\"",
+      "categories": [
+        "hvac"
+      ],
+      "support": [
+        {
+          "category": "hvac",
+          "department": "Customer Support",
+          "phone": "+18007269696",
+          "country": "US",
+          "regions": [],
+          "timezone": "CT",
+          "last_verified": "2026-10-26",
+          "specialty_tags": [],
+          "notes": "ESCO Institute (ESCO Group), Mount Prospect IL. Official page directs callers to (800) 726-9696 to find a testing center. HVAC training and EPA 608 certification; hvac is the closest vocabulary term.",
+          "source": "https://www.escogroup.org/training/epa608.aspx"
+        }
+      ]
+    },
+    {
+      "id": "essick",
+      "name": "\"Essick\"",
+      "website": null,
+      "categories": [
+        "hvac"
+      ],
+      "support": [
+        {
+          "category": "hvac",
+          "department": "Customer Support",
+          "phone": "+18006438341",
+          "country": "US",
+          "regions": [],
+          "timezone": null,
+          "last_verified": "2026-10-26",
+          "specialty_tags": [],
+          "notes": "Essick Air Products (Champion Cooler), Little Rock AR. Legacy brand filed with its own published number, not merged into a successor. Hours 8:00 a.m.-5:00 p.m. CST Mon-Fri per a 2026 manufacturer reply. Email info@essickair.com. Evaporative coolers.",
+          "source": "https://www.manualsdir.com/manuals/83913/essick-air-cp-65.html"
+        }
+      ]
+    },
+    {
       "id": "evapco",
       "name": "EVAPCO",
       "website": "https://www.evapco.com/",
@@ -2276,6 +3094,28 @@
       ]
     },
     {
+      "id": "evergreen",
+      "name": "Evergreen",
+      "website": "https://www.regalrexnord.com/brands/genteq/evergreen-motor-technical-support",
+      "categories": [
+        "hvac"
+      ],
+      "support": [
+        {
+          "category": "hvac",
+          "department": "Technical Support",
+          "phone": "+18665038566",
+          "country": "US",
+          "regions": [],
+          "timezone": null,
+          "last_verified": "2026-10-26",
+          "specialty_tags": [],
+          "notes": "Legacy Genteq ECM-motor brand/line. Evergreen motors are supported through",
+          "source": "https://www.regalrexnord.com/brands/genteq/evergreen-motor-technical-support"
+        }
+      ]
+    },
+    {
       "id": "ewc-controls",
       "name": "EWC Controls",
       "website": null,
@@ -2306,6 +3146,28 @@
           "specialty_tags": [],
           "notes": "General customer support line (manufacturer spreadsheet, Oct 2026).",
           "source": "https://ewccontrols.com/forum/viewtopic.php?p=2621"
+        }
+      ]
+    },
+    {
+      "id": "famco",
+      "name": "\"Famco\"",
+      "website": "\"https://www.famcomfg.com/?p=57936\"",
+      "categories": [
+        "hvac"
+      ],
+      "support": [
+        {
+          "category": "hvac",
+          "department": "Customer Support",
+          "phone": "+18002341903",
+          "country": "US",
+          "regions": [],
+          "timezone": null,
+          "last_verified": "2026-10-26",
+          "specialty_tags": [],
+          "notes": "Fresh Air Manufacturing Co. (FAMCO), Meridian/Nampa ID, since 1989. Alternate line (208) 884-8931; retail line (855) 452-9875 per the FAMCO FAQ page. Roof flashings, vents, and HVAC accessories; hvac is the closest vocabulary term.",
+          "source": "https://catalog.famcomfg.com/files/2dpdf/SWV10A.pdf"
         }
       ]
     },
@@ -2478,6 +3340,72 @@
       ]
     },
     {
+      "id": "filter-1",
+      "name": "\"Filter 1\"",
+      "website": "\"http://www.filter-1.com/\"",
+      "categories": [
+        "hvac"
+      ],
+      "support": [
+        {
+          "category": "hvac",
+          "department": "Customer Support",
+          "phone": "+19722782664",
+          "country": "US",
+          "regions": [],
+          "timezone": null,
+          "last_verified": "2026-10-26",
+          "specialty_tags": [],
+          "notes": "Filter 1 Clean Air Consultants, 2525 National Drive, Garland, TX 75041. Number from the company own site and its ThomasNet profile. Custom cartridge collection systems and dust collectors for wood, plastic, metal, cement dust, welding smoke, and composites; hvac is the closest vocabulary term.",
+          "source": "http://www.filter-1.com/"
+        }
+      ]
+    },
+    {
+      "id": "filtration-group",
+      "name": "\"Filtration Group\"",
+      "website": "\"http://www.filtrationgroup.com/\"",
+      "categories": [
+        "hvac"
+      ],
+      "support": [
+        {
+          "category": "hvac",
+          "department": "Customer Support",
+          "phone": "+16309681730",
+          "country": "US",
+          "regions": [],
+          "timezone": null,
+          "last_verified": "2026-10-26",
+          "specialty_tags": [],
+          "notes": "Filtration Group Corporation, 1 Tower Ln Ste 900, Oakbrook Terrace, IL. Hours Mon-Fri 8:00 AM-5:00 PM per a place listing. Joliet IL Indoor Air Quality division number 815-726-4600 noted as alternate. ISO 9001 certified manufacturer of filter elements, filter bags, and air and liquid filtration; founded 1983 per ThomasNet. Category hvac is the closest vocabulary term for filtration.",
+          "source": "http://www.filtrationgroup.com/"
+        }
+      ]
+    },
+    {
+      "id": "filtration-manufacturing",
+      "name": "\"Filtration Manufacturing\"",
+      "website": "\"http://www.filtrationmanufacturing.com/\"",
+      "categories": [
+        "hvac"
+      ],
+      "support": [
+        {
+          "category": "hvac",
+          "department": "Customer Support",
+          "phone": "+18002399495",
+          "country": "US",
+          "regions": [],
+          "timezone": null,
+          "last_verified": "2026-10-26",
+          "specialty_tags": [],
+          "notes": "Filtration Manufacturing, Inc., 47 J Faris Rd, Andalusia, AL 36421, since October 1992. BBB Accredited, A+ rating. Alternate line (334) 222-7900 per BBB. Hours Mon-Fri 8:00 AM-4:30 PM CT per a place listing. Standard and custom filters including the A+2000 Permanent Electrostatic Air Filter; hvac is the closest vocabulary term. Distinct from Filtration Group, which has its own file.",
+          "source": "https://www.bbb.org/us/al/andalusia/profile/air-filters/filtration-manufacturing-inc-0463-1001669"
+        }
+      ]
+    },
+    {
       "id": "first-company",
       "name": "First Company",
       "website": null,
@@ -2544,6 +3472,50 @@
       ]
     },
     {
+      "id": "flanders",
+      "name": "\"Flanders\"",
+      "website": null,
+      "categories": [
+        "hvac"
+      ],
+      "support": [
+        {
+          "category": "hvac",
+          "department": "Customer Support",
+          "phone": "+18882232003",
+          "country": "US",
+          "regions": [],
+          "timezone": null,
+          "last_verified": "2026-10-26",
+          "specialty_tags": [],
+          "notes": "Flanders Corporation, now AAF Flanders (AAF International), Washington NC (531 Flanders Filters Road). Number from a 2020 AAF document, Louisville KY. Legacy Flanders Customer Service toll-free 1-800-800-2210 and customerservice@flanderscorp.com noted as the legacy line. Air filtration; hvac is the closest vocabulary term.",
+          "source": "http://sc82apps.aafintl.com/-/media/files/aaf/commercial-and-industrial/industries/commercial/commercial_buildings-200.pdf?la=en&hash=0D9C881AFDAFE622B84933EB0D9D9DF342620A0A"
+        }
+      ]
+    },
+    {
+      "id": "flex-kleen",
+      "name": "\"Flex-Kleen\"",
+      "website": "\"https://www.cecoenviro.com/product-brands/flex-kleen/\"",
+      "categories": [
+        "hvac"
+      ],
+      "support": [
+        {
+          "category": "hvac",
+          "department": "Customer Support",
+          "phone": "+18006210734",
+          "country": "US",
+          "regions": [],
+          "timezone": null,
+          "last_verified": "2026-10-26",
+          "specialty_tags": [],
+          "notes": "Flex-Kleen, a CECO Environmental brand (formerly a Met-Pro business), 905 Sivert Drive, Wood Dale, IL 60191. Number printed in Flex-Kleen brochures and CECO materials; email info@flexkleen.com. Pulse-jet dust collectors since 1959; hvac is the closest vocabulary term for industrial air filtration. NOT the Missouri fire-protection service Flex Kleen (Clay County MO), a different company.",
+          "source": "https://davidpwilson.com/wp-content/uploads/Flex-Kleen-General-Brochure.pdf"
+        }
+      ]
+    },
+    {
       "id": "flexcon",
       "name": "Flexcon",
       "website": "https://www.flexcon.com/",
@@ -2562,6 +3534,72 @@
           "specialty_tags": [],
           "notes": "Expansion tanks / hydronic accessories support.",
           "source": "https://www.flexcon.com/contact-us"
+        }
+      ]
+    },
+    {
+      "id": "floaire",
+      "name": "\"FloAire\"",
+      "website": null,
+      "categories": [
+        "hvac"
+      ],
+      "support": [
+        {
+          "category": "hvac",
+          "department": "Technical Support",
+          "phone": "+18667846900",
+          "country": "US",
+          "regions": [],
+          "timezone": null,
+          "last_verified": "2026-10-26",
+          "specialty_tags": [],
+          "notes": "FloAire Inc. Manuals direct warranty and technical support issues to this service department number. Commercial and industrial ventilation: exhaust fans, kitchen hoods, make-up air, heaters. A distributor number 678-383-6420 seen in a distributor profile is the distributor, NOT FloAire, and is not used. Category hvac preferred over airflow.",
+          "source": "https://www.manualsdir.com/manuals/676098/floaire-fkb-inline-pcu-blower.html?page=4"
+        }
+      ]
+    },
+    {
+      "id": "forane",
+      "name": "\"Forane\"",
+      "website": "\"https://forane.arkema.com/en/forane-products/forane-refrigerants/forane-retrofits/forane-427a-retrofit-guides/\"",
+      "categories": [
+        "hvac"
+      ],
+      "support": [
+        {
+          "category": "hvac",
+          "department": "Technical Support",
+          "phone": "+18007387695",
+          "country": "US",
+          "regions": [],
+          "timezone": null,
+          "last_verified": "2026-10-26",
+          "specialty_tags": [],
+          "notes": "Forane, Arkema refrigerant brand; Arkema Inc., King of Prussia PA. Arkema Forane site lists this as the US technical services hotline for R-22 retrofit technical questions. Customer service (800) 245-5858 noted as alternate. Refrigerants; hvac is the closest vocabulary term.",
+          "source": "https://forane.arkema.com/en/forane-products/forane-refrigerants/forane-retrofits/forane-427a-retrofit-guides/"
+        }
+      ]
+    },
+    {
+      "id": "fr-filter",
+      "name": "\"FR Filter\"",
+      "website": null,
+      "categories": [
+        "hvac"
+      ],
+      "support": [
+        {
+          "category": "hvac",
+          "department": "Customer Support",
+          "phone": "+17207513712",
+          "country": "US",
+          "regions": [],
+          "timezone": null,
+          "last_verified": "2026-10-26",
+          "specialty_tags": [],
+          "notes": "FR Filter (frfilter.com), 1878 S. Wadsworth Blvd., Lakewood, CO 80232. Number from the current FR Filter contact page, fetched 2026-10-26. An older place listing under Flow Right Filters (4215 Globeville Rd, Denver, 877-690-7442) is superseded by the current Lakewood site. Covers the xref spelling Flow Right Filter Box. NOT Flow Right Plumbing/Heating contractors (Pueblo CO, Colorado Springs/Pueblo) and NOT FlowRight HVAC firms (Houston, Doylestown PA).",
+          "source": "https://frfilter.com/contact"
         }
       ]
     },
@@ -2606,6 +3644,28 @@
           "specialty_tags": [],
           "notes": "No dedicated tech line published separate from main line; main line and",
           "source": "https://www.thomasnet.com/company/fresh-aire-uv-30718742/profile"
+        }
+      ]
+    },
+    {
+      "id": "freudenberg-filtration-technologies",
+      "name": "'Freudenberg Filtration Technologies'",
+      "website": null,
+      "categories": [
+        "hvac"
+      ],
+      "support": [
+        {
+          "category": "hvac",
+          "department": "Customer Support",
+          "phone": "+18005422804",
+          "country": "US",
+          "regions": [],
+          "timezone": null,
+          "last_verified": "2026-10-26",
+          "specialty_tags": [],
+          "notes": "Official site Call us line. Air filtration, so hvac is the closest vocabulary term.",
+          "source": "https://www.freudenberg-filter.com/markets/industrial/gas-turbines-and-compressors/power-generation/"
         }
       ]
     },
@@ -2706,6 +3766,28 @@
           "specialty_tags": [],
           "notes": "Main line; after-hours emergency assistance routes via prompts.",
           "source": "https://www.fulton.com/contact/"
+        }
+      ]
+    },
+    {
+      "id": "ge-appliances",
+      "name": "'GE Appliances'",
+      "website": "https://www.geappliances.com/",
+      "categories": [
+        "hvac"
+      ],
+      "support": [
+        {
+          "category": "hvac",
+          "department": "Customer Support",
+          "phone": "+18006262005",
+          "country": "US",
+          "regions": [],
+          "timezone": "ET",
+          "last_verified": "2026-10-26",
+          "specialty_tags": [],
+          "notes": "Parent Haier. Service line 800-432-2737 also published. Appliances and HVAC, so hvac is the closest vocabulary term.",
+          "source": "https://www.geappliances.com/ge/service-and-support/faq.htm"
         }
       ]
     },
@@ -3008,6 +4090,28 @@
       ]
     },
     {
+      "id": "harris-products-group",
+      "name": "'Harris Products Group'",
+      "website": "http://harrisproductsgroup.com",
+      "categories": [
+        "hvac"
+      ],
+      "support": [
+        {
+          "category": "hvac",
+          "department": "Customer Support",
+          "phone": "+18007334043",
+          "country": "US",
+          "regions": [],
+          "timezone": null,
+          "last_verified": "2026-10-26",
+          "specialty_tags": [],
+          "notes": "A Lincoln Electric company. Main phone 513-754-2000 also published. Brazing, soldering, and gas equipment for HVAC/R, so hvac is the closest vocabulary term.",
+          "source": "http://harrisproductsgroup.com"
+        }
+      ]
+    },
+    {
       "id": "hart-cooley",
       "name": "Hart & Cooley",
       "website": "https://hartandcooley.com/contact/",
@@ -3026,6 +4130,28 @@
           "specialty_tags": [],
           "notes": "Main customer service; contact form offers Commercial Tech Support routing.",
           "source": "hartandcooley.com contact page"
+        }
+      ]
+    },
+    {
+      "id": "heat-controller",
+      "name": "Heat Controller",
+      "website": null,
+      "categories": [
+        "hvac"
+      ],
+      "support": [
+        {
+          "category": "hvac",
+          "department": "Customer / Technical Service",
+          "phone": "+15177872100",
+          "country": "US",
+          "regions": [],
+          "timezone": null,
+          "last_verified": "2026-10-26",
+          "specialty_tags": [],
+          "notes": "Heat Controller, Jackson, MI. Department label is the source wording (Customer or Technical Service Department). One manual also lists 866-557-1865 for service and warranty. Comfort-Aire is a trademark of Motors and Armatures, Inc.; Heat Controller is not reassigned to MARS on that basis.",
+          "source": "https://manuzoid.com/manuals/q4BPB-Heat%20Controller%20RAH-183G%20Owner's%20Manual"
         }
       ]
     },
@@ -3096,6 +4222,28 @@
       ]
     },
     {
+      "id": "hercules-industries",
+      "name": "Hercules Industries",
+      "website": "https://www.herculesindustries.com/",
+      "categories": [
+        "hvac"
+      ],
+      "support": [
+        {
+          "category": "hvac",
+          "department": "Customer Support",
+          "phone": "+18003565350",
+          "country": "US",
+          "regions": [],
+          "timezone": "MT",
+          "last_verified": "2026-10-26",
+          "specialty_tags": [],
+          "notes": "Hercules Industries, Denver, CO. HQ 303-937-1000; email info@hercmail.com. Sheet metal, ductwork.",
+          "source": "https://www.herculesindustries.com/about"
+        }
+      ]
+    },
+    {
       "id": "hi-velocity-systems",
       "name": "Hi-Velocity Systems",
       "website": null,
@@ -3114,6 +4262,28 @@
           "specialty_tags": [],
           "notes": "Imported from verified manufacturer spreadsheet (Oct 2026). Toll-free number published on hi-velocity.com;",
           "source": "https://www.hi-velocity.com/mptext.htm"
+        }
+      ]
+    },
+    {
+      "id": "highside-chemicals",
+      "name": "Highside Chemicals",
+      "website": "http://www.highsidechem.com/",
+      "categories": [
+        "hvac"
+      ],
+      "support": [
+        {
+          "category": "hvac",
+          "department": "Customer Support",
+          "phone": "+12288969220",
+          "country": "US",
+          "regions": [],
+          "timezone": null,
+          "last_verified": "2026-10-26",
+          "specialty_tags": [],
+          "notes": "Highside Chemicals, Inc., Gulfport, MS. HVAC/R cleaners, coil cleaners. Older toll-free 800-359-5599 seen on a product sheet; the current SDS supplier-block number is used as primary.",
+          "source": "https://www.highsidechem.com/wp-content/uploads/2025/02/HVACR-PLUMBING-AND-AUTOMOTIVE-PATCH-BONDING-CELLS.pdf"
         }
       ]
     },
@@ -3148,6 +4318,28 @@
           "specialty_tags": [],
           "notes": "General customer support line (manufacturer spreadsheet, Oct 2026).",
           "source": "https://www.manualshelf.com/manual/hill-phoenix/p074749f/freezer-user-manual/page-31.html"
+        }
+      ]
+    },
+    {
+      "id": "hisense",
+      "name": "Hisense",
+      "website": null,
+      "categories": [
+        "hvac"
+      ],
+      "support": [
+        {
+          "category": "hvac",
+          "department": "Technical Support",
+          "phone": "+18887674011",
+          "country": "US",
+          "regions": [],
+          "timezone": null,
+          "last_verified": "2026-10-26",
+          "specialty_tags": [],
+          "notes": "Hisense HVAC Technical Support (Johnstone warranty-process document label), for unitary and mini-split equipment. Consumer customer service 888-935-8880 and email service@hisense-usa.com also published; secondary guides list consumer hours weekdays 9am-9pm EST and weekends 9am-6pm. No verified official support-page URL was confirmed, so website is omitted.",
+          "source": "https://www.johnstonefg.com/s/Hisense-Warranty-Process.pdf"
         }
       ]
     },
@@ -3196,6 +4388,52 @@
       ]
     },
     {
+      "id": "honeywell",
+      "name": "Honeywell",
+      "website": "https://buildings.honeywell.com/pl/en/support/contact/tech-support",
+      "categories": [
+        "hvac",
+        "hvac-controls",
+        "electrical"
+      ],
+      "support": [
+        {
+          "category": "hvac",
+          "department": "Technical Support",
+          "phone": "+18004757515",
+          "country": "US",
+          "regions": [],
+          "timezone": null,
+          "last_verified": "2026-10-26",
+          "specialty_tags": [],
+          "notes": "Honeywell International building and industrial side. Primary is the Honeywell Building Technologies BMS phone-support line (800-475-7515), also listed as Customer Care on the HBT OEM page. Other division lines, each labelled, not general lines: Building Technologies Security video, access and Vindicator customer service 800-323-4576 option 1, technical support option 2, Mon-Fri 8am-5pm EST; OEM Tech Support 888-516-9347; Process Solutions / HPS Americas 800-822-7673, email hpscustomersupport@honeywell.com; Aerospace US 800-601-3099; legacy thermostat Customer Care 800-468-1502. The thermostat and home-controls business is Resideo (separate existing file); PPE technical support is the separate staged honeywell-safety file.",
+          "source": "https://buildings.honeywell.com/pl/en/support/contact/tech-support"
+        }
+      ]
+    },
+    {
+      "id": "hoshizaki-america",
+      "name": "Hoshizaki America",
+      "website": "https://www.hoshizaki.com/",
+      "categories": [
+        "hvac"
+      ],
+      "support": [
+        {
+          "category": "hvac",
+          "department": "Technical Support",
+          "phone": "+18002331940",
+          "country": "US",
+          "regions": [],
+          "timezone": null,
+          "last_verified": "2026-10-26",
+          "specialty_tags": [],
+          "notes": "Hoshizaki America, Peachtree City, GA. Email techsupport@hoshizaki.com. Ice machines; no refrigeration term in the category vocabulary, so hvac is used as the closest term.",
+          "source": "http://kitchen.manualsonline.com/manuals/mfg/hoshizaki_america_inc/dt400bahos.html?p=2"
+        }
+      ]
+    },
+    {
       "id": "hoval",
       "name": "Hoval",
       "website": "https://www.hoval.com",
@@ -3236,6 +4474,28 @@
           "specialty_tags": [],
           "notes": "HTP technical support line (phone support; menu may require option selection).",
           "source": "htproducts.com technical support page"
+        }
+      ]
+    },
+    {
+      "id": "htpg",
+      "name": "Heat Transfer Products Group",
+      "website": "https://www.htpg.com/",
+      "categories": [
+        "hvac"
+      ],
+      "support": [
+        {
+          "category": "hvac",
+          "department": "Customer Support",
+          "phone": "+18554872787",
+          "country": "US",
+          "regions": [],
+          "timezone": null,
+          "last_verified": "2026-10-26",
+          "specialty_tags": [],
+          "notes": "Heat Transfer Products Group (HTPG), a Rheem Mfg. Co. brand, Duluth, GA. Parts and help line 1-855-HTPARTS, digits printed in the source manual. Email parts@htpg.com. ACHR News also lists 800-535-9538. Commercial refrigeration. Not HTP (Ariston), whose Technical Support 800-323-9651 is a different company and was not used.",
+          "source": "https://files.myrheem.com/webpartners/ProductDocuments/4EF369F9-A4B3-454D-AABC-3DDDE8D01EF4.pdf"
         }
       ]
     },
@@ -3429,6 +4689,28 @@
       ]
     },
     {
+      "id": "icor",
+      "name": "ICOR International",
+      "website": "https://www.icorinternational.com/",
+      "categories": [
+        "hvac"
+      ],
+      "support": [
+        {
+          "category": "hvac",
+          "department": "Technical Support",
+          "phone": "+18664338324",
+          "country": "US",
+          "regions": [],
+          "timezone": "ET",
+          "last_verified": "2026-10-26",
+          "specialty_tags": [],
+          "notes": "ICOR International, Inc., Indianapolis, IN. Tech-2-Tech line 866-433-TECH, Mon-Fri 7:30am-4:30pm EST, labelled technical support. General line 800-497-6805 also published. Xref parent claims ICOR International (National Refrigerants); that parent claim is noted, not verified as a support route. Refrigerants.",
+          "source": "https://www.contractingbusiness.com/archive/article/20862836/icor-internationals-tech-support-team-now-nate-certified"
+        }
+      ]
+    },
+    {
       "id": "icp",
       "name": "International Comfort Products (ICP)",
       "website": "https://www.icpusa.com/en/us/contact-us",
@@ -3463,6 +4745,28 @@
       ]
     },
     {
+      "id": "imanifold",
+      "name": "iManifold",
+      "website": null,
+      "categories": [
+        "hvac"
+      ],
+      "support": [
+        {
+          "category": "hvac",
+          "department": "Technical Support",
+          "phone": "+17166992031",
+          "country": "US",
+          "regions": [],
+          "timezone": null,
+          "last_verified": "2026-10-26",
+          "specialty_tags": [],
+          "notes": "iManifold tech team (FAQ wording). Digital manifold and app system based on the Imperial 800 series manifold. It publishes its own tech-team number distinct from Imperial and Stride Tool 888-467-8665, so it keeps its own file rather than parent-resolving to the staged imperial-tools file.",
+          "source": "https://imanifold.com/resources/faq/"
+        }
+      ]
+    },
+    {
       "id": "imi-hydronic",
       "name": "IMI Hydronic Engineering",
       "website": "https://climatecontrol.imiplc.com/en-us",
@@ -3481,6 +4785,94 @@
           "specialty_tags": [],
           "notes": "Toll-free (ASK.FLOW)",
           "source": "https://www.imiflowdesign.com/contact/"
+        }
+      ]
+    },
+    {
+      "id": "imperial",
+      "name": "Imperial Tools",
+      "website": "https://www.imperialtools.com/",
+      "categories": [
+        "hvac"
+      ],
+      "support": [
+        {
+          "category": "hvac",
+          "department": "Customer Support",
+          "phone": "+18884678665",
+          "country": "US",
+          "regions": [],
+          "timezone": "ET",
+          "last_verified": "2026-10-26",
+          "specialty_tags": [],
+          "notes": "Imperial Tools (Stride Tool), Glenwillow, OH. Toll-free line is primary; local 440-247-4600; email info@stridetool.com. Imperial is the flagship brand of Stride Tool. HVAC/R tube-working tools: benders, cutters, flaring and swaging tools, service manifolds. Distinct from Imperial Blades, a separate company with its own file.",
+          "source": "https://imperial-tools.com/contact/"
+        }
+      ]
+    },
+    {
+      "id": "infrasave",
+      "name": "InfraSave",
+      "website": "https://www.infrasave.com/",
+      "categories": [
+        "hvac"
+      ],
+      "support": [
+        {
+          "category": "hvac",
+          "department": "Technical Support",
+          "phone": "+18774463727",
+          "country": "US",
+          "regions": [],
+          "timezone": null,
+          "last_verified": "2026-10-26",
+          "specialty_tags": [],
+          "notes": "InfraSave is a Schwank Group brand of gas-fired infrared heaters. No schwank file exists in the reference, so parent-resolution to a non-existent file is impossible; InfraSave keeps its own file using the parent group published contact. Schwank Group Customer and Technical Services; email csr@schwankgroup.com. Older (2005) manuals listed a separate InfraSave Inc. number 1-866-INFRASV (866-463-7278) and info@infrasave.com; the later (2013) manual consolidates to the Schwank Group line, which is primary.",
+          "source": "https://manualzilla.com/doc/7297348/schwank-s100u-owner-s-manual"
+        }
+      ]
+    },
+    {
+      "id": "infratech",
+      "name": "Infratech",
+      "website": "https://www.infratech-usa.com/",
+      "categories": [
+        "hvac"
+      ],
+      "support": [
+        {
+          "category": "hvac",
+          "department": "Customer Support",
+          "phone": "+18004219455",
+          "country": "US",
+          "regions": [],
+          "timezone": null,
+          "last_verified": "2026-10-26",
+          "specialty_tags": [],
+          "notes": "Infratech, Gardena, CA. Local 310-354-1250; email sales@infratech-usa.com. Outdoor infrared heaters, 3-year warranty, made in USA. Conflicting secondary listing flagged, not resolved: infratechheating.com gives 1-800-697-7404 and sales@infratechheating.com, a separate storefront or brand presentation whose relationship to infratech-usa.com is unverified; the manufacturer catalog number is primary.",
+          "source": "https://manuals.plus/m/fba7dfc5ffe5043eb4b279ae21cef26e8ef50bd47fb7e7433fc2ef0a0c7499ca"
+        }
+      ]
+    },
+    {
+      "id": "insul-fab",
+      "name": "Insul-Fab",
+      "website": "https://www.insulfab.net/",
+      "categories": [
+        "hvac"
+      ],
+      "support": [
+        {
+          "category": "hvac",
+          "department": "Customer Support",
+          "phone": "+18004421338",
+          "country": "US",
+          "regions": [],
+          "timezone": null,
+          "last_verified": "2026-10-26",
+          "specialty_tags": [],
+          "notes": "Pipe insulation and related products; the filed number is the toll-free line on the official homepage. HQ direct 214-956-0055 and Tyler 903-581-0697 also published on the official site.",
+          "source": "https://www.insulfab.net/"
         }
       ]
     },
@@ -3507,6 +4899,28 @@
       ]
     },
     {
+      "id": "islandaire",
+      "name": "Islandaire",
+      "website": "https://islandaire.com/",
+      "categories": [
+        "hvac"
+      ],
+      "support": [
+        {
+          "category": "hvac",
+          "department": "Customer Support",
+          "phone": "+18008862759",
+          "country": "US",
+          "regions": [],
+          "timezone": null,
+          "last_verified": "2026-10-26",
+          "specialty_tags": [],
+          "notes": "PTAC and room air conditioners; direct 631-471-2900 and email sales@islandaire.com also published in manufacturer catalogs.",
+          "source": "https://islandaire.com/pdf/units/EZSeriesPT.pdf"
+        }
+      ]
+    },
+    {
       "id": "janitrol",
       "name": "Janitrol",
       "website": null,
@@ -3525,6 +4939,118 @@
           "specialty_tags": [],
           "notes": "Legacy brand: Janitrol line was sold to Goodman in 1982 (per InspectAPedia",
           "source": "https://www.goodmanmfg.com/"
+        }
+      ]
+    },
+    {
+      "id": "jmf-company",
+      "name": "JMF Company",
+      "website": "https://jmfcompany.com/",
+      "categories": [
+        "hvac",
+        "plumbing"
+      ],
+      "support": [
+        {
+          "category": "hvac",
+          "department": "Customer Support",
+          "phone": "+18003973739",
+          "country": "US",
+          "regions": [],
+          "timezone": null,
+          "last_verified": "2026-10-26",
+          "specialty_tags": [],
+          "notes": "Copper tubing, line sets, copper fittings, push-to-fit, PEX, and ball, gas, and plumbing valves; 2735 62nd Street Court, Bettendorf, IA 52722. Direct 563-332-9200 also published. Note: the xref hint says HVAC sheet metal and duct fittings, but the actual JMF line is tubing, fittings, and valves; both hvac and plumbing categories are filed.",
+          "source": "http://jmfcompany.com/PDF/Insulated%20Copper%20Tube%20Submittal.pdf"
+        }
+      ]
+    },
+    {
+      "id": "johns-manville",
+      "name": "Johns Manville",
+      "website": "https://www.jm.com/",
+      "categories": [
+        "hvac"
+      ],
+      "support": [
+        {
+          "category": "hvac",
+          "department": "Customer Support",
+          "phone": "+18006543103",
+          "country": "US",
+          "regions": [],
+          "timezone": null,
+          "last_verified": "2026-10-26",
+          "specialty_tags": [],
+          "notes": "Building insulation; a Berkshire Hathaway company, founded 1858. HQ 303-978-2000, 8:00 AM-5:00 PM M-F per JM safety data sheets. JM TechConnect is the technical resource.",
+          "source": "https://www.manualshelf.com/manual/johns-manville/u1344/specification-english/page-2.html"
+        }
+      ]
+    },
+    {
+      "id": "johnstone-supply",
+      "name": "Johnstone Supply",
+      "website": "https://johnstonesupply.com/",
+      "categories": [
+        "hvac"
+      ],
+      "support": [
+        {
+          "category": "hvac",
+          "department": "Customer Support",
+          "phone": "+15032563663",
+          "country": "US",
+          "regions": [],
+          "timezone": "PT",
+          "last_verified": "2026-10-26",
+          "specialty_tags": [],
+          "notes": "HVAC distributor cooperative of independently owned branches. The filed number is the corporate HQ, Portland, OR, 11632 N.E. Ainsworth Circle, Portland, OR 97220, not a branch line; branch numbers are not the corporate line.",
+          "source": "https://reviews.birdeye.com/johnstone-supply-corporate-headquarters-165416023668275"
+        }
+      ]
+    },
+    {
+      "id": "k-flex-usa",
+      "name": "K-Flex USA, LLC",
+      "website": "https://www.kflexusa.com/",
+      "categories": [
+        "hvac",
+        "plumbing"
+      ],
+      "support": [
+        {
+          "category": "hvac",
+          "department": "Technical Support",
+          "phone": "+18007656475",
+          "country": "US",
+          "regions": [],
+          "timezone": null,
+          "last_verified": "2026-10-26",
+          "specialty_tags": [],
+          "notes": "Elastomeric pipe insulation for HVAC/R and plumbing; HQ 100 K Flex Way, Youngsville, NC 27596; direct 919-556-3475. Subsidiary of L'isolante K-Flex Srl (Italy) per ZoomInfo. Parent file for the Insul-Tube product line. Number labeled K-Flex USA technical services in manufacturer technical bulletins.",
+          "source": "https://www.dtamexico.com.mx/wp-content/uploads/2021/03/TA68-K-Flex-USA-Elastomeric-Insulation-and-Brominated-Flame-Retardants-0616.pdf"
+        }
+      ]
+    },
+    {
+      "id": "keeprite-refrigeration",
+      "name": "KeepRite Refrigeration",
+      "website": "https://k-rp.com/",
+      "categories": [
+        "hvac"
+      ],
+      "support": [
+        {
+          "category": "hvac",
+          "department": "Customer Support",
+          "phone": "+18448933222",
+          "country": "US",
+          "regions": [],
+          "timezone": null,
+          "last_verified": "2026-10-26",
+          "specialty_tags": [],
+          "notes": "Commercial refrigeration (evaporators, condensing units, multi-compressor units); founded 1945, Brantford, Ontario, 159 Roy Blvd, N3R 7K1, 519-751-0444. Other-inquiries line 800-463-9517 and US line 888-533-7871 also published. DISTINCT from the ICP Keeprite alias (residential HVAC); this is a separate refrigeration company, not the ICP brand.",
+          "source": "https://docs.k-rp.com/sales/Product-Guide_1090711.pdf"
         }
       ]
     },
@@ -3591,6 +5117,28 @@
           "specialty_tags": [],
           "notes": "Imported from verified manufacturer spreadsheet (Oct 2026). Tech/support",
           "source": "https://pdf.directindustry.com/pdf/koch-filter-corporation/multi-cell/100863-929196.html"
+        }
+      ]
+    },
+    {
+      "id": "koldwave",
+      "name": "Koldwave",
+      "website": "https://koldwave.com/",
+      "categories": [
+        "hvac"
+      ],
+      "support": [
+        {
+          "category": "hvac",
+          "department": "Technical Support",
+          "phone": "+14135645520",
+          "country": "US",
+          "regions": [],
+          "timezone": null,
+          "last_verified": "2026-10-26",
+          "specialty_tags": [],
+          "notes": "Portable and spot air conditioners; 260 North Elm St, Westfield, MA 01085; fax 413-564-5815. Number labeled Technical Support and Technical Service in manufacturer manuals and the official FAQ. Literature hosted on Mestek's literature site, noted only, no acquisition asserted. Note: some older manuals show different numbers; those older numbers are superseded and are not published here as current. The xref parenthetical Air Rover / MovinCool is a question, not a verified parent, and is not asserted.",
+          "source": "http://koldwave.com/faq"
         }
       ]
     },
@@ -3673,6 +5221,28 @@
       ]
     },
     {
+      "id": "kuul",
+      "name": "Kuul",
+      "website": "https://www.kuulpads.com/",
+      "categories": [
+        "hvac"
+      ],
+      "support": [
+        {
+          "category": "hvac",
+          "department": "Customer Support",
+          "phone": "+18006952942",
+          "country": "US",
+          "regions": [],
+          "timezone": "CT",
+          "last_verified": "2026-10-26",
+          "specialty_tags": [],
+          "notes": "KÜÜL Pads and Kuul Comfort evaporative media; a Portacool, LLC product line, 709 Southview Circle, Center, TX 75935. No standalone Kuul support contact exists, so support runs through Portacool: US-based Customer Service 8:00 AM-5:00 PM Central, Monday-Friday, direct 936-598-5651, support@portacool.com. Filed under its own file following the Knopp precedent (product line with a verified support channel, no parent file in TechDirect).",
+          "source": "https://www.manualshelf.com/manual/portacool/pacjs2601a1/user-manual-english/page-19.html"
+        }
+      ]
+    },
+    {
       "id": "kysor-warren",
       "name": "Kysor Warren",
       "website": null,
@@ -3695,6 +5265,28 @@
       ]
     },
     {
+      "id": "la-co-industries",
+      "name": "LA-CO Industries",
+      "website": null,
+      "categories": [
+        "hvac"
+      ],
+      "support": [
+        {
+          "category": "hvac",
+          "department": "Customer Support",
+          "phone": "+18479567600",
+          "country": "US",
+          "regions": [],
+          "timezone": null,
+          "last_verified": "2026-10-26",
+          "specialty_tags": [],
+          "notes": "LA-CO Industries, Elk Grove Village, IL; maker of Markal marking products, Tempil temperature indicators and LA-CO plumbing/chemical products. General/customer-service contact per LA-CO safety data sheets (customer_service@laco.com); toll-free 800-621-4025 also published in LA-CO releases.",
+          "source": "https://www.KimballMidwest.com/PDFViewerPage/LoadPDF?fileAttachmentID=3556565"
+        }
+      ]
+    },
+    {
       "id": "laars",
       "name": "Laars Heating Systems",
       "website": "https://www.laars.com/",
@@ -3713,6 +5305,28 @@
           "specialty_tags": [],
           "notes": "Factory Technical Support number listed on Laars service centers page.",
           "source": "laars.com service centers page"
+        }
+      ]
+    },
+    {
+      "id": "lambro",
+      "name": "Lambro",
+      "website": null,
+      "categories": [
+        "hvac"
+      ],
+      "support": [
+        {
+          "category": "hvac",
+          "department": "Customer Support",
+          "phone": "+18006452860",
+          "country": "US",
+          "regions": [],
+          "timezone": null,
+          "last_verified": "2026-10-26",
+          "specialty_tags": [],
+          "notes": "Lambro Industries, Amityville/Babylon, NY; dryer venting, flexible ducting and ventilation products. General company number.",
+          "source": "https://www.lambro.net/"
         }
       ]
     },
@@ -3747,6 +5361,28 @@
           "specialty_tags": [],
           "notes": "Heatcraft warranty department, Option 5, per Heatcraft's own FAQ document; Customer Service Option",
           "source": "https://assets.heatcraftrpd.com/training-assets/hccp/hccp_faq.pdf"
+        }
+      ]
+    },
+    {
+      "id": "lau",
+      "name": "Lau",
+      "website": null,
+      "categories": [
+        "hvac"
+      ],
+      "support": [
+        {
+          "category": "hvac",
+          "department": "Customer Support",
+          "phone": "+19374766500",
+          "country": "US",
+          "regions": [],
+          "timezone": null,
+          "last_verified": "2026-10-26",
+          "specialty_tags": [],
+          "notes": "Lau Industries, Dayton, OH; blowers and fans (Penn Ventilation line). Workbook lineage: Johnson Controls / Lau Industries. General company number from the Lau Industries profile; no separately labelled Lau technical-support line found.",
+          "source": "https://www.thomasnet.com/company/lau-industries-10055922/profile?coverage_area=IN&heading=5662804"
         }
       ]
     },
@@ -3931,6 +5567,28 @@
       ]
     },
     {
+      "id": "lm-curbs",
+      "name": "LM Curbs",
+      "website": "\"https://www.lmcurbs.com\"",
+      "categories": [
+        "hvac"
+      ],
+      "support": [
+        {
+          "category": "hvac",
+          "department": "Customer Support",
+          "phone": "+18002841412",
+          "country": "US",
+          "regions": [],
+          "timezone": null,
+          "last_verified": "2026-10-26",
+          "specialty_tags": [],
+          "notes": "LMCurbs (LM Curbs), Longview, TX (827 Fisher Rd.); metal-building roof curbs and accessories, 30+ years. Number from LMCurbs' own site product pages (direct 903-759-1331 also published in a BRS spec section). HVAC is the closest category-vocabulary term for roof curbs (sheet-metal HVAC accessories).",
+          "source": "https://www.lmcurbs.com/products/utility-clamps/s-5-n1-5/"
+        }
+      ]
+    },
+    {
       "id": "lochinvar",
       "name": "Lochinvar",
       "website": "https://www.lochinvar.com/en_US/contact.html",
@@ -3998,6 +5656,28 @@
       ]
     },
     {
+      "id": "lucas-milhaupt",
+      "name": "Lucas-Milhaupt",
+      "website": "\"https://www.lucasmilhaupt.com\"",
+      "categories": [
+        "hvac"
+      ],
+      "support": [
+        {
+          "category": "hvac",
+          "department": "Technical Support",
+          "phone": "+18005583856",
+          "country": "US",
+          "regions": [],
+          "timezone": null,
+          "last_verified": "2026-10-26",
+          "specialty_tags": [],
+          "notes": "Lucas-Milhaupt, Inc., Cudahy, WI (4850 S. Pennsylvania Ave.); brazing and soldering materials (Sil-Fos, Silvaloy) for HVAC/R, electrical/electronic, appliance and construction markets; a Handy & Harman company (workbook parent hint: Steel Partners). Number from Lucas-Milhaupt's own blog, labelled Technical Services Department (LM_TechService@lucasmilhaupt.com also published). Sales department 1-800-521-5490 and direct (414) 769-6000 also published. Covers both xref spellings Lucas Milhaupt and Lucas-Milhaupt.",
+          "source": "https://blog.lucasmilhaupt.com/en-us/about/blog/brazing-solutions-every-industry"
+        }
+      ]
+    },
+    {
       "id": "luxaire",
       "name": "Luxaire",
       "website": null,
@@ -4016,6 +5696,28 @@
           "specialty_tags": [],
           "notes": "Imported from verified manufacturer spreadsheet (Oct 2026). Tech/support",
           "source": "https://www.manualsdir.com/manuals/132648/johnson-controls-unitary-products-outdoor-split-system-air-conditioning-or-heat-pump-813196-uum-a-0112.html?page=4"
+        }
+      ]
+    },
+    {
+      "id": "lg-electronics",
+      "name": "LG Electronics",
+      "website": null,
+      "categories": [
+        "hvac"
+      ],
+      "support": [
+        {
+          "category": "hvac",
+          "department": "Customer Support",
+          "phone": "+18002430000",
+          "country": "US",
+          "regions": [],
+          "timezone": "ET",
+          "last_verified": "2026-10-26",
+          "specialty_tags": [],
+          "notes": "LG Electronics USA general customer service (appliances, HVAC, consumer electronics). Distinct from the existing LG HVAC division file (lg-hvac) and LG ThinQ HVAC Controls file; this is the parent LG Electronics support route. Hours Mon-Sun 8:00am-9:00pm ET per lg.com.",
+          "source": "https://www.lg.com/us/support/contact"
         }
       ]
     },
@@ -4042,6 +5744,50 @@
       ]
     },
     {
+      "id": "m-m-manufacturing",
+      "name": "M&M Manufacturing",
+      "website": "\"http://www.mmmfg.com/\"",
+      "categories": [
+        "hvac"
+      ],
+      "support": [
+        {
+          "category": "hvac",
+          "department": "Customer Support",
+          "phone": "+18173362311",
+          "country": "US",
+          "regions": [],
+          "timezone": null,
+          "last_verified": "2026-10-26",
+          "specialty_tags": [],
+          "notes": "M&M Manufacturing Company, Fort Worth, TX (4001 Mark IV Parkway); founded 1958 by the Stepp family, one of the largest US producers of HVAC sheet metal air-distribution products (round, rectangular, oval and spiral ductwork, fittings, grilles, louvers, fan curbs) with 6 manufacturing facilities and 9,000+ products. Acquired by MiTek Industries (Berkshire Hathaway) per M&M's own acquisition announcement; M&M keeps its own published contact. Number from M&M's own site page.",
+          "source": "https://www.mmmfg.com/mitek-acquires-mm-manufacturing-company/"
+        }
+      ]
+    },
+    {
+      "id": "magic-aire",
+      "name": "Magic Aire",
+      "website": "http://www.magicaire.com/",
+      "categories": [
+        "hvac"
+      ],
+      "support": [
+        {
+          "category": "hvac",
+          "department": "Customer Support",
+          "phone": "+19403972100",
+          "country": "US",
+          "regions": [],
+          "timezone": "CT",
+          "last_verified": "2026-10-26",
+          "specialty_tags": [],
+          "notes": "Wichita Falls, TX; division of United Electric. Fan coils, air handlers, terminal units, evaporator coils. Fax 940-397-2166; warranty email customer.service@MagicAire.com per manual.",
+          "source": "https://www.hvacquick.com/catalog_files/MagicAire_DUC_Catalog.pdf"
+        }
+      ]
+    },
+    {
       "id": "magicpak",
       "name": "MagicPak",
       "website": null,
@@ -4060,6 +5806,50 @@
           "specialty_tags": [],
           "notes": "Imported from verified manufacturer spreadsheet (Oct 2026). Tech/support",
           "source": "https://www.alliednow.com/buyers-guide/choosing-a-dealer/"
+        }
+      ]
+    },
+    {
+      "id": "mainstream-engineering",
+      "name": "Mainstream Engineering",
+      "website": "https://qwik.com",
+      "categories": [
+        "hvac"
+      ],
+      "support": [
+        {
+          "category": "hvac",
+          "department": "Technical Support",
+          "phone": "+13216313550",
+          "country": "US",
+          "regions": [],
+          "timezone": null,
+          "last_verified": "2026-10-26",
+          "specialty_tags": [],
+          "notes": "QwikProducts HVAC/R service tools, chemicals, fan products. Sales 800-866-3550; email info@qwik.com. Technical support label per QwikSwap troubleshooting docs.",
+          "source": "https://manuals.plus/qwikproducts/qt6100-oem-constant-torque-ecm-w-psc-board-manual"
+        }
+      ]
+    },
+    {
+      "id": "manitowoc",
+      "name": "Manitowoc",
+      "website": "https://www.manitowocice.com",
+      "categories": [
+        "hvac"
+      ],
+      "support": [
+        {
+          "category": "hvac",
+          "department": "Customer Support",
+          "phone": "+18447242273",
+          "country": "US",
+          "regions": [],
+          "timezone": null,
+          "last_verified": "2026-10-26",
+          "specialty_tags": [],
+          "notes": "Manitowoc Ice brand; commercial ice machines. 844-724-CARE. Welbilt to Pentair Commercial Ice (2022 acquisition per CB Insights); NSF lists Pentair Commercial Ice 800-545-5720 as alternate. Old Welbilt warranty number 920-682-0161 (2017-era manuals) not used as current.",
+          "source": "https://www.manitowocice.com/asset/?id=zpspvz&regions=us&prefLang=en"
         }
       ]
     },
@@ -4098,6 +5888,28 @@
       ]
     },
     {
+      "id": "marstan",
+      "name": "Marstan",
+      "website": null,
+      "categories": [
+        "hvac"
+      ],
+      "support": [
+        {
+          "category": "hvac",
+          "department": "Customer Support",
+          "phone": "+17637549487",
+          "country": "US",
+          "regions": [],
+          "timezone": null,
+          "last_verified": "2026-10-26",
+          "specialty_tags": [],
+          "notes": "PVS/HVAC duct manufacturer, Minneapolis, MN, since 1973. Near-miss MARS rejected. Excluded confounders: dead MARSTAN trademark of Snap-Tite Technologies (solenoid valves, dead 2005) and Marstan Press Ltd (UK printer).",
+          "source": "https://www.thomasnet.com/company/marstan-inc-20035929/profile"
+        }
+      ]
+    },
+    {
       "id": "marvair",
       "name": "Marvair",
       "website": "https://marvair.com/",
@@ -4116,6 +5928,28 @@
           "specialty_tags": [],
           "notes": "Marvair manuals direct unresolved troubleshooting to contact the factory",
           "source": "https://marvair.com/doc/77/ComPac%20AVHDA90%20Manual%20Rev.3 (manual)"
+        }
+      ]
+    },
+    {
+      "id": "mason-industries",
+      "name": "Mason Industries",
+      "website": "http://www.mason-ind.com",
+      "categories": [
+        "hvac"
+      ],
+      "support": [
+        {
+          "category": "hvac",
+          "department": "Customer Support",
+          "phone": "+16313480282",
+          "country": "US",
+          "regions": [],
+          "timezone": null,
+          "last_verified": "2026-10-26",
+          "specialty_tags": [],
+          "notes": "Vibration isolation, seismic restraints, expansion joints. Anaheim office 714-535-2727 also in catalog. WARNING: 800-782-5742 in one Mason-related document is Acoustical Solutions'' number, NOT Mason''s; do not use.",
+          "source": "https://www.scribd.com/document/446072368/Breve-catalogo-de-productos-MASON-Industries"
         }
       ]
     },
@@ -4142,6 +5976,72 @@
       ]
     },
     {
+      "id": "masterduct",
+      "name": "Masterduct",
+      "website": "https://www.masterduct.com",
+      "categories": [
+        "hvac"
+      ],
+      "support": [
+        {
+          "category": "hvac",
+          "department": "Customer Support",
+          "phone": "+18003183300",
+          "country": "US",
+          "regions": [],
+          "timezone": null,
+          "last_verified": "2026-10-26",
+          "specialty_tags": [],
+          "notes": "Masterduct, Inc., Houston, TX. Local 713-462-5779. Flexible duct, duct systems.",
+          "source": "https://www.masterduct.com/Portals/0/documents/2017%20Data%20Sheets/Masterduct%20Outdoor%20Duct.pdf"
+        }
+      ]
+    },
+    {
+      "id": "maxi-vac",
+      "name": "Maxi-Vac",
+      "website": "http://www.maxi-vac.com/",
+      "categories": [
+        "hvac"
+      ],
+      "support": [
+        {
+          "category": "hvac",
+          "department": "Customer Support",
+          "phone": "+16306206669",
+          "country": "US",
+          "regions": [],
+          "timezone": null,
+          "last_verified": "2026-10-26",
+          "specialty_tags": [],
+          "notes": "Coil-cleaning equipment, East Dundee/Addison, IL.",
+          "source": "https://manta.com/c/mhh6g4w/maxi-vac-inc"
+        }
+      ]
+    },
+    {
+      "id": "mcdaniel-metals",
+      "name": "McDaniel Metals",
+      "website": "https://mcdanielmetals.com/",
+      "categories": [
+        "hvac"
+      ],
+      "support": [
+        {
+          "category": "hvac",
+          "department": "Customer Support",
+          "phone": "+12819878400",
+          "country": "US",
+          "regions": [],
+          "timezone": null,
+          "last_verified": "2026-10-26",
+          "specialty_tags": [],
+          "notes": "Houston, TX. HVAC accessories (drain pans, economizers).",
+          "source": "http://www.mcdanielmetals.com/"
+        }
+      ]
+    },
+    {
       "id": "mcdonnell-miller",
       "name": "McDonnell & Miller",
       "website": "https://www.mcdonnellmiller.com/",
@@ -4160,6 +6060,28 @@
           "specialty_tags": [],
           "notes": "Main phone listed for McDonnell & Miller (boiler controls).",
           "source": "https://www.aecinfo.com/itt-mcdonnell-miller/company.html"
+        }
+      ]
+    },
+    {
+      "id": "mcquay",
+      "name": "McQuay",
+      "website": "https://www.daikinapplied.com/",
+      "categories": [
+        "hvac"
+      ],
+      "support": [
+        {
+          "category": "hvac",
+          "department": "Service / Repair Dispatch",
+          "phone": "+18004321342",
+          "country": "US",
+          "regions": [],
+          "timezone": null,
+          "last_verified": "2026-10-26",
+          "specialty_tags": [],
+          "notes": "LEGACY: McQuay International to Daikin Applied lineage; Daikin acquired McQuay in 2006, rebranded Daikin-McQuay in 2008, then Daikin Applied in Nov 2013. Own file per legacy rule (not merged into daikin-applied). Successor service dispatch number from Daikin Applied service portfolio and the existing daikin-applied file (id daikin-applied). Chillers, air handlers, rooftop units.",
+          "source": "https://tahoewebuat.daikinapplied.com/api/general/downloadDocument/media/1700"
         }
       ]
     },
@@ -4253,6 +6175,28 @@
       ]
     },
     {
+      "id": "midsun",
+      "name": "Midsun",
+      "website": "http://www.midsungroup.com/",
+      "categories": [
+        "hvac"
+      ],
+      "support": [
+        {
+          "category": "hvac",
+          "department": "Customer Support",
+          "phone": "+18603780100",
+          "country": "US",
+          "regions": [],
+          "timezone": null,
+          "last_verified": "2026-10-26",
+          "specialty_tags": [],
+          "notes": "Midsun Group, Southington, CT. HVAC/refrigeration specialty chemicals, coil cleaners, tools. Related Midsun Specialty Products, Berlin, CT, (860) 378-0111 per Thomasnet, recorded as alternate.",
+          "source": "http://www.midsungroup.com/"
+        }
+      ]
+    },
+    {
       "id": "mitsubishi-electric-hvac",
       "name": "Mitsubishi Electric Trane HVAC US (METUS)",
       "website": "https://www.mitsubishicomfort.com/",
@@ -4341,6 +6285,28 @@
       ]
     },
     {
+      "id": "mortex",
+      "name": "Mortex Products, Inc.",
+      "website": "https://www.mortx.com",
+      "categories": [
+        "hvac"
+      ],
+      "support": [
+        {
+          "category": "hvac",
+          "department": "Customer Support",
+          "phone": "+18004446354",
+          "country": "US",
+          "regions": [],
+          "timezone": null,
+          "last_verified": "2026-10-26",
+          "specialty_tags": [],
+          "notes": "Fort Worth, TX, 501 Terminal Road. Manufactured-housing furnaces, coils, air handlers; founded 1953. Local 817-624-0820.",
+          "source": "https://mortx.com/download/159/mh-96-98-series-indoor-evaporator-coils/id:7oJoq24CvVAAAAAAAAACdQ/Mortex%20Mobile%20Home%2096,%2097,%2098%20Coil%20Sell%20Sheet"
+        }
+      ]
+    },
+    {
       "id": "movincool",
       "name": "MovinCool",
       "website": "https://www.movincool.com/",
@@ -4381,6 +6347,28 @@
           "specialty_tags": [],
           "notes": "Imported from verified manufacturer spreadsheet (Oct 2026). Tech/support",
           "source": "https://support.mrcool.com/hc/en-us/articles/28517084424212-Where-to-Purchase-Products"
+        }
+      ]
+    },
+    {
+      "id": "multiaqua",
+      "name": "Multiaqua",
+      "website": null,
+      "categories": [
+        "hvac"
+      ],
+      "support": [
+        {
+          "category": "hvac",
+          "department": "Customer Support",
+          "phone": "+18648508990",
+          "country": "US",
+          "regions": [],
+          "timezone": null,
+          "last_verified": "2026-10-26",
+          "specialty_tags": [],
+          "notes": "Multiaqua (Airsys / Multiaqua Inc.), Easley SC, 306 Hagood Street; number from the Multiaqua products catalog (warranty document).",
+          "source": "https://www.scribd.com/document/51330120/Multiaqua-Products-Catalog"
         }
       ]
     },
@@ -4447,6 +6435,94 @@
           "specialty_tags": [],
           "notes": "Nailor Industries U.S. headquarters telephone.",
           "source": "nailor.com contact page"
+        }
+      ]
+    },
+    {
+      "id": "napoleon",
+      "name": "Napoleon",
+      "website": "https://www.napoleon.com/en/us/corporate/company/contact-us",
+      "categories": [
+        "hvac"
+      ],
+      "support": [
+        {
+          "category": "hvac",
+          "department": "Customer Support",
+          "phone": "+18668208686",
+          "country": "US",
+          "regions": [],
+          "timezone": "ET",
+          "last_verified": "2026-10-26",
+          "specialty_tags": [],
+          "notes": "Napoleon (Wolf Steel Ltd.), Barrie ON, Canada (24 Napoleon Rd); fireplaces and heating/cooling share this one support line, per the US contact page. Grills support uses the same number until 8pm ET. Canadian HQ 705-721-1212; US plant Crittenden KY.",
+          "source": "https://www.napoleon.com/en/us/corporate/company/contact-us"
+        }
+      ]
+    },
+    {
+      "id": "nashua-tape",
+      "name": "Nashua Tape",
+      "website": "https://www.nashuatape.com/",
+      "categories": [
+        "hvac"
+      ],
+      "support": [
+        {
+          "category": "hvac",
+          "department": "Customer Support",
+          "phone": "+18003437875",
+          "country": "US",
+          "regions": [],
+          "timezone": null,
+          "last_verified": "2026-10-26",
+          "specialty_tags": [],
+          "notes": "Nashua Tape is a Berry Global, Inc. brand (Franklin MA, 25 Forge Parkway); HVAC/duct tapes (UL 181A-P / 181B-FX). Vocabulary note: no tape/adhesive term; hvac is closest given the HVAC duct-tape application.",
+          "source": "https://www.findtape.com/static/TDS/Berry/Berry306_TDS.pdf"
+        }
+      ]
+    },
+    {
+      "id": "national-comfort-products",
+      "name": "National Comfort Products",
+      "website": "https://www.nationalcomfortproducts.com/wp-content/uploads/2025/06/IMNHPAHeatPump14299144.pdf",
+      "categories": [
+        "hvac"
+      ],
+      "support": [
+        {
+          "category": "hvac",
+          "department": "Customer Support",
+          "phone": "+18005237138",
+          "country": "US",
+          "regions": [],
+          "timezone": null,
+          "last_verified": "2026-10-26",
+          "specialty_tags": [],
+          "notes": "National Comfort Products, division of National Refrigeration and Air Conditioning Products, Inc., Bensalem PA (539 Dunksferry Road). NOT International Comfort Products (ICP) - a different company.",
+          "source": "https://www.nationalcomfortproducts.com/wp-content/uploads/2025/06/IMNHPAHeatPump14299144.pdf"
+        }
+      ]
+    },
+    {
+      "id": "national-refrigerants",
+      "name": "National Refrigerants",
+      "website": null,
+      "categories": [
+        "hvac"
+      ],
+      "support": [
+        {
+          "category": "hvac",
+          "department": "Technical Support",
+          "phone": "+18564551203",
+          "country": "US",
+          "regions": [],
+          "timezone": "ET",
+          "last_verified": "2026-10-26",
+          "specialty_tags": [],
+          "notes": "National Refrigerants, Inc.; source labels this the technical support line; email info@refrigerants.com; general 800-262-0012 also on manufacturer SDS.",
+          "source": "https://www.pissedconsumer.com/company/national-refrigerants-inc/customer-service.html"
         }
       ]
     },
@@ -4674,6 +6750,50 @@
       ]
     },
     {
+      "id": "nuheat",
+      "name": "NuHeat",
+      "website": "https://nuheat.com/docs/default-source/2017-products-files/cable/nuheat_cable_-_installation_guide_-_h59308.pdf",
+      "categories": [
+        "hvac"
+      ],
+      "support": [
+        {
+          "category": "hvac",
+          "department": "Technical Support",
+          "phone": "+18007789276",
+          "country": "US",
+          "regions": [],
+          "timezone": null,
+          "last_verified": "2026-10-26",
+          "specialty_tags": [],
+          "notes": "Nuheat is now nVent NUHEAT (nVent); electric floor heating (radiant electric, not hydronic); nVent NUHEAT Technical Services Team, 1.800.778.WARM.",
+          "source": "https://nuheat.com/docs/default-source/2017-products-files/cable/nuheat_cable_-_installation_guide_-_h59308.pdf"
+        }
+      ]
+    },
+    {
+      "id": "ouellet",
+      "name": "Ouellet",
+      "website": "https://www.ouellet.com",
+      "categories": [
+        "hvac"
+      ],
+      "support": [
+        {
+          "category": "hvac",
+          "department": "Technical Support",
+          "phone": "+18004637043",
+          "country": "US",
+          "regions": [],
+          "timezone": null,
+          "last_verified": "2026-10-26",
+          "specialty_tags": [],
+          "notes": "Ouellet Canada Inc., L'Islet, Quebec. Technical support team number for Canada/U.S. (1-800-463-7043) per Ouellet manuals; Quebec-area number (418) 247-3947 also published. Mon-Fri 8:00 AM-5:00 PM EST per OTH700/OTH800 manual. Sales: info@ouellet.com. Covers xref spellings Ouellet, Ouellet Electric Heating, Ouellet Heaters.",
+          "source": "https://www.ouellet.com/ouellet.com/files/a7/a7c41898-be0f-4e68-a88e-43d63b1d798c.pdf"
+        }
+      ]
+    },
+    {
       "id": "oventrop",
       "name": "Oventrop",
       "website": "https://www.oventrop-us.com",
@@ -4692,6 +6812,28 @@
           "specialty_tags": [],
           "notes": "North America office",
           "source": "https://www.oventrop-na.net/Contact%20Us.html"
+        }
+      ]
+    },
+    {
+      "id": "owens-corning",
+      "name": "Owens Corning",
+      "website": "https://www.owenscorning.com/en-us/insulation",
+      "categories": [
+        "hvac"
+      ],
+      "support": [
+        {
+          "category": "hvac",
+          "department": "Customer Support",
+          "phone": "+18004387465",
+          "country": "US",
+          "regions": [],
+          "timezone": null,
+          "last_verified": "2026-10-26",
+          "specialty_tags": [],
+          "notes": "1-800-GET-PINK. General contact published on Owens Corning's insulation pages for insulation, roofing, and other product inquiries; not labelled technical support, so recorded as Customer Support. Insulation (incl. duct insulation) is the xref trade use.",
+          "source": "https://www.owenscorning.com/en-us/insulation"
         }
       ]
     },
@@ -4829,6 +6971,28 @@
       ]
     },
     {
+      "id": "pdm-us",
+      "name": "PDM US",
+      "website": "https://pdmus.com",
+      "categories": [
+        "hvac"
+      ],
+      "support": [
+        {
+          "category": "hvac",
+          "department": "Customer Support",
+          "phone": "+18039098100",
+          "country": "US",
+          "regions": [],
+          "timezone": null,
+          "last_verified": "2026-10-26",
+          "specialty_tags": [],
+          "notes": "PDM US LLC (formerly PDM US Corp.), Rock Hill, SC (640 Cel River Rd, 29730). Number printed in the company's own Gelcopper material safety data sheets alongside info@pdmus.com and corroborated across multiple SDS revisions. Manufacturer of Gelcopper pre-insulated copper linesets and polyethylene foam tubular insulation (ASTM C 1427, Type I, Grade I; UL 723 classified) for HVAC/refrigeration systems. The xref string 'PDM US GelcopperUS' is the company name plus its Gelcopper product line, recorded here as one file. General company number, not labelled technical support, so recorded as Customer Support.",
+          "source": "https://pdmus.com/wp-content/uploads/2020/10/GELCOPPER-MDS-2020.pdf"
+        }
+      ]
+    },
+    {
       "id": "peerless-pump",
       "name": "Peerless Pump",
       "website": "https://www.peerlesspump.com/",
@@ -4870,6 +7034,50 @@
           "specialty_tags": [],
           "notes": "Technical support number published in PennBarry PDQ QuickShip document.",
           "source": "PennBarry PDQ QuickShip Program PDF"
+        }
+      ]
+    },
+    {
+      "id": "permatron",
+      "name": "Permatron",
+      "website": "https://permatron.com",
+      "categories": [
+        "hvac"
+      ],
+      "support": [
+        {
+          "category": "hvac",
+          "department": "Customer Support",
+          "phone": "+18008828012",
+          "country": "US",
+          "regions": [],
+          "timezone": null,
+          "last_verified": "2026-10-26",
+          "specialty_tags": [],
+          "notes": "Permatron Corporation, Elk Grove Village, IL (1180 Pratt Blvd). Toll-free number published throughout permatron.com ('Have a question or concern? Phone: 1-800-882-8012'; sales@permatron.com); company decks label it Customer Service (8:00 AM-4:30 PM CST), so recorded as Customer Support. Air filters, filter media, PreVent air-intake filter screens; since 1957.",
+          "source": "https://permatron.com/permatron-air-filters-online"
+        }
+      ]
+    },
+    {
+      "id": "phoenix-manufacturing",
+      "name": "Phoenix Manufacturing",
+      "website": "https://phoenixmanufacturing.com",
+      "categories": [
+        "hvac"
+      ],
+      "support": [
+        {
+          "category": "hvac",
+          "department": "Customer Support",
+          "phone": "+16024371034",
+          "country": "US",
+          "regions": [],
+          "timezone": null,
+          "last_verified": "2026-10-26",
+          "specialty_tags": [],
+          "notes": "Phoenix Manufacturing, Inc., Phoenix, AZ (3655 East Roeser Road). Number published on Phoenix Manufacturing's own product literature and website; info@phxmfg.com also published. Not labelled technical support, so recorded as Customer Support. Evaporative coolers: AeroCool, Frigiking, Brisa, and Commercial Coolers lines. Covers xref spellings PHOENIX MFG and Phoenix Coolers (the xref parent identifies Phoenix Coolers as Phoenix Manufacturing evaporative coolers). Distinct from Phoenix Lighting (Milwaukee, WI), which has its own file in this batch.",
+          "source": "https://phoenixmanufacturing.com/frigiking-aspen/"
         }
       ]
     },
@@ -4919,6 +7127,28 @@
       ]
     },
     {
+      "id": "polyken",
+      "name": "Polyken",
+      "website": "https://www.polyken.com",
+      "categories": [
+        "hvac"
+      ],
+      "support": [
+        {
+          "category": "hvac",
+          "department": "Customer Support",
+          "phone": "+18776623779",
+          "country": "US",
+          "regions": [],
+          "timezone": null,
+          "last_verified": "2026-10-26",
+          "specialty_tags": [],
+          "notes": "Polyken, a tape brand of Berry Plastics Corporation / Berry Global, Inc. (Evansville, IN; now part of Amcor). Phone is Berry Global's published general number (hours Mon-Fri 8:00 AM-6:00 PM); the historical Polyken direct number 800-343-7875 from 2016 Polyken/Berry Plastics datasheets (Franklin, MA) is superseded and noted here only for traceability. Not labelled technical support, so recorded as Customer Support. Duct, pipe, and industrial tapes (e.g. Polyken 221 duct tape); polyken.com was the brand site. Successor chain: Polyken -> Berry Plastics -> Berry Global -> Amcor.",
+          "source": "https://packagingsolutions.amcor.com/en/news/articles/berry-global-offers-reduced-lead-times-for-95-percent-of-stock-overcaps"
+        }
+      ]
+    },
+    {
       "id": "precision-boilers",
       "name": "Precision Boilers",
       "website": "https://precisionboilers.com/contact/",
@@ -4959,6 +7189,28 @@
           "specialty_tags": [],
           "notes": "Price product support main line (options by product group).",
           "source": "priceindustries.com product support page"
+        }
+      ]
+    },
+    {
+      "id": "purafil",
+      "name": "Purafil",
+      "website": "https://purafil.com/",
+      "categories": [
+        "hvac"
+      ],
+      "support": [
+        {
+          "category": "hvac",
+          "department": "Customer Support",
+          "phone": "+18002226367",
+          "country": "US",
+          "regions": [],
+          "timezone": null,
+          "last_verified": "2026-10-26",
+          "specialty_tags": [],
+          "notes": "Doraville GA. Official SDS also lists the office number; the toll-free number is used. Not labelled tech in the source.",
+          "source": "https://purafil.com/wp-content/uploads/2015/08/Purafil-SP-Media-SDS-GHS-v1.02.pdf"
         }
       ]
     },
@@ -5004,6 +7256,28 @@
           "specialty_tags": [],
           "notes": "Wilo USA main line (covers Wilo brands including QuantumFlo).",
           "source": "https://wilo.com/us/en_us/About-Wilo/Company-Information/Contact-Us/"
+        }
+      ]
+    },
+    {
+      "id": "quincy-compressor",
+      "name": "Quincy Compressor",
+      "website": null,
+      "categories": [
+        "hvac"
+      ],
+      "support": [
+        {
+          "category": "hvac",
+          "department": "Customer Support",
+          "phone": "+18665463588",
+          "country": "US",
+          "regions": [],
+          "timezone": null,
+          "last_verified": "2026-10-26",
+          "specialty_tags": [],
+          "notes": "Quincy Compressor is an Atlas Copco brand; no distinct Quincy line was verified in this pass, so the Atlas Copco US number is used with the parent noted. Air compressors; no compressor term exists in the vocabulary, so mapped to hvac. An Atlas Copco emergency line also exists and is not published as the Quincy line.",
+          "source": "https://www.atlascopco.com/en-us/compressors/service/Plans?__hsfp=1281939615&__hssc=204429455.2.1617644513514&__hstc=204429455.acacebc73d1a89b602bd334b1b5b482c.1590594476709.1617282763078.1617644513514.373"
         }
       ]
     },
@@ -5075,6 +7349,50 @@
       ]
     },
     {
+      "id": "red-dot",
+      "name": "Red Dot",
+      "website": null,
+      "categories": [
+        "hvac"
+      ],
+      "support": [
+        {
+          "category": "hvac",
+          "department": "Customer Support",
+          "phone": "+12065753840",
+          "country": "US",
+          "regions": [],
+          "timezone": null,
+          "last_verified": "2026-10-26",
+          "specialty_tags": [],
+          "notes": "Red Dot Corporation, P.O. Box 58270, Seattle, WA 98138. Mobile-vehicle HVAC (trucks, buses, off-highway), founded 1965. Thomasnet confirms the same number and Seattle address.",
+          "source": "https://www.texastruckac.com/_files/ugd/3a3306_5d626b8186294b4fb8aab8d17917861b.pdf"
+        }
+      ]
+    },
+    {
+      "id": "reflectix",
+      "name": "Reflectix",
+      "website": "https://www.reflectixinc.com/",
+      "categories": [
+        "hvac"
+      ],
+      "support": [
+        {
+          "category": "hvac",
+          "department": "Customer Support",
+          "phone": "+18008793645",
+          "country": "US",
+          "regions": [],
+          "timezone": "ET",
+          "last_verified": "2026-10-26",
+          "specialty_tags": [],
+          "notes": "Reflectix, Inc., #1 School Street, Markleville, IN 46056. Reflective insulation / radiant barrier; mapped to hvac. Office number also published.",
+          "source": "https://www.reflectixinc.com/wp-content/uploads/F8-–-Retail-Product-Guide-Rev-0219.pdf"
+        }
+      ]
+    },
+    {
       "id": "refplus",
       "name": "RefPlus",
       "website": null,
@@ -5093,6 +7411,28 @@
           "specialty_tags": [],
           "notes": "Manufacturer-authored, RefPlus-copyrighted documents: the UDA catalog (CATALOG_UDA_EN-R3, Copyright",
           "source": "https://www.master.ca/media/akeneo_connector/asset_files/C/A/CATALOG_UDA_EN_R2_anglais_fr_CA_a356.pdf"
+        }
+      ]
+    },
+    {
+      "id": "refrigeration-research",
+      "name": "Refrigeration Research",
+      "website": "http://www.refresearch.com/",
+      "categories": [
+        "hvac"
+      ],
+      "support": [
+        {
+          "category": "hvac",
+          "department": "Customer Support",
+          "phone": "+18102271151",
+          "country": "US",
+          "regions": [],
+          "timezone": "ET",
+          "last_verified": "2026-10-26",
+          "specialty_tags": [],
+          "notes": "525 N 5th St, Brighton, MI. Suction accumulators and refrigeration components.",
+          "source": "http://www.refresearch.com/"
         }
       ]
     },
@@ -5119,6 +7459,28 @@
       ]
     },
     {
+      "id": "rensa-filtration",
+      "name": "Rensa Filtration",
+      "website": "https://rensafiltration.com/",
+      "categories": [
+        "hvac"
+      ],
+      "support": [
+        {
+          "category": "hvac",
+          "department": "Customer Support",
+          "phone": "+16307972165",
+          "country": "US",
+          "regions": [],
+          "timezone": null,
+          "last_verified": "2026-10-26",
+          "specialty_tags": [],
+          "notes": "Rensa Filtration, 966 Corporate Blvd, Aurora, IL. info@rensafiltration.com. HVAC air filters and filtration products. Workbook parent note cites an AAF/Daikin lineage; recorded here as stated,",
+          "source": "Rensa brochures (rensafiltration.com)"
+        }
+      ]
+    },
+    {
       "id": "resideo",
       "name": "Resideo",
       "website": "https://www.resideo.com/us/en/",
@@ -5137,6 +7499,28 @@
           "specialty_tags": [],
           "notes": "Technical Support line; professional contractor support is available via",
           "source": "resideo.com support"
+        }
+      ]
+    },
+    {
+      "id": "retrotec",
+      "name": "Retrotec",
+      "website": "https://retrotec.com/",
+      "categories": [
+        "hvac"
+      ],
+      "support": [
+        {
+          "category": "hvac",
+          "department": "Support",
+          "phone": "+18883301345",
+          "country": "US",
+          "regions": [],
+          "timezone": null,
+          "last_verified": "2026-10-26",
+          "specialty_tags": [],
+          "notes": "Retrotec, 1060 E Pole Rd, Everson, WA. support@retrotec.com; sales 855-738-7683. Department is the source's own label (Support). Blower doors, duct testing, building diagnostics.",
+          "source": "retrotec.com blog footer (Support: 1 (888) 330-1345) and Retrotec manual"
         }
       ]
     },
@@ -5303,6 +7687,28 @@
           "specialty_tags": [],
           "notes": "Commercial boilers",
           "source": "https://www.riteboiler.com/contact"
+        }
+      ]
+    },
+    {
+      "id": "royal-metal-products",
+      "name": "Royal Metal Products",
+      "website": "https://royalmetalproducts.com/",
+      "categories": [
+        "hvac"
+      ],
+      "support": [
+        {
+          "category": "hvac",
+          "department": "Customer Support",
+          "phone": "+16785630003",
+          "country": "US",
+          "regions": [],
+          "timezone": null,
+          "last_verified": "2026-10-26",
+          "specialty_tags": [],
+          "notes": "Royal Metal Products, Inc., 100 Royal Way, Temple, GA 30179. Sheet-metal HVAC products: elbows, angles, furnace pipe, fittings, register boots, insulated boxes, flexible ductwork. Alternate 678-563-0094",
+          "source": "FMCSA SAFER snapshot and place data (royalmetalproducts.com)"
         }
       ]
     },
@@ -5491,6 +7897,28 @@
           "specialty_tags": [],
           "notes": "No dedicated tech line published separate from Sanuvox toll-free customer",
           "source": "https://sanuvox.com/media/mmgf3lqx/p900-complete_instruction_manual-en_usint-oct2023.pdf"
+        }
+      ]
+    },
+    {
+      "id": "schwank",
+      "name": "Schwank",
+      "website": "https://schwankheaters.com/",
+      "categories": [
+        "hvac"
+      ],
+      "support": [
+        {
+          "category": "hvac",
+          "department": "Technical Support",
+          "phone": "+18774463727",
+          "country": "US",
+          "regions": [],
+          "timezone": null,
+          "last_verified": "2026-10-26",
+          "specialty_tags": [],
+          "notes": "Schwank USA, Inc., 2 Schwank Way, Waynesboro, GA 30830. Technician calls route to the Technical Services voice line; TSA@SchwankGroup.com. Local (706) 554-6191; an alternate info line (417) 890-9304",
+          "source": "Schwank manuals (VOICE 1-877-446-3727) and ThomasNet profile"
         }
       ]
     },
@@ -5728,6 +8156,50 @@
       ]
     },
     {
+      "id": "spectronics",
+      "name": "Spectronics",
+      "website": "https://www.spectroline.com",
+      "categories": [
+        "hvac"
+      ],
+      "support": [
+        {
+          "category": "hvac",
+          "department": "Customer Support",
+          "phone": "+18002748888",
+          "country": "US",
+          "regions": [],
+          "timezone": null,
+          "last_verified": "2026-10-26",
+          "specialty_tags": [],
+          "notes": "Spectronics Corporation, Westbury, NY (manufacturer of Spectroline UV inspection lamps and fluorescent leak-detection dyes for HVAC/R, aviation and industrial use; MAXIMA, OPTIMAX and TRITAN lamp lines). Local phone 516-333-4840 also published. Covers both xref spellings Spectronics and Spectroline (Spectroline is the Spectronics brand).",
+          "source": "https://www.thomasnet.com/company/spectronics-corporation-407015/profile?coverage_area=DN&heading=26482000"
+        }
+      ]
+    },
+    {
+      "id": "speedclean",
+      "name": "SpeedClean",
+      "website": "https://www.speedclean.com",
+      "categories": [
+        "hvac"
+      ],
+      "support": [
+        {
+          "category": "hvac",
+          "department": "Customer Support",
+          "phone": "+18887003540",
+          "country": "US",
+          "regions": [],
+          "timezone": null,
+          "last_verified": "2026-10-26",
+          "specialty_tags": [],
+          "notes": "SpeedClean, Stamford, CT (portable HVAC coil cleaning systems: CoilJet CJ-125, CJ-200E and accessories; SpeedClean is a registered trademark of Crossford International). The same number is published as SpeedClean Customer Service for warranty and repair information.",
+          "source": "https://manuals.plus/speedclean/cj-200e-coiljet-portable-hvac-coil-cleaning-system-manual"
+        }
+      ]
+    },
+    {
       "id": "spirax-sarco",
       "name": "Spirax Sarco",
       "website": "https://www.spiraxsarco.com/global/en-US/contact-us",
@@ -5790,6 +8262,72 @@
           "specialty_tags": [],
           "notes": "24/7 emergency phone support (cooling towers).",
           "source": "spxcooling.com emergency service page"
+        }
+      ]
+    },
+    {
+      "id": "standard-refrigeration",
+      "name": "Standard Refrigeration",
+      "website": "https://stanref.com",
+      "categories": [
+        "hvac"
+      ],
+      "support": [
+        {
+          "category": "hvac",
+          "department": "Customer Support",
+          "phone": "+16304758101",
+          "country": "US",
+          "regions": [],
+          "timezone": null,
+          "last_verified": "2026-10-26",
+          "specialty_tags": [],
+          "notes": "Standard Refrigeration LLC, Wood Dale, IL (industrial and commercial refrigeration equipment: shell-and-tube condensers, evaporators, marine condensers, heat exchangers and pressure vessels; founded 1922). PHONE CONFLICT: RocketReach lists (630) 475-8101 (area-code-consistent with Wood Dale) while SignalHire and a place record list 608-855-5800 for the same address; the 630 number is used here and the conflict is flagged for confirmation. The stanref.com site itself was bot-blocked on fetch, so no official-site number could be verified. Covers both xref spellings Standard Refrigeration and Standard Refrigeration Co. (treated as variant spellings of the Wood Dale manufacturer, NOT Standard Refrigeration Co., Inc. of Puerto Rico, a mechanical contractor).",
+          "source": "https://rocketreach.co/standard-refrigeration-llc-profile_b457f535fc9b9937"
+        }
+      ]
+    },
+    {
+      "id": "steffes",
+      "name": "\"Steffes Corporation\"",
+      "website": "\"https://steffes.com/ets/thermelect-hydronic-furnace/\"",
+      "categories": [
+        "hvac"
+      ],
+      "support": [
+        {
+          "category": "hvac",
+          "department": "Technical Support",
+          "phone": "+18887833337",
+          "country": "US",
+          "regions": [],
+          "timezone": null,
+          "last_verified": "2026-10-26",
+          "specialty_tags": [],
+          "notes": "Steffes Corporation technical support (1-888-STEFFES), per the ThermElect hydronic furnace page and TRL features page. Note: a Steffes ETS notice states S/EXT/1000 Series room-heater parts and technical support ceased ordering/support from June 1, 2025, so this line does not cover those retired series.",
+          "source": "https://steffes.com/ets/thermelect-hydronic-furnace/"
+        }
+      ]
+    },
+    {
+      "id": "stelpro-design",
+      "name": "\"Stelpro\"",
+      "website": "\"https://www.stelpro.com/tools-and-support/support-and-faq/\"",
+      "categories": [
+        "hvac"
+      ],
+      "support": [
+        {
+          "category": "hvac",
+          "department": "Technical Support",
+          "phone": "+18447835776",
+          "country": "US",
+          "regions": [],
+          "timezone": null,
+          "last_verified": "2026-10-26",
+          "specialty_tags": [],
+          "notes": "Stelpro electric heating. Quebec-based company (Saint-Bruno-de-Montarville); US/Canada toll-free line (1-844-STELPRO).",
+          "source": "https://www.stelpro.com/tools-and-support/support-and-faq/"
         }
       ]
     },
@@ -6038,6 +8576,28 @@
       ]
     },
     {
+      "id": "temprite",
+      "name": "\"Temprite\"",
+      "website": "\"https://temprite.com/products/\"",
+      "categories": [
+        "hvac"
+      ],
+      "support": [
+        {
+          "category": "hvac",
+          "department": "Customer Support",
+          "phone": "+18005529300",
+          "country": "US",
+          "regions": [],
+          "timezone": null,
+          "last_verified": "2026-10-26",
+          "specialty_tags": [],
+          "notes": "Temprite refrigeration oil management, West Chicago IL (1555 W. Hawthorne Lane). Email temprite@temprite.com. Batch parent field lists Temprite (Parker / Temprite), which is ambiguous; support is via Temprite's own published line and Parker ownership is not asserted.",
+          "source": "https://temprite.com/products/"
+        }
+      ]
+    },
+    {
       "id": "temtrol",
       "name": "Temtrol",
       "website": "https://portal.temtrol.com/",
@@ -6145,6 +8705,50 @@
           "specialty_tags": [],
           "notes": "Parent confirmed Oct 26, 2026: ThermalRite is an Everidge brand (Everidge",
           "source": "https://www.everidge.com/wp-content/uploads/2026/06/ThermalRite-Warranty_EV5022.pdf"
+        }
+      ]
+    },
+    {
+      "id": "tif",
+      "name": "\"TIF Instruments\"",
+      "website": null,
+      "categories": [
+        "hvac"
+      ],
+      "support": [
+        {
+          "category": "hvac",
+          "department": "Customer Support",
+          "phone": "+18003275060",
+          "country": "US",
+          "regions": [],
+          "timezone": "EST",
+          "last_verified": "2026-10-26",
+          "specialty_tags": [],
+          "notes": "TIF Instruments refrigerant leak detectors and test instruments. Number from the TIF RX-1A/XL-1A manual (USA toll-free line); no official TIF site page was verified.",
+          "source": "https://www.manualsdir.com/manuals/353745/tif-rx-1a-refrigerant-leak-detector-xl-1a-refrigerant-leak-detector.html?page=4"
+        }
+      ]
+    },
+    {
+      "id": "tin-knocker",
+      "name": "Tin Knocker",
+      "website": "https://www.tinknocker.com/",
+      "categories": [
+        "hvac"
+      ],
+      "support": [
+        {
+          "category": "hvac",
+          "department": "Customer Support",
+          "phone": "+18006400746",
+          "country": "US",
+          "regions": [],
+          "timezone": null,
+          "last_verified": "2026-10-26",
+          "specialty_tags": [],
+          "notes": "Tin Knocker is a product line of TAAG Industries Corp. ('The Tin Knocker People'), 1550 Simpson",
+          "source": "https://www.tinknocker.com/wp-content/uploads/2020/06/24.TK Angle Iron Worker Manual-pdf.pdf"
         }
       ]
     },
@@ -6361,6 +8965,40 @@
       ]
     },
     {
+      "id": "trion",
+      "name": "Trion",
+      "website": null,
+      "categories": [
+        "hvac"
+      ],
+      "support": [
+        {
+          "category": "hvac",
+          "department": "Technical Support",
+          "phone": "+18668292440",
+          "country": "US",
+          "regions": [],
+          "timezone": null,
+          "last_verified": "2026-10-26",
+          "specialty_tags": [],
+          "notes": "Installer Help Line / Technical Support, per Trion IAQ manuals: ''If you have any questions",
+          "source": "https://manualsdump.com/en/manuals/trion-he_plus_1400-he_plus_2000/44399/11"
+        },
+        {
+          "category": "hvac",
+          "department": "Customer Support",
+          "phone": "+18008840002",
+          "country": "US",
+          "regions": [],
+          "timezone": null,
+          "last_verified": "2026-10-26",
+          "specialty_tags": [],
+          "notes": "Trion IAQ Customer Service, 101 McNeill Rd., Sanford, NC 27330; customerservice@trioniaq.com.",
+          "source": "https://www.arcat.com/arcatcos/cos36/arc36130.html"
+        }
+      ]
+    },
+    {
       "id": "true-manufacturing",
       "name": "True Manufacturing",
       "website": null,
@@ -6439,6 +9077,50 @@
       ]
     },
     {
+      "id": "turbotorch",
+      "name": "TurboTorch",
+      "website": null,
+      "categories": [
+        "hvac"
+      ],
+      "support": [
+        {
+          "category": "hvac",
+          "department": "Customer Support",
+          "phone": "+18002380282",
+          "country": "US",
+          "regions": [],
+          "timezone": null,
+          "last_verified": "2026-10-26",
+          "specialty_tags": [],
+          "notes": "U.S. Customer Care for TURBOTORCH, a Victor (ESAB) brand, per Victor/ESAB catalog material. The",
+          "source": "https://pimmedia.winsupplyinc.com/pim/CUT/122017/TURBOTORCH--VICTOR-TECHNOLOGIES--ESAB--BRAND_VMA-J-15_531703250109_CUT.pdf"
+        }
+      ]
+    },
+    {
+      "id": "tutco",
+      "name": "Tutco",
+      "website": "https://tutco.com/",
+      "categories": [
+        "hvac"
+      ],
+      "support": [
+        {
+          "category": "hvac",
+          "department": "Customer Support",
+          "phone": "+19314324141",
+          "country": "US",
+          "regions": [],
+          "timezone": null,
+          "last_verified": "2026-10-26",
+          "specialty_tags": [],
+          "notes": "TUTCO (Tutco, LLC), Cookeville, TN; customerservice@tutco.com. Conductive / commercial duct heaters.",
+          "source": "https://tutco.com/commercial-duct/custom-duct-heaters"
+        }
+      ]
+    },
+    {
       "id": "twin-city-fan",
       "name": "Twin City Fan & Blower",
       "website": "https://www.tcf.com/",
@@ -6480,6 +9162,28 @@
           "specialty_tags": [],
           "notes": "Unico technical support is 800-527-0896 ext. 01.",
           "source": "https://unicosystem.com/technical-support/ (official)"
+        }
+      ]
+    },
+    {
+      "id": "uniweld",
+      "name": "Uniweld",
+      "website": "https://uniweld.com/",
+      "categories": [
+        "hvac"
+      ],
+      "support": [
+        {
+          "category": "hvac",
+          "department": "Technical Support",
+          "phone": "+18003232111",
+          "country": "US",
+          "regions": [],
+          "timezone": "ET",
+          "last_verified": "2026-10-26",
+          "specialty_tags": [],
+          "notes": "Explicitly 'TECHNICAL SERVICE CENTER', Mon-Fri (excluding holidays) 8:15 AM-4:45 PM EST; info@uniweld.com;",
+          "source": "https://uniweld.com:443/pdf/instructions/cutting_torch.pdf"
         }
       ]
     },
@@ -6640,6 +9344,28 @@
       ]
     },
     {
+      "id": "ventfabrics",
+      "name": "Ventfabrics",
+      "website": "https://ventfabrics.com/",
+      "categories": [
+        "hvac"
+      ],
+      "support": [
+        {
+          "category": "hvac",
+          "department": "Customer Support",
+          "phone": "+18006211207",
+          "country": "US",
+          "regions": [],
+          "timezone": null,
+          "last_verified": "2026-10-26",
+          "specialty_tags": [],
+          "notes": "Ventfabrics, Inc., 5520 N. Lynch Avenue, Chicago, IL 60630; local (773) 775-4477; sales@ventfabrics.com.",
+          "source": "https://ventfabrics.com/product/12-inch-ventglas/"
+        }
+      ]
+    },
+    {
       "id": "vertiv-liebert",
       "name": "Vertiv (Liebert Thermal Management)",
       "website": "https://www.vertiv.com/",
@@ -6702,6 +9428,28 @@
           "specialty_tags": [],
           "notes": "Vilter support/customer service phone.",
           "source": "copeland.com Vilter support"
+        }
+      ]
+    },
+    {
+      "id": "virginia-kmp",
+      "name": "\"Virginia KMP\"",
+      "website": "https://www.virginiakmp.com",
+      "categories": [
+        "hvac"
+      ],
+      "support": [
+        {
+          "category": "hvac",
+          "department": "Customer Support",
+          "phone": "+18002858567",
+          "country": "US",
+          "regions": [],
+          "timezone": null,
+          "last_verified": "2026-10-26",
+          "specialty_tags": [],
+          "notes": "Email info@virginiakmp.com. Office (214) 330-7731 per MSDS docs. Drain-pan treatments, filter driers, HVAC/R chemicals.",
+          "source": "https://www.achrnews.com/articles/86326-virginia-kmp-corp-drain-pan-treatments?v=preview"
         }
       ]
     },
@@ -6862,6 +9610,28 @@
       ]
     },
     {
+      "id": "wellair",
+      "name": "\"WellAir\"",
+      "website": "https://www.wellairsolutions.com",
+      "categories": [
+        "hvac"
+      ],
+      "support": [
+        {
+          "category": "hvac",
+          "department": "Customer Support",
+          "phone": "+18665081118",
+          "country": "US",
+          "regions": [],
+          "timezone": null,
+          "last_verified": "2026-10-26",
+          "specialty_tags": [],
+          "notes": "Charlotte NC. Email info@wellairsolutions.com. Indoor air purification: Novaerus portable disinfection + Plasma Air HVAC devices. Number previously associated with Novaerus, but WellAir's own current privacy policy and 2026 press release publish it as WellAir's contact, and WellAir owns the Novaerus + Plasma Air portfolio, so it is WellAir's current line, not merely a predecessor number.",
+          "source": "https://www.wellairsolutions.com/privacy-policy"
+        }
+      ]
+    },
+    {
       "id": "wessels",
       "name": "Wessels Company",
       "website": "https://www.westank.com/",
@@ -6880,6 +9650,28 @@
           "specialty_tags": [],
           "notes": "Tanks/expansion/support line (commercial/hydronic).",
           "source": "https://www.westank.com/contact/"
+        }
+      ]
+    },
+    {
+      "id": "westermeyer-industries",
+      "name": "\"Westermeyer Industries\"",
+      "website": "https://westermeyerind.com",
+      "categories": [
+        "hvac"
+      ],
+      "support": [
+        {
+          "category": "hvac",
+          "department": "Customer Support",
+          "phone": "+12177543277",
+          "country": "US",
+          "regions": [],
+          "timezone": null,
+          "last_verified": "2026-10-26",
+          "specialty_tags": [],
+          "notes": "Bluffs IL. Email customercare@westermeyerind.com. Hours M-F 8am-4:30pm (timezone not stated in source, so no hours block). Refrigeration oil management components (oil separators, reservoirs, strainers); closest vocabulary term: hvac. Xref spelling Westermeyer shares this file.",
+          "source": "https://westermeyerind.com/wp-content/uploads/2026/04/OilStrainer_InstructionSheet.pdf"
         }
       ]
     },
@@ -6906,6 +9698,28 @@
       ]
     },
     {
+      "id": "williams-furnace",
+      "name": "\"Williams Furnace Company\"",
+      "website": "https://www.williamscomfortprod.com",
+      "categories": [
+        "hvac"
+      ],
+      "support": [
+        {
+          "category": "hvac",
+          "department": "Customer Support",
+          "phone": "+18884441212",
+          "country": "US",
+          "regions": [],
+          "timezone": null,
+          "last_verified": "2026-10-26",
+          "specialty_tags": [],
+          "notes": "Williams Comfort Products; Colton CA; established 1916. Local 909-825-0993 also published. Wall furnaces. Distinct from Williamson-Thermoflo; do NOT merge.",
+          "source": "https://thecabindepot.ca/cdn/shop/files/Williams_Direct_Vent_Heater_Manual.pdf?v=11697863838822834187"
+        }
+      ]
+    },
+    {
       "id": "wilo",
       "name": "Wilo USA",
       "website": "https://wilo.com/us/en_us/About-Wilo/Contact-Us/",
@@ -6924,6 +9738,28 @@
           "specialty_tags": [],
           "notes": "Wilo Americas HQ contact number used for service & support routing in the USA.",
           "source": "wilo.com US contact us"
+        }
+      ]
+    },
+    {
+      "id": "worthington",
+      "name": "\"Worthington\"",
+      "website": "https://www.worthingtonenterprises.com",
+      "categories": [
+        "hvac"
+      ],
+      "support": [
+        {
+          "category": "hvac",
+          "department": "Customer Support",
+          "phone": "+18669282657",
+          "country": "US",
+          "regions": [],
+          "timezone": null,
+          "last_verified": "2026-10-26",
+          "specialty_tags": [],
+          "notes": "Worthington Enterprises (formerly Worthington Industries); Columbus OH, 200 Old Wilson Bridge Road. Email cylinders@worthingtonindustries.com. Cylinder-division toll-free; a thomasnet general number is secondary. HVAC cylinders/tanks.",
+          "source": "https://buildingproducts.worthingtonenterprises.com/docs/default-source/default-document-library/worthington_refrigerant_refillable.pdf"
         }
       ]
     },

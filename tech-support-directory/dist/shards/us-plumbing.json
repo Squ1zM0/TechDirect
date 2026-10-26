@@ -158,6 +158,29 @@
       ]
     },
     {
+      "id": "american-granby",
+      "name": "American Granby",
+      "website": "https://www.americangranby.com",
+      "categories": [
+        "plumbing",
+        "valves"
+      ],
+      "support": [
+        {
+          "category": "plumbing",
+          "department": "Customer Support",
+          "phone": "+18007762266",
+          "country": "US",
+          "regions": [],
+          "timezone": null,
+          "last_verified": "2026-10-26",
+          "specialty_tags": [],
+          "notes": "American Granby Company, 7652 Morgan Road, Liverpool, NY 13090. Manufacturer and master distributor (Vendor Consolidation) of valves, fittings, PEX/PE-RT pipe, filter cartridges and specialty products for pump and well, pool and spa, turf irrigation and plumbing/heating wholesale markets since 1962; toll-free number printed on the manufacturer's own price lists alongside direct line (315) 451-1100 (fax (800) 729-3299).",
+          "source": "https://www.americangranby.com/Products/IdealClampsAndFittings/PRESSUREFITTINGS-SCH80/817-060_Sch8045Elbow(Sxs)6?catSort=0"
+        }
+      ]
+    },
+    {
       "id": "american-standard-plumbing",
       "name": "American Standard (Plumbing)",
       "website": "https://www.americanstandard-us.com/pages/contact-us",
@@ -293,6 +316,50 @@
       ]
     },
     {
+      "id": "anaco-husky",
+      "name": "Anaco-Husky",
+      "website": null,
+      "categories": [
+        "plumbing"
+      ],
+      "support": [
+        {
+          "category": "plumbing",
+          "department": "Customer Support",
+          "phone": "+19513722732",
+          "country": "US",
+          "regions": [],
+          "timezone": null,
+          "last_verified": "2026-10-26",
+          "specialty_tags": [],
+          "notes": "No-hub / DWV coupling manufacturer, Corona CA; anaco-husky.com identifies the company with McWane (Buy American page). Number published on Anaco-Husky submittal sheets.",
+          "source": "https://www.anaco-husky.com/upl/downloads/catalog/products/submittal-sheet-rigid-quik.pdf"
+        }
+      ]
+    },
+    {
+      "id": "anti-seize-technology",
+      "name": "Anti-Seize Technology",
+      "website": null,
+      "categories": [
+        "plumbing"
+      ],
+      "support": [
+        {
+          "category": "plumbing",
+          "department": "Customer Support",
+          "phone": "+18474552300",
+          "country": "US",
+          "regions": [],
+          "timezone": null,
+          "last_verified": "2026-10-26",
+          "specialty_tags": [],
+          "notes": "Anti-seize compounds and pipe thread sealants (incl. HVAC/plumbing Tuf-Set), Franklin Park IL. Direct line published in the company catalog alongside its 877-ANTI-SEIZE vanity line.",
+          "source": "https://www.antiseize.com/PDFs/catalog1.pdf"
+        }
+      ]
+    },
+    {
       "id": "anvil",
       "name": "Anvil (ASC Engineered Solutions)",
       "website": "https://www.asc-es.com/brand/anvil",
@@ -338,6 +405,28 @@
       ]
     },
     {
+      "id": "aquabond",
+      "name": "AquaBond",
+      "website": null,
+      "categories": [
+        "plumbing"
+      ],
+      "support": [
+        {
+          "category": "plumbing",
+          "department": "Customer Support",
+          "phone": "+17149611420",
+          "country": "US",
+          "regions": [],
+          "timezone": null,
+          "last_verified": "2026-10-26",
+          "specialty_tags": [],
+          "notes": "Underwater epoxy repair adhesives for pools, spas and fountains (UW-5000/UW-5200). Line published in AquaBond, LLC's own MSDS. Distinct from AquaBond Technologies (water-soluble optical adhesives, Camarillo CA), a different company.",
+          "source": "http://www.poolwater.com/msds/all/Aqua Bond - AB1000A.pdf"
+        }
+      ]
+    },
+    {
       "id": "aquatic",
       "name": "Aquatic",
       "website": null,
@@ -378,6 +467,28 @@
           "specialty_tags": [],
           "notes": "Ariston USA tech support line (water heating products).",
           "source": "us.shop.ariston.com contact page"
+        }
+      ]
+    },
+    {
+      "id": "arrowhead-brass",
+      "name": "Arrowhead Brass",
+      "website": null,
+      "categories": [
+        "plumbing"
+      ],
+      "support": [
+        {
+          "category": "plumbing",
+          "department": "Customer Support",
+          "phone": "+13232219137",
+          "country": "US",
+          "regions": [],
+          "timezone": null,
+          "last_verified": "2026-10-26",
+          "specialty_tags": [],
+          "notes": "Hose bibbs, sillcocks and boiler drains, Los Angeles CA (made in California since 1936). Company line published on Arrowhead specification sheets, email customer.service@arrowheadbrass.com; toll-free 800-332-4267 also listed in directories.",
+          "source": "https://assets.goblueteam.com/267/ITEM/DOC/Arrowhead_Brass_223LF_Specification_Sheet.pdf"
         }
       ]
     },
@@ -470,6 +581,28 @@
       ]
     },
     {
+      "id": "bemis",
+      "name": "Bemis",
+      "website": "https://www.bemisseats.com",
+      "categories": [
+        "plumbing"
+      ],
+      "support": [
+        {
+          "category": "plumbing",
+          "department": "Customer Support",
+          "phone": "+18887226488",
+          "country": "US",
+          "regions": [],
+          "timezone": "CT",
+          "last_verified": "2026-10-26",
+          "specialty_tags": [],
+          "notes": "Bemis Manufacturing Co. customer service for toilet seats and bath products; 1-year manufacturer warranty. Bemis product manuals also publish the Sheboygan Falls main line 800-558-7651.",
+          "source": "https://www.homedepot.com/p/reviews/BEMIS-Round-Enameled-Wood-Closed-Front-Toilet-Seat-in-Venetian-Pink-Removes-for-Easy-Cleaning-500EC-063/202757530/3"
+        }
+      ]
+    },
+    {
       "id": "berkeley-pumps",
       "name": "Berkeley Pumps (Pentair)",
       "website": "https://www.pentair.com/en-us/flow/contact-us/berkeley-contact-us.html",
@@ -488,6 +621,28 @@
           "specialty_tags": [],
           "notes": "Berkeley Technical Support (Pentair).",
           "source": "pentair.com Berkeley contact page"
+        }
+      ]
+    },
+    {
+      "id": "black-swan",
+      "name": "Black Swan",
+      "website": "http://www.blackswanmfg.com/",
+      "categories": [
+        "plumbing"
+      ],
+      "support": [
+        {
+          "category": "plumbing",
+          "department": "Customer Support",
+          "phone": "+18002525796",
+          "country": "US",
+          "regions": [],
+          "timezone": null,
+          "last_verified": "2026-10-26",
+          "specialty_tags": [],
+          "notes": "Black Swan Manufacturing Co., 4540 W. Thomas Street, Chicago, IL 60651-3318, maker of plumbing chemicals and specialties for over 90 years. Toll-free Wats line from the manufacturer catalog; local number 773-227-3700 also published. Email info@blackswanmfg.com.",
+          "source": "https://assets.unilogcorp.com/187/ITEM/DOC/Black_Swan_102667398_Catalog.pdf"
         }
       ]
     },
@@ -555,6 +710,28 @@
           "specialty_tags": [],
           "notes": "Customer service / support line.",
           "source": "blueangelpumps.com contact page"
+        }
+      ]
+    },
+    {
+      "id": "bocchi",
+      "name": "BOCCHI",
+      "website": "https://www.bocchiusa.com",
+      "categories": [
+        "plumbing"
+      ],
+      "support": [
+        {
+          "category": "plumbing",
+          "department": "Customer Support",
+          "phone": "+18775652221",
+          "country": "US",
+          "regions": [],
+          "timezone": null,
+          "last_verified": "2026-10-26",
+          "specialty_tags": [],
+          "notes": "BOCCHI USA, 6590 Shiloh Rd East, Suite D, Alpharetta, GA 30005, maker of fireclay and granite-composite kitchen and bath sinks. Direct line 678-878-3771 also published. Email info@bocchiusa.com.",
+          "source": "https://www.bocchiusa.com/Catalogues/pdfs/Kitchen.pdf"
         }
       ]
     },
@@ -713,6 +890,75 @@
       ]
     },
     {
+      "id": "calpico",
+      "name": "Calpico",
+      "website": "http://www.calpicoinc.com/",
+      "categories": [
+        "plumbing",
+        "waterworks"
+      ],
+      "support": [
+        {
+          "category": "plumbing",
+          "department": "Customer Support",
+          "phone": "+16505882241",
+          "country": "US",
+          "regions": [],
+          "timezone": "PT",
+          "last_verified": "2026-10-26",
+          "specialty_tags": [],
+          "notes": "Calpico, Inc., 1387 San Mateo Ave, South San Francisco, CA 94080, manufacturer and distributor of underground piping products since 1966: casing insulators, end seals, flange insulation kits, PVC and steel wall sleeves, double containment pipes, ground rods, bolt and nut caps. Fax 650-873-6952 also published.",
+          "source": "https://www.thomasnet.com/company/calpico-inc-491558/profile?coverage_area=CN&heading=68710201"
+        }
+      ]
+    },
+    {
+      "id": "cambridge-lee",
+      "name": "Cambridge-Lee Industries",
+      "website": "http://www.camlee.com/",
+      "categories": [
+        "plumbing",
+        "hvac"
+      ],
+      "support": [
+        {
+          "category": "plumbing",
+          "department": "Customer Support",
+          "phone": "+16109264141",
+          "country": "US",
+          "regions": [],
+          "timezone": "ET",
+          "last_verified": "2026-10-26",
+          "specialty_tags": [],
+          "notes": "Cambridge-Lee Industries, LLC, 86 Tube Dr, Reading, PA 19605, copper-focused manufacturer and distributor for plumbing, HVAC, industrial, construction and OEM markets; copper water tube Types K, L, M (ASTM B88), ACR/refrigeration coils (B280), DWV (B306), oxygen/medical tube (B819), wholly produced in the USA. Fax 610-926-7317. Variant numbers not used: 610-926-7351 (carrier registration) and 800-523-8263 (directory listing).",
+          "source": "http://camlee.com/wp-content/uploads/2018/11/2018-09-ACR-Oxy-Med-Information-Sheet.pdf"
+        }
+      ]
+    },
+    {
+      "id": "camco",
+      "name": "Camco Manufacturing",
+      "website": "https://www.camco.net",
+      "categories": [
+        "plumbing",
+        "water-heaters"
+      ],
+      "support": [
+        {
+          "category": "plumbing",
+          "department": "Customer Support",
+          "phone": "+18003342004",
+          "country": "US",
+          "regions": [],
+          "timezone": "ET",
+          "last_verified": "2026-10-26",
+          "specialty_tags": [],
+          "notes": "Camco Manufacturing, 121 Landmark Drive, Greensboro, NC 27409, maker of RV, marine and plumbing/hardware products including water heater elements, thermostats, anode rods, drain pans and repair parts. Emails parts@camco.net, info@camco.net, PlumbingPO@camco.net; local line 336-668-7661 also published. Covers xref rows Camco and Camco Manufacturing Inc (same company).",
+          "source": "https://recalls-rappels.canada.ca/en/alert-recall/camco-manufacturing-inc-recalls-camco-rv-awning-water-proofer"
+        }
+      ]
+    },
+    {
       "id": "cash-acme",
       "name": "Cash Acme",
       "website": "https://www.cashacme.com",
@@ -735,6 +981,28 @@
       ]
     },
     {
+      "id": "centoco",
+      "name": "Centoco",
+      "website": "https://pimmedia.winsupplyinc.com/pim/CUT/082017/CENTOCO-MFG-CORP_3L820STS_15683L820STS001_CUT.pdf",
+      "categories": [
+        "plumbing"
+      ],
+      "support": [
+        {
+          "category": "plumbing",
+          "department": "Customer Support",
+          "phone": "+18002653666",
+          "country": "US",
+          "regions": [],
+          "timezone": null,
+          "last_verified": "2026-10-26",
+          "specialty_tags": [],
+          "notes": "Centoco (toilet seats, residential and commercial; Detroit, MI / McCrory, AR per BBB). US customer service line 1-800-265-3666 published in Centoco product literature (Canada line 519-948-2300 also published).",
+          "source": "https://pimmedia.winsupplyinc.com/pim/CUT/082017/CENTOCO-MFG-CORP_3L820STS_15683L820STS001_CUT.pdf"
+        }
+      ]
+    },
+    {
       "id": "charlotte-pipe",
       "name": "Charlotte Pipe",
       "website": "https://www.charlottepipe.com/",
@@ -753,6 +1021,28 @@
           "specialty_tags": [],
           "notes": "Expert customer service and technical support team for PVC pipe and fittings. Main office (704) 348-6450.",
           "source": "https://www.charlottepipe.com/contact-us"
+        }
+      ]
+    },
+    {
+      "id": "chatham-brass",
+      "name": "Chatham Brass",
+      "website": "http://www.chathambrass.com/",
+      "categories": [
+        "plumbing"
+      ],
+      "support": [
+        {
+          "category": "plumbing",
+          "department": "Customer Support",
+          "phone": "+18005267553",
+          "country": "US",
+          "regions": [],
+          "timezone": null,
+          "last_verified": "2026-10-26",
+          "specialty_tags": [],
+          "notes": "Chatham Brass Co, South Plainfield, NJ; solid brass showerheads and plumbing trim. Toll-free (800) 526-7553 published on Chatham Brass product specification sheets; local line (908) 668-0500 also published.",
+          "source": "http://www.chathambrass.com/files/112678/MODEL%20202.pdf"
         }
       ]
     },
@@ -801,6 +1091,28 @@
       ]
     },
     {
+      "id": "church-seats",
+      "name": "Church Seats",
+      "website": null,
+      "categories": [
+        "plumbing"
+      ],
+      "support": [
+        {
+          "category": "plumbing",
+          "department": "Customer Support",
+          "phone": "+18887226488",
+          "country": "US",
+          "regions": [],
+          "timezone": null,
+          "last_verified": "2026-10-26",
+          "specialty_tags": [],
+          "notes": "Church Seats, a Bemis Manufacturing Company wholesale toilet-seat brand (Bemis acquired Church Seats in 1983; Bemis and Church retained as the two wholesale-channel brands). Support via Bemis customer service, Mon-Fri 8:00 AM-5:00 PM CST. Covers xref spellings 'Church' and 'Church Seats'. No official website verified, so no website field is staged.",
+          "source": "https://manuals.plus/asin/B083Y4M7YH"
+        }
+      ]
+    },
+    {
       "id": "cimberio",
       "name": "Cimberio Valve US",
       "website": "https://cimberiovalve.us/contact-us/",
@@ -845,6 +1157,28 @@
       ]
     },
     {
+      "id": "cleveland-faucet-group",
+      "name": "Cleveland Faucet Group",
+      "website": "http://www.cfgonline.com/",
+      "categories": [
+        "plumbing"
+      ],
+      "support": [
+        {
+          "category": "plumbing",
+          "department": "Customer Support",
+          "phone": "+18884505522",
+          "country": "US",
+          "regions": [],
+          "timezone": null,
+          "last_verified": "2026-10-26",
+          "specialty_tags": [],
+          "notes": "Cleveland Faucet Group (CFG), a Moen brand for multi-family/rental faucets (Baystone, Capstone, Cornerstone, Flagstone lines); CFG's own distinct published support line, separate from Moen's main line (Moen file exists separately). Covers xref spelling 'Cleveland Faucet'.",
+          "source": "https://www.prweb.com/releases/the_cleveland_faucet_group_introduces_new_handheld_showering_system/prweb11266142.htm"
+        }
+      ]
+    },
+    {
       "id": "cresline",
       "name": "Cresline Plastic Pipe Co., Inc.",
       "website": "https://www.cresline.com/",
@@ -867,6 +1201,50 @@
       ]
     },
     {
+      "id": "danco",
+      "name": "Danco",
+      "website": "https://www.danco.com",
+      "categories": [
+        "plumbing"
+      ],
+      "support": [
+        {
+          "category": "plumbing",
+          "department": "Customer Support",
+          "phone": "+18005235135",
+          "country": "US",
+          "regions": [],
+          "timezone": "CT",
+          "last_verified": "2026-10-26",
+          "specialty_tags": [],
+          "notes": "Danco Customer Service and Product Support per danco.com's own contact page; plumbing repair parts (faucets, cartridges, washers). Summer hours Mon-Thu 8am-5pm, Fri 7am-4pm CST also published.",
+          "source": "https://www.danco.com/support/contact-us/?cat=Sales%20Representative"
+        }
+      ]
+    },
+    {
+      "id": "danze",
+      "name": "Danze",
+      "website": "https://www.danze.com",
+      "categories": [
+        "plumbing"
+      ],
+      "support": [
+        {
+          "category": "plumbing",
+          "department": "Technical Support",
+          "phone": "+18883282383",
+          "country": "US",
+          "regions": [],
+          "timezone": "ET",
+          "last_verified": "2026-10-26",
+          "specialty_tags": [],
+          "notes": "Danze technical service center per the manufacturer's own manuals and warranty documents. Decorative plumbing products: faucets, toilets, bidets and lavatories.",
+          "source": "https://manualmachine.com/danze/dc018110/1416352-installation-manual/"
+        }
+      ]
+    },
+    {
       "id": "dearborn",
       "name": "Dearborn (Oatey)",
       "website": "https://www.oatey.com/brands/dearborn",
@@ -885,6 +1263,28 @@
           "specialty_tags": [],
           "notes": "Dearborn brand support via Oatey customer service.",
           "source": "oatey.com contact page"
+        }
+      ]
+    },
+    {
+      "id": "decolav",
+      "name": "Decolav",
+      "website": "https://www.decolav.com",
+      "categories": [
+        "plumbing"
+      ],
+      "support": [
+        {
+          "category": "plumbing",
+          "department": "Customer Support",
+          "phone": "+15612742110",
+          "country": "US",
+          "regions": [],
+          "timezone": null,
+          "last_verified": "2026-10-26",
+          "specialty_tags": [],
+          "notes": "Decolav Customer Service per the manufacturer's own installation guides. Plumbing fixtures: vessel sinks, lavatories, vanity tops and mirrors.",
+          "source": "https://www.manualshelf.com/manual/decolav/1449-cwh/installation-guide-english.html"
         }
       ]
     },
@@ -945,6 +1345,28 @@
       ]
     },
     {
+      "id": "dormont",
+      "name": "Dormont",
+      "website": "https://www.dormont.com",
+      "categories": [
+        "plumbing"
+      ],
+      "support": [
+        {
+          "category": "plumbing",
+          "department": "Customer Support",
+          "phone": "+18003676668",
+          "country": "US",
+          "regions": [],
+          "timezone": null,
+          "last_verified": "2026-10-26",
+          "specialty_tags": [],
+          "notes": "Dormont Manufacturing (Watts) gas connectors and hoses. Customer Service line 1-800-DORMONT published in Dormont catalogs and instructions.",
+          "source": "https://images.tradeservice.com/ATTACHMENTS/DIR100334/WattsWaterTechnologies-DormontMfgCo_00002_5_6_CAT.pdf"
+        }
+      ]
+    },
+    {
       "id": "duravit",
       "name": "Duravit USA",
       "website": "https://www.duravit.us",
@@ -963,6 +1385,28 @@
           "specialty_tags": [],
           "notes": "Technical support (888-DURAVIT).",
           "source": "https://www.duravit.us/service/company/contact.us-en.html"
+        }
+      ]
+    },
+    {
+      "id": "e-z-weld",
+      "name": "E-Z Weld",
+      "website": "https://www.ezweld.com",
+      "categories": [
+        "plumbing"
+      ],
+      "support": [
+        {
+          "category": "plumbing",
+          "department": "Customer Support",
+          "phone": "+18003278460",
+          "country": "US",
+          "regions": [],
+          "timezone": null,
+          "last_verified": "2026-10-26",
+          "specialty_tags": [],
+          "notes": "E-Z Weld (IPS Corporation, Hartsville, TN) PVC/CPVC solvent cements, primers and cleaners. Toll-free line from the company's pocket training guide; supplier phone 310-886-7600 and email sales@ezweld.com also published on SDS documents.",
+          "source": "https://cdn.prod.website-files.com/633ee05e5314f38d07fe5655/67b4bca090ddbc5ae8a50551_E-Z WELD Pocket Training Guide 2_2025.pdf"
         }
       ]
     },
@@ -1055,6 +1499,29 @@
       ]
     },
     {
+      "id": "endot-industries",
+      "name": "\"Endot Industries\"",
+      "website": null,
+      "categories": [
+        "plumbing",
+        "piping-systems"
+      ],
+      "support": [
+        {
+          "category": "plumbing",
+          "department": "Customer Support",
+          "phone": "+18004436368",
+          "country": "US",
+          "regions": [],
+          "timezone": null,
+          "last_verified": "2026-10-26",
+          "specialty_tags": [],
+          "notes": "Endot Industries Inc., Rockaway NJ. Toll-free line also printed with HQ line 973-625-8500 in the same Endot-authored documents. Email info@endot.com. EndoPure and PEX pipe systems.",
+          "source": "https://fr.heatline.com/wp-content/uploads/2019/07/EndoPure-PE4710.pdf"
+        }
+      ]
+    },
+    {
       "id": "environment-one",
       "name": "Environment One (E/One)",
       "website": "https://www.eone.com/support/certified-service-providers",
@@ -1100,6 +1567,50 @@
       ]
     },
     {
+      "id": "ez-flo",
+      "name": "\"EZ-Flo\"",
+      "website": null,
+      "categories": [
+        "plumbing"
+      ],
+      "support": [
+        {
+          "category": "plumbing",
+          "department": "Technical Support",
+          "phone": "+18883282383",
+          "country": "US",
+          "regions": [],
+          "timezone": null,
+          "last_verified": "2026-10-26",
+          "specialty_tags": [],
+          "notes": "EZ-FLO International, Inc., Ontario CA. Number printed as Technical Support in EZ-FLO documents. Catalog also cites 800-486-5256 and 866-827-3012. Plumbing fittings and supply lines. NOT the Australian EZ-FLO irrigation company (ezflo.com.au) and NOT EZ Flow Plumbing LLC (Gilbert AZ).",
+          "source": "https://pdf.lowes.com/productdocuments/45fba529-8f36-435a-8177-b41f90c098b5/15701947.pdf"
+        }
+      ]
+    },
+    {
+      "id": "falcon-stainless",
+      "name": "\"Falcon Stainless\"",
+      "website": null,
+      "categories": [
+        "plumbing"
+      ],
+      "support": [
+        {
+          "category": "plumbing",
+          "department": "Customer Support",
+          "phone": "+18008148444",
+          "country": "US",
+          "regions": [],
+          "timezone": null,
+          "last_verified": "2026-10-26",
+          "specialty_tags": [],
+          "notes": "Falcon Stainless, Temecula CA, since 1981. Toll-free line from the company spec sheet; alternate (818) 767-3569. Email info@falconstainless.com. Corrugated stainless flexible connectors. A 2024 RectorSeal datasheet listing RectorSeal as manufacturer of FALCON WATER CONNECTIONS is a product-line note, not a reason to merge Falcon Stainless away; it keeps its own file.",
+          "source": "https://assets.unilogcorp.com/267/ITEM/DOC/Falcon_Stainless_SWC11218_Specification_Sheet.pdf"
+        }
+      ]
+    },
+    {
       "id": "febco",
       "name": "FEBCO (Watts)",
       "website": "https://www.watts.com/our-story/brands/febco",
@@ -1140,6 +1651,28 @@
           "specialty_tags": [],
           "notes": "Fernco main US customer service line (Davison, MI).",
           "source": "fernco.com locations/contact pages"
+        }
+      ]
+    },
+    {
+      "id": "fiat-products",
+      "name": "\"FIAT Products\"",
+      "website": null,
+      "categories": [
+        "plumbing"
+      ],
+      "support": [
+        {
+          "category": "plumbing",
+          "department": "Customer Support",
+          "phone": "+18335499244",
+          "country": "US",
+          "regions": [],
+          "timezone": null,
+          "last_verified": "2026-10-26",
+          "specialty_tags": [],
+          "notes": "FIAT Products, LLC, 4515 E. 139th St., Grandview, MO 64030. Number from the FIAT Products warranty document: For other information, call (833) 549-9244 (in the United States and Canada). A LIXIL-group plumbing brand (mop basins, shower bases, service sinks, utility sinks). NOT Fiat the automaker, a different company. Covers xref spellings Fiat and FIAT Products; the bare Fiat row sits adjacent to FIAT Products in the xref (one location each), consistent with a shorthand variant in this supply-house context.",
+          "source": "https://images.tradeservice.com/ATTACHMENTS/DIR100275/LIXILGroupCorp-FiatProducts_00001_WARR.pdf"
         }
       ]
     },
@@ -1208,6 +1741,28 @@
           "specialty_tags": [],
           "notes": "Technical support for valve products.",
           "source": "https://www.flomatic.com/support/"
+        }
+      ]
+    },
+    {
+      "id": "florestone",
+      "name": "\"Florestone\"",
+      "website": null,
+      "categories": [
+        "plumbing"
+      ],
+      "support": [
+        {
+          "category": "plumbing",
+          "department": "Customer Support",
+          "phone": "+18004468827",
+          "country": "US",
+          "regions": [],
+          "timezone": null,
+          "last_verified": "2026-10-26",
+          "specialty_tags": [],
+          "notes": "Florestone Products Inc., 2851 Falcon Drive, Madera, CA 93637, since 1947. Toll-free line from Florestone own install docs; alternate 559-661-4171. Molded and terrazzo mop receptors and utility sinks. Category plumbing preferred over commercial-fixtures.",
+          "source": "https://www.florestone.com/mop_sinks/pdf/ms-terrazzo_install.pdf"
         }
       ]
     },
@@ -1391,6 +1946,28 @@
       ]
     },
     {
+      "id": "genova",
+      "name": "'Genova Products'",
+      "website": "https://www.genovaproducts.com/",
+      "categories": [
+        "plumbing"
+      ],
+      "support": [
+        {
+          "category": "plumbing",
+          "department": "Customer Support",
+          "phone": "+18005217488",
+          "country": "US",
+          "regions": [],
+          "timezone": "EST",
+          "last_verified": "2026-10-26",
+          "specialty_tags": [],
+          "notes": "Email inquiry@genovaproducts.com. PVC pipe and fittings.",
+          "source": "https://images.orgill.com/weblarge/10021/Genova_70211_Catalog.pdf"
+        }
+      ]
+    },
+    {
       "id": "georg-fischer",
       "name": "Georg Fischer (GF Piping Systems)",
       "website": "https://www.gfpiping.com/",
@@ -1477,6 +2054,28 @@
           "specialty_tags": [],
           "notes": "Customer service 800 line listed for water systems and wastewater products",
           "source": "xylem.com Goulds Water Technology contact page"
+        }
+      ]
+    },
+    {
+      "id": "graff",
+      "name": "'Graff'",
+      "website": null,
+      "categories": [
+        "plumbing"
+      ],
+      "support": [
+        {
+          "category": "plumbing",
+          "department": "Technical Support",
+          "phone": "+18009544723",
+          "country": "US",
+          "regions": [],
+          "timezone": null,
+          "last_verified": "2026-10-26",
+          "specialty_tags": [],
+          "notes": "Same number is also listed for the Customer Service Center. Hours 8 AM - 6 PM Monday - Friday. Faucets.",
+          "source": "http://graff-designs.com/en/tools/contacts-technical"
         }
       ]
     },
@@ -1603,6 +2202,72 @@
       ]
     },
     {
+      "id": "hercules-chemicals",
+      "name": "Hercules Chemical Company",
+      "website": null,
+      "categories": [
+        "plumbing"
+      ],
+      "support": [
+        {
+          "category": "plumbing",
+          "department": "Customer Support",
+          "phone": "+18002219330",
+          "country": "US",
+          "regions": [],
+          "timezone": null,
+          "last_verified": "2026-10-26",
+          "specialty_tags": [],
+          "notes": "MSDS Information Telephone (source label); listed as Customer Support because the source does not label it technical. CONFLICT FLAGGED, NOT RESOLVED: CPID lists Hercules Chemical Co. at 20600 Emerald Parkway, Cleveland, OH (the Oatey HQ address) with oatey.com and numbers 216-267-7100, 800-321-9535 and 800-321-9532, while other listings give Passaic, NJ 973-778-5000 and herchem.com. The Oatey association is unverified for support routing, so the MSDS information telephone is used as primary.",
+          "source": "https://pimmedia.winsupplyinc.com/pim/MSDS/092017/HERCULES-CHEMICAL-COMPANY_40601_170712177_MSDS.pdf"
+        }
+      ]
+    },
+    {
+      "id": "holdrite",
+      "name": "HoldRite",
+      "website": "https://www.holdrite.com/",
+      "categories": [
+        "plumbing"
+      ],
+      "support": [
+        {
+          "category": "plumbing",
+          "department": "Customer Support",
+          "phone": "+18003210316",
+          "country": "US",
+          "regions": [],
+          "timezone": null,
+          "last_verified": "2026-10-26",
+          "specialty_tags": [],
+          "notes": "HoldRite, Poway, CA. Also 760-744-6944; email sales@holdrite.com. HoldRite became part of Reliance Worldwide Corporation (RWC) in 2017, but it publishes its own distinct contact, so it keeps its own file. Supports, brackets, firestop.",
+          "source": "https://www.manualshelf.com/manual/holdrite/601-20/how-to-guide-english.html"
+        }
+      ]
+    },
+    {
+      "id": "houzer",
+      "name": "Houzer",
+      "website": "https://www.houzersink.com/",
+      "categories": [
+        "plumbing"
+      ],
+      "support": [
+        {
+          "category": "plumbing",
+          "department": "Warranty Support",
+          "phone": "+18008803639",
+          "country": "US",
+          "regions": [],
+          "timezone": null,
+          "last_verified": "2026-10-26",
+          "specialty_tags": [],
+          "notes": "Houzer, Hamilton, NJ. Warranty Service line (source wording). Also 609-584-1900. Email info@Houzer.com; sales@houzersink.com also appears on a Lowes installation guide. Sinks, faucets.",
+          "source": "https://fergusonprod.a.bigcontent.io/v1/static/7598293_18529489_warranty"
+        }
+      ]
+    },
+    {
       "id": "hydromatic",
       "name": "Hydromatic (Pentair)",
       "website": "https://www.pentair.com/en-us/products/pumps/hydromatic.html",
@@ -1712,6 +2377,28 @@
           "specialty_tags": [],
           "notes": "Customer service / technical support line for IPS plumbing products.",
           "source": "ipsplumbingproducts.com contact page"
+        }
+      ]
+    },
+    {
+      "id": "ips-weld-on",
+      "name": "IPS Weld-On",
+      "website": "https://weldon.com/",
+      "categories": [
+        "plumbing"
+      ],
+      "support": [
+        {
+          "category": "plumbing",
+          "department": "Technical Support",
+          "phone": "+18774778327",
+          "country": "US",
+          "regions": [],
+          "timezone": null,
+          "last_verified": "2026-10-26",
+          "specialty_tags": [],
+          "notes": "Solvent cements and adhesives; Weld-On Adhesives, Inc., an IPS Corporation subsidiary. Number labeled technical hotline on weldon.com.",
+          "source": "https://weldon.com/2024/05/01/the-best-solvent-cement-for-pool-and-spa-installation/"
         }
       ]
     },
@@ -1871,6 +2558,28 @@
       ]
     },
     {
+      "id": "kindred",
+      "name": "Kindred",
+      "website": "https://www.kindred-sinkware.com/",
+      "categories": [
+        "plumbing"
+      ],
+      "support": [
+        {
+          "category": "plumbing",
+          "department": "Customer Support",
+          "phone": "+18006265771",
+          "country": "US",
+          "regions": [],
+          "timezone": null,
+          "last_verified": "2026-10-26",
+          "specialty_tags": [],
+          "notes": "Kitchen sinks; a Franke brand. FRANKE HOME SOLUTIONS, 800 Aviation Parkway, Smyrna, TN 37167; email kscustomerservice.us@franke.com. Canadian line 866-687-7465, Franke Kindred Canada, P.O. Box 190, 1000 Franke Kindred Road, Midland, Ontario L4R 4K9, hours Mon-Thu 8:00 AM-5:00 PM, Fri 8:00 AM-3:30 PM ET. A retailer phone on kbauthority.com listings is a retailer, not the manufacturer, and was not used.",
+          "source": "https://www.kindred-sinkware.com/content/dam/kindred/us/en/documents/digital-brochures/Kindred%20Catalog_USA_ENG_2024.pdf.coredownload.pdf"
+        }
+      ]
+    },
+    {
       "id": "kinetico",
       "name": "Kinetico",
       "website": "https://www.kinetico.com/customer-support/",
@@ -2025,6 +2734,50 @@
       ]
     },
     {
+      "id": "kwc",
+      "name": "KWC",
+      "website": null,
+      "categories": [
+        "plumbing"
+      ],
+      "support": [
+        {
+          "category": "plumbing",
+          "department": "Customer Support",
+          "phone": "+18885923287",
+          "country": "US",
+          "regions": [],
+          "timezone": null,
+          "last_verified": "2026-10-26",
+          "specialty_tags": [],
+          "notes": "KWC faucets customer service / technical departments line per KWC product manuals (manuals direct technical assistance to this number). KWC America, Inc., formerly at Norcross, GA; US distribution via Forte Brands LLC per trade listings.",
+          "source": "https://www.manualsdir.com/manuals/156069/kwc-plumbing-product.html"
+        }
+      ]
+    },
+    {
+      "id": "lacava",
+      "name": "Lacava",
+      "website": null,
+      "categories": [
+        "plumbing"
+      ],
+      "support": [
+        {
+          "category": "plumbing",
+          "department": "Technical Support",
+          "phone": "+18885222823",
+          "country": "US",
+          "regions": [],
+          "timezone": null,
+          "last_verified": "2026-10-26",
+          "specialty_tags": [],
+          "notes": "LACAVA owner's manuals direct technical assistance to this toll-free number; Chicago, IL (tel 773-637-9600 also published in manuals). Bathroom fixtures and vanities.",
+          "source": "https://lacava.com/manual/W1014_manual.pdf"
+        }
+      ]
+    },
+    {
       "id": "lasco-fittings",
       "name": "LASCO Fittings, Inc.",
       "website": "https://plumbingnet.com/lasco-fittings-inc/",
@@ -2065,6 +2818,72 @@
           "specialty_tags": [],
           "notes": "Customer service phone listed for LASCO (Westlake Pipe & Fittings contacts).",
           "source": "westlakepipe.com contacts PDF listing LASCO 800-776-2756"
+        }
+      ]
+    },
+    {
+      "id": "lawler",
+      "name": "Lawler",
+      "website": null,
+      "categories": [
+        "plumbing"
+      ],
+      "support": [
+        {
+          "category": "plumbing",
+          "department": "Customer Support",
+          "phone": "+13172611212",
+          "country": "US",
+          "regions": [],
+          "timezone": null,
+          "last_verified": "2026-10-26",
+          "specialty_tags": [],
+          "notes": "Lawler Manufacturing Co., Indianapolis, IN; thermostatic mixing valves and tempered-water valves. General company number.",
+          "source": "https://www.thomasnet.com/company/lawler-manufacturing-co-inc-10022621/profile"
+        }
+      ]
+    },
+    {
+      "id": "ldr-industries",
+      "name": "LDR Industries",
+      "website": null,
+      "categories": [
+        "plumbing"
+      ],
+      "support": [
+        {
+          "category": "plumbing",
+          "department": "Customer Support",
+          "phone": "+18887760942",
+          "country": "US",
+          "regions": [],
+          "timezone": null,
+          "last_verified": "2026-10-26",
+          "specialty_tags": [],
+          "notes": "Legacy brand: Homewerks Worldwide, LLC acquired product lines and brands from LDR Global Industries, LLC (2023, per Homewerks release). Number published is the successor Homewerks contact number; LDR's own ldrind.com support line is no longer separately published. Plumbing fittings, valves and supplies.",
+          "source": "https://www.prweb.com/releases/homewerks-worldwide-llc-acquires-product-lines-and-brands-from-ldr-global-industries-llc-844847289.html"
+        }
+      ]
+    },
+    {
+      "id": "leaksmart",
+      "name": "LeakSmart",
+      "website": null,
+      "categories": [
+        "plumbing"
+      ],
+      "support": [
+        {
+          "category": "plumbing",
+          "department": "Customer Support",
+          "phone": "+18555325768",
+          "country": "US",
+          "regions": [],
+          "timezone": null,
+          "last_verified": "2026-10-26",
+          "specialty_tags": [],
+          "notes": "LeakSmart (Watts) leak-detection and automatic shutoff systems. Support number published by LeakSmart in its own customer replies; techsupport@leaksmart.com and customer-service@leaksmart.com also published. Distinct from the general Watts line, so filed standalone.",
+          "source": "https://www.homedepot.com/p/reviews/LeakSmart-Leak-Detection-Sensor-8840100H/206485206/1"
         }
       ]
     },
@@ -2153,6 +2972,28 @@
           "specialty_tags": [],
           "notes": "Little Giant technical support number published by the manufacturer (also",
           "source": "littlegiant.com news item listing technical support numbers"
+        }
+      ]
+    },
+    {
+      "id": "lsp-products",
+      "name": "LSP Products",
+      "website": "\"https://www.lspproducts.com\"",
+      "categories": [
+        "plumbing"
+      ],
+      "support": [
+        {
+          "category": "plumbing",
+          "department": "Customer Support",
+          "phone": "+18008543215",
+          "country": "US",
+          "regions": [],
+          "timezone": null,
+          "last_verified": "2026-10-26",
+          "specialty_tags": [],
+          "notes": "LSP Products Group, Irving, TX (2727 Chemsearch Blvd.); plumbing outlet boxes (Switch Hitter, FireStop), water supply connectors, pipe supports, toilet and faucet parts. Number from LSP's own 2018 catalog.",
+          "source": "https://s22970.pcdn.co/wp-content/uploads/2018/01/LSP_2018Catalog.pdf"
         }
       ]
     },
@@ -2290,6 +3131,50 @@
       ]
     },
     {
+      "id": "midland-industries",
+      "name": "Midland Industries",
+      "website": "https://www.midlandindustries.com",
+      "categories": [
+        "plumbing"
+      ],
+      "support": [
+        {
+          "category": "plumbing",
+          "department": "Customer Support",
+          "phone": "+18008215725",
+          "country": "US",
+          "regions": [],
+          "timezone": null,
+          "last_verified": "2026-10-26",
+          "specialty_tags": [],
+          "notes": "Overland Park, KS. Brass fittings, valves; Mid-America Fittings (MAF) brand. MAF catalog also lists 800-633-6771; email mafsales@midlandindustries.com. FLAG: Midland Industries and Midland Metal share the 821-5725 number and overlapping product lines; filed separately because each publishes its own site/catalog; parent to adjudicate whether they are one company under two names.",
+          "source": "https://www.midlandindustries.com/catalog/Brass-Fittings/Push-to-Connect-D-O-T-Composite-Body"
+        }
+      ]
+    },
+    {
+      "id": "midland-metal",
+      "name": "Midland Metal",
+      "website": "https://www.midlandmetal.com",
+      "categories": [
+        "plumbing"
+      ],
+      "support": [
+        {
+          "category": "plumbing",
+          "department": "Customer Support",
+          "phone": "+18008215725",
+          "country": "US",
+          "regions": [],
+          "timezone": null,
+          "last_verified": "2026-10-26",
+          "specialty_tags": [],
+          "notes": "Midland Metal Mfg, Kansas City, MO, family-owned since 1980. Brass fittings, ball valves, steel nipples, malleable iron fittings; stocking locations in CA, GA, TX. PRWeb also lists ''call 888-821-5725'' and site midlandindustrial.com. FLAG: shares 821-5725 with Midland Industries; see midland-industries note; filed separately, parent to adjudicate.",
+          "source": "https://fliphtml5.com/ltvp/jwaa/basic/201-250"
+        }
+      ]
+    },
+    {
       "id": "mifab",
       "name": "MIFAB",
       "website": "https://mifab.com",
@@ -2308,6 +3193,28 @@
           "specialty_tags": [],
           "notes": "Toll-free customer support listed on MIFAB customer service page.",
           "source": "mifab.com customer service page"
+        }
+      ]
+    },
+    {
+      "id": "mill-rose",
+      "name": "Mill-Rose",
+      "website": "https://www.millrose.com",
+      "categories": [
+        "plumbing"
+      ],
+      "support": [
+        {
+          "category": "plumbing",
+          "department": "Customer Support",
+          "phone": "+18003213533",
+          "country": "US",
+          "regions": [],
+          "timezone": null,
+          "last_verified": "2026-10-26",
+          "specialty_tags": [],
+          "notes": "The Mill-Rose Company, Mentor, OH, since 1919. Brushes, drain-cleaning tools, pipe tools. Email info@millrose.com; local 440-255-9171. Clean-Fit/Blue Monster lines use 800-321-3598 / 440-974-6730.",
+          "source": "https://www.millrose.com/carbon_fiber_brushes.php"
         }
       ]
     },
@@ -2558,6 +3465,29 @@
       ]
     },
     {
+      "id": "national-pipe-plastics",
+      "name": "National Pipe & Plastics",
+      "website": null,
+      "categories": [
+        "plumbing",
+        "piping-systems"
+      ],
+      "support": [
+        {
+          "category": "plumbing",
+          "department": "Customer Support",
+          "phone": "+18008364350",
+          "country": "US",
+          "regions": [],
+          "timezone": null,
+          "last_verified": "2026-10-26",
+          "specialty_tags": [],
+          "notes": "National Pipe & Plastics, Inc., an Oldcastle Infrastructure company; PVC pipe, plumbing pipe, electrical conduit. Number is the toll-free on the Oldcastle corporate-HQ locator; plant number 336-996-2711 noted but not used.",
+          "source": "https://locator.oldcastleinfrastructure.com/ny/vestal/oldcastle-81.html"
+        }
+      ]
+    },
+    {
       "id": "nds",
       "name": "NDS",
       "website": "https://www.ndspro.com",
@@ -2770,6 +3700,50 @@
       ]
     },
     {
+      "id": "parker-hannifin",
+      "name": "Parker Hannifin",
+      "website": "https://www.parker.com",
+      "categories": [
+        "plumbing"
+      ],
+      "support": [
+        {
+          "category": "plumbing",
+          "department": "Customer Support",
+          "phone": "+12168963000",
+          "country": "US",
+          "regions": [],
+          "timezone": null,
+          "last_verified": "2026-10-26",
+          "specialty_tags": [],
+          "notes": "Parker-Hannifin Corporation, Mayfield Heights, OH (corporate headquarters). Main corporate number published by Parker Hannifin company profiles; Parker support is routed through divisions and distributors, so recorded as Customer Support, not Technical Support. Motion and control technologies: hydraulics, pneumatics, fluid connectors (fittings, valves, hoses) — no hydraulics/pneumatics term exists in the category vocabulary, so plumbing (fittings/valves/hoses) is the closest term. Distinct from the existing parker-sporlan file, which is the Sporlan Division only. Covers xref spellings Parker, Parker Hannifin Corporation, and Parker-Hannifin; the Brass Products Division is a Parker Hannifin division with no distinct support contact and resolves to this file.",
+          "source": "https://www.marketbeat.com/stocks/NYSE/PH/?utm-source=404Redirect&utm-medium=404Redirect"
+        }
+      ]
+    },
+    {
+      "id": "pasco-specialty-manufacturing",
+      "name": "Pasco Specialty & Manufacturing",
+      "website": "https://pascospecialty.com",
+      "categories": [
+        "plumbing"
+      ],
+      "support": [
+        {
+          "category": "plumbing",
+          "department": "Customer Support",
+          "phone": "+13105377782",
+          "country": "US",
+          "regions": [],
+          "timezone": null,
+          "last_verified": "2026-10-26",
+          "specialty_tags": [],
+          "notes": "PASCO Specialty & Mfg., Inc., Lynwood, CA (11156 Wright Road); second plant Curtis Bay, MD (410) 360-5010. General company phone printed on manufacturer spec submittals; not labelled technical support, so recorded as Customer Support. Covers xref spellings Pasco and Pasco Specialty and Manufacturing. Specialty plumbing products, drains, fittings.",
+          "source": "https://pascospecialty.com/flyers/PASCO_5080_Web_1221.pdf"
+        }
+      ]
+    },
+    {
       "id": "pentair-hydromatic",
       "name": "Pentair - Hydromatic",
       "website": "https://www.pentair.com/en-us/flow/contact-us/commercial-support-contact-us.html",
@@ -2860,6 +3834,29 @@
       ]
     },
     {
+      "id": "performance-pipe",
+      "name": "Performance Pipe",
+      "website": "https://www.performancepipe.com",
+      "categories": [
+        "plumbing",
+        "waterworks"
+      ],
+      "support": [
+        {
+          "category": "plumbing",
+          "department": "Technical Support",
+          "phone": "+19725996632",
+          "country": "US",
+          "regions": [],
+          "timezone": null,
+          "last_verified": "2026-10-26",
+          "specialty_tags": [],
+          "notes": "Performance Pipe, a division of Chevron Phillips Chemical Company LP, Plano, TX. Number explicitly labelled 'Technical Services' in the Performance Pipe gas distribution brochure (email pipetechsupport@cpchem.com); general company phone 800-527-0662 also published. HDPE pipe and fittings for plumbing, waterworks, gas, mining, and industrial use.",
+          "source": "https://www.cpchem.com/sites/default/files/2022-08/PP%20310%20Gas%20Brochure_%20July2022.pdf"
+        }
+      ]
+    },
+    {
       "id": "perrin-rowe",
       "name": "Perrin & Rowe",
       "website": null,
@@ -2882,6 +3879,28 @@
       ]
     },
     {
+      "id": "petroflex-north-america",
+      "name": "Petroflex North America",
+      "website": "https://www.petroflexna.com",
+      "categories": [
+        "plumbing"
+      ],
+      "support": [
+        {
+          "category": "plumbing",
+          "department": "Customer Support",
+          "phone": "+18004335711",
+          "country": "US",
+          "regions": [],
+          "timezone": null,
+          "last_verified": "2026-10-26",
+          "specialty_tags": [],
+          "notes": "Petroflex North America LLC, Gainesville, TX (1305 North I-35). Toll-free number published on petroflexna.com (24-hour emergency access; local (940) 668-7283 also published); not labelled technical support, so recorded as Customer Support. Covers xref spellings Petroflex and Petroflex North America. Polyethylene duct (CableGuard) and flexible piping; family-owned since 1983.",
+          "source": "https://www.petroflexna.com/about-us"
+        }
+      ]
+    },
+    {
       "id": "pfister",
       "name": "Pfister",
       "website": "https://www.pfisterfaucets.com/customer-support",
@@ -2900,6 +3919,29 @@
           "specialty_tags": [],
           "notes": "Customer support line used for product and technical questions.",
           "source": "pfisterfaucets.com customer support page"
+        }
+      ]
+    },
+    {
+      "id": "phd-manufacturing",
+      "name": "PHD Manufacturing",
+      "website": "https://www.phdmfg.com",
+      "categories": [
+        "plumbing",
+        "hvac"
+      ],
+      "support": [
+        {
+          "category": "plumbing",
+          "department": "Customer Support",
+          "phone": "+18003212736",
+          "country": "US",
+          "regions": [],
+          "timezone": null,
+          "last_verified": "2026-10-26",
+          "specialty_tags": [],
+          "notes": "PHD Manufacturing, Inc., Columbiana, OH (44018 Columbiana-Waterford Road). Toll-free number published on PHD's own product literature; direct (330) 482-9256 and customerservice@phdmfg.com also published. Not labelled technical support, so recorded as Customer Support. Pipe hangers, supports, strut, and seismic bracing for plumbing, mechanical, and electrical systems. Covers xref spellings PHD and PHD Manufacturing.",
+          "source": "https://www.phd-mfg.com/wp-content/uploads/2025/12/030_11-12-25.pdf"
         }
       ]
     },
@@ -2948,6 +3990,97 @@
       ]
     },
     {
+      "id": "pipe-tytes",
+      "name": "Pipe-Tytes",
+      "website": "https://pipetytes.com",
+      "categories": [
+        "plumbing",
+        "hardware"
+      ],
+      "support": [
+        {
+          "category": "plumbing",
+          "department": "Customer Support",
+          "phone": "+17727703200",
+          "country": "US",
+          "regions": [],
+          "timezone": null,
+          "last_verified": "2026-10-26",
+          "specialty_tags": [],
+          "notes": "Pipe-Tytes, Inc., Vero Beach, FL (9050 16th St). Number published on the company's own contractor store page and corroborated by its place listing; hours Mon-Fri 8:00 AM-4:00 PM ET. Manufacturer of pipe hangers, suspension clamps, strut, fasteners, metal-stud insulators, and related supports; carried by Ferguson. General company number, not labelled technical support, so recorded as Customer Support.",
+          "source": "https://www.pipetytes.com/store?store-page=Add-A-Hangers-c181827278"
+        }
+      ]
+    },
+    {
+      "id": "plastic-oddities",
+      "name": "Plastic Oddities",
+      "website": "https://plasticoddities.com",
+      "categories": [
+        "plumbing",
+        "drainage"
+      ],
+      "support": [
+        {
+          "category": "plumbing",
+          "department": "Customer Support",
+          "phone": "+18004385327",
+          "country": "US",
+          "regions": [],
+          "timezone": null,
+          "last_verified": "2026-10-26",
+          "specialty_tags": [],
+          "notes": "Plastic Oddities, Inc., Forest City, NC (291 Shiloh Rd, Forest City, NC 28043; PO Box 1528, Rutherfordton, NC 28139). Manufacturer of plumbing parts since 1975, founded by Lewis Izzi, Sr. on the offset closet flange; product line includes floor sinks, shower drains, cleanouts, roof drains, closet/urinal flanges, couplings and test caps in PVC and ABS. Order-by-phone number printed in the company's own catalogs; fax 828-247-6609 also published.",
+          "source": "https://pimmedia.winsupplyinc.com/pim/CUT/112017/PLASTIC-ODDITIES-INC_PFS300F_0658PFS300F_CUT.pdf"
+        }
+      ]
+    },
+    {
+      "id": "plumberex",
+      "name": "Plumberex",
+      "website": "https://www.plumberex.com",
+      "categories": [
+        "plumbing"
+      ],
+      "support": [
+        {
+          "category": "plumbing",
+          "department": "Customer Support",
+          "phone": "+18004758629",
+          "country": "US",
+          "regions": [],
+          "timezone": null,
+          "last_verified": "2026-10-26",
+          "specialty_tags": [],
+          "notes": "Plumberex Specialty Products, Inc., Thousand Palms, CA (72170 Dunham Way). Toll-free number published on plumberex.com's about page ('Questions? Call us 1-800-475-8629'); office (760) 343-7363 and customerservice@plumberex.com also published. A 2012 product binder printed 800-475-8269, but the company's current site and 2023 literature both give 800-475-8629, so the latter is used. Not labelled technical support, so recorded as Customer Support. ADA under-lavatory pipe insulators (Trap Gear, Pro-Extreme), made in-house in Southern California since 1986.",
+          "source": "https://www.plumberex.com/about-us"
+        }
+      ]
+    },
+    {
+      "id": "poly-cam",
+      "name": "Poly-Cam",
+      "website": "https://www.poly-cam.com",
+      "categories": [
+        "plumbing",
+        "waterworks"
+      ],
+      "support": [
+        {
+          "category": "plumbing",
+          "department": "Customer Support",
+          "phone": "+17637866682",
+          "country": "US",
+          "regions": [],
+          "timezone": null,
+          "last_verified": "2026-10-26",
+          "specialty_tags": [],
+          "notes": "Poly-Cam, Inc., Anoka, MN (1101 McKinley Street). Number published on Poly-Cam's own product submittals. Not labelled technical support, so recorded as Customer Support. HDPE transition fittings: threaded, flanged, camlock, groove, and electrofusion transitions for water, gas, and sewer systems; NSF 61 listed.",
+          "source": "https://poly-cam.com/wp-content/uploads/2024/03/Series-641-The-Camlock-HDPE-Male-Transition-Submittal.pdf"
+        }
+      ]
+    },
+    {
       "id": "powers",
       "name": "POWERS (Watts Brand)",
       "website": "https://www.watts.com/our-story/brands/powers",
@@ -2989,6 +4122,28 @@
           "specialty_tags": [],
           "notes": "PRIER customer service line used for product support/orders.",
           "source": "https://www.prier.com/blog/the-importance-of-live-customer-service/"
+        }
+      ]
+    },
+    {
+      "id": "proflo",
+      "name": "PROFLO",
+      "website": null,
+      "categories": [
+        "plumbing"
+      ],
+      "support": [
+        {
+          "category": "plumbing",
+          "department": "Customer Support",
+          "phone": "+18002213379",
+          "country": "US",
+          "regions": [],
+          "timezone": null,
+          "last_verified": "2026-10-26",
+          "specialty_tags": [],
+          "notes": "PROFLO products are manufactured for and distributed exclusively by Ferguson Enterprises, LLC; warranty documents direct callers to PROFLO customer service. Ferguson has no TechDirect file, so PROFLO has its own file with Ferguson as parent.",
+          "source": "https://fergusonprod.a.bigcontent.io/v1/static/4334987_1479047_parts"
         }
       ]
     },
@@ -3227,6 +4382,28 @@
       ]
     },
     {
+      "id": "savard-plumbing",
+      "name": "Savard Plumbing Co",
+      "website": null,
+      "categories": [
+        "plumbing"
+      ],
+      "support": [
+        {
+          "category": "plumbing",
+          "department": "Technical Support",
+          "phone": "+19786896066",
+          "country": "US",
+          "regions": [],
+          "timezone": null,
+          "last_verified": "2026-10-26",
+          "specialty_tags": [],
+          "notes": "Savard Plumbing Co, North Andover, MA (815 Chestnut St): flexible water connectors, polymer tubing and hose. Acquired by Watts Water Technologies (PitchBook: ''Savard Plumbing was acquired by",
+          "source": "Existing TechDirect watts file (watts.com support page) and PitchBook acquisition profile"
+        }
+      ]
+    },
+    {
       "id": "sfa-saniflo",
       "name": "SFA Saniflo",
       "website": "https://www.sfasaniflo.com/en/contact-us",
@@ -3293,6 +4470,28 @@
       ]
     },
     {
+      "id": "signature-hardware",
+      "name": "Signature Hardware",
+      "website": "https://www.signaturehardware.com",
+      "categories": [
+        "plumbing"
+      ],
+      "support": [
+        {
+          "category": "plumbing",
+          "department": "Customer Support",
+          "phone": "+18668552284",
+          "country": "US",
+          "regions": [],
+          "timezone": null,
+          "last_verified": "2026-10-26",
+          "specialty_tags": [],
+          "notes": "Signature Hardware (bathroom and kitchen fixtures, faucets, tubs, vanities). Customer service number from product installation instructions; order line 855-715-1800 is also published on the company site.",
+          "source": "https://www.manualshelf.com/manual/signature-hardware/404055-2/installation-sheet-english.html"
+        }
+      ]
+    },
+    {
       "id": "sioux-chief",
       "name": "Sioux Chief",
       "website": "https://www.siouxchief.com/connect/customer-service/contact-us",
@@ -3333,6 +4532,28 @@
           "specialty_tags": [],
           "notes": "Sloan technical support line.",
           "source": "sloan.com support contact page"
+        }
+      ]
+    },
+    {
+      "id": "sonoma-forge",
+      "name": "Sonoma Forge",
+      "website": "https://www.sonomaforge.com",
+      "categories": [
+        "plumbing"
+      ],
+      "support": [
+        {
+          "category": "plumbing",
+          "department": "Customer Support",
+          "phone": "+18003305553",
+          "country": "US",
+          "regions": [],
+          "timezone": null,
+          "last_verified": "2026-10-26",
+          "specialty_tags": [],
+          "notes": "Sonoma Forge, Petaluma, CA (handcrafted solid-brass designer faucets, tub fillers, shower systems and bath accessories; collections WaterBridge, WherEver, CiXX, STRAP, Sans Hands sensor faucets). Local phone 707-789-9201 also published.",
+          "source": "https://ccr-mag.com/sonoma-forge-introduces-sleek-wall-faucets-for-luxury-baths/"
         }
       ]
     },
@@ -3426,6 +4647,28 @@
       ]
     },
     {
+      "id": "strom-living",
+      "name": "\"Strom Living\"",
+      "website": "\"https://stromliving.com/\"",
+      "categories": [
+        "plumbing"
+      ],
+      "support": [
+        {
+          "category": "plumbing",
+          "department": "Customer Support",
+          "phone": "+19166382722",
+          "country": "US",
+          "regions": [],
+          "timezone": null,
+          "last_verified": "2026-10-26",
+          "specialty_tags": [],
+          "notes": "Strom Living plumbing fixtures and fittings, Rancho Cordova CA. Email support@stromliving.com.",
+          "source": "https://stromliving.com/pages/shipping-returns"
+        }
+      ]
+    },
+    {
       "id": "symmons",
       "name": "Symmons",
       "website": "https://www.symmons.com/support/",
@@ -3466,6 +4709,28 @@
           "specialty_tags": [],
           "notes": "Support phone listed on Takagi support page (tankless water heaters).",
           "source": "takagi.com Support"
+        }
+      ]
+    },
+    {
+      "id": "tectite",
+      "name": "\"Tectite\"",
+      "website": null,
+      "categories": [
+        "plumbing"
+      ],
+      "support": [
+        {
+          "category": "plumbing",
+          "department": "Customer Support",
+          "phone": "+17048416000",
+          "country": "US",
+          "regions": [],
+          "timezone": null,
+          "last_verified": "2026-10-26",
+          "specialty_tags": [],
+          "notes": "TECTITE push-connect plumbing fittings; originated with Elkhart Products Corporation. Current install literature routes customer service through Apollo Valves.",
+          "source": "https://assets.centromrosupply.com/product_attachments/147865/get_spec"
         }
       ]
     },
@@ -3588,6 +4853,28 @@
           "specialty_tags": [],
           "notes": "Main office phone listed on Tyler Pipe contact page.",
           "source": "tylerpipe.com contact page"
+        }
+      ]
+    },
+    {
+      "id": "u-s-plastic-corp",
+      "name": "U.S. Plastic Corp.",
+      "website": "https://www.usplastic.com/",
+      "categories": [
+        "plumbing"
+      ],
+      "support": [
+        {
+          "category": "plumbing",
+          "department": "Customer Support",
+          "phone": "+18008094217",
+          "country": "US",
+          "regions": [],
+          "timezone": null,
+          "last_verified": "2026-10-26",
+          "specialty_tags": [],
+          "notes": "''Questions? Call'' line on usplastic.com product pages. Quotes department 1-800-335-6809, quotes@usplastic.com.",
+          "source": "https://WWW.USPLASTIC.COM/catalog/item.aspx?itemid=145774"
         }
       ]
     },
@@ -3803,6 +5090,28 @@
       ]
     },
     {
+      "id": "waterstone",
+      "name": "\"Waterstone Faucets\"",
+      "website": "https://www.waterstoneco.com",
+      "categories": [
+        "plumbing"
+      ],
+      "support": [
+        {
+          "category": "plumbing",
+          "department": "Customer Support",
+          "phone": "+18883040660",
+          "country": "US",
+          "regions": [],
+          "timezone": null,
+          "last_verified": "2026-10-26",
+          "specialty_tags": [],
+          "notes": "Murrieta CA. Email support@waterstoneco.com. Hours 6am-5pm PST (days not stated in source, so no hours block).",
+          "source": "https://waterstoneco.com/wp-content/uploads/2026/field-guides/Waterstone-Field-Guide-5300.pdf"
+        }
+      ]
+    },
+    {
       "id": "waterworks",
       "name": "Waterworks",
       "website": null,
@@ -3954,6 +5263,28 @@
           "specialty_tags": [],
           "notes": "Customer service for PVC fittings (WPF).",
           "source": "https://www.westlakepipe.com/contact/customer-service"
+        }
+      ]
+    },
+    {
+      "id": "william-h-harvey-company",
+      "name": "\"William H. Harvey Company\"",
+      "website": "http://www.oatey.com/brands/harvey",
+      "categories": [
+        "plumbing"
+      ],
+      "support": [
+        {
+          "category": "plumbing",
+          "department": "Customer Support",
+          "phone": "+14023311175",
+          "country": "US",
+          "regions": [],
+          "timezone": null,
+          "last_verified": "2026-10-26",
+          "specialty_tags": [],
+          "notes": "Omaha NE. Plumbing chemicals, closet bolts, plumbers grease. Parent: Oatey (Harvey is an Oatey brand). No standalone Harvey site verified; website is the Oatey brand page.",
+          "source": "http://www.oatey.com/brands/harvey"
         }
       ]
     },
