@@ -1,0 +1,13 @@
+id: cooper-atkins
+name: Cooper-Atkins
+website: https://www.cooperatkins.com
+categories: [electrical]
+aliases: []
+support:
+  - category: electrical
+    department: Customer Support
+    phone: "+18008355011"
+    country: US
+    notes: "Cooper-Atkins Corporation (Middlefield, CT; Emerson Commercial & Residential Solutions) general phone per its own product literature; technical support email techsupport@cooperatkins.com. Thermometers, test instruments and temperature probes for foodservice and HVAC/R. Current catalogs also point to copeland.com/cooper-atkins for customer service. No separate instruments category exists in the vocabulary, so electrical is the closest."
+    source: "https://www.Wasserstrom.com/wcsstore/WasserstromCatalogAssetStore/Attachment/CooperAtkins20200spec.pdf"
+    last_verified: "2026-10-26"

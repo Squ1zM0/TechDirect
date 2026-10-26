@@ -1,0 +1,15 @@
+id: itt-interconnect
+name: ITT Interconnect
+website: https://www.ittcannon.com/
+categories:
+- electrical
+aliases:
+- ITT Cannon
+support:
+- category: electrical
+  department: Customer Support
+  phone: '+18008543028'
+  country: US
+  notes: "Connectors (Cannon, VEAM, BIW brands); USA Irvine, CA contact from current 2025 ITT Cannon documents. An older Thomasnet listing showed a Santa Ana number, superseded by the current Irvine number."
+  source: https://www.ittcannon.com/getmedia/5f671390-fa3b-4246-aabf-8fd033e03b20/ITT-Cannon-KJAQ-Commercial-Air-Application-Note.pdf
+  last_verified: '2026-10-26'

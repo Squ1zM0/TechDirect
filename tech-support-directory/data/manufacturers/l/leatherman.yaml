@@ -1,0 +1,12 @@
+id: leatherman
+name: Leatherman
+categories: [hardware]
+aliases: []
+support:
+  - category: hardware
+    department: Customer Support
+    phone: "+18008478665"
+    country: US
+    notes: "Leatherman Tool Group customer service line per leatherman.com refund policy page. Multi-tools and knives; 25-year limited warranty."
+    source: "https://www.leatherman.com/policies/refund-policy"
+    last_verified: "2026-10-26"

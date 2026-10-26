@@ -1,0 +1,16 @@
+id: shure
+name: Shure
+website: https://store.shure.com
+categories: [electrical]
+aliases: []
+support:
+  - category: electrical
+    department: Customer Support
+    phone: "+18005162525"
+    country: US
+    notes: "Shure Incorporated, Niles, IL (microphones, wireless systems, audio electronics). Shure Service Department per product manual, 7:30 AM to 4:00 PM CT; store customer service for orders is published separately as 800-595-0491."
+    source: "https://www.manualsdir.com/manuals/153359/shure-uc.html?page=20"
+    last_verified: "2026-10-26"
+    hours:
+      timezone: "CT"
+      mon_fri: "7:30 AM - 4:00 PM"

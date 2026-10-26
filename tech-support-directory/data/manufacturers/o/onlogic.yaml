@@ -1,0 +1,13 @@
+id: onlogic
+name: OnLogic
+website: https://onlogic.pactsafe.io/versions/66e7f75824bbc2bc9aca43ea.pdf
+categories: [electrical]
+aliases: ["Logic Supply"]
+support:
+  - category: electrical
+    department: Technical Support
+    phone: "+18028612300"
+    country: US
+    notes: "OnLogic, Inc., South Burlington VT; formerly Logic Supply; industrial computers; official Terms of Sale say 'contact OnLogic technical support at 802 861 2300'; email support@onlogic.com. An aggregator summary of the official contact directory also lists tech-support 802-861-1591 and sales 802-861-1590 - the official-document number 802-861-2300 was chosen; the 1591 variant is flagged in the batch report. Vocabulary note: no computing term; electrical is closest."
+    source: "https://onlogic.pactsafe.io/versions/66e7f75824bbc2bc9aca43ea.pdf"
+    last_verified: "2026-10-26"

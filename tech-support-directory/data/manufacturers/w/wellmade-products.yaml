@@ -1,0 +1,13 @@
+id: wellmade-products
+name: "Wellmade Products"
+website: https://www.wlmd.com
+categories: [electrical]
+aliases: ["W.L.M.D"]
+support:
+  - category: electrical
+    department: Customer Support
+    phone: "+12097239120"
+    country: US
+    notes: "Merced CA. Lighting + sheet metal; closest vocabulary term: electrical."
+    source: "https://www.arcat.com/arcatcos/cos39/arc39006.html"
+    last_verified: "2026-10-26"

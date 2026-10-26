@@ -1,0 +1,16 @@
+id: dahl-valves
+name: Dahl Valves
+website: https://www.dahlvalve.com
+categories:
+  - valves
+aliases:
+  - dahl Valve Limited
+  - Dahl Brothers Canada
+support:
+  - category: Customer Support
+    department: Customer Support
+    phone: "+18002682363"
+    country: US
+    notes: "Canadian manufacturer of plumbing and heating valves since 1952 (1/4-turn mini-ball valves), Mississauga, ON; lifetime warranty. US toll-free line used; Canadian toll-free 800-268-5355 and local 905-822-2330 also published."
+    source: "https://dahlvalve.com/go-heavy/"
+    last_verified: "2026-10-26"

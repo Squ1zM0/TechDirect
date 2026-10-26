@@ -1,0 +1,13 @@
+id: florestone
+name: "Florestone"
+categories:
+- plumbing
+aliases: []
+support:
+- category: plumbing
+  department: "Customer Support"
+  phone: "+18004468827"
+  country: US
+  notes: "Florestone Products Inc., 2851 Falcon Drive, Madera, CA 93637, since 1947. Toll-free line from Florestone own install docs; alternate 559-661-4171. Molded and terrazzo mop receptors and utility sinks. Category plumbing preferred over commercial-fixtures."
+  source: "https://www.florestone.com/mop_sinks/pdf/ms-terrazzo_install.pdf"
+  last_verified: "2026-10-26"

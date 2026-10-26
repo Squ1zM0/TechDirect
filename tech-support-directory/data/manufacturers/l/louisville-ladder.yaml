@@ -1,0 +1,13 @@
+id: louisville-ladder
+name: Louisville Ladder
+website: "https://www.wernerco.com/us/safety/climbing-pro"
+categories: [hardware]
+aliases: ["LOUISVILE LADDER", "Louisville Ladders"]
+support:
+  - category: hardware
+    department: Customer Support
+    phone: "+18885233371"
+    country: US
+    notes: "Louisville Ladder, a WernerCo brand (WernerCo, Itasca, IL / Greenville, PA); ladders for professional and consumer use. Support routes through the Werner Customer Service Department number published on Werner's own site. The xref spellings LOUISVILE LADDER (misspelling) and Louisville Ladders are variants of the same brand, recorded here as aliases. Hardware category per the milwaukee-tool.yaml precedent."
+    source: "https://www.wernerco.com/us/safety/climbing-pro"
+    last_verified: "2026-10-26"

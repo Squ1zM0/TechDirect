@@ -1,0 +1,16 @@
+id: acme-staple
+name: Acme Staple Company
+website: http://www.acmestaple.com/
+categories: [hardware]
+aliases: ["Acme Staple Co"]
+support:
+  - category: hardware
+    department: Customer Support
+    phone: "+16039342320"
+    country: US
+    notes: "Acme Staple Co., Franklin NH (87 Hill Rd). Manufacturer of staples/staplers for wire and cable fastening; email info@acmestaple.com. Hours Mon-Fri 9:00 AM - 5:00 PM ET per place listing."
+    source: "http://www.acmestaple.com/"
+    last_verified: "2026-10-26"
+    hours:
+      timezone: "ET"
+      mon_fri: "9:00 AM - 5:00 PM"

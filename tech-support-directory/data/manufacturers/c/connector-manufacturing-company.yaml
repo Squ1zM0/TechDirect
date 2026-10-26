@@ -1,0 +1,17 @@
+id: connector-manufacturing-company
+name: Connector Manufacturing Company
+website: https://www.hubbell.com/cmc/en
+categories:
+  - electrical
+aliases:
+  - Connector Manufacturing
+  - Connector Mfg. Co.
+  - CMC
+support:
+  - category: Customer Support
+    department: Customer Support
+    phone: "+15136555868"
+    country: US
+    notes: "CMC, a Hubbell brand: lugs, terminals, overhead/underground connectors, enclosures. Hamilton, OH. A place record also lists 513-860-4455; the Hubbell page's published Customer Service number is used here."
+    source: "https://www.hubbell.com/cmc/en"
+    last_verified: "2026-10-26"

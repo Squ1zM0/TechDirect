@@ -1,0 +1,16 @@
+id: mutual-industries-north
+name: Mutual Industries North
+website: https://www.mutualindustries.com/
+categories: [hardware]
+aliases: []
+support:
+  - category: hardware
+    department: Customer Support
+    phone: "+12159276000"
+    country: US
+    notes: "Mutual Industries, Inc., Philadelphia PA (707 W Grange Ave); erosion/sediment control, construction and safety products; in business 100+ years. NJ (Maple Shade, 856-779-7769) and WA (Auburn, 206-767-6647) locations are separate listings, not used."
+    source: "https://www.thomasnet.com/company/mutual-industries-inc-133274/profile?coverage_area=EP&heading=34642256"
+    last_verified: "2026-10-26"
+    hours:
+      timezone: "ET"
+      mon_fri: "8:00 AM - 4:00 PM"

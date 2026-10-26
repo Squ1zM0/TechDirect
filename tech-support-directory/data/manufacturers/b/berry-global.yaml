@@ -1,0 +1,16 @@
+id: berry-global
+name: Berry Global
+website: https://www.berryglobal.com
+categories: [hardware]
+aliases: ["Berry Plastics"]
+support:
+  - category: hardware
+    department: Customer Support
+    phone: "+18776623779"
+    country: US
+    notes: "Berry Global, Inc. (Evansville, IN) published headquarters/customer contact; plastic packaging products. Category mapping: packaging has no dedicated vocabulary term; hardware is the closest."
+    source: "https://packagingsolutions.amcor.com/en/news/articles/berrys-eucertplast-accreditation-will-help-brand-owners-prepare-for-the-new-plastics-tax"
+    last_verified: "2026-10-26"
+    hours:
+      timezone: "ET"
+      mon_fri: "8:00 AM - 6:00 PM"

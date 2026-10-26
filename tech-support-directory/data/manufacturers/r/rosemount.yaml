@@ -1,0 +1,17 @@
+id: rosemount
+name: Rosemount
+categories:
+- electrical
+aliases: []
+support:
+- category: electrical
+  department: Technical Support
+  phone: '+18009999307'
+  country: US
+  notes: Rosemount, an Emerson brand, with its own Rosemount-specific contact in Rosemount manuals (Customer Central, 7:00 am to 7:00 pm CST). North American Response Center 1-800-654-7768 for equipment
+    service is also noted. Measurement instrumentation; electrical is the closest vocabulary term. Filed separately from the existing emerson file because the contact is Rosemount-specific.
+  source: Rosemount 3408 Wireless Level Transmitter reference manual (Emerson, October 2025)
+  last_verified: '2026-10-26'
+  hours:
+    timezone: CT
+    mon_fri: 7:00 AM - 7:00 PM

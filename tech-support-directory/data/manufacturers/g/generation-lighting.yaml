@@ -1,0 +1,13 @@
+id: generation-lighting
+name: 'Generation Lighting'
+categories:
+- electrical
+aliases: []
+support:
+- category: electrical
+  department: 'Customer Support'
+  phone: '+18474104400'
+  country: US
+  notes: 'Visual Comfort & Co. brand. Skokie, IL. Number from a Visual Comfort installation guide headed Generation Lighting.'
+  source: 'https://www.visualcomfort.com/media/docs/install_guide/9/9/ig_990adressled.pdf'
+  last_verified: '2026-10-26'

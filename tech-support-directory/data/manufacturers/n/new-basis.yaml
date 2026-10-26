@@ -1,0 +1,15 @@
+id: new-basis
+name: New Basis
+categories: [electrical]
+aliases: ["NewBasis"]
+support:
+  - category: electrical
+    department: Customer Support
+    phone: "+18478066300"
+    country: US
+    notes: "Legacy line: Charles Industries acquired the NewBasis molded HDPE Below Grade Enclosure product line in October 2012 and assumed sales and support (Lightwave/GlobeNewswire); NewBasis continued non-HDPE composite/fiberglass/polymer-concrete enclosures. Support via successor Charles Industries, LLC, an Amphenol company, Schaumburg IL. No Charles Industries TechDirect file exists, so this legacy brand keeps its own file with the successor's published number."
+    source: "https://www.charlesindustries.com/product/multi-purpose-housings-cmph/"
+    last_verified: "2026-10-26"
+    hours:
+      timezone: "CT"
+      mon_fri: "8:00 AM - 5:00 PM"

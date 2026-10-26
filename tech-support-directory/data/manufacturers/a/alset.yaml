@@ -1,0 +1,13 @@
+id: alset
+name: Alset
+website: https://alsetled.com
+categories: [electrical]
+aliases: ["ALSET LED", "Alset LED"]
+support:
+  - category: electrical
+    department: Customer Support
+    phone: "+18006892573"
+    country: US
+    notes: "ALSET LED is NuWave LLC's LED lighting line (lamps, troffers, canopies, high bays, retrofit tubes, downlights, sensor strip lights), 1795 N Butterfield Rd, Libertyville, IL 60048; customer service number printed on the manufacturer's own catalogs and product literature (5-year limited warranty on luminaires). Xref categories say 'Lighting; controls'; the line includes sensor-equipped fixtures, and electrical is the closest vocabulary term."
+    source: "https://alsetled.com/Images/items/Alset%20Catalog%202020%2001-2020.pdf"
+    last_verified: "2026-10-26"

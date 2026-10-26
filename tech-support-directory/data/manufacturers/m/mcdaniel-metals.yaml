@@ -1,0 +1,14 @@
+id: mcdaniel-metals
+name: McDaniel Metals
+website: https://mcdanielmetals.com/
+categories:
+- hvac
+aliases: []
+support:
+- category: hvac
+  department: Customer Support
+  phone: "+12819878400"
+  country: US
+  notes: Houston, TX. HVAC accessories (drain pans, economizers).
+  source: http://www.mcdanielmetals.com/
+  last_verified: "2026-10-26"

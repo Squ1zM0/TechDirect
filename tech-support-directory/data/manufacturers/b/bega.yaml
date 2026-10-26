@@ -1,0 +1,13 @@
+id: bega
+name: BEGA
+website: https://www.bega-us.com
+categories: [electrical]
+aliases: ["BEGA Lighting"]
+support:
+  - category: electrical
+    department: Technical Support
+    phone: "+18056840533"
+    country: US
+    notes: "BEGA North America factory contact, 1000 BEGA Way, Carpinteria, CA 93013; BEGA submittal sheets direct technical-support inquiries to this number. Email info@bega-us.com. Covers xref variants BEGA and BEGA LIGHTING."
+    source: "https://avyre-spinx-test.s3.us-west-2.amazonaws.com/userfiles/files/84747_BEGA_Submittal.pdf"
+    last_verified: "2026-10-26"

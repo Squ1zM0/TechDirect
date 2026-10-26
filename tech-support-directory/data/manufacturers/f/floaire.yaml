@@ -1,0 +1,13 @@
+id: floaire
+name: "FloAire"
+categories:
+- hvac
+aliases: []
+support:
+- category: hvac
+  department: "Technical Support"
+  phone: "+18667846900"
+  country: US
+  notes: "FloAire Inc. Manuals direct warranty and technical support issues to this service department number. Commercial and industrial ventilation: exhaust fans, kitchen hoods, make-up air, heaters. A distributor number 678-383-6420 seen in a distributor profile is the distributor, NOT FloAire, and is not used. Category hvac preferred over airflow."
+  source: "https://www.manualsdir.com/manuals/676098/floaire-fkb-inline-pcu-blower.html?page=4"
+  last_verified: "2026-10-26"

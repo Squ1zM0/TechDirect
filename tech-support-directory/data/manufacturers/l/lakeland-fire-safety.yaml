@@ -1,0 +1,12 @@
+id: lakeland-fire-safety
+name: Lakeland Fire + Safety
+categories: [hardware]
+aliases: ["Lakeland Fire and Safety"]
+support:
+  - category: hardware
+    department: Customer Support
+    phone: "+18006459291"
+    country: US
+    notes: "Lakeland Industries brand; protective apparel for firefighters, first responders and industrial workers. General contact number from Lakeland's own brochure."
+    source: "https://prod-resources.nppgov.com/app/uploads/2017/06/31163212/Lakeland-Fire-Safety-Brochure.pdf"
+    last_verified: "2026-10-26"

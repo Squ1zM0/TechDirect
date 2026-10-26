@@ -1,0 +1,11 @@
+id: loctite
+name: Loctite
+categories: [hardware]
+support:
+  - category: hardware
+    department: Technical Support
+    phone: "+18554365354"
+    country: US
+    notes: "Loctite adhesives; parent Henkel (Henkel Adhesives). Number from Henkel's own product page ('Get technical support... Talk to a technical expert now'). No standalone Henkel file exists in the reference, so Loctite is filed standalone with its own distinct Henkel Adhesives technical support number. Hardware is the closest category-vocabulary term for adhesives."
+    source: "https://next.henkel-adhesives.com/us/en/products/thermal-management-materials/central-pdp.html/loctite-384/BP000000153510.html"
+    last_verified: "2026-10-26"

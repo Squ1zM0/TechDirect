@@ -1,0 +1,13 @@
+id: lifeline-batteries
+name: Lifeline Batteries
+website: "https://lifelinebatteries.com"
+categories: [electrical]
+aliases: ["Lifeline"]
+support:
+  - category: electrical
+    department: Customer Support
+    phone: "+16268131234"
+    country: US
+    notes: "Lifeline deep-cycle AGM batteries manufactured by Concorde Battery Corporation, West Covina, CA; the published number is Concorde Battery's own number from the Lifeline technical manual (Document No. 6-0101, Rev. F, 2019). Lifeline warranty questions line 800-527-3224 also published in the battery owners manual."
+    source: "https://lifelinebatteries.com/wp-content/uploads/2015/12/6-0101F-Lifeline-Technical-Manual-Final-5-06-19.pdf"
+    last_verified: "2026-10-26"

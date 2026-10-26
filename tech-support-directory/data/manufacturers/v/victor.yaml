@@ -1,0 +1,13 @@
+id: victor
+name: "Victor"
+website: https://esab.com/us/nam_en/brands/esab-family-brands/victor/
+categories: [electrical]
+aliases: []
+support:
+  - category: electrical
+    department: Technical Support
+    phone: "+18004261888"
+    country: US
+    notes: "Victor Technologies (ESAB) cutting and welding torches. Victor catalog: Contact Technical Services at 1-800-426-1888; U.S. Customer Care 1-800-426-1888. Parent: ESAB."
+    source: "https://m.lahattesupply.com/uploads/3/4/1/4/34142617/victor_catalog_2018.pdf"
+    last_verified: "2026-10-26"

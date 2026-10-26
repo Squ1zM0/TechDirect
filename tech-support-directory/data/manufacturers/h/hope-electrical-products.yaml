@@ -1,0 +1,17 @@
+id: hope-electrical-products
+name: Hope Electrical Products
+website: https://www.hopeelectricalproducts.com/
+categories:
+- electrical
+aliases: []
+support:
+- category: electrical
+  department: Customer Support
+  phone: '+19738827400'
+  country: US
+  notes: 'Hope Electrical Products Co., Inc., West Caldwell, NJ. Email sales@hopeelectrical.com. Thomasnet also lists 844-775-7657; the company own-site number is primary. Cast-iron junction boxes, enclosures, pole bases.'
+  source: https://www.hopeelectricalproducts.com/our-products/h5870-type-nycdot-street-lighting-box_003/
+  last_verified: '2026-10-26'
+  hours:
+    timezone: ET
+    mon_fri: '8am-5pm'

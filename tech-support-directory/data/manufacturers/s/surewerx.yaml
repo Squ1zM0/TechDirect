@@ -1,0 +1,13 @@
+id: surewerx
+name: "SureWerx"
+website: "https://surewerx.com/"
+categories: [hardware]
+aliases: ["Surewerx USA"]
+support:
+  - category: hardware
+    department: Customer Support
+    phone: "+18003237402"
+    country: US
+    notes: "SureWerx PPE and safety products, Elgin IL (325 Corporate Dr). US line; email orders.usa@surewerx.com."
+    source: "https://surewerx.com/"
+    last_verified: "2026-10-26"

@@ -1,0 +1,14 @@
+id: chemelex
+name: Chemelex
+website: https://www.chemelex.com/
+categories: [electrical]
+aliases: ["Chemelex NuHeat", "Chemelex Raychem", "RAYCHEM"]
+support:
+  - category: electrical
+    department: Customer Support
+    phone: "+18005456258"
+    email: info@chemelex.com
+    country: US
+    notes: "Chemelex (formerly nVent RAYCHEM thermal management); electric heat tracing, floor heating (NuHeat) and Raychem heating cables and controls. North America contact per Chemelex's own datasheets; email info@chemelex.com. Covers xref rows 'Chemelex', 'Chemelex NuHeat' and 'Chemelex Raychem' — NuHeat and Raychem are Chemelex brands/lines sharing this support contact, with no distinct lines of their own."
+    source: "https://manuals.plus/m/ce7d8b462e27fa281c8ed35e788397854c7df8546b79409037373402567e0ac3"
+    last_verified: "2026-10-26"

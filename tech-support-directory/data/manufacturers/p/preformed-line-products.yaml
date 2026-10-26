@@ -1,0 +1,13 @@
+id: preformed-line-products
+name: Preformed Line Products
+website: https://www.preformed.com/
+categories: [electrical]
+aliases: ["Preformed Line Products Co.", "PLP"]
+support:
+  - category: electrical
+    department: Customer Support
+    phone: "+14404615200"
+    country: US
+    notes: "Preformed Line Products Co. (PLP)."
+    source: "https://www.thomasnet.com/company/preformed-line-products-10031139/profile"
+    last_verified: "2026-10-26"

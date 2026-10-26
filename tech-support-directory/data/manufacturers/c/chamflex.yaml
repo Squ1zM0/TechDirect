@@ -1,0 +1,13 @@
+id: chamflex
+name: ChamFlex
+website: https://chamflex.com/wp-content/uploads/2023/11/chamflex-hose-assemblies-quick-connect-system-submittal-2-17_001-1.pdf
+categories: [hvac]
+aliases: ["ChamFlex Hose Assemblies"]
+support:
+  - category: hvac
+    department: Customer Support
+    phone: "+15854277780"
+    country: US
+    notes: "ChamFlex hose assemblies are a brand of Chamberlin Rubber Company, Inc., Rochester, NY; support is via Chamberlin Rubber at (585) 427-7780 as published on ChamFlex submittals. Hose assemblies for water/glycol (not rated for potable water). ChamFlex has no distinct support contact of its own, so the parent company's published number is staged with that lineage stated."
+    source: "https://chamflex.com/wp-content/uploads/2023/11/usa-9101-for-web.pdf"
+    last_verified: "2026-10-26"

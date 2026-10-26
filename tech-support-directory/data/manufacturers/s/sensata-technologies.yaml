@@ -1,0 +1,15 @@
+id: sensata-technologies
+name: Sensata Technologies
+website: https://sensata.com/
+categories:
+- electrical
+aliases: []
+support:
+- category: electrical
+  department: Customer Support
+  phone: '+15082363800'
+  country: US
+  notes: Sensata Technologies, Inc., Attleboro, MA. support@sensata.com. Sensors, electrical protection, controls and power management. Sensata owns Schrader, which is filed separately above with its own
+    TPMS line; the two files are cross-noted, not merged.
+  source: sensata.com documents (Sensata Industrial Sustainability Ebook and Industrial Product Line Card)
+  last_verified: '2026-10-26'

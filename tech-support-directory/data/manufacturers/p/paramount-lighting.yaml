@@ -1,0 +1,13 @@
+id: paramount-lighting
+name: Paramount Lighting
+website: https://paramountlighting.com
+categories: [electrical]
+aliases: ["Paramount Industries, Inc.", "Paramount Industries"]
+support:
+  - category: electrical
+    department: Customer Support
+    phone: "+18005215405"
+    country: US
+    notes: "Paramount Industries, Inc., Croswell, MI (304 N. Howard St.); toll-free number printed on the company's own installation sheets and corroborated by ARCAT and Thomasnet listings (direct 810-679-2551 also published). Founded 1947 by B.R. Bailey; manufacturer of high-performance luminaires including cleanroom, hazardous-location, booth, food-processing, industrial, commercial, marine, and transit lighting; described in place listings as a brand of Bukas Lighting Group. Number is a general company contact, not labelled technical support, so recorded as Customer Support."
+    source: "https://paramountlighting.com/userdata/ProductOptionFile/C_Hazardous_PMii.pdf"
+    last_verified: "2026-10-26"

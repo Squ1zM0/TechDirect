@@ -1,0 +1,13 @@
+id: simkar
+name: Simkar
+website: https://www.simkar.com
+categories: [electrical]
+aliases: []
+support:
+  - category: electrical
+    department: Technical Support
+    phone: "+18005233602"
+    country: US
+    notes: "Simkar Corporation / Simkar Lighting, Philadelphia, PA (fluorescent, HID, LED, exit and emergency lighting). Number published as the Simkar engineering contact in product instructions and spec sheets; headquarters phone 215-831-7700 also published. Covers both xref spellings Simkar and Simkar Lighting."
+    source: "https://pimmedia.winsupplyinc.com/pim/SPEC/122017/SIMKAR-CORPORATION-FLUORESCENT-HID-EMERGENCY-EXIT_CH2232-B11-UNV_02702987239_SPEC.pdf"
+    last_verified: "2026-10-26"

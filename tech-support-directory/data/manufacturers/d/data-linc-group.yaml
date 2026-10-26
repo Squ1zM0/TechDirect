@@ -1,0 +1,15 @@
+id: data-linc-group
+name: Data-Linc Group
+website: https://data-linc.com
+categories:
+  - electrical
+aliases:
+  - DATA-LINC GROUP
+support:
+  - category: Technical Support
+    department: Technical Support
+    phone: "+14258822206"
+    country: US
+    notes: "Industrial-grade wired and license-free wireless modems for SCADA/PLC automation (FHSS radio, Ethernet, serial, protocol-to-I/O), Issaquah, WA, since 1988. Unlimited telephone troubleshooting per the company's own support description; hours Pacific Time."
+    source: "https://data-linc.com/sales-channels/"
+    last_verified: "2026-10-26"

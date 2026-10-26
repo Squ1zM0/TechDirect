@@ -1,0 +1,13 @@
+id: diodes
+name: Diodes Incorporated
+website: https://www.diodes.com/about/contact-us
+categories: [electrical]
+aliases: ["DIODES"]
+support:
+  - category: electrical
+    department: Customer Support
+    phone: "+19729873900"
+    country: US
+    notes: "Diodes Incorporated (Nasdaq: DIOD) semiconductor manufacturer, HQ Plano, TX. Published corporate HQ number; the company's contact page routes technical questions through forms, so this general number is recorded as Customer Support, not Technical Support."
+    source: "https://quarterlytics.com/company/diodes_diod/annual-report-2017/"
+    last_verified: "2026-10-26"

@@ -1,0 +1,15 @@
+id: manchester-tank
+name: Manchester Tank
+website: http://mantank.com
+categories:
+- hardware
+aliases:
+- Manchester
+support:
+- category: hardware
+  department: Customer Support
+  phone: "+12564958492"
+  country: US
+  notes: 'Propane and pressure tanks, cylinders. Email customerservice@mantank.com. Older catalogs list customer-service 800-926-2791; not filed as current. Covers xref spelling ''Manchester'' (parent field: Manchester Tank).'
+  source: http://mantank.com/resources/faq/
+  last_verified: "2026-10-26"

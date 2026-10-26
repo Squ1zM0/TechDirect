@@ -1,0 +1,16 @@
+id: brookaire
+name: Brookaire
+website: https://www.brookaire.com
+categories: [hvac]
+aliases: ["Brookaire Company", "Brookaire Corporation"]
+support:
+  - category: hvac
+    department: Customer Support
+    phone: "+18002953047"
+    country: US
+    notes: "Brookaire Company, 17-02 Nevins Road, Fair Lawn, NJ 07410, third-generation family manufacturer and distributor of commercial HVAC air filters since 1974, with distribution centers in NJ, PA, MN and MA. Hours Mon-Fri 7 AM-5 PM. Email sales@brookaire.com. Local line 973-473-7527 also published."
+    source: "https://www.brookaire.com/industries"
+    last_verified: "2026-10-26"
+    hours:
+      timezone: "ET"
+      mon_fri: "7:00 AM - 5:00 PM"

@@ -1,0 +1,13 @@
+id: wallbox-usa
+name: "Wallbox USA Inc."
+website: https://www.wallbox.com
+categories: [electrical]
+aliases: []
+support:
+  - category: electrical
+    department: Customer Support
+    phone: "+18887875780"
+    country: US
+    notes: "Email service@wallbox.com. EV chargers. A Spain (+34) number listed on Google Play is NOT used. Support is primarily app/form-based per manufacturer manuals, but this US number is published in BBB and manuals-directory listings; source strength noted."
+    source: "https://www.bbb.org/us/ca/mountain-view/profile/electric-connectors/wallbox-usa-inc-1216-1000009597/details"
+    last_verified: "2026-10-26"

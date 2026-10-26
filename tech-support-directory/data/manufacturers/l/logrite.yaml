@@ -1,0 +1,13 @@
+id: logrite
+name: Logrite
+website: "https://logrite.com/"
+categories: [hardware]
+aliases: ["LogRite Tools", "LogRite Tools LLC"]
+support:
+  - category: hardware
+    department: Customer Support
+    phone: "+18006314791"
+    country: US
+    notes: "LogRite Tools LLC, Vernon, CT (60 Industrial Park Rd.); originators of aluminum-handled logging and woodworking tools (cant hooks, peaveys, skidding tongs), built in the USA. Number from LogRite's own site footer and its own safety data sheet. Hardware category per the milwaukee-tool.yaml precedent for tool brands."
+    source: "https://logrite.com/"
+    last_verified: "2026-10-26"

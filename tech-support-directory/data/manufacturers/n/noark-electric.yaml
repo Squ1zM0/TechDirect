@@ -1,0 +1,13 @@
+id: noark-electric
+name: NOARK Electric
+website: https://na.noark-electric.com/product-category/circuit-protection/
+categories: [electrical]
+aliases: ["Noark"]
+support:
+  - category: electrical
+    department: Customer Support
+    phone: "+16263307007"
+    country: US
+    notes: "NOARK Electric (North America), Pomona CA; online services list (626) 330-7007; email nasales@noark-electric.com. The +86 China number on aggregator profiles is not used."
+    source: "https://na.noark-electric.com/product-category/circuit-protection/"
+    last_verified: "2026-10-26"

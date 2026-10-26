@@ -1,0 +1,13 @@
+id: optical-cable-corporation
+name: Optical Cable Corporation
+website: https://www.occfiber.com/
+categories: [electrical]
+aliases: ["OCC", "Optical Cable Corp."]
+support:
+  - category: electrical
+    department: Customer Support
+    phone: "+18006227711"
+    country: US
+    notes: "Optical Cable Corporation (NASDAQ: OCC), Roanoke VA (5290 Concourse Drive); fiber optic and copper cabling/connectivity; HQ 540-265-0690 per 10-K; Dallas facility toll-free 877-509-1500 / direct 972-509-1500."
+    source: "https://www.accu-tech.com/hs-fs/hub/54495/file-17788127-pdf/docs/occ/occ_linecard.pdf"
+    last_verified: "2026-10-26"

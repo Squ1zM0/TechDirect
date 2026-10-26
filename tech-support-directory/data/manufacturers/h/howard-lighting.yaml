@@ -1,0 +1,18 @@
+id: howard-lighting
+name: Howard Lighting Products
+website: https://www.howardlightingproducts.com/
+categories:
+- electrical
+aliases:
+- Howard Lighting
+support:
+- category: electrical
+  department: Customer Support
+  phone: '+18009563456'
+  country: US
+  notes: 'Howard Lighting Products, Laurel, MS. A division with its own distinct support contact, so it keeps its own file rather than folding into Howard Industries. Customer and technical support Mon-Fri 7am-5pm CST per the product catalog; alternate 601-422-0033 also published. HID lamps, lighting products. Website variant www.Howard-Lighting.com also appears in Howard catalogs.'
+  source: https://manualmachine.com/howardindustries/hidlamp/16901812-service-guide/
+  last_verified: '2026-10-26'
+  hours:
+    timezone: CT
+    mon_fri: '7am-5pm'

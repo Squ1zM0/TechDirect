@@ -1,0 +1,16 @@
+id: dimplex
+name: Dimplex
+website: https://www.dimplex.com/customer_support
+categories: [hvac]
+aliases: []
+support:
+  - category: hvac
+    department: Technical Support
+    phone: "+18883467539"
+    country: US
+    notes: "Dimplex electric fireplaces and heaters, by Glen Dimplex Americas. Technical support line published in Dimplex owner's manuals: Mon-Fri 8:00 AM - 4:30 PM EST; have model and serial number ready."
+    source: "https://www.dimplex.glendimplexamericas.com/sites/g/files/emiian436/files/downloads/DF3033ST_Owners_Manual_1.pdf"
+    last_verified: "2026-10-26"
+    hours:
+      timezone: "ET"
+      mon_fri: "8:00 AM - 4:30 PM"

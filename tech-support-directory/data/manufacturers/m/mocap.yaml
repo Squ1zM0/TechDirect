@@ -1,0 +1,14 @@
+id: mocap
+name: MOCAP
+website: https://www.mocap.com
+categories:
+- hardware
+aliases: []
+support:
+- category: hardware
+  department: Customer Support
+  phone: "+18006336775"
+  country: US
+  notes: 'Park Hills, MO. Caps, plugs, masking products. Local (314) 543-4000. Category fit noted: no caps/plugs term; closest is hardware.'
+  source: https://mocap.com/plastic-plugs-outside-pull.html
+  last_verified: "2026-10-26"

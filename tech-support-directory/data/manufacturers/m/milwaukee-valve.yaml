@@ -1,0 +1,14 @@
+id: milwaukee-valve
+name: Milwaukee Valve
+website: https://www.milwaukeevalve.com
+categories:
+- valves
+aliases: []
+support:
+- category: valves
+  department: Customer Support
+  phone: "+12624322700"
+  country: US
+  notes: Milwaukee Valve Company, New Berlin, WI, founded 1901. Ball, gate, globe, check, butterfly valves; UltraPress press-fit valves. Fax 262-432-2701. Prairie du Sac, WI plant (608) 643-8565 as alternate. NOT Milwaukee Tool (different company; milwaukee-tool file is power tools).
+  source: https://www.milwaukeevalve.com/wp-content/uploads/technical-service-information/faqs.pdf
+  last_verified: "2026-10-26"

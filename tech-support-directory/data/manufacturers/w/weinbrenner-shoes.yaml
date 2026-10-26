@@ -1,0 +1,13 @@
+id: weinbrenner-shoes
+name: "Weinbrenner Shoe Co."
+website: https://www.thorogoodusa.com
+categories: [hardware]
+aliases: ["Thorogood"]
+support:
+  - category: hardware
+    department: Customer Support
+    phone: "+18008260002"
+    country: US
+    notes: "Merrill WI. Email csd@weinbrennerusa.com; local 715-536-5521. Thorogood work shoes/PPE; closest vocabulary term: hardware."
+    source: "https://thorogoodusa.com/privacy-policy/"
+    last_verified: "2026-10-26"

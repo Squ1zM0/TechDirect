@@ -1,0 +1,13 @@
+id: chicago-pneumatic
+name: Chicago Pneumatic
+website: http://www.cpcompressors.com/
+categories: [hardware]
+aliases: ["CP"]
+support:
+  - category: hardware
+    department: Customer Support
+    phone: "+18778612722"
+    country: US
+    notes: "Chicago Pneumatic (CP), Rock Hill, SC; pneumatic tools, air compressors, generators and light towers; an Atlas Copco Group brand per xref parent. North America stationary compressors line (877) 861-2722 per current NA listing; an older CP warranty document lists 800-760-4049 for compressor maintenance kits."
+    source: "https://www.equipment10.com/US/Rock-Hill/1413056478940268/Chicago-Pneumatic-Stationary-Compressors-&-Air-Treatment-North-America"
+    last_verified: "2026-10-26"

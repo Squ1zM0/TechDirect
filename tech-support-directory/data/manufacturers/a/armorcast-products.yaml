@@ -1,0 +1,12 @@
+id: armorcast-products
+name: Armorcast Products
+categories: [electrical]
+aliases: ["Armorcast"]
+support:
+  - category: electrical
+    department: Customer Support
+    phone: "+18189823600"
+    country: US
+    notes: "Utility enclosures, valve covers and water-utility products, Chatsworth CA (est. 1966). Company line published in Armorcast catalogs."
+    source: "https://hubbellpowersystems.cld.bz/Armorcast-Water-Utility-Products-CA07168E/11"
+    last_verified: "2026-10-26"

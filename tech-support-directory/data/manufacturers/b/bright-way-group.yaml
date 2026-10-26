@@ -1,0 +1,13 @@
+id: bright-way-group
+name: Bright Way Group
+website: https://www.bwgllc.com
+categories: [electrical]
+aliases: ["Bright Way Group LLC", "BWG"]
+support:
+  - category: electrical
+    department: Customer Support
+    phone: "+14692480380"
+    country: US
+    notes: "Bright Way Group, LLC, Dallas, TX, supplier of sealed lead-acid batteries, solar chargers and private-label battery and power products, plus 3PL distribution. Email batterysales@bwgllc.com. NOT the Russian pharmaceutical Bright Way Group (false friend). Category mapped from batteries/power products to electrical."
+    source: "https://www.signalhire.com/companies/bright-way-group-llc"
+    last_verified: "2026-10-26"

@@ -1,0 +1,14 @@
+id: malco
+name: Malco
+website: https://malcotools.com
+categories:
+- hardware
+aliases: []
+support:
+- category: hardware
+  department: Customer Support
+  phone: "+18003283530"
+  country: US
+  notes: Malco Products, SBC. HVAC/sheet-metal hand and duct tools. Email customerservice@malcotools.com; 'Malco Customer Support Team' per source.
+  source: https://manuals.plus/malco/sl19010b-duct-board-tools-manual
+  last_verified: "2026-10-26"

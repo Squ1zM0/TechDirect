@@ -1,0 +1,12 @@
+id: chloride
+name: Chloride
+categories: [electrical]
+aliases: ["Chloride UPS", "Chloride Group"]
+support:
+  - category: electrical
+    department: Technical Assistance Center (TAC)
+    phone: "+18008005260"
+    country: US
+    notes: "LEGACY brand file: Chloride UPS/power systems (Chloride Group) passed via Emerson Network Power to Vertiv; support is now via Vertiv's Technical Assistance Center at 1-800-800-5260, the same line staged on the existing TechDirect 'vertiv' file. Distinct from Chloride Systems (Signify emergency lighting), which has its own staged file. Technicians on legacy Chloride UPS equipment should use the Vertiv TAC line."
+    source: "https://www.vertiv.com/4907b7/globalassets/documents/data-sheets/technical-assitance-center-ds-en-na-dc-00502_102882_2.pdf"
+    last_verified: "2026-10-26"

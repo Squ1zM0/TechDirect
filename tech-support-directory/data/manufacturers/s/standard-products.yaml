@@ -1,0 +1,13 @@
+id: standard-products
+name: Standard Products
+website: https://www.standardpro.com
+categories: [electrical]
+aliases: []
+support:
+  - category: electrical
+    department: Customer Support
+    phone: "+18003616965"
+    country: CA
+    notes: "Standard Products Inc. (Stanpro), Dorval, QC, Canada (LED luminaires, emergency lighting and controls; also trades as Stanpro). Canadian manufacturer; the published toll-free number serves the US and Canada; local phone 514-342-1199 also published. NOT the Japanese discount retailer Standard Products (Daiso) and NOT Standard Electric Company (distributor)."
+    source: "https://www.standardpro.com/hubfs/stanpro/spec-sheets/en/SLBIF-en.pdf?hsLang=en"
+    last_verified: "2026-10-26"

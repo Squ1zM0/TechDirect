@@ -1,0 +1,20 @@
+id: ripley-tools
+name: Ripley Tools
+website: https://www.ripleytools.com/
+categories:
+- hardware
+aliases:
+- Utility Tools
+- UtilityTool
+support:
+- category: hardware
+  department: Customer Support
+  phone: '+18005288665'
+  country: US
+  notes: Ripley Tools, 46 Nooks Hill Road, Cromwell, CT 06416; info@ripley-tools.com; tech.support@ripley-tools.com.
+    US manufacturer of cable preparation and testing tools since 1936 under the brands Miller, Cablematic,
+    UtilityTool and ODM; UtilityTool is the utility cable tool brand (the xref's 'Utility Tools (Ripley)').
+    Ripley is a Hubbell brand, but it has its own distinct support contact, so it gets its own file. International
+    line (01) 860-635-2200.
+  source: https://www.thomasnet.com/company/ripley-tools-llc-10032925/profile?heading=97002133&what=Telecom+Hand+Tools
+  last_verified: '2026-10-26'

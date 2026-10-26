@@ -1,0 +1,13 @@
+id: yaskawa-solectria-solar
+name: "Yaskawa Solectria Solar"
+website: https://www.solectria.com
+categories: [electrical]
+aliases: ["Solectria"]
+support:
+  - category: electrical
+    department: Customer Support
+    phone: "+19786839700"
+    country: US
+    notes: "Lawrence MA main number, 360 Merrimack Street Building 9 Suite 221; email sales@solectria.com. Solar inverters. Main number filed as Customer Support; technical support routes via Yaskawa's 1-800-YASKAWA phone menu (menu 5 Solectria) per the 2026 Solectria phone-menu PDF; that routing is noted, the Yaskawa number is not substituted as the Solectria number. Parent: Yaskawa America (wholly-owned subsidiary)."
+    source: "https://solectria.com//site/assets/files/PDFs/YSS_Technical_Support_Phone_Menu_2026.pdf"
+    last_verified: "2026-10-26"

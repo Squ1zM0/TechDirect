@@ -1,0 +1,13 @@
+id: warmup
+name: "Warmup"
+website: https://www.warmup.com
+categories: [hydronics]
+aliases: []
+support:
+  - category: hydronics
+    department: Technical Support
+    phone: "+18889276333"
+    country: US
+    notes: "Installer support page: technical support line available 24/7, all year round. Email ussales@warmup.com. Electric floor heating."
+    source: "https://www.warmup.com/installers"
+    last_verified: "2026-10-26"

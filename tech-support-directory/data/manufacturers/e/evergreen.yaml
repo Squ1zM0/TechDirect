@@ -1,0 +1,20 @@
+id: evergreen
+name: Evergreen
+website: https://www.regalrexnord.com/brands/genteq/evergreen-motor-technical-support
+categories:
+- hvac
+aliases:
+- Evergreen EM
+support:
+- category: hvac
+  department: Technical Support
+  phone: '+18665038566'
+  country: US
+  notes: 'Legacy Genteq ECM-motor brand/line. Evergreen motors are supported through
+    Genteq (Regal Rexnord) technical support — Option 3 per Genteq manuals. Parent:
+    Genteq / Regal Rexnord Corporation. Own legacy file per the legacy pass-through
+    rule (successor support in the brand''s own entry); batch-07 parent-resolved Evergreen
+    to genteq, superseded by this file. Note: the existing genteq file carries the
+    same number as +8665038566 (format quirk, same digits).'
+  source: https://www.regalrexnord.com/brands/genteq/evergreen-motor-technical-support
+  last_verified: '2026-10-26'

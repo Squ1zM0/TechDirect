@@ -1,0 +1,14 @@
+id: mohawk
+name: Mohawk (Mohawk Wire / Mohawk Cable)
+website: https://www.mohawkcable.com
+categories:
+- electrical
+aliases: []
+support:
+- category: electrical
+  department: Customer Support
+  phone: "+18004229961"
+  country: US
+  notes: Copper/fiber cable manufacturer. NOT Mohawk Industries flooring; xref row itself flags Mohawk Wire as separate. ChannelMATE warranty via MAC contractors.
+  source: http://www.arrowwire.com/arrowwire/assets/File/AWC%20-%20Mohawk%20Master%20Catalog.pdf
+  last_verified: "2026-10-26"

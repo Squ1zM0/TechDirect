@@ -1,0 +1,13 @@
+id: nehring
+name: Nehring Electrical Works Company
+website: https://www.nehringwire.com/
+categories: [electrical]
+aliases: ["Nehring Wire"]
+support:
+  - category: electrical
+    department: Customer Support
+    phone: "+18004354481"
+    country: US
+    notes: "Nehring Electrical Works Company, DeKalb IL; toll-free from official site; also 815-756-2741; emails quotes@nehringwire.com, orders@nehringwire.com."
+    source: "https://www.nehringwire.com/"
+    last_verified: "2026-10-26"

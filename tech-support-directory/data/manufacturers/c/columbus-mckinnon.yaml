@@ -1,0 +1,13 @@
+id: columbus-mckinnon
+name: Columbus McKinnon
+website: https://www.cmco.com/en-ca/resources/articles/automation-division-launches-intelli-lift-system/
+categories: [hardware]
+aliases: ["CMCO"]
+support:
+  - category: hardware
+    department: Customer Support
+    phone: "+18008880985"
+    country: US
+    notes: "Columbus McKinnon customer service department, per company press material via Industrial Distribution; for the nearest parts/service center. Hoists, rigging and lifting equipment; category mapped from xref 'Hoists; lifting equipment' to closest vocabulary term hardware. A separate Automation Division line (800-288-8178) is published on cmco.com for automation products."
+    source: "https://www.inddist.com/home/press-release/13761914/columbus-mckinnon-introduces-the-ultimate-rigging-resource"
+    last_verified: "2026-10-26"

@@ -1,0 +1,14 @@
+id: masterduct
+name: Masterduct
+website: https://www.masterduct.com
+categories:
+- hvac
+aliases: []
+support:
+- category: hvac
+  department: Customer Support
+  phone: "+18003183300"
+  country: US
+  notes: Masterduct, Inc., Houston, TX. Local 713-462-5779. Flexible duct, duct systems.
+  source: https://www.masterduct.com/Portals/0/documents/2017%20Data%20Sheets/Masterduct%20Outdoor%20Duct.pdf
+  last_verified: "2026-10-26"

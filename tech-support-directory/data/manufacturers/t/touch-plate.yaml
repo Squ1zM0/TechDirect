@@ -1,0 +1,16 @@
+id: touch-plate
+name: Touch-Plate
+website: https://touchplate.com/
+categories:
+- electrical
+aliases: []
+support:
+- category: electrical
+  department: Customer Support
+  phone: '+12604261565'
+  country: US
+  notes: Touch-Plate LED Lighting & Controls, 4822 Projects Dr., Fort Wayne, IN 46825; support@touchplate.com.
+    Hours Mon-Fri 8:30 AM-4:30 PM EST (from official site footer). Older manual number 260-424-4323 and
+    RocketReach 260-497-8811 are not used.
+  source: https://touchplate.com/product/soluxe-universal-contact-closure-programmable-24-relay-panel/
+  last_verified: '2026-10-26'

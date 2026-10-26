@@ -1,0 +1,13 @@
+id: new-age-industries
+name: New Age Industries
+website: https://newageindustries.com
+categories: [piping-systems]
+aliases: ["NewAge Industries"]
+support:
+  - category: piping-systems
+    department: Customer Support
+    phone: "+18005063924"
+    country: US
+    notes: "NewAge Industries, Inc., Southampton/Warrington PA; 800-50-NEWAGE; also 215-526-2300; email info@newageindustries.com; tubing (PTFE/FEP/PFA)."
+    source: "https://news.thomasnet.com/fullstory/ptfe-fep-and-pfa-tubing-now-stocked-in-six-styles-502038/"
+    last_verified: "2026-10-26"

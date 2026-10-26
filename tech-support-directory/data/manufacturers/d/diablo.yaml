@@ -1,0 +1,13 @@
+id: diablo
+name: Diablo
+website: https://www.freudtools.com
+categories: [hardware]
+aliases: ["Diablo Tools"]
+support:
+  - category: hardware
+    department: Customer Support
+    phone: "+18003344420"
+    country: US
+    notes: "Diablo is Freud's brand of saw blades, drill bits and cutting tools; support via Freud customer service. Freud technical advice line 800-334-4107 also published in Freud warranty documents."
+    source: "https://www.amazon.com/dp/B00008WQ2Z/ref=cm_sw_r_cso_fm_apin_dp_JTMRQZGDHG7ZAN2ANC9N"
+    last_verified: "2026-10-26"

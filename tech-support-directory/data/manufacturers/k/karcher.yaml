@@ -1,0 +1,14 @@
+id: karcher
+name: Kärcher
+website: https://www.karcher.com/us
+categories:
+- hardware
+aliases: []
+support:
+- category: hardware
+  department: Customer Support
+  phone: '+18005374129'
+  country: US
+  notes: "Pressure washers and cleaning equipment; German HQ (Winnenden) with US-based support. Canada line 800-465-4980 noted, not filed. Number from official karcher.com US pages and manuals: customer support for North America is located in the US."
+  source: https://www.karcher.com/us/en/home-and-garden/products/pressure-washers-c5182
+  last_verified: '2026-10-26'

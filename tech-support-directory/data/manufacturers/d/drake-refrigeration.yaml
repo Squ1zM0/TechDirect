@@ -1,0 +1,13 @@
+id: drake-refrigeration
+name: Drake Refrigeration
+website: https://www.drakechillers.com
+categories: [hvac]
+aliases: ["Drake Refrigeration, Inc.", "Drake Chillers"]
+support:
+  - category: hvac
+    department: Customer Support
+    phone: "+12156385515"
+    country: US
+    notes: "Drake Refrigeration, Inc. (Bensalem, PA) industrial process chillers, 50+ years. Sales line; tech support/parts email drakeservice@drakechillers.com; toll-free 888-289-7299 also published. Distinct from the Toto Drake toilet line (parent-resolved to toto) and from Drake Refrigeration the Nebraska HVAC contractor."
+    source: "https://www.drakechillers.com/"
+    last_verified: "2026-10-26"

@@ -1,0 +1,13 @@
+id: diode-led
+name: Diode LED
+website: https://www.diodeled.com
+categories: [electrical]
+aliases: []
+support:
+  - category: electrical
+    department: Technical Support
+    phone: "+18778176028"
+    country: US
+    notes: "Diode LED (Elemental LED Inc.) LED tape/strip lighting. Installation guides direct installers to contact technical support at this toll-free number; email info@DiodeLED.com. Not Diode Dynamics (automotive lighting), a different company."
+    source: "https://www.diodeled.com/products/strip-lights.html?cuttable_increments=946&dir=asc&environment_ip_rating_multi=1194&input_voltage=124&limit=all&max_run=993&order=position"
+    last_verified: "2026-10-26"

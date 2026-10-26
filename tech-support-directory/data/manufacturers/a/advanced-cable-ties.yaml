@@ -1,0 +1,16 @@
+id: advanced-cable-ties
+name: Advanced Cable Ties
+website: https://www.advancedcableties.com
+categories: [electrical]
+aliases: ["Advanced Cable Ties, Inc.", "ACT Fastening Solutions"]
+support:
+  - category: electrical
+    department: Customer Support
+    phone: "+18008617228"
+    country: US
+    notes: "Advanced Cable Ties, Inc. (ACT Fastening Solutions), 245 Suffolk Lane, Gardner, MA 01440. Cable tie manufacturer; email sales@actfs.com; fax (978) 630-3999 also published."
+    source: "https://www.advancedcableties.com/wp-content/uploads/YACT-Rev003-1.pdf"
+    last_verified: "2026-10-26"
+    hours:
+      timezone: "ET"
+      mon_fri: "8:00 AM - 5:00 PM"

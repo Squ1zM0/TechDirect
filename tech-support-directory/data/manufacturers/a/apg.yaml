@@ -1,0 +1,12 @@
+id: apg
+name: APG
+categories: [hardware]
+aliases: ["APG Cash Drawer"]
+support:
+  - category: hardware
+    department: Customer Support
+    phone: "+17635715000"
+    country: US
+    notes: "APG Cash Drawer, LLC, Minneapolis MN; point-of-sale cash drawers. APG Support line and email apgsupport@us.cashdrawer.com published via the Shift4 Appetize RMA process page and APG's own materials. No point-of-sale category exists in the TechDirect vocabulary, so hardware is used as the closest term."
+    source: "https://shift4.zendesk.com/hc/en-us/articles/23018715455123-Appetize-RMA-Process"
+    last_verified: "2026-10-26"

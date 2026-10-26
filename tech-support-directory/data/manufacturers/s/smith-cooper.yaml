@@ -1,0 +1,13 @@
+id: smith-cooper
+name: Smith-Cooper International
+website: https://www.smithcooper.com
+categories: [piping-systems]
+aliases: []
+support:
+  - category: piping-systems
+    department: Customer Support
+    phone: "+18887760942"
+    country: US
+    notes: "Smith-Cooper International (SCI), Commerce, CA (pipe, valve and fitting products, 20,000+ SKUs; brands Sharpe and FPPI). Covers both xref spellings Smith Cooper International and Smith-Cooper International."
+    source: "https://www.prweb.com/releases/smith-cooper-international-introduces-new-trim-kit-package-for-grooved-riser-check-valve-877674240.html"
+    last_verified: "2026-10-26"

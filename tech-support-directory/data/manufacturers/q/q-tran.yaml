@@ -1,0 +1,16 @@
+id: q-tran
+name: Q-Tran
+website: https://www.qtl.lighting/products/ac-power-supplies-qtlt/
+categories: [electrical]
+aliases: ["Q-TRAN LIGHTING"]
+support:
+  - category: electrical
+    department: Technical Support
+    phone: "+12033678777"
+    country: US
+    notes: "Q-Tran manuals label this technical support."
+    source: "https://www.qtl.lighting/products/ac-power-supplies-qtlt/"
+    last_verified: "2026-10-26"
+    hours:
+      timezone: "ET"
+      mon_fri: "8:00 AM - 4:30 PM"

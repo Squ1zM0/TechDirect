@@ -1,0 +1,17 @@
+id: magic-aire
+name: Magic Aire
+website: http://www.magicaire.com/
+categories:
+- hvac
+aliases: []
+support:
+- category: hvac
+  department: Customer Support
+  phone: "+19403972100"
+  country: US
+  notes: Wichita Falls, TX; division of United Electric. Fan coils, air handlers, terminal units, evaporator coils. Fax 940-397-2166; warranty email customer.service@MagicAire.com per manual.
+  source: https://www.hvacquick.com/catalog_files/MagicAire_DUC_Catalog.pdf
+  last_verified: "2026-10-26"
+  hours:
+    timezone: CT
+    mon_fri: 8:00 AM - 5:00 PM

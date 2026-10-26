@@ -1,0 +1,13 @@
+id: zkteco-usa
+name: "ZKTeco USA"
+website: https://zktecousa.com
+categories: [electrical]
+aliases: []
+support:
+  - category: electrical
+    department: Customer Support
+    phone: "+18625052101"
+    country: US
+    notes: "Alpharetta GA. Email info@zktecousa.com. US-based phone support Mon-Fri 9am-5pm EST, ext. 300 per an Amazon listing; main number on the official contact page. Access control/biometrics. The warranty document ties the same number to ZK Technical Support evaluation for defective products; filed as Customer Support since the contact page does not label it tech; warranty-evaluation use noted."
+    source: "https://zktecousa.com/contact-us/"
+    last_verified: "2026-10-26"

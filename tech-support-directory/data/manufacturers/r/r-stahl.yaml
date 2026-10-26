@@ -1,0 +1,16 @@
+id: r-stahl
+name: R. Stahl
+website: https://r-stahl.com/us
+categories: [electrical]
+aliases: ["R. STAHL Inc."]
+support:
+  - category: electrical
+    department: Customer Support
+    phone: "+18007824357"
+    country: US
+    notes: "R. STAHL Inc., 13259 N. Promenade Blvd, Stafford, TX 77477. US subsidiary of German parent R. STAHL Schaltgerate GmbH, Waldenburg; the US line only is published here."
+    source: "https://r-stahl.com/us"
+    last_verified: "2026-10-26"
+    hours:
+      timezone: "CT"
+      mon_fri: "8:00 AM - 5:00 PM"

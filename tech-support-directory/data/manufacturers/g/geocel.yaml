@@ -1,0 +1,13 @@
+id: geocel
+name: 'GEocel'
+categories:
+- hardware
+aliases: []
+support:
+- category: hardware
+  department: 'Customer Support'
+  phone: '+18003487615'
+  country: US
+  notes: 'Sherwin-Williams safety data sheet Product Information line for US/Canada; explicitly not labelled technical support. Geocel Products Group, a Sherwin-Williams business unit. Sealants, so hardware is the closest vocabulary term.'
+  source: 'https://6routes.ca/assets/pdf/geocel/gc68113-sds.pdf'
+  last_verified: '2026-10-26'

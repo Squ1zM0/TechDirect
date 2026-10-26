@@ -1,0 +1,12 @@
+id: bartlett
+name: Bartlett Arborist Supply
+categories: [hardware]
+aliases: ["Bartlett Forestry Supplies", "Bartlett Arborist Supply & Manufacturing"]
+support:
+  - category: hardware
+    department: Customer Support
+    phone: "+19896358900"
+    country: US
+    notes: "Arborist and utility supplies (pruning tools, climbing/rigging gear, safety equipment), Marlette MI (manufacturing since 1912). Company line published on bartlettman.com."
+    source: "https://www.bartlettman.com/products/solidur-limited-edition-black-climb-chainsaw-pants"
+    last_verified: "2026-10-26"

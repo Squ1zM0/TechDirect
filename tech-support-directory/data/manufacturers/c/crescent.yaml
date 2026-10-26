@@ -1,0 +1,16 @@
+id: crescent
+name: Crescent
+website: https://www.crescenttool.com
+categories: [hardware]
+aliases: ["Crescent Tools"]
+support:
+  - category: hardware
+    department: Customer Support
+    phone: "+18776263433"
+    country: US
+    notes: "Crescent (Apex Tool Group) Customer Service for hand tools per crescenttool.com's own warranty page; email warrantysupport@apextoolgroup.com. Hand tools, storage and related products. General Crescent contact 866-907-9716 also published on the Crescent FAQ page."
+    source: "https://www.crescenttool.com/support/warranty"
+    last_verified: "2026-10-26"
+    hours:
+      timezone: "ET"
+      mon_fri: "9:00 AM - 5:00 PM"

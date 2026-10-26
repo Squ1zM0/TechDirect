@@ -1,0 +1,16 @@
+id: brownlee-lighting
+name: Brownlee Lighting
+website: https://www.brownlee.com/
+categories: [electrical]
+aliases: ["BROWNLEE LIGHTING"]
+support:
+  - category: electrical
+    department: Customer Support
+    phone: "+18003186768"
+    country: US
+    notes: "Brownlee Lighting, 4600 Dardanelle Drive, Orlando, FL 32808, specification-grade LED luminaires assembled, tested and packaged at its Orlando headquarters since 1977. Hours Mon-Thu 8 AM-5 PM, Fri 8 AM-4 PM ET. Local line 407-297-3677 also published."
+    source: "https://www.brownlee.com/about/us"
+    last_verified: "2026-10-26"
+    hours:
+      timezone: "ET"
+      mon_fri: "8:00 AM - 5:00 PM"

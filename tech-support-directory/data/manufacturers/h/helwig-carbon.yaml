@@ -1,0 +1,14 @@
+id: helwig-carbon
+name: Helwig Carbon
+website: https://helwigcarbon.com/
+categories:
+- electrical
+aliases: []
+support:
+- category: electrical
+  department: Technical Support
+  phone: '+18009624851'
+  country: US
+  notes: 'Tech Squad line (source label). Office 414-354-2411, Milwaukee, WI. Email techsquad@helwigcarbon.com.'
+  source: https://www.thomasnet.com/company/helwig-carbon-products-inc-447406/profile?supplier_validation=status_sos&heading=10680601
+  last_verified: '2026-10-26'

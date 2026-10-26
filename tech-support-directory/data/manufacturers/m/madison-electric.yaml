@@ -1,0 +1,18 @@
+id: madison-electric
+name: Madison Electric Products
+website: http://meproducts.net/
+categories:
+- electrical
+aliases:
+- Madison Electric
+support:
+- category: electrical
+  department: Customer Support
+  phone: "+12163917776"
+  country: US
+  notes: Solon, OH (formerly Bedford Heights). Electrical wiring devices, boxes, connectors, grounding products; 2,000+ field-created products for electricians. Older 2012 manufacturer catalog toll-free 800-631-7775 noted as alternate, unverified current.
+  source: http://meproducts.net/
+  last_verified: "2026-10-26"
+  hours:
+    timezone: ET
+    mon_fri: 8:30 AM - 5:00 PM

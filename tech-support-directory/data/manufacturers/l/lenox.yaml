@@ -1,0 +1,12 @@
+id: lenox
+name: Lenox
+categories: [hardware]
+aliases: ["LENOX TOOLS", "Lenox Tools"]
+support:
+  - category: hardware
+    department: Customer Support
+    phone: "+18609732891"
+    country: US
+    notes: "LENOX (saw blades, hand tools, power-tool accessories), a Stanley Black & Decker brand since 2017. No LENOX-specific phone line was found; Stanley Black & Decker lists LENOX among its brands on its contact page and gives this general customer-support number, which is published here as the parent support route rather than a Lenox-specific line."
+    source: "https://www.stanleyblackanddecker.com/about/contact"
+    last_verified: "2026-10-26"

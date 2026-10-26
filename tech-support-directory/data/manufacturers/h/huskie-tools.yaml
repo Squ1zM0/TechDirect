@@ -1,0 +1,14 @@
+id: huskie-tools
+name: Huskie Tools
+website: https://huskietools.com/
+categories:
+- electrical
+aliases: []
+support:
+- category: electrical
+  department: Technical Support
+  phone: '+18008606170'
+  country: US
+  notes: 'Huskie Tools technical support department (manual wording). Email info@huskietools.com. The xref parent uncertainty (Spartaco / Milwaukee?) does not change the disposition: Huskie publishes its own contact. Utility cutting and crimping tools.'
+  source: https://cdn2.guidespdf.com/view/720/720240-rec530y.pdf
+  last_verified: '2026-10-26'

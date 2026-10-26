@@ -1,0 +1,14 @@
+id: howard-industries
+name: Howard Industries
+website: https://www.howard-ind.com/
+categories:
+- electrical
+aliases: []
+support:
+- category: electrical
+  department: Customer Support
+  phone: '+16014253151'
+  country: US
+  notes: 'Howard Industries, Inc., Transformer Division (Power Solutions Division), Laurel, MS. The same number is published for Howard Transformers, which is why that row parent-resolves to this file. Web domain howardtransformers.com also used in Howard documents. Distinct from Howard Lighting Products, which has its own contact and its own file.'
+  source: https://www.howard-ind.com/Power/Product/DisplayDocument/36
+  last_verified: '2026-10-26'

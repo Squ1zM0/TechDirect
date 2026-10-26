@@ -1,0 +1,12 @@
+id: chicago-miniature-lamp
+name: Chicago Miniature Lamp
+categories: [electrical]
+aliases: ["Chicago Mini Lamps", "CML", "VCC"]
+support:
+  - category: electrical
+    department: Customer Support
+    phone: "+12014898989"
+    country: US
+    notes: "Chicago Miniature Lamp, Inc., Hackensack, NJ; indicator lamps and panel-mount lenses. CML lamps are a Visual Communications Company (VCC) trademark; phone (201) 489-8989 as published on VCC/CML datasheets. Covers xref spelling 'Chicago Mini Lamps'. A distributor (Saywell) US sales number was NOT used as the manufacturer line."
+    source: "https://app.mectronic.com/dsheet/4333_VCC--Visual-Communications-Company-.pdf"
+    last_verified: "2026-10-26"

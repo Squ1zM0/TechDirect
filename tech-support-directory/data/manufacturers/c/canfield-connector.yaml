@@ -1,0 +1,13 @@
+id: canfield-connector
+name: Canfield Connector
+website: https://www.canfieldconnector.com/
+categories: [electrical]
+aliases: []
+support:
+  - category: electrical
+    department: Customer Support
+    phone: "+18005545071"
+    country: US
+    notes: "Canfield Connector customer service line published in Canfield Connector product literature. Email customerservice@canfieldconnector.com. DIN connectors, solenoid valve connectors and sensors; local Youngstown number 330-758-8299 also published."
+    source: "https://www.canfieldconnector.com/images/09-09-2021-13-48-54-0.pdf"
+    last_verified: "2026-10-26"

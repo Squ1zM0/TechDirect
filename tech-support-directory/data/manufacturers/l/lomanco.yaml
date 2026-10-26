@@ -1,0 +1,13 @@
+id: lomanco
+name: Lomanco
+website: "https://www.lomanco.com"
+categories: [airflow]
+aliases: ["Lomanco, Inc.", "Lomanco Vents"]
+support:
+  - category: airflow
+    department: Customer Support
+    phone: "+18006435596"
+    country: US
+    notes: "Lomanco, Inc., Kingman, AZ; roof and attic ventilation (ridge vents, power vents, turbines). Number from Lomanco's own user manual."
+    source: "https://manualmachine.com/lomanco/ib8/2523110-user-manual/"
+    last_verified: "2026-10-26"

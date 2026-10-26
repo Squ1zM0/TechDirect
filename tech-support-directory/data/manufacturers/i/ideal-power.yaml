@@ -1,0 +1,13 @@
+id: ideal-power
+name: Ideal Power
+categories:
+- electrical
+aliases: []
+support:
+- category: electrical
+  department: Customer Support
+  phone: '+15122641542'
+  country: US
+  notes: 'Ideal Power Inc., Austin, TX. Email info@idealpower.com. B-TRAN semiconductor power switch company, formerly Ideal Power Converters (solar inverters). A separate UK Ideal Power (external power supplies, idealpower.co.uk) exists; the Austin US company is used as the xref match, with the UK namesake noted, not merged. Investor-relations contact 703-297-6917 and IDEAL ELECTRIC of Mansfield, OH (419-522-3611) are different companies and were not used.'
+  source: https://www.altenergymag.com/content.php?track=24177
+  last_verified: '2026-10-26'

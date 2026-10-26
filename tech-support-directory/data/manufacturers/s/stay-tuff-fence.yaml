@@ -1,0 +1,16 @@
+id: stay-tuff-fence
+name: "Stay-Tuff Fence"
+website: "https://staytuff.com/"
+categories: [hardware]
+aliases: []
+support:
+  - category: hardware
+    department: Customer Support
+    phone: "+18882238322"
+    country: US
+    notes: "Stay-Tuff Fence fencing-wire manufacturer. General customer support line."
+    source: "https://staytuff.com/"
+    last_verified: "2026-10-26"
+    hours:
+      timezone: "CT"
+      mon_fri: "8:00 AM - 5:00 PM"

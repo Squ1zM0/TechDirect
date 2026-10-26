@@ -1,0 +1,13 @@
+id: panelclaw
+name: PanelClaw
+website: https://www.panelclaw.com/panelclaw-us/
+categories: [electrical]
+aliases: ["PanelClaw, Inc."]
+support:
+  - category: electrical
+    department: Customer Support
+    phone: "+19786884900"
+    country: US
+    notes: "PanelClaw, Inc., North Andover, MA. General company phone published on panelclaw.com; not labelled technical support, so recorded as Customer Support. Sales email sales@panelclaw.com. Flat-roof solar racking; part of the Enstall Group (formerly Esdec Solar Group). No solar-racking term exists in the category vocabulary, so electrical is the closest term."
+    source: "https://www.panelclaw.com/panelclaw-us/"
+    last_verified: "2026-10-26"

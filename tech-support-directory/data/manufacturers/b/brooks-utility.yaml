@@ -1,0 +1,13 @@
+id: brooks-utility
+name: Brooks Utility Products
+website: http://www.brooksutility.com/
+categories: [electrical]
+aliases: ["Brooks Utility", "Brooks: Estrom, Meter Devices", "Brooks Utility Products Group"]
+support:
+  - category: electrical
+    department: Customer Support
+    phone: "+18886873008"
+    country: US
+    notes: "Brooks Utility Products, 43045 West Nine Mile Road, Novi, MI 48375, the consolidated brand of E.J. Brooks Company, Meter Devices Co. and Ekstrom Industries: electric meter sockets, test switches, meter seals, locking hardware, adapters, enclosures and utility test equipment since 1873. Covers xref variant 'Brooks: Estrom, Meter Devices' (Ekstrom misspelled as Estrom in the xref row). Local line 248-477-0250 also published."
+    source: "https://www.visualvisitor.com/companies/2869747/brooks_utility_products"
+    last_verified: "2026-10-26"

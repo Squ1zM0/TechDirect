@@ -1,0 +1,12 @@
+id: leaktite
+name: Leaktite
+categories: [hardware]
+aliases: ["Leaktite Corporation"]
+support:
+  - category: hardware
+    department: Customer Support
+    phone: "+18003920039"
+    country: US
+    notes: "Leaktite Corporation, Leominster, MA; plastic pails, buckets and lids. Toll-free number from Leaktite specification sheets; direct line 978-537-8000 also published."
+    source: "https://assets.unilogcorp.com/187/ITEM/DOC/LEAKTITE_103120721_Specification_Sheet.pdf"
+    last_verified: "2026-10-26"

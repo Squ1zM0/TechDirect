@@ -1,0 +1,13 @@
+id: eureka
+name: "Eureka"
+categories:
+- electrical
+aliases: []
+support:
+- category: electrical
+  department: "Customer Support"
+  phone: "+18002822886"
+  country: US
+  notes: "Eureka vacuums (Eureka Customer Service HELPLINE, from Eureka manuals). Hours Mon-Fri 8am-7pm, Sat 9am-4pm ET per a directory listing, not the manufacturer. Distinct from Eureka Lighting, which has its own file. Vacuums and cleaning; electrical is the closest vocabulary term."
+  source: "https://homeappliance.manualsonline.com/manuals/mfg/eureka/as1001a_1.html?p=8"
+  last_verified: "2026-10-26"

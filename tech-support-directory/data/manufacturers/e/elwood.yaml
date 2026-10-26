@@ -1,0 +1,13 @@
+id: elwood
+name: Elwood
+website: https://www.elwood.com
+categories: [valves]
+aliases: ["Elwood Corporation"]
+support:
+  - category: valves
+    department: Customer Support
+    phone: "+18005277500"
+    country: US
+    notes: "Elwood Corporation (Oak Creek, WI) industrial engineered products: Elwood Fluid Power high-pressure valves, high-performance motors, Autotron sensors, Wyco and Coil divisions. Toll-free line from the company's own bulletin; the Racine location toll-free 800-558-9489 is published on the same company page. Category note: valves is the closest term for the fluid-power valve line; the company also makes motors and sensors."
+    source: "https://www.elwood.com/396_PDF.pdf"
+    last_verified: "2026-10-26"

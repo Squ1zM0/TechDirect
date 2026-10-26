@@ -1,0 +1,14 @@
+id: epco
+name: "Engineered Products Company (EPCO)"
+website: "http://www.engproducts.com/"
+categories:
+- electrical
+aliases: ["ENGINEERED PRODUCTS CO", "Engineered Products Company"]
+support:
+- category: electrical
+  department: "Customer Support"
+  phone: "+18003361976"
+  country: US
+  notes: "Engineered Products Company (EPCO), Minnetonka MN, specialty electrical products since 1976. Alternate HQ line 952-767-8700. Hours Mon-Fri 8:00 AM-5:00 PM CT per a place listing. Covers xref spellings ENGINEERED PRODUCTS CO, Engineered Products Company, and EPCO. The bare xref spelling Engineered Products is NOT folded in here; it is NEEDS-HUMAN."
+  source: "http://www.engproducts.com/"
+  last_verified: "2026-10-26"

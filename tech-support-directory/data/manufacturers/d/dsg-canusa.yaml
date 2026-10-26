@@ -1,0 +1,13 @@
+id: dsg-canusa
+name: DSG-Canusa
+website: https://www.dsgcanusa.com
+categories: [electrical]
+aliases: ["DSG Canusa"]
+support:
+  - category: electrical
+    department: Customer Support
+    phone: "+14167437111"
+    country: CA
+    notes: "DSG-Canusa (Shawcor) heat-shrink tubing and cable accessories. No US support line published; the Toronto, Ontario HQ number from Shawcor's annual report is recorded with country CA. German office +49 2225 88920 also published. Covers xref spellings DSG Canusa and DSG-CANUSA (same manufacturer)."
+    source: "https://quarterlytics.com/company/shawcor_scl/annual-report-2016/"
+    last_verified: "2026-10-26"

@@ -1,0 +1,13 @@
+id: allstyle-coil
+name: Allstyle Coil
+website: https://www.allstyle.com
+categories: [hvac]
+aliases: ["Allstyle Coil Company", "Allstyle Coil Co., L.P.", "Allstyle"]
+support:
+  - category: hvac
+    department: Customer Support
+    phone: "+17134666333"
+    country: US
+    notes: "Allstyle Coil Company, L.P., 7037 Brittmoore Road, Houston, TX 77041. Residential and commercial evaporator coils, hydronic coils, air handlers, plenum coils, fan coils and mobile-home HVAC products since 1989/1990; number printed on the manufacturer's own product literature (fax (713) 466-6363). A third-party directory lists an 800-643-7701 number, but the number on the manufacturer's own spec sheets is used."
+    source: "https://library.coburns.com/specs/ALLSTYLE-VLCOIL.PDF"
+    last_verified: "2026-10-26"

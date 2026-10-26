@@ -1,0 +1,13 @@
+id: eti-solid-state-lighting
+name: "ETi Solid State Lighting"
+categories:
+- electrical
+aliases: []
+support:
+- category: electrical
+  department: "Customer Support"
+  phone: "+18553847754"
+  country: US
+  notes: "ETi Solid State Lighting (also known as ETI Lighting), Wheeling IL. Number is 1-855-ETI-SSLI, 8 a.m.-5 p.m. CST Mon-Fri per ETi spec sheets. Parent NVC International per trade press. LED lighting."
+  source: "https://www.etissl.com/wp-content/uploads/2019/07/64101161-BP-SS-2018.12.06-US.pdf"
+  last_verified: "2026-10-26"

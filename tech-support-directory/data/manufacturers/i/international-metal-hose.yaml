@@ -1,0 +1,14 @@
+id: international-metal-hose
+name: International Metal Hose
+website: https://www.metalhose.com/
+categories:
+- electrical
+aliases: []
+support:
+- category: electrical
+  department: Customer Support
+  phone: '+18004586855'
+  country: US
+  notes: "Metal hose and related products; Bellevue, OH, founded 1956 per the Thomasnet profile. Direct line 419-483-7690 also published in the manufacturer catalog."
+  source: http://www.metalhose.com/specs_pdf/IMHpg2.pdf
+  last_verified: '2026-10-26'

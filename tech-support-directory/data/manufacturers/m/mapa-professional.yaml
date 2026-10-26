@@ -1,0 +1,14 @@
+id: mapa-professional
+name: Mapa Professional
+website: https://mapa-pro.com
+categories:
+- hardware
+aliases: []
+support:
+- category: hardware
+  department: Customer Support
+  phone: "+33149642200"
+  country: FR
+  notes: Mapa Professionnel, Colombes, France. PPE gloves. No US support line found; do not invent one. Number is the French line (country FR).
+  source: https://www.manualshelf.com/manual/mapa-professional/338609/assembly-instructions-english.html
+  last_verified: "2026-10-26"

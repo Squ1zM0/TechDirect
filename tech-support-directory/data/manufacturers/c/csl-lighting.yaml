@@ -1,0 +1,13 @@
+id: csl-lighting
+name: CSL Lighting
+website: https://www.csllighting.com
+categories: [electrical]
+aliases: ["CSL"]
+support:
+  - category: electrical
+    department: Customer Support
+    phone: "+16263364511"
+    country: US
+    notes: "CSL Lighting, a division of Troy-CSL Lighting, Inc. (City of Industry, CA), phone per its own product brochure. Architectural and recessed LED lighting."
+    source: "http://CSLLIGHTING.COM/uc/wr/img-wmedia/CSL_Cylinder_Entity_Brochure.pdf"
+    last_verified: "2026-10-26"

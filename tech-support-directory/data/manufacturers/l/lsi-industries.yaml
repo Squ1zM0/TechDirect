@@ -1,0 +1,13 @@
+id: lsi-industries
+name: LSI Industries
+website: "https://lsicorp.com"
+categories: [electrical]
+aliases: ["LSI", "LSI INDUSTRIES", "LSI Lighting"]
+support:
+  - category: electrical
+    department: Customer Support
+    phone: "+18004367800"
+    country: US
+    notes: "LSI Industries Inc., Cincinnati, OH (10000 Alliance Road), founded 1976, NASDAQ: LYTS; non-residential lighting fixtures, light poles, lighting controls, graphics and digital signage. Number from LSI's own corporate site (lsicorp.com); headquarters direct line 513-793-3200 also published in LSI's own brochure. Covers all three xref spellings LSI, LSI INDUSTRIES and LSI Lighting (the company's lighting segment brand)."
+    source: "https://lsicorp.com/lighting/design-selectors/"
+    last_verified: "2026-10-26"

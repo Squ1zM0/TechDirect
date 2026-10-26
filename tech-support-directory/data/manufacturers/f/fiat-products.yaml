@@ -1,0 +1,13 @@
+id: fiat-products
+name: "FIAT Products"
+categories:
+- plumbing
+aliases: ["Fiat"]
+support:
+- category: plumbing
+  department: "Customer Support"
+  phone: "+18335499244"
+  country: US
+  notes: "FIAT Products, LLC, 4515 E. 139th St., Grandview, MO 64030. Number from the FIAT Products warranty document: For other information, call (833) 549-9244 (in the United States and Canada). A LIXIL-group plumbing brand (mop basins, shower bases, service sinks, utility sinks). NOT Fiat the automaker, a different company. Covers xref spellings Fiat and FIAT Products; the bare Fiat row sits adjacent to FIAT Products in the xref (one location each), consistent with a shorthand variant in this supply-house context."
+  source: "https://images.tradeservice.com/ATTACHMENTS/DIR100275/LIXILGroupCorp-FiatProducts_00001_WARR.pdf"
+  last_verified: "2026-10-26"

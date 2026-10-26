@@ -1,0 +1,16 @@
+id: airpro-fan-blower
+name: AirPro Fan & Blower
+website: https://airprofan.com/
+categories: [airflow]
+aliases: ["AirPro Fan & Blower Company", "AirPro Fan & Blower Co."]
+support:
+  - category: airflow
+    department: Customer Support
+    phone: "+17153653267"
+    country: US
+    notes: "AirPro Fan & Blower Company, P.O. Box 543, Rhinelander, WI 54501. Employee-owned manufacturer of industrial-duty centrifugal fans, blowers and accessories; 3-year warranty on all products; ISO 9001:2015 certified. Email sales@airprofan.com. Covers the xref spelling AirPro Fan & Blower Co."
+    source: "http://airprofan.com/applications/dryers/"
+    last_verified: "2026-10-26"
+    hours:
+      timezone: "CT"
+      mon_fri: "8:00 AM - 4:30 PM"

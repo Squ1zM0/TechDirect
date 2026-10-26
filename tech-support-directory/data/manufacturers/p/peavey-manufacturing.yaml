@@ -1,0 +1,13 @@
+id: peavey-manufacturing
+name: Peavey Manufacturing
+website: http://www.peaveymfg.com/
+categories: [hardware]
+aliases: ["Peavey Manufacturing Co.", "Peavy Mfg."]
+support:
+  - category: hardware
+    department: Customer Support
+    phone: "+12078437861"
+    country: US
+    notes: "Peavey Manufacturing Co., Eddington, ME (526 Main Rd). General company phone; not labelled technical support, so recorded as Customer Support. Covers xref spellings Peavey Manufacturing and Peavy Mfg. (Hooks, Shovels). Logging tools (hooks, shovels, peaveys) for over 160 years. Not related to Peavey Electronics."
+    source: "http://www.peaveymfg.com/"
+    last_verified: "2026-10-26"

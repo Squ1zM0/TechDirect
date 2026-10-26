@@ -1,0 +1,13 @@
+id: 4b-components
+name: 4B Components
+website: https://www.go4b.com/usa
+categories: [electrical]
+aliases: ["4B Components Ltd."]
+support:
+  - category: electrical
+    department: Technical Support
+    phone: "+13096985611"
+    country: US
+    notes: "4B Components Ltd., Morton IL. 24-hour hotline 'For Sales or Technical Support Call 309-698-5611' per 4B product manuals/catalogs."
+    source: "https://www.go4b.com/usa/technical-support/technical-papers/4B-Elevator_Inspection_Checklist.pdf"
+    last_verified: "2026-10-26"

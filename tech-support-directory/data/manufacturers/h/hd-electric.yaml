@@ -1,0 +1,14 @@
+id: hd-electric
+name: HD Electric Company
+website: https://www.hdelectriccompany.com/
+categories:
+- electrical
+aliases: []
+support:
+- category: electrical
+  department: Customer Support
+  phone: '+18474734980'
+  country: US
+  notes: 'HD Electric Company, Waukegan, IL. Utility test instruments. Not to be confused with unrelated H-D Electric contractors or cooperatives returned by generic search.'
+  source: https://news.thomasnet.com/fullstory/voltmeter-can-take-readings-on-capacitive-test-points-803777/
+  last_verified: '2026-10-26'

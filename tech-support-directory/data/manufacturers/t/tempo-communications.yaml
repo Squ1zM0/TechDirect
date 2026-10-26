@@ -1,0 +1,12 @@
+id: tempo-communications
+name: "Tempo Communications"
+categories: [electrical]
+aliases: ["Tempo"]
+support:
+  - category: electrical
+    department: Customer Support
+    phone: "+18006422155"
+    country: US
+    notes: "Tempo Communications test and measurement instruments, Vista CA (1390 Aspen Way). Formerly Greenlee Communications (from August 1, 2019)."
+    source: "https://manualspro.net/135558-tempo-tm900-digalert-pro-telephone-test-set-instruction-manual"
+    last_verified: "2026-10-26"

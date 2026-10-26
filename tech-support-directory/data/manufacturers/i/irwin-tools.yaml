@@ -1,0 +1,17 @@
+id: irwin-tools
+name: IRWIN Tools
+website: https://www.irwin.com/
+categories:
+- hardware
+aliases:
+- Irwin
+- Irwin Drill Bits
+- Irwin Industrial Tools
+support:
+- category: hardware
+  department: Customer Support
+  phone: '+18004647946'
+  country: US
+  notes: "Hand and cutting tools; a Stanley Black & Decker brand (an older Thomasnet text naming Newell Brands is outdated and was not used). Number corroborated by Thomasnet and current listings. Note: an older 2012 catalog listed a different customer-service number; that older number is superseded and is not published here as current."
+  source: https://www.irwin.com/
+  last_verified: '2026-10-26'

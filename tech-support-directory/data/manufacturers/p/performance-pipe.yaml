@@ -1,0 +1,13 @@
+id: performance-pipe
+name: Performance Pipe
+website: https://www.performancepipe.com
+categories: [plumbing, waterworks]
+aliases: []
+support:
+  - category: plumbing
+    department: Technical Support
+    phone: "+19725996632"
+    country: US
+    notes: "Performance Pipe, a division of Chevron Phillips Chemical Company LP, Plano, TX. Number explicitly labelled 'Technical Services' in the Performance Pipe gas distribution brochure (email pipetechsupport@cpchem.com); general company phone 800-527-0662 also published. HDPE pipe and fittings for plumbing, waterworks, gas, mining, and industrial use."
+    source: "https://www.cpchem.com/sites/default/files/2022-08/PP%20310%20Gas%20Brochure_%20July2022.pdf"
+    last_verified: "2026-10-26"

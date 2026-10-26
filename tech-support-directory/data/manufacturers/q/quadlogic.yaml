@@ -1,0 +1,13 @@
+id: quadlogic
+name: Quadlogic
+website: https://www.quadlogic.com/
+categories: [electrical]
+aliases: ["Quadlogic Controls"]
+support:
+  - category: electrical
+    department: Customer Support
+    phone: "+18884229319"
+    country: US
+    notes: "Quadlogic Controls, Philadelphia PA. Billing services transitioning to Metergy Solutions in June 2026 per the 2026 transition letter; lineage recorded, not silently renamed to Metergy."
+    source: "https://cdn.prod.website-files.com/6578f3c69bdcbabdc8b85890/69f8b623cb687c10e3ff94bf_Quad%20Customer%20Email%20RB%20%20-%20Announcement%20%233.pdf"
+    last_verified: "2026-10-26"

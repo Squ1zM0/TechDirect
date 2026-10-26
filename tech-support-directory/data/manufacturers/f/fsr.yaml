@@ -1,0 +1,17 @@
+id: fsr
+name: 'FSR'
+website: https://fsrinc.com/
+categories:
+- electrical
+aliases: []
+support:
+- category: electrical
+  department: 'Customer Support'
+  phone: '+18003323771'
+  country: US
+  notes: 'Sales email sales@fsrinc.com.'
+  source: 'https://fsrinc.com/education/solutions-products-overview'
+  last_verified: '2026-10-26'
+  hours:
+    timezone: 'EST'
+    mon_fri: '9:00 AM - 5:00 PM'

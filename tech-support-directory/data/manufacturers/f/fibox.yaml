@@ -1,0 +1,14 @@
+id: fibox
+name: "Fibox"
+website: "https://www.fiboxusa.com/enclosures/polycarbonate/"
+categories:
+- electrical
+aliases: []
+support:
+- category: electrical
+  department: "Customer Support"
+  phone: "+18883426987"
+  country: US
+  notes: "Fibox Inc., 810 Cromwell Park Dr, Glen Burnie MD 21061, US subsidiary of Fibox Oy Ab (Finland). Alternate local line 410-760-9696. Email Sales.USA@fibox.com. NEMA polycarbonate enclosures."
+  source: "https://www.fiboxusa.com/enclosures/polycarbonate/"
+  last_verified: "2026-10-26"

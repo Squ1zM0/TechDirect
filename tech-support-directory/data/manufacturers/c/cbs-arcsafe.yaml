@@ -1,0 +1,13 @@
+id: cbs-arcsafe
+name: CBS ArcSafe
+website: https://cbsarcsafe.com/about/facilities/
+categories: [electrical]
+aliases: ["CBA Arc Safe"]
+support:
+  - category: electrical
+    department: Customer Support
+    phone: "+18774723389"
+    country: US
+    notes: "CBS ArcSafe (Denton, TX), a Group CBS company; line published as 877-4-SAFETY on cbsarcsafe.com, with local 940-382-4411 also published. Email sales@cbsarcsafe.com. Remote racking/switching and arc-flash mitigation equipment. Xref spelling 'CBA Arc Safe' is recorded as an alias on the basis that CBS ArcSafe is the only arc-flash safety company matching the name/theme; flagged in the batch report as a probable transposition, not a verified alternate name."
+    source: "https://cbsarcsafe.com/about/facilities/"
+    last_verified: "2026-10-26"

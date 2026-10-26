@@ -1,0 +1,16 @@
+id: koch-filtration
+name: Koch Filtration
+website: https://kochseparation.com/
+categories:
+- water-systems
+aliases:
+- Koch Membrane Systems
+- Koch Separation Solutions
+support:
+- category: water-systems
+  department: Customer Support
+  phone: '+18886775624'
+  country: US
+  notes: "Membrane filtration (MF, UF, NF, RO); HQ 850 Main Street, Wilmington, MA 01887; HQ direct 978-694-7000; email info@kochmembrane.com. Member of Koch Chemical Technology Group, LLC; founded 1963. DISTINCT from Koch Filter Corporation (air filters, already covered as koch-filter-corporation); the xref parent field naming Koch Filter Corporation is incorrect for this brand. Old site kochmembrane.com noted."
+  source: https://www.beverageonline.com/doc/koch-membrane-systems-announces-its-new-super-0001
+  last_verified: '2026-10-26'

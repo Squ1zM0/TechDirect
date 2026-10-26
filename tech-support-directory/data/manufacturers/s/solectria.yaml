@@ -1,0 +1,13 @@
+id: solectria
+name: Solectria
+website: https://www.solectria.com
+categories: [electrical]
+aliases: []
+support:
+  - category: electrical
+    department: Customer Support
+    phone: "+19786839700"
+    country: US
+    notes: "Yaskawa Solectria Solar (formerly Solectria Renewables, LLC), Lawrence, MA (grid-tied PV inverters, string combiners, monitoring; 3.8-750 kW). Wholly owned subsidiary of Yaskawa America, Inc. Customer support email service@solectria.com; sales inverters@solectria.com."
+    source: "https://solectria.com/site/assets/files/2875/pvi_10-15kw_eol.pdf"
+    last_verified: "2026-10-26"

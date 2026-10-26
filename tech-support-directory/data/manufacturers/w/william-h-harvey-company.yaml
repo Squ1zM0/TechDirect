@@ -1,0 +1,13 @@
+id: william-h-harvey-company
+name: "William H. Harvey Company"
+website: http://www.oatey.com/brands/harvey
+categories: [plumbing]
+aliases: []
+support:
+  - category: plumbing
+    department: Customer Support
+    phone: "+14023311175"
+    country: US
+    notes: "Omaha NE. Plumbing chemicals, closet bolts, plumbers grease. Parent: Oatey (Harvey is an Oatey brand). No standalone Harvey site verified; website is the Oatey brand page."
+    source: "http://www.oatey.com/brands/harvey"
+    last_verified: "2026-10-26"

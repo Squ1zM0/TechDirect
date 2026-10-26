@@ -1,0 +1,15 @@
+id: tii-technologies
+name: Tii Technologies
+website: https://tiitech.com/
+categories:
+- electrical
+aliases: []
+support:
+- category: electrical
+  department: Customer Support
+  phone: '+18888444720'
+  country: US
+  notes: Tii Technologies, 141 Rodeo Drive, Edgewood, NY 11717. Toll-free 888-844-4720; main line 631-789-5000;
+    sales@tiitech.com.
+  source: https://tiitech.com/product/fet2/
+  last_verified: '2026-10-26'

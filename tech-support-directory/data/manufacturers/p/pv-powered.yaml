@@ -1,0 +1,12 @@
+id: pv-powered
+name: PV Powered
+categories: [electrical]
+aliases: []
+support:
+  - category: electrical
+    department: Technical Support
+    phone: "+18668655180"
+    country: US
+    notes: "Legacy Bend OR inverter maker acquired by Advanced Energy Industries in March 2010; support via Advanced Energy. Own file per the legacy rule."
+    source: "https://www.advancedenergy.com/getmedia/53bc16d0-7007-4fd2-9735-3ca2f5192e46/eng-brochure-semicon-usergroup-08-26.pdf"
+    last_verified: "2026-10-26"

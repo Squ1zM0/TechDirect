@@ -1,0 +1,13 @@
+id: ako
+name: AKO
+website: https://www.ako.com
+categories: [hvac-controls]
+aliases: ["AKO Electromecánica", "AKO ELECTROMECANICA"]
+support:
+  - category: hvac-controls
+    department: Customer Support
+    phone: "+34938142700"
+    country: ES
+    notes: "AKO Electromecánica, S.A.L., Avda. Roquetes 30-38, 08812 Sant Pere de Ribes, Barcelona, Spain. Manufacturer of refrigeration and temperature controls. No US line is published; the Spanish headquarters line is used. Email ako@ako.com. Not AKO Regelungstechnik GmbH of Leverkusen, Germany, a different company."
+    source: "https://manuals.plus/ako/53173-liquid-conductor-level-control-manual"
+    last_verified: "2026-10-26"

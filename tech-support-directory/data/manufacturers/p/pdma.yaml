@@ -1,0 +1,13 @@
+id: pdma
+name: PdMA
+website: https://pdma.com
+categories: [electrical]
+aliases: ["PdMA Corporation"]
+support:
+  - category: electrical
+    department: Customer Support
+    phone: "+18004766463"
+    country: US
+    notes: "PdMA Corporation, Tampa, FL. Toll-free number published on the company's own site (direct 813-621-6463 and pdma@pdma.com also published) and corroborated by trade-press author bios. Maker of MCEmax motor circuit analysis test equipment for predictive maintenance and condition monitoring of electric motors; training department reachable at the direct number ext. 251. General company number, not labelled a dedicated Technical Support line, so recorded as Customer Support."
+    source: "https://pdma.com/2021/01/08/gaps-in-your-electric-motor-reliability-program/"
+    last_verified: "2026-10-26"

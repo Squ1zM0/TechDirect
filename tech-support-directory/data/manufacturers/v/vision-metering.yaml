@@ -1,0 +1,13 @@
+id: vision-metering
+name: "Vision Metering, LLC"
+website: https://www.visionmetering.com
+categories: [electrical]
+aliases: []
+support:
+  - category: electrical
+    department: Customer Support
+    phone: "+18036280035"
+    country: US
+    notes: "York SC, 7 Ross Cannon St. Email info@visionmetering.com. Electric/water/gas metering, LoRa communications. Distinct from Vision Metering Philippines (Calamba, non-US number not used)."
+    source: "https://www.visionmetering.com/wp-content/uploads/public_download/Vision_ST_Meter.pdf"
+    last_verified: "2026-10-26"

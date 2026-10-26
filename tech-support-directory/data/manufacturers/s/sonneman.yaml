@@ -1,0 +1,18 @@
+id: sonneman
+name: SONNEMAN
+website: https://www.sonnemanlight.com
+categories: [electrical]
+aliases: []
+support:
+  - category: electrical
+    department: Customer Support
+    phone: "+19148343600"
+    country: US
+    notes: "SONNEMAN - A Way of Light (contemporary designer lighting: pendants, sconces, floor and table lamps, ceiling and outdoor fixtures; founded by Robert Sonneman; New York studio/showroom at 200 Lexington Ave; sonnemanlight.com resolves to the Hudson Valley Lighting Group SONNEMAN catalog). Number is the company's published New York contact; dealer numbers (Destination Lighting, Lumens) were NOT used. Covers both xref spellings Sonneman and SONNEMAN-A WAY OF LIGHT."
+    source: "https://z1biz.com/business/sonneman-a-way-of-light/"
+    last_verified: "2026-10-26"
+hours:
+  timezone: America/New_York
+  days: [Mon, Tue, Wed, Thu, Fri]
+  open: "09:00"
+  close: "17:00"

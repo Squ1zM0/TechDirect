@@ -1,0 +1,15 @@
+id: k-flex-usa
+name: K-Flex USA, LLC
+website: https://www.kflexusa.com/
+categories:
+- hvac
+- plumbing
+aliases: []
+support:
+- category: hvac
+  department: Technical Support
+  phone: '+18007656475'
+  country: US
+  notes: "Elastomeric pipe insulation for HVAC/R and plumbing; HQ 100 K Flex Way, Youngsville, NC 27596; direct 919-556-3475. Subsidiary of L'isolante K-Flex Srl (Italy) per ZoomInfo. Parent file for the Insul-Tube product line. Number labeled K-Flex USA technical services in manufacturer technical bulletins."
+  source: https://www.dtamexico.com.mx/wp-content/uploads/2021/03/TA68-K-Flex-USA-Elastomeric-Insulation-and-Brominated-Flame-Retardants-0616.pdf
+  last_verified: '2026-10-26'

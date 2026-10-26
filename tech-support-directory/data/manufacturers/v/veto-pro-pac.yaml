@@ -1,0 +1,15 @@
+id: veto-pro-pac
+name: Veto Pro Pac
+website: https://vetopropac.com/
+categories:
+- hardware
+aliases: []
+support:
+- category: hardware
+  department: Customer Support
+  phone: '+18778471443'
+  country: US
+  notes: From the official warranty policy page ('check our dealer locator or call us at 877-847-1443').
+    Not labelled Technical Support. 5-year warranty, original owner, authorized dealers only. Tool bags.
+  source: https://vetopropac.com/warranty-policy/
+  last_verified: '2026-10-26'

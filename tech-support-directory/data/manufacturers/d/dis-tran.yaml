@@ -1,0 +1,12 @@
+id: dis-tran
+name: DIS-TRAN Steel
+categories: [electrical]
+aliases: ["DIS-TRAN"]
+support:
+  - category: electrical
+    department: Customer Support
+    phone: "+13184480274"
+    country: US
+    notes: "DIS-TRAN Steel, LLC (Pineville, LA) manufacturer of transmission and substation structures, part of Crest Industries. Phone from Thomasnet company profile; no distinct DIS-TRAN support line published, so the company number is recorded as Customer Support."
+    source: "https://www.thomasnet.com/company/dis-tran-steel-llc-30980865/profile?coverage_area=NA&heading=86711207"
+    last_verified: "2026-10-26"

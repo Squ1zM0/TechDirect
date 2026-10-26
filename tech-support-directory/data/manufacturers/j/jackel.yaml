@@ -1,0 +1,14 @@
+id: jackel
+name: Jackel, Inc.
+website: https://www.jackel.com/
+categories:
+- sump-sewage
+aliases: []
+support:
+- category: sump-sewage
+  department: Customer Support
+  phone: '+15742565635'
+  country: US
+  notes: "Sump and sewage pump systems, basins, covers, and valves; 15314 Harrison Road, Mishawaka, IN 46544, per manufacturer specification sheets."
+  source: https://dsg.widen.net/content/9crc9cs2zh/original/Jackel_SF40_Specification_Sheet.pdf
+  last_verified: '2026-10-26'

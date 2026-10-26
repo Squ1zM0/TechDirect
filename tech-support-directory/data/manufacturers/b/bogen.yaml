@@ -1,0 +1,16 @@
+id: bogen
+name: Bogen Communications
+website: https://www.bogen.com
+categories: [electrical]
+aliases: ["Bogen"]
+support:
+  - category: electrical
+    department: Technical Support
+    phone: "+18009992809"
+    country: US
+    notes: "Bogen Applications Engineering Department technical support for paging, intercom and sound products; email info@bogen.com. Covers xref variants Bogen and Bogen Communications."
+    source: "https://www.bogen.com/transportation"
+    last_verified: "2026-10-26"
+    hours:
+      timezone: "ET"
+      mon_fri: "8:30 AM - 6:00 PM"

@@ -1,0 +1,14 @@
+id: mk-battery
+name: MK Battery
+website: https://www.mkbattery.com
+categories:
+- electrical
+aliases: []
+support:
+- category: electrical
+  department: Customer Support
+  phone: "+18003729253"
+  country: US
+  notes: 'Anaheim, CA. Sealed lead-acid deep-cycle/standby batteries. Flag: one MK blog page prints 800-872-9253 as a variant; filed number is the one repeated across most official pages.'
+  source: https://www.mkbattery.com/blog/buy-battery-company-environmental-responsibility
+  last_verified: "2026-10-26"

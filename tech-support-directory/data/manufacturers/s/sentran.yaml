@@ -1,0 +1,12 @@
+id: sentran
+name: Sentran
+categories: [electrical]
+aliases: []
+support:
+  - category: electrical
+    department: Customer Support
+    phone: "+15033707377"
+    country: US
+    notes: "Sentran Corporation, Salem, OR (current transformers, transducers and sensors for instrumentation, SCADA and metering; SSCT brand). Acquired by iNRCORE in May 2023; number from directory profiles (RocketReach, CB Insights, Datanyze) as no current official-site number was verified. Distinct from Sentran, LLC, Ontario, CA (weigh modules/load cells)."
+    source: "https://www.thomasnet.com/suppliers/usa/87050407?what=Current+Transformers"
+    last_verified: "2026-10-26"

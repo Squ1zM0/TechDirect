@@ -1,0 +1,14 @@
+id: kimberly-clark
+name: Kimberly-Clark
+website: https://www.kcprofessional.com/
+categories:
+- commercial-fixtures
+aliases: []
+support:
+- category: commercial-fixtures
+  department: Customer Support
+  phone: '+18883464652'
+  country: US
+  notes: "Kimberly-Clark Professional: dispensers, wipes, PPE, and janitorial. Email KCPInfo@kcc.com per the official Kimberly-Clark Professional warranty document. Conflicting numbers found and not used as primary: a regional FAQ number, a consumer-complaint site number, and privacy-policy and consumer lines (consumer line noted only)."
+  source: https://www.kcprofessional.com/-/media/global/content-hub/documents/204389327_pdf.pdf
+  last_verified: '2026-10-26'

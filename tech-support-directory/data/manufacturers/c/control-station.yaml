@@ -1,0 +1,15 @@
+id: control-station
+name: Control Station
+website: https://controlstation.com
+categories:
+  - hvac-controls
+aliases:
+  - Control Station Inc.
+support:
+  - category: Customer Support
+    department: Customer Support
+    phone: "+18608722920"
+    country: US
+    notes: "Process-control software (PlantESP control-loop monitoring, LOOP-PRO PID tuning). No HVAC-specific term in the category vocabulary; hvac-controls used as closest. Manchester, CT; email info@controlstation.com. An older directory listing also shows 860-787-8921."
+    source: "https://controlstation.com/news/december-13-2011-control-station-addresses-controller-level-performance-issues-with-tuner-plus/"
+    last_verified: "2026-10-26"

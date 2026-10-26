@@ -1,0 +1,13 @@
+id: northern-electric-power-technology
+name: Northern Electric Power Technology
+website: https://northernep.com/
+categories: [electrical]
+aliases: ["NEP", "NEP America"]
+support:
+  - category: electrical
+    department: Technical Support
+    phone: "+18885989901"
+    country: US
+    notes: "Northern Electric Power Technology Inc. (NEP), Silicon Valley CA; solar microinverters and rapid shutdown MLPE; EnergySage Q&A: 'NEP provides nationwide technical support ... supplemented by NEP's centralized hotline: 888-598-9901'; email info@northernep.com. NOT Northeastern Power (nepower.com, NYC) or Northern Electric Cooperative (SD) - different companies."
+    source: "https://www.energysage.com/blog/qa-with-northern-electric-power/"
+    last_verified: "2026-10-26"

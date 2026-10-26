@@ -1,0 +1,13 @@
+id: air-care
+name: Air-Care
+website: https://www.air-care.com
+categories: [hvac]
+aliases: ["Air-Care, Inc."]
+support:
+  - category: hvac
+    department: Customer Support
+    phone: "+17024545515"
+    country: US
+    notes: "Air-Care, a division of D.P.L. Enterprises Inc., 3868 East Post Road, Las Vegas, NV 89120. Founded 1979; manufacturer of air duct cleaning equipment, electrostatic and HEPA filters, and UV air-purification systems. Email sales@air-care.com; fax (702) 454-5225 also published."
+    source: "https://manuals.plus/st/category/air-care"
+    last_verified: "2026-10-26"

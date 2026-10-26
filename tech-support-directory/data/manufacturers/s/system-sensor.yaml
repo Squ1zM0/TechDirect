@@ -1,0 +1,16 @@
+id: system-sensor
+name: "System Sensor"
+website: "http://buildings.honeywell.com/us/en/brands/our-brands/system-sensor/support/technical-support"
+categories: [electrical]
+aliases: []
+support:
+  - category: electrical
+    department: Technical Support
+    phone: "+18007367672"
+    country: US
+    notes: "System Sensor fire detection devices; Honeywell brand. Email SystemSensor.Tech@Honeywell.com."
+    source: "http://buildings.honeywell.com/us/en/brands/our-brands/system-sensor/support/technical-support"
+    last_verified: "2026-10-26"
+    hours:
+      timezone: "ET"
+      mon_fri: "8:00 AM - 7:00 PM"

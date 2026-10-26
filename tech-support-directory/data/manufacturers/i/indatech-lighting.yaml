@@ -1,0 +1,17 @@
+id: indatech-lighting
+name: Indatech Lighting
+website: http://www.indatechlighting.com/
+categories:
+- electrical
+aliases: []
+support:
+- category: electrical
+  department: Customer Support
+  phone: '+18665632832'
+  country: US
+  notes: 'Indatech Lighting, Houston, TX. Hazardous and industrial lighting. Hours Mon-Fri 8am-5pm, Fri 8am-12pm, America/Chicago. Website URL is from the place listing, not a fetched official page; noted for provenance.'
+  source: http://www.indatechlighting.com/
+  last_verified: '2026-10-26'
+  hours:
+    timezone: CT
+    mon_fri: '8am-5pm'

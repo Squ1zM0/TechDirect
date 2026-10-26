@@ -1,0 +1,13 @@
+id: pelsue
+name: Pelsue
+website: https://www.pelsue.com
+categories: [electrical]
+aliases: ["T.A. Pelsue Company", "Pelsue Company"]
+support:
+  - category: electrical
+    department: Customer Support
+    phone: "+18005258460"
+    country: US
+    notes: "T.A. Pelsue Company, Englewood, CO (2500 South Tejon Street); also lists an Aurora, CO address. Toll-free company number printed on Pelsue product manuals; direct (303) 936-7432 also published. Not labelled technical support, so recorded as Customer Support. Fall protection, confined-space equipment, ventilation, work tents; founded 1963. No safety/PPE term exists in the category vocabulary, so electrical (utility/telecom field use) is the closest term."
+    source: "https://pelsue.com/hubfs/Product-Manuals/Industrial-Safety/PSRL1150-Manual.pdf"
+    last_verified: "2026-10-26"

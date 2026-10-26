@@ -1,0 +1,14 @@
+id: majestic-steel
+name: Majestic Steel
+website: https://www.majesticsteel.com
+categories:
+- hardware
+aliases: []
+support:
+- category: hardware
+  department: Customer Support
+  phone: "+18003215590"
+  country: US
+  notes: Steel service center.
+  source: https://www.majesticsteel.com/terms-of-use/
+  last_verified: "2026-10-26"

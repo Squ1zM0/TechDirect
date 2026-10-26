@@ -1,0 +1,15 @@
+id: kunz-gloves
+name: Kunz Glove Co. Inc.
+website: http://www.kunzglove.com/
+categories:
+- hardware
+aliases:
+- Kunz Gloves
+support:
+- category: hardware
+  department: Customer Support
+  phone: '+13127338780'
+  country: US
+  notes: "Leather work gloves, driver gloves, and voltage glove protectors; founded 1900, 1532 W. Fulton St., Chicago, IL 60607. Fax 312-733-5474. Arc, puncture, and cut rated leather drivers; made in USA. Number from manufacturer product sheets via Border States, corroborated by RocketReach and Superpages."
+  source: https://border-states-assets.azureedge.net/ISSheet_239253.pdf
+  last_verified: '2026-10-26'

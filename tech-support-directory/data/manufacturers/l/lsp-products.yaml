@@ -1,0 +1,13 @@
+id: lsp-products
+name: LSP Products
+website: "https://www.lspproducts.com"
+categories: [plumbing]
+aliases: ["LSP Products Group"]
+support:
+  - category: plumbing
+    department: Customer Support
+    phone: "+18008543215"
+    country: US
+    notes: "LSP Products Group, Irving, TX (2727 Chemsearch Blvd.); plumbing outlet boxes (Switch Hitter, FireStop), water supply connectors, pipe supports, toilet and faucet parts. Number from LSP's own 2018 catalog."
+    source: "https://s22970.pcdn.co/wp-content/uploads/2018/01/LSP_2018Catalog.pdf"
+    last_verified: "2026-10-26"

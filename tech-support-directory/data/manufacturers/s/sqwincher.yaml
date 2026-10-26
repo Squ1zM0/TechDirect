@@ -1,0 +1,13 @@
+id: sqwincher
+name: Sqwincher
+website: https://www.sqwincher.com
+categories: [hardware]
+aliases: []
+support:
+  - category: hardware
+    department: Customer Support
+    phone: "+18006541920"
+    country: US
+    notes: "Sqwincher, a Kent Precision Foods Group, Inc. brand, Muscatine, IA (electrolyte replacement drinks for industrial hydration and heat-stress prevention: liquid concentrates, Qwik Stik, QwikServ, Fast Pack and Sqweeze freezer pops). Formerly The Sqwincher Corporation, Columbus, MS (662-328-0400 in older MSDS records). Category hardware is the closest vocabulary term for a worksite safety/hydration brand. Covers both xref spellings Sqwincher and Squincher (Hydration Drinks) (Squincher treated as a misspelling of Sqwincher)."
+    source: "https://www.callforaction.com/Documents/Sqwincher 2022 Catalog.pdf"
+    last_verified: "2026-10-26"

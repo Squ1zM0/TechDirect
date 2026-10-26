@@ -1,0 +1,13 @@
+id: advanced-network-devices
+name: Advanced Network Devices
+website: https://www.anetd.com
+categories: [electrical]
+aliases: ["AND"]
+support:
+  - category: electrical
+    department: Technical Support
+    phone: "+18474632237"
+    country: US
+    notes: "Advanced Network Devices, 3820 Ventura Drive, Arlington Heights, IL 60004. IP paging / intercom / mass-notification device manufacturer; support email tech@anetd.com and support page www.anetd.com/usersupport printed on manufacturer application notes."
+    source: "https://anetd.com/wp-content/uploads/AND_AN037_Polycom.pdf"
+    last_verified: "2026-10-26"

@@ -1,0 +1,16 @@
+id: ariat
+name: Ariat
+categories: [hardware]
+aliases: []
+support:
+  - category: hardware
+    department: Customer Support
+    phone: "+18777027428"
+    country: US
+    notes: "Workwear, boots and apparel. US customer assistance line published on ariat.com, email info@ariat.com. No apparel/workwear category exists in the TechDirect vocabulary, so hardware is used as the closest term."
+    source: "https://www.ariat.com/exchanges"
+    last_verified: "2026-10-26"
+    hours:
+      timezone: "PT"
+      mon_fri: "5:00 AM - 7:00 PM"
+      sat: "7:00 AM - 4:00 PM"

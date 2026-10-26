@@ -1,0 +1,14 @@
+id: espen-technology
+name: "Espen Technology"
+website: "https://www.espentech.com/who-we-are"
+categories:
+- electrical
+aliases: []
+support:
+- category: electrical
+  department: "Customer Support"
+  phone: "+18669337736"
+  country: US
+  notes: "Espen Technology, Santa Fe Springs CA. Toll-free line printed in the official site footer; alternate (562) 529-2938. Email info@espentech.com. LED drivers and ballasts."
+  source: "https://www.espentech.com/who-we-are"
+  last_verified: "2026-10-26"

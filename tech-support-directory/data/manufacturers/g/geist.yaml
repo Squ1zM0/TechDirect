@@ -1,0 +1,13 @@
+id: geist
+name: 'Geist'
+categories:
+- electrical
+aliases: []
+support:
+- category: electrical
+  department: 'Technical Support'
+  phone: '+18886304445'
+  country: US
+  notes: 'Vertiv brand; Geist Support - Americas for Rack PDU and Watchdog products. Website omitted: vertiv.com is the parent site, not a Geist-specific homepage.'
+  source: 'https://www.vertiv.com/en-anz/products-catalog/monitoring-control-and-management/monitoring/-48v-dc-power-supply-vertiv-geist-environmental-accessory/'
+  last_verified: '2026-10-26'

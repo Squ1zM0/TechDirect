@@ -1,0 +1,13 @@
+id: talk-a-phone
+name: "Talk-A-Phone"
+website: "https://www.talkaphone.com"
+categories: [electrical]
+aliases: []
+support:
+  - category: electrical
+    department: Technical Support
+    phone: "+17735391100"
+    country: US
+    notes: "Talk-A-Phone Co emergency communications and intercoms, Niles IL. Manuals direct technical service inquiries to this number, which is also the general contact number. Email info@talkaphone.com."
+    source: "https://cdn.adiglobaldistribution.us/pim/Original/July-2026/TF_FM120_Manufacturer_Brochure.pdf"
+    last_verified: "2026-10-26"

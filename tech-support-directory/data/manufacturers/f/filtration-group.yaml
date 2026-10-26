@@ -1,0 +1,14 @@
+id: filtration-group
+name: "Filtration Group"
+website: "http://www.filtrationgroup.com/"
+categories:
+- hvac
+aliases: []
+support:
+- category: hvac
+  department: "Customer Support"
+  phone: "+16309681730"
+  country: US
+  notes: "Filtration Group Corporation, 1 Tower Ln Ste 900, Oakbrook Terrace, IL. Hours Mon-Fri 8:00 AM-5:00 PM per a place listing. Joliet IL Indoor Air Quality division number 815-726-4600 noted as alternate. ISO 9001 certified manufacturer of filter elements, filter bags, and air and liquid filtration; founded 1983 per ThomasNet. Category hvac is the closest vocabulary term for filtration."
+  source: "http://www.filtrationgroup.com/"
+  last_verified: "2026-10-26"

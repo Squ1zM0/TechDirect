@@ -1,0 +1,13 @@
+id: black-swan
+name: Black Swan
+website: http://www.blackswanmfg.com/
+categories: [plumbing]
+aliases: ["Black Swan Manufacturing Co", "Black Swan Mfg. Co."]
+support:
+  - category: plumbing
+    department: Customer Support
+    phone: "+18002525796"
+    country: US
+    notes: "Black Swan Manufacturing Co., 4540 W. Thomas Street, Chicago, IL 60651-3318, maker of plumbing chemicals and specialties for over 90 years. Toll-free Wats line from the manufacturer catalog; local number 773-227-3700 also published. Email info@blackswanmfg.com."
+    source: "https://assets.unilogcorp.com/187/ITEM/DOC/Black_Swan_102667398_Catalog.pdf"
+    last_verified: "2026-10-26"

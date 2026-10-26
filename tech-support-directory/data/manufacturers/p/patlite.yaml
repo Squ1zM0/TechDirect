@@ -1,0 +1,13 @@
+id: patlite
+name: PATLITE
+website: https://www.patlite.com
+categories: [electrical]
+aliases: ["PATLITE (U.S.A.) Corporation"]
+support:
+  - category: electrical
+    department: Customer Support
+    phone: "+18882142580"
+    country: US
+    notes: "PATLITE (U.S.A.) Corporation, Torrance, CA. Toll-free company number published in PATLITE press releases and Thomasnet profile; HQ direct +1 (310) 328-3222 also published on global.patlite.com with business hours 7:00 AM-5:00 PM PT. Not labelled technical support, so recorded as Customer Support. Signal lights, stack lights, audible alarms; founded 1947."
+    source: "https://www.thomasnet.com/company/patlite-644464/profile?coverage_area=CS&heading=38931408"
+    last_verified: "2026-10-26"

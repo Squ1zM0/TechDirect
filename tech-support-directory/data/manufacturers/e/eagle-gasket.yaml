@@ -1,0 +1,16 @@
+id: eagle-gasket
+name: Eagle Gasket
+website: https://www.eaglegasket.com
+categories: [piping-systems]
+aliases: ["Eagle Gasket and Packing Co.", "Eagle Gasket & Packing Co."]
+support:
+  - category: piping-systems
+    department: Customer Support
+    phone: "+17132908811"
+    country: US
+    notes: "Eagle Gasket and Packing Company (Tomball, TX, founded 1992) gaskets, seals and compression-molded plastics; also a distributor for Teadit and Garlock. HQ line from the company's own brochure. Category note: no gasket vocabulary term exists; mapped to piping-systems as the closest term. Distinct from Eagle Gasket Co. of Thane, India."
+    source: "https://www.eaglegasket.com/wp-content/uploads/2017/07/EagleGasket_SecureTrack.pdf"
+    last_verified: "2026-10-26"
+    hours:
+      timezone: "CT"
+      mon_fri: "8:00 AM - 5:00 PM"

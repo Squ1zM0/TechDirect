@@ -1,0 +1,13 @@
+id: crestron
+name: Crestron
+website: https://www.crestron.com
+categories: [electrical]
+aliases: ["Crestron Electronics"]
+support:
+  - category: electrical
+    department: Technical Support
+    phone: "+18882737876"
+    country: US
+    notes: "Crestron True Blue Support for dealers and partners (888-CRESTRON); email support@crestron.com. AV controls and automation. No separate AV category exists in the vocabulary, so electrical is the closest. Commercial lighting technical support is a separate line, 855-644-7643 option 1."
+    source: "https://www.crestron.com/Support/Tools"
+    last_verified: "2026-10-26"

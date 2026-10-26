@@ -1,0 +1,17 @@
+id: epson
+name: "Epson"
+website: "http://support.epson.com"
+categories:
+- electrical
+aliases: []
+support:
+- category: electrical
+  department: "Technical Support"
+  phone: "+15622761300"
+  country: US
+  notes: "Seiko Epson. Support doc directs callers to speak to a technical support representative at this number, Mon-Fri 6 am-6 pm PT; automated services at (800) 922-8911. Label and document printers; electrical is the closest vocabulary term. The product line Epson LabelWorks is PARENT-RESOLVED to this file."
+  source: "https://files.support.epson.com/htmldocs/styrp2/styrp2ug/troub_3.htm"
+  last_verified: "2026-10-26"
+  hours:
+    timezone: "PT"
+    mon_fri: "6:00 AM - 6:00 PM"

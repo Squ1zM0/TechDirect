@@ -1,0 +1,16 @@
+id: russellstoll
+name: Russellstoll
+categories:
+- electrical
+aliases:
+- Russell Stoll
+- RUSSELLSTOLL/MIPCO BY T&B
+support:
+- category: electrical
+  department: Technical Support
+  phone: '+18888623289'
+  country: US
+  notes: Russellstoll, a Thomas & Betts / ABB brand. T&B Technical Support, 7AM-6PM CDT; techsupport@tnb.com. Pin-and-sleeve connectors, plugs and receptacles. Not the existing russell file (HTPG/Heatcraft
+    refrigeration coils); a different company.
+  source: Thomas & Betts cutsheet (T&B Technical Support, Phone (888) 862-3289) and Russellstoll pin-and-sleeve catalog
+  last_verified: '2026-10-26'

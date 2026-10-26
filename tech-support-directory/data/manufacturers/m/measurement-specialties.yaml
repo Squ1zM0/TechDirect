@@ -1,0 +1,14 @@
+id: measurement-specialties
+name: Measurement Specialties
+website: https://www.te.com
+categories:
+- electrical
+aliases: []
+support:
+- category: electrical
+  department: Customer Support
+  phone: "+18005226752"
+  country: US
+  notes: 'Parent TE Connectivity: Measurement Specialties is a TE Connectivity sensor brand (DigiKey lists manufacturer as ''TE Connectivity Measurement Specialties''; TE acquired Measurement Specialties in 2014). TE publishes support primarily via te.com; filed number is TE''s general customer-service line. TE ICT customer service 800-223-1236 per official TE.com LADD guide (TEICTCustomerService@te.com), recorded as alternate. No te-connectivity file exists in TechDirect, so own file with parent chain.'
+  source: https://theflyingengineer.com/listing/te-connectivity/
+  last_verified: "2026-10-26"

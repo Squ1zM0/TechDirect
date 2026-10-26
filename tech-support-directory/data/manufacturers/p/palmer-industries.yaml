@@ -1,0 +1,13 @@
+id: palmer-industries
+name: Palmer Industries
+website: https://palmerindustries.com
+categories: [bathroom-systems, plumbing]
+aliases: ["Palmer Industries, Inc."]
+support:
+  - category: bathroom-systems
+    department: Customer Support
+    phone: "+14014211730"
+    country: US
+    notes: "Palmer Industries, Warwick, RI (71 Cypress St, 02888). Number published in the company's Decorative Plumbing + Hardware Association member listing and on the company's own showroom page. Manufacturer of custom, high-end architectural metalworks, vanity sink legs, console leg systems for bath sinks, and designer shelving (sinklegs.com); founded 1980. Distinct from Palmer Industries, Inc., Akron, OH (bearings, hose couplings) and Palmer Industries, Alexandria, MN (plastic straps), which are different companies. General company number, not labelled technical support, so recorded as Customer Support."
+    source: "https://www.dpha.net/find-a-brand/palmer-industries"
+    last_verified: "2026-10-26"

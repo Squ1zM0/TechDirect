@@ -1,0 +1,14 @@
+id: mid-central-electric
+name: Mid-Central Electric
+website: http://www.midcentralelectric.com/
+categories:
+- electrical
+aliases: []
+support:
+- category: electrical
+  department: Customer Support
+  phone: "+16088353513"
+  country: US
+  notes: Mid Central Electric Inc, 880 Market St, Oregon, WI. Hours Mon-Fri 7:00 AM-3:30 PM.
+  source: http://www.midcentralelectric.com/
+  last_verified: "2026-10-26"

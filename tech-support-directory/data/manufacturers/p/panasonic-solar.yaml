@@ -1,0 +1,13 @@
+id: panasonic-solar
+name: Panasonic Solar
+website: https://na.panasonic.com/us/solar
+categories: [electrical]
+aliases: ["Panasonic Eco Solutions Solar"]
+support:
+  - category: electrical
+    department: Customer Support
+    phone: "+18777974743"
+    country: US
+    notes: "Panasonic Life Solutions Company of America / Panasonic Eco Solutions. Number published in the official Panasonic HIT photovoltaic module installation manual for PV module/system failure contact (also lists panasonicHIT@us.panasonic.com). Panasonic ended its solar and battery storage business in April 2025 but stated it would honour existing warranties and continue customer support; a 2025 SolarReviews report lists homeowner support +1 (877) 331-4545 and installer support +1 (855) 525-1675 for the wind-down period. Distinct division from the existing Panasonic HVAC/IAQ file, with its own support contacts."
+    source: "https://ftp.panasonic.com/solar/installation/vbhn330sa17e_install.pdf"
+    last_verified: "2026-10-26"

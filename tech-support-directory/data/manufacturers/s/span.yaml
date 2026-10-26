@@ -1,0 +1,13 @@
+id: span
+name: SPAN
+website: https://span.io
+categories: [electrical]
+aliases: []
+support:
+  - category: electrical
+    department: Customer Support
+    phone: "+14152865252"
+    country: US
+    notes: "SPAN (smart electrical panels: SPAN Panel, SPAN Meter Panel, with circuit-level monitoring and control, solar/battery/EV integration). Support email support@span.io; installer support via the same number; technical documentation at span.io/techportal. Covers both xref spellings Span and SPAN Energy Management."
+    source: "https://manuals.plus/yo/category/span"
+    last_verified: "2026-10-26"

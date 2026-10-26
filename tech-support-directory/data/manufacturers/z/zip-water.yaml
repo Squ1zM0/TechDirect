@@ -1,0 +1,13 @@
+id: zip-water
+name: "Zip Water"
+website: https://us.zipwater.com
+categories: [water-systems]
+aliases: ["Zip Water (USA)"]
+support:
+  - category: water-systems
+    department: Customer Support
+    phone: "+18332332358"
+    country: US
+    notes: "Zip Water (USA). Email wecare@us.zipwater.com. HydroTap instant filtered boiling/chilled water taps. US arm is Culligan International Company d/b/a Zip Water, Libertyville IL. Australian parent numbers are NOT used."
+    source: "https://us.zipwater.com/support/"
+    last_verified: "2026-10-26"

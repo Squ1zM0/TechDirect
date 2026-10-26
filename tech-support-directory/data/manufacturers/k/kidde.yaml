@@ -1,0 +1,15 @@
+id: kidde
+name: Kidde
+website: https://www.kidde.com/
+categories:
+- electrical
+aliases:
+- Kidde Fire
+support:
+- category: electrical
+  department: Customer Support
+  phone: '+18008806788'
+  country: US
+  notes: "Smoke and CO alarms and fire safety; a Carrier brand, 1016 Corporate Park Drive, Mebane, NC 27302. Explicitly NOT Kidde-Fenwal (a different entity). Secondary numbers noted only, not filed as primary: consumer hours Mon-Fri 8:00 AM-7:00 PM ET, Wi-Fi support 877-542-5471, business-product support 800-654-9677."
+  source: http://www.kidde.com/warranty-information
+  last_verified: '2026-10-26'

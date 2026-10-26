@@ -1,0 +1,13 @@
+id: greaves
+name: 'Greaves Corporation'
+categories:
+- electrical
+aliases: []
+support:
+- category: electrical
+  department: 'Customer Support'
+  phone: '+18002431130'
+  country: US
+  notes: 'Toll-free outside CT. Email info@greavesusa.com. Covers batch spellings Greaves and Greaves Corp.'
+  source: 'https://greaves-usa.com/wp-content/uploads/2026/06/Data-Center-Brochure.pdf'
+  last_verified: '2026-10-26'

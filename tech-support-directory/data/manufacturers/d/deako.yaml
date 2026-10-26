@@ -1,0 +1,13 @@
+id: deako
+name: Deako
+website: https://www.deako.com
+categories:
+  - electrical
+support:
+  - category: Customer Support
+    department: Customer Support
+    phone: "+18446733256"
+    country: US
+    notes: "Modular smart lighting system (plug-in smart switches/dimmers, backplates) for new-home builders, Seattle, WA. Support via support@deako.com; 1-year limited warranty on switches."
+    source: "https://support.deako.com/hc/en-us/articles/360007446594-Add-a-Device-to-the-Deako-App"
+    last_verified: "2026-10-26"

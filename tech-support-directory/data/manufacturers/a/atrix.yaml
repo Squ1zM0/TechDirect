@@ -1,0 +1,12 @@
+id: atrix
+name: Atrix International
+categories: [hardware]
+aliases: ["Atrix"]
+support:
+  - category: hardware
+    department: Customer Support
+    phone: "+18002226154"
+    country: US
+    notes: "ESD-safe and industrial vacuums (toner, electronics, aviation), Burnsville MN. Toll-free line published in Atrix owner manuals; local line 952-894-6154 and sales@atrix.com also published."
+    source: "https://atrix.com/wp-content/uploads/2018/06/VACBP400-Aviation-Backpack-Owners-Manual.pdf"
+    last_verified: "2026-10-26"

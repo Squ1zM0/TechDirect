@@ -1,0 +1,12 @@
+id: arc-suppression-technologies
+name: Arc Suppression Technologies
+categories: [electrical]
+aliases: ["Arc Suppression Technologies, LLC"]
+support:
+  - category: electrical
+    department: Customer Support
+    phone: "+16129285546"
+    country: US
+    notes: "NOsparc arc suppression devices for electromechanical relays, contactors and switches (AC and DC), Bloomington MN (7900 International Dr Ste 300). Line published in company documents; sales line 612-928-5269 and info@ArcSuppressionTechnologies.com also published."
+    source: "https://arcsuppressiontechnologies.com/wp-content/uploads/2024/03/App-Note-108-FMEA-Mitigation-of-Electrical-Contacts-rev-E.pdf"
+    last_verified: "2026-10-26"

@@ -1,0 +1,13 @@
+id: strom-living
+name: "Strom Living"
+website: "https://stromliving.com/"
+categories: [plumbing]
+aliases: []
+support:
+  - category: plumbing
+    department: Customer Support
+    phone: "+19166382722"
+    country: US
+    notes: "Strom Living plumbing fixtures and fittings, Rancho Cordova CA. Email support@stromliving.com."
+    source: "https://stromliving.com/pages/shipping-returns"
+    last_verified: "2026-10-26"

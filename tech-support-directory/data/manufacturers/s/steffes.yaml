@@ -1,0 +1,13 @@
+id: steffes
+name: "Steffes Corporation"
+website: "https://steffes.com/ets/thermelect-hydronic-furnace/"
+categories: [hvac]
+aliases: ["Steffes"]
+support:
+  - category: hvac
+    department: Technical Support
+    phone: "+18887833337"
+    country: US
+    notes: "Steffes Corporation technical support (1-888-STEFFES), per the ThermElect hydronic furnace page and TRL features page. Note: a Steffes ETS notice states S/EXT/1000 Series room-heater parts and technical support ceased ordering/support from June 1, 2025, so this line does not cover those retired series."
+    source: "https://steffes.com/ets/thermelect-hydronic-furnace/"
+    last_verified: "2026-10-26"

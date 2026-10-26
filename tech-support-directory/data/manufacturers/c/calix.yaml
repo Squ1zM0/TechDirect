@@ -1,0 +1,16 @@
+id: calix
+name: Calix
+website: https://www.calix.com
+categories: [electrical]
+aliases: ["Calix, Inc."]
+support:
+  - category: electrical
+    department: Technical Support
+    phone: "+18777663500"
+    country: US
+    notes: "Calix, Inc. (NYSE: CALX), 2777 Orchard Parkway, San Jose, CA 95134, broadband cloud and software platforms and access equipment for service providers. Calix Technical Assistance Center (TAC) provides 24x7 coverage; normal business hours 5 AM-5 PM PT Mon-Fri. Direct TAC line 707-766-3500 also published; HQ main line 707-766-3000. NOTE: no telecom category exists in the vocabulary, so broadband/telecom equipment maps to electrical."
+    source: "https://www.scribd.com/document/255260702/CMS-CALIX-13-0-143"
+    last_verified: "2026-10-26"
+    hours:
+      timezone: "PT"
+      mon_fri: "5:00 AM - 5:00 PM"

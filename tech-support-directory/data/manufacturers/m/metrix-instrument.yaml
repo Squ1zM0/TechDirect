@@ -1,0 +1,15 @@
+id: metrix-instrument
+name: Metrix Instrument
+website: https://www.metrixvibration.com
+categories:
+- electrical
+aliases:
+- Metrix Vibration
+support:
+- category: electrical
+  department: Customer Support
+  phone: "+18006387494"
+  country: US
+  notes: Houston, TX, 8824 Fallbrook Dr. Vibration monitoring. Local 281-940-1802; email info@metrixvibration.com.
+  source: https://www.metrixvibration.com/resources/blog/proximity-vibration-monitoring-for-critical-machinery
+  last_verified: "2026-10-26"

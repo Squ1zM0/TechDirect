@@ -1,0 +1,15 @@
+id: marathon-electric
+name: Marathon Electric
+categories:
+- electrical
+aliases:
+- Marathon Motor
+- Marathon Motors
+support:
+- category: electrical
+  department: Customer Support
+  phone: "+18337342500"
+  country: US
+  notes: Parent Regal Rexnord. Motors, generators. Number is the Regal Rexnord corporate number per source. Covers xref spellings Marathon Electric, Marathon Motor, Marathon Motors. Distinct from Marathon Products (marathon-products) and Marathon Special Products (marathon-special-products).
+  source: https://www.geartechnology.com/companies/regal-rexnord
+  last_verified: "2026-10-26"

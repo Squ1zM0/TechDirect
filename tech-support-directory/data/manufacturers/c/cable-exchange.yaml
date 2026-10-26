@@ -1,0 +1,16 @@
+id: cable-exchange
+name: Cable Exchange
+website: http://www.4cablex.com/
+categories: [electrical]
+aliases: ["Cable Exchange, Inc."]
+support:
+  - category: electrical
+    department: Customer Support
+    phone: "+18004222539"
+    country: US
+    notes: "Cable Exchange, 3008 S Croddy Way, Santa Ana, CA, supplier of fiber optic and copper assemblies (jumpers, preterminated high-fiber-count assemblies, patch cords) since 1986, now a CommScope company; 85% of orders ship same day. Hours Mon-Fri 8 AM-5 PM PT."
+    source: "http://www.4cablex.com/"
+    last_verified: "2026-10-26"
+    hours:
+      timezone: "PT"
+      mon_fri: "8:00 AM - 5:00 PM"

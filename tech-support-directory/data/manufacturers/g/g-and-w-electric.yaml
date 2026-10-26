@@ -1,0 +1,17 @@
+id: g-and-w-electric
+name: 'G&W Electric'
+website: https://www.gwelectric.com/
+categories:
+- electrical
+aliases: ['G&W']
+support:
+- category: electrical
+  department: 'Customer Support'
+  phone: '+17082973835'
+  country: US
+  notes: 'Aftermarket Support team handles technical questions. Email aftermarket.support@gwelec.com. Main customer service 708-388-5010 also published. Covers batch spellings G&W and G&W Electric.'
+  source: 'https://www.gwelectric.com/customer-support/'
+  last_verified: '2026-10-26'
+  hours:
+    timezone: 'CT'
+    mon_fri: '7:00 AM - 5:00 PM'

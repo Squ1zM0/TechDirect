@@ -1,0 +1,14 @@
+id: ja-solar
+name: JA Solar
+website: https://www.jasolar.com/
+categories:
+- electrical
+aliases: []
+support:
+- category: electrical
+  department: Customer Support
+  phone: '+14085860000'
+  country: US
+  notes: "Solar modules; JA Solar USA Inc., 2570 North First Street Suite 360, San Jose, CA 95131, per a Solar Power World supplier listing. HQ Beijing, China; founded 2005."
+  source: https://www.solarpowerworldonline.com/suppliers/ja-solar/
+  last_verified: '2026-10-26'

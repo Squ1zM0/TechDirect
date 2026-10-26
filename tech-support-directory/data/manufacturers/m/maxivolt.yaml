@@ -1,0 +1,14 @@
+id: maxivolt
+name: Maxivolt
+website: https://maxivolt.com
+categories:
+- electrical
+aliases: []
+support:
+- category: electrical
+  department: Customer Support
+  phone: "+18005834773"
+  country: US
+  notes: MAXIVOLT CORP, Amarillo, TX. Surge protection since 1988. Email info@maxivolt.com.
+  source: https://maxivolt.com/home/maxivolt-history/
+  last_verified: "2026-10-26"

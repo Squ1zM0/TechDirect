@@ -1,0 +1,13 @@
+id: zaneen-lighting
+name: "Zaneen Group Inc."
+website: https://www.zaneen.com
+categories: [electrical]
+aliases: ["Zaneen Lighting"]
+support:
+  - category: electrical
+    department: Customer Support
+    phone: "+18003883382"
+    country: US
+    notes: "Toronto ON, 30 Tycos Dr. Email zteam@zaneen.com. Canadian company with a US-dialable NANP toll-free line; country recorded US with this Toronto-HQ note. Founded by Robert Pietrobon 1981. Lighting fixtures."
+    source: "https://zaneen.com/finishes/series/Dial&custitem_show=Yes&custitem_light_distribution=Indirect&custitem_ip_rating=IP20&class=Design&custitem_mounting_location=Wall"
+    last_verified: "2026-10-26"

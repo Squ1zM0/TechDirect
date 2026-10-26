@@ -1,0 +1,16 @@
+id: sediver
+name: Sediver
+website: https://sediver.com/
+categories:
+- electrical
+aliases: []
+support:
+- category: electrical
+  department: Customer Support
+  phone: '+15147393385'
+  country: CA
+  notes: 'Sediver. Shared-number caveat: the company''s own brochure lists this Montreal-area number as the shared North America contact for both Sediver USA, Inc. (One Sediver Way, West Memphis, AR 72301)
+    and Sediver Canada Inc.; no distinct US plant phone was published in that document. info.usa@sediver.com. Toughened glass insulators for transmission and distribution. Recorded with country CA because
+    the number is a Montreal-area number; no US line is invented.'
+  source: Sediver brochure (sediver.com, C01-2018)
+  last_verified: '2026-10-26'

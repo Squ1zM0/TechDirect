@@ -1,0 +1,16 @@
+id: tingley-rubber
+name: Tingley Rubber
+website: https://tingleyrubber.com/
+categories:
+- hardware
+aliases:
+- Tingley Rubber Corporation
+support:
+- category: hardware
+  department: Customer Support
+  phone: '+18006315498'
+  country: US
+  notes: Tingley Rubber Corporation; safety and rainwear products. The 'Tingley (Arc Flash)' xref spelling
+    is an arc-flash PPE product line of the same company, not a separate company.
+  source: https://tingleyrubber.com/blogs/blog
+  last_verified: '2026-10-26'

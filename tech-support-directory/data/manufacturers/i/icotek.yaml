@@ -1,0 +1,15 @@
+id: icotek
+name: icotek Corp.
+website: https://www.icotek-usa.com/
+categories:
+- electrical
+aliases:
+- Icotek
+support:
+- category: electrical
+  department: Customer Support
+  phone: '+13126432315'
+  country: US
+  notes: 'icotek Corp., Chicago, IL. Email info@icotek-usa.com. US arm of German parent icotek GmbH and Co. KG (Eschach, Germany). Cable management.'
+  source: https://pdf.directindustry.fr/pdf-en/icotek-gmbh-co-kg/cable-management-systems/64755-1103006.html
+  last_verified: '2026-10-26'

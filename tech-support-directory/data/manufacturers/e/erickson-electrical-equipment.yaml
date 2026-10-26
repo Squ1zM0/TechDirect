@@ -1,0 +1,13 @@
+id: erickson-electrical-equipment
+name: "Erickson Electrical Equipment"
+categories:
+- electrical
+aliases: []
+support:
+- category: electrical
+  department: "Customer Support"
+  phone: "+18476407701"
+  country: US
+  notes: "Erickson Electrical Equipment Co., 475 Bonnie Lane, Elk Grove Village, IL 60007, since 1932. Thomas Verified manufacturer of utility metering products, ground detectors, panelboards, meter stacks, and switchgear. NOT Ericson Manufacturing (Willoughby OH, temporary power), which is a separate company with its own file, and NOT Erickson Electric contractors."
+  source: "https://www.thomasnet.com/company/erickson-electrical-equipment-co-431344/profile"
+  last_verified: "2026-10-26"

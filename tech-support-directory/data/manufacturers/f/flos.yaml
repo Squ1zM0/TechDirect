@@ -1,0 +1,16 @@
+id: flos
+name: "Flos"
+categories:
+- electrical
+aliases: []
+support:
+- category: electrical
+  department: "Customer Support"
+  phone: "+18889529541"
+  country: US
+  notes: "Flos, Inc. (Brooklyn NY), US distributor for Flos SpA (Bovezzo, Brescia, Italy), founded 1962 in Merano. Number from a CPSC recall notice: Flos toll-free 888-952-9541, 9 a.m.-6 p.m. ET Mon-Fri; email info@flosusa.com. A 2018 marketing number 1-888-955-1674 and a privacy-requests number (888) 860-4311 are NOT filed as primary."
+  source: "https://www.cpsc.gov/Recalls/2016/Flos-Recalls-Pendant-Light-Fixtures"
+  last_verified: "2026-10-26"
+  hours:
+    timezone: "ET"
+    mon_fri: "9:00 AM - 6:00 PM"

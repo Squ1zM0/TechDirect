@@ -1,0 +1,16 @@
+id: birchwood-lighting
+name: Birchwood Lighting
+website: https://birchwoodlighting.com/company/about-us
+categories: [electrical]
+aliases: ["Birchwood", "BIRCHWOOD LIGHTING"]
+support:
+  - category: electrical
+    department: Customer Support
+    phone: "+18475595500"
+    country: US
+    notes: "Birchwood Lighting, 725 Landwehr Road, Northbrook, IL 60062; Birchwood, ConTech and Intense Lighting are Leviton lighting brands, and Birchwood's own About Us page gives this customer-service number and customerservice-lighting@leviton.com. Older Birchwood documents list a superseded Santa Ana number (714-550-7118); the current Northbrook customer-service number is used here. Covers xref variants Birchwood and BIRCHWOOD LIGHTING. Category mapped from lighting fixtures to electrical (no lighting term in the vocabulary)."
+    source: "https://birchwoodlighting.com/company/about-us"
+    last_verified: "2026-10-26"
+    hours:
+      timezone: "CT"
+      mon_fri: "7:30 AM - 5:00 PM"

@@ -1,0 +1,13 @@
+id: qcells
+name: Qcells
+website: https://us.qcells.com/
+categories: [electrical]
+aliases: []
+support:
+  - category: electrical
+    department: Customer Support
+    phone: "+19497485996"
+    country: US
+    notes: "Hanwha Q CELLS USA Corp / Hanwha Q CELLS America Inc, Irvine CA. No solar term exists in the category vocabulary, so mapped to electrical."
+    source: "https://us.qcells.com/"
+    last_verified: "2026-10-26"

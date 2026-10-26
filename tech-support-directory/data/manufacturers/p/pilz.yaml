@@ -1,0 +1,13 @@
+id: pilz
+name: Pilz
+website: https://www.pilz.com
+categories: [electrical]
+aliases: ["Pilz GmbH & Co. KG", "Pilz Automation Safety"]
+support:
+  - category: electrical
+    department: Technical Support
+    phone: "+18777459872"
+    country: US
+    notes: "Pilz GmbH & Co. KG, Ostfildern, Germany (Felix-Wankel-Strasse 2). US toll-free number published on Pilz's Pilz Care technical support page as United States (toll-free) 877-PILZUSA; Canada toll-free 888-315-PILZ also published. Safety automation: sensors, control and monitoring technology, safe automation systems."
+    source: "https://www.pilz.com/en-INT/support/pilz-care"
+    last_verified: "2026-10-26"

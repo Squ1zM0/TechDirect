@@ -1,0 +1,13 @@
+id: wheatland-tube
+name: "Wheatland Tube"
+website: https://www.zekelman.com
+categories: [piping-systems, electrical]
+aliases: ["Wheatland", "Wheatland Tube Company"]
+support:
+  - category: piping-systems
+    department: Customer Support
+    phone: "+18002578182"
+    country: US
+    notes: "Division of Zekelman Industries; Wheatland, PA toll-free. Zekelman HQ number also published. Steel pipe and electrical conduit. Xref spellings Wheatland, Wheatland Tube and Wheatland Tube Company share this file (variant group). Parent: Zekelman Industries. No Zekelman file exists, so this is a NEW file, not PARENT-RESOLVED."
+    source: "https://www.zekelman.com/company/locations/"
+    last_verified: "2026-10-26"

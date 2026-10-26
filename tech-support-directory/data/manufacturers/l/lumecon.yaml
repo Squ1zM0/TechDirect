@@ -1,0 +1,13 @@
+id: lumecon
+name: Lumecon
+website: "https://lumecon.com"
+categories: [electrical]
+aliases: ["LUMECON"]
+support:
+  - category: electrical
+    department: Customer Support
+    phone: "+12484775009"
+    country: US
+    notes: "Lumecon LLC, Farmington Hills, MI, founded 2006; US manufacturer of LED wallpacks, flood lights, canopies and post-top ornamental products with the ETD (Enhanced Thermal Dissipation) System, backed by a 10-year warranty. Number from Lumecon's own catalog (sales@lumecon.com also published)."
+    source: "https://lumecon.com/wp-content/uploads/2023/05/Lumecon-Outdoor-Lighting-Solutions_05012023.pdf"
+    last_verified: "2026-10-26"

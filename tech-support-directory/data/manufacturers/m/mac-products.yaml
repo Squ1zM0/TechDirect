@@ -1,0 +1,13 @@
+id: mac-products
+name: MAC Products
+website: "https://www.macproducts.net/"
+categories: [electrical]
+aliases: ["Mac Products"]
+support:
+  - category: electrical
+    department: Customer Support
+    phone: "+19733440700"
+    country: US
+    notes: "MAC Products, Kearny, NJ (60 Pennsylvania Avenue); designer and manufacturer of electric utility and electrified transit electrical components (busbars, sectionalizing switches, pressurization and circulating plants, overhead catenary systems, third rail accessories, cable cooling plants) for utilities and transit agencies across North America. Identity basis flagged honestly: the xref gives no parent or categories, so this filing matches on the exact company name plus the electrical trade; it is the only verified company literally named 'MAC Products' in the electrical trade. Sales +1 973-344-6186 and info@macproducts.net also published on MAC's own site. The phone +1 973-817-5606 that appears on search-result metadata for MAC's pages is a scraped artifact and is NOT used."
+    source: "https://www.macproducts.net/electric-utility"
+    last_verified: "2026-10-26"

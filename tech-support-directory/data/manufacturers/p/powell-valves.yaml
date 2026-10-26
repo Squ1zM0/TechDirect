@@ -1,0 +1,13 @@
+id: powell-valves
+name: Powell Valves
+website: https://www.powellvalves.com
+categories: [valves]
+aliases: ["Powell Valves (Powell Industrial)", "Powell Industrial"]
+support:
+  - category: valves
+    department: Customer Support
+    phone: "+18008882583"
+    country: US
+    notes: "Powell Valves, Cincinnati, OH (2503 Spring Grove Avenue). Toll-free number published on powellvalves.com; direct (513) 852-2000 and parts@powellvalves.com also published. Not labelled technical support, so recorded as Customer Support. Industrial valves since 1846: gate, globe, check, butterfly, and ball valves in bronze, iron, and steel for petrochemical, power generation, refining, and pulp and paper service; API 600/602/603 licensed, ISO 9001 registered."
+    source: "https://www.powellvalves.com/power-generation.html"
+    last_verified: "2026-10-26"

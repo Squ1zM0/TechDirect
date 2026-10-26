@@ -1,0 +1,13 @@
+id: voltec-power-lighting
+name: "Voltec Power & Lighting"
+website: https://www.voltecpowerlighting.com
+categories: [electrical]
+aliases: ["Voltec"]
+support:
+  - category: electrical
+    department: Customer Support
+    phone: "+18664865832"
+    country: US
+    notes: "1-866-4Voltec; local 909-606-1991; email customerservice@voltecindustries.com. Xref spellings Voltec and VOLTEC POWER & LIGHTING share this file (variant pair)."
+    source: "https://assets.gordonelectricsupply.com/datasheets/ts/VoltecPower&Lighting_00002_26_CAT.pdf"
+    last_verified: "2026-10-26"

@@ -1,0 +1,13 @@
+id: lightology
+name: Lightology
+website: "https://www.lightology.com/"
+categories: [electrical]
+aliases: ["LIGHTOLOGY"]
+support:
+  - category: electrical
+    department: Customer Support
+    phone: "+13129441000"
+    country: US
+    notes: "Lightology is a Chicago lighting retailer/showroom (River North, 215 W. Chicago Ave.), not a fixture manufacturer; filed because it is carried as a brand in the cross-reference and publishes its own support contact. Number published on Lightology's own About Us page. Toll-free 866-954-4489 also published in directory listings."
+    source: "https://www.lightology.com/index.php?module=about"
+    last_verified: "2026-10-26"

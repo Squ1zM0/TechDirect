@@ -1,0 +1,13 @@
+id: elkhart-products
+name: Elkhart Products
+website: https://www.elkhartproducts.com
+categories: [piping-systems]
+aliases: ["Elkhart Products Corporation", "EPC"]
+support:
+  - category: piping-systems
+    department: Customer Support
+    phone: "+15742643181"
+    country: US
+    notes: "Elkhart Products Corporation (Elkhart, IN) copper, brass and bronze fittings and valves, including the APOLLOXPRESS press system. Customer Service line from the company's own installation guide. Distinct from Elkhart Brass (firefighting equipment)."
+    source: "https://www.manualsdir.com/manuals/558332/elkhart-products-corporation-epc-apolloxpress.html?page=2"
+    last_verified: "2026-10-26"

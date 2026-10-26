@@ -1,0 +1,12 @@
+id: bethea
+name: Bethea
+categories: [electrical]
+aliases: ["Bethea Tool and Equipment", "Bethea Tool and Equipment Company"]
+support:
+  - category: electrical
+    department: Customer Support
+    phone: "+18002520043"
+    country: US
+    notes: "Legacy brand: Bethea Tool and Equipment Company (Brighton, TN), manufacturer of handline, stringing and bundle blocks for electrical utilities, was acquired by NESCO, LLC and folded into its Utility Equipment Outfitters division, which continues service, support and repair of Bethea products; the BETHEA trademark is held by NESCO, LLC. Support via NESCO (NESCO Specialty Rentals). Category mapped from utility stringing blocks to electrical."
+    source: "https://www.forconstructionpros.com/rental/company/21205647/nesco-holdings-inc"
+    last_verified: "2026-10-26"

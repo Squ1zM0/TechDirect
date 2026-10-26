@@ -1,0 +1,13 @@
+id: beta-calco
+name: Beta-Calco
+website: http://www.betacalco.com/
+categories: [electrical]
+aliases: ["Beta-Calco Inc."]
+support:
+  - category: electrical
+    department: Customer Support
+    phone: "+14165319942"
+    country: CA
+    notes: "Toronto, ON manufacturer of handcrafted contemporary luminaires, 1400 Whitehorse Rd Unit 60, Toronto, ON. Email sales@betacalco.com. Canadian company; no US support line was found, so the Canadian number is recorded with country CA per program rules. Category mapped from lighting fixtures to electrical (no lighting term in the vocabulary)."
+    source: "https://betacalco.com/specsheets/box-cei/short/imperial"
+    last_verified: "2026-10-26"

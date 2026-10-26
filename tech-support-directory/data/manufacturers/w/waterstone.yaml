@@ -1,0 +1,13 @@
+id: waterstone
+name: "Waterstone Faucets"
+website: https://www.waterstoneco.com
+categories: [plumbing]
+aliases: []
+support:
+  - category: plumbing
+    department: Customer Support
+    phone: "+18883040660"
+    country: US
+    notes: "Murrieta CA. Email support@waterstoneco.com. Hours 6am-5pm PST (days not stated in source, so no hours block)."
+    source: "https://waterstoneco.com/wp-content/uploads/2026/field-guides/Waterstone-Field-Guide-5300.pdf"
+    last_verified: "2026-10-26"

@@ -1,0 +1,20 @@
+id: times-square-lighting
+name: Times Square Lighting
+website: https://www.tslight.com/
+categories:
+- electrical
+aliases:
+- Time Square Lighting
+support:
+- category: electrical
+  department: Customer Support
+  phone: '+18459473034'
+  country: US
+  notes: Times Square Lighting, 5 Holt Drive, Stony Point, NY 10980. Founded 1934; theatrical, architectural
+    and display lighting. A directory listing shows (845) 947-3047; the official company page says 3034,
+    which is used here.
+  source: https://www.tslight.com/company/
+  last_verified: '2026-10-26'
+  hours:
+    timezone: EST
+    mon_fri: 8:30 AM - 5:00 PM

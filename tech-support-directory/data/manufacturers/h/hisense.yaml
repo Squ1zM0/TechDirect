@@ -1,0 +1,14 @@
+id: hisense
+name: Hisense
+categories:
+- hvac
+aliases:
+- HISENSE
+support:
+- category: hvac
+  department: Technical Support
+  phone: '+18887674011'
+  country: US
+  notes: 'Hisense HVAC Technical Support (Johnstone warranty-process document label), for unitary and mini-split equipment. Consumer customer service 888-935-8880 and email service@hisense-usa.com also published; secondary guides list consumer hours weekdays 9am-9pm EST and weekends 9am-6pm. No verified official support-page URL was confirmed, so website is omitted.'
+  source: https://www.johnstonefg.com/s/Hisense-Warranty-Process.pdf
+  last_verified: '2026-10-26'

@@ -1,0 +1,17 @@
+id: hialeah-meter
+name: Hialeah Meter Company
+website: https://hialeahmeter.com/pages/contact
+categories:
+- electrical
+aliases: []
+support:
+- category: electrical
+  department: Customer Support
+  phone: '+18006540821'
+  country: US
+  notes: 'Hialeah Meter Co., Hialeah, FL. Local 305-887-8931. Electric watthour meters, not the City of Hialeah Water Department. Hours Mon-Fri 8am-5pm EST.'
+  source: https://hialeahmeter.com/pages/contact
+  last_verified: '2026-10-26'
+  hours:
+    timezone: ET
+    mon_fri: '8am-5pm'

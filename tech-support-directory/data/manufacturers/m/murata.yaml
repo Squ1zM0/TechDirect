@@ -1,0 +1,13 @@
+id: murata
+name: Murata Electronics
+website: https://corporate.murata.com/en-us/company/muratalocations/affiliated_usa/mea
+categories: [electrical]
+aliases: []
+support:
+  - category: electrical
+    department: Customer Support
+    phone: "+17704361300"
+    country: US
+    notes: "Murata Electronics North America, Inc., Atlanta GA (3330 Cumberland Blvd SE Suite 700, Atlanta, GA 30339); regional management company contact."
+    source: "https://corporate.murata.com/en-us/company/muratalocations/affiliated_usa/mea"
+    last_verified: "2026-10-26"

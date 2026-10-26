@@ -1,0 +1,13 @@
+id: solaredge
+name: SolarEdge
+website: https://www.solaredge.com/us/
+categories: [electrical]
+aliases: []
+support:
+  - category: electrical
+    department: Technical Support
+    phone: "+15104983200"
+    country: US
+    notes: "SolarEdge Technologies Ltd. (PV inverters, power optimizers, energy storage, EV charging); US office Fremont, CA. Support email ussupport@solaredge.com; support center https://www.solaredge.com/us/service/support. An older installation guide also published toll-free 877-360-5292 for USA and Canada; the newer EV-series manual number is used as primary."
+    source: "https://www.manualslib.com/manual/1614867/Solaredge-Ev-Series.html"
+    last_verified: "2026-10-26"

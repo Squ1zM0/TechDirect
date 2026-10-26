@@ -1,0 +1,16 @@
+id: boulder-bag
+name: Boulder Bag
+website: https://www.bouldertoolbelts.com/
+categories: [hardware]
+aliases: ["Boulder Bag Company, Inc.", "Boulder Bag Co."]
+support:
+  - category: hardware
+    department: Customer Support
+    phone: "+18012658089"
+    country: US
+    notes: "Boulder Bag Company, Inc., 224 W. 4860 S., Murray, UT 84107, maker of Cordura Plus Nylon tool belts, pouches and bags for carpenter, drywall, electrician, contractor and HVAC trades; made in the USA. Hours Mon-Fri 9 AM-4 PM MT from the business listing."
+    source: "https://www.bouldertoolbelts.com/"
+    last_verified: "2026-10-26"
+    hours:
+      timezone: "MT"
+      mon_fri: "9:00 AM - 4:00 PM"

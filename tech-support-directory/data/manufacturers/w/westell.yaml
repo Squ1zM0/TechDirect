@@ -1,0 +1,16 @@
+id: westell
+name: "Westell Technologies"
+website: https://www.westell.com
+categories: [electrical]
+aliases: ["Westell"]
+support:
+  - category: electrical
+    department: Technical Support
+    phone: "+18003778766"
+    country: US
+    notes: "Toll-free, option 2 then option 3 for IBW products; local 630-898-2500; email support@westell.com. Hours 8am-6pm ET. Telecom/networking."
+    source: "https://www.westell.com/support/faq"
+    last_verified: "2026-10-26"
+    hours:
+      timezone: "ET"
+      mon_fri: "8:00 AM - 6:00 PM"

@@ -1,0 +1,16 @@
+id: wiha-tools
+name: "Wiha Tools USA"
+website: https://www.wihatools.com
+categories: [hardware]
+aliases: ["Wiha Tools"]
+support:
+  - category: hardware
+    department: Customer Support
+    phone: "+18004946104"
+    country: US
+    notes: "Local 763-295-6591; email cservice@wihatools.com; hours Mon-Fri 8am-4:30pm CST; Monticello MN. Hand tools."
+    source: "https://www.wihatools.com:443/index.php?main_page=product_info&cPath=34_873&products_id=873"
+    last_verified: "2026-10-26"
+    hours:
+      timezone: "CT"
+      mon_fri: "8:00 AM - 4:30 PM"

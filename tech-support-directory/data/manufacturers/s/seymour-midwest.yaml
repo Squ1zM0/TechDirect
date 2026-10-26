@@ -1,0 +1,13 @@
+id: seymour-midwest
+name: Seymour Midwest
+website: https://seymourmidwest.com
+categories: [hardware]
+aliases: []
+support:
+  - category: hardware
+    department: Customer Support
+    phone: "+18447396687"
+    country: US
+    notes: "Seymour Midwest (hand tools; post hole diggers, rakes), Warsaw, IN. Published as 1-844-SEYMOUR; customer service email customer.service@seymourmidwest.com."
+    source: "https://seymourmidwest.com/uploads/smw_diggerinfosheet.pdf"
+    last_verified: "2026-10-26"

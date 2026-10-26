@@ -1,0 +1,14 @@
+id: etc
+name: "ETC"
+website: "https://www.etcconnect.com/Support/Frequently-Asked-Questions.aspx"
+categories:
+- electrical
+aliases: []
+support:
+- category: electrical
+  department: "Technical Support"
+  phone: "+18006884116"
+  country: US
+  notes: "Electronic Theatre Controls, Inc. (ETC), Middleton WI. Official FAQ lists this as the ETC Technical Services line. Support site support.etcconnect.com. Theatrical lighting and controls."
+  source: "https://www.etcconnect.com/Support/Frequently-Asked-Questions.aspx"
+  last_verified: "2026-10-26"

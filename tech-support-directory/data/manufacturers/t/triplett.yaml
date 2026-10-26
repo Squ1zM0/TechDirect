@@ -1,0 +1,16 @@
+id: triplett
+name: Triplett
+website: https://www.triplett.com/
+categories:
+- electrical
+aliases: []
+support:
+- category: electrical
+  department: Technical Support
+  phone: '+18008745388'
+  country: US
+  notes: 'Published as 1-800-TRIPLETT (vanity number; digits converted letter-by-letter: T=8, R=7, I=4,
+    P=7, L=5, E=3, T=8, T=8) under the heading ''TECHNICAL ASSISTANCE & PRODUCT QUESTIONS''; support@triplett.com.
+    Retailer numbers (800-561-8187 chart, TestEquipmentDepot 800-517-8431) are not used.'
+  source: https://www.triplett.com/en-ca/pages/support
+  last_verified: '2026-10-26'

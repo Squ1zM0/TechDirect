@@ -1,0 +1,13 @@
+id: lightalarms
+name: Lightalarms
+website: "https://www.lightalarms.com"
+categories: [electrical]
+aliases: ["Lightalarms by ABB"]
+support:
+  - category: electrical
+    department: Technical Support
+    phone: "+18885526467"
+    country: US
+    notes: "Lightalarms emergency lighting and exit signs by ABB, North American manufactured. Number labelled Technical Support in ABB's own Lightalarms brochure (2022); Inside Sales / Customer Support 1-888-935-3610 also published in the same brochure. Parent: ABB."
+    source: "https://www.Lightalarms.com/modules/Files/la_449g_LA_PwrSys_Brochure_2022_approved_20-4-2022.pdf"
+    last_verified: "2026-10-26"

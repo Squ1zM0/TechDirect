@@ -1,0 +1,13 @@
+id: ace-chemical
+name: ACE Chemical
+website: https://acechempro.com/
+categories: [hvac]
+aliases: ["ACE Chemical Products", "Atlantic Chemical & Equipment Company", "Ace Chemical"]
+support:
+  - category: hvac
+    department: Customer Support
+    phone: "+18009292436"
+    country: US
+    notes: "ACE Chemical (Atlantic Chemical & Equipment Company), 3471 Atlanta Industrial Parkway, Suite 200, Atlanta, GA 30331. Manufacturer of HVAC/R chemicals: coil cleaners, degreasers, leak detection, boiler treatments. Direct line (404) 505-6626 also published on the manufacturer's own safety data sheets. Category note: chemicals have no exact vocabulary term; hvac is closest, as the line is HVAC/R chemicals. Not ACE Chemicals of South Africa, nor Ace Chemicals of New Brunswick, NJ."
+    source: "https://acechempro.com/wp-content/uploads/2020/12/aceecokleenekc.msds_.pdf"
+    last_verified: "2026-10-26"

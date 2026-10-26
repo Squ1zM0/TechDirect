@@ -1,0 +1,13 @@
+id: disston
+name: Disston
+website: https://disstontools.com/contactus/
+categories: [hardware]
+aliases: ["Disston Tools"]
+support:
+  - category: hardware
+    department: Customer Support
+    phone: "+18002724436"
+    country: US
+    notes: "Disston Company (Chicopee, MA) power tool accessories: hole saws, saw blades, drill bits. Customer service line from the official contact page; a second line 1-800-446-8890 is also published there."
+    source: "https://disstontools.com/contactus/"
+    last_verified: "2026-10-26"

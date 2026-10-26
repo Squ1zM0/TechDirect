@@ -1,0 +1,16 @@
+id: camco
+name: Camco Manufacturing
+website: https://www.camco.net
+categories: [plumbing, water-heaters]
+aliases: ["Camco", "Camco Manufacturing, Inc.", "Camco Manufacturing LLC"]
+support:
+  - category: plumbing
+    department: Customer Support
+    phone: "+18003342004"
+    country: US
+    notes: "Camco Manufacturing, 121 Landmark Drive, Greensboro, NC 27409, maker of RV, marine and plumbing/hardware products including water heater elements, thermostats, anode rods, drain pans and repair parts. Emails parts@camco.net, info@camco.net, PlumbingPO@camco.net; local line 336-668-7661 also published. Covers xref rows Camco and Camco Manufacturing Inc (same company)."
+    source: "https://recalls-rappels.canada.ca/en/alert-recall/camco-manufacturing-inc-recalls-camco-rv-awning-water-proofer"
+    last_verified: "2026-10-26"
+    hours:
+      timezone: "ET"
+      mon_fri: "8:00 AM - 5:00 PM"

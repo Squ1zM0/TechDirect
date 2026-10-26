@@ -1,0 +1,13 @@
+id: conbraco
+name: Conbraco
+website: https://aalberts-ips.us/products/apollo-valves/
+categories: [valves]
+aliases: ["Conbraco Industries", "Conbraco Industries Inc."]
+support:
+  - category: valves
+    department: Customer Service / Technical Support
+    phone: "+17048416000"
+    country: US
+    notes: "LEGACY brand file: Conbraco Industries, founded 1928 (Consolidated Brass Company merger); all products brought under the Apollo Valves brand in 2005; Aalberts Integrated Piping Systems acquired Conbraco in 2010. Support now via Aalberts IPS / Apollo Valves customer service line (same number as the existing apollo-valves file). Kept as its own file per the legacy rule so technicians on older Conbraco-marked valves can trace the successor chain."
+    source: "https://aalberts-ips.us/contact/"
+    last_verified: "2026-10-26"

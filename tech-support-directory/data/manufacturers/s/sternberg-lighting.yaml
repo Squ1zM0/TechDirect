@@ -1,0 +1,13 @@
+id: sternberg-lighting
+name: "Sternberg Lighting"
+website: "https://www.sternberglighting.com/"
+categories: [electrical]
+aliases: []
+support:
+  - category: electrical
+    department: Customer Support
+    phone: "+18475883400"
+    country: US
+    notes: "Sternberg Lighting decorative outdoor luminaires, poles and site amenities, Roselle IL (555 Lawrence Ave). Email contactus@sternberglighting.com."
+    source: "https://storage.googleapis.com/sternberg-medias/prod/document/products-36-specsheet-fullspecsheet-na-en-imperial.pdf?t=1717529452"
+    last_verified: "2026-10-26"

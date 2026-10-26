@@ -1,0 +1,13 @@
+id: west-chester-protective-gear
+name: "West Chester Protective Gear"
+website: https://www.westchestergear.com
+categories: [hardware]
+aliases: []
+support:
+  - category: hardware
+    department: Customer Support
+    phone: "+18006471900"
+    country: US
+    notes: "West Chester Holdings; Monroe OH; since 1978. PPE gloves/apparel/rainwear; closest vocabulary term: hardware."
+    source: "https://www.ishn.com/articles/97179-west-chester-protective-gear-honored-with-vendor-of-the-year-award-by-do-it-best-corp"
+    last_verified: "2026-10-26"

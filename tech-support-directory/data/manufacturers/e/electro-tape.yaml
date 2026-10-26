@@ -1,0 +1,16 @@
+id: electro-tape
+name: Electro Tape
+website: https://www.electrotape.com
+categories: [electrical]
+aliases: ["Electro Tape Specialties, Inc.", "Electro Tape Specialties"]
+support:
+  - category: electrical
+    department: Customer Support
+    phone: "+18009992218"
+    country: US
+    notes: "Electro Tape Specialties, Inc. (Odessa, FL, since 1969) pressure-sensitive tapes and surface-protection films for distributors, including electrical tapes. Toll-free line from the company's own product data sheets; direct 813-920-2218 and fax 813-920-2272 also published."
+    source: "https://www.electrotape.com/pdf/data/50.pdf"
+    last_verified: "2026-10-26"
+    hours:
+      timezone: "ET"
+      mon_fri: "7:30 AM - 5:00 PM"

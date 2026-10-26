@@ -1,0 +1,13 @@
+id: adb
+name: ADB
+website: https://www.adblighting.com
+categories: [electrical]
+aliases: ["ADB Lighting Technologies", "ADB-TTV Technologies"]
+support:
+  - category: electrical
+    department: Customer Support
+    phone: "+3227093211"
+    country: BE
+    notes: "ADB-TTV Technologies N.V./S.A., group headquarters Leuvensesteenweg 585, B-1930 Zaventem, Belgium. Theatrical/stage lighting manufacturer; no US support line published — this is the Belgian headquarters line, not a US number. Technical Support email support@adblighting.com also published. NOT ADB Safegate (airfield lighting), a different company."
+    source: "https://theatrecrafts.com/archive/documents/adb-freedom-datasheet.pdf"
+    last_verified: "2026-10-26"

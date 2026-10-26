@@ -1,0 +1,15 @@
+id: savard-plumbing
+name: Savard Plumbing Co
+categories:
+- plumbing
+aliases: []
+support:
+- category: plumbing
+  department: Technical Support
+  phone: '+19786896066'
+  country: US
+  notes: 'Savard Plumbing Co, North Andover, MA (815 Chestnut St): flexible water connectors, polymer tubing and hose. Acquired by Watts Water Technologies (PitchBook: ''Savard Plumbing was acquired by
+    Watts Water Technologies''). Per the legacy rule this is Savard''s own file with the successor''s published support number: Watts Plumbing/Heating/Drainage customer support and technical support (press
+    2). Savard''s historic own number 978-689-6211 appears in directories (Birdeye notes ''temporarily closed'') and is superseded; it is recorded here only as history, not as the support line.'
+  source: Existing TechDirect watts file (watts.com support page) and PitchBook acquisition profile
+  last_verified: '2026-10-26'

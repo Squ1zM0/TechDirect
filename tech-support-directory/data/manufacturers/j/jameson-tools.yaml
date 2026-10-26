@@ -1,0 +1,15 @@
+id: jameson-tools
+name: Jameson Tools
+website: https://jamesontools.com/
+categories:
+- electrical
+aliases:
+- Jameson
+support:
+- category: electrical
+  department: Customer Support
+  phone: '+18003461956'
+  country: US
+  notes: "Utility tools, fiberglass poles, and fish tapes; Clover, SC manufacturer. Note: fiberglass poles, not hot sticks for energized lines."
+  source: https://jamesontools.com/product/je-4/
+  last_verified: '2026-10-26'

@@ -1,0 +1,14 @@
+id: comtran
+name: Comtran
+website: http://www.comtrancorp.com/
+categories: [electrical]
+aliases: ["Comtran Cable", "Comtran Cable LLC", "Comtran Corporation"]
+support:
+  - category: electrical
+    department: Customer Support
+    phone: "+15083997004"
+    email: sales@comtrancorp.com
+    country: US
+    notes: "Comtran Cable LLC, South Attleboro, MA (founded 1985; Marmon Wire & Cable / Berkshire Hathaway); VITALink fire-rated cabling, communications and power-limited circuit cable, custom assemblies. Number per Comtran's own documents ('contact Comtran Customer Service: Telephone: 508-399-7004')."
+    source: "https://shop.mercommbe.com/content/comtran/cic_unshld.pdf"
+    last_verified: "2026-10-26"

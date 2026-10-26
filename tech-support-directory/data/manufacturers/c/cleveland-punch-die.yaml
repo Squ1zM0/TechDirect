@@ -1,0 +1,14 @@
+id: cleveland-punch-die
+name: Cleveland Punch & Die Company
+website: http://www.clevelandpunch.com/
+categories: [hardware]
+aliases: ["Cleveland Punch and Die Company"]
+support:
+  - category: hardware
+    department: Customer Support
+    phone: "+13302964342"
+    email: sales@clevelandpunch.com
+    country: US
+    notes: "Cleveland Punch & Die Company, Ravenna, OH (established 1880); steel punches, dies, shear blades, tool holders for ironworkers. Hours Mon-Fri 7:00 AM-6:00 PM EST per company site."
+    source: "https://www.clevelandpunch.com/pages/contact"
+    last_verified: "2026-10-26"

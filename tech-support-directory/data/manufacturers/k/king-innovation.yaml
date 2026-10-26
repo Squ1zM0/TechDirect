@@ -1,0 +1,13 @@
+id: king-innovation
+name: nVent KING INNOVATION
+website: https://www.kinginnovation.com/
+categories: [electrical]
+aliases: ["KING INNOVATION"]
+support:
+  - category: electrical
+    department: Customer Support
+    phone: "+18006244320"
+    country: US
+    notes: "KING INNOVATION is an nVent brand with its own distinct contact and site (kinginnovation.com), so it gets its own file per the distinct-contact rule rather than parent-resolution; DryConn waterproof connectors; O'Fallon MO; email info@nVent.com."
+    source: "https://www.kinginnovation.com/-/media/inriver/KING-FLY-H30105-GTSRWithCrimps-USEN.pdf"
+    last_verified: "2026-10-26"

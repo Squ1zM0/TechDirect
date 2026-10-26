@@ -1,0 +1,13 @@
+id: m-k-morse
+name: M.K. Morse
+website: "https://www.mkmorse.com/"
+categories: [hardware]
+aliases: ["The M. K. Morse Company", "M.K. Morse Company", "Morse"]
+support:
+  - category: hardware
+    department: Customer Support
+    phone: "+13304538187"
+    country: US
+    notes: "The M. K. Morse Company, Canton, OH; saw blades and accessories since 1963 (band saw blades, reciprocating blades, hole saws, circular saw blades, Metal Devil, Master Cobalt), made in Canton, OH. Number from Morse's own site footer. Band-saw technical support line 1-888-4BANDMAN (888-422-6362, 'BandTech') also published on Morse's own company page. Hardware category per the milwaukee-tool.yaml precedent."
+    source: "https://www.mkmorse.com/"
+    last_verified: "2026-10-26"

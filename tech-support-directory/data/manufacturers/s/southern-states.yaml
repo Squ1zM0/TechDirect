@@ -1,0 +1,13 @@
+id: southern-states
+name: Southern States
+website: https://www.southernstatesllc.com
+categories: [electrical]
+aliases: []
+support:
+  - category: electrical
+    department: Customer Support
+    phone: "+18663943661"
+    country: US
+    notes: "Southern States, LLC, Hampton, GA (high-voltage switching, automation and protection: group-operated disconnect switches, capacitor banks, CapSwitcher; founded 1916 lineage). Email sales@southernstatesllc.com; 24/7 switch support 770-946-4565 also published. NOT Southern States cooperative farm supply (southernstates.com), a different company."
+    source: "https://www.southernstatesllc.com/products/capacitor-banks"
+    last_verified: "2026-10-26"

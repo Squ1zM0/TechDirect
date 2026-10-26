@@ -1,0 +1,13 @@
+id: myton-industries
+name: Myton Industries
+website: https://mytonindustries.com/
+categories: [hardware]
+aliases: []
+support:
+  - category: hardware
+    department: Customer Support
+    phone: "+18005442406"
+    country: US
+    notes: "Myton Industries, Inc., Hallandale Beach FL (1981 S Park Rd); polyethylene bulk containers and bulk box trucks; email sales@mytonindustries.com; local 954-989-0113 also published."
+    source: "https://mytonindustries.com/wp-content/uploads/2026/04/MTO-Spec_Sheet.pdf"
+    last_verified: "2026-10-26"

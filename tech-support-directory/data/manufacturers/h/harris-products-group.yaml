@@ -1,0 +1,14 @@
+id: harris-products-group
+name: 'Harris Products Group'
+website: http://harrisproductsgroup.com
+categories:
+- hvac
+aliases: []
+support:
+- category: hvac
+  department: 'Customer Support'
+  phone: '+18007334043'
+  country: US
+  notes: 'A Lincoln Electric company. Main phone 513-754-2000 also published. Brazing, soldering, and gas equipment for HVAC/R, so hvac is the closest vocabulary term.'
+  source: 'http://harrisproductsgroup.com'
+  last_verified: '2026-10-26'

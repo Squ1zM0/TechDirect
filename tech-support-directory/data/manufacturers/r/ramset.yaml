@@ -1,0 +1,16 @@
+id: ramset
+name: Ramset
+website: http://www.ramset.com/
+categories: [hardware]
+aliases: ["ITW Ramset"]
+support:
+  - category: hardware
+    department: Customer Support
+    phone: "+16308485611"
+    country: US
+    notes: "ITW Commercial Construction North America brand; 700 High Grove Blvd, Glendale Heights, IL 60139. An older ITW CCNA letter lists a different Glenview office number; the Ramset HQ number above is used. Older manuals also show other numbers; the current HQ number is used. The vanity 800-RAMSET6 form is not converted to digits."
+    source: "http://www.ramset.com/"
+    last_verified: "2026-10-26"
+    hours:
+      timezone: "CT"
+      mon_fri: "8:30 AM - 5:00 PM"

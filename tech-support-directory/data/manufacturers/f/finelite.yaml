@@ -1,0 +1,17 @@
+id: finelite
+name: "Finelite"
+website: "https://www.finelite.com/faq"
+categories:
+- electrical
+aliases: []
+support:
+- category: electrical
+  department: "Customer Support"
+  phone: "+15104411100"
+  country: US
+  notes: "Finelite, Union City CA area. Official FAQ repeats this number; hours Mon-Fri 8am-5pm PST. Email customerservice@finelite.com. Finelite has its OWN distinct support contact, so it gets its own file even though Finelite appears under Legrand; it is NOT parent-resolved to legrand. Architectural lighting."
+  source: "https://www.finelite.com/faq"
+  last_verified: "2026-10-26"
+  hours:
+    timezone: "PT"
+    mon_fri: "8:00 AM - 5:00 PM"

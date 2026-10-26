@@ -1,0 +1,13 @@
+id: weg-transformers
+name: "WEG Transformers USA"
+website: https://www.weg.us
+categories: [electrical]
+aliases: []
+support:
+  - category: electrical
+    department: Customer Support
+    phone: "+16362399300"
+    country: US
+    notes: "Main phone; Washington MO; hours Mon-Fri 7am-5pm (timezone not stated in source, so no hours block). Parent: WEG. Distinct operating unit with its own published main number, distinct from WEG's 800-ASK-4WEG."
+    source: "https://reviews.birdeye.com/weg-transformers-usa-156219537898691"
+    last_verified: "2026-10-26"

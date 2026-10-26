@@ -1,0 +1,13 @@
+id: edwards
+name: Edwards
+website: https://www.edwardsfiresafety.com
+categories: [electrical]
+aliases: ["Edwards Signaling", "Edwards Fire Safety"]
+support:
+  - category: electrical
+    department: Customer Support
+    phone: "+18006554497"
+    country: US
+    notes: "Edwards (Carrier) fire alarm and signaling products. Use option 4 on the published line; email edwards.fire@carrier.com also published. Covers xref spellings Edwards and Edwards Signaling."
+    source: "https://docs.facpmanuals.com/manuals/Edwards_EST/aps6a_and_aps10a-datasheet-2024.pdf"
+    last_verified: "2026-10-26"

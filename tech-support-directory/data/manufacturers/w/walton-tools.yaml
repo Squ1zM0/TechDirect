@@ -1,0 +1,16 @@
+id: walton-tools
+name: "Walton Company"
+website: https://www.waltontools.com
+categories: [hardware]
+aliases: ["Walton Tools"]
+support:
+  - category: hardware
+    department: Customer Support
+    phone: "+18605235231"
+    country: US
+    notes: "West Hartford CT. Email sales@waltontools.com. Office hours Mon-Thu 8am-3pm, Fri 8am-12pm EST. Taps and threading tools."
+    source: "https://www.waltontools.com/about/"
+    last_verified: "2026-10-26"
+    hours:
+      timezone: "ET"
+      mon_fri: "8:00 AM - 3:00 PM"

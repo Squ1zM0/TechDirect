@@ -1,0 +1,13 @@
+id: chicago-hardware-fixture
+name: Chicago Hardware & Fixture Company
+website: https://www.chicagohardware.com/
+categories: [hardware]
+aliases: ["Chicago Hardware and Fixture Co.", "Chicago Hardware & Fixtures"]
+support:
+  - category: hardware
+    department: Customer Support
+    phone: "+18474556609"
+    country: US
+    notes: "Chicago Hardware & Fixture Co., Franklin Park, IL (founded 1912); wire rope and chain fittings, industrial and marine hardware, forgings and threaded rod. Phone (847) 455-6609 per Thomasnet and directory listings; Houston branch line (713) 664-7722 also published."
+    source: "https://www.thomasnet.com/company/chicago-hardware-fixture-co-452500/profile?heading=6500409"
+    last_verified: "2026-10-26"

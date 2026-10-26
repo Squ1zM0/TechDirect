@@ -1,0 +1,15 @@
+id: imi-bimba
+name: IMI Bimba
+website: https://www.bimba.com/
+categories:
+- hardware
+aliases:
+- IMI Industrial Automation
+support:
+- category: hardware
+  department: Customer Support
+  phone: '+18004424622'
+  country: US
+  notes: 'IMI Bimba (IMI Industrial Automation), University Park, IL. Customer Service line 800-44-BIMBA; email cs@bimba.com; local 708-534-8544. Pneumatic and hydraulic cylinders, actuation; no pneumatics term in the category vocabulary, so hardware is used as the closest term. Distinct from the existing IMI Hydronic files (different IMI division); do not parent-resolve to imi-hydronic or imi-hydronic-engineering.'
+  source: https://fluidpower.com.mx/wp-content/uploads/2026/06/IMI-BIMBA-_-Original_Line_Cylinders.pdf
+  last_verified: '2026-10-26'

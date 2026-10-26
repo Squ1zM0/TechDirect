@@ -1,0 +1,13 @@
+id: lutze
+name: LUTZE
+website: "https://www.lutze.com"
+categories: [electrical]
+aliases: ["Lutze Inc", "LUTZE Inc", "LUTZE SYSTEMATIC TECHNOLOGY"]
+support:
+  - category: electrical
+    department: Customer Support
+    phone: "+18004472371"
+    country: US
+    notes: "LUTZE Inc., Charlotte, NC (13330 South Ridge Drive); North American member of the LUETZE International Group (founded 1958, Germany). Industrial automation control products: flexible control/power/network cables (Silflex, Superflex, MOTIONFLEX, DRIVEFLEX), grounding and wire management, compact power supplies, LOCC-Box circuit protection, AirSTREAM wiring systems, LCIS relays. Toll-free number from LUTZE's own cable catalog; direct (704) 504-0222 and info@lutze.com also published."
+    source: "https://lutze.dcatalog.com/r/Cable-Catalog/?page=28"
+    last_verified: "2026-10-26"

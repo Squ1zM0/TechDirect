@@ -1,0 +1,14 @@
+id: joslyn-clark
+name: Joslyn Clark
+website: https://joslynclark.com/
+categories:
+- electrical
+aliases: []
+support:
+- category: electrical
+  department: Customer Support
+  phone: '+18003906405'
+  country: US
+  notes: "Industrial controls, contactors, heaters, and relays; Danaher Controls lineage. Email customer.service@sptech.com per the 2017 Specialty Product Technologies letter. Fire-pump controller line discontinued effective 2017-05-30, with after-sales support moved to GDS Controls per that letter; no GDS number was found and none is published here."
+  source: https://maidaintl.com/mdatasheet/Joslyn_Clark/FirePumpBrochure2011(1).pdf
+  last_verified: '2026-10-26'

@@ -1,0 +1,12 @@
+id: amerlux
+name: Amerlux
+categories: [electrical]
+aliases: []
+support:
+  - category: electrical
+    department: Customer Support
+    phone: "+19738825010"
+    country: US
+    notes: "Architectural/commercial LED lighting manufacturer, Oakland NJ. General contact number published on amerlux.com pages. No lighting category exists in the TechDirect vocabulary, so electrical is used as the closest term."
+    source: "https://amerlux.com/products/interior/amerlux-led-remodelers/"
+    last_verified: "2026-10-26"

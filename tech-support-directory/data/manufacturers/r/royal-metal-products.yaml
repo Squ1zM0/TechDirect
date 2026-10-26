@@ -1,0 +1,16 @@
+id: royal-metal-products
+name: Royal Metal Products
+website: https://royalmetalproducts.com/
+categories:
+- hvac
+aliases: []
+support:
+- category: hvac
+  department: Customer Support
+  phone: '+16785630003'
+  country: US
+  notes: 'Royal Metal Products, Inc., 100 Royal Way, Temple, GA 30179. Sheet-metal HVAC products: elbows, angles, furnace pipe, fittings, register boots, insulated boxes, flexible ductwork. Alternate 678-563-0094
+    appears in directories and is noted. Not the Surprise, NY custom metalwork firm, and not assumed to be the legacy Royal Metal Products of Denver, CO acquired by Milcor in 1999; that possible confusion
+    is flagged, not merged.'
+  source: FMCSA SAFER snapshot and place data (royalmetalproducts.com)
+  last_verified: '2026-10-26'

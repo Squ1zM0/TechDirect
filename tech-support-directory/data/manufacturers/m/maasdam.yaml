@@ -1,0 +1,13 @@
+id: maasdam
+name: Maasdam
+website: "https://www.maasdam.com"
+categories: [hardware]
+aliases: ["Maasdam Pow'R Pull", "Maasdam/Pow'R Pull (Rope Blocks)", "Pow'R Pull"]
+support:
+  - category: hardware
+    department: Customer Support
+    phone: "+18887977855"
+    country: US
+    notes: "Maasdam (Pow'R Pull), a Pull'R Holding Company, LLC brand (Schaumburg, IL, 415 East State Parkway; sister brands Bucket Boss and Dead On Tools); rope and cable pullers / come-alongs, strap pullers, jack stands, meeting ANSI/ASME B30.21. The xref spelling 'Maasdam/Pow'R Pull (Rope Blocks)' is the Pow'R Pull rope-puller line, recorded here as an alias. Number from Pull'R's own Maasdam catalog. Hardware category per the milwaukee-tool.yaml precedent."
+    source: "https://www.pullr.com/uploads/4/5/4/7/45472991/maasdam2019.pdf"
+    last_verified: "2026-10-26"

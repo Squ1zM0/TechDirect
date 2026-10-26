@@ -1,0 +1,12 @@
+id: atc-diversified
+name: ATC Diversified Electronics
+categories: [electrical]
+aliases: ["Automatic Timing & Controls", "ATC", "ATC Diversified"]
+support:
+  - category: electrical
+    department: Customer Support
+    phone: "+13043871200"
+    country: US
+    notes: "Industrial timing and control products (timers, time-delay relays, phase monitors, motor protection, power-quality devices), Newell WV (8019 Ohio River Blvd); the Automatic Timing & Controls division of Marsh Bellofram, now branded ATC Diversified Electronics. Current site footer line published on atcdiversified.com (info@marshbellofram.com); older ATC datasheets publish 800-727-5646. Covers both xref spellings: ATC (Automatic Timing & Controls) and ATC Diversified Electronics are the same company."
+    source: "https://atcdiversified.com/pages/brands"
+    last_verified: "2026-10-26"

@@ -1,0 +1,14 @@
+id: koldwave
+name: Koldwave
+website: https://koldwave.com/
+categories:
+- hvac
+aliases: []
+support:
+- category: hvac
+  department: Technical Support
+  phone: '+14135645520'
+  country: US
+  notes: "Portable and spot air conditioners; 260 North Elm St, Westfield, MA 01085; fax 413-564-5815. Number labeled Technical Support and Technical Service in manufacturer manuals and the official FAQ. Literature hosted on Mestek's literature site, noted only, no acquisition asserted. Note: some older manuals show different numbers; those older numbers are superseded and are not published here as current. The xref parenthetical Air Rover / MovinCool is a question, not a verified parent, and is not asserted."
+  source: http://koldwave.com/faq
+  last_verified: '2026-10-26'

@@ -1,0 +1,16 @@
+id: slg-lighting
+name: SLG Lighting
+website: https://www.slgus.com
+categories: [electrical]
+aliases: []
+support:
+  - category: electrical
+    department: Customer Support
+    phone: "+17133895680"
+    country: US
+    notes: "SLG Lighting (Spring Lighting Group), Stafford, TX (LED luminaires, vertically integrated manufacturer). Hours Monday-Friday, 8:30 AM to 6:00 PM Central; email sales@slgus.com; SLG Sports Lighting line published separately as 903-407-0555."
+    source: "https://www.slgus.com/spec-sheets"
+    last_verified: "2026-10-26"
+    hours:
+      timezone: "CT"
+      mon_fri: "8:30 AM - 6:00 PM"

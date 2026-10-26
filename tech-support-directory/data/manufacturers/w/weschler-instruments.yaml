@@ -1,0 +1,13 @@
+id: weschler-instruments
+name: "Weschler Instruments"
+website: https://www.weschler.com
+categories: [electrical]
+aliases: []
+support:
+  - category: electrical
+    department: Customer Support
+    phone: "+18009039870"
+    country: US
+    notes: "Div. of Hughes Corp. Cleveland OH. Email info@weschler.com; local 440-238-2550 also published. Panel meters/instrumentation."
+    source: "https://www.weschler.com/wp-content/uploads/2019/09/MC_News_sept2015-1.pdf"
+    last_verified: "2026-10-26"

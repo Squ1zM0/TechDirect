@@ -1,0 +1,15 @@
+id: sab-cable
+name: SAB Cable
+website: https://sabcable.com/
+categories:
+- electrical
+aliases:
+- SAB North America
+support:
+- category: electrical
+  department: Customer Support
+  phone: '+18667222974'
+  country: US
+  notes: SAB Cable / SAB North America, 344 Kaplan Drive, Fairfield, NJ 07004. info@sabcable.com. German parent SAB Bröckskes. Wire and cable.
+  source: sabcable.com press release and SAB catalog PDFs
+  last_verified: '2026-10-26'

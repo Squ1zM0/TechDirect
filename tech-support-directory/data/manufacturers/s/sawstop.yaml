@@ -1,0 +1,14 @@
+id: sawstop
+name: SawStop
+website: https://sawstop.com/service
+categories:
+- hardware
+aliases: []
+support:
+- category: hardware
+  department: Technical Support
+  phone: '+18667297867'
+  country: US
+  notes: SawStop. Toll-free 1-866-729-7867 (SAWSTOP); telephone 503-582-9934; technicalsupport@sawstop.com; service@sawstop.com. Table saws and safety technology.
+  source: sawstop.com/service
+  last_verified: '2026-10-26'

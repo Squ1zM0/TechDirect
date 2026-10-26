@@ -1,0 +1,13 @@
+id: werner
+name: "Werner"
+website: https://www.wernerco.com
+categories: [hardware]
+aliases: ["WERNER CO", "Werner Ladder", "Werner Ladder Company", "Werner Ladders"]
+support:
+  - category: hardware
+    department: Customer Support
+    phone: "+18885233371"
+    country: US
+    notes: "Ladders/climbing equipment; closest vocabulary term: hardware. Parent: Werner Co. Older docs/BBB show a superseded near-identical 888 number (888-523-3370); current official pages show 888-523-3371 (used here). A separate recall-specific line exists for the 2025 Multi-Max Pro recall and is NOT used as the general support number. Xref spellings Werner, WERNER CO, Werner Ladder, Werner Ladder Company and Werner Ladders share this file (variant group)."
+    source: "https://cms.wernerco.com/us/support/faq/climbing-equipment"
+    last_verified: "2026-10-26"

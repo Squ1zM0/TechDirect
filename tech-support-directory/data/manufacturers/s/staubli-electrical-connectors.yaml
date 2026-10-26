@@ -1,0 +1,13 @@
+id: staubli-electrical-connectors
+name: "Stäubli Electrical Connectors"
+website: "https://www.staubli.com/electrical"
+categories: [electrical]
+aliases: ["Stäubli"]
+support:
+  - category: electrical
+    department: Customer Support
+    phone: "+17078380530"
+    country: US
+    notes: "Stäubli Electrical Connectors, Inc, Windsor CA (100 Market Street). Email ec.us@staubli.com."
+    source: "https://manuals.plus/m/b9d14af7c1fb91dfa326f455fac957b588e023d65d1b142a347b399b257fd921"
+    last_verified: "2026-10-26"

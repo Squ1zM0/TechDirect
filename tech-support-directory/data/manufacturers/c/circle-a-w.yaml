@@ -1,0 +1,11 @@
+id: circle-a-w
+name: Circle A-W
+categories: [electrical]
+support:
+  - category: electrical
+    department: Technical Support
+    phone: "+18773862273"
+    country: US
+    notes: "LEGACY brand file: Circle A-W (Circle A.W.) made meter sockets, enclosures, wireways, and pull/junction boxes; the line passed to Cooper B-Line and is now under Eaton. Support via Eaton's published professional/contractor technical support line (same number as the existing eaton file). Xref category 'Plumbing; fittings' does not match the actual electrical-enclosure products; category set from the products, not the xref hint."
+    source: "https://www.eaton.com/us/en-us/support/contact-us.html"
+    last_verified: "2026-10-26"

@@ -1,0 +1,16 @@
+id: d-link
+name: D-Link
+website: https://support.dlink.com
+categories: [electrical]
+aliases: []
+support:
+  - category: electrical
+    department: Technical Support
+    phone: "+18773546555"
+    country: US
+    notes: "D-Link Technical Support for US customers per the manufacturer's own product manuals (877-DLINK-55). Networking: switches, routers and wireless products. No separate networking category exists in the vocabulary, so electrical is the closest."
+    source: "https://www.manualowl.com/m/D-Link/DES-1228P/Manual/157321?page=51"
+    last_verified: "2026-10-26"
+    hours:
+      timezone: "PT"
+      mon_fri: "8:00 AM - 5:00 PM"

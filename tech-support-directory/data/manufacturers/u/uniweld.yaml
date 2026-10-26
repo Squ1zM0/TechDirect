@@ -1,0 +1,18 @@
+id: uniweld
+name: Uniweld
+website: https://uniweld.com/
+categories:
+- hvac
+aliases: []
+support:
+- category: hvac
+  department: Technical Support
+  phone: '+18003232111'
+  country: US
+  notes: Explicitly 'TECHNICAL SERVICE CENTER', Mon-Fri (excluding holidays) 8:15 AM-4:45 PM EST; info@uniweld.com;
+    Fort Lauderdale, FL. Torches, tools and accessories.
+  source: https://uniweld.com:443/pdf/instructions/cutting_torch.pdf
+  last_verified: '2026-10-26'
+  hours:
+    timezone: ET
+    mon_fri: 8:15 AM - 4:45 PM

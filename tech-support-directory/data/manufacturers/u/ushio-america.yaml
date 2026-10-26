@@ -1,0 +1,17 @@
+id: ushio-america
+name: Ushio America
+website: https://www.ushio.com/
+categories:
+- electrical
+aliases:
+- USHIO
+support:
+- category: electrical
+  department: Customer Support
+  phone: '+18008387446'
+  country: US
+  notes: Ushio America Customer Service Center, 5440 Cerritos Ave, Cypress, CA 90630; www.ushio.com. Hours
+    Mon-Fri 8:00-17:00 (timezone not stated in source). Subsidiary of Ushio Inc., Tokyo, Japan, established
+    1967. Veolia recycling line 888-669-9725 is not Ushio support.
+  source: https://www.ushio.com/support/lamp-ballast-recycling/
+  last_verified: '2026-10-26'

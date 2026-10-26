@@ -1,0 +1,14 @@
+id: hendrix
+name: Hendrix
+website: https://marmonutility.com/
+categories:
+- electrical
+aliases: []
+support:
+- category: electrical
+  department: Customer Support
+  phone: '+16036732040'
+  country: US
+  notes: 'Hendrix by Marmon Utility, Milford, NH. Hendrix Wire and Cable joined with Kerite to form Marmon Utility LLC (Marmon Group).'
+  source: https://marmonutility.com/wp-content/uploads/2026/04/Tap-Tie-Ground-Wire-Brochure_20260402.pdf
+  last_verified: '2026-10-26'

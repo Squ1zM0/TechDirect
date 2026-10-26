@@ -1,0 +1,13 @@
+id: texwipe
+name: "Texwipe"
+website: "https://www.texwipe.com"
+categories: [hardware]
+aliases: []
+support:
+  - category: hardware
+    department: Customer Support
+    phone: "+13369967046"
+    country: US
+    notes: "ITW Texwipe cleanroom wipers, Kernersville NC (1210 South Park Drive). North America office line; email info@texwipe.com. Xref category consumables mapped to hardware (no consumables term in the vocabulary)."
+    source: "https://www.soscleanroom.com/content/texwipe_pdf/3212.pdf"
+    last_verified: "2026-10-26"

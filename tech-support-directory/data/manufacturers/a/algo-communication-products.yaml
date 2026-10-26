@@ -1,0 +1,13 @@
+id: algo-communication-products
+name: Algo Communication Products
+website: https://www.algosolutions.com
+categories: [electrical]
+aliases: ["Algo", "ALGO"]
+support:
+  - category: electrical
+    department: Technical Support
+    phone: "+16044543792"
+    country: CA
+    notes: "Algo Communication Products Ltd., 4500 Beedie Street, Burnaby, BC V5J 5L2, Canada. Manufacturer of SIP paging, intercom and alerting endpoints since 1968. The manufacturer's guide labels this Phone Support for installation and application assistance. Email support@algosolutions.com; sales 604-454-3790. No US line is published; the Canadian line is used."
+    source: "https://manuals.plus/m/a9b67df5d8d811e1126c4e01fe062929f4d243fc42264d77ff11a4bc769fd156"
+    last_verified: "2026-10-26"

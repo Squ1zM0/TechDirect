@@ -1,0 +1,12 @@
+id: automation-products-group
+name: Automation Products Group
+categories: [water-systems]
+aliases: ["APG", "APG Sensors"]
+support:
+  - category: water-systems
+    department: Technical Support
+    phone: "+18885257300"
+    country: US
+    notes: "Level, pressure and remote sensing (ultrasonic, magnetostrictive, float) for water/wastewater, oil & gas and medical, Logan UT. Company line published in APG installation guides; email sales@apgsensors.com; local line 435-753-7300 also published."
+    source: "https://manuals.plus/apg-sensors/lpu-2428-loop-powered-ultrasonic-sensor-manual.pdf"
+    last_verified: "2026-10-26"

@@ -1,0 +1,14 @@
+id: estex-manufacturing
+name: "Estex Manufacturing"
+website: "https://www.estexmfg.com/"
+categories:
+- hardware
+aliases: ["Estex"]
+support:
+- category: hardware
+  department: "Customer Support"
+  phone: "+18007491224"
+  country: US
+  notes: "Estex Manufacturing, Fairburn GA, since 1900. Alternate line (770) 964-3322. Lineman tools, safety equipment, and tool storage; hardware is the closest vocabulary term. Covers xref spellings Estex and Estex Manufacturing."
+  source: "https://www.estexmfg.com/"
+  last_verified: "2026-10-26"

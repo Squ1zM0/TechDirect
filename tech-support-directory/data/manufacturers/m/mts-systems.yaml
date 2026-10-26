@@ -1,0 +1,17 @@
+id: mts-systems
+name: MTS Systems Corporation
+website: https://www.mts.com
+categories:
+- hardware
+aliases: []
+support:
+- category: hardware
+  department: Technical Support
+  phone: "+18003282255"
+  country: US
+  notes: 'Eden Prairie, MN. Material testing and simulation systems. MTS manuals label the section Technical Support; Call Center weekdays 7:00 AM-5:00 PM CT. Email techsupport@mts.com; local 952-937-4000; info@mts.com. NOT MTS SYSTEMS ENGINEERING PTE. LTD. (Singapore, +65 69948527). Category fit noted: no test-equipment term; closest is hardware.'
+  source: https://www.manualsdir.com/manuals/567985/mts-series-642-bend-fixtures.html?page=5
+  last_verified: "2026-10-26"
+  hours:
+    timezone: CT
+    mon_fri: 7:00 AM - 5:00 PM

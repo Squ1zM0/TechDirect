@@ -1,0 +1,17 @@
+id: verbatim
+name: Verbatim
+website: https://www.verbatim.com/
+categories:
+- electrical
+aliases: []
+support:
+- category: electrical
+  department: Customer Support
+  phone: '+18004214188'
+  country: US
+  notes: 'Verbatim Americas, LLC, 1200 W.T. Harris Blvd, Charlotte, NC 28262; www.verbatim.com. FRESHNESS
+    FLAG: the source is 2007-era and current verbatim.com support appears email/form-based, so this number
+    should be re-verified before republication. Forum-reported callback 646-537-3411 is not used. Storage
+    media.'
+  source: https://www.webwire.com/ViewPressRel.asp?aId=56559
+  last_verified: '2026-10-26'

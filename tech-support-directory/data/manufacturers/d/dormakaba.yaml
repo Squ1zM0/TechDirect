@@ -1,0 +1,20 @@
+id: dormakaba
+name: dormakaba
+website: https://www.dormakaba.us
+categories: [hardware]
+aliases: ["Dormakaba"]
+support:
+  - category: hardware
+    department: Customer Support
+    phone: "+18005238483"
+    country: US
+    notes: "dormakaba USA Inc. (Indianapolis, IN / Reamstown, PA) locks, door hardware, access systems. General toll-free line published in dormakaba manuals. Covers xref spellings Dormakaba and Dormakaba Family (same manufacturer grouping)."
+    source: "https://www.manua.ls/dormakaba/emltp/manual?p=3"
+    last_verified: "2026-10-26"
+  - category: hardware
+    department: Technical Support
+    phone: "+18008498324"
+    country: US
+    notes: "dormakaba Multi-Housing Technical Support (option 3); email mhtechnicalsupport.us@dormakaba.com."
+    source: "https://help.butterflymx.com/hc/en-us/articles/39605197741844-How-to-Set-Up-the-ButterflyMX-dormakaba-EVO-Online-Smart-Lock-Integration"
+    last_verified: "2026-10-26"

@@ -1,0 +1,12 @@
+id: americraft-manufacturing
+name: Americraft Manufacturing
+categories: [airflow]
+aliases: ["Americraft Manufacturing Company", "Americraft Manufacturing, Inc.", "Americraft Manfacturing"]
+support:
+  - category: airflow
+    department: Customer Support
+    phone: "+18008482938"
+    country: US
+    notes: "Industrial fans, ventilators, exhausters and centrifugal blowers assembled in Cincinnati OH (7937 School Rd, Cincinnati OH 45249); local line 513-489-1047 also published on americraftmfg.com. Covers the xref spelling Americraft Manfacturing [sic in source]."
+    source: "https://americraftmfg.com/americraft-made-in-the-usa/"
+    last_verified: "2026-10-26"

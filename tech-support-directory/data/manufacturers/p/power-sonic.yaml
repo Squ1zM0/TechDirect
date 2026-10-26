@@ -1,0 +1,13 @@
+id: power-sonic
+name: Power-Sonic
+website: https://www.power-sonic.com/
+categories: [electrical]
+aliases: ["PowerSonic", "Power-Sonic Corporation"]
+support:
+  - category: electrical
+    department: Customer Support
+    phone: "+17758246500"
+    country: US
+    notes: "365 Cabela Drive Ste 300, Verdi/Reno NV. Older manuals show a San Diego technical support number; only the current warranty-document number is published here."
+    source: "https://cdn.power-sonic.com/documents/Power-Sonic_Warranty_SLA_2025.pdf"
+    last_verified: "2026-10-26"

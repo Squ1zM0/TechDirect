@@ -1,0 +1,13 @@
+id: madison-company
+name: Madison Company
+website: "https://www.madisonco.com"
+categories: [hvac-controls]
+aliases: ["Madison", "Madison Co."]
+support:
+  - category: hvac-controls
+    department: Customer Support
+    phone: "+18004665383"
+    country: US
+    notes: "Madison Company, Branford, CT (27 Business Park Drive); designer and manufacturer of float switches and liquid level, pressure and temperature sensor switches for over 55 years, including an HVAC Series condensate level switch line, so the bare xref spelling 'Madison' is treated as a shorthand variant of Madison Company (the only verified carried brand of that name). Number from Madison's own product datasheets. Direct (203) 488-4477 and info@madisonco.com also published."
+    source: "https://dpk3n3gg92jwt.cloudfront.net/domains/ryanherco2/attachments/Madison_M5000_Data.pdf"
+    last_verified: "2026-10-26"

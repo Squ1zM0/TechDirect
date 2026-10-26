@@ -1,0 +1,14 @@
+id: rich-plastic-products
+name: Rich Plastic Products
+categories:
+- electrical
+aliases: []
+support:
+- category: electrical
+  department: Customer Support
+  phone: '+12032354241'
+  country: US
+  notes: Rich Plastic Products, Inc., 57 High St, Meriden, CT 06450. BMC glass-filled polyester and thermoplastic high/intermediate voltage electrical insulators; switchboard, center post and standoff insulators;
+    UL listed.
+  source: richplastics.net and ThomasNet profile
+  last_verified: '2026-10-26'

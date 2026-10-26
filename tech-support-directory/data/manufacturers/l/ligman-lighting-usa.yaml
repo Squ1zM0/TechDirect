@@ -1,0 +1,13 @@
+id: ligman-lighting-usa
+name: LIGMAN Lighting USA
+website: "https://ligmanlightingusa.com"
+categories: [electrical]
+aliases: ["LIGMAN LIGHTING USA", "Ligman Lighting USA, Inc."]
+support:
+  - category: electrical
+    department: Customer Support
+    phone: "+15036450500"
+    country: US
+    notes: "LIGMAN Lighting USA, Inc., Hillsboro, OR; architectural outdoor LED lighting (founded 1995). Number published on LIGMAN Lighting USA's own product datasheet (MicroPRIM, March 2026). A distributor page also publishes a toll-free line 888-325-4448 for LIGMAN Lighting USA."
+    source: "https://LigmanLightingUSA.com/images/MicroPRIM/MicroPRIM Datasheet.pdf"
+    last_verified: "2026-10-26"

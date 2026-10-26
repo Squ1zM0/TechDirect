@@ -1,0 +1,12 @@
+id: red-dot
+name: Red Dot
+categories: [hvac]
+aliases: ["Red Dot Corporation"]
+support:
+  - category: hvac
+    department: Customer Support
+    phone: "+12065753840"
+    country: US
+    notes: "Red Dot Corporation, P.O. Box 58270, Seattle, WA 98138. Mobile-vehicle HVAC (trucks, buses, off-highway), founded 1965. Thomasnet confirms the same number and Seattle address."
+    source: "https://www.texastruckac.com/_files/ugd/3a3306_5d626b8186294b4fb8aab8d17917861b.pdf"
+    last_verified: "2026-10-26"

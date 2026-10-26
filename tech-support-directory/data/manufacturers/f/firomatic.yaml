@@ -1,0 +1,13 @@
+id: firomatic
+name: "Firomatic"
+categories:
+- valves
+aliases: []
+support:
+- category: valves
+  department: "Customer Support"
+  phone: "+18006452876"
+  country: US
+  notes: "Firomatic is a Beckett brand line with no distinct support contact of its own; no Beckett file exists in the reference to parent-resolve to, so the brand is filed standalone with Beckett published USA line from Beckett own Firomatic datasheet (Canada 1-800-665-6972). Fusible safety valves; valves is the closest vocabulary term."
+  source: "https://www.3g-electric.id/datasheets/beckett-firomatic-thermal-switches.pdf"
+  last_verified: "2026-10-26"

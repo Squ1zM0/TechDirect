@@ -1,0 +1,14 @@
+id: formex
+name: "Formex"
+website: "https://www.itwformex.com/products/formex-TCI"
+categories:
+- electrical
+aliases: []
+support:
+- category: electrical
+  department: "Customer Support"
+  phone: "+18002785666"
+  country: US
+  notes: "ITW Formex (Illinois Tool Works), 2325 Kenyon Road, Bartlett, IL 60103. Toll-free line from the ITW Formex site; older number (630) 889-8655; email info@itwformex.com. Flame-retardant electrical insulation. Distinct from Formex Manufacturing, Inc. (Lawrenceville GA, 770-962-9816), a different company."
+  source: "https://www.itwformex.com/products/formex-TCI"
+  last_verified: "2026-10-26"

@@ -1,0 +1,14 @@
+id: etherwan-systems
+name: "Etherwan Systems"
+website: "https://www.etherwan.com/us/support"
+categories:
+- electrical
+aliases: []
+support:
+- category: electrical
+  department: "Technical Support"
+  phone: "+17147793800"
+  country: US
+  notes: "EtherWAN Systems, a subsidiary of Phoenix Contact Group since 2017. Official support page lists Mon-Fri 6:00 a.m.-5:00 p.m. PT with EtherWAN or Phoenix Contact experts. Industrial Ethernet; electrical is the closest vocabulary term."
+  source: "https://www.etherwan.com/us/support"
+  last_verified: "2026-10-26"

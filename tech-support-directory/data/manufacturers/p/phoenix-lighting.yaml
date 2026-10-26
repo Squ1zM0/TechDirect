@@ -1,0 +1,13 @@
+id: phoenix-lighting
+name: Phoenix Lighting
+website: https://www.phoenixlighting.com
+categories: [electrical]
+aliases: ["Phoenix Products Company", "Phoenix Products LLC", "PHOENIX PRODUCTS CO", "Phoenix Dock Lighting"]
+support:
+  - category: electrical
+    department: Customer Support
+    phone: "+18004381214"
+    country: US
+    notes: "Phoenix Products LLC (Phoenix Lighting), Milwaukee, WI (8711 West Port Avenue). Toll-free number published on phoenixlighting.com; direct +1 414-973-3300 also published. Founded 1892 as Phoenix Products Company Inc. Not labelled technical support, so recorded as Customer Support. Industrial, marine, dock, high-bay, high-mast, and hazardous-location lighting. Covers xref spellings Phoenix Lighting and PHOENIX PRODUCTS CO, and Phoenix Dock Lighting (dock lighting is a Phoenix Lighting product line per the xref parent). Distinct from Phoenix Manufacturing (evaporative coolers, Phoenix, AZ), which has its own file in this batch."
+    source: "https://www.phoenixlighting.com/sites/default/files/n5611001h_standard-terms-and-conditions.pdf"
+    last_verified: "2026-10-26"

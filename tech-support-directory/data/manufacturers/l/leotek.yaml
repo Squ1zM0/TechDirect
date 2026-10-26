@@ -1,0 +1,12 @@
+id: leotek
+name: Leotek
+categories: [electrical]
+aliases: ["LEOTEK ELECTRONICS USA CORP", "Leotek Electronics USA"]
+support:
+  - category: electrical
+    department: Customer Support
+    phone: "+14083801788"
+    country: US
+    notes: "LEOTEK Electronics USA, San Jose, CA; LED street/area lighting and traffic/transit signals since 1992. General company number from Leotek's own releases."
+    source: "https://edisonreport.com/wp-content/uploads/2019/05/Leotek-Statement-on-Detroit%E2%80%99s-EC-LED-StreetLights-Press-Release-5-16-201916182.pdf#new_tab"
+    last_verified: "2026-10-26"

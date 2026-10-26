@@ -1,0 +1,17 @@
+id: focal-point
+name: "Focal Point"
+website: "https://www.Legrand.us/contact-and-support/chat-support"
+categories:
+- electrical
+aliases: []
+support:
+- category: electrical
+  department: "Technical Support"
+  phone: "+17732479494"
+  country: US
+  notes: "Focal Point, a Legrand brand (acquired by Legrand) with its OWN distinct support team, so it gets its own file like Finelite; it is NOT parent-resolved to legrand. Legrand support page lists phone 773-247-9494 with option 2 for field service, Mon-Fri 8am-5pm CST; emails info@focalpointlights.com and fieldservice@focalpointlights.com. Legrand brand page also lists (877) 295-3472, not filed as primary. Architectural lighting."
+  source: "https://www.Legrand.us/contact-and-support/chat-support"
+  last_verified: "2026-10-26"
+  hours:
+    timezone: "CT"
+    mon_fri: "8:00 AM - 5:00 PM"

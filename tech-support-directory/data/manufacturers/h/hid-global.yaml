@@ -1,0 +1,14 @@
+id: hid-global
+name: HID Global
+website: https://www.hidglobal.com/
+categories:
+- electrical
+aliases: []
+support:
+- category: electrical
+  department: Technical Support
+  phone: '+18666077339'
+  country: US
+  notes: 'HID Global Corporation (ASSA ABLOY), Austin, TX. North America Technical Support line (source label). General toll-free 800-237-7769 also seen in HID datasheets. Access control, identity.'
+  source: https://landing.jobrien.com/hubfs/Content%20-%20ID%20Card%20Printer%20and%20Supplies/Fargo%20HID%20Content/FARGO%20Technical%20Documents/FARGO%20HDP8500LE%20FAQ.pdf?hsLang=en
+  last_verified: '2026-10-26'

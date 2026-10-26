@@ -1,0 +1,13 @@
+id: abtech
+name: Abtech
+website: https://www.abtech-inc.com
+categories: [electrical]
+aliases: ["Abtech Ltd"]
+support:
+  - category: electrical
+    department: Customer Support
+    phone: "+12815483424"
+    country: US
+    notes: "Abtech hazardous-area and industrial electrical enclosures, local controls and LED lighting. US office: 1813 Rotary Drive, Humble, TX 77338, Mon-Fri 9:00 AM-5:30 PM. UK head office, Sheffield: +44 (0)114 244 2424."
+    source: "https://www.abtech-inc.com/markets/renewable-energy.html"
+    last_verified: "2026-10-26"

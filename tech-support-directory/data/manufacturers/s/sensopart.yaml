@@ -1,0 +1,16 @@
+id: sensopart
+name: SensoPart
+website: https://sensopart.com/
+categories:
+- electrical
+aliases:
+- Sensopart Industries
+support:
+- category: electrical
+  department: Customer Support
+  phone: '+18662827610'
+  country: US
+  notes: 'SensoPart Inc. (USA), 30600 Telegraph Rd Suite 2345, Bingham Farms, MI 48025 (another catalog gives Perrysburg, OH, 28400 Cedar Park Blvd). usa@sensopart.com. German parent SensoPart Industriesensorik
+    GmbH (Gottenheim). Factory-automation sensors: photoelectric, vision, distance, color, ultrasonic.'
+  source: 'SensoPart catalogs (USA: Phone +1 866 2827610) and ThomasNet SensoPart Inc. profile'
+  last_verified: '2026-10-26'

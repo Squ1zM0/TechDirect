@@ -1,0 +1,14 @@
+id: euchner
+name: "Euchner"
+website: "https://www.euchner-usa.com/en-us/service/"
+categories:
+- electrical
+aliases: []
+support:
+- category: electrical
+  department: "Technical Support"
+  phone: "+13157010315"
+  country: US
+  notes: "EUCHNER USA Inc., Schaumburg IL (older docs list East Syracuse NY / Elk Grove Village IL). Official technical-support page lists this number as option 2. Email applications@euchner-usa.com. Safety switches and automation."
+  source: "https://www.euchner-usa.com/en-us/service/"
+  last_verified: "2026-10-26"

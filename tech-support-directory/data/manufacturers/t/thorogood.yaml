@@ -1,0 +1,13 @@
+id: thorogood
+name: "Thorogood"
+website: "https://thorogoodusa.com/privacy-policy/"
+categories: [hardware]
+aliases: ["Thorogood Boots"]
+support:
+  - category: hardware
+    department: Customer Support
+    phone: "+18008260002"
+    country: US
+    notes: "Thorogood work boots; a division of Weinbrenner Shoe Company, Merrill WI (108 South Polk St). Email csd@weinbrennerusa.com."
+    source: "https://thorogoodusa.com/privacy-policy/"
+    last_verified: "2026-10-26"

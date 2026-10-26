@@ -1,0 +1,12 @@
+id: lau
+name: Lau
+categories: [hvac]
+aliases: ["Lau Industries"]
+support:
+  - category: hvac
+    department: Customer Support
+    phone: "+19374766500"
+    country: US
+    notes: "Lau Industries, Dayton, OH; blowers and fans (Penn Ventilation line). Workbook lineage: Johnson Controls / Lau Industries. General company number from the Lau Industries profile; no separately labelled Lau technical-support line found."
+    source: "https://www.thomasnet.com/company/lau-industries-10055922/profile?coverage_area=IN&heading=5662804"
+    last_verified: "2026-10-26"

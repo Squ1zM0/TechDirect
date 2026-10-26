@@ -1,0 +1,13 @@
+id: condor
+name: Condor
+categories: [electrical]
+aliases: ["Condor Power", "Condor D.C. Power Supplies", "SL Power (Condor)"]
+support:
+  - category: electrical
+    department: Technical Support
+    phone: "+18884127832"
+    email: productsupport.ep@aei.com
+    country: US
+    notes: "LEGACY brand file: Condor D.C. Power Supplies, Inc., Oxnard, CA (legacy lines 800-235-5929 and 805-486-4565 per Condor datasheets) made the Condor brand AC/DC power supplies; Condor was an SL Power Electronics brand, and Advanced Energy completed its acquisition of SL Power in April 2022. Support now via Advanced Energy technical support (line and email per Advanced Energy's own SL Power datasheets). Kept as its own file per the legacy rule so technicians on older Condor-marked supplies can trace the successor chain."
+    source: "http://www.advanced-energy.com/getmedia/c688e422-05a6-42df-90ff-87b3636dc88c/ENG-SLB300-07-18-2025.pdf"
+    last_verified: "2026-10-26"

@@ -1,0 +1,16 @@
+id: heyco-products
+name: Heyco Products
+website: https://www.heyco.com/
+categories:
+- electrical
+aliases:
+- Heyco
+- HEYCO Industries
+support:
+- category: electrical
+  department: Customer Support
+  phone: '+18005264182'
+  country: US
+  notes: 'Heyco Products, Inc., Toms River, NJ. NJ 732-286-1800. Wire management, bushings, fittings.'
+  source: https://pdf.directindustry.com/pdf/heyco/heyco-straight-thru-strain-relief-bushings-round-cables/11746-129589.html
+  last_verified: '2026-10-26'

@@ -1,0 +1,16 @@
+id: nls-lighting
+name: NLS Lighting
+website: https://nlslighting.com/our-reps/
+categories: [electrical]
+aliases: []
+support:
+  - category: electrical
+    department: Customer Support
+    phone: "+13103412037"
+    country: US
+    notes: "NLS Lighting, LLC, Carson CA (701 Kingshill Place); American outdoor LED lighting manufacturer; email quotes@nlslighting.com."
+    source: "https://nlslighting.com/our-reps/"
+    last_verified: "2026-10-26"
+    hours:
+      timezone: "PT"
+      mon_fri: "8:00 AM - 5:00 PM"

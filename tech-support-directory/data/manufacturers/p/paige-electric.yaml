@@ -1,0 +1,13 @@
+id: paige-electric
+name: Paige Electric
+website: https://paigeconnected.com/
+categories: [electrical]
+aliases: ["Paige Electric Company"]
+support:
+  - category: electrical
+    department: Customer Support
+    phone: "+19086877810"
+    country: US
+    notes: "Paige Electric Company, LP, Mountainside/Union, NJ. General company phone (also listed for the Cerritos, CA and Columbus, OH locations); not labelled technical support, so recorded as Customer Support. Wire and cable manufacturer since 1958; employee-owned."
+    source: "https://www.thomasnet.com/company/paige-electric-company-lp-30834691/profile"
+    last_verified: "2026-10-26"

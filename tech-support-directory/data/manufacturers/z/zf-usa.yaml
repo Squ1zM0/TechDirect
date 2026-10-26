@@ -1,0 +1,13 @@
+id: zf-usa
+name: "Z+F USA, Inc."
+website: https://www.zf-usa.com
+categories: [electrical]
+aliases: ["Z+F USA"]
+support:
+  - category: electrical
+    department: Customer Support
+    phone: "+14122578575"
+    country: US
+    notes: "Bridgeville PA, 700 Old Pond Road Suite 606. Email info@zf-usa.com. Wire processing systems, ferrules, 3D laser scanners; closest vocabulary term: electrical. US arm of Zoller + Frohlich GmbH (Germany). Distinct from ZF Marine and ZF Friedrichshafen. Slug zf-usa matches the official domain (not z-f-usa)."
+    source: "https://www.zofre.de/en/meta-navigation/contact"
+    last_verified: "2026-10-26"

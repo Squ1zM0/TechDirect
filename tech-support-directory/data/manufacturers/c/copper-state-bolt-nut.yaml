@@ -1,0 +1,16 @@
+id: copper-state-bolt-nut
+name: Copper State Bolt & Nut Co.
+website: http://www.copperstate.com/
+categories: [hardware]
+aliases: ["Copper State Bolt & Nut", "Copper State Nut & Bolt"]
+support:
+  - category: hardware
+    department: Customer Support
+    phone: "+16022722384"
+    country: US
+    notes: "Copper State Bolt & Nut Co. (Phoenix, AZ) main branch phone per copperstate.com listings; fasteners, construction products and industrial supplies across the Southwest. Toll-free 800-528-4255 also published."
+    source: "http://www.copperstate.com/"
+    last_verified: "2026-10-26"
+    hours:
+      timezone: "MT"
+      mon_fri: "5:00 AM - 4:00 PM"

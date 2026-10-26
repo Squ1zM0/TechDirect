@@ -1,0 +1,13 @@
+id: nj-sullivan
+name: N.J. Sullivan
+website: https://www.njsullivan.com/
+categories: [electrical]
+aliases: ["NJ Sullivan", "N.J. Sullivan Co., Inc."]
+support:
+  - category: electrical
+    department: Customer Support
+    phone: "+17034645944"
+    country: US
+    notes: "N.J. Sullivan Co., Inc., Manassas VA (11450 University Boulevard); custom metal fabrication and electrical products - enclosures, cabinets, bussed troughs/gutters, safety disconnect switches; founded 1958. Distinct from Sullivan Steel (Pennington NJ) - different company."
+    source: "https://www.thomasnet.com/company/n-j-sullivan-co-inc-30825045/profile?heading=9121401&what=Busbar+Systems"
+    last_verified: "2026-10-26"

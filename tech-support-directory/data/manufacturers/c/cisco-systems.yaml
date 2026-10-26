@@ -1,0 +1,13 @@
+id: cisco-systems
+name: Cisco Systems
+website: https://www.cisco.com/en/US/docs/internetworking/troubleshooting/guide/tr19ac.html
+categories: [electrical]
+aliases: ["Cisco"]
+support:
+  - category: electrical
+    department: Technical Support
+    phone: "+18005532447"
+    country: US
+    notes: "Cisco Technical Assistance Center (TAC), North America. Email tac@cisco.com. Support is for products under warranty or covered by a maintenance contract; S1/S2 cases by phone."
+    source: "https://www.cisco.com/en/US/docs/internetworking/troubleshooting/guide/tr19ac.html"
+    last_verified: "2026-10-26"

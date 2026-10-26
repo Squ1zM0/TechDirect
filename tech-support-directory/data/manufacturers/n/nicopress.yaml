@@ -1,0 +1,12 @@
+id: nicopress
+name: Nicopress
+categories: [electrical]
+aliases: []
+support:
+  - category: electrical
+    department: Customer Support
+    phone: "+12163610221"
+    country: US
+    notes: "Nicopress, best-known brand of The National Telephone Supply Company, Cleveland OH (5100 Superior Ave); swaging tools and splicing/terminating sleeves since 1901; email nicopress@aol.com per Thomasnet. CORRECTION: the workbook parent note suggesting NSI lineage is not supported - no NSI connection was found; Nicopress is a National Telephone Supply brand (Wire Rope Exchange 2021; USPTO trademark owner National Telephone Supply Company)."
+    source: "https://www.thomasnet.com/company/the-national-telephone-supply-company-45780/profile?coverage_area=NO&heading=89680557"
+    last_verified: "2026-10-26"

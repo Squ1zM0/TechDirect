@@ -1,0 +1,13 @@
+id: polyken
+name: Polyken
+website: https://www.polyken.com
+categories: [hvac]
+aliases: ["Polyken (Berry Global)"]
+support:
+  - category: hvac
+    department: Customer Support
+    phone: "+18776623779"
+    country: US
+    notes: "Polyken, a tape brand of Berry Plastics Corporation / Berry Global, Inc. (Evansville, IN; now part of Amcor). Phone is Berry Global's published general number (hours Mon-Fri 8:00 AM-6:00 PM); the historical Polyken direct number 800-343-7875 from 2016 Polyken/Berry Plastics datasheets (Franklin, MA) is superseded and noted here only for traceability. Not labelled technical support, so recorded as Customer Support. Duct, pipe, and industrial tapes (e.g. Polyken 221 duct tape); polyken.com was the brand site. Successor chain: Polyken -> Berry Plastics -> Berry Global -> Amcor."
+    source: "https://packagingsolutions.amcor.com/en/news/articles/berry-global-offers-reduced-lead-times-for-95-percent-of-stock-overcaps"
+    last_verified: "2026-10-26"

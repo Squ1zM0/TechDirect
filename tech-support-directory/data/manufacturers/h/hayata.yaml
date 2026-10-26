@@ -1,0 +1,14 @@
+id: hayata
+name: Hayata
+website: https://hayata.com/
+categories:
+- electrical
+aliases: []
+support:
+- category: electrical
+  department: Customer Support
+  phone: '+18338621668'
+  country: US
+  notes: 'Hayata, Ltd., Carrollton, TX. Most recent published US toll-free line, from the January 2024 DigiKey catalog; older catalog toll-free 877-785-8437 and local 214-360-7708 also seen. Email sales@Hayata.com. Stainless steel cable ties, banding and tags, wiring accessories.'
+  source: https://mm.digikey.com/Volume0/opasdata/d220001/medias/docus/6562/STNC460-120B.pdf
+  last_verified: '2026-10-26'

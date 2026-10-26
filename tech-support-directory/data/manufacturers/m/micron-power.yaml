@@ -1,0 +1,15 @@
+id: micron-power
+name: Micron Power (Micron Industries Corporation)
+website: https://www.microntransformers.com
+categories:
+- electrical
+aliases:
+- Micron Industries
+support:
+- category: electrical
+  department: Customer Support
+  phone: "+18006644660"
+  country: US
+  notes: Micron Industries Corporation, Elmhurst, IL (777 Church Road). Control transformers, IP7 waterproof AC-DC power supplies. Local 630-516-1820. Sterling, IL place listing 630-516-1222 flagged as unverified alternate (digit-similar to Elmhurst local, possible listing error). Separate 'Micron' xref row stays NEEDS-HUMAN (Micron Technology vs Micron Industries ambiguity).
+  source: https://directory.marinelink.com/companies/company/micron-industries-corporation-204371
+  last_verified: "2026-10-26"

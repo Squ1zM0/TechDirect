@@ -1,0 +1,16 @@
+id: canarm-lighting
+name: Canarm Lighting Ltd
+website: https://manualsfile.com/product/k2bj17y7j7v.html
+categories: [electrical]
+aliases: ["Canarm"]
+support:
+  - category: electrical
+    department: Customer Support
+    phone: "+18002651833"
+    country: US
+    notes: "Canarm Ltd product-questions line (English; French line 1-800-567-2513 also published in Canarm manuals). Canadian manufacturer (Brockville, ON); this is a North American toll-free line, recorded with country US per the +1 toll-free format. Hours Mon-Fri 8:00 AM-5:00 PM EST per Canarm manuals. Lighting fixtures."
+    source: "https://manualsfile.com/product/k2bj17y7j7v.html"
+    last_verified: "2026-10-26"
+    hours:
+      timezone: "ET"
+      mon_fri: "8:00 AM - 5:00 PM"

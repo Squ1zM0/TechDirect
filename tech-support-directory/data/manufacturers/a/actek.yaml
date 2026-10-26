@@ -1,0 +1,13 @@
+id: actek
+name: Actek
+website: https://www.actekmfg.com
+categories: [hardware]
+aliases: ["Actek Manufacturing & Engineering"]
+support:
+  - category: hardware
+    department: Customer Support
+    phone: "+18007527229"
+    country: US
+    notes: "Actek Manufacturing & Engineering, 1110 Fullerton Rd., City of Industry, CA 91748. ISO 9001 manufacturer of swivel hoist rings, lifting rings, drill bushings and rigging accessories for aerospace, automotive, construction and defense. Direct line (626) 581-3424 and sales@actekmfg.com also published."
+    source: "https://www.thomasnet.com/company/actek-manufacturing-engineering-1019826/profile?coverage_area=CS&heading=97004377"
+    last_verified: "2026-10-26"

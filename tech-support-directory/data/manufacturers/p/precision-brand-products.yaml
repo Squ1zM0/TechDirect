@@ -1,0 +1,13 @@
+id: precision-brand-products
+name: Precision Brand Products
+website: https://www.precisionbrand.com/contact-us/
+categories: [hardware]
+aliases: ["Precision Brand"]
+support:
+  - category: hardware
+    department: Customer Support
+    phone: "+16309697200"
+    country: US
+    notes: "2250 Curtiss Street, Downers Grove, IL. A 1-800 number also appears in Thomasnet releases; the official contact-page number is used."
+    source: "https://www.precisionbrand.com/contact-us/"
+    last_verified: "2026-10-26"

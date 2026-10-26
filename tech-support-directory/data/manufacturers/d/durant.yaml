@@ -1,0 +1,13 @@
+id: durant
+name: Durant
+website: https://www.durantco.com
+categories: [electrical]
+aliases: ["Durant Tool Company"]
+support:
+  - category: electrical
+    department: Customer Support
+    phone: "+18003387268"
+    country: US
+    notes: "Durant Tool Company (North Kingstown, RI, 75+ years) counters, controllers, material measuring machines and wire machinery. Toll-free line from the official site; direct 401-781-7800 also published. Distinct from Durant Plastics & Manufacturing (Durant, OK)."
+    source: "https://www.durantco.com/contact-for-products"
+    last_verified: "2026-10-26"

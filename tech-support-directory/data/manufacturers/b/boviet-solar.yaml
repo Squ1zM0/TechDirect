@@ -1,0 +1,13 @@
+id: boviet-solar
+name: Boviet Solar
+website: https://www.bovietsolar.com
+categories: [electrical]
+aliases: ["Boviet Solar USA"]
+support:
+  - category: electrical
+    department: Customer Support
+    phone: "+18773815672"
+    country: US
+    notes: "Boviet Solar, USA HQ 1735 North 1st Street, Suite 300, San Jose, CA 95112; BloombergNEF Tier 1 solar module manufacturer, global HQ in Bac Giang, Vietnam. Number from Boviet's own published policy PDFs. CONFLICT FLAGGED: Adapt.io lists a different Boviet Solar USA number (+1 877-253-2858); the manufacturer's own published number is used here. Category mapped from solar modules to electrical (no solar term in the vocabulary)."
+    source: "https://bovietsolar.com/wp-content/uploads/Boviet-Solar_Anti-Trust-Policy.pdf"
+    last_verified: "2026-10-26"

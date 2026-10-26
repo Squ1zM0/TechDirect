@@ -1,0 +1,13 @@
+id: siemon
+name: Siemon
+website: https://www.siemon.com
+categories: [electrical]
+aliases: []
+support:
+  - category: electrical
+    department: Customer Support
+    phone: "+18609454200"
+    country: US
+    notes: "The Siemon Company, Watertown, CT (network cabling and connectivity systems). Global headquarters contact; email customer_service@siemon.com. Covers both xref spellings Siemon and Siemon Company."
+    source: "https://www.siemon.com/en/about-us/our-company/siemon-divisions/"
+    last_verified: "2026-10-26"

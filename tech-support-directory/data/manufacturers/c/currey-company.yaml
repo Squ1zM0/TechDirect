@@ -1,0 +1,15 @@
+id: currey-company
+name: Currey & Company
+website: https://www.curreyandcompany.com
+categories:
+  - electrical
+aliases:
+  - Currey and Company
+support:
+  - category: Customer Support
+    department: Customer Support
+    phone: "+16785331500"
+    country: US
+    notes: "Designer/manufacturer of luxury lighting, furniture, and home decor, founded 1988, HQ 50 Best Friend Rd, Atlanta, GA. HQ phone corroborated across multiple business directories; the 800-653-6556 number seen on retailer pages belongs to the retailer Destination Lighting, not Currey, and is NOT used here."
+    source: "https://www.curreyandcompany.com/"
+    last_verified: "2026-10-26"

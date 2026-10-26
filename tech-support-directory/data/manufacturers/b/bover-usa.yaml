@@ -1,0 +1,12 @@
+id: bover-usa
+name: Bover USA
+categories: [electrical]
+aliases: ["Bover"]
+support:
+  - category: electrical
+    department: Customer Support
+    phone: "+14049242342"
+    country: US
+    notes: "Bover USA, 1231 Coller Rd NW, Atlanta, GA 30318, the US arm of Bover (Barcelona, Spain), maker of decorative pendant and surface lighting. Number from Bover USA spec sheets. The spec sheets also list www.ledsc4.us (the LedsC4 US site, distributed alongside Bover by LBC Lighting); no standalone Bover USA website was verified, so website is omitted. 5-year warranty. Category mapped from lighting to electrical."
+    source: "https://lbclighting-spec.s3.us-west-1.amazonaws.com/Bover/Spec+Sheet+USA-CD4L-00V9AZRU05U.pdf"
+    last_verified: "2026-10-26"

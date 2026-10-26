@@ -1,0 +1,15 @@
+id: intellinet-network-solutions
+name: Intellinet Network Solutions
+website: https://www.intellinet-network.com
+categories:
+- electrical
+aliases:
+- Intellinet
+support:
+- category: electrical
+  department: Customer Support
+  phone: '+18138550550'
+  country: US
+  notes: "Networking, racks, and connectivity; an IC Intracom brand. An older listing showing 800-881-7325 was not used."
+  source: https://portal.icintracom.com/map-policy
+  last_verified: '2026-10-26'

@@ -1,0 +1,15 @@
+id: rexel-denver-prefab
+name: Rexel Denver Prefab
+website: https://www.rexelusa.com/
+categories:
+- electrical
+aliases: []
+support:
+- category: electrical
+  department: Customer Support
+  phone: '+18887393577'
+  country: US
+  notes: Rexel Denver Prefab operation. The Denver prefab operation has no distinct published support line; this is Rexel USA's published general support line (RexelPRO, Mon-Fri 7am-6pm EST). Recorded as
+    the parent's general line, not as a prefab-specific line.
+  source: rexelusa.com (RexelPRO help line)
+  last_verified: '2026-10-26'

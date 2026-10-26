@@ -1,0 +1,12 @@
+id: baker-hughes
+name: Baker Hughes
+categories: [valves]
+aliases: []
+support:
+  - category: valves
+    department: Customer Support
+    phone: "+17136254200"
+    country: US
+    notes: "Energy technology company (oilfield equipment, turbomachinery, valves incl. Masoneilan/Consolidated heritage), Houston TX. Company line published site-wide on bakerhughes.com. No oil-and-gas category exists in the TechDirect vocabulary, so valves is used as the closest supply-house term."
+    source: "https://www.Bakerhughes.com/ru/node/99656"
+    last_verified: "2026-10-26"

@@ -1,0 +1,13 @@
+id: omg-roofing-products
+name: OMG Roofing Products
+website: https://www.omgroofing.com/services-support/jobsite-training/
+categories: [hardware]
+aliases: ["OMG Building Products"]
+support:
+  - category: hardware
+    department: Customer Support
+    phone: "+18006333800"
+    country: US
+    notes: "OMG Roofing Products (OMG Building Products LLC), Agawam MA (153 Bowles Road); roofing fasteners and products. Vocabulary note: no roofing term; hardware is closest."
+    source: "https://www.omgroofing.com/services-support/jobsite-training/"
+    last_verified: "2026-10-26"

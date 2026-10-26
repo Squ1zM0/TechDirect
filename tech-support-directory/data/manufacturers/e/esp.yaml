@@ -1,0 +1,13 @@
+id: esp
+name: "ESP"
+categories:
+- electrical
+aliases: []
+support:
+- category: electrical
+  department: "Technical Support"
+  phone: "+18006459721"
+  country: US
+  notes: "ESP, AMETEK Electronic Systems Protection (ESP/SurgeX), Knightdale NC. Number printed in the AMETEK ESP user manual as Technical Support: 1-800-645-9721. Surge protection, power conditioning, and energy intelligence; the xref category HVAC; products reflects ESP use protecting HVAC equipment, but electrical is the closest vocabulary term."
+  source: "http://www.ametekesp.com/-/media/ametekesp/downloads/manuals/remote-portal/esp-surgex-user-manual-remote-portal-rev-d.pdf?la=en&revision=82a4c3a0-e858-4f5b-a15d-235bbf5da7d8"
+  last_verified: "2026-10-26"

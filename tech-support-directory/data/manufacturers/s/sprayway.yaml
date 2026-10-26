@@ -1,0 +1,13 @@
+id: sprayway
+name: Sprayway
+website: https://www.spraywayinc.com
+categories: [hardware]
+aliases: []
+support:
+  - category: hardware
+    department: Customer Support
+    phone: "+18003329000"
+    country: US
+    notes: "Sprayway Inc., a division of PLZ Corp., Downers Grove, IL (aerosol cleaners, lubricants, adhesives and specialty chemicals: glass cleaner, granite cleaner, spray lubricants). Company phone 630-628-3000 also published on safety data sheets."
+    source: "https://www.whatsinproducts.com/types/type_detail/1/7920/advance/page:1/sort:Chemical.chemical_name/direction:asc"
+    last_verified: "2026-10-26"

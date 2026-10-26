@@ -1,0 +1,13 @@
+id: polywater
+name: Polywater
+website: https://www.polywater.com
+categories: [electrical]
+aliases: ["American Polywater Corporation", "American Polywater"]
+support:
+  - category: electrical
+    department: Customer Support
+    phone: "+18003289384"
+    country: US
+    notes: "American Polywater Corporation, Stillwater, MN (11222 60th Street North). Toll-free number published in Polywater's own catalogs (Canada & US only); direct +1 651-430-2270 and support@polywater.com also published. Not labelled technical support, so recorded as Customer Support. Cable pulling lubricants, cleaners, sealants, and adhesives for electrical and communications infrastructure."
+    source: "https://www.polywater.com/wp-content/uploads/2021/04/Polywater-Global-Telecommunications-Catalog_0221rev001.pdf"
+    last_verified: "2026-10-26"

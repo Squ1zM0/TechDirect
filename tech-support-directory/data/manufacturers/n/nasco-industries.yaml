@@ -1,0 +1,13 @@
+id: nasco-industries
+name: NASCO Industries
+website: https://nascoinc.com/
+categories: [hardware]
+aliases: ["Nasco"]
+support:
+  - category: hardware
+    department: Customer Support
+    phone: "+18007674288"
+    country: US
+    notes: "NASCO Industries, Inc., Washington IN; arc-flash rain gear; email sales@nascoinc.com. Vocabulary note: no safety/PPE term; hardware is closest."
+    source: "https://nascoinc.com/content/resources/nasco-arclite-air-lightweight-arc-flash-rain-gear-december-2025.pdf"
+    last_verified: "2026-10-26"

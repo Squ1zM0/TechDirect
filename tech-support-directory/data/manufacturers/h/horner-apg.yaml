@@ -1,0 +1,15 @@
+id: horner-apg
+name: Horner APG
+website: https://hornerautomation.com/
+categories:
+- electrical
+aliases:
+- Horner Automation
+support:
+- category: electrical
+  department: Technical Support
+  phone: '+18776655666'
+  country: US
+  notes: 'Horner APG, LLC / Horner Automation, Indianapolis, IN. Technical Support North America toll-free line is primary; direct 317-916-4274 also published; email techsppt@heapg.com. All-in-one controllers, automation.'
+  source: https://hornerautomation.com/product-category/all-in-one-controllers/
+  last_verified: '2026-10-26'

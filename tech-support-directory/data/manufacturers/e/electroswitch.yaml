@@ -1,0 +1,13 @@
+id: electroswitch
+name: Electroswitch
+website: https://www.electroswitch.com
+categories: [electrical]
+aliases: ["Electro Switch Corp."]
+support:
+  - category: electrical
+    department: Customer Support
+    phone: "+17813355200"
+    country: US
+    notes: "Electro Switch Corp. (Weymouth, MA) rotary switches, relays and related products. Email info@electroswitch.com also published."
+    source: "https://WWW.ELECTROSWITCH.COM/privacy-policy"
+    last_verified: "2026-10-26"

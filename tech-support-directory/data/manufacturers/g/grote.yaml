@@ -1,0 +1,14 @@
+id: grote
+name: 'Grote'
+website: https://www.grote.com/
+categories:
+- electrical
+aliases: []
+support:
+- category: electrical
+  department: 'Customer Support'
+  phone: '+18006280809'
+  country: US
+  notes: 'Email safety@grote.com. Vehicle lighting.'
+  source: 'https://www.grote.com/partner-with-grote/oem-support/'
+  last_verified: '2026-10-26'

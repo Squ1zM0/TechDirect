@@ -1,0 +1,13 @@
+id: connectrac
+name: Connectrac
+website: https://www.connectrac.com
+categories:
+  - electrical
+support:
+  - category: Customer Support
+    department: Customer Support
+    phone: "+18774805637"
+    country: US
+    notes: "Floor-based power and data distribution (wireway/raceway) systems. Dallas, TX; email info@connectrac.com. Number published in the manufacturer's own installation literature."
+    source: "https://manuals.plus/m/a2c9e85c0775e8cbe0353e5187c9bc58cb3ffeedef26ef476d54052d938d479a"
+    last_verified: "2026-10-26"

@@ -1,0 +1,13 @@
+id: phoenix-manufacturing
+name: Phoenix Manufacturing
+website: https://phoenixmanufacturing.com
+categories: [hvac]
+aliases: ["Phoenix Manufacturing, Inc.", "PHOENIX MFG", "Phoenix Coolers"]
+support:
+  - category: hvac
+    department: Customer Support
+    phone: "+16024371034"
+    country: US
+    notes: "Phoenix Manufacturing, Inc., Phoenix, AZ (3655 East Roeser Road). Number published on Phoenix Manufacturing's own product literature and website; info@phxmfg.com also published. Not labelled technical support, so recorded as Customer Support. Evaporative coolers: AeroCool, Frigiking, Brisa, and Commercial Coolers lines. Covers xref spellings PHOENIX MFG and Phoenix Coolers (the xref parent identifies Phoenix Coolers as Phoenix Manufacturing evaporative coolers). Distinct from Phoenix Lighting (Milwaukee, WI), which has its own file in this batch."
+    source: "https://phoenixmanufacturing.com/frigiking-aspen/"
+    last_verified: "2026-10-26"

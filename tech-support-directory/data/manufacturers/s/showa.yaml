@@ -1,0 +1,13 @@
+id: showa
+name: Showa
+website: https://www.showagroup.com
+categories: [hardware]
+aliases: []
+support:
+  - category: hardware
+    department: Customer Support
+    phone: "+18002410323"
+    country: US
+    notes: "SHOWA Group USA, Menlo, GA (industrial hand protection/gloves; acquired Best Manufacturing in 2007). US contact; email USA@SHOWAgroup.com."
+    source: "https://www.showagroup.com/us-en/we-are-showa/about-us/"
+    last_verified: "2026-10-26"

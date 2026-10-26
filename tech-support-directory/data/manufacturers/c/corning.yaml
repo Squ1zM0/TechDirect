@@ -1,0 +1,13 @@
+id: corning
+name: Corning
+website: https://www.corning.com
+categories: [electrical]
+aliases: ["Corning Optical Communications"]
+support:
+  - category: electrical
+    department: Customer Support
+    phone: "+18007432675"
+    country: US
+    notes: "Corning Optical Communications customer service line per Corning's own support-center pages ('Should you need immediate assistance please call our customer service line at +1 800-743-2675'). Fiber optic cable and connectivity. Optical fibre product questions: +1 607-248-2000 (cofic@corning.com) per Corning's optical fibre page."
+    source: "https://www.corning.com/in-building-networks/au/en/home/support-center.html"
+    last_verified: "2026-10-26"

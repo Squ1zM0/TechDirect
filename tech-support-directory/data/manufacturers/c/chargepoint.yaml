@@ -1,0 +1,13 @@
+id: chargepoint
+name: ChargePoint
+website: https://www.chargepoint.com/drivers/support
+categories: [electrical]
+aliases: ["Chargepoint"]
+support:
+  - category: electrical
+    department: Customer Support
+    phone: "+18887584389"
+    country: US
+    notes: "ChargePoint driver support, published as available 24/7. EV charging stations/chargers."
+    source: "https://www.chargepoint.com/drivers/support"
+    last_verified: "2026-10-26"

@@ -1,0 +1,13 @@
+id: phase-a-matic
+name: Phase-A-Matic
+website: https://phase-a-matic.com
+categories: [electrical]
+aliases: ["Phase-A-Matic, Inc.", "PHASE-A-MATIC"]
+support:
+  - category: electrical
+    department: Customer Support
+    phone: "+18009626976"
+    country: US
+    notes: "Phase-A-Matic, Inc., Lancaster, CA (229 East Ave K-8). Toll-free number published on phase-a-matic.com; direct (661) 947-8485 also published in company literature. Technicians help with converter sizing, but the published number is a general contact, so recorded as Customer Support. Rotary and static phase converters, voltage stabilizers, transformers; established 1965. Distinct from Phase Technologies (Rapid City, SD), which has its own file in this batch."
+    source: "https://phase-a-matic.com/product-category/static-phase-converter/pam-es-series/"
+    last_verified: "2026-10-26"

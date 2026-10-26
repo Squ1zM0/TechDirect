@@ -1,0 +1,16 @@
+id: deflect-o
+name: Deflect-O
+website: https://www.deflecto.com/
+categories: [airflow]
+aliases: ["Deflecto"]
+support:
+  - category: airflow
+    department: Customer Support
+    phone: "+18004284328"
+    country: US
+    notes: "Deflect-O is the dryer-venting/air-distribution brand of Deflecto, LLC (Indianapolis, IN); Customer Service phone and email customerservice@deflecto.com per deflecto.com. World's largest dryer-venting manufacturer per the company."
+    source: "https://www.deflecto.com/?p=57"
+    last_verified: "2026-10-26"
+    hours:
+      timezone: "ET"
+      mon_fri: "7:00 AM - 5:30 PM"

@@ -1,0 +1,12 @@
+id: proflo
+name: PROFLO
+categories: [plumbing]
+aliases: []
+support:
+  - category: plumbing
+    department: Customer Support
+    phone: "+18002213379"
+    country: US
+    notes: "PROFLO products are manufactured for and distributed exclusively by Ferguson Enterprises, LLC; warranty documents direct callers to PROFLO customer service. Ferguson has no TechDirect file, so PROFLO has its own file with Ferguson as parent."
+    source: "https://fergusonprod.a.bigcontent.io/v1/static/4334987_1479047_parts"
+    last_verified: "2026-10-26"

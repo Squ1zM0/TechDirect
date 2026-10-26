@@ -1,0 +1,16 @@
+id: meltric
+name: Meltric
+website: https://meltric.com
+categories:
+- electrical
+aliases:
+- MELTRIC CORP
+- Meltric Corporation
+support:
+- category: electrical
+  department: Customer Support
+  phone: "+18008244031"
+  country: US
+  notes: Franklin, WI. Industrial plugs, receptacles (inherently electrically safe). Older manuals list 800-433-7642. Covers xref spellings Meltric, MELTRIC CORP, Meltric Corporation.
+  source: https://www.kcau9.com/business/press-releases/ein-presswire/893864221/meltric-exhibits-inherently-electrically-safe-industrial-plugs-receptacles-at-ieee-electrical-safety-workshop-2026/
+  last_verified: "2026-10-26"

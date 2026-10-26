@@ -1,0 +1,13 @@
+id: sherman-reilly
+name: Sherman & Reilly
+website: https://www.sherman-reilly.com
+categories: [electrical]
+aliases: []
+support:
+  - category: electrical
+    department: Customer Support
+    phone: "+14237565300"
+    country: US
+    notes: "Sherman+Reilly, Chattanooga, TN (utility pulling, tensioning and stringing equipment and blocks). Acquired by Quanta Services, Inc. in April 2024; formerly a Textron company. Sales email sales@sherman-reilly.com."
+    source: "https://www.sherman-reilly.com/our-history/"
+    last_verified: "2026-10-26"

@@ -1,0 +1,13 @@
+id: wellair
+name: "WellAir"
+website: https://www.wellairsolutions.com
+categories: [hvac]
+aliases: []
+support:
+  - category: hvac
+    department: Customer Support
+    phone: "+18665081118"
+    country: US
+    notes: "Charlotte NC. Email info@wellairsolutions.com. Indoor air purification: Novaerus portable disinfection + Plasma Air HVAC devices. Number previously associated with Novaerus, but WellAir's own current privacy policy and 2026 press release publish it as WellAir's contact, and WellAir owns the Novaerus + Plasma Air portfolio, so it is WellAir's current line, not merely a predecessor number."
+    source: "https://www.wellairsolutions.com/privacy-policy"
+    last_verified: "2026-10-26"

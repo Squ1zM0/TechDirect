@@ -1,0 +1,15 @@
+id: locus-energy
+name: Locus Energy
+website: "https://home.alsoenergy.com/support"
+categories: [electrical]
+support:
+  - category: electrical
+    department: Customer Support
+    phone: "+18663035668"
+    country: US
+    notes: "Legacy brand. Locus Energy, founded 2007, Hoboken, NJ, was a solar photovoltaic monitoring and data analytics platform provider (LocusNOC). Acquired by Genscape in September 2015; Locus, AlsoEnergy and skytron energy were subsequently consolidated under the AlsoEnergy brand, and AlsoEnergy was later acquired by Shell in 2022. Support now routes through AlsoEnergy's North America support line (weekdays 8:00 AM-9:00 PM EST, weekends 11:00 AM-7:00 PM EST, per AlsoEnergy's own support page). Last Locus-era numbers (877-562-8736, 212-500-0097) are superseded and are not published here as current."
+    source: "https://home.alsoenergy.com/support"
+    hours:
+      timezone: ET
+      mon_fri: "8:00 AM - 9:00 PM"
+    last_verified: "2026-10-26"

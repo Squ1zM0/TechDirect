@@ -1,0 +1,13 @@
+id: wera-tools
+name: "Wera Tools"
+website: https://www.weratools.com
+categories: [hardware]
+aliases: []
+support:
+  - category: hardware
+    department: Customer Support
+    phone: "+18002675541"
+    country: US
+    notes: "Email orders@weratools.com. North American toll-free line, US-dialable. Hand tools."
+    source: "https://www.thomasnet.com/company/wera-tools-inc-30250717/profile"
+    last_verified: "2026-10-26"

@@ -1,0 +1,14 @@
+id: commodity-cables
+name: Commodity Cables
+website: https://commoditycables.com/
+categories: [electrical]
+aliases: ["Commodity Cables, LLC"]
+support:
+  - category: electrical
+    department: Customer Support
+    phone: "+18669455051"
+    email: sales@commoditycables.com
+    country: US
+    notes: "Commodity Cables, LLC, Suwanee, GA; structured cabling (UTP, fiber), aluminum/bare conductor line cards, coax. Toll-free line per the company's own warranty page and spec sheets; local line (770) 945-5051 also published."
+    source: "https://commoditycables.com/our-warranty/"
+    last_verified: "2026-10-26"

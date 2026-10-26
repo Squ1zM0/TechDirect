@@ -1,0 +1,12 @@
+id: proto
+name: Proto
+categories: [hardware]
+aliases: []
+support:
+  - category: hardware
+    department: Customer Support
+    phone: "+18008008665"
+    country: US
+    notes: "Stanley Black & Decker industrial brand; Conyers GA. Source publishes 'Toll Free Customer Service Number: 1-800-800-TOOL (8665)'. The general Stanley Tools number is not used as the Proto line."
+    source: "https://www.ecosia.org/search?addon=firefox&addonversion=6.3.0&q=proto%20tools%20customer%20service&sr=1&p=1"
+    last_verified: "2026-10-26"

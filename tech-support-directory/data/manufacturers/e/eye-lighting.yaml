@@ -1,0 +1,13 @@
+id: eye-lighting
+name: "Eye Lighting"
+categories:
+- electrical
+aliases: ["Eye Lighting International"]
+support:
+- category: electrical
+  department: "Customer Support"
+  phone: "+18886652677"
+  country: US
+  notes: "EYE Lighting International of North America, Mentor OH, subsidiary of Iwasaki Electric Co. Ltd. (Tokyo). Toll-free line printed in EYE catalogs; alternate (440) 350-7000. One place listing claimed the company is permanently closed; that claim is unverified and conflicts with EYE-authored materials, so it is noted here and not treated as fact. HID and LED lamps. Covers xref spellings Eye Lighting and Eye Lighting International."
+  source: "https://www.pro-ballast.ca/produits/lampes/pdf/EYE_HID_2013.pdf"
+  last_verified: "2026-10-26"

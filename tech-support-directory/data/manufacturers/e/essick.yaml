@@ -1,0 +1,13 @@
+id: essick
+name: "Essick"
+categories:
+- hvac
+aliases: []
+support:
+- category: hvac
+  department: "Customer Support"
+  phone: "+18006438341"
+  country: US
+  notes: "Essick Air Products (Champion Cooler), Little Rock AR. Legacy brand filed with its own published number, not merged into a successor. Hours 8:00 a.m.-5:00 p.m. CST Mon-Fri per a 2026 manufacturer reply. Email info@essickair.com. Evaporative coolers."
+  source: "https://www.manualsdir.com/manuals/83913/essick-air-cp-65.html"
+  last_verified: "2026-10-26"

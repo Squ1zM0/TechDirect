@@ -1,0 +1,13 @@
+id: senstar
+name: Senstar
+website: https://senstar.com
+categories: [electrical]
+aliases: []
+support:
+  - category: electrical
+    department: Customer Support
+    phone: "+16138395572"
+    country: CA
+    notes: "Senstar Corporation, Carp, Ontario, Canada (perimeter intrusion detection sensors, video management and analytics). Canadian headquarters line; no verified US support line found, so no US line is published here. Email info@senstar.com."
+    source: "https://www.thomasnet.com/company/senstar-10034693/profile"
+    last_verified: "2026-10-26"

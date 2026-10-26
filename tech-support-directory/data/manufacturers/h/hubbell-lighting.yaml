@@ -1,0 +1,16 @@
+id: hubbell-lighting
+name: Hubbell Lighting
+categories:
+- electrical
+aliases: []
+support:
+- category: electrical
+  department: Technical Support
+  phone: '+18008888006'
+  country: US
+  notes: 'LEGACY BRAND. Hubbell sold its commercial and industrial lighting business in 2022 to Current, owned by American Industrial Partners, and finished leaving lighting in 2024 by selling Progress Lighting (residential) to Kingswood Capital Management. Successor contact is Current Technical Support, hours 7am-7pm EST Mon-Fri, emails controlstech@currentlighting.com and controlsdesign@currentlighting.com. The xref parent claim Hubbell Lighting (Acuity / Hubbell) is wrong on Acuity and was not used. The old Hubbell Lighting number 864-678-1000 (2021 manual, Greenville, SC) is superseded and is not primary.'
+  source: https://cdn.currentlighting.com/image/upload/v1692808436/Site/brochure/HCS_Field_Service_Brochure.pdf
+  last_verified: '2026-10-26'
+  hours:
+    timezone: ET
+    mon_fri: '7am-7pm'

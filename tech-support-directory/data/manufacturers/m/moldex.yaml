@@ -1,0 +1,14 @@
+id: moldex
+name: Moldex
+website: https://www.moldex.com
+categories:
+- hardware
+aliases: []
+support:
+- category: hardware
+  department: Customer Support
+  phone: "+18004210668"
+  country: US
+  notes: Culver City, CA. Hearing/respiratory protection. Local 310-837-6500 ext 550 (distributors/end users), ext 512 (product questions). One older data sheet prints 800-421-2668; official contact page gives 0668; 0668 filed.
+  source: https://www.moldex.com/en-au/contact/
+  last_verified: "2026-10-26"

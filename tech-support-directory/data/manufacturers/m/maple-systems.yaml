@@ -1,0 +1,14 @@
+id: maple-systems
+name: Maple Systems
+website: https://maplesystems.com
+categories:
+- electrical
+aliases: []
+support:
+- category: electrical
+  department: Technical Support
+  phone: "+14257453229"
+  country: US
+  notes: 'Official site: ''100% free US-based technical support... calling (425) 745-3229''. Email support@maplesystems.com. HMIs, controllers.'
+  source: https://maplesystems.com/web-hmi/?_product_categories=web-hmis&_display_size=10-1&_series=cmt-series
+  last_verified: "2026-10-26"

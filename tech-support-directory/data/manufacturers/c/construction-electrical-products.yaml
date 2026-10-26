@@ -1,0 +1,15 @@
+id: construction-electrical-products
+name: Construction Electrical Products
+website: https://www.cepnow.com
+categories:
+  - electrical
+aliases:
+  - CEP
+support:
+  - category: Customer Support
+    department: Customer Support
+    phone: "+18006783470"
+    country: US
+    notes: "Temporary power distribution and portable lighting for construction/industrial markets. Livermore, CA (founded 1976); acquired by Southwire in 2020, kept as its own entry with the CEP support line per the legacy rule."
+    source: "https://mergr.com/company/construction-electrical-products"
+    last_verified: "2026-10-26"

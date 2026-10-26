@@ -1,0 +1,13 @@
+id: dap
+name: DAP
+website: https://www.dap.com
+categories: [hardware]
+aliases: ["DAP Products"]
+support:
+  - category: hardware
+    department: Technical Customer Service
+    phone: "+18883278477"
+    country: US
+    notes: "DAP Technical Customer Service Department per DAP's own product literature. Sealants, adhesives, caulks and patching products. No separate chemicals category exists in the vocabulary, so hardware is the closest. General customer service 800-543-3840 also published."
+    source: "https://mans.io/files/viewer/2056014/2"
+    last_verified: "2026-10-26"

@@ -1,0 +1,14 @@
+id: conduit-repair-systems
+name: Conduit Repair Systems
+categories: [electrical]
+aliases: ["Conduit Repair Systems, Inc.", "CRS"]
+website: https://www.conduitrepair.com/
+support:
+  - category: electrical
+    department: Customer Support
+    phone: "+18006701804"
+    email: crs@conduitrepair.com
+    country: US
+    notes: "Conduit Repair Systems, Inc., St. George, UT; split conduit and split duct products (split couplings, sweeps, repair kits, wyes) for electrical, cable TV and communications applications. Toll-free line and email per the company's own FAQ; outside-US line (435) 673-1804 also published."
+    source: "https://www.conduitrepair.com/faq/"
+    last_verified: "2026-10-26"

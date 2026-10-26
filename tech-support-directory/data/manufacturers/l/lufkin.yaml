@@ -1,0 +1,13 @@
+id: lufkin
+name: Lufkin
+website: "https://www.crescenttool.com"
+categories: [hardware]
+aliases: ["Crescent Lufkin"]
+support:
+  - category: hardware
+    department: Customer Support
+    phone: "+18006888949"
+    country: US
+    notes: "Lufkin (Crescent Lufkin) measuring tapes, rules, wheels and chalk reels; a Crescent brand of Apex Tool Group. Support routes through Apex Tool Group's Professional Division per Apex's own Crescent hand-tool warranty document (Crescent Tools direct line (800) 650-8665 also published in a Thomasnet profile). Hardware category per the milwaukee-tool.yaml precedent for tool brands."
+    source: "https://www.toolweb.com/media/amasty/amfile/attach/Warranties/ApexToolGroupWarranty.pdf"
+    last_verified: "2026-10-26"

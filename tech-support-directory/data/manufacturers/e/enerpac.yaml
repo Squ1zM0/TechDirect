@@ -1,0 +1,13 @@
+id: enerpac
+name: "Enerpac"
+categories:
+- hardware
+aliases: []
+support:
+- category: hardware
+  department: "Technical Support"
+  phone: "+18005580530"
+  country: US
+  notes: "Enerpac Tool Group. Distributor listing labels this line as the technical support contact (option 2). Email info@enerpac.com. Hydraulic tools and equipment; hardware is the closest vocabulary term."
+  source: "https://www.mrosupply.com/hydraulics-and-pneumatics/5945938_cdt-40251_enerpac/"
+  last_verified: "2026-10-26"

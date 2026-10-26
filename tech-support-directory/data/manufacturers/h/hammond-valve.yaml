@@ -1,0 +1,13 @@
+id: hammond-valve
+name: 'Hammond Valve'
+categories:
+- valves
+aliases: []
+support:
+- category: valves
+  department: 'Customer Support'
+  phone: '+12624322700'
+  country: US
+  notes: 'Milwaukee Valve Company DBA Hammond Valve per its CRN summary. Toll-free 800-348-6544 also published. New Berlin, WI. Separate company from Hammond Manufacturing and from the existing hammond-power-solutions file.'
+  source: 'https://www.hammondvalve.com/wp-content/uploads/rubber_lined_butterfly_valves_used_with_thermoplastic_flanges.pdf'
+  last_verified: '2026-10-26'

@@ -1,0 +1,12 @@
+id: swanstone
+name: "Swanstone"
+categories: [bathroom-systems]
+aliases: ["Swan"]
+support:
+  - category: bathroom-systems
+    department: Customer Support
+    phone: "+18003257008"
+    country: US
+    notes: "Swanstone solid surface shower and bath products; The Swan Corporation, St. Louis MO. Swan Customer Service line; email help@swanstone.com."
+    source: "https://res.cloudinary.com/american-bath-group/image/upload/fl_attachment:swanstone-repair-instruction-sheet/v1696955504/websites-product-info-and-content/swan/content/pros-corner/resources/swanstone-repair-instruction-sheet.pdf"
+    last_verified: "2026-10-26"

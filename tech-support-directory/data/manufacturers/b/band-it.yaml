@@ -1,0 +1,12 @@
+id: band-it
+name: BAND-IT
+categories: [electrical]
+aliases: ["Band-It", "BAND-IT IDEX"]
+support:
+  - category: electrical
+    department: Customer Support
+    phone: "+18005250758"
+    country: US
+    notes: "Stainless-steel banding, clamps, cable ties and tools for utility/telecom/data-center cable management, Denver CO; an IDEX Corporation brand. US line published on band-it-idex.com; local line 303-320-4555 also published."
+    source: "https://www.band-it-idex.com/products/banding-systems/tie-dex/"
+    last_verified: "2026-10-26"

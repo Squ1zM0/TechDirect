@@ -1,0 +1,17 @@
+id: kendall-howard
+name: Kendall Howard LLC
+website: https://www.kendallhoward.com/
+categories:
+- electrical
+aliases: []
+support:
+- category: electrical
+  department: Customer Support
+  phone: '+16512131333'
+  country: US
+  notes: "Racks and enclosures; Chisago City, MN, 10152 Liberty Lane, 55013. Email customerservice@kendallhoward.com."
+  source: https://www.kendallhoward.com/download/8u-and-12u-side-load-wall-mount-rack-instructions/
+  last_verified: '2026-10-26'
+  hours:
+    timezone: "CT"
+    mon_fri: "8:00 AM - 5:00 PM"

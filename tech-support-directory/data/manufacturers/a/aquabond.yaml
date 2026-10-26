@@ -1,0 +1,12 @@
+id: aquabond
+name: AquaBond
+categories: [plumbing]
+aliases: ["AquaBond, LLC"]
+support:
+  - category: plumbing
+    department: Customer Support
+    phone: "+17149611420"
+    country: US
+    notes: "Underwater epoxy repair adhesives for pools, spas and fountains (UW-5000/UW-5200). Line published in AquaBond, LLC's own MSDS. Distinct from AquaBond Technologies (water-soluble optical adhesives, Camarillo CA), a different company."
+    source: "http://www.poolwater.com/msds/all/Aqua Bond - AB1000A.pdf"
+    last_verified: "2026-10-26"

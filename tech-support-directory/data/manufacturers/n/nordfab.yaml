@@ -1,0 +1,13 @@
+id: nordfab
+name: Nordfab
+website: https://www.nordfab.com/en-us/about-us/become-a-dealer
+categories: [airflow]
+aliases: ["Nordfab Ducting"]
+support:
+  - category: airflow
+    department: Customer Support
+    phone: "+18005320830"
+    country: US
+    notes: "Nordfab Ducting, Thomasville NC; Quick-Fit clamp-together ducting; official dealer page says 'calling 800-532-0830'."
+    source: "https://www.nordfab.com/en-us/about-us/become-a-dealer"
+    last_verified: "2026-10-26"

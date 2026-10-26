@@ -1,0 +1,15 @@
+id: kearney
+name: Kearney
+website: https://www.eaton.com/us/en-us/catalog/medium-voltage-power-distribution-control-systems/hi-line-equipment-and-tools.html
+categories:
+- electrical
+aliases:
+- Kearney/Cooper Power (Tools)
+support:
+- category: electrical
+  department: Technical Support
+  phone: '+18773862273'
+  country: US
+  notes: "LEGACY BRAND, OWN FILE: Kearney line, founded 1926 by James R. Kearney, became part of Cooper Power Systems in 1997, now Eaton's Cooper Power series (Hi-Line tools, distribution connectors). Filed with the successor Eaton Cooper Power series technical support number from the existing Eaton file (option 5, option 5)."
+  source: https://eaton.my.site.com/publicknowledge/s/article/How-do-I-contact-Eaton-for-technical-support
+  last_verified: '2026-10-26'

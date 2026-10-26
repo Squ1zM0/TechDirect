@@ -1,0 +1,14 @@
+id: clynder-cables
+name: Clynder Cables
+website: https://clyndercables.co.uk/
+categories: [electrical]
+aliases: ["Clynder Cables Ltd"]
+support:
+  - category: electrical
+    department: Customer Support
+    phone: "+441616299333"
+    email: sales@clyndercables.co.uk
+    country: GB
+    notes: "Clynder Cables Ltd, Manchester, UK; British-made industrial electrical cables including Tri-rated cable (UL/CSA accredited). No US support line found; the UK line is recorded with its actual country code per batch rules, never replaced with an invented US line."
+    source: "https://clyndercables.co.uk/wp-content/uploads/2018/07/71fa91ad-clynder-custom.pdf"
+    last_verified: "2026-10-26"

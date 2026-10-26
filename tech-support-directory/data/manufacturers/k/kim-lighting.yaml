@@ -1,0 +1,16 @@
+id: kim-lighting
+name: Kim Lighting
+website: https://www.kimlighting.com/
+categories:
+- electrical
+aliases:
+- Kim
+- Kim Lighting (Current)
+support:
+- category: electrical
+  department: Customer Support
+  phone: '+16269685666'
+  country: US
+  notes: "Outdoor lighting; 16555 East Gale Avenue, City of Industry, CA 91745. Now part of Current Lighting (formerly Hubbell Lighting) per the xref parents; manufacturer documents hosted on hubbellcdn.com. No acquisition date asserted (unverified)."
+  source: https://hubbellcdn.com/literature/kim_qs_guide.pdf
+  last_verified: '2026-10-26'

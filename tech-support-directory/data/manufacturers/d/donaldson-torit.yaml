@@ -1,0 +1,13 @@
+id: donaldson-torit
+name: Donaldson Torit
+website: https://www.donaldson.com/en-us/industrial-dust-fume-mist/
+categories: [airflow]
+aliases: ["Donaldson Torit"]
+support:
+  - category: airflow
+    department: Customer Support
+    phone: "+18003651331"
+    country: US
+    notes: "Donaldson Torit (Donaldson Company, Inc., Bloomington, MN) industrial dust, fume and mist collection. Toll-free industrial filtration line from Donaldson's own case study page."
+    source: "https://www.donaldson.com/en-us/industrial-dust-fume-mist/case-studies/abrasive-dust-challenge-solved-millwork/"
+    last_verified: "2026-10-26"

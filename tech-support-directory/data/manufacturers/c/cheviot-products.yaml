@@ -1,0 +1,13 @@
+id: cheviot-products
+name: Cheviot Products
+website: https://cheviotproducts.com/
+categories: [bathroom-systems]
+support:
+  - category: bathroom-systems
+    department: Customer Support
+    phone: "+18004445969"
+    country: US
+    email: customerservice@cheviotproducts.com
+    notes: "Cheviot Products; luxury bathroom fixtures (cast iron bathtubs, sinks, faucets). US address Blaine, WA and Canadian address Port Coquitlam, BC; toll-free 1-800-444-5969 published on cheviotproducts.com. Local line (604) 464-8966 also published."
+    source: "https://cheviotproducts.com/blogs/news/tasteful-simple-updates-for-an-outdated-bathroom"
+    last_verified: "2026-10-26"

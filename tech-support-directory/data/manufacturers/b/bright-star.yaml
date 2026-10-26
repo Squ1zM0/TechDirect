@@ -1,0 +1,16 @@
+id: bright-star
+name: Bright Star
+website: https://www.koehlerlighting.com
+categories: [electrical]
+aliases: ["Koehler-Bright Star", "Bright Star Lighting", "Koehler BrightStar"]
+support:
+  - category: electrical
+    department: Customer Support
+    phone: "+18007881696"
+    country: US
+    notes: "Koehler-Bright Star, Hanover Township, PA, maker of flashlights, lanterns and headlamps for mining, marine, industrial and fire service. Hours Mon-Fri 9 AM-5 PM ET per the recall notice. Local line 717-825-1900 also listed. Category mapped from portable/industrial lighting to electrical."
+    source: "https://healthycanadians.gc.ca/recall-alert-rappel-avis/hc-sc/2018/67368r-eng.php"
+    last_verified: "2026-10-26"
+    hours:
+      timezone: "ET"
+      mon_fri: "9:00 AM - 5:00 PM"

@@ -1,0 +1,16 @@
+id: lg-electronics
+name: LG Electronics
+categories: [hvac]
+aliases: ["LG"]
+support:
+  - category: hvac
+    department: Customer Support
+    phone: "+18002430000"
+    country: US
+    notes: "LG Electronics USA general customer service (appliances, HVAC, consumer electronics). Distinct from the existing LG HVAC division file (lg-hvac) and LG ThinQ HVAC Controls file; this is the parent LG Electronics support route. Hours Mon-Sun 8:00am-9:00pm ET per lg.com."
+    source: "https://www.lg.com/us/support/contact"
+    last_verified: "2026-10-26"
+    hours:
+      timezone: "ET"
+      mon_fri: "8:00 AM - 9:00 PM"
+      sat: "8:00 AM - 9:00 PM"

@@ -1,0 +1,13 @@
+id: murray-feiss-lighting
+name: Murray Feiss Lighting
+website: https://www.generationlighting.com/
+categories: [electrical]
+aliases: ["Feiss", "Murray Feiss"]
+support:
+  - category: electrical
+    department: Customer Support
+    phone: "+18474104400"
+    country: US
+    notes: "Legacy brand: Murray Feiss (Feiss Lighting) is now sold as Generation Lighting (Feiss + Sea Gull + Monte Carlo heritage), a Visual Comfort & Co. brand, Skokie IL (7400 Linder Ave). Support via Generation Lighting. Old Feiss numbers from the 2009 supplement (800-969-3347 sales, 718-292-2024) are superseded and not used."
+    source: "https://www.generationlighting.com/Downloads/InstructionSheets?brand=Feiss&filepath=LUNE-TABLELAMP.pdf"
+    last_verified: "2026-10-26"

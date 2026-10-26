@@ -1,0 +1,16 @@
+id: dreamscape-lighting
+name: Dreamscape Lighting Manufacturing
+website: https://www.dreamscapelighting.com
+categories: [electrical]
+aliases: ["Dreamscape Lighting Mfg.", "DREAMSCAPE LIGHTING MFG"]
+support:
+  - category: electrical
+    department: Customer Support
+    phone: "+13239335760"
+    country: US
+    notes: "Dreamscape Lighting Manufacturing, Inc. (Los Angeles, CA, founded 1997) architectural lighting. Company line from BBB/Blue Book listings; email info@dreamscapelighting.com. Distinct from Dreamscape Lighting Concepts (Princeton, TX landscape contractor)."
+    source: "https://www.bbb.org/us/ca/los-angeles/profile/retail-light-fixtures/dreamscape-lighting-manufacturing-inc-1216-13141603"
+    last_verified: "2026-10-26"
+    hours:
+      timezone: "PT"
+      mon_fri: "10:00 AM - 4:00 PM"

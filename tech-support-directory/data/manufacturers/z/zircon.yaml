@@ -1,0 +1,16 @@
+id: zircon
+name: "Zircon Corporation"
+website: https://www.zircon.com
+categories: [hardware]
+aliases: ["Zircon"]
+support:
+  - category: hardware
+    department: Customer Support
+    phone: "+18002459265"
+    country: US
+    notes: "Campbell CA. Email info@zircon.com; local 408-963-4550 also published. Hours Mon-Fri 8am-5pm PT. Stud finders/measuring tools; closest vocabulary term: hardware. Wholly owned subsidiary of ZRCN Inc. Do NOT conflate with the batch row ZRC Worldwide (separate file, separate company)."
+    source: "https://www.zircon.com/cdn/shop/files/73574.pdf?v=6997230019362216501"
+    last_verified: "2026-10-26"
+    hours:
+      timezone: "PT"
+      mon_fri: "8:00 AM - 5:00 PM"

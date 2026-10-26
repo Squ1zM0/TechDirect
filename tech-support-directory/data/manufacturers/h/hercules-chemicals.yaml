@@ -1,0 +1,14 @@
+id: hercules-chemicals
+name: Hercules Chemical Company
+categories:
+- plumbing
+aliases:
+- Hercules Chemicals
+support:
+- category: plumbing
+  department: Customer Support
+  phone: '+18002219330'
+  country: US
+  notes: 'MSDS Information Telephone (source label); listed as Customer Support because the source does not label it technical. CONFLICT FLAGGED, NOT RESOLVED: CPID lists Hercules Chemical Co. at 20600 Emerald Parkway, Cleveland, OH (the Oatey HQ address) with oatey.com and numbers 216-267-7100, 800-321-9535 and 800-321-9532, while other listings give Passaic, NJ 973-778-5000 and herchem.com. The Oatey association is unverified for support routing, so the MSDS information telephone is used as primary.'
+  source: https://pimmedia.winsupplyinc.com/pim/MSDS/092017/HERCULES-CHEMICAL-COMPANY_40601_170712177_MSDS.pdf
+  last_verified: '2026-10-26'

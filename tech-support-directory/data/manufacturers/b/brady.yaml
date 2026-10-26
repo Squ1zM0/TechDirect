@@ -1,0 +1,16 @@
+id: brady
+name: Brady Corporation
+website: https://www.bradyid.com
+categories: [hardware]
+aliases: ["Brady", "Brady Corp", "Brady Worldwide"]
+support:
+  - category: hardware
+    department: Technical Support
+    phone: "+18006438766"
+    country: US
+    notes: "Brady Technical Support for labels, signs, printers and safety products; email tech_support@bradycorp.com. General customer support also published at 888-250-3082. Covers xref variants Brady, BRADY CORP, Brady Corporation and Brady Worldwide. Category mapping: safety identification has no dedicated vocabulary term; hardware is the closest."
+    source: "https://d37iyw84027v1q.cloudfront.net/Common/Brady360_Benchtop_Agreement_v1_3.pdf"
+    last_verified: "2026-10-26"
+    hours:
+      timezone: "CT"
+      mon_fri: "7:00 AM - 7:00 PM"

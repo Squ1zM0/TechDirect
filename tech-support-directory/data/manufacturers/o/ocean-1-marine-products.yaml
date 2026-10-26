@@ -1,0 +1,15 @@
+id: ocean-1-marine-products
+name: Ocean-1 Marine Products
+categories: [electrical]
+aliases: ["Ocean 1 Marine Products"]
+support:
+  - category: electrical
+    department: Customer Support
+    phone: "+17134600649"
+    country: US
+    notes: "Ocean-1 Marine Products, Ltd., Houston TX (est. 2004); marine/offshore cable tray, lighting systems and fixtures, connectors. Address conflicts across directories: Thomasnet lists Houston 77032, a place listing gives 2121 Brittmoore Rd #5000, Houston 77043 (source of this number), and LeadIQ lists 3340 Greens Rd - number is from the Brittmoore place listing for the same-named Houston company. Distinct from Ocean 1 Yachts (Sarasota FL)."
+    source: "https://usa-stores.worldorgs.com/catalog/houston/marine-supply-store/ocean-1-marine-products"
+    last_verified: "2026-10-26"
+    hours:
+      timezone: "CT"
+      mon_fri: "8:00 AM - 5:00 PM"

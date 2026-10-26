@@ -1,0 +1,15 @@
+id: impacto
+name: Impacto Protective Products
+website: https://www.impacto.ca/
+categories:
+- hardware
+aliases:
+- Impacto
+support:
+- category: hardware
+  department: Customer Support
+  phone: '+18882320031'
+  country: US
+  notes: 'Impacto Protective Products Inc., Belleville, ON, Canada. Published line is the North America toll-free number, so country is recorded as US with this note; Canadian local 613-966-0062 also published. Email impacto@impacto.ca. PPE and body protection, anti-impact gloves; no safety or PPE term in the category vocabulary, so hardware is used as the closest term.'
+  source: https://www.impacto.ca/uploads/821-20.pdf
+  last_verified: '2026-10-26'

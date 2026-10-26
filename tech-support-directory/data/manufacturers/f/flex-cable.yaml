@@ -1,0 +1,14 @@
+id: flex-cable
+name: "Flex-Cable"
+website: "https://www.flexcable.com/aboutus"
+categories:
+- electrical
+aliases: []
+support:
+- category: electrical
+  department: "Customer Support"
+  phone: "+12319378000"
+  country: US
+  notes: "Flex-Cable, manufacturing HQ 5822 N Henkel Rd, Howard City, MI 49329; corporate HQ Birmingham MI 248-203-2200. Founded 1941; custom copper cable and resistance welding supplies for automotive, defense, manufacturing, automation, and robotics. Part of Northern Cable and Automation Company, LLC. NOT FLEXA (German cable protection), a different company."
+  source: "https://www.flexcable.com/aboutus"
+  last_verified: "2026-10-26"

@@ -1,0 +1,15 @@
+id: national-hardware
+name: National Hardware
+categories: [hardware]
+aliases: ["Stanley National Hardware"]
+support:
+  - category: hardware
+    department: Customer Support
+    phone: "+18002622161"
+    country: US
+    notes: "National Hardware (Stanley National Hardware), a Stanley (Stanley Black & Decker) hardware brand. Stanley Tools US Customer Support hours Mon-Fri 8am-6pm EST per Stanley help-center text."
+    source: "https://www.newegg.com/stanley-hardware-112102/p/N82E16803004896?"
+    last_verified: "2026-10-26"
+    hours:
+      timezone: "ET"
+      mon_fri: "8:00 AM - 6:00 PM"

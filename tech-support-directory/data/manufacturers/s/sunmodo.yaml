@@ -1,0 +1,16 @@
+id: sunmodo
+name: "SunModo"
+website: "https://sunmodo.com/product/ez-corrugated-metal-mount-kit/"
+categories: [electrical]
+aliases: []
+support:
+  - category: electrical
+    department: Customer Support
+    phone: "+13608440048"
+    country: US
+    notes: "SunModo solar racking and mounting, Vancouver WA. Email info@sunmodo.com."
+    source: "https://sunmodo.com/product/ez-corrugated-metal-mount-kit/"
+    last_verified: "2026-10-26"
+    hours:
+      timezone: "PT"
+      mon_fri: "8:00 AM - 5:00 PM"

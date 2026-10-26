@@ -1,0 +1,13 @@
+id: gripple
+name: 'Gripple'
+categories:
+- hardware
+aliases: []
+support:
+- category: hardware
+  department: 'Technical Support'
+  phone: '+16304060600'
+  country: US
+  notes: 'Official site states its expert team offers technical support at this number. Email contactinc@gripple.com. Fasteners and anchors, so hardware is the closest vocabulary term.'
+  source: 'https://www.gripple.com/en-us/products/accessories/acoustic-spring-anchors/'
+  last_verified: '2026-10-26'

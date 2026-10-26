@@ -1,0 +1,14 @@
+id: mobern
+name: Mobern Lighting
+website: https://www.mobern.com
+categories:
+- electrical
+aliases: []
+support:
+- category: electrical
+  department: Customer Support
+  phone: "+18004449288"
+  country: US
+  notes: 'Commercial lighting since 1944. Catalog: ''800-444-WATT (9288)'', Carrollton, TX. Jessup, MD HQ local (301) 953-2960 as alternate; Carrollton office 2055 Luna Rd.'
+  source: https://mobern.com/storage/1279/6426ec40df074_Mobern-1-LED.pdf
+  last_verified: "2026-10-26"

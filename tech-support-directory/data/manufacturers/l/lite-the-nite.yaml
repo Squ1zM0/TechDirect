@@ -1,0 +1,16 @@
+id: lite-the-nite
+name: Lite The Nite
+website: "https://www.litethenite.com/"
+categories: [electrical]
+aliases: ["LTN LEDs"]
+support:
+  - category: electrical
+    department: Customer Support
+    phone: "+18474965276"
+    country: US
+    notes: "Lite the Nite, Cary, IL (188 S Northwest Hwy Ste 201); manufacturer of low-voltage landscape lighting power supplies, LEDs and accessories, founded 2015; also trades as LTN LEDs (ltnleds.com); trademark owned by R2T, LLC. Phone from a place/directory listing for the Cary address and litethenite.com; the company's own homepage was fetched and shows no phone, so the listing number is published with that caveat. Hours Mon-Fri 9:00 AM-5:00 PM CT per the same listing."
+    source: "https://www.litethenite.com/"
+    hours:
+      timezone: CT
+      mon_fri: "9:00 AM - 5:00 PM"
+    last_verified: "2026-10-26"

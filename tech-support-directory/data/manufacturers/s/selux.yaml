@@ -1,0 +1,15 @@
+id: selux
+name: Selux
+website: https://selux.us/
+categories:
+- electrical
+aliases:
+- SELUX CORP
+support:
+- category: electrical
+  department: Customer Support
+  phone: '+18007358927'
+  country: US
+  notes: Selux Corporation, 5 Lumen Lane, P.O. Box 1060, Highland, NY 12528. selux.us@selux.com; local 845-834-1400. German parent Selux AG, Berlin; US facility in Highland, NY since 1983. Lighting fixtures.
+  source: 'Selux 2024 product guide (selux.us PDF: (800) 735-8927)'
+  last_verified: '2026-10-26'

@@ -1,0 +1,18 @@
+id: micro-switch
+name: MICRO SWITCH (Honeywell Sensing Solutions)
+website: https://sps.honeywell.com/us/en/products/sensing-and-iot
+categories:
+- electrical
+aliases:
+- Micro Switch
+support:
+- category: electrical
+  department: Technical Support
+  phone: "+18005376945"
+  country: US
+  notes: Trade name of Honeywell Sensing and Control (Freeport, IL per Electrol). Snap-action basic switches, limit switches. Email sensing.americas@honeywell.com. Older Honeywell sensing line 815-235-6847 noted as alternate; Electrol distributor 800-663-6576 NOT used. No honeywell file exists in TechDirect, so own file (not PARENT-RESOLVED).
+  source: https://sps-support.honeywell.com/s/article/AST-Looking-for-a-Price-Quote-and-Lead-Time-for-a-Honeywell-Advanced-Sensing-Technologies-sensor-or-switch
+  last_verified: "2026-10-26"
+  hours:
+    timezone: CT
+    mon_fri: 7:30 AM - 4:30 PM

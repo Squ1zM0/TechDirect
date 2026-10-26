@@ -1,0 +1,13 @@
+id: aiphone
+name: Aiphone
+website: https://www.aiphone.com/support/
+categories: [electrical]
+aliases: ["Aiphone Communication Systems"]
+support:
+  - category: electrical
+    department: Technical Support
+    phone: "+18006920200"
+    country: US
+    notes: "Toll-free technical support published in Aiphone installation manuals and on Aiphone's support site. General office (425) 455-0510, Bellevue WA; tech email tech@aiphone.com per manuals."
+    source: "https://www.aiphone.com/support/"
+    last_verified: "2026-10-26"

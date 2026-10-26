@@ -1,0 +1,12 @@
+id: stella-jones
+name: "Stella-Jones"
+categories: [electrical]
+aliases: ["Stella Jones"]
+support:
+  - category: electrical
+    department: Customer Support
+    phone: "+18004268430"
+    country: US
+    notes: "Stella-Jones Inc wood utility poles and treated wood. US plant line per the woodpoles.org pole-supplier directory. Headquarters in Montreal, Canada."
+    source: "https://woodpoles.org/Supply/Pole-Suppliers/"
+    last_verified: "2026-10-26"

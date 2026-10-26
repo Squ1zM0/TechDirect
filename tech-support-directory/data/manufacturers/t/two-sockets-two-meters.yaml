@@ -1,0 +1,18 @@
+id: two-sockets-two-meters
+name: Two Sockets - Two Meters
+website: https://www.ts-tm.com/
+categories:
+- electrical
+aliases:
+- TSTM
+support:
+- category: electrical
+  department: Customer Support
+  phone: '+16053342924'
+  country: US
+  notes: 'Two Sockets - Two Meters, Inc. (TSTM, Inc.), 2900 Sencore Drive Suite 100, Sioux Falls, SD 57107;
+    Fax (605) 334-4713. Hours Mon-Fri 07:00-17:00 (timezone not stated in source). Meter sockets, VT Pack
+    voltage-transformer assemblies, wiring harnesses for 480V metering. Note: the TS-SCH-1 meter socket
+    itself is manufactured by Milbank for TSTM; this file is not resolved to Milbank.'
+  source: https://www.ts-tm.com/products/terminal-transformer-rated-meter-socket-ts-pts-13-2
+  last_verified: '2026-10-26'

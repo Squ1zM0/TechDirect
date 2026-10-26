@@ -1,0 +1,13 @@
+id: quietcool
+name: QuietCool
+website: https://quietcoolsystems.com/trident-pro-x-whole-house-fan-support/
+categories: [airflow]
+aliases: ["QuietCool Manufacturing"]
+support:
+  - category: airflow
+    department: Technical Support
+    phone: "+18887843826"
+    country: US
+    notes: "Whole-house and attic fans; support pages label this Tech Support. An older number also appears on legacy wholehousefan.com pages; the current quietcoolsystems.com number is used."
+    source: "https://quietcoolsystems.com/trident-pro-x-whole-house-fan-support/"
+    last_verified: "2026-10-26"

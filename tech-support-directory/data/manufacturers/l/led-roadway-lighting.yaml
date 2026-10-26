@@ -1,0 +1,12 @@
+id: led-roadway-lighting
+name: LED Roadway Lighting
+categories: [electrical]
+aliases: ["LED Roadway Ltg"]
+support:
+  - category: electrical
+    department: Customer Support
+    phone: "+19024502222"
+    country: CA
+    notes: "LED Roadway Lighting Ltd., Halifax, NS, Canada; LED streetlights and adaptive control solutions. Canadian line only; no US line found, so the Canadian number is published with its actual country code per program rules."
+    source: "http://www.ledroadwaylighting.com/"
+    last_verified: "2026-10-26"

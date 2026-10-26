@@ -1,0 +1,14 @@
+id: kanthal
+name: Kanthal
+website: https://www.kanthal.com/
+categories:
+- electrical
+aliases: []
+support:
+- category: electrical
+  department: Customer Support
+  phone: '+12037028300'
+  country: US
+  notes: "Heating elements and wire; Kanthal Corp., Bethel, CT. Kanthal brand of Sandvik Materials Technology per a trade FAQ. Kanthal Globar Niagara Falls 716-286-7600 and Kanthal Thermal Process Concord, NC 704-784-3001 also published. Sandvik Thermal Process rebranded as Kanthal 2021-01-01. No Alleima parent asserted (unverified)."
+  source: https://www.newequipment.com/product-directory/process-equipment/heating-equipment/product/55414155/kanthal-heating-technology-flow-heater-generation-3-process-gas-heater-reaches-2012f
+  last_verified: '2026-10-26'

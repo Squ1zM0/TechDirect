@@ -1,0 +1,13 @@
+id: superior-glove
+name: "Superior Glove"
+website: "https://www.superiorglove.com/"
+categories: [hardware]
+aliases: ["Superior Glove Works"]
+support:
+  - category: hardware
+    department: Customer Support
+    phone: "+18002657617"
+    country: US
+    notes: "Superior Glove Works work gloves and PPE. Canadian company (Acton ON) with a US factory/warehouse in Buffalo NY; North America toll-free line. Email customerservice@superiorglove.com."
+    source: "https://safetysourcellc.com/product_images/PDF/productattachments_files_KPW_SS_1_.pdf"
+    last_verified: "2026-10-26"

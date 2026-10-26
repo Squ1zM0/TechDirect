@@ -1,0 +1,16 @@
+id: newell-brands
+name: Newell Brands
+website: https://www.newellbrands.com
+categories: [hardware]
+aliases: ["Newell", "Newell Rubbermaid"]
+support:
+  - category: hardware
+    department: Customer Support
+    phone: "+17704187000"
+    country: US
+    notes: "Newell Brands Inc., Atlanta GA (6655 Peachtree Dunwoody Rd); Rubbermaid is a Newell Brands brand; email consumer.inquiries@newellco.com per Elliott.org (updated Oct 2025). The 800-424-1941 figure on an aggregator page is uncorroborated and not used. NOT Newell-PSN (different company - porcelain insulators, Power Grid Components)."
+    source: "https://www.elliott.org/company-contacts/newell-brands-customer-service-contacts/"
+    last_verified: "2026-10-26"
+    hours:
+      timezone: "ET"
+      mon_fri: "9:00 AM - 5:00 PM"

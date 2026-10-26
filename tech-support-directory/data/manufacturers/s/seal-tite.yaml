@@ -1,0 +1,15 @@
+id: seal-tite
+name: Seal-Tite
+website: https://sealtitehvac.com/
+categories:
+- airflow
+aliases: []
+support:
+- category: airflow
+  department: Customer Support
+  phone: '+19373934268'
+  country: US
+  notes: 'Seal-Tite, 120 Moore Rd, Hillsboro, OH 45133. Air distribution systems: galvanized duct, pipe and fittings. Not Seal-Tite Plumbing Co. (Boynton Beach, FL) and not Seal-Tite International (petroleum,
+    Madisonville, LA).'
+  source: place data and Firmania/Superpages listings (sealtitehvac.com)
+  last_verified: '2026-10-26'

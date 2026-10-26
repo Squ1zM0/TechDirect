@@ -1,0 +1,17 @@
+id: first-aid-only
+name: "First Aid Only"
+website: "http://firstaidonly.com/pages/contact"
+categories:
+- hardware
+aliases: []
+support:
+- category: hardware
+  department: "Customer Support"
+  phone: "+18008352263"
+  country: US
+  notes: "First Aid Only, Acme United Corporation, 1 Waterview Drive Suite 200, Shelton, CT 06484. Official contact page lists this number, Mon-Fri 8:00 am-5:00 pm EST; email orders@firstaidonly.com. Orders line 800-886-6659 printed on First Aid Only sell sheets, noted as alternate. Parent Acme United Corporation. First-aid kits and safety; hardware is the closest vocabulary term. Do NOT use the first-aid-product.com retailer numbers."
+  source: "http://firstaidonly.com/pages/contact"
+  last_verified: "2026-10-26"
+  hours:
+    timezone: "ET"
+    mon_fri: "8:00 AM - 5:00 PM"

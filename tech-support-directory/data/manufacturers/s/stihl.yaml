@@ -1,0 +1,13 @@
+id: stihl
+name: "STIHL"
+website: "https://www.stihlusa.com/en/support-events/frequently-asked-questions/general"
+categories: [hardware]
+aliases: []
+support:
+  - category: hardware
+    department: Customer Support
+    phone: "+18004678445"
+    country: US
+    notes: "STIHL outdoor power equipment. STIHL Customer Service line per the official FAQ. Xref category Tools mapped to hardware (no tools term in the vocabulary)."
+    source: "https://www.stihlusa.com/en/support-events/frequently-asked-questions/general"
+    last_verified: "2026-10-26"

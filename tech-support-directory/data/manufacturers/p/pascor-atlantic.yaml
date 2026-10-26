@@ -1,0 +1,13 @@
+id: pascor-atlantic
+name: Pascor Atlantic
+website: http://www.pascoratlantic.com/
+categories: [electrical]
+aliases: ["Pascor Atlantic Corporation"]
+support:
+  - category: electrical
+    department: Customer Support
+    phone: "+12766883328"
+    country: US
+    notes: "Pascor Atlantic Corporation, Bland, VA (254 Industry Drive / State Route 42). General company phone published in Pascor Atlantic brochures and business listings; not labelled technical support, so recorded as Customer Support. Covers xref brand Pascor Atlantic only; distinct from Pascor (Pacific Air Switch Corporation, Forest Grove, OR), which has its own file in this batch. Air switches, parts, service, upgrades and retrofits."
+    source: "http://www.pascoratlantic.com/"
+    last_verified: "2026-10-26"

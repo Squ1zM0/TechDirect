@@ -1,0 +1,13 @@
+id: te-connectivity
+name: "TE Connectivity"
+website: "https://www.te.com/en/private/application-tooling/america-field-service-request.html"
+categories: [electrical]
+aliases: ["Tyco Electronics"]
+support:
+  - category: electrical
+    department: Technical Support
+    phone: "+18007221111"
+    country: US
+    notes: "TE Connectivity application tooling support (Tooling Assistance Center, North America): hand tools, applicators, terminators and heat shrink machines. No single general product support number was verified on te.com; general product support is via te.com contact. Formerly Tyco Electronics."
+    source: "https://www.te.com/en/private/application-tooling/america-field-service-request.html"
+    last_verified: "2026-10-26"

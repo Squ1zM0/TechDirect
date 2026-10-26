@@ -1,0 +1,12 @@
+id: basler-electric
+name: Basler Electric
+categories: [electrical]
+aliases: ["Basler"]
+support:
+  - category: electrical
+    department: Technical Support
+    phone: "+16186542341"
+    country: US
+    notes: "Power-system protection, excitation and generator controls, Highland IL (founded 1942); now part of Littelfuse per Basler's support pages. 24/7 technical support line published on basler.com."
+    source: "https://www.basler.com/24-7-technical-support/"
+    last_verified: "2026-10-26"

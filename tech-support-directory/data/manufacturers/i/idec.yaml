@@ -1,0 +1,16 @@
+id: idec
+name: IDEC Corporation
+website: https://www.idec.com/
+categories:
+- electrical
+aliases:
+- Idec
+- IDEC CORP
+support:
+- category: electrical
+  department: Customer Support
+  phone: '+18002624332'
+  country: US
+  notes: 'IDEC Corporation USA, Carlsbad, CA. Number published as 1-800-262-IDEC; listed on idec.com pages as the general IDEC USA contact, not tech-labelled, so it is listed as Customer Support. Controls, relays, switches, timers. The Idec Relays row parent-resolves to this file.'
+  source: https://www.idec.com/en-us/industrial-components/relays-timers/relays
+  last_verified: '2026-10-26'

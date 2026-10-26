@@ -1,0 +1,13 @@
+id: tellabs
+name: "Tellabs"
+website: "https://tellabs.com/about/contact/"
+categories: [electrical]
+aliases: []
+support:
+  - category: electrical
+    department: Technical Support
+    phone: "+18006902324"
+    country: US
+    notes: "Tellabs telecom networking. North America toll-free line; Option 1 Technical Support staffed 24x7; Option 6 RMA/warranty."
+    source: "https://tellabs.com/about/contact/"
+    last_verified: "2026-10-26"

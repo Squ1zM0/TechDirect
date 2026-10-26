@@ -1,0 +1,13 @@
+id: visual-lighting-technologies
+name: "Visual Lighting Technologies"
+website: https://vltcorp.com
+categories: [electrical]
+aliases: ["VLT"]
+support:
+  - category: electrical
+    department: Customer Support
+    phone: "+15125938700"
+    country: US
+    notes: "Pompano Beach FL. Email info@vltcorp.com. Older numbers from Cedar Park TX and Lake Forest CA appear in older docs."
+    source: "https://vltcorp.com/about-us/"
+    last_verified: "2026-10-26"

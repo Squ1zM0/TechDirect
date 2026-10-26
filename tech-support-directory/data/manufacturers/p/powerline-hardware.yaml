@@ -1,0 +1,13 @@
+id: powerline-hardware
+name: Powerline Hardware
+website: http://www.powerlinehardware.com/
+categories: [electrical]
+aliases: []
+support:
+  - category: electrical
+    department: Customer Support
+    phone: "+19042889880"
+    country: US
+    notes: "Jacksonville FL pole-line hardware manufacturer, founded 1989. Number corroborated by ContactOut and RocketReach listings. Official site was not text-accessible in this pass, so the source is the corroborating directory listing. A conflicting place-listing number matches a fax number in another listing and was not used."
+    source: "https://www.crunchbase.com/organization/powerline-hardware"
+    last_verified: "2026-10-26"

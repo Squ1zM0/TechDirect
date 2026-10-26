@@ -1,0 +1,13 @@
+id: thermwell-products
+name: "Thermwell Products"
+website: "https://thermwell.com/news/frost_king_house_davey_award"
+categories: [hardware]
+aliases: ["Frost King"]
+support:
+  - category: hardware
+    department: Customer Support
+    phone: "+12016844400"
+    country: US
+    notes: "Thermwell Products, Mahwah NJ (420 Rt 17 South). Frost King is Thermwell's brand. Xref category pipe insulation mapped to hardware (no insulation term in the vocabulary)."
+    source: "https://thermwell.com/news/frost_king_house_davey_award"
+    last_verified: "2026-10-26"

@@ -1,0 +1,13 @@
+id: slingco
+name: Slingco
+website: https://www.slingco.com
+categories: [hardware]
+aliases: []
+support:
+  - category: hardware
+    department: Customer Support
+    phone: "+18886859478"
+    country: US
+    notes: "Slingco America Inc., Smyrna, GA (cable grips, pulling grips, rigging and cable assemblies); email sales@slingcoamerica.com. UK parent Slingco Limited, Whitworth, Lancashire, +44 1706 855558."
+    source: "https://www.slingco.com/us/products/cable-conductor-installation-pulling/cable-pulling-grips/splicing-grips"
+    last_verified: "2026-10-26"

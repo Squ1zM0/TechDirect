@@ -1,0 +1,17 @@
+id: hilti
+name: Hilti
+website: https://www.hilti.com/
+categories:
+- hardware
+aliases: []
+support:
+- category: hardware
+  department: Customer Support
+  phone: '+18008798000'
+  country: US
+  notes: 'Hilti USA Customer Service. Email us-sales@hilti.com. A separate PROFIS technical-engineering number 877-749-6337 was also seen and was not substituted for the general customer-service line. Power tools, fasteners, anchors.'
+  source: https://www.hilti.com/search/editorial?text=Technical+Bulletin+for+Large+Diameter+Elements+wit&search=true&page=4
+  last_verified: '2026-10-26'
+  hours:
+    timezone: CT
+    mon_fri: '6am-8pm'

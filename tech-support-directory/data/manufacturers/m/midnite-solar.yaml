@@ -1,0 +1,17 @@
+id: midnite-solar
+name: MidNite Solar
+website: https://www.midnitesolar.com
+categories:
+- electrical
+aliases: []
+support:
+- category: electrical
+  department: Customer Support
+  phone: "+13604037207"
+  country: US
+  notes: Arlington, WA, 17722 - 67th Ave NE. Solar inverters, charge controllers, combiners. Email support@midnitesolar.com.
+  source: https://www.midnitesolar.com/ticket/ticket_index.php
+  last_verified: "2026-10-26"
+  hours:
+    timezone: PT
+    mon_fri: 7:00 AM - 4:00 PM

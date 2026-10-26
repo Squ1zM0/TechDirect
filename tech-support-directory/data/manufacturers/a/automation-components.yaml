@@ -1,0 +1,12 @@
+id: automation-components
+name: Automation Components, Inc.
+categories: [hvac-controls]
+aliases: ["ACI"]
+support:
+  - category: hvac-controls
+    department: Customer Support
+    phone: "+18889675224"
+    country: US
+    notes: "HVAC sensors and transmitters (temperature, humidity, pressure, current), Middleton WI. Company line published on workaci.com and ACI installation documents."
+    source: "https://www.workaci.com/oems"
+    last_verified: "2026-10-26"

@@ -1,0 +1,13 @@
+id: nuvo-lighting
+name: Nuvo Lighting
+website: https://www.satconuvo.com/
+categories: [electrical]
+aliases: ["Nuvo LTG", "SATCO|NUVO"]
+support:
+  - category: electrical
+    department: Customer Support
+    phone: "+18004372826"
+    country: US
+    notes: "Nuvo Lighting is the SATCO|NUVO brand (Satco Products, Inc., Brentwood NY, 110 Heartland Blvd); number attributed to Satco Products, Inc. on the SATCO NUVO manuals index. Crescent Electric's 1-855-999-2372 is Crescent's own phone and Bees Lighting's 855-303-0665 is Bees' own - neither was used. The satcous.com '1-800-SATCO-US' was not clearly the official site and was not used."
+    source: "https://manuals.plus/category/satco-nuvo/"
+    last_verified: "2026-10-26"

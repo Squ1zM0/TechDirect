@@ -1,0 +1,13 @@
+id: western-tube-conduit
+name: "Western Tube & Conduit Corp."
+website: https://www.zekelman.com
+categories: [electrical]
+aliases: ["Western Tube"]
+support:
+  - category: electrical
+    department: Customer Support
+    phone: "+18003108823"
+    country: US
+    notes: "Zekelman Industries: Western Tube, Rochelle IL, toll-free. Parent: Zekelman Industries (acquired Western Tube & Conduit Corp. 2016-12-06). Formerly independent Long Beach CA company; the old Long Beach number 310-537-6300 is superseded and not current. Xref spellings Western Tube and Western Tube & Conduit Corp. share this file (variant pair). Electrical conduit/EMT."
+    source: "https://www.zekelman.com/company/locations/"
+    last_verified: "2026-10-26"

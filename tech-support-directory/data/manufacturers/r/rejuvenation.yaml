@@ -1,0 +1,14 @@
+id: rejuvenation
+name: Rejuvenation
+website: https://www.rejuvenation.com/
+categories:
+- electrical
+aliases: []
+support:
+- category: electrical
+  department: Customer Support
+  phone: '+18884011900'
+  country: US
+  notes: Rejuvenation customer service line. Williams-Sonoma direct-to-consumer lighting and hardware brand, Portland, OR.
+  source: rejuvenation.com customer-service/shipping page (Call Us 1.888.401.1900)
+  last_verified: '2026-10-26'

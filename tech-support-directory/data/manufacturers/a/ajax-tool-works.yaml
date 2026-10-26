@@ -1,0 +1,13 @@
+id: ajax-tool-works
+name: Ajax Tool Works
+website: https://www.ajaxtools.com/
+categories: [hardware]
+aliases: ["Ajax"]
+support:
+  - category: hardware
+    department: Customer Support
+    phone: "+18003239129"
+    country: US
+    notes: "Ajax Tool Works, Inc., 10801 Franklin Ave, Franklin Park, IL 60131. Manufacturer of forged specialty tools (chisels, hammer bits, rivet busters, pry bars) since 1946. Direct line (847) 455-5420 also published. Not Ajax Tool Inc. of Fort Wayne, IN (ajaxtoolinc.com), a different company."
+    source: "https://www.ajaxtools.com/37/faq.htm"
+    last_verified: "2026-10-26"

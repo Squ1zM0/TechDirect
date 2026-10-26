@@ -1,0 +1,14 @@
+id: chatsworth-products
+name: Chatsworth Products
+website: https://www.chatsworth.com/
+categories: [electrical]
+aliases: ["Chatsworth Products, Inc.", "CPI", "Chatsworth"]
+support:
+  - category: electrical
+    department: Technical Support
+    phone: "+18008344969"
+    email: techsupport@chatsworth.com
+    country: US
+    notes: "Chatsworth Products, Inc. (CPI), Simi Valley, CA; data center and network cabinets, racks (ZetaFrame, TeraFrame, GlobalFrame, SeismicFrame), cable management, power and thermal management. Covers xref spellings 'Chatsworth' and 'Chatsworth Products (CPI)'. International line +1 818-739-3400 also published."
+    source: "https://www.chatsworth.com/assets-proxy/public/asset/raw/663b2857ae13c25e14022b2b/0b132854/682fb0d444b5b93dd900004a/CPI_ADVANTAGE_FLY.pdf"
+    last_verified: "2026-10-26"

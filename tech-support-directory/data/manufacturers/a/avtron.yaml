@@ -1,0 +1,12 @@
+id: avtron
+name: Avtron Encoders
+categories: [electrical]
+aliases: ["Avtron", "Nidec-Avtron"]
+support:
+  - category: electrical
+    department: Technical Support
+    phone: "+12166411230"
+    country: US
+    notes: "Industrial encoders/tachometers, Cleveland OH (Nidec-Avtron). Encoder Help Desk line published in the Nidec-Avtron catalog; older manuals list 216-642-1230. Avtron Power Solutions (load banks, 216-573-7600) is a separate company and is NOT this file's subject."
+    source: "https://nidec-fm-image.s3.amazonaws.com/Document/2024_4398.pdf"
+    last_verified: "2026-10-26"

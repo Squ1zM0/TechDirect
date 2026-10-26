@@ -1,0 +1,14 @@
+id: climax-metal-products
+name: Climax Metal Products Company
+website: http://www.climaxmetal.com/
+categories: [hardware]
+aliases: ["Climax", "Climax Metal Products"]
+support:
+  - category: hardware
+    department: Customer Support
+    phone: "+18005426552"
+    email: sales@climaxmetal.com
+    country: US
+    notes: "Climax Metal Products Company, Mentor, OH (since 1946); shaft collars, rigid couplings, keyless locking devices, bearings, abrasives. Toll-free line per Climax's own catalog pages; local line (440) 585-0300 also published. Covers xref spellings 'Climax' and 'Climax Metal Products'."
+    source: "https://catalog.climaxmetal.com/item/locking-assemblies/metric-locking-assembly-series-c133/c133m-42x75"
+    last_verified: "2026-10-26"

@@ -1,0 +1,15 @@
+id: hillman-group
+name: The Hillman Group
+website: http://www.hillmangroup.com/pages/contact
+categories:
+- hardware
+aliases:
+- Hillman Group
+support:
+- category: hardware
+  department: Customer Support
+  phone: '+18008004900'
+  country: US
+  notes: 'The Hillman Group, Inc., Cincinnati, OH (HQ 1280 Kemper Meadow Dr., Forest Park, OH 45240). Corporate 513-851-4900. Email SUPPORT@HILLMANGROUP.COM. Fasteners, hardware.'
+  source: http://www.hillmangroup.com/pages/contact
+  last_verified: '2026-10-26'

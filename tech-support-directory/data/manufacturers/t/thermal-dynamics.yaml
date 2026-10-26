@@ -1,0 +1,12 @@
+id: thermal-dynamics
+name: "Thermal Dynamics"
+categories: [hardware]
+aliases: []
+support:
+  - category: hardware
+    department: Technical Support
+    phone: "+16032985711"
+    country: US
+    notes: "Thermal Dynamics plasma cutting (CutMaster); ESAB/Victor brand. Number per CutMaster service and operating manuals (Thermal Dynamics Corporation, 82 Benning Street, West Lebanon NH), which direct technical service inquiries to this line. Manuals are 2001-2010 vintage, so current routing should be re-confirmed."
+    source: "https://cdn2.servls.com/view/695/695229-38_cutmaster.pdf"
+    last_verified: "2026-10-26"

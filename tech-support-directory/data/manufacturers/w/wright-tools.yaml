@@ -1,0 +1,13 @@
+id: wright-tools
+name: "Wright Tool Company"
+website: https://www.wrighttool.com
+categories: [hardware]
+aliases: ["Wright Tools"]
+support:
+  - category: hardware
+    department: Customer Support
+    phone: "+18003212902"
+    country: US
+    notes: "Barberton OH, One Wright Place. Hand tools; founded 1927. File name uses the CSV spelling Wright Tools; canonical name is Wright Tool Company."
+    source: "https://www.thomasnet.com/company/wright-tool-company-29390/profile"
+    last_verified: "2026-10-26"

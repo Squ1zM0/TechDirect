@@ -1,0 +1,13 @@
+id: sp-products
+name: SP Products
+website: https://www.spproducts.com
+categories: [electrical]
+aliases: []
+support:
+  - category: electrical
+    department: Customer Support
+    phone: "+18002338595"
+    country: US
+    notes: "SP Products Inc., Elk Grove Village, IL (conduit fittings, transition couplings, conduit support blocks and hangers; made in the USA). Local phone 847-593-8595 also published; email info@spproducts.com."
+    source: "https://SPProducts.com/pdfs/IP13dd.pdf"
+    last_verified: "2026-10-26"

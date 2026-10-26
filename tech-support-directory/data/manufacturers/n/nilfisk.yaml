@@ -1,0 +1,13 @@
+id: nilfisk
+name: Nilfisk
+website: https://www.nilfisk.com/
+categories: [hardware]
+aliases: ["Nilfisk-Advance"]
+support:
+  - category: hardware
+    department: Customer Support
+    phone: "+18006453475"
+    country: US
+    notes: "Nilfisk, Inc. (formerly Nilfisk-Advance); commercial/industrial cleaning equipment; customer service ext. 2 per the GM 80 user manual. Separate warranty phone 800-989-2235 on the 2024 warranty flyer, not used as the file number. Vocabulary note: no janitorial/cleaning term; hardware is closest."
+    source: "https://manualmachine.com/nilfisk/01790132/9225749-user-manual/"
+    last_verified: "2026-10-26"

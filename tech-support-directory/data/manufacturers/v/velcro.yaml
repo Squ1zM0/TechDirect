@@ -1,0 +1,16 @@
+id: velcro
+name: Velcro
+website: https://www.velcro.com/
+categories:
+- hardware
+aliases: []
+support:
+- category: hardware
+  department: Customer Support
+  phone: '+18002250180'
+  country: US
+  notes: Velcro USA Inc., Manchester, NH (95 Sundial Ave / 406 Brown Avenue); marketing@velcro.com. VELCRO
+    marks are owned by Velcro Industries B.V. Hook-and-loop fasteners. Levitt Industrial Textile numbers
+    (800-548-0097 / 516-933-7553) are distributor numbers, not Velcro support.
+  source: https://www.thomasnet.com/company/velcro-usa-inc-1238716/profile
+  last_verified: '2026-10-26'

@@ -1,0 +1,14 @@
+id: safewaze
+name: Safewaze
+website: https://safewaze.com/
+categories:
+- hardware
+aliases: []
+support:
+- category: hardware
+  department: Customer Support
+  phone: '+18002300319'
+  country: US
+  notes: Safewaze, 225 Wilshire Ave SW, Concord, NC 28025. info@safewaze.com. Fall protection equipment; hardware is the closest vocabulary term.
+  source: Safewaze product manuals and press release (contact Customer Service at 800-230-0319)
+  last_verified: '2026-10-26'

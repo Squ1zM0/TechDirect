@@ -1,0 +1,13 @@
+id: weller
+name: "Weller"
+website: https://www.weller-tools.com
+categories: [hardware]
+aliases: []
+support:
+  - category: hardware
+    department: Customer Support
+    phone: "+18664980484"
+    country: US
+    notes: "Weller Professional Tools Division, Apex Tool Group; Apex NC, 1000 Lufkin Road. Email info@weller-tools.com. Parent: Apex Tool Group. Soldering tools. Apex Tool Group USA HQ and older Weller numbers are secondary; the German number is NOT used; an RS Online listing phone is RS's own phone, NOT Weller's."
+    source: "https://manuals.plus/weller/wxp65-wx-tools-soldering-iron-manual"
+    last_verified: "2026-10-26"

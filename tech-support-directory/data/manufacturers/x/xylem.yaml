@@ -1,0 +1,13 @@
+id: xylem
+name: "Xylem Inc."
+website: https://www.xylem.com
+categories: [pumps, water-systems]
+aliases: ["Xylem"]
+support:
+  - category: pumps
+    department: Customer Support
+    phone: "+19143235700"
+    country: US
+    notes: "HQ/main number; Rye Brook NY. Pumps, water technology and metering. Xylem Inc. itself is distinct from its Bell & Gossett subsidiary file (bell-gossett). Brands include Bell & Gossett, Goulds Water Technology, Flojet, Jabsco, Lowara, McDonnell & Miller."
+    source: "https://www.pumps.org/members/xylem-inc/"
+    last_verified: "2026-10-26"

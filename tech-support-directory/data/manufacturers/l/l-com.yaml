@@ -1,0 +1,12 @@
+id: l-com
+name: L-com
+categories: [electrical]
+aliases: []
+support:
+  - category: electrical
+    department: Technical Support
+    phone: "+18003415266"
+    country: US
+    notes: "L-com (Infinite Electronics brand) call center and technical support line. Hours Mon-Fri 8am-8pm ET per L-com. Direct line 978-682-6936 also published; product technical support email Techsupportdat@infiniteelectronics.com."
+    source: "https://www.l-com.com/common-cable-assemblies-industrial-enterprise-applications"
+    last_verified: "2026-10-26"

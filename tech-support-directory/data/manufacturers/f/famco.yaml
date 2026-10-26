@@ -1,0 +1,14 @@
+id: famco
+name: "Famco"
+website: "https://www.famcomfg.com/?p=57936"
+categories:
+- hvac
+aliases: []
+support:
+- category: hvac
+  department: "Customer Support"
+  phone: "+18002341903"
+  country: US
+  notes: "Fresh Air Manufacturing Co. (FAMCO), Meridian/Nampa ID, since 1989. Alternate line (208) 884-8931; retail line (855) 452-9875 per the FAMCO FAQ page. Roof flashings, vents, and HVAC accessories; hvac is the closest vocabulary term."
+  source: "https://catalog.famcomfg.com/files/2dpdf/SWV10A.pdf"
+  last_verified: "2026-10-26"

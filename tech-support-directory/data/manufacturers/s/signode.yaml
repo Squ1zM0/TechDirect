@@ -1,0 +1,13 @@
+id: signode
+name: Signode
+website: https://www.signode.com
+categories: [hardware]
+aliases: []
+support:
+  - category: hardware
+    department: Customer Support
+    phone: "+18003232464"
+    country: US
+    notes: "Signode Industrial Group LLC (transit packaging: strapping, wrapping and hooding equipment, protective packaging). US contact number published across signode.com industry pages; regional numbers for other countries are published separately and are not used here."
+    source: "https://www.signode.com/industries/manufacturing-engineering/"
+    last_verified: "2026-10-26"

@@ -1,0 +1,17 @@
+id: kuul
+name: Kuul
+website: https://www.kuulpads.com/
+categories:
+- hvac
+aliases: []
+support:
+- category: hvac
+  department: Customer Support
+  phone: '+18006952942'
+  country: US
+  notes: "KÜÜL Pads and Kuul Comfort evaporative media; a Portacool, LLC product line, 709 Southview Circle, Center, TX 75935. No standalone Kuul support contact exists, so support runs through Portacool: US-based Customer Service 8:00 AM-5:00 PM Central, Monday-Friday, direct 936-598-5651, support@portacool.com. Filed under its own file following the Knopp precedent (product line with a verified support channel, no parent file in TechDirect)."
+  source: https://www.manualshelf.com/manual/portacool/pacjs2601a1/user-manual-english/page-19.html
+  last_verified: '2026-10-26'
+  hours:
+    timezone: "CT"
+    mon_fri: "8:00 AM - 5:00 PM"

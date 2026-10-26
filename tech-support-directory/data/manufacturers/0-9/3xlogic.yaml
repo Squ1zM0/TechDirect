@@ -1,0 +1,13 @@
+id: 3xlogic
+name: 3xLOGIC
+website: https://3xlogic.com/support/
+categories: [electrical]
+aliases: ["3XLOGIC"]
+support:
+  - category: electrical
+    department: Technical Support
+    phone: "+18773956442"
+    country: US
+    notes: "3xLOGIC technical support (now part of PACOM) per 3xLOGIC's official support page: email helpdesk@3xlogic.com, US +1 (877) 395-6442."
+    source: "https://3xlogic.com/support/"
+    last_verified: "2026-10-26"

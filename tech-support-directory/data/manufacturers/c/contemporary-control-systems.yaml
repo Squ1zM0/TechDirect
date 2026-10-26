@@ -1,0 +1,15 @@
+id: contemporary-control-systems
+name: Contemporary Control Systems
+website: https://www.ccontrols.com
+categories:
+  - hvac-controls
+aliases:
+  - Contemporary Controls
+support:
+  - category: Customer Support
+    department: Customer Support
+    phone: "+16309637070"
+    country: US
+    notes: "BACnet building-automation controls (BAScontrol, BASstat, BASautomation lines). Downers Grove, IL; email info@ccontrols.com. Number published in the manufacturer's own manuals and datasheets."
+    source: "https://manualspro.net/104201-contemporary-control-bascontrol-toolset-user-guide"
+    last_verified: "2026-10-26"

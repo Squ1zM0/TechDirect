@@ -1,0 +1,12 @@
+id: bally-refrigerated-boxes
+name: Bally Refrigerated Boxes
+categories: [hvac]
+aliases: ["Bally"]
+support:
+  - category: hvac
+    department: Parts and Service
+    phone: "+18003449302"
+    country: US
+    notes: "Walk-in coolers, freezers and refrigerated buildings, Morehead City NC. Parts and Service Hotline published in Bally installation manuals; main line 252-240-2829 also published."
+    source: "https://www.manualsdir.com/manuals/582244/bally-refrigerated-boxes-walk-in-installation-manual.html?page=2"
+    last_verified: "2026-10-26"

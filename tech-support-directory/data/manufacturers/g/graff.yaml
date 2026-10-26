@@ -1,0 +1,13 @@
+id: graff
+name: 'Graff'
+categories:
+- plumbing
+aliases: []
+support:
+- category: plumbing
+  department: 'Technical Support'
+  phone: '+18009544723'
+  country: US
+  notes: 'Same number is also listed for the Customer Service Center. Hours 8 AM - 6 PM Monday - Friday. Faucets.'
+  source: 'http://graff-designs.com/en/tools/contacts-technical'
+  last_verified: '2026-10-26'

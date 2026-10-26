@@ -1,0 +1,13 @@
+id: fulham
+name: 'Fulham Co., Inc.'
+categories:
+- electrical
+aliases: []
+support:
+- category: electrical
+  department: 'Customer Support'
+  phone: '+13237792980'
+  country: US
+  notes: 'Order email order@fulham.com. Covers both batch spellings Fulham and Fulham Co.'
+  source: 'https://manuals.plus/m/b46c579ed449bc88fd517936bd27b2679b95d346124589dbcd03aad424747b6d'
+  last_verified: '2026-10-26'

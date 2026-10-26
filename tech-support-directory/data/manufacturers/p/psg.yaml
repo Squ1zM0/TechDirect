@@ -1,0 +1,12 @@
+id: psg
+name: PSG
+categories: [pumps]
+aliases: []
+support:
+  - category: pumps
+    department: Customer Support
+    phone: "+16304872240"
+    country: US
+    notes: "PSG, a Dover Company (Dover Pump Solutions Group), 3005 Highland Parkway, Downers Grove, IL 60515. Brands include Abaque, All-Flo, Almatec, Blackmer, Ebsray, EnviroGear, Griswold, Hydro Systems, Mouvex, Neptune, Quattroflow, Wilden; individual PSG brands may have their own lines."
+    source: "https://www.pumps.org/members/psg-a-dover-company/"
+    last_verified: "2026-10-26"

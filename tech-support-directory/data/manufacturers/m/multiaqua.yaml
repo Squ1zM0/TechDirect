@@ -1,0 +1,12 @@
+id: multiaqua
+name: Multiaqua
+categories: [hvac]
+aliases: []
+support:
+  - category: hvac
+    department: Customer Support
+    phone: "+18648508990"
+    country: US
+    notes: "Multiaqua (Airsys / Multiaqua Inc.), Easley SC, 306 Hagood Street; number from the Multiaqua products catalog (warranty document)."
+    source: "https://www.scribd.com/document/51330120/Multiaqua-Products-Catalog"
+    last_verified: "2026-10-26"

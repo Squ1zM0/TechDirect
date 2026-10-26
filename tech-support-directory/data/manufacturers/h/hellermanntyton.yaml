@@ -1,0 +1,16 @@
+id: hellermanntyton
+name: HellermannTyton
+website: https://www.hellermanntyton.com/
+categories:
+- electrical
+aliases:
+- Hellerman Tyton
+- HELLERMANN TYTON CORP
+support:
+- category: electrical
+  department: Customer Support
+  phone: '+18005371512'
+  country: US
+  notes: 'HellermannTyton, Milwaukee, WI. Also 414-355-1130. Email corp@htamericas.com. Cable ties, wire management.'
+  source: https://www.ctemag.com/buyers-guide/hellermanntyton
+  last_verified: '2026-10-26'

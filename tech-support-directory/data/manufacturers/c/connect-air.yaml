@@ -1,0 +1,13 @@
+id: connect-air
+name: Connect-Air
+categories: [electrical]
+aliases: ["Connect Air", "Connect-Air Genuine Cable Group"]
+website: http://www.connect-air.com/
+support:
+  - category: electrical
+    department: Customer Support
+    phone: "+18664007530"
+    country: US
+    notes: "Connect-Air (Connect Air Genuine Cable Group), Anaheim, CA; commercial low-voltage wire and cable for building automation, temperature controls, security, fire/life safety and datacom applications, including custom wires and cables. Toll-free line per the company's own line card; Anaheim line (714) 400-9900 and Philadelphia line (678) 430-0310 (toll-free 866-437-2980) also published."
+    source: "https://mcusercontent.com/8ca1fba7ec896cdb48de0b487/files/df3fcf08-3200-48dc-a43d-b89da1750a5e/Connect_Air_Catalog_Updated.pdf"
+    last_verified: "2026-10-26"

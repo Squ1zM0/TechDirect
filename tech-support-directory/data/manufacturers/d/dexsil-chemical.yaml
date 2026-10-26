@@ -1,0 +1,15 @@
+id: dexsil-chemical
+name: Dexsil Chemical
+website: https://www.dexsil.com
+categories:
+  - hardware
+aliases:
+  - Dexsil Corporation
+support:
+  - category: Customer Support
+    department: Customer Support
+    phone: "+12032883509"
+    country: US
+    notes: "Dexsil Corporation, Hamden, CT (One Hamden Park Drive, Hamden, CT 06517); field test kits for lead, PCBs and other chemicals, founded 1977. Email info@dexsil.com. No test-kit/chemical term in the category vocabulary; hardware used as closest."
+    source: "https://manuals.plus/m/1c94bd3bc20c23760d5cf835270287ada20866eae4dede7ab4c78c7ebd2c1a7f"
+    last_verified: "2026-10-26"

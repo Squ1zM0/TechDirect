@@ -1,0 +1,13 @@
+id: quick-cable
+name: Quick Cable Corporation
+website: https://www.quickcable.com/
+categories: [electrical]
+aliases: ["Quick Cable Corp."]
+support:
+  - category: electrical
+    department: Customer Support
+    phone: "+12628243100"
+    country: US
+    notes: "3700 Quick Drive, Franksville, WI 53126. A separate customer-service number appears in a maritime directory but was not confirmed on the official site and is not published as the primary line."
+    source: "https://www.quickcable.com/"
+    last_verified: "2026-10-26"

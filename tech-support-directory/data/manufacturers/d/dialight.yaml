@@ -1,0 +1,16 @@
+id: dialight
+name: Dialight
+website: https://www.dialight.com
+categories: [electrical]
+aliases: []
+support:
+  - category: electrical
+    department: Customer Support
+    phone: "+18444365422"
+    country: US
+    notes: "Dialight product/service contact per distributor-published Dialight FAQ (Mon-Fri 8am-5pm ET). Industrial LED lighting for hazardous and heavy-industrial locations. Headquarters phone 732-919-3119 (Farmingdale, NJ) also published."
+    source: "https://www.accio.com/plp/dialight_outage_management"
+    last_verified: "2026-10-26"
+    hours:
+      timezone: "ET"
+      mon_fri: "8:00 AM - 5:00 PM"

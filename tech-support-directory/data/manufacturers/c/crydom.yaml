@@ -1,0 +1,13 @@
+id: crydom
+name: Crydom
+website: https://www.crydom.com
+categories: [electrical]
+aliases: []
+support:
+  - category: electrical
+    department: Technical Support
+    phone: "+18777027700"
+    country: US
+    notes: "Crydom (San Diego, CA) Technical Support for the Americas per the manufacturer's own instruction sheets; email support@crydom.com. Solid state relays and controls; Crydom is a Sensata Technologies brand. Sales Support 877-502-5500 also published."
+    source: "https://manualmachine.com/crydom/allproducts/16827534-instruction-sheet/"
+    last_verified: "2026-10-26"

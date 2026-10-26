@@ -1,0 +1,14 @@
+id: code-blue
+name: Code Blue
+website: https://codeblue.com/support
+categories: [electrical]
+aliases: ["Code Blue Corporation", "Code Blue Corp."]
+support:
+  - category: electrical
+    department: Technical Support
+    phone: "+18002057186"
+    email: ts@codeblue.com
+    country: US
+    notes: "Code Blue Corporation, Holland, MI; vandal-resistant Blue Light emergency phones, Help Points, mass notification. Line listed for installation/support and operating issues; customer service email customerservice@codeblue.com also published. Covers xref spelling 'Code Blue' (parent Code Blue Corp.)."
+    source: "https://www.singlewire.com/integrations/code-blue"
+    last_verified: "2026-10-26"

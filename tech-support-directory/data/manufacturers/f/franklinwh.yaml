@@ -1,0 +1,18 @@
+id: franklinwh
+name: 'FranklinWH'
+categories:
+- electrical
+aliases: []
+support:
+- category: electrical
+  department: 'Customer Support'
+  phone: '+18888513188'
+  country: US
+  notes: 'Support email service@franklinwh.com. Website omitted: no verified support/contact homepage URL from the search; the article URL is not substituted as the homepage.'
+  source: 'https://www.franklinwh.com/support/articles/detail/what-if-the-main-page-of-the-app-shows-no-connection-to-the-solar-system-?keywords=How+to+get+reimbursed%3F'
+  last_verified: '2026-10-26'
+  hours:
+    timezone: 'CT'
+    mon_fri: '8:00 AM - 8:00 PM'
+    sat: '8:00 AM - 8:00 PM'
+    sun: '8:00 AM - 8:00 PM'

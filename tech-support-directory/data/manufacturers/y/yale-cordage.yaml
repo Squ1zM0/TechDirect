@@ -1,0 +1,16 @@
+id: yale-cordage
+name: "Yale Cordage"
+website: https://www.yalecordage.com
+categories: [hardware]
+aliases: ["Yale Cordage Rope"]
+support:
+  - category: hardware
+    department: Customer Support
+    phone: "+12072823396"
+    country: US
+    notes: "Saco ME HQ, 77 Industrial Park Road; Salisbury NC second facility 704-630-0331. Hours Mon-Fri 8am-5pm ET. Founded 1950; recapitalised by River Associates Investments 2020. Rope/cordage; closest vocabulary term: hardware. NOT Yale Locks. Xref spellings Yale Cordage and Yale Cordage Rope share this file (variant pair)."
+    source: "https://www.yalecordage.com/about-us/"
+    last_verified: "2026-10-26"
+    hours:
+      timezone: "ET"
+      mon_fri: "8:00 AM - 5:00 PM"

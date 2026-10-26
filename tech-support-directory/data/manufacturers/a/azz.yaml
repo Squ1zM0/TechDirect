@@ -1,0 +1,12 @@
+id: azz
+name: AZZ
+categories: [electrical]
+aliases: ["AZZ Inc"]
+support:
+  - category: electrical
+    department: Customer Support
+    phone: "+18178100095"
+    country: US
+    notes: "Galvanizing, metal coatings, specialty electrical equipment (switchgear, enclosures, bus duct, hazardous-location lighting), Fort Worth TX (founded 1956). HQ line published in company profiles; email info@azz.com."
+    source: "https://www.iqsdirectory.com/profile/azz-79388/"
+    last_verified: "2026-10-26"

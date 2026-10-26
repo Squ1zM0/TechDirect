@@ -1,0 +1,16 @@
+id: verde-industries
+name: Verde Industries
+website: http://www.verde-industries.com/
+categories:
+- hardware
+aliases: []
+support:
+- category: hardware
+  department: Customer Support
+  phone: '+16022724559'
+  country: US
+  notes: Verde Industries, Inc., 3812 W Washington St, Phoenix, AZ 85009. Manufacturer of quality roof
+    flashing products since 1991. Hours Mon-Fri 7:00 AM-3:30 PM (timezone not stated in source). Not Tierra
+    Verde Industries EcoCentre, Irvine, CA (waste, (949) 551-0363) and not Verde AgriTech.
+  source: https://www.hardware1000.com/US/Phoenix/160660360621645/Verde-Industries,-Inc.
+  last_verified: '2026-10-26'

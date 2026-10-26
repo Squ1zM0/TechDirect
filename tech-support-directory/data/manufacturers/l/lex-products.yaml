@@ -1,0 +1,12 @@
+id: lex-products
+name: LEX Products
+categories: [electrical]
+aliases: ["Lex Products"]
+support:
+  - category: electrical
+    department: Customer Support
+    phone: "+18006434460"
+    country: US
+    notes: "Lex Products (LEX), Shelton, CT; portable power distribution, company switches, cable assemblies and lighting for entertainment, industrial and military markets. General number from lexproducts.com."
+    source: "https://lexproducts.com/general/company-switches"
+    last_verified: "2026-10-26"

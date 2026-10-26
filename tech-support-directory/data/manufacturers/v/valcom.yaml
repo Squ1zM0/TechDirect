@@ -1,0 +1,19 @@
+id: valcom
+name: Valcom
+website: https://www.valcom.com/
+categories:
+- electrical
+aliases: []
+support:
+- category: electrical
+  department: Technical Support
+  phone: '+18008252661'
+  country: US
+  notes: Valcom, 5614 Hollins Rd., Roanoke, VA 24019; support@valcom.com; local 1-540-563-2000. Tech Support
+    hours Mon-Fri 8:30 AM-7:30 PM EST; general hours Mon-Fri 8 AM-5 PM EST. Older manuals cite (540) 427-3900
+    for Technical Support (not used as primary). Paging and intercom.
+  source: https://www.valcom.com/vlc-product/desktop-wall-speaker-with-call-button-talkback-v-764-gy/
+  last_verified: '2026-10-26'
+  hours:
+    timezone: EST
+    mon_fri: 8:30 AM - 7:30 PM

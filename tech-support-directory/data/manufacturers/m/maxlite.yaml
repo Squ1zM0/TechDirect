@@ -1,0 +1,14 @@
+id: maxlite
+name: MaxLite
+website: https://www.maxlite.com
+categories:
+- electrical
+aliases: []
+support:
+- category: electrical
+  department: Customer Support
+  phone: "+18005555629"
+  country: US
+  notes: LED lamps, fixtures, controls. Email info@maxlite.com.
+  source: https://www.maxlite.com/partners/buying-groups
+  last_verified: "2026-10-26"

@@ -1,0 +1,13 @@
+id: ngk-locke
+name: NGK-Locke
+website: https://www.ngk-locke.com/
+categories: [electrical]
+aliases: ["NGK Insulators"]
+support:
+  - category: electrical
+    department: Customer Support
+    phone: "+17574603649"
+    country: US
+    notes: "NGK-Locke, Inc. (NGK Insulators); Virginia Beach active listing number. A Torrance CA listing (310-316-3323) is shown temporarily closed and is not used."
+    source: "https://www.ngk-locke.com/"
+    last_verified: "2026-10-26"

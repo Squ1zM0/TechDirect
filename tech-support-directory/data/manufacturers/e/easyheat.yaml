@@ -1,0 +1,13 @@
+id: easyheat
+name: EasyHeat
+website: https://www.easyheat.com
+categories: [hvac]
+aliases: ["Easyheat"]
+support:
+  - category: hvac
+    department: Technical Support
+    phone: "+18005456258"
+    country: US
+    notes: "EasyHeat (nVent, formerly Emerson) electric heating cables and controls, including freeze-protection and floor-warming systems."
+    source: "https://manuals.plus/m/16748a34e3d666227d02eaec64d2825d35ba644877e6bb013377f4d683f9dd98"
+    last_verified: "2026-10-26"

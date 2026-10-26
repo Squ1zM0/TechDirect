@@ -1,0 +1,13 @@
+id: stanley-black-decker
+name: Stanley Black & Decker
+website: https://www.stanleyblackanddecker.com
+categories: [hardware]
+aliases: []
+support:
+  - category: hardware
+    department: Customer Support
+    phone: "+18609732891"
+    country: US
+    notes: "Stanley Black & Decker, Inc., New Britain, CT (parent of STANLEY, DEWALT, CRAFTSMAN, BLACK+DECKER, IRWIN, LENOX, Cub Cadet, Troy-Bilt, BOSTITCH, PROTO and others). General customer support at this number; brand-specific lines differ (STANLEY Tools 800-262-2161, BLACK+DECKER 800-544-6986). Corporate HQ phone 860-225-5111 also published."
+    source: "https://www.stanleyblackanddecker.com/about/contact"
+    last_verified: "2026-10-26"

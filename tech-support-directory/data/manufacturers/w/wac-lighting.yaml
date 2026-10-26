@@ -1,0 +1,13 @@
+id: wac-lighting
+name: "WAC Lighting"
+website: https://www.waclighting.com
+categories: [electrical]
+aliases: []
+support:
+  - category: electrical
+    department: Customer Support
+    phone: "+18005262588"
+    country: US
+    notes: "General published number; a support-FAQ aggregator calls it technical support, but manufacturer-published sources do not label it tech, so filed as Customer Support. Lighting fixtures."
+    source: "https://waclighting.com/storage/waclighting-images/inst_sheet/WSW111608_INSSHT.pdf"
+    last_verified: "2026-10-26"

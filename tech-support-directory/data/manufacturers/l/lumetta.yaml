@@ -1,0 +1,13 @@
+id: lumetta
+name: Lumetta
+website: "https://lumetta.com/about-us/"
+categories: [electrical]
+aliases: ["Lumetta, Inc."]
+support:
+  - category: electrical
+    department: Customer Support
+    phone: "+14016913994"
+    country: US
+    notes: "Lumetta, Inc., Warwick, RI (33 Minnesota Ave.); US manufacturer of decorative commercial luminaires since 1992, handcrafted in Rhode Island. Number from Lumetta's own About Us page (quotes@lumetta.com, orders@lumetta.com also published)."
+    source: "https://lumetta.com/about-us/"
+    last_verified: "2026-10-26"

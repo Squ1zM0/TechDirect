@@ -1,0 +1,13 @@
+id: setra-systems
+name: Setra Systems
+website: https://www.setra.com
+categories: [hvac-controls]
+aliases: []
+support:
+  - category: hvac-controls
+    department: Technical Support
+    phone: "+19782631400"
+    country: US
+    notes: "Setra Systems, Inc., Boxborough, MA (pressure transducers, transmitters, power meters, room pressure monitors). Toll-free 800-257-3872 is also published in Setra manuals; orders email orders@setra.com."
+    source: "https://www.setra.com/hs-fs/hub/211498/file-2450493188.pdf"
+    last_verified: "2026-10-26"

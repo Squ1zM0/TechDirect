@@ -1,0 +1,16 @@
+id: 80-20-inc
+name: 80/20 Inc
+website: https://8020.net
+categories: [hardware]
+aliases: ["80/20"]
+support:
+  - category: hardware
+    department: Customer Support
+    phone: "+18448020932"
+    country: US
+    notes: "80/20 customer service team number per 8020.net contact/distributor-support pages. Hours Mon-Thu 7:00 AM - 5:30 PM ET, Fri 8:00 AM - 4:00 PM ET. HQ Columbia City IN; legacy numbers (260) 248-8030 and (877) 248-8020 also published."
+    source: "https://8020.net/contact-us"
+    last_verified: "2026-10-26"
+    hours:
+      timezone: "ET"
+      mon_fri: "7:00 AM - 5:30 PM"

@@ -1,0 +1,12 @@
+id: collinite
+name: Collinite
+categories: [hardware]
+aliases: ["Collinite Corporation"]
+support:
+  - category: hardware
+    department: Customer Support
+    phone: "+13157322282"
+    country: US
+    notes: "Collinite Corporation, Utica, NY; automotive/marine waxes and cleaners (No. 845, 476s, 915, 925). Phone per Collinite's own safety data sheet. Category mapped to closest vocabulary term (waxes/cleaners). No official website verified, so no website field is staged."
+    source: "https://cdn.handshake.fi/images/autonhoito/msds/Collinite/325%20Auto%20Cleaner-Wax%20v10-15-2017%20GHS%20SDS(1).pdf"
+    last_verified: "2026-10-26"

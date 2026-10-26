@@ -1,0 +1,13 @@
+id: water-control-corp
+name: "Water Control Corporation"
+website: https://watercontrolinc.com
+categories: [water-systems]
+aliases: []
+support:
+  - category: water-systems
+    department: Technical Support
+    phone: "+18664051268"
+    country: US
+    notes: "Tech Services Department. Email techsupport@watercontrolinc.com; local 763-427-9638 also published."
+    source: "https://watercontrolinc.com/wp-content/uploads/2025/02/NitraMAX-Installation-Operation-Manual-R1.pdf"
+    last_verified: "2026-10-26"

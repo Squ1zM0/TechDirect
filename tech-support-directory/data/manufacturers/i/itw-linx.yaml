@@ -1,0 +1,14 @@
+id: itw-linx
+name: ITW Linx
+website: https://www.itwlinx.com/
+categories:
+- electrical
+aliases: []
+support:
+- category: electrical
+  department: Customer Support
+  phone: '+18003365469'
+  country: US
+  notes: "Surge protection; 425 N Gary Ave, Carol Stream, IL 60188, per the official ITW Linx document. Distinct from Linx Technologies (TE Connectivity); do not conflate."
+  source: https://www.itwlinx.com/portals/0/documents/innovation_by_design.pdf
+  last_verified: '2026-10-26'

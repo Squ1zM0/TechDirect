@@ -1,0 +1,13 @@
+id: bierer-meters
+name: Bierer Meters
+website: http://www.bierermeters.com
+categories: [electrical]
+aliases: ["Bierer", "Bierer & Associates Inc."]
+support:
+  - category: electrical
+    department: Technical Support
+    phone: "+18037864839"
+    country: US
+    notes: "Bierer & Associates Inc., Manufacturing & Repair, 10730 Farrow Rd., Blythewood, SC 29016. Company manuals head this number 'Technical & Service'. Email customer_service@bierermeters.com. Covers xref brand Bierer (parent Bierer Meters)."
+    source: "https://www.bierermeters.com/uploads/product_manuals/VIAV300.pdf"
+    last_verified: "2026-10-26"

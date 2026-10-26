@@ -1,0 +1,16 @@
+id: sje-rhombus
+name: SJE-Rhombus
+website: https://www.sjerhombus.com
+categories: [sump-sewage]
+aliases: []
+support:
+  - category: sump-sewage
+    department: Technical Support
+    phone: "+18007466287"
+    country: US
+    notes: "SJE-Rhombus (SJE, Inc.), Detroit Lakes, MN (pump controls, float switches, level sensors for sump, sewage and water systems). Technical support 1-800-RHOMBUS, Monday-Friday, 7:00 AM to 6:00 PM Central; email techsupport@sjerhombus.com; customer service 888-342-5753 also published. Covers the xref spelling SJE-Rhombus Controls."
+    source: "https://manuals.plus/sje-rhombus/verticalmaster-3-plus-float-switch-manual"
+    last_verified: "2026-10-26"
+    hours:
+      timezone: "CT"
+      mon_fri: "7:00 AM - 6:00 PM"

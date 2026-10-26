@@ -1,0 +1,15 @@
+id: hyperline
+name: Hyperline
+website: https://hyperline.com/
+categories:
+- electrical
+aliases:
+- Hyperline Cabling Systems
+support:
+- category: electrical
+  department: Customer Support
+  phone: '+18884973748'
+  country: US
+  notes: 'Hyperline Systems Canada / Hyperline, Buford, GA. Brochure US toll-free line is primary; Canada 866-634-9737. Email info@hyperline.com. Other toll-free variants seen and noted, not used as primary: Buford place listing 678-765-7600 and warranties page 866-864-9737. Structured cabling.'
+  source: https://hyperline.com/wp-content/uploads/Hyperline-Multi-Conductor-Brochure-English.pdf
+  last_verified: '2026-10-26'

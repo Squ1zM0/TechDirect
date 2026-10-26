@@ -1,0 +1,12 @@
+id: bootz
+name: Bootz
+categories: [bathroom-systems]
+aliases: ["Bootz Industries"]
+support:
+  - category: bathroom-systems
+    department: Customer Support
+    phone: "+18124235401"
+    country: US
+    notes: "Bootz Industries, maker of porcelain-enameled steel and acrylic alcove bathtubs and tub-shower kits (Aloha, Honolulu, Kona, Mauicast lines). Number from Bootz-authored customer-service replies on Home Depot product pages."
+    source: "https://www.homedepot.com/p/reviews/Bootz-Industries-Aloha-Plus-60-in-x-32-in-Soaking-Bathtub-With-Right-Drain-in-White-011-2366-00/306343003/1"
+    last_verified: "2026-10-26"

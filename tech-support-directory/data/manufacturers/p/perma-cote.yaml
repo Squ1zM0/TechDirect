@@ -1,0 +1,13 @@
+id: perma-cote
+name: Perma-Cote
+website: https://www.permacote.com
+categories: [electrical]
+aliases: ["Perma-Cote"]
+support:
+  - category: electrical
+    department: Customer Support
+    phone: "+19038434388"
+    country: US
+    notes: "Perma-Cote PVC-coated conduit, fittings and accessories, a brand line of Robroy Industries, Gilmer, TX (1100 US Highway 271 South, Gilmer, TX 75644). Number published in Perma-Cote's own catalog as the Perma-Cote contact (customerservice@permacote.com). 40 mil gray PVC exterior coating, 2 mil green urethane interior coating, UL 6. Distinct from Robroy's Plasti-Bond line, which has its own staged file in this batch."
+    source: "https://cdn.lsicloud.net/kendall/Resources/AD/Perma_Cote_ST_2_Catalog.pdf"
+    last_verified: "2026-10-26"

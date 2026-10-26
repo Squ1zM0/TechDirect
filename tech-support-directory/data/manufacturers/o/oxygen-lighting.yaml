@@ -1,0 +1,13 @@
+id: oxygen-lighting
+name: Oxygen Lighting
+website: https://www.oxygenlighting.com
+categories: [electrical]
+aliases: []
+support:
+  - category: electrical
+    department: Customer Support
+    phone: "+18776070202"
+    country: US
+    notes: "Oxygen Lighting, 201 Railhead Road, Fort Worth, TX 76106. General company telephone printed on manufacturer spec sheets; not labelled technical support, so recorded as Customer Support."
+    source: "https://www.lightology.com/img/prod/pdf/oxygen_666257_mfg_spec_071318.pdf"
+    last_verified: "2026-10-26"

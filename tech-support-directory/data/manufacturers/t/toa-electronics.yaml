@@ -1,0 +1,16 @@
+id: toa-electronics
+name: TOA Electronics
+website: https://www.toaelectronics.com/
+categories:
+- electrical
+aliases: []
+support:
+- category: electrical
+  department: Customer Support
+  phone: '+18007334750'
+  country: US
+  notes: TOA Electronics USA published consumer contact line (TOA catalog and CPSC recall notice, which
+    lists Mon-Fri 8 a.m.-8 p.m. ET). Headquarters main line is 650-452-1200 (South San Francisco, CA);
+    marketing@toaelectronics.com.
+  source: https://www.livescience.com/35277-paging-loudspeakers-recalled-by-toa-electronics.html
+  last_verified: '2026-10-26'

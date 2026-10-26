@@ -1,0 +1,13 @@
+id: aerocompact
+name: AEROCOMPACT
+website: https://www.aerocompact.com
+categories: [electrical]
+aliases: ["AEROCOMPACT Group"]
+support:
+  - category: electrical
+    department: Customer Support
+    phone: "+18005780474"
+    country: US
+    notes: "AEROCOMPACT Group, PV mounting systems (flat roof, metal roof, pitched roof, ground mount, facades) with AEROTOOL planning software. US office contact email office.us@aerocompact.com; group headquarters in Satteins, Austria (+43 5524 22 566)."
+    source: "https://www.aerocompact.com/en-us/products?tx_form_formframework%5Baction%5D=perform&"
+    last_verified: "2026-10-26"

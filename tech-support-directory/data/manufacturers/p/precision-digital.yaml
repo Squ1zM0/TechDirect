@@ -1,0 +1,13 @@
+id: precision-digital
+name: Precision Digital
+website: https://www.predig.com/
+categories: [electrical]
+aliases: []
+support:
+  - category: electrical
+    department: Customer Support
+    phone: "+15086557300"
+    country: US
+    notes: "Holliston MA. General contact, not labelled tech in the source."
+    source: "https://www.thomasnet.com/company/precision-digital-corp-979471/profile"
+    last_verified: "2026-10-26"

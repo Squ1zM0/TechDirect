@@ -1,0 +1,13 @@
+id: wacker-neuson
+name: "Wacker Neuson"
+website: https://www.wackerneuson.com
+categories: [hardware]
+aliases: []
+support:
+  - category: hardware
+    department: Customer Support
+    phone: "+18007700957"
+    country: US
+    notes: "General published number on official US support/downloads pages. Construction equipment/tools; closest vocabulary term: hardware (no exact term exists)."
+    source: "https://www.wackerneuson.com/us/support"
+    last_verified: "2026-10-26"

@@ -1,0 +1,12 @@
+id: axiomatic-technologies
+name: Axiomatic Technologies
+categories: [electrical]
+aliases: ["Axiomatic"]
+support:
+  - category: electrical
+    department: Customer Support
+    phone: "+17342628535"
+    country: US
+    notes: "Electronic machine controls, CAN controllers, DC/DC converters and signal converters for off-highway and industrial equipment. US office (Farmington Hills MI) line published on axiomatic.com; Canadian HQ (Mississauga ON) line 905-602-9270 and sales@axiomatic.com also published."
+    source: "https://www.axiomatic.com/products/automation/engine-control-temperature-monitoring/"
+    last_verified: "2026-10-26"

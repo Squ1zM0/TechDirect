@@ -1,0 +1,17 @@
+id: kepware
+name: Kepware
+website: https://support.ptc.com/support/kepware.htm
+categories:
+- electrical
+aliases: []
+support:
+- category: electrical
+  department: Technical Support
+  phone: '+18885379273'
+  country: US
+  notes: "Industrial connectivity software (KEPServerEX); a PTC brand. Toll-free 888-KEPWARE x211 per the official PTC support page. Support requires an active Support and Maintenance Agreement per PTC docs. HQ Portland, ME, 207-775-1799 per a secondary source."
+  source: https://support.ptc.com/support/kepware.htm
+  last_verified: '2026-10-26'
+  hours:
+    timezone: "ET"
+    mon_fri: "8:00 AM - 5:00 PM"

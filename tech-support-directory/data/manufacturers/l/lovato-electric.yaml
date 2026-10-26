@@ -1,0 +1,12 @@
+id: lovato-electric
+name: LOVATO Electric
+website: "https://www.lovatoelectric.com"
+categories: [electrical]
+support:
+  - category: electrical
+    department: Customer Support
+    phone: "+17575454700"
+    country: US
+    notes: "LOVATO Electric S.p.A. (Italy, since 1922); US subsidiary LOVATO Electric Inc USA, 2017 Georgetown Blvd., Chesapeake, VA (sales@lovatousa.com). US number from LOVATO's official US commercial-support page. The Italian technical support line +39 035 4282422 (service@LovatoElectric.com) is also published on LOVATO's official technical-support page, noted here; the US line is published as primary."
+    source: "https://www.lovatoelectric.com/us_en/contacts/commercial-support/"
+    last_verified: "2026-10-26"

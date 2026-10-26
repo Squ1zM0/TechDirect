@@ -1,0 +1,12 @@
+id: nicor
+name: NICOR
+categories: [electrical]
+aliases: ["NICOR Lighting"]
+support:
+  - category: electrical
+    department: Customer Support
+    phone: "+18008216283"
+    country: US
+    notes: "NICOR, Inc., Albuquerque NM (2200 Midtown Pl NE); LED lighting. Distinct from Nicor Gas (888-642-6748) - different company, not used."
+    source: "https://manuals.plus/m/ecc5820308f4cf44f306da2cffce6dd22248fb1e9d300453863cec09980603ae"
+    last_verified: "2026-10-26"

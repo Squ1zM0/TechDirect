@@ -1,0 +1,12 @@
+id: ashburn-chemical-technologies
+name: Ashburn Chemical Technologies
+categories: [hardware]
+aliases: ["Ashburn Chemical"]
+support:
+  - category: hardware
+    department: Customer Support
+    phone: "+18323991000"
+    country: US
+    notes: "Metalworking fluids, lubricants and maintenance chemicals (APEX coolants, EnviroGreen degreasers, Mike-O-Cut), Houston TX (7403 Wright Rd, founded 1968). Line published on ashburnchemical.com (Call For Assistance); toll-free 800-266-5268 and info@ashburnchemical.com also published. No chemicals category exists in the TechDirect vocabulary, so hardware is used as the closest term."
+    source: "https://ashburnchemical.com/"
+    last_verified: "2026-10-26"

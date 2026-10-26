@@ -1,0 +1,12 @@
+id: aker-by-maax
+name: Aker by Maax
+categories: [bathroom-systems]
+aliases: ["Aker by MAAX"]
+support:
+  - category: bathroom-systems
+    department: Technical Support
+    phone: "+18009622537"
+    country: US
+    notes: "Aker by MAAX bathware (MAAX). The manufacturer's catalog lists 1-800-962-2537 for both Technical Services and Customer Service. Emails akercustomercare@maax.com and akertechnicalservices@maax.com. Not the separate xref brand 'Aker' (electrical utility products), which is a different, unresolved row."
+    source: "https://assets.unilogcorp.com/2/ITEM/DOC/Maax_105215AFRL000002_Brochure_1.pdf"
+    last_verified: "2026-10-26"

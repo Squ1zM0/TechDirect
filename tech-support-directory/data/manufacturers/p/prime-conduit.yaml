@@ -1,0 +1,13 @@
+id: prime-conduit
+name: Prime Conduit
+website: https://www.primeconduit.com/
+categories: [electrical]
+aliases: []
+support:
+  - category: electrical
+    department: Customer Support
+    phone: "+12164643400"
+    country: US
+    notes: "23240 Chagrin Blvd Suite 405, Cleveland, OH 44122. Formerly the PVC Pipe Division of Carlon (Lamson & Sessions)."
+    source: "https://assets-global.website-files.com/61c36af899a72429912df65c/639fc1f836cbb38911acd455_Sch_4080_Conduit.pdf"
+    last_verified: "2026-10-26"

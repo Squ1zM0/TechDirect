@@ -1,0 +1,15 @@
+id: mencom
+name: Mencom
+website: https://www.mencom.com
+categories:
+- electrical
+aliases:
+- MENCOM CORP
+support:
+- category: electrical
+  department: Customer Support
+  phone: "+17705344585"
+  country: US
+  notes: 'Oakwood, GA, founded 1987. North American master distributor for ILME rectangular connectors. Official site: ''Call Us Now 770-534-4585''. Covers xref spellings Mencom and MENCOM CORP.'
+  source: https://www.mencom.com/panel-interface-connector-accessory-optional-screw-kit-m4-stainless-steel-for-size-6-32.html
+  last_verified: "2026-10-26"

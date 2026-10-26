@@ -1,0 +1,13 @@
+id: dayton
+name: Dayton
+website: https://www.grainger.com
+categories: [hvac]
+aliases: ["Dayton Electric Manufacturing Co."]
+support:
+  - category: hvac
+    department: Repair Parts
+    phone: "+18003230620"
+    country: US
+    notes: "Dayton is Grainger's private-label brand (motors, fans, blowers, ventilators); Dayton manuals direct repair-parts calls to Grainger Parts, 24 hours a day, 365 days a year. No standalone Dayton support line exists; support is via Grainger. An older Dayton Motor Hotline (888-286-5220) appeared in a 2001 CPSC recall notice only."
+    source: "https://new.grainger.ca/ec/pdf/6E815A-6E821A-Owners-Manual.pdf"
+    last_verified: "2026-10-26"

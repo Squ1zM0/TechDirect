@@ -1,0 +1,13 @@
+id: ci-enclosures
+name: C&I Enclosures
+website: https://www.cienclosures.com/
+categories: [electrical]
+aliases: ["C & I Enclosures"]
+support:
+  - category: electrical
+    department: Customer Support
+    phone: "+12054244855"
+    country: US
+    notes: "C&I Enclosures, 913 Industrial Park Circle, Bessemer, AL 35022, manufacturer of custom and standard electrical enclosures (stainless steel, aluminum, mild steel) since 2005."
+    source: "https://www.cienclosures.com/"
+    last_verified: "2026-10-26"

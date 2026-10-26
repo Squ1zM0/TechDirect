@@ -1,0 +1,13 @@
+id: krylon
+name: Krylon
+categories:
+- hardware
+aliases: []
+support:
+- category: hardware
+  department: Customer Support
+  phone: '+18002473266'
+  country: US
+  notes: "Marking paint and sprays; Krylon Products Group of The Sherwin-Williams Company, Cleveland, OH 44115. The filed number is the product information line from 2015 Krylon safety data sheets. Older 2007 MSDS documents gave a different product information number, superseded and not published here as current. Regulatory 216-566-2902 and medical emergency 216-566-2917 are emergency and regulatory contacts, not filed as support. Website omitted: no verified official Krylon support page was confirmed in the sources used."
+  source: https://msdsdigital.com/system/files/%28SDS%29%20Krylon%20Quik-Mark%20Water-Based%20Inverted%20Marking%20Paint.pdf
+  last_verified: '2026-10-26'

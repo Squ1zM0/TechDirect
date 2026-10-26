@@ -1,0 +1,18 @@
+id: solventum
+name: Solventum
+website: https://www.solventum.com
+categories: [water-systems]
+aliases: []
+support:
+  - category: water-systems
+    department: Customer Support
+    phone: "+18006300778"
+    country: US
+    notes: "Solventum, the independent health care company spun off from 3M in April 2024 (wound care, dental and orthodontic materials, medical products, health-information systems, filtration and purification). Number is the Solventum support line published on 3m.com for bioprocessing/purification products, Mon-Fri 8 a.m.-5 p.m. CT; a general Solventum support number 855-423-6725 is also published by third-party directories. Category water-systems is the closest vocabulary term for Solventum's filtration lines; the company is primarily a health care manufacturer."
+    source: "https://www.3m.com/3M/en_US/biopharmaceutical-purification-us/support/"
+    last_verified: "2026-10-26"
+hours:
+  timezone: America/Chicago
+  days: [Mon, Tue, Wed, Thu, Fri]
+  open: "08:00"
+  close: "17:00"

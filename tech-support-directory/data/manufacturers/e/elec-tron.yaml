@@ -1,0 +1,13 @@
+id: elec-tron
+name: Elec-Tron
+website: https://electron.northparkgroup.com
+categories: [electrical]
+aliases: ["Elec-Tron Products"]
+support:
+  - category: electrical
+    department: Customer Support
+    phone: "+13165223401"
+    country: US
+    notes: "Elec-Tron (Northpark Group, Wichita, KS) molded terminal blocks and boards, fuse panels, mechanical aluminum lug connectors and terminals."
+    source: "https://electron.northparkgroup.com/electron-products/"
+    last_verified: "2026-10-26"

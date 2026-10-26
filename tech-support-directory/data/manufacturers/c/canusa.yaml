@@ -1,0 +1,14 @@
+id: canusa
+name: Canusa
+website: https://www.dsgcanusa.com/
+categories: [electrical]
+aliases: ["CANUSA", "DSG-Canusa", "Canusa (Shawcor)"]
+support:
+  - category: electrical
+    department: Customer Support
+    phone: "+49222588920"
+    email: info-de@dsgcanusa.com
+    country: DE
+    notes: "Canusa = DSG-Canusa, heat-shrink tubing, sleeves and molded products and cable accessories. Shawcor Ltd. rebranded to Mattr Corp. in January 2024; DSG-Canusa is Mattr's Connection Technologies heat-shrink business. No North American support line was found in this pass, so the published DSG-Canusa GmbH (Meckenheim, Germany) line is recorded with its actual country code per batch rules, never replaced with an invented US line."
+    source: "https://www.power-technology.com/contractors/tandd/dsg-canusa/"
+    last_verified: "2026-10-26"

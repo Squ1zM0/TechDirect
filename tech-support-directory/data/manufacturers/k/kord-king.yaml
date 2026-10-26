@@ -1,0 +1,14 @@
+id: kord-king
+name: Kord King
+website: https://www.kordking.com/
+categories:
+- electrical
+aliases: []
+support:
+- category: electrical
+  department: Customer Support
+  phone: '+18008184916'
+  country: US
+  notes: "Power cords, cordsets, and wire harnesses; 62 Industrial Cir, Lancaster, PA 17601. Direct 717-556-5673 per RocketReach (secondary source). Company states it is the largest US manufacturer of power cords."
+  source: https://www.kordking.com/heavy-duty-right-angle-power-cords/
+  last_verified: '2026-10-26'

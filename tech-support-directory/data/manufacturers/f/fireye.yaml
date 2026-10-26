@@ -1,0 +1,14 @@
+id: fireye
+name: "Fireye"
+website: "https://www.fireye.com/applications/commercial/industrial-boilers/"
+categories:
+- hvac-controls
+aliases: []
+support:
+- category: hvac-controls
+  department: "Customer Support"
+  phone: "+16034324100"
+  country: US
+  notes: "Fireye, Inc., 3 Manchester Road, Derry NH 03038. Number from the official site footer. Formerly part of UTC Climate, Controls & Security per a ThomasNet profile; no current parent is asserted beyond that. Flame safeguard and burner management; hvac-controls is the closest vocabulary term."
+  source: "https://www.fireye.com/applications/commercial/industrial-boilers/"
+  last_verified: "2026-10-26"

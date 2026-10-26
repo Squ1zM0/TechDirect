@@ -1,0 +1,14 @@
+id: justrite
+name: Justrite
+website: https://www.justrite.com/
+categories:
+- hardware
+aliases: []
+support:
+- category: hardware
+  department: Customer Support
+  phone: '+18007989250'
+  country: US
+  notes: "Safety cans, safety cabinets, spill containment, and gas cylinder storage; founded 1906. Flagship product is the Justrite Safety Can. Eagle brand is part of Justrite (eagle.justrite.com), noted only."
+  source: https://www.justrite.com/about-us-justrite
+  last_verified: '2026-10-26'

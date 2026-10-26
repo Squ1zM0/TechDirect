@@ -1,0 +1,16 @@
+id: golight
+name: 'Golight'
+categories:
+- electrical
+aliases: []
+support:
+- category: electrical
+  department: 'Technical Support'
+  phone: '+18005770098'
+  country: US
+  notes: 'Email 911@golight.com. Warranty and RGA line 800-557-0098 also published; the two numbers differ by one digit and both appear in Golight documents, and the technical-services line is the one published as Technical Support. Covers batch spellings GOLIGHT and GOLIGHT (Truck Lights).'
+  source: 'https://metadoc.soundoffsignal.com/link/?doc=NzAyMA==.pdf'
+  last_verified: '2026-10-26'
+  hours:
+    timezone: 'CDT'
+    mon_fri: '8:00 AM - 5:00 PM'

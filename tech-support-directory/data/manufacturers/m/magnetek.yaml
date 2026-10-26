@@ -1,0 +1,14 @@
+id: magnetek
+name: Magnetek
+website: https://www.cmco.com/en-bq/our-brands/magnetek/
+categories:
+- electrical
+aliases: []
+support:
+- category: electrical
+  department: Customer Support
+  phone: "+18002888178"
+  country: US
+  notes: Magnetek is a brand of Columbus McKinnon Corporation. Motors, drives, power controls. Hours Mon-Fri 8 AM-5 PM; HQ also (262) 783-3500. The '/G.E.' element of the xref spelling is unverified.
+  source: https://www.cmco.com/en-bq/our-brands/magnetek/
+  last_verified: "2026-10-26"

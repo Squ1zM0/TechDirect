@@ -1,0 +1,15 @@
+id: cyberdata
+name: CyberData
+website: https://www.cyberdata.net
+categories:
+  - electrical
+aliases:
+  - CyberData Corporation
+support:
+  - category: Technical Support
+    department: Technical Support
+    phone: "+18313732601"
+    country: US
+    notes: "VoIP paging, intercom, and notification endpoints (SIP Paging Server, VoIP intercoms), Monterey, CA. Technical Support ext. 333; toll-free 800-292-3732 also published. No telecom term in the category vocabulary; electrical used as closest."
+    source: "https://files.cyberdata.net/assets/011146/011146_931803F_SIP_Paging_Server_Operations_Guide.pdf"
+    last_verified: "2026-10-26"

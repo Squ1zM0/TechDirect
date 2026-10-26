@@ -1,0 +1,14 @@
+id: mission-solar-energy
+name: Mission Solar Energy
+website: https://www.missionsolar.com
+categories:
+- electrical
+aliases: []
+support:
+- category: electrical
+  department: Customer Support
+  phone: "+12105318600"
+  country: US
+  notes: San Antonio, TX. Solar modules. Email info@missionsolar.com; warranty@missionsolar.com. Hours Mon-Fri 8-5.
+  source: https://www.altenergymag.com/content.php?track=27776
+  last_verified: "2026-10-26"

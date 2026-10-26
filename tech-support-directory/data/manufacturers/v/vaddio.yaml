@@ -1,0 +1,21 @@
+id: vaddio
+name: Vaddio
+website: https://www.legrandav.com/
+categories:
+- electrical
+aliases: []
+support:
+- category: electrical
+  department: Customer Support
+  phone: '+18669773901'
+  country: US
+  notes: 'Vaddio is a brand of Legrand AV Inc. Legrand''s official support directory lists Vaddio with
+    its own row: Customer & Sales Support 1-866-977-3901, Mon-Fri 8:30am-6:00pm EST, and technical support
+    email av.vaddio.techsupport@legrand.com. Vaddio product documents also show USA phone 800-572-2011
+    and +1.763.971.4400 (noted, not primary). AV cameras and conferencing. Because Vaddio has its own
+    distinct support contact, it gets its own file rather than resolving to the Legrand file.'
+  source: https://www.Legrand.us/contact-and-support/chat-support
+  last_verified: '2026-10-26'
+  hours:
+    timezone: EST
+    mon_fri: 8:30 AM - 6:00 PM

@@ -1,0 +1,14 @@
+id: houzer
+name: Houzer
+website: https://www.houzersink.com/
+categories:
+- plumbing
+aliases: []
+support:
+- category: plumbing
+  department: Warranty Support
+  phone: '+18008803639'
+  country: US
+  notes: 'Houzer, Hamilton, NJ. Warranty Service line (source wording). Also 609-584-1900. Email info@Houzer.com; sales@houzersink.com also appears on a Lowes installation guide. Sinks, faucets.'
+  source: https://fergusonprod.a.bigcontent.io/v1/static/7598293_18529489_warranty
+  last_verified: '2026-10-26'

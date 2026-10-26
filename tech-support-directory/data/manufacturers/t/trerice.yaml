@@ -1,0 +1,15 @@
+id: trerice
+name: Trerice
+website: http://www.trerice.com/
+categories:
+- hvac-controls
+aliases: []
+support:
+- category: hvac-controls
+  department: Customer Support
+  phone: '+12483998000'
+  country: US
+  notes: H.O. Trerice Co., 12950 W. Eight Mile Road, Oak Park, MI 48237-3288; www.TRERICE.com. Pressure
+    gauges and thermometers.
+  source: http://www.trerice.com/pdfs/2010/Pressure/PressureGaugesDesignOperation_4_5.pdf
+  last_verified: '2026-10-26'

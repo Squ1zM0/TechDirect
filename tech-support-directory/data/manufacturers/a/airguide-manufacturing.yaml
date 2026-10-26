@@ -1,0 +1,12 @@
+id: airguide-manufacturing
+name: AirGuide Manufacturing
+categories: [airflow]
+aliases: ["AirGuide Manufacturing, LLC"]
+support:
+  - category: airflow
+    department: Customer Support
+    phone: "+13058881631"
+    country: US
+    notes: "AirGuide Manufacturing, 795 W 20th St, Hialeah, FL 33010. Manufacturer of all-aluminum grilles, registers and diffusers for commercial, industrial, residential and government markets. Number printed on the manufacturer's own product literature. Note: one directory lists (305) 264-6027 for a Miami company under a similar name with a different website; that number is not used here."
+    source: "https://jra.jacksonms.gov/libweb/X40gOc/270005/airguide_compass__instructions.pdf"
+    last_verified: "2026-10-26"

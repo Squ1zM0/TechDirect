@@ -1,0 +1,13 @@
+id: franklin-control-systems
+name: 'Franklin Control Systems'
+categories:
+- electrical
+aliases: []
+support:
+- category: electrical
+  department: 'Customer Support'
+  phone: '+18009623787'
+  country: US
+  notes: 'Formerly Cerus Industrial, a Franklin Electric company. Distinct support contact from Franklin Electric, hence its own file, not parent-resolved.'
+  source: 'https://docslib.org/download/4831594/p-series-installation-manual'
+  last_verified: '2026-10-26'

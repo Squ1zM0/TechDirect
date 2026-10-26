@@ -1,0 +1,13 @@
+id: thermon
+name: "Thermon"
+website: "https://thermon.com/data-centers/"
+categories: [electrical]
+aliases: []
+support:
+  - category: electrical
+    department: Customer Support
+    phone: "+18008437666"
+    country: US
+    notes: "Thermon heat tracing and industrial heating, San Marcos TX (100 Thermon Dr). General assistance line per the current thermon.com site (1-800-THERMON)."
+    source: "https://thermon.com/data-centers/"
+    last_verified: "2026-10-26"

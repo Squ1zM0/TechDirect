@@ -1,0 +1,13 @@
+id: craftmade
+name: Craftmade
+website: https://www.craftmade.com
+categories: [electrical]
+aliases: []
+support:
+  - category: electrical
+    department: Customer Support
+    phone: "+18004864892"
+    country: US
+    notes: "Craftmade Customer Support / Customer Service per the manufacturer's own fan installation guides (Option 1 for fans); email customerservice@craftmade.com. Lighting, ceiling fans and related products."
+    source: "https://data.craftmade.com/CraftPIM/ProductData/InstallGuides/TOP52xxx5-W_InstallGuide.pdf"
+    last_verified: "2026-10-26"

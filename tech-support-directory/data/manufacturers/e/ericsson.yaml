@@ -1,0 +1,14 @@
+id: ericsson
+name: "Ericsson"
+website: "https://www.ericsson.com/en/about-us/company-facts/ericsson-worldwide/united-states"
+categories:
+- electrical
+aliases: []
+support:
+- category: electrical
+  department: "Customer Support"
+  phone: "+19725830000"
+  country: US
+  notes: "Ericsson, US HQ 6300 Legacy Drive, Plano TX. Filed number is the General Inquiry line from Ericsson own US page, so it is filed as Customer Support, not Technical Support. Dedicated support runs through extranet/partner channels: North America extranet support +1 888-671-1268 (Mon-Fri, authorized customers/partners) and Enterprise Wireless/Cradlepoint sales +1 855 813 3385, both noted here. Telecom and network equipment; electrical is the closest vocabulary term."
+  source: "https://www.ericsson.com/en/about-us/company-facts/ericsson-worldwide/united-states"
+  last_verified: "2026-10-26"

@@ -1,0 +1,13 @@
+id: decolav
+name: Decolav
+website: https://www.decolav.com
+categories: [plumbing]
+aliases: []
+support:
+  - category: plumbing
+    department: Customer Support
+    phone: "+15612742110"
+    country: US
+    notes: "Decolav Customer Service per the manufacturer's own installation guides. Plumbing fixtures: vessel sinks, lavatories, vanity tops and mirrors."
+    source: "https://www.manualshelf.com/manual/decolav/1449-cwh/installation-guide-english.html"
+    last_verified: "2026-10-26"

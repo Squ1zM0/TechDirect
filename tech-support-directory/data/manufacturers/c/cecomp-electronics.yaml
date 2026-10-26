@@ -1,0 +1,13 @@
+id: cecomp-electronics
+name: Cecomp Electronics
+website: https://cecomp.com/
+categories: [electrical]
+support:
+  - category: electrical
+    department: Customer Support
+    phone: "+18009420315"
+    country: US
+    email: info@cecomp.com
+    notes: "Cecomp Electronics, a division of Absolute Process Instruments, Inc., Libertyville, IL; digital pressure/vacuum gauges. Toll-free 800-942-0315 published on cecomp.com product literature; local line (847) 918-3520 also published. Hours Mon-Fri 8:00 AM-5:00 PM CT per trade listing."
+    source: "https://cecomp.com/pdf/cecomp-ctp1b.pdf"
+    last_verified: "2026-10-26"

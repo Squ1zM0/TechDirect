@@ -1,0 +1,13 @@
+id: wattmaster
+name: "WattMaster Controls Inc."
+website: https://www.wattmaster.com
+categories: [hvac-controls]
+aliases: ["WattMaster"]
+support:
+  - category: hvac-controls
+    department: Technical Support
+    phone: "+18669181100"
+    country: US
+    notes: "Toll-free; email mail@wattmaster.com; local 816-505-1100; Parkville MO. HVAC controls."
+    source: "https://www.manualsdir.com/manuals/791809/wattmaster-mua-ii.html?page=24"
+    last_verified: "2026-10-26"

@@ -1,0 +1,13 @@
+id: enerlites
+name: "Enerlites"
+categories:
+- electrical
+aliases: []
+support:
+- category: electrical
+  department: "Customer Support"
+  phone: "+18773726447"
+  country: US
+  notes: "Enerlites Inc., Irvine CA. Alternate line (949) 756-0536. Email sales@enerlites.com. Wiring devices and lighting controls."
+  source: "https://nokxwrrxvvnplxehxvuh.supabase.co/storage/v1/object/public/other-assets/brochures/Commercial%20booklet%202026.pdf"
+  last_verified: "2026-10-26"

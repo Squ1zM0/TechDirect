@@ -1,0 +1,17 @@
+id: haysite
+name: Haysite Reinforced Plastics
+website: https://www.haysite.com/
+categories:
+- electrical
+aliases: []
+support:
+- category: electrical
+  department: Customer Support
+  phone: '+18148683691'
+  country: US
+  notes: 'Haysite Reinforced Plastics LLC, Erie, PA. Fiberglass-reinforced plastics primarily for electrical insulation, corrosion resistance and structural support. Founded 1954; acquired by the Isovolta Group in 2018.'
+  source: https://www.haysite.com/
+  last_verified: '2026-10-26'
+  hours:
+    timezone: ET
+    mon_fri: '8am-5pm'

@@ -1,0 +1,15 @@
+id: renova-lighting
+name: Renova Lighting Systems
+website: https://renova.com/
+categories:
+- electrical
+aliases:
+- Renova Lighting
+support:
+- category: electrical
+  department: Customer Support
+  phone: '+18006356682'
+  country: US
+  notes: Renova Lighting Systems, 36 Bellair Ave, Warwick, RI. sales@renova.com; local 401-737-6700.
+  source: renova.com spec sheets and homepage PDF
+  last_verified: '2026-10-26'

@@ -1,0 +1,16 @@
+id: red-devil
+name: Red Devil
+website: https://www.reddevil.com/
+categories: [hardware]
+aliases: ["Red Devil, Inc."]
+support:
+  - category: hardware
+    department: Customer Support
+    phone: "+18004233845"
+    country: US
+    notes: "Red Devil, Inc., 4175 Webb Street, Pryor, OK 74361. CPID record verified April 20, 2026, labels this the Customer Service number."
+    source: "https://www.whatsinproducts.com/types/type_detail/1/10234/standard/page:1/sort:BrandsChemical.cas_no/direction:asc"
+    last_verified: "2026-10-26"
+    hours:
+      timezone: "CT"
+      mon_fri: "7:00 AM - 4:30 PM"

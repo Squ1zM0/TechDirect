@@ -1,0 +1,14 @@
+id: chief
+name: Chief
+website: https://www.legrandav.com/products/chief
+categories: [electrical]
+aliases: ["Chief Manufacturing", "Chief - Legrand"]
+support:
+  - category: electrical
+    department: Technical Support
+    phone: "+18669773901"
+    email: av.chief.techsupport@legrand.com
+    country: US
+    notes: "Chief, a Legrand AV brand (mounts: wall, ceiling, floor, projector, dvLED/video wall, monitor arms); Legrand's own support page lists a brand-specific Chief customer/sales and technical support line, so Chief stages as its own file rather than parent-resolving to legrand. Hours Mon-Fri 8:30 AM-6:00 PM EST. Older Chief line 800-582-6480 also published on Chief manuals. Covers xref spellings 'Chief' and 'Chief - Legrand'."
+    source: "https://www.Legrand.us/contact-and-support/chat-support"
+    last_verified: "2026-10-26"

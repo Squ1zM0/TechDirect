@@ -1,0 +1,14 @@
+id: endress-hauser
+name: "Endress & Hauser"
+website: "https://www.us.endress.com/en/instrumentation-services"
+categories:
+- electrical
+aliases: []
+support:
+- category: electrical
+  department: "Customer Support"
+  phone: "+18883637377"
+  country: US
+  notes: "Endress+Hauser USA. Page offers diagnostics and troubleshooting support but does not label the line Technical, so it is filed as Customer Support. Alternate line +1-317-535-7138. Email info.us@endress.com. Process measurement and automation instruments."
+  source: "https://www.us.endress.com/en/instrumentation-services"
+  last_verified: "2026-10-26"

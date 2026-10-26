@@ -1,0 +1,17 @@
+id: konkretus
+name: Konkretus
+website: https://www.konkretus.com/
+categories:
+- bathroom-systems
+aliases: []
+support:
+- category: bathroom-systems
+  department: Customer Support
+  phone: '+576044442901'
+  country: CO
+  notes: "Colombian manufacturer of concrete architectural products, furniture, and sinks, Medellin and La Estrella area, Cl 100D Sur #50 96, La Estrella, Antioquia, CO. Red Dot Product Design Prize 2022 winner (Lotus sink). THIN SOURCING: the phone comes from a place listing tied to konkretus.co. The Konkretus PopUp store in Medellin publishes a separate mobile number; it is not the company line and is not filed here. No US line found; no US line invented."
+  source: http://konkretus.co/
+  last_verified: '2026-10-26'
+  hours:
+    timezone: "America/Bogota"
+    mon_fri: "9:00 AM - 5:00 PM"

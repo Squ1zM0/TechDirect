@@ -1,0 +1,13 @@
+id: nexans
+name: Nexans
+website: https://www.nexans.us/
+categories: [electrical]
+aliases: ["Nexans Cable"]
+support:
+  - category: electrical
+    department: Customer Support
+    phone: "+18002689473"
+    country: US
+    notes: "Nexans USA Utility Cables contact: 800-268-9473 ext. 4328 (extension carried here because the phone field holds digits only); email USA.UtilityCable@nexans.com."
+    source: "https://www.nexans.us/.rest/catalog/v1/family/pdf/33509"
+    last_verified: "2026-10-26"

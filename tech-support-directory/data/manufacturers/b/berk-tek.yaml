@@ -1,0 +1,13 @@
+id: berk-tek
+name: Berk-Tek
+website: https://www.leviton.com/ns/berktek
+categories: [electrical]
+aliases: ["Berk-Tek - Leviton", "Berk-Tek, a Leviton Company"]
+support:
+  - category: electrical
+    department: Technical Support
+    phone: "+17173546200"
+    country: US
+    notes: "Berk-Tek, a Leviton company: Leviton completed the acquisition of Berk-Tek on Sept 30, 2020 (from Nexans). Berk-Tek retains its own support desk at New Holland, PA; email berktek.support@leviton.com. Covers xref variants Berk-Tek and Berk-Tek - Leviton. Workbook parent Nexans is superseded by the Leviton acquisition."
+    source: "https://leviton.com/content/dam/leviton/network-solutions/solutions/docs/Leviton-LANMARK-B536-Cat-5e-Solid-2-Pr-Shielded-TPE.pdf"
+    last_verified: "2026-10-26"

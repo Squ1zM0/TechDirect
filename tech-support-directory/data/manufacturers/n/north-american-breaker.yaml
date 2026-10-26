@@ -1,0 +1,13 @@
+id: north-american-breaker
+name: North American Breaker Company
+website: http://nabcous.com/
+categories: [electrical]
+aliases: ["NABCO"]
+support:
+  - category: electrical
+    department: Customer Support
+    phone: "+18002080500"
+    country: US
+    notes: "North American Breaker Company (NABCO); Stallings NC and Houston TX listings both give 800-208-0500; Burbank CA 818-567-7341 is an older HQ listing, not used."
+    source: "http://nabcous.com/"
+    last_verified: "2026-10-26"

@@ -1,0 +1,13 @@
+id: cellarcool
+name: CellarCool
+website: https://www.cellarcool.com/wp-content/uploads/2023/08/CC-Ultimate-R-OM-042523-24V.pdf
+categories: [hvac]
+support:
+  - category: hvac
+    department: Technical Support
+    phone: "+18003439463"
+    country: US
+    email: support@cellarcool.com
+    notes: "CellarCool wine cellar cooling units (Stockton, CA). Line published in CellarCool manuals as 'Tech Support & Customer Service: 1-800-343-9463' and 'Customer Service & Technical Support: 1-800-343-9463'. Local line (209) 466-9463 and a separate sales/sizing line 1-855-235-5271 also published."
+    source: "https://www.cellarcool.com/wp-content/uploads/2023/08/CC-Ultimate-R-OM-042523-24V.pdf"
+    last_verified: "2026-10-26"

@@ -1,0 +1,13 @@
+id: dragonwear
+name: DragonWear
+website: https://www.dragonwear.com
+categories: [hardware]
+aliases: ["Dragon Wear"]
+support:
+  - category: hardware
+    department: Customer Support
+    phone: "+18008735725"
+    country: US
+    notes: "DragonWear (True North Gear, Tukwila, WA) FR/arc-resistant apparel since 1992. Toll-free line and email info@dragonwear.com. Category note: no apparel/PPE vocabulary term exists; mapped to hardware as the closest term."
+    source: "https://www.firerescue1.com/fire-products/apparel/press-releases/true-north-gear-presents-the-power-dry-dual-hazard-shirt-with-left-chest-pocket-Aa2XYJpf4hMUDHHJ/"
+    last_verified: "2026-10-26"

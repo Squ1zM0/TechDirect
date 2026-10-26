@@ -1,0 +1,14 @@
+id: comnet
+name: ComNet
+website: http://www.comnet.net/
+categories: [electrical]
+aliases: ["ComNet Communications Networks"]
+support:
+  - category: electrical
+    department: Customer Support
+    phone: "+12037965300"
+    email: sales@comnet.net
+    country: US
+    notes: "ComNet, an ACRE brand; fiber optic, copper and wireless video/data transmission equipment for security, intelligent transportation, utility and industrial markets (NetWave, managed switches, media converters). Line per ComNet's own trade-press contact blocks. Covers xref spelling 'ComNet Communications Networks' (parent ComNet (Acre))."
+    source: "https://www.securitysystemsnews.com/article/comnet-introduces-gen-4-wireless-ethernet-solution"
+    last_verified: "2026-10-26"

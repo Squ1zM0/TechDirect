@@ -1,0 +1,13 @@
+id: sensorlink
+name: SensorLink
+website: https://www.sensorlink.com
+categories: [electrical]
+aliases: []
+support:
+  - category: electrical
+    department: Customer Support
+    phone: "+13605951000"
+    country: US
+    notes: "SensorLink Corporation, Ferndale, WA (utility current sensors, Ampstik/Ohmstik instruments). General published contact; email info@sensorlink.com."
+    source: "https://sensorlink.com/sites/default/files/documents/Ampstik%20XT%20WJ%20Plus%20Web%20Manual-006%20V01.pdf"
+    last_verified: "2026-10-26"

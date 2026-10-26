@@ -1,0 +1,18 @@
+id: kennametal
+name: Kennametal Inc.
+website: https://www.kennametal.com/
+categories:
+- hardware
+aliases: []
+support:
+- category: hardware
+  department: Technical Support
+  phone: '+18008353668'
+  country: US
+  notes: "Cutting tools and tooling; HQ 1600 Technology Way, Latrobe, PA 15650; Pittsburgh office 525 William Penn Place Suite 3300, PA 15219. Customer Service (US and Canada) 800-446-7738 also published. Number labeled Tech Line USA and Canada in the Kennametal Tooling Systems 7030 catalog."
+  source: https://pdf.directindustry.com/pdf/kennametal/tooling-systems-7030-catalog-complete/7354-346437.html
+  last_verified: '2026-10-26'
+  hours:
+    timezone: "ET"
+    mon_fri: "7:00 AM - 7:00 PM"
+    sat: "9:00 AM - 3:00 PM"

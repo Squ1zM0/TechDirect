@@ -1,0 +1,12 @@
+id: victor-specialties
+name: "Victor Specialties"
+categories: [electrical]
+aliases: []
+support:
+  - category: electrical
+    department: Customer Support
+    phone: "+17188932763"
+    country: US
+    notes: "Bronx NY maker of conduit clamps, straps and hangers. No official website found; website omitted."
+    source: "https://www.electricalcontractingmarketplace.com/company/189114/victor-specialties"
+    last_verified: "2026-10-26"

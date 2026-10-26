@@ -1,0 +1,13 @@
+id: pelican-products
+name: Pelican Products
+website: https://www.pelican.com/us/en/
+categories: [hardware]
+aliases: ["Pelican Products, Inc.", "Pelican"]
+support:
+  - category: hardware
+    department: Customer Support
+    phone: "+18004735422"
+    country: US
+    notes: "Pelican Products, Inc., Torrance, CA (23215 Early Avenue). Customer Service number printed on Pelican warranty documents (warranty claims: call 1-800-473-5422 or email csrwarranty@pelican.com); recorded as Customer Support because the warranty documents label it customer service. Covers xref spellings Pelican and Pelican Products. Cases, flashlights, coolers."
+    source: "http://img.pelican.com/docs/products/mobile/C01030_instructions.pdf"
+    last_verified: "2026-10-26"

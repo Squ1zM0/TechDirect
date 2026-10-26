@@ -1,0 +1,15 @@
+id: sensia
+name: Sensia
+website: https://sensiaglobal.com/
+categories:
+- electrical
+aliases: []
+support:
+- category: electrical
+  department: Customer Support
+  phone: '+18667736742'
+  country: US
+  notes: Sensia, LLC, Energy Tower IV, 15th floor, 11750 Katy Freeway, Houston, TX 77079. hello@sensiaglobal.com. Oil and gas digitalization, measurement and automation; electrical is the closest vocabulary
+    term. A Rockwell Automation + SLB joint venture. Not the Swedish healthcare company also called Sensia; do not conflate.
+  source: 'sensiaglobal.com brochure (Measurement Services: +1-866-7SENSIA)'
+  last_verified: '2026-10-26'

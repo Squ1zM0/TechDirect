@@ -1,0 +1,16 @@
+id: litecontrol
+name: LiteControl
+website: "https://www.currentlighting.com/controls/technical-services"
+categories: [electrical]
+aliases: ["Litecontrol", "LiteControl (Current)"]
+support:
+  - category: electrical
+    department: Technical Support
+    phone: "+18008888006"
+    country: US
+    notes: "LiteControl (Litecontrol) architectural linear lighting; parent Current (Current Lighting Solutions, LLC / HLI Brands). Hubbell Lighting acquired Litecontrol in 2014; GE Current, a Daintree company, completed its acquisition of Hubbell's commercial and industrial lighting business on 2026-02-01 and the combined business is branded Current, with Litecontrol among the acquired brands. Signify is NOT the current owner (the workbook's Signify parent hint is superseded by the Current acquisition). No standalone Current file exists in the reference, so LiteControl is filed standalone carrying Current's published technical support number. Current's Greenville HQ number (864) 678-1000 is also published on Current fixture instructions as Technical Support. Covers both xref spellings LiteControl and LiteControl (Current)."
+    source: "https://www.currentlighting.com/controls/technical-services"
+    hours:
+      timezone: ET
+      mon_fri: "7:00 AM - 7:00 PM"
+    last_verified: "2026-10-26"

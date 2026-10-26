@@ -1,0 +1,12 @@
+id: applied-industrial-technologies
+name: Applied Industrial Technologies
+categories: [hardware]
+aliases: ["Applied"]
+support:
+  - category: hardware
+    department: Customer Support
+    phone: "+18772792799"
+    country: US
+    notes: "Industrial distributor (bearings, power transmission, fluid power, MRO). Service-center line published on applied.com's contact form; corporate line 216-426-4000 and technical/website line 800-655-6552 also published."
+    source: "https://www.applied.com/quote-request"
+    last_verified: "2026-10-26"

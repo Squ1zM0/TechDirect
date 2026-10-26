@@ -1,0 +1,13 @@
+id: durastar
+name: Durastar
+website: https://www.durastar.com
+categories: [hvac]
+aliases: []
+support:
+  - category: hvac
+    department: Customer Support
+    phone: "+18883200706"
+    country: US
+    notes: "Durastar mini-split and PTAC air conditioners (sold through distributors). Customer service line and email questions@durastar.com from the official owner's manuals and warranty documents; damaged-product claims go through the selling retailer/dealer first."
+    source: "https://www.durastar.com/wp-content/uploads/2023/10/Durastar-LimitedWarrantyPDFs-PTAC-r1.pdf"
+    last_verified: "2026-10-26"

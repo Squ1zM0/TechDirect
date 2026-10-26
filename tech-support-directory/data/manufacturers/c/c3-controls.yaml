@@ -1,0 +1,16 @@
+id: c3-controls
+name: C3 Controls
+website: https://www.c3controls.com/
+categories: [electrical]
+aliases: ["c3controls"]
+support:
+  - category: electrical
+    department: Customer Support
+    phone: "+17247757926"
+    country: US
+    notes: "c3controls, 664 State Avenue, Beaver, PA 15009, manufacturer of industrial electrical control products (contactors, pushbuttons, terminal blocks, motor starters) since 1976, ISO 9001:2015 certified, lifetime product warranty, same-day shipping."
+    source: "https://www.c3controls.com/"
+    last_verified: "2026-10-26"
+    hours:
+      timezone: "ET"
+      mon_fri: "8:00 AM - 6:30 PM"

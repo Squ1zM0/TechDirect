@@ -1,0 +1,14 @@
+id: robern
+name: Robern
+website: https://robern.com/
+categories:
+- bathroom-systems
+aliases: []
+support:
+- category: bathroom-systems
+  department: Customer Support
+  phone: '+18008772376'
+  country: US
+  notes: Robern, Inc., a Kohler Co. family brand since 1995, with its own distinct line. Medicine cabinets, vanities, bath lighting.
+  source: Robern spec sheets via resources.kohler.com (robern.com)
+  last_verified: '2026-10-26'

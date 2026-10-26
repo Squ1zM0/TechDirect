@@ -1,0 +1,17 @@
+id: danze
+name: Danze
+website: https://www.danze.com
+categories: [plumbing]
+aliases: []
+support:
+  - category: plumbing
+    department: Technical Support
+    phone: "+18883282383"
+    country: US
+    notes: "Danze technical service center per the manufacturer's own manuals and warranty documents. Decorative plumbing products: faucets, toilets, bidets and lavatories."
+    source: "https://manualmachine.com/danze/dc018110/1416352-installation-manual/"
+    last_verified: "2026-10-26"
+    hours:
+      timezone: "ET"
+      mon_fri: "8:00 AM - 8:00 PM"
+      sat: "9:00 AM - 6:00 PM"

@@ -1,0 +1,13 @@
+id: virginia-kmp
+name: "Virginia KMP"
+website: https://www.virginiakmp.com
+categories: [hvac]
+aliases: []
+support:
+  - category: hvac
+    department: Customer Support
+    phone: "+18002858567"
+    country: US
+    notes: "Email info@virginiakmp.com. Office (214) 330-7731 per MSDS docs. Drain-pan treatments, filter driers, HVAC/R chemicals."
+    source: "https://www.achrnews.com/articles/86326-virginia-kmp-corp-drain-pan-treatments?v=preview"
+    last_verified: "2026-10-26"

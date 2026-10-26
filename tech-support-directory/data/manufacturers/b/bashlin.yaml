@@ -1,0 +1,12 @@
+id: bashlin
+name: Bashlin Industries
+categories: [hardware]
+aliases: ["Bashlin"]
+support:
+  - category: hardware
+    department: Customer Support
+    phone: "+17244588340"
+    country: US
+    notes: "Lineman tools, belts, climbers and harnesses, Grove City PA. Company line published in business listings."
+    source: "https://www.bashlin.com/"
+    last_verified: "2026-10-26"

@@ -1,0 +1,16 @@
+id: pro1-iaq
+name: Pro1 IAQ
+website: https://www.pro1iaq.com/
+categories: [hvac-controls]
+aliases: []
+support:
+  - category: hvac-controls
+    department: Customer Support
+    phone: "+18887761427"
+    country: US
+    notes: "Springfield MO. The HD Supply number is a distributor tech line, not the manufacturer line, and was not used."
+    source: "https://manuals.plus/m/cc5938248c5a9f36426331ac5537d9df540024d5cce309c88d53fc3f72f83299"
+    last_verified: "2026-10-26"
+    hours:
+      timezone: "ET"
+      mon_fri: "9:00 AM - 6:00 PM"

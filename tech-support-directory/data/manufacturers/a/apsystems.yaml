@@ -1,0 +1,15 @@
+id: apsystems
+name: APsystems
+categories: [electrical]
+aliases: []
+support:
+  - category: electrical
+    department: Technical Support
+    phone: "+18442798600"
+    country: US
+    notes: "Solar microinverter / MLPE manufacturer (APsystems USA, Austin TX). Technical Support line published on usa.apsystems.com contact page, email support.usa@apsystems.com; general email info.usa@apsystems.com."
+    source: "https://usa.apsystems.com/contact-us/"
+    last_verified: "2026-10-26"
+    hours:
+      timezone: "CT"
+      mon_fri: "9:00 AM - 5:00 PM"

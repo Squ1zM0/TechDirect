@@ -1,0 +1,13 @@
+id: afx
+name: AFX
+website: https://www.afxinc.com
+categories: [electrical]
+aliases: ["AFX Inc.", "AFX Lighting", "American Fluorescent"]
+support:
+  - category: electrical
+    department: Customer Support
+    phone: "+18472495970"
+    country: US
+    notes: "AFX Inc., Waukegan IL (2345 N. Ernie Krueger Circle, Waukegan, IL 60087). HQ/customer number on AFX manufacturer spec sheets. Covers the AFX/AMERICAN FLUORESCENT line-card spelling (American Fluorescent is AFX's legacy name)."
+    source: "https://afx.lightingnewyork.com/on/demandware.static/-/Sites-master-catalog-lny/default/dwd0291e58/brand/afx/assets/specsheet/c2f142400l5ajd1_spec.pdf"
+    last_verified: "2026-10-26"

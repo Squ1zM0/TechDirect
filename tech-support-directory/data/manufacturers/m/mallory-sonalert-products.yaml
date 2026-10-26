@@ -1,0 +1,14 @@
+id: mallory-sonalert-products
+name: Mallory Sonalert Products
+website: https://mspindy.com
+categories:
+- electrical
+aliases: []
+support:
+- category: electrical
+  department: Customer Support
+  phone: "+13176121000"
+  country: US
+  notes: Audible signaling devices (Sonalert). Email info@mspindy.com.
+  source: https://mspindy.com/certifications/CE-Mark-Statement-Mallory-Sonalert.pdf
+  last_verified: "2026-10-26"

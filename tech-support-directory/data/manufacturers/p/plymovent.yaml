@@ -1,0 +1,13 @@
+id: plymovent
+name: Plymovent
+website: https://www.plymovent.com
+categories: [airflow, hvac]
+aliases: ["Plymovent Corp."]
+support:
+  - category: airflow
+    department: Customer Support
+    phone: "+16093953500"
+    country: US
+    notes: "Plymovent Corp., Cranbury, NJ (5 Corporate Drive). US corporate number published on plymovent.com's locations pages; US regional sales number 800-465-0327 also published. Not labelled technical support, so recorded as Customer Support. Welding and cutting fume removal, oil mist removal, and vehicle exhaust extraction systems for workshops and fire stations."
+    source: "https://www.plymovent.com/en/contact-us/our-locations/t%3Dplymovent"
+    last_verified: "2026-10-26"

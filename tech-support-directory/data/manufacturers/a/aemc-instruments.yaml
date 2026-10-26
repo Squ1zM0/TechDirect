@@ -1,0 +1,13 @@
+id: aemc-instruments
+name: AEMC Instruments
+website: https://www.aemc.com
+categories: [electrical]
+aliases: ["AEMC"]
+support:
+  - category: electrical
+    department: Technical Support
+    phone: "+18003431391"
+    country: US
+    notes: "Chauvin Arnoux, Inc. d.b.a. AEMC Instruments. Technical support (800) 343-1391 ext. 351, email techsupport@aemc.com, per AEMC quick-start guides/manuals. Repair/calibration service center (800) 945-2362 ext. 360, Dover NH."
+    source: "https://www.aemc.com/userfiles/files/resources/usermanuals/Power-Meters-Loggers/8336_QuickStart_EN.pdf"
+    last_verified: "2026-10-26"

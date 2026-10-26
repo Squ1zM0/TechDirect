@@ -1,0 +1,12 @@
+id: armaflex
+name: ArmaFlex
+categories: [hvac]
+aliases: ["Armaflex"]
+support:
+  - category: hvac
+    department: Customer Support
+    phone: "+18008665638"
+    country: US
+    notes: "Flexible elastomeric pipe and duct insulation (AP/ArmaFlex, ArmaFlex Coil, ArmaFlex Shield), a brand of Armacell, Charlotte NC (5605 Carnegie Blvd Ste 100). Insulation line published on armacell.com; component foams line 800-973-0490 and info.AI.US@armacell.com also published. Armacell itself has no TechDirect file, so this file carries the ArmaFlex brand with the Armacell contact."
+    source: "https://www.armacell.com/en-US/aparmaflex-w"
+    last_verified: "2026-10-26"

@@ -1,0 +1,13 @@
+id: xeal
+name: "Xeal"
+website: https://www.istarusa.com
+categories: [electrical]
+aliases: []
+support:
+  - category: electrical
+    department: Customer Support
+    phone: "+18889891189"
+    country: US
+    notes: "iStarUSA brand; power supplies, cables; server/rack power. Support email tech@istarusa.com (filed as Customer Support since Newegg labels it Support Phone without an explicit tech label). Parent: iStarUSA. Distinct from Xeal Energy (EV charging, NYC) and Xeal Pharma (UK); do not conflate."
+    source: "https://www.neweggbusiness.com/product/product.aspx?item=9b-16-215-081"
+    last_verified: "2026-10-26"

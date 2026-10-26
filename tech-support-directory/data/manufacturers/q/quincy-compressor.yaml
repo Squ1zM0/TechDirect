@@ -1,0 +1,12 @@
+id: quincy-compressor
+name: Quincy Compressor
+categories: [hvac]
+aliases: ["Quincy"]
+support:
+  - category: hvac
+    department: Customer Support
+    phone: "+18665463588"
+    country: US
+    notes: "Quincy Compressor is an Atlas Copco brand; no distinct Quincy line was verified in this pass, so the Atlas Copco US number is used with the parent noted. Air compressors; no compressor term exists in the vocabulary, so mapped to hvac. An Atlas Copco emergency line also exists and is not published as the Quincy line."
+    source: "https://www.atlascopco.com/en-us/compressors/service/Plans?__hsfp=1281939615&__hssc=204429455.2.1617644513514&__hstc=204429455.acacebc73d1a89b602bd334b1b5b482c.1590594476709.1617282763078.1617644513514.373"
+    last_verified: "2026-10-26"

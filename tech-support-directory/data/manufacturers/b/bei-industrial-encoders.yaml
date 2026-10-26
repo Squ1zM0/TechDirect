@@ -1,0 +1,12 @@
+id: bei-industrial-encoders
+name: BEI Industrial Encoders
+categories: [electrical]
+aliases: ["BEI Sensors", "Sensata-BEI Sensors", "BEI Industrial Encoders (Sensata)"]
+support:
+  - category: electrical
+    department: Customer Support
+    phone: "+18003502727"
+    country: US
+    notes: "BEI Industrial Encoders of Goleta, CA (7230 Hollister Ave., Goleta, CA 93117) became BEI Sensors, now part of Sensata (sold as Sensata-BEI Sensors). Company manuals and releases give this assistance line as 1-800-ENCODER / 800-350-2727; direct line 805-968-0782 also published in manuals. Recorded as Customer Support because the source labels it general assistance, not technical support."
+    source: "https://www.prweb.com/releases/bei_sensors_introduces_global_first_triple_certified_hazardous_area_encoders/prweb11054794.htm"
+    last_verified: "2026-10-26"

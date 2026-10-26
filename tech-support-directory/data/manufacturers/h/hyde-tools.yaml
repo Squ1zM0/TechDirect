@@ -1,0 +1,14 @@
+id: hyde-tools
+name: Hyde Tools
+website: https://www.hydetools.com/
+categories:
+- hardware
+aliases: []
+support:
+- category: hardware
+  department: Customer Support
+  phone: '+18008724933'
+  country: US
+  notes: 'Hyde Tools, Southbridge, MA. Email custrelations@hydetools.com. Hand tools, blades.'
+  source: https://assets.unilogcorp.com/187/ITEM/DOC/HYDE_103515888_Catalog.pdf
+  last_verified: '2026-10-26'

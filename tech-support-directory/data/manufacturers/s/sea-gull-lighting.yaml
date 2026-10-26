@@ -1,0 +1,21 @@
+id: sea-gull-lighting
+name: Sea Gull Lighting
+website: https://seagulllighting.com/
+categories:
+- electrical
+aliases:
+- Seagull Lighting
+- SEA GULL LIGHTING PRODUCTS
+- Sea Gull Collection
+support:
+- category: electrical
+  department: Customer Support
+  phone: '+18005194092'
+  country: US
+  notes: Sea Gull Lighting / Sea Gull Collection, a Generation Lighting brand (Generation Lighting acquired Sea Gull). Current warranty-page number, weekdays 8:00am-5:30pm Central. Older manuals show 1-800-347-5483,
+    superseded. Lighting fixtures.
+  source: seagulllighting.com warranty page (Customer Service Department at 1-800-519-4092)
+  last_verified: '2026-10-26'
+  hours:
+    timezone: CT
+    mon_fri: 8:00 AM - 5:30 PM

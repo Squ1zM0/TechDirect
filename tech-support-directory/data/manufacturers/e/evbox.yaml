@@ -1,0 +1,13 @@
+id: evbox
+name: "EV-Box"
+categories:
+- electrical
+aliases: []
+support:
+- category: electrical
+  department: "Customer Support"
+  phone: "+31887755444"
+  country: NL
+  notes: "EVBox, Amsterdam HQ. No verified US support line was found, so the Netherlands HQ number is filed with country NL per program rules, never inventing a US line. A 2020 New York filing number +1 (646) 930-6305 was deliberately NOT used as stale and unverified for support. EV charging; electrical is the closest vocabulary term."
+  source: "https://evcharger.wiki/page/EVBox"
+  last_verified: "2026-10-26"

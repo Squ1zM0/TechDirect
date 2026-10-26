@@ -1,0 +1,17 @@
+id: fibertronics
+name: "Fibertronics"
+website: "https://www.fibertronics.com/contactus"
+categories:
+- electrical
+aliases: []
+support:
+- category: electrical
+  department: "Customer Support"
+  phone: "+13214738933"
+  country: US
+  notes: "Fibertronics, Melbourne FL area. Official contact page lists Mon-Fri 8am-5pm EST; email sales@fibertronics.com. Toll-free alternate (877) 320-3143 printed in Fibertronics docs. Fiber-optic connectivity; TL 9000 / AS9100D, ITAR compliant."
+  source: "https://www.fibertronics.com/contactus"
+  last_verified: "2026-10-26"
+  hours:
+    timezone: "ET"
+    mon_fri: "8:00 AM - 5:00 PM"

@@ -1,0 +1,14 @@
+id: rosco
+name: Rosco
+categories:
+- electrical
+aliases: []
+support:
+- category: electrical
+  department: Customer Support
+  phone: '+18662282256'
+  country: US
+  notes: 'Rosco. Identity note: this file assumes the cross-ref ''Rosco'' is Rosco Laboratories (stage and architectural lighting); the number is the Americas gobo customer service line from a Rosco Image
+    Spot manual (customgobo@rosco.com; outside US 512-388-5299). If the cross-ref meant another Rosco, revisit. No official website page was verified in this session, so website is omitted.'
+  source: Rosco Image Spot manual (Gobo Customer Service Centers, Americas toll-free)
+  last_verified: '2026-10-26'

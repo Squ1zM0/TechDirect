@@ -1,0 +1,13 @@
+id: challenger-lighting-company
+name: Challenger Lighting Company
+website: https://challengerl.com/
+categories: [electrical]
+aliases: ["Challenger Lighting Company, Inc.", "CHALLENGER LIGHTING CO"]
+support:
+  - category: electrical
+    department: Customer Support
+    phone: "+18477174700"
+    country: US
+    notes: "Challenger Lighting Company, Inc., Batavia, IL (established 1992; formerly listed Elgin, IL); custom contract lighting for hotels, restaurants, medical centers — tables, workstation, desk, floor, wall/headboard lights, ceiling and vanity fixtures. Distinct from Challenger electrical panels (Eaton legacy, existing file challenger-legacy) — not merged."
+    source: "https://challengerl.com/about-you/"
+    last_verified: "2026-10-26"

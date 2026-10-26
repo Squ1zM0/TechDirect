@@ -1,0 +1,16 @@
+id: bevguard
+name: BevGuard
+website: https://www.aquamor.com/
+categories: [water-systems]
+aliases: ["BevGuard (TST Water)"]
+support:
+  - category: water-systems
+    department: Customer Support
+    phone: "+18662188473"
+    country: US
+    notes: "BevGuard is a registered trademark of TST Water, LLC, Temecula, CA, maker of beverage and foodservice filtration products; TST Water now operates as Aquamor, LLC (aquamor.com), and NSF lists Aquamor, LLC as the maker of the BevGuard series. Direct line 951-541-9517 also published. Category mapped from beverage filtration to water-systems."
+    source: "https://www.aquamor.com/"
+    last_verified: "2026-10-26"
+    hours:
+      timezone: "PT"
+      mon_fri: "8:00 AM - 5:00 PM"

@@ -1,0 +1,17 @@
+id: genova
+name: 'Genova Products'
+website: https://www.genovaproducts.com/
+categories:
+- plumbing
+aliases: []
+support:
+- category: plumbing
+  department: 'Customer Support'
+  phone: '+18005217488'
+  country: US
+  notes: 'Email inquiry@genovaproducts.com. PVC pipe and fittings.'
+  source: 'https://images.orgill.com/weblarge/10021/Genova_70211_Catalog.pdf'
+  last_verified: '2026-10-26'
+  hours:
+    timezone: 'EST'
+    mon_fri: '8:00 AM - 5:00 PM'

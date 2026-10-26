@@ -1,0 +1,13 @@
+id: streamlight
+name: "Streamlight"
+website: "http://www.streamlight.com/support/service/service-options"
+categories: [electrical]
+aliases: []
+support:
+  - category: electrical
+    department: Customer Support
+    phone: "+18005237488"
+    country: US
+    notes: "Streamlight flashlights and lighting tools. Customer service and warranty service line; email cs@streamlight.com."
+    source: "http://www.streamlight.com/support/service/service-options"
+    last_verified: "2026-10-26"

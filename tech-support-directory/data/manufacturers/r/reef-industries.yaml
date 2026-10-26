@@ -1,0 +1,13 @@
+id: reef-industries
+name: Reef Industries
+website: https://www.reefindustries.com/electric-underground-warning-tape.php
+categories: [electrical]
+aliases: []
+support:
+  - category: electrical
+    department: Customer Support
+    phone: "+18002316074"
+    country: US
+    notes: "9209 Almeda Genoa Road, Houston, TX 77075. Underground warning tape for buried utilities; no tape/warning term exists in the vocabulary, so mapped to electrical. Plastic film and laminate manufacturer."
+    source: "https://www.reefindustries.com/electric-underground-warning-tape.php"
+    last_verified: "2026-10-26"

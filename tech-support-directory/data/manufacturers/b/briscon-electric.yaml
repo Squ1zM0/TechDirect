@@ -1,0 +1,13 @@
+id: briscon-electric
+name: Briscon Electric
+website: https://www.brisconelectric.com/
+categories: [electrical]
+aliases: ["Briscon", "Briscon Electric Mfg."]
+support:
+  - category: electrical
+    department: Customer Support
+    phone: "+15088323481"
+    country: US
+    notes: "Briscon Electric Manufacturing Corporation, Auburn MA (Technology Drive, PO Box 145); cable staples, service-entrance weather caps; fax 508-832-3461. CORRECTION: the xref label 'nVent Briscon' is not supported - Briscon is not an nVent brand; filed standalone with its own number."
+    source: "https://rexel-cdn.com/products/briserventkitspdf.pdf?i=5CE6C93C-9F64-4BAE-A90E-D9FB7C346719"
+    last_verified: "2026-10-26"

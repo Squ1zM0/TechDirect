@@ -1,0 +1,14 @@
+id: metalaire
+name: Metalaire
+website: https://www.metalaire.com
+categories:
+- airflow
+aliases: []
+support:
+- category: airflow
+  department: Customer Support
+  phone: "+17274412651"
+  country: US
+  notes: Flagship brand of Metal Industries Inc. Clearwater, FL. Air distribution products (grilles, registers, diffusers, dampers, air terminals). Fax 727-443-7167.
+  source: https://www.metalaire.com/product/model-cc5-frs
+  last_verified: "2026-10-26"

@@ -1,0 +1,13 @@
+id: soraa
+name: Soraa
+website: https://www.soraa.com
+categories: [electrical]
+aliases: []
+support:
+  - category: electrical
+    department: Technical Support
+    phone: "+18554676722"
+    country: US
+    notes: "Soraa, Fremont, CA (high-CRI LED lamps: MR16, PAR and AR111; GaN-on-GaN LED technology). Technical support email techsupport@soraa.com; general info info@soraa.com; direct line 510-456-2200 also published."
+    source: "https://topled.ee/wp-content/uploads/2018/09/soraa-summary-brochure_topled.pdf"
+    last_verified: "2026-10-26"

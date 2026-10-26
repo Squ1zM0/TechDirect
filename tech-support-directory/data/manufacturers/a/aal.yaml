@@ -1,0 +1,13 @@
+id: aal
+name: AAL (Architectural Area Lighting)
+website: https://www.currentlighting.com/aal
+categories: [electrical]
+aliases: ["AAL", "Architectural Area Lighting"]
+support:
+  - category: electrical
+    department: Customer Support
+    phone: "+18646781000"
+    country: US
+    notes: "Architectural Area Lighting (AAL), a Current Lighting brand (currentlighting.com/aal). Toll-free contact per trade listing; legacy numbers (626) 968-5666 and (714) 994-2700 appear in older listings. Near-miss candidate NDS is a false friend and was rejected."
+    source: "https://www.arcat.com/arcatcos/cos30/arc30572.html"
+    last_verified: "2026-10-26"

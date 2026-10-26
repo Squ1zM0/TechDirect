@@ -1,0 +1,16 @@
+id: ridgid
+name: RIDGID
+categories:
+- hardware
+aliases:
+- Ridgid Tool
+- Ridge Tool Company
+support:
+- category: hardware
+  department: Technical Support
+  phone: '+18005193456'
+  country: US
+  notes: 'RIDGID (Ridge Tool Company), an Emerson brand. Technical Service Department: rtctechservices@emerson.com; US and Canada line 800-519-3456. A separate 800-474-3443 customer-service number appears
+    only in third-party summaries and is not used as primary. Pipe tools, drain cleaning, power tools.'
+  source: RIDGID/Ridge Tool installation sheet PDF via tradeservice (Contact Ridge Tool Technical Service Department)
+  last_verified: '2026-10-26'

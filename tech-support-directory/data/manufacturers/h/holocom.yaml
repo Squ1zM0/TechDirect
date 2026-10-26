@@ -1,0 +1,14 @@
+id: holocom
+name: Holocom
+website: https://www.holocom.com/
+categories:
+- electrical
+aliases: []
+support:
+- category: electrical
+  department: Customer Support
+  phone: '+18884656266'
+  country: US
+  notes: 'Holocom, Inc., San Diego, CA (offices also Colorado Springs, CO and Washington, DC area). Toll-free 888-HOLOCOM, digits printed in the source. Main 858-222-6430; email customerservice@holocom.com. Protective distribution systems (PDS) for SIPRNet and classified networks, junction boxes, raceway joints; products made in USA, comply with CNSSI 7003.'
+  source: https://www.holocom.com/pr/11_09_10%20SecureLargeCarrier.pdf
+  last_verified: '2026-10-26'

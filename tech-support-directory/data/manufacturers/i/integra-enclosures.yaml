@@ -1,0 +1,14 @@
+id: integra-enclosures
+name: Integra Enclosures
+website: https://integraenclosures.com/
+categories:
+- electrical
+aliases: []
+support:
+- category: electrical
+  department: Customer Support
+  phone: '+14402694966'
+  country: US
+  notes: "Polycarbonate enclosures and accessories; toll-free 800-398-3122 also published in an Integra document hosted by KJ Electric."
+  source: https://integraenclosures.com/custom-enclosures/
+  last_verified: '2026-10-26'

@@ -1,0 +1,12 @@
+id: lacava
+name: Lacava
+categories: [plumbing]
+aliases: []
+support:
+  - category: plumbing
+    department: Technical Support
+    phone: "+18885222823"
+    country: US
+    notes: "LACAVA owner's manuals direct technical assistance to this toll-free number; Chicago, IL (tel 773-637-9600 also published in manuals). Bathroom fixtures and vanities."
+    source: "https://lacava.com/manual/W1014_manual.pdf"
+    last_verified: "2026-10-26"

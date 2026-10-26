@@ -1,0 +1,13 @@
+id: olfa
+name: OLFA
+website: https://olfa.com/pages/warranty
+categories: [hardware]
+aliases: ["OLFA USA"]
+support:
+  - category: hardware
+    department: Customer Support
+    phone: "+18336636532"
+    country: US
+    notes: "OLFA USA Inc.; warranty page says 'call us at 833-663-6532 and press Option 1'; email customer.service@OLFAhandtools.com; Avon/Terre Haute IN. Filed as Customer Support with the warranty option-1 context noted (the warranty page is the source context)."
+    source: "https://olfa.com/pages/warranty"
+    last_verified: "2026-10-26"

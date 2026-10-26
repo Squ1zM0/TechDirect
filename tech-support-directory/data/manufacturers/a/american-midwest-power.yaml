@@ -1,0 +1,12 @@
+id: american-midwest-power
+name: American Midwest Power
+categories: [electrical]
+aliases: ["AMP"]
+support:
+  - category: electrical
+    department: Customer Support
+    phone: "+18003288658"
+    country: US
+    notes: "Power distribution equipment (busway, switchboards, CT/TC/SCC cabinets), Plymouth MN (3131 Vicksburg Lane, since 1975). Toll-free line published in AMP's own corporate brochure; local line 763-551-1555 also published. Hours Mon-Fri 8am-5pm CT per place records."
+    source: "https://ampmfg.com/assets/uploads/documents/AMP-Corporate-Brochure.pdf"
+    last_verified: "2026-10-26"

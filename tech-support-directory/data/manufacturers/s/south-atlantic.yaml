@@ -1,0 +1,13 @@
+id: south-atlantic
+name: South Atlantic
+website: https://southatlanticllc.com
+categories: [electrical]
+aliases: []
+support:
+  - category: electrical
+    department: Customer Support
+    phone: "+19103321900"
+    country: US
+    notes: "South Atlantic LLC, Wilmington, NC (hot-dip galvanizing services with nine coating facilities in eight Southeastern states, plus grounding and masonry product divisions out of its Chattanooga, TN manufacturing plant). Filed as the trade-relevant match for the xref row; the galvanizing-service vs product-brand reading is a judgment call, flagged in the batch report."
+    source: "https://southatlanticllc.com/about/"
+    last_verified: "2026-10-26"

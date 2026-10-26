@@ -1,0 +1,16 @@
+id: danco
+name: Danco
+website: https://www.danco.com
+categories: [plumbing]
+aliases: []
+support:
+  - category: plumbing
+    department: Customer Support
+    phone: "+18005235135"
+    country: US
+    notes: "Danco Customer Service and Product Support per danco.com's own contact page; plumbing repair parts (faucets, cartridges, washers). Summer hours Mon-Thu 8am-5pm, Fri 7am-4pm CST also published."
+    source: "https://www.danco.com/support/contact-us/?cat=Sales%20Representative"
+    last_verified: "2026-10-26"
+    hours:
+      timezone: "CT"
+      mon_fri: "7:00 AM - 5:00 PM"

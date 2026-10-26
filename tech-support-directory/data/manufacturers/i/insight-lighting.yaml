@@ -1,0 +1,14 @@
+id: insight-lighting
+name: Insight Lighting
+website: https://insightlighting.com/
+categories:
+- electrical
+aliases: []
+support:
+- category: electrical
+  department: Customer Support
+  phone: '+15053450888'
+  country: US
+  notes: "Lighting fixtures; 4341 Fulcrum Way NE, Rio Rancho, NM 87144, per the official homepage."
+  source: https://insightlighting.com/
+  last_verified: '2026-10-26'

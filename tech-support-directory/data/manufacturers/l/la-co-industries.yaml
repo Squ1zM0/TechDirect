@@ -1,0 +1,12 @@
+id: la-co-industries
+name: LA-CO Industries
+categories: [hvac]
+aliases: ["LA-CO"]
+support:
+  - category: hvac
+    department: Customer Support
+    phone: "+18479567600"
+    country: US
+    notes: "LA-CO Industries, Elk Grove Village, IL; maker of Markal marking products, Tempil temperature indicators and LA-CO plumbing/chemical products. General/customer-service contact per LA-CO safety data sheets (customer_service@laco.com); toll-free 800-621-4025 also published in LA-CO releases."
+    source: "https://www.KimballMidwest.com/PDFViewerPage/LoadPDF?fileAttachmentID=3556565"
+    last_verified: "2026-10-26"

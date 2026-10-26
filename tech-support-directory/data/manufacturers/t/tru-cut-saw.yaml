@@ -1,0 +1,15 @@
+id: tru-cut-saw
+name: Tru-Cut Saw
+website: https://trucutsaw.com/
+categories:
+- hardware
+aliases: []
+support:
+- category: hardware
+  department: Customer Support
+  phone: '+18008788761'
+  country: US
+  notes: Tru-Cut Saw, Inc., 2903 Interstate Parkway, Brunswick, OH 44212; local Tel 330.225.4090; trucutsaw@trucutsaw.com.
+    Circular saw blade manufacturer, founded 1985. Not Tru-Cut Tools (I) Pvt. Ltd., Mumbai (Amada agent/distributor).
+  source: https://trucutsaw.com/pdfs/TCSW_HS_Steel_PS.pdf
+  last_verified: '2026-10-26'

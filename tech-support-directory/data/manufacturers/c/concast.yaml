@@ -1,0 +1,13 @@
+id: concast
+name: Concast
+categories: [electrical]
+aliases: ["Concast Incorporated", "Concast Inc."]
+support:
+  - category: electrical
+    department: Customer Support
+    phone: "+15077324095"
+    email: info@concastinc.com
+    country: US
+    notes: "Concast Incorporated, Zumbrota, MN; precast Fibercrete box pads, pull boxes, vaults and utility enclosures for electrical installations. Phone and email per the company's own product specification sheets."
+    source: "https://concastinc.com/wp-content/uploads/2026/04/BoxPads.pdf"
+    last_verified: "2026-10-26"

@@ -1,0 +1,13 @@
+id: american-green-technology
+name: American Green Technology
+website: https://www.americangreentechnology.com
+categories: [electrical]
+aliases: ["American Green Technologies", "AGT"]
+support:
+  - category: electrical
+    department: Customer Support
+    phone: "+12693409975"
+    country: US
+    notes: "American Green Technology (AGT), 52129 State Route 933, South Bend, IN 46637. Induction and LED lighting for commercial, municipal and industrial applications, sold via lighting representatives; number published in trade directories and a LightFair exhibitor list (fax (269) 849-8726). An older exhibitor list also gives website agtus.org; the americangreentechnology.com site is used. NOT the Worcester, MA lighting store of a similar name (listed permanently closed) and NOT the Palm Desert, CA listing (760) 262-5911, which could not be tied to the South Bend manufacturer."
+    source: "https://us.kompass.com/x/distributor/s/electrical-electronics-optical/08/"
+    last_verified: "2026-10-26"

@@ -1,0 +1,12 @@
+id: ldpi-lighting
+name: LDPI Lighting
+categories: [electrical]
+aliases: ["LDPI"]
+support:
+  - category: electrical
+    department: Customer Support
+    phone: "+18008540021"
+    country: US
+    notes: "LDPI, Inc., Eau Claire, WI; industrial, hazardous-location, paint-booth and inspection lighting. Toll-free number from ldpi-inc.com product pages; direct line 715-839-9585 also published."
+    source: "https://www.ldpi-inc.com/products/led-dock-modular-dock-lighting/"
+    last_verified: "2026-10-26"

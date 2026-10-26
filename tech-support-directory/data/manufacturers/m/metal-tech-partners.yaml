@@ -1,0 +1,14 @@
+id: metal-tech-partners
+name: Metal-Tech Partners
+website: https://mtpartners.com/
+categories:
+- electrical
+aliases: []
+support:
+- category: electrical
+  department: Customer Support
+  phone: "+14027597000"
+  country: US
+  notes: Geneva, NE, founded 1992. Telecom racks/bays/cabinets, cable management. Email mtp@mtpartners.com.
+  source: https://www.crunchbase.com/organization/metal-tech-partners
+  last_verified: "2026-10-26"

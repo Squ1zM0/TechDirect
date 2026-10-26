@@ -1,0 +1,12 @@
+id: axis-communications
+name: Axis Communications
+categories: [electrical]
+aliases: ["Axis", "AXIS Communications"]
+support:
+  - category: electrical
+    department: Customer Support
+    phone: "+18004442947"
+    country: US
+    notes: "Network cameras, network video, access control and audio solutions; US headquarters Chelmsford MA (300 Apollo Dr). Line published on axis.com experience-center and support pages. No security category exists in the TechDirect vocabulary, so electrical is used as the closest term. Covers both xref spellings: Axis and AXIS Communications are the same company. Distinct from Axis Lighting (Montreal QC, a different company with a different number) - see axis-lighting.yaml."
+    source: "https://www.axis.com/en-us/experience-center/boston"
+    last_verified: "2026-10-26"

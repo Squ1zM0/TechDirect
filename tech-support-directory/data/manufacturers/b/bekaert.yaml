@@ -1,0 +1,13 @@
+id: bekaert
+name: Bekaert
+website: https://www.bekaert.com
+categories: [electrical]
+aliases: []
+support:
+  - category: electrical
+    department: Customer Support
+    phone: "+17709062261"
+    country: US
+    notes: "Bekaert published US contact (Marietta, GA office) from Bekaert's own power-utilities literature; no dedicated technical-support line was found, so the published US office contact is recorded as Customer Support. Steel wire and fencing products."
+    source: "https://www.bekaert.com/content/dam/corporate/literature/shared/Telecommunications-Market-Brochure.pdf"
+    last_verified: "2026-10-26"

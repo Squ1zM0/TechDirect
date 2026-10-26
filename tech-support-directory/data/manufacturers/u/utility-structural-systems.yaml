@@ -1,0 +1,20 @@
+id: utility-structural-systems
+name: Utility Structural Systems
+website: https://utilitystructural.com/
+categories:
+- electrical
+aliases: []
+support:
+- category: electrical
+  department: Customer Support
+  phone: '+18003679273'
+  country: US
+  notes: Utility Structural Systems, Houston, TX (8720 Tavenor Ln) and Dalworthington Gardens, TX. State-of-the-art
+    polyurethane backfills for setting and straightening utility poles, for over 50 years. Hours Mon-Fri
+    8:00 AM-4:30 PM America/Chicago (a second place record says 5:00 PM close). Not Utility Structures
+    Inc., Ottawa, ON (concrete poles, 613-225-6398).
+  source: http://www.utilitystructural.com/
+  last_verified: '2026-10-26'
+  hours:
+    timezone: America/Chicago
+    mon_fri: 8:00 AM - 4:30 PM

@@ -1,0 +1,17 @@
+id: fiber-instrument-sales
+name: "Fiber Instrument Sales"
+website: "https://www.fiberinstrumentsales.com/"
+categories:
+- electrical
+aliases: ["FIS"]
+support:
+- category: electrical
+  department: "Customer Support"
+  phone: "+18005000347"
+  country: US
+  notes: "Fiber Instrument Sales Inc. (FIS), 161 Clear Road, Oriskany NY 13424, founded 1985. Number is 1-800-5000-FIS; outside US +1 315-736-2206. Hours Mon-Fri 8AM-6PM EST. Fiber-optic manufacturer and distributor."
+  source: "https://www.fiberinstrumentsales.com/"
+  last_verified: "2026-10-26"
+  hours:
+    timezone: "ET"
+    mon_fri: "8:00 AM - 6:00 PM"

@@ -1,0 +1,13 @@
+id: carnes
+name: Carnes
+website: https://www.carnes.com
+categories: [hvac, airflow]
+aliases: ["Carnes Co."]
+support:
+  - category: hvac
+    department: Customer Support
+    phone: "+16088456411"
+    country: US
+    notes: "Carnes Company general line (Verona, WI), published in Carnes manuals; not labelled technical support, so recorded as Customer Support. Email carnes@carnes.com. HVAC fans, ventilation and energy recovery."
+    source: "https://carnes.com/GeneralCatalogs/26049.pdf"
+    last_verified: "2026-10-26"

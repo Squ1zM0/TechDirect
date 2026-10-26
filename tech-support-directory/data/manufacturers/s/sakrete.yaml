@@ -1,0 +1,14 @@
+id: sakrete
+name: Sakrete
+website: https://sakrete.com/
+categories:
+- hardware
+aliases: []
+support:
+- category: hardware
+  department: Customer Support
+  phone: '+18667257383'
+  country: US
+  notes: Sakrete (Sakrete of North America), 625 Griffith Road Ste 100, Charlotte, NC 28217. Concrete mixes; hardware is the closest vocabulary term.
+  source: CPID records (Sakrete of North America, Customer Service No 866-725-7383)
+  last_verified: '2026-10-26'

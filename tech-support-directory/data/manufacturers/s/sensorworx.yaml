@@ -1,0 +1,13 @@
+id: sensorworx
+name: SensorWorx
+website: https://www.sensorworx.com
+categories: [electrical]
+aliases: []
+support:
+  - category: electrical
+    department: Customer Support
+    phone: "+12036784224"
+    country: US
+    notes: "SENSORWORX lighting controls (occupancy sensors) by BLP Technologies, Inc., Wallingford, CT. Five-year limited warranty; support email listed as support@sensorworx.com in product manual listings."
+    source: "https://www.interactivelightingsupply.com/cdn/shop/files/Sensorworx_SWX-222-1.pdf?v=7983274343158615838"
+    last_verified: "2026-10-26"

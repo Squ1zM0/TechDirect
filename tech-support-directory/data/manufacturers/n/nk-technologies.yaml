@@ -1,0 +1,12 @@
+id: nk-technologies
+name: NK Technologies
+categories: [electrical]
+aliases: []
+support:
+  - category: electrical
+    department: Technical Support
+    phone: "+14088717510"
+    country: US
+    notes: "NK Technologies, San Jose CA (3511 Charter Park Drive); Rockwell Automation partner publication labels TECH SUPPORT 408.871.7510 option 2; toll-free 800.959.4014 also published; email sales@nktechnologies.com."
+    source: "https://literature.rockwellautomation.com/idc/groups/literature/documents/pp/tecpar-pp017_-en-p.pdf"
+    last_verified: "2026-10-26"

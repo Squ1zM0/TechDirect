@@ -1,0 +1,13 @@
+id: dent-instruments
+name: DENT Instruments
+website: https://www.dentinstruments.com
+categories:
+  - electrical
+support:
+  - category: Technical Support
+    department: Technical Support
+    phone: "+18003880770"
+    country: US
+    notes: "Power meters and data loggers (PowerScout, ELITEpro), Bend, OR (925 SW Emkay Drive, Bend, OR 97702). Local line 541-388-4774 and techhelp@dentinstruments.com also published."
+    source: "https://www.dentinstruments.com/software-downloads/viewpoint-hd-powerscout-hd-series/"
+    last_verified: "2026-10-26"

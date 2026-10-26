@@ -1,0 +1,12 @@
+id: pw-pipe
+name: PW Pipe
+categories: [waterworks]
+aliases: []
+support:
+  - category: waterworks
+    department: Customer Support
+    phone: "+18006214404"
+    country: US
+    notes: "JM Eagle successor lineage per the xref parent field. JM Eagle's own number also appears on JM Eagle documents; the toll-free customer-service number is used."
+    source: "https://jmeagle.com/sites/default/files/Eagle_Green_PE_Single_Dual_Wall_2025-06.pdf"
+    last_verified: "2026-10-26"

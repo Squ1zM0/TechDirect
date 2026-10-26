@@ -1,0 +1,13 @@
+id: national-strand-products
+name: National Strand Products
+website: https://Nationalstrand.com/
+categories: [electrical]
+aliases: ["National Strand"]
+support:
+  - category: electrical
+    department: Customer Support
+    phone: "+18004552475"
+    country: US
+    notes: "National Strand Products, Baytown TX; wire/cable strand products."
+    source: "https://Nationalstrand.com/"
+    last_verified: "2026-10-26"

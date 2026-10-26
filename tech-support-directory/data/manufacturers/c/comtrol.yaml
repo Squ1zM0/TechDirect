@@ -1,0 +1,14 @@
+id: comtrol
+name: Comtrol
+website: http://www.comtrol.com/
+categories: [electrical]
+aliases: ["Comtrol Corporation"]
+support:
+  - category: electrical
+    department: Customer Support
+    phone: "+18009266876"
+    email: sales@comtrol.com
+    country: US
+    notes: "Comtrol Corporation, New Brighton/Minneapolis, MN (founded 1982); device connectivity — DeviceMaster Ethernet device servers, RocketPort multiport serial cards, industrial Ethernet gateways. Line published as 800-GO-ROCKET (800-926-6876) on Comtrol's own releases."
+    source: "https://www.automation.com/article/comtrol-achieves-performance-breakthru-in-network"
+    last_verified: "2026-10-26"

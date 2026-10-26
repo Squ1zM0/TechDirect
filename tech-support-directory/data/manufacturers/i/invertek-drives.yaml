@@ -1,0 +1,14 @@
+id: invertek-drives
+name: Invertek Drives
+website: https://www.invertekdrives.com/
+categories:
+- electrical
+aliases: []
+support:
+- category: electrical
+  department: Customer Support
+  phone: '+17142564100'
+  country: US
+  notes: "Variable-frequency drives; the filed number is the authorized US partner Industrial Technical Services, La Mirada, CA, as listed on Invertek's official USA Sales and Support Network page. UK HQ number not used; US HQ is Libertyville, IL."
+  source: https://www.invertekdrives.com/contact/us/industrial_technical_services/la_mirada
+  last_verified: '2026-10-26'

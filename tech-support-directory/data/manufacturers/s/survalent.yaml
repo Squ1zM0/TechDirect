@@ -1,0 +1,13 @@
+id: survalent
+name: "Survalent Technology"
+website: "https://www.survalent.com/"
+categories: [electrical]
+aliases: []
+support:
+  - category: electrical
+    department: Customer Support
+    phone: "+19058265000"
+    country: CA
+    notes: "Survalent Technology utility SCADA/ADMS software, Brampton ON, Canada. Email info@survalent.com. Maintenance program offers technical support tiers (8 am-5 pm local / 24x7 priority). No US-specific line was found; no US line invented."
+    source: "https://www.survalent.com/wp-content/uploads/resource/Survalent_SoftwareMaintenanceProgram.pdf"
+    last_verified: "2026-10-26"

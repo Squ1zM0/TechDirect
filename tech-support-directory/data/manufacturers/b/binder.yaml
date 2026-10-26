@@ -1,0 +1,13 @@
+id: binder
+name: Binder
+website: https://www.binder-usa.com/us-es/noticias/connectors-for-harsh-environment
+categories: [electrical]
+aliases: ["Binder USA", "Binder USA, LP", "Franz Binder"]
+support:
+  - category: electrical
+    department: Customer Support
+    phone: "+18054379925"
+    country: US
+    notes: "Binder USA, LP, 3903 Calle Tecate, Camarillo, CA 93012, US subsidiary of binder Group, manufacturer of circular connectors, cord sets and LED lights. Source page directs customers to 'our customer service' at this number. Email sales@binder-usa.com."
+    source: "https://www.binder-usa.com/us-es/noticias/connectors-for-harsh-environment"
+    last_verified: "2026-10-26"

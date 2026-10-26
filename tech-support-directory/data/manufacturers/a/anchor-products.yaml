@@ -1,0 +1,12 @@
+id: anchor-products
+name: Anchor Products
+categories: [hvac]
+aliases: ["Anchor Products, LLC"]
+support:
+  - category: hvac
+    department: Customer Support
+    phone: "+18885752131"
+    country: US
+    notes: "Rooftop securement attachments (U-Anchor 2000/3000 Series) for HVAC units, pipe, conduit, solar racking and duct, Haltom City TX (6316 Airport Fwy, founded 2010). Line published on anchorp.com; office hours Mon-Fri 8am-5pm CT."
+    source: "https://www.anchorp.com/3000seriesanchors"
+    last_verified: "2026-10-26"

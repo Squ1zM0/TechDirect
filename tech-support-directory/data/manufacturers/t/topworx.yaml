@@ -1,0 +1,17 @@
+id: topworx
+name: TopWorx
+website: https://www.topworx.com/
+categories:
+- hvac-controls
+aliases: []
+support:
+- category: hvac-controls
+  department: Customer Support
+  phone: '+15029698000'
+  country: US
+  notes: TopWorx Americas Global Support Office, 3300 Fern Valley Road, Louisville, KY 40213; info.TopWorx@Emerson.com.
+    Emerson acquired TopWorx in August 2008, but TopWorx has its own distinct support contact, so it gets
+    its own file rather than resolving to the Emerson file. Emerson's Global Response Center +1 888-889-9170
+    is not the TopWorx line. Discrete valve controllers / position sensors.
+  source: https://www.induchemgroup.com/contentFiles/dataSheets/50006-Emerson TopWorx Brochure.pdf
+  last_verified: '2026-10-26'

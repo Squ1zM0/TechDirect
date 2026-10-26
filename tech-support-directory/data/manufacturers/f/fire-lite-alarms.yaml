@@ -1,0 +1,20 @@
+id: fire-lite-alarms
+name: Fire-Lite Alarms
+website: https://buildings.honeywell.com/us/en/brands/our-brands/firelite/support/technical-support
+categories:
+- electrical
+aliases:
+- Honeywell Firelite
+- Honeywell Fire-Lite Alarms
+- Fire-Lite
+support:
+- category: electrical
+  department: Technical Support
+  phone: '+18006273473'
+  country: US
+  notes: 'Fire-Lite Alarms (Honeywell), Northford, CT. Email Firelite.Tech@honeywell.com. Hours Mon-Fri 8am-7pm Eastern on the Fire-Lite technical-support page; one variant page says 8am-5pm. Sibling Honeywell fire brands on the same support page: NOTIFIER 800-289-3473, System Sensor 800-736-7672, Silent Knight 800-446-6444.'
+  source: https://buildings.honeywell.com/us/en/brands/our-brands/firelite/support/technical-support
+  last_verified: '2026-10-26'
+  hours:
+    timezone: ET
+    mon_fri: '8am-7pm'

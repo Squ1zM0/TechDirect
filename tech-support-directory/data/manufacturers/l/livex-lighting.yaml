@@ -1,0 +1,12 @@
+id: livex-lighting
+name: Livex Lighting
+website: "https://www.livexlighting.com"
+categories: [electrical]
+support:
+  - category: electrical
+    department: Customer Support
+    phone: "+18007618056"
+    country: US
+    notes: "Livex Lighting; number from Livex's own installation instructions ('Need assistance with parts or assembly? Please call customer service at: 800-761-8056', info@livexlighting.com). A consumer-directory listing also publishes a direct line (732) 873-3700, noted here, not used as primary."
+    source: "https://mans.io/files/viewer/1393336/1"
+    last_verified: "2026-10-26"

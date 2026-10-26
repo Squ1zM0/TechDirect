@@ -1,0 +1,17 @@
+id: keyscan
+name: Keyscan
+website: https://keyscan.com/
+categories:
+- electrical
+aliases: []
+support:
+- category: electrical
+  department: Technical Support
+  phone: '+18885397226'
+  country: US
+  notes: "Access control; dormakaba Canada Inc., Whitby, Ontario, 901 Burns Street East, L1N 0E6. Technical support is dealer and installer-facing; direct 905-430-7226 (Canada) also published. Number labeled Keyscan technical support in a manufacturer manual."
+  source: https://dormakaba-res.cloudinary.com/image/upload/v1774591533/dormakaba-prod/1774533441-kd10121-e.pdf
+  last_verified: '2026-10-26'
+  hours:
+    timezone: "ET"
+    mon_fri: "9:00 AM - 6:30 PM"

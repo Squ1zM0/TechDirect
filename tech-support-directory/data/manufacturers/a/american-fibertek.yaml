@@ -1,0 +1,13 @@
+id: american-fibertek
+name: American Fibertek
+website: https://www.americanfibertek.com
+categories: [electrical]
+aliases: ["American Fibertek, Inc.", "AFI"]
+support:
+  - category: electrical
+    department: Customer Support
+    phone: "+18772347200"
+    country: US
+    notes: "American Fibertek, Inc. (AFI), 120 Belmont Drive, Somerset, NJ 08873 (also listed St. Petersburg, FL). Fiber optic and IP video/data/audio transmission solutions for surveillance and security systems; toll-free number published in the company's own press releases and trade coverage (direct (732) 302-0660, email sales@americanfibertek.com)."
+    source: "https://www.securityinfowatch.com/video-surveillance/company/10212818/american-fibertek-inc"
+    last_verified: "2026-10-26"

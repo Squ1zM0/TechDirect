@@ -1,0 +1,13 @@
+id: southern-pipe
+name: Southern Pipe
+website: https://www.southern-pipe.com
+categories: [electrical]
+aliases: []
+support:
+  - category: electrical
+    department: Customer Support
+    phone: "+17044635202"
+    country: US
+    notes: "Southern Pipe, Inc., New London, NC (rigid nonmetallic PVC electrical conduit, So-Lite cellular-core Schedule 40, UL 651, made in the USA). Fax 704-463-5203 also published. A place record claiming a permanently-closed Albemarle, NC location was not used; the company's own 2023 letterhead gives the New London address and this number."
+    source: "https://WWW.SOUTHERN-PIPE.COM/s/Buy_American_2023.pdf"
+    last_verified: "2026-10-26"

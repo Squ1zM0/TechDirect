@@ -1,0 +1,13 @@
+id: pgi
+name: PGI
+website: https://www.pgi-inc.com
+categories: [hardware]
+aliases: ["PGI, Inc.", "PGI Safety"]
+support:
+  - category: hardware
+    department: Customer Support
+    phone: "+18005588290"
+    country: US
+    notes: "PGI, Inc., Green Lake, WI (550 Commercial Ave, Green Lake, WI 54941; mail@pgi-inc.com). Manufacturer of high-performance PPE since 1942: BarriAire particulate-barrier firefighting hoods (Cobra, BarriAire Gold/Silver), flame-resistant garments, masks and neck gaiters; ISO 9001:2015 registered. Number published on PGI's own materials as its Customer Service line. NOTE: the xref parent expansion 'Protective Gloves Intl.' is unverified and is NOT repeated as fact; PGI's published line is protective hoods and FR garments, not gloves specifically. No PPE/safety term exists in the category vocabulary, so hardware is the closest term, as with PIP in this batch."
+    source: "https://www.barriaire.com/Downloads/en/PGI-BarriAire-Gold-Hoods-Inspection-Guide.pdf"
+    last_verified: "2026-10-26"

@@ -1,0 +1,11 @@
+id: lumapro
+name: LumaPro
+categories: [electrical]
+support:
+  - category: electrical
+    department: Customer Support
+    phone: "+18004724643"
+    country: US
+    notes: "LumaPro is Grainger's private-label lighting brand; no standalone Grainger file exists in the TechDirect reference, so support routes through Grainger's published customer-service line (1-800-GRAINGER). Number verified from a Grainger return-policy page (Grainger's own site contact page could not be text-fetched; the number is corroborated across multiple secondary sources). Follows the LiteControl precedent in this batch (standalone file carrying the parent's published number where no parent file exists)."
+    source: "https://www.donotpay.com/learn/grainger-return-policy/"
+    last_verified: "2026-10-26"

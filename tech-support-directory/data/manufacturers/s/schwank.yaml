@@ -1,0 +1,16 @@
+id: schwank
+name: Schwank
+website: https://schwankheaters.com/
+categories:
+- hvac
+aliases:
+- Schwank USA, Inc.
+support:
+- category: hvac
+  department: Technical Support
+  phone: '+18774463727'
+  country: US
+  notes: Schwank USA, Inc., 2 Schwank Way, Waynesboro, GA 30830. Technician calls route to the Technical Services voice line; TSA@SchwankGroup.com. Local (706) 554-6191; an alternate info line (417) 890-9304
+    in one ThomasNet entry is noted, not used as primary; fax 1-866-361-0523. Infrared and gas heating.
+  source: Schwank manuals (VOICE 1-877-446-3727) and ThomasNet profile
+  last_verified: '2026-10-26'

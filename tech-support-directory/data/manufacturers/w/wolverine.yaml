@@ -1,0 +1,17 @@
+id: wolverine
+name: "Wolverine"
+website: https://www.wolverine.com
+categories: [hardware]
+aliases: []
+support:
+  - category: hardware
+    department: Customer Support
+    phone: "+18007898586"
+    country: US
+    notes: "Wolverine World Wide, Rockford MI. Email customerservice@wwwinc.com; hours Mon-Fri 8am-9pm, Sat-Sun 9am-6pm ET. Work boots/PPE; closest vocabulary term: hardware. Distinct from the existing wolverine-brass file. A 1000 Mile concierge line is NOT used as the general line."
+    source: "https://www.elliott.org/company-contacts/wolverine-world-wide/"
+    last_verified: "2026-10-26"
+    hours:
+      timezone: "ET"
+      mon_fri: "8:00 AM - 9:00 PM"
+      sat: "9:00 AM - 6:00 PM"

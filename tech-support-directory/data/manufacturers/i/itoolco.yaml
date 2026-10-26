@@ -1,0 +1,16 @@
+id: itoolco
+name: iTOOLco
+website: https://itoolco.com/
+categories:
+- hardware
+aliases:
+- iTool
+- ITOOL CO
+support:
+- category: hardware
+  department: Customer Support
+  phone: '+18656703713'
+  country: US
+  notes: "Tools for electricians; 1325 Carden Farm Drive, Clinton, TN 37716, per the manufacturer catalog and official site footer. Founding-year discrepancy in sources (2012 vs since 1999 on the company site); no founding year asserted here."
+  source: https://itoolco.com/
+  last_verified: '2026-10-26'

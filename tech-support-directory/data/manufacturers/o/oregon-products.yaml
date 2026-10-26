@@ -1,0 +1,13 @@
+id: oregon-products
+name: Oregon Products
+website: https://www.oregonproducts.com/en/c/mower-blades-c
+categories: [hardware]
+aliases: ["OREGON"]
+support:
+  - category: hardware
+    department: Customer Support
+    phone: "+18002235168"
+    country: US
+    notes: "OREGON brand of Oregon Tool, Inc., Milwaukie OR; saw chain, mower blades, trimmer parts; email oregon.support@oregontool.com. Vocabulary note: no outdoor-power term; hardware is closest."
+    source: "https://www.oregonproducts.com/en/c/mower-blades-c"
+    last_verified: "2026-10-26"

@@ -1,0 +1,13 @@
+id: nordic-fiberglass
+name: Nordic Fiberglass
+website: https://www.nordicfiberglass.com/
+categories: [electrical]
+aliases: []
+support:
+  - category: electrical
+    department: Customer Support
+    phone: "+12187455095"
+    country: US
+    notes: "Nordic Fiberglass, Inc., Warren MN; transformer box pads, pedestals, ground sleeves. Some directories list it under Oldcastle Infrastructure; affiliation not asserted as ownership."
+    source: "https://21a307d5-a72f-461a-899d-adfa5b5966e5.filesusr.com/ugd/77e70a_9195e95904864ebb8cd211ade463347b.pdf"
+    last_verified: "2026-10-26"

@@ -1,0 +1,12 @@
+id: lewis-manufacturing
+name: Lewis Manufacturing
+categories: [electrical]
+aliases: ["Lewis Grips"]
+support:
+  - category: electrical
+    department: Customer Support
+    phone: "+18336468480"
+    country: US
+    notes: "Lewis Manufacturing Company, Oklahoma City, OK, since 1936; wire-mesh cable pulling grips (Lewis Grips), swivels and canvas products. Toll-free number from lewismfg.com product pages; direct line 405-634-5401 also published. 'Lewis Grips' is Lewis Manufacturing's product line, filed under the manufacturer."
+    source: "https://lewismfg.com/product-category/cable-pulling-grips/"
+    last_verified: "2026-10-26"

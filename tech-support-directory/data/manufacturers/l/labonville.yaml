@@ -1,0 +1,12 @@
+id: labonville
+name: Labonville
+categories: [hardware]
+aliases: ["Labonville Inc."]
+support:
+  - category: hardware
+    department: Customer Support
+    phone: "+18007649969"
+    country: US
+    notes: "Labonville Inc., New Hampshire; forestry/logging safety gear and work gear since 1953. General contact number from labonville.com About Us page."
+    source: "https://www.labonville.com/about-us"
+    last_verified: "2026-10-26"

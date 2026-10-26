@@ -1,0 +1,14 @@
+id: jelco
+name: Jelco
+website: https://jelco.ca/
+categories:
+- hardware
+aliases: []
+support:
+- category: hardware
+  department: Customer Support
+  phone: '+12567377316'
+  country: US
+  notes: "Arc-flash fall protection for utility workers (harnesses, lanyards, SRLs), ANSI, ASTM, CSA, and OSHA. US Sales and Service number per manufacturer product specifications; Canadian sales and service 800-361-4583; email sales@jelco.ca. Not the near-miss ELCO candidate."
+  source: https://jelco.ca/images/products/pdfs/271-e3.pdf
+  last_verified: '2026-10-26'

@@ -1,0 +1,15 @@
+id: henry-technologies
+name: Henry Technologies
+website: https://www.henrytech.com/
+categories:
+- valves
+- hvac
+aliases: []
+support:
+- category: valves
+  department: Technical Support
+  phone: '+18006275148'
+  country: US
+  notes: 'Engineering and Technical Assistance line (source label). Older numbers also seen: 800-964-3679 and 217-483-2406, Chatham, IL. Refrigeration valves and controls.'
+  source: https://is.alliedrefrigeration.com/products/docs/Henry Pressure Relief Valves.pdf
+  last_verified: '2026-10-26'

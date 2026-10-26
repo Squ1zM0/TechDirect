@@ -1,0 +1,13 @@
+id: wells-lamont
+name: "Wells Lamont Industrial"
+website: https://www.wellslamontindustrial.com
+categories: [hardware]
+aliases: ["Wells Lamont"]
+support:
+  - category: hardware
+    department: Customer Support
+    phone: "+18002473295"
+    country: US
+    notes: "Niles IL. Email marketing@wellslamont.com. PPE gloves; closest vocabulary term: hardware. Xref spelling Wells Lamont (Work Gloves) shares this file."
+    source: "https://www.wellslamontindustrial.com/wp-content/uploads/2022/03/Y1919_WL_SpecSheet.pdf"
+    last_verified: "2026-10-26"

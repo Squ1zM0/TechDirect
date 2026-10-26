@@ -1,0 +1,14 @@
+id: jefferson-electric
+name: Jefferson Electric
+website: https://www.jeffersonelectric.com/
+categories:
+- electrical
+aliases: []
+support:
+- category: electrical
+  department: Customer Support
+  phone: '+18008923755'
+  country: US
+  notes: "Dry-type transformers (50 VA to 5000 VA industrial control; lighting 100 to 1000 W). Distributor listings show Jefferson Electric under Pioneer Power Solutions; that association is noted without asserting an acquisition date."
+  source: https://www.suppliesdepot.com/mm5/graphics/pdf/JEFFERE00018_79-83.pdf
+  last_verified: '2026-10-26'

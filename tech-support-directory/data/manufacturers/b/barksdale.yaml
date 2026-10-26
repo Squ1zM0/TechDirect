@@ -1,0 +1,12 @@
+id: barksdale
+name: Barksdale
+categories: [hvac-controls]
+aliases: ["Barksdale Control Products"]
+support:
+  - category: hvac-controls
+    department: Customer Support
+    phone: "+18008351060"
+    country: US
+    notes: "Pressure switches, transmitters and controls, Los Angeles CA; a Crane Company subsidiary per trade directories. Toll-free line published in Barksdale catalogs; local line 323-589-6181 also published."
+    source: "https://cdn11.bigcommerce.com/s-ca10qrhzok/content/documents/barksdale_c9612-22.pdf"
+    last_verified: "2026-10-26"

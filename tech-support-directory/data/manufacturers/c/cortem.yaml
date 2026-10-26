@@ -1,0 +1,16 @@
+id: cortem
+name: Cortem
+website: https://www.cortemgroup.com
+categories:
+  - electrical
+aliases:
+  - Cortem Group
+  - Cortem S.p.A.
+support:
+  - category: Customer Support
+    department: Customer Support
+    phone: "+390481964911"
+    country: IT
+    notes: "Italian manufacturer of explosion-protected electrical equipment (fittings, control stations, lighting) for hazardous areas, ATEX/IEC Ex certified. No US support line was found, so the Italian headquarters line is recorded with its actual country code rather than inventing a US line. Villesse, Italy."
+    source: "https://www.cortemgroup.com/en/products/electrical-fittings"
+    last_verified: "2026-10-26"

@@ -1,0 +1,13 @@
+id: bizlink
+name: BizLink
+website: https://www.bizlinktech.com
+categories: [electrical]
+aliases: ["BizLink Group"]
+support:
+  - category: electrical
+    department: Customer Support
+    phone: "+15102520786"
+    country: US
+    notes: "BizLink Group, founded 1996, headquartered at 47211 Bayside Pkwy, Fremont, CA 94538; maker of interconnect solutions including cable assemblies, wire harnesses and connectors for industrial automation, medical, automotive and data-center markets."
+    source: "https://www.signalhire.com/companies/bizlink-group"
+    last_verified: "2026-10-26"

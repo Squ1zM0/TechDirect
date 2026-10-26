@@ -1,0 +1,15 @@
+id: hilumz
+name: HiLumz USA
+website: https://hilumzusa.com/
+categories:
+- electrical
+aliases:
+- HiLumz
+support:
+- category: electrical
+  department: Customer Support
+  phone: '+16788679200'
+  country: US
+  notes: 'HiLumz USA LLC. Email sales@HiLumzUSA.com. Linear LED retrofit kits, troffer retrofits. Source document is a 2016 spec sheet, so the number currency is as-published, not re-verified on a live site. Warranty per the spec sheet: 10 years on electronics, LEDs and connections, 5 years on driver.'
+  source: https://relightdepot.com/content/resources/specs/2016-HiLumz-SpecSheet-S22-44-v1e.pdf
+  last_verified: '2026-10-26'

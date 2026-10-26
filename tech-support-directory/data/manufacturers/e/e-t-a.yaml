@@ -1,0 +1,13 @@
+id: e-t-a
+name: E-T-A Circuit Breakers
+website: https://www.e-t-a.com
+categories: [electrical]
+aliases: ["E-T-A"]
+support:
+  - category: electrical
+    department: Customer Support
+    phone: "+18478277600"
+    country: US
+    notes: "E-T-A Circuit Breakers (Mount Prospect, IL) circuit breakers and protection products. Email usinfo@et-a.com also published; older toll-free 800-462-9979 noted but not used as primary."
+    source: "https://www.mouser.com/PCN/E-T-A_Circuit_Breakers_Product_Modification_Notice_3120.3130.3131.3140_Terminals_1.pdf"
+    last_verified: "2026-10-26"

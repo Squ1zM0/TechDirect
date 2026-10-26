@@ -1,0 +1,13 @@
+id: blue-ridge-technologies
+name: Blue Ridge Technologies
+website: http://brtint.com/
+categories: [electrical]
+aliases: ["Blue Ridge Technologies International", "BRT"]
+support:
+  - category: electrical
+    department: Technical Support
+    phone: "+18002419173"
+    country: US
+    notes: "Blue Ridge Technologies International, 1800 Sandy Plains Rd Ste 216, Marietta, GA, maker of Unified Lighting Control solutions for building automation. Company FAQ directs troubleshooting and legacy-product assistance to its Tech Support Team at 800-241-9173 ext. 7003. Emails customerservice@brtint.com and techsupport@brtint.com. Not the Coconut Creek, FL restaurant-POS company of the same name, nor the Asheville, NC IT firm. Category mapped from lighting controls to electrical."
+    source: "https://brtint.com/faqs/"
+    last_verified: "2026-10-26"

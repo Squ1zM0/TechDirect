@@ -1,0 +1,13 @@
+id: clarity
+name: Clarity
+website: http://www.clarityproducts.com/
+categories: [electrical]
+aliases: ["Clarity, a Division of Plantronics"]
+support:
+  - category: electrical
+    department: Customer Support
+    phone: "+18005523368"
+    country: US
+    notes: "Clarity, a Division of Plantronics, Inc., Chattanooga, TN; amplified telephones and accessories for hearing-impaired users. Customer Service Department line per Clarity user manuals; alternate voice line 800-426-3738 also published on Clarity sell sheets. Covers xref row with parent 'Clarity (Plantronics lineage)'. Distinct from Clarity Voice (VoIP) and other 'Clarity' companies."
+    source: "https://usermanual.wiki/Clarity-A-Division-of-Plantronics/W425P/info"
+    last_verified: "2026-10-26"

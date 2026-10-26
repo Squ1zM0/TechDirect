@@ -1,0 +1,19 @@
+id: vaisala
+name: Vaisala
+website: https://www.vaisala.com/
+categories:
+- electrical
+- hvac-controls
+aliases:
+- Vaisala, Inc.
+support:
+- category: electrical
+  department: Technical Support
+  phone: '+18778247252'
+  country: US
+  notes: 'Published as 1-877-VAISALA (vanity number; digits converted letter-by-letter: V=8, A=2, I=4,
+    S=7, A=2, L=5, A=2), labelled ''Telephone Support (US) Toll Free'' under ''Technical Support''; helpdesk@vaisala.com.
+    Vaisala Inc. Boulder Operations +1 303-499-1701 (Louisville, CO) and Tucson Operations +1 520-806-7300
+    are not substituted for the toll-free tech line. Sensors and instruments.'
+  source: https://lightning-exporter.vaisala.com/help.html
+  last_verified: '2026-10-26'

@@ -1,0 +1,12 @@
+id: zinsco
+name: "Zinsco"
+categories: [electrical]
+aliases: []
+support:
+  - category: electrical
+    department: Technical Support
+    phone: "+18773862273"
+    country: US
+    notes: "LEGACY/DEFUNCT brand: Zinsco loadcenters and breakers. Lineage: Zinsco -> GTE-Sylvania (sold 1973) -> Challenger (relabelled 1978) -> Challenger Electrical Equipment Corp. (1981 divestiture) -> Westinghouse -> Eaton Corporation (1994 multi-asset deal); Thomas & Betts continued Zinsco-style breakers until production closed 2005; Connecticut Electric makes replacement Zinsco breakers/kits today. Support number is Eaton's published professional/contractor Technical Support line (per the existing eaton file, source eaton.com contact page), used as successor support for legacy Zinsco equipment; Zinsco itself has no current support line. Obsolete design with bus-bar/arcing hazard; panel replacement is commonly advised. Lineage sources: https://garynsmith.net/zinsco-electrical-panels/ and https://nonprofithomeinspections.org/what-are-zinsco-electrical-panels/."
+    source: "https://www.eaton.com/us/en-us/support/contact-us.html"
+    last_verified: "2026-10-26"

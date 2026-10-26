@@ -1,0 +1,17 @@
+id: kantech
+name: Kantech
+website: https://kantech.com/
+categories:
+- electrical
+aliases: []
+support:
+- category: electrical
+  department: Technical Support
+  phone: '+18882221560'
+  country: US
+  notes: "Access control; a Johnson Controls / Tyco brand. US/Canada toll-free technical support, 8:00 AM-8:00 PM EST. General contact 800-507-6268 and Access-Support@jci.com also published."
+  source: https://docs.johnsoncontrols.com/kantech/r/Kantech/en-US/EntraPass-and-Salto-Integration-Guide/B/Technical-support?contentId=SfSQa4K5Pr_6UNKgFd8cIA
+  last_verified: '2026-10-26'
+  hours:
+    timezone: "ET"
+    mon_fri: "8:00 AM - 8:00 PM"

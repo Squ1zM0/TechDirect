@@ -1,0 +1,13 @@
+id: zumtobel
+name: "Zumtobel"
+website: https://www.zumtobel.us
+categories: [electrical]
+aliases: ["Zumtobel Lighting", "ZUMTOBEL LIGHTING"]
+support:
+  - category: electrical
+    department: Customer Support
+    phone: "+18456916262"
+    country: US
+    notes: "Zumtobel Lighting Inc., Highland NY, 3300 Route 9W. Email info.us@zumtobelgroup.com. Professional lighting systems. Parent: Zumtobel Group (Austria, Dornbirn). An older doc also lists a Fair Lawn NJ address; Highland is the current US/Canada listing. Xref spellings Zumtobel and ZUMTOBEL LIGHTING share this file (variant pair)."
+    source: "https://www.zumtobel.com/PDB/Teaser/en/LIGHTING_SERVICES.pdf"
+    last_verified: "2026-10-26"

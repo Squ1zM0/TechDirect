@@ -1,0 +1,13 @@
+id: energy-efficient-lighting
+name: "Energy Efficient Lighting"
+categories:
+- electrical
+aliases: ["EEL"]
+support:
+- category: electrical
+  department: "Customer Support"
+  phone: "+18554158878"
+  country: CA
+  notes: "Energy Efficient Lighting Ltd. (EEL), 331 Amber Street, Markham, ON, Canada L3R 3J7. Canadian company; the toll-free line serves US and Canadian distribution, so country is filed as CA with that note. Alternate tel 905-415-8878. Email orderdesk@eelighting.ca. Hours Mon-Fri 8:30 a.m.-5:30 p.m. UL-certified Canadian LED manufacturer since 1990."
+  source: "https://eelighting-res.cloudinary.com/image/upload/v1729872994/eelighting/resources/catalogue/EELighting_Catalogue.pdf"
+  last_verified: "2026-10-26"

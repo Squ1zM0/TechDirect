@@ -1,0 +1,13 @@
+id: bk-lighting
+name: BK Lighting
+website: http://www.bklighting.com/
+categories: [electrical]
+aliases: ["B-K Lighting", "B-K Lighting, Inc."]
+support:
+  - category: electrical
+    department: Customer Support
+    phone: "+15594385800"
+    country: US
+    notes: "B-K Lighting, Inc., 40429 Brickyard Drive, Madera, CA 93636, employee-owned US manufacturer of outdoor architectural and landscape lighting since 1984. Email info@bklighting.com. Category mapped from landscape/architectural lighting to electrical (no lighting term in the vocabulary)."
+    source: "https://www.bklighting.com/documents/family-spec-sheet/DE-958-family.pdf"
+    last_verified: "2026-10-26"

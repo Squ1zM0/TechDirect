@@ -1,0 +1,20 @@
+id: travis-pattern-foundry
+name: Travis Pattern & Foundry
+website: http://www.travispattern.com/
+categories:
+- hardware
+aliases:
+- Travis Pattern
+support:
+- category: hardware
+  department: Customer Support
+  phone: '+15094663545'
+  country: US
+  notes: Travis Pattern and Foundry, 1413 E Hawthorne Rd, Spokane, WA 99218. Founded 1922; largest privately
+    owned provider of aluminum castings west of the Mississippi. Travis Utility Grounding Division (UGD)
+    supplies substation connectors. Hours Mon-Fri 8:00 AM-5:00 PM America/Los_Angeles.
+  source: http://www.travispattern.com/
+  last_verified: '2026-10-26'
+  hours:
+    timezone: America/Los_Angeles
+    mon_fri: 8:00 AM - 5:00 PM

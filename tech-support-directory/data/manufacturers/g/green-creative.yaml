@@ -1,0 +1,14 @@
+id: green-creative
+name: 'Green Creative'
+website: https://greencreative.com/
+categories:
+- electrical
+aliases: []
+support:
+- category: electrical
+  department: 'Customer Support'
+  phone: '+18444558687'
+  country: US
+  notes: 'Email info@greencreative.com. Older Tel/Fax 866-774-5433 appears in older manuals. LED lamps, downlights, and fixtures.'
+  source: 'https://greencreative.com/newly-released-products/'
+  last_verified: '2026-10-26'

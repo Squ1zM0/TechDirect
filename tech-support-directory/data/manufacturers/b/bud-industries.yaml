@@ -1,0 +1,13 @@
+id: bud-industries
+name: Bud Industries
+website: http://www.budind.com
+categories: [electrical]
+aliases: ["Bud Industries, Inc."]
+support:
+  - category: electrical
+    department: Customer Support
+    phone: "+14409463200"
+    country: US
+    notes: "Bud Industries, Inc., 4605 East 355th Street, Willoughby, OH 44094, manufacturer of electronic enclosures, cabinet racks and accessories since 1928, over 2,500 standard products. Email saleseast@budind.com."
+    source: "https://www.prlog.org/11309624-bud-industries-announces-electronics-enclosures-for-medical-applications.html"
+    last_verified: "2026-10-26"

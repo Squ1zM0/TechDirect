@@ -1,0 +1,14 @@
+id: henkel
+name: Henkel
+website: https://next.henkel-adhesives.com/us/en/services/equipment-services/loctite/field-services.html
+categories:
+- hardware
+aliases: []
+support:
+- category: hardware
+  department: Field Service
+  phone: '+18554365354'
+  country: US
+  notes: 'Field service and support center line (source label). Customer service email rh.nacustomerservice@henkel.com; corporate HQ 860-571-5100, Rocky Hill, CT; 1-800-LOCTITE also listed on the FAQ page. Adhesives; no adhesives term in the category vocabulary, so hardware is used as the closest term.'
+  source: https://next.henkel-adhesives.com/us/en/services/equipment-services/loctite/field-services.html
+  last_verified: '2026-10-26'

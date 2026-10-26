@@ -1,0 +1,16 @@
+id: advanced-rf-technologies
+name: Advanced RF Technologies
+website: https://www.adrftech.com
+categories: [electrical]
+aliases: ["ADRF"]
+support:
+  - category: electrical
+    department: Technical Support
+    phone: "+18003139345"
+    country: US
+    notes: "Advanced RF Technologies, Inc. (ADRF), corporate headquarters 3116 West Vanowen Street, Burbank, CA 91505. In-building wireless equipment: repeaters, distributed antenna systems (DAS), small cells, antennas and passive components. Technical Support number as published on the manufacturer's own About page; general inquiry (818) 840-8131 also published there. Business hours Mon-Fri 8:00 AM - 5:00 PM."
+    source: "https://www.adrftech.com/about?i=ca"
+    last_verified: "2026-10-26"
+    hours:
+      timezone: "PT"
+      mon_fri: "8:00 AM - 5:00 PM"

@@ -1,0 +1,16 @@
+id: bondhus
+name: Bondhus
+website: https://bondhus.com
+categories: [hardware]
+aliases: ["Bondhus Corporation", "Bondhus Corp."]
+support:
+  - category: hardware
+    department: Customer Support
+    phone: "+18003288310"
+    country: US
+    notes: "Bondhus Corporation, 1400 E. Broadway, Monticello, MN 55362, maker of Hex, Ball End and TORX hand tools with a lifetime warranty. Direct line 763-295-2162 also published. Hours 7:00 AM to 5:00 PM CST."
+    source: "https://bondhus.com/torx-wing-tools"
+    last_verified: "2026-10-26"
+    hours:
+      timezone: "CT"
+      mon_fri: "7:00 AM - 5:00 PM"

@@ -1,0 +1,18 @@
+id: stanley-pmi
+name: Stanley PMI
+website: https://www.stanley1913.com
+categories: [hardware]
+aliases: []
+support:
+  - category: hardware
+    department: Customer Support
+    phone: "+18002514535"
+    country: US
+    notes: "Stanley 1913 (Stanley PMI), a Pacific Market International (PMI WW Brands) brand, Seattle, WA (vacuum-insulated bottles, tumblers, mugs, coolers and cookware; founded 1913; PMI is a subsidiary of The HAVI Group). Email info@stanley-pmi.com. Secondary sources also publish Sat-Sun hours 6:00 AM-3:00 PM PT (hours block above shows Mon-Fri only). NOT affiliated with Stanley Black & Decker / STANLEY Tools. A Stanley 1913 contact-page scrape also shows (901) 206-5975; the toll-free 800-251-4535 is corroborated by BBB and Stanley's own social replies and is used here."
+    source: "https://www.bbb.org/us/wa/seattle/profile/beverage-dispenser/stanley1913-1296-89000174/customer-reviews"
+    last_verified: "2026-10-26"
+hours:
+  timezone: America/Los_Angeles
+  days: [Mon, Tue, Wed, Thu, Fri]
+  open: "06:00"
+  close: "16:00"

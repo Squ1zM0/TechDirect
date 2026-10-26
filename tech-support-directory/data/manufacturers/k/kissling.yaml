@@ -1,0 +1,14 @@
+id: kissling
+name: Kissling
+website: https://www.te.com/usa-en/products/brands/kissling/kissling-micro-switches.html
+categories:
+- electrical
+aliases: []
+support:
+- category: electrical
+  department: Technical Support
+  phone: '+4970542060'
+  country: DE
+  notes: "Switches and relays; a TE Connectivity brand (TE Connectivity KISSLING Products GmbH, Bohnland 16, 72218 Wildberg, Germany). Email info.kissling@te.com. TE's brochure directs inquiries to field representatives or customer service and gives only the Germany technical-support contact. No US Kissling-specific line found; no US line invented. Distributor numbers are not the manufacturer's number and were not filed."
+  source: https://www-stage.te.com/content/dam/te-com/documents/industrial-and-commercial-transportation/global/kissling-documents-data-sheets/Data_Sheets_Documents_Kissling/customized-customer-individual-solutions/KI-8-1773983-5-High Power Distribution-bro-a4-en-2008.pdf
+  last_verified: '2026-10-26'

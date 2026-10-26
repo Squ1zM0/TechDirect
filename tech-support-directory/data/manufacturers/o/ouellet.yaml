@@ -1,0 +1,13 @@
+id: ouellet
+name: Ouellet
+website: https://www.ouellet.com
+categories: [hvac]
+aliases: ["Ouellet Electric Heating", "Ouellet Heaters", "Ouellet Canada Inc."]
+support:
+  - category: hvac
+    department: Technical Support
+    phone: "+18004637043"
+    country: US
+    notes: "Ouellet Canada Inc., L'Islet, Quebec. Technical support team number for Canada/U.S. (1-800-463-7043) per Ouellet manuals; Quebec-area number (418) 247-3947 also published. Mon-Fri 8:00 AM-5:00 PM EST per OTH700/OTH800 manual. Sales: info@ouellet.com. Covers xref spellings Ouellet, Ouellet Electric Heating, Ouellet Heaters."
+    source: "https://www.ouellet.com/ouellet.com/files/a7/a7c41898-be0f-4e68-a88e-43d63b1d798c.pdf"
+    last_verified: "2026-10-26"

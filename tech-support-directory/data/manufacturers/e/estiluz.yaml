@@ -1,0 +1,13 @@
+id: estiluz
+name: "Estiluz"
+categories:
+- electrical
+aliases: []
+support:
+- category: electrical
+  department: "Customer Support"
+  phone: "+16464541285"
+  country: US
+  notes: "Estiluz Inc. (USA and Canada arm of Estiluz S.A., Carretera d Ogassa s/n, 17860 Sant Joan de les Abadesses, Spain, T +34 972 720 125). US number from an Illumco Estiluz catalog contact block; emails info@estiluzusa.com and directory@estiluzusa.com. The US number is distributor-catalog-published, not verified on estiluzusa.com itself; that caveat is stated here. Spanish decorative lighting, founded 1969."
+  source: "https://www.illumco.com/wp-content/uploads/2021/04/Estiluz-Lighting-for-restaurants.pdf"
+  last_verified: "2026-10-26"

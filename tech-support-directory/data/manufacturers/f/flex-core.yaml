@@ -1,0 +1,14 @@
+id: flex-core
+name: "Flex-Core"
+website: "https://www.flex-core.com/current-transformers/?view=all"
+categories:
+- electrical
+aliases: []
+support:
+- category: electrical
+  department: "Technical Support"
+  phone: "+16148768308"
+  country: US
+  notes: "Flex-Core, Div. Morlan and Associates, Inc., 4970 Scioto Darby Rd, Hilliard, OH 43026. Number printed in Flex-Core docs as TECH. ASSISTANCE; main phone (614) 889-6152 and email sales@flexcore.com noted. Split-core, solid-core, and Rogowski coil current transformers."
+  source: "https://www.flex-core.com/current-transformers/?view=all"
+  last_verified: "2026-10-26"

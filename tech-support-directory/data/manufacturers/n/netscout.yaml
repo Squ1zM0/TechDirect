@@ -1,0 +1,13 @@
+id: netscout
+name: NETSCOUT
+website: https://www.netscout.com/
+categories: [electrical]
+aliases: ["NETSCOUT Systems"]
+support:
+  - category: electrical
+    department: Product Support
+    phone: "+18883577667"
+    country: US
+    notes: "NETSCOUT Systems; source (2026 NETSCOUT document) labels this Product Support, toll-free US; sales 800-309-4804 and HQ +1 978-614-4000 also published. Vocabulary note: no computing/networking term; electrical is closest."
+    source: "https://www.netscout.com/resources/i/1543811-connecting-controls-to-telemetry/2"
+    last_verified: "2026-10-26"

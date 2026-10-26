@@ -1,0 +1,12 @@
+id: ldr-industries
+name: LDR Industries
+categories: [plumbing]
+aliases: ["LDR"]
+support:
+  - category: plumbing
+    department: Customer Support
+    phone: "+18887760942"
+    country: US
+    notes: "Legacy brand: Homewerks Worldwide, LLC acquired product lines and brands from LDR Global Industries, LLC (2023, per Homewerks release). Number published is the successor Homewerks contact number; LDR's own ldrind.com support line is no longer separately published. Plumbing fittings, valves and supplies."
+    source: "https://www.prweb.com/releases/homewerks-worldwide-llc-acquires-product-lines-and-brands-from-ldr-global-industries-llc-844847289.html"
+    last_verified: "2026-10-26"

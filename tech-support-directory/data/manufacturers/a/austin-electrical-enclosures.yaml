@@ -1,0 +1,12 @@
+id: austin-electrical-enclosures
+name: Austin Electrical Enclosures
+categories: [electrical]
+aliases: ["Austin Enclosures"]
+support:
+  - category: electrical
+    department: Customer Support
+    phone: "+18002882851"
+    country: US
+    notes: "NEMA enclosures, wireway and junction boxes, Yadkinville NC (the name is a brand name, not a Texas location). Toll-free line published in Austin catalogs; local line 336-468-2851 and contact@austinenclosures.com also published."
+    source: "https://assets.usesi.com/product-media/brochures/USESI_153696_brochure.pdf"
+    last_verified: "2026-10-26"

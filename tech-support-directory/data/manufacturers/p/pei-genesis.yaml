@@ -1,0 +1,13 @@
+id: pei-genesis
+name: PEI-Genesis
+website: https://peigenesis.com
+categories: [electrical]
+aliases: ["PEI-Genesis, Inc."]
+support:
+  - category: electrical
+    department: Technical Support
+    phone: "+18006751214"
+    country: US
+    notes: "PEI-Genesis, Inc., Philadelphia, PA (HQ). North America number published alongside techsupport@peigenesis.com on PEI-Genesis line cards and selection guides; the technical-support team is described as salespeople, applications engineers, and product managers. Older PEI documents also list a Tech Support number 800-523-0727; the current line card's 800-675-1214 is used here. Connector distributor and value-added assembler (custom cable assemblies)."
+    source: "https://peigenesis.com/images/content/corporate/pei-genesis%20linecard%20jan%202022%20web-spreads.pdf"
+    last_verified: "2026-10-26"

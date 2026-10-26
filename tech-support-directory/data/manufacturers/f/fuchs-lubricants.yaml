@@ -1,0 +1,14 @@
+id: fuchs-lubricants
+name: 'FUCHS Lubricants'
+website: https://www.fuchs.com/us
+categories:
+- hardware
+aliases: []
+support:
+- category: hardware
+  department: 'Customer Support'
+  phone: '+17083338900'
+  country: US
+  notes: 'Inquiry email inquiry@fuchs.com. Lubricants, so hardware is the closest vocabulary term.'
+  source: 'https://fuchs.azureedge.net/fileadmin/us/product-data/Lubricants_for_Mining.pdf'
+  last_verified: '2026-10-26'

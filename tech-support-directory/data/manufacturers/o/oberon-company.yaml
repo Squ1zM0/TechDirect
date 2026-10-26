@@ -1,0 +1,12 @@
+id: oberon-company
+name: Oberon Company
+categories: [hardware]
+aliases: ["Oberon - CPI"]
+support:
+  - category: hardware
+    department: Customer Support
+    phone: "+18003223348"
+    country: US
+    notes: "Oberon Company, North Dartmouth MA; arc-flash PPE; email service@oberoncompany.com. The xref suffix 'CPI' was not identified - flagged in the batch report. Vocabulary note: no safety/PPE term; hardware is closest."
+    source: "https://assets.tequipment.net/assets/1/26/Oberon_Storage,_Use,_Care,___Maintenance_User_Guide.pdf"
+    last_verified: "2026-10-26"

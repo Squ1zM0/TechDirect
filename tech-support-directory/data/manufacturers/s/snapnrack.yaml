@@ -1,0 +1,13 @@
+id: snapnrack
+name: SnapNrack
+website: https://www.snapnrack.com
+categories: [electrical]
+aliases: []
+support:
+  - category: electrical
+    department: Technical Support
+    phone: "+18777322860"
+    country: US
+    notes: "SnapNrack Solar Mounting Solutions, San Luis Obispo, CA (solar racking: Ultra Rail, TopSpeed railless systems, SpeedSeal flashing). Technical support email techsupport@snapnrack.com; customer service customerservice@snapnrack.com."
+    source: "https://www.snapnrack.com/blog/how-to-evaluate-solar-racking-wind-snow-loads"
+    last_verified: "2026-10-26"

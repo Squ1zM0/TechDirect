@@ -1,0 +1,13 @@
+id: alcon-connectors
+name: Alcon Connectors
+website: https://alconconnectors.com
+categories: [electrical]
+aliases: ["Alcon"]
+support:
+  - category: electrical
+    department: Customer Support
+    phone: "+15139024680"
+    country: US
+    notes: "Alcon Connectors, 1132 Ferris Rd, Amelia, OH 45102. US manufacturer of utility electrical connectors (pedestal connectors, lugs, splicers, stirrup and hot line clamps) since 1967. Email sales@alconconnectors.com. Older catalogs list (513) 722-1037. Not Alcon Lighting (alconlighting.com) and not Alcon the ophthalmic company."
+    source: "https://alconconnectors.com/about/"
+    last_verified: "2026-10-26"

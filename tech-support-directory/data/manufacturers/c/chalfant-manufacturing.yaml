@@ -1,0 +1,13 @@
+id: chalfant-manufacturing
+name: Chalfant Manufacturing Company
+website: https://www.chalfant-obo.com/
+categories: [electrical]
+aliases: ["Chalfant", "CHALFANT MFG CO", "Chalfant Manufacturing"]
+support:
+  - category: electrical
+    department: Customer Support
+    phone: "+13302733510"
+    country: US
+    notes: "Chalfant Manufacturing Company, Avon, OH; cable tray and cable management systems (GR_Magic, RKS-Magic, BKRS walkable tray), a member of the OBO Bettermann Group. Hours Mon-Fri 8:00 AM-5:00 PM ET per listing. Covers xref spellings 'Chalfant' and 'CHALFANT MFG CO'. Distinct from Chalfant Sewing Fabricators (Cleveland, OH loading dock equipment, (216) 521-7922) — not merged."
+    source: "https://www.chalfant-obo.com/"
+    last_verified: "2026-10-26"

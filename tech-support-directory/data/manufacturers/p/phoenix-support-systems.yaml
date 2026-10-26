@@ -1,0 +1,13 @@
+id: phoenix-support-systems
+name: Phoenix Support Systems
+website: https://phoenixsupports.com
+categories: [electrical]
+aliases: ["Phoenix Support Systems, Inc."]
+support:
+  - category: electrical
+    department: Customer Support
+    phone: "+18007214040"
+    country: US
+    notes: "Phoenix Support Systems, Niles, OH (931 Summit Ave.). Toll-free number published in the company's business listing; hours Mon-Fri 8:00 AM-5:00 PM ET. Not labelled technical support, so recorded as Customer Support. Domestic manufacturer of strut and channel framing accessories and support products for electrical, plumbing, mechanical, and industrial sectors. CORRECTION to the xref parent: Phoenix Support Systems is an independent company, NOT Eaton B-Line; Eaton B-Line is a separate strut maker (Eaton B-Line series number 800-851-7415). Distinct from Phoenix Lighting (Milwaukee) and Phoenix Manufacturing (Phoenix, AZ), which have their own files in this batch."
+    source: "http://phoenixsupports.com/"
+    last_verified: "2026-10-26"

@@ -1,0 +1,13 @@
+id: dongan-electric
+name: Dongan Electric Manufacturing Company
+website: http://www.dongan.com/
+categories: [electrical]
+aliases: ["Dongan Electric", "Dongan Transformer"]
+support:
+  - category: electrical
+    department: Customer Support
+    phone: "+18004282626"
+    country: US
+    notes: "Dongan Electric Manufacturing Company (Fraser, MI; founded 1909) transformers and custom magnetics; Pioneer Transformer is its wholly owned subsidiary. Toll-free line from Dongan catalogs; direct line 313-567-8500 also published. Covers xref spellings Dongan Electric and Dongan Transformer (same manufacturer)."
+    source: "https://dongan.eu/wp-content/uploads/2019/06/VANGUARD-DOE-CATALOG.pdf"
+    last_verified: "2026-10-26"

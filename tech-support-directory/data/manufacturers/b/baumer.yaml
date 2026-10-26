@@ -1,0 +1,12 @@
+id: baumer
+name: Baumer
+categories: [electrical]
+aliases: ["Baumer Ltd", "Baumer USA"]
+support:
+  - category: electrical
+    department: Customer Support
+    phone: "+18009379336"
+    country: US
+    notes: "Sensors, encoders, measuring instruments and machine-vision components, US office Bristol CT (5 Century Dr). US line published on baumer.com US pages; German technical/application support +49 3528 4386 845 also published."
+    source: "https://www.baumer.com/us/en/product-overview/object-detection/capacitive-sensors/c/283"
+    last_verified: "2026-10-26"

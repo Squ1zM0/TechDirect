@@ -1,0 +1,12 @@
+id: sgs-manufacturing
+name: SGS Manufacturing
+categories: [valves]
+aliases: []
+support:
+  - category: valves
+    department: Customer Support
+    phone: "+19727326005"
+    country: US
+    notes: "SGS Manufacturing, Inc., Addison/Carrollton, TX (est. 1985; utility products for the natural gas industry: meter swivels, meter loops and bends, meter nut plugs, guards, bars, locking gas meter valves, connection nuts, insulated unions, swivel washers, blind discs, dust caps and penetrometers). Hours Mon-Fri 8:30 AM-4:30 PM CT per place listing. Distinct from SGS the testing/inspection/certification company and from SGS Solid Carbide Tools (separate file)."
+    source: "http://www.sgsmfg.com/"
+    last_verified: "2026-10-26"

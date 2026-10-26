@@ -1,0 +1,13 @@
+id: dormont
+name: Dormont
+website: https://www.dormont.com
+categories: [plumbing]
+aliases: []
+support:
+  - category: plumbing
+    department: Customer Support
+    phone: "+18003676668"
+    country: US
+    notes: "Dormont Manufacturing (Watts) gas connectors and hoses. Customer Service line 1-800-DORMONT published in Dormont catalogs and instructions."
+    source: "https://images.tradeservice.com/ATTACHMENTS/DIR100334/WattsWaterTechnologies-DormontMfgCo_00002_5_6_CAT.pdf"
+    last_verified: "2026-10-26"

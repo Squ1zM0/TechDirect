@@ -1,0 +1,13 @@
+id: clippard
+name: Clippard
+website: http://www.clippard.com/
+categories: [hardware]
+aliases: ["Clippard Instrument Laboratory", "Clippard Instrument Laboratory, Inc."]
+support:
+  - category: hardware
+    department: Customer Support
+    phone: "+15135214261"
+    country: US
+    notes: "Clippard Instrument Laboratory, Inc., Cincinnati, OH (since 1941/1946); miniature pneumatic products — Minimatic valves, cylinders, fittings, manifolds, FRLs, pressure controllers (5,000+ standard products). Toll-free line 877-245-6247 also published on Clippard's own releases. Category mapped to closest vocabulary term (pneumatics)."
+    source: "https://www.thomasnet.com/company/clippard-109311/profile"
+    last_verified: "2026-10-26"

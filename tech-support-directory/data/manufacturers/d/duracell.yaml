@@ -1,0 +1,16 @@
+id: duracell
+name: Duracell
+website: https://www.duracell.com
+categories: [electrical]
+aliases: ["Duracell USA"]
+support:
+  - category: electrical
+    department: Customer Support
+    phone: "+18005512355"
+    country: US
+    notes: "Duracell (Berkshire Hathaway) batteries. Consumer support line, Mon-Fri 9:00 AM - 6:00 PM ET. Covers xref spellings Duracell and Duracell USA (same brand). Note: licensed Duracell power products (jump-starters, powerpacks) use a separate Battery-Biz line and are not this brand entry."
+    source: "https://customerservicenumbers.com/duracell/"
+    last_verified: "2026-10-26"
+    hours:
+      timezone: "ET"
+      mon_fri: "9:00 AM - 6:00 PM"

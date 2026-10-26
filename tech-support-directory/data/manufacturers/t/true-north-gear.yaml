@@ -1,0 +1,20 @@
+id: true-north-gear
+name: True North Gear
+website: http://truenorthgear.com/
+categories:
+- hardware
+aliases: []
+support:
+- category: hardware
+  department: Customer Support
+  phone: '+18008735725'
+  country: US
+  notes: True North Gear, 11621 E Marginal Way S, Tukwila, WA (PO Box 28789, Seattle, WA 98118); info@truenorthgear.com.
+    Family-owned, founded 1992; True North packs/bags and DragonWear FR/AR clothing for wildland/structure
+    fire, search & rescue, industrial safety; lifetime materials warranty. Hours Mon-Fri 8:00 AM-4:30
+    PM America/Los_Angeles.
+  source: http://truenorthgear.com/
+  last_verified: '2026-10-26'
+  hours:
+    timezone: America/Los_Angeles
+    mon_fri: 8:00 AM - 4:30 PM

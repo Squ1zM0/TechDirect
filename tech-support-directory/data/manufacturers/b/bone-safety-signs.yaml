@@ -1,0 +1,13 @@
+id: bone-safety-signs
+name: Bone Safety Signs
+website: https://www.bonesafety.com
+categories: [hardware]
+aliases: ["Bone Safety Signs, LLC"]
+support:
+  - category: hardware
+    department: Customer Support
+    phone: "+18008732399"
+    country: US
+    notes: "Bone Safety Signs, LLC, Georgia sign manufacturer of traffic and work-zone safety signs. Toll-free line from the company's own specification sheet (Florida DOT-hosted copy); local 770-333-1635 also published. Older spec sheet gives Marietta GA address (2151 Northwest Parkway SE Suite 100); current directory listing gives Alpharetta GA (6450 Industrial Way). Category mapped from safety signs to hardware (no signage term in the vocabulary)."
+    source: "http://pathdev.fdot.gov/Resources/ce036990-bdf9-4e82-b817-68fe945e67bf.pdf"
+    last_verified: "2026-10-26"

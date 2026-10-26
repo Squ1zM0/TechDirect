@@ -1,0 +1,13 @@
+id: vishay
+name: "Vishay"
+website: https://www.vishay.com
+categories: [electrical]
+aliases: []
+support:
+  - category: electrical
+    department: Customer Support
+    phone: "+14025636866"
+    country: US
+    notes: "Vishay Americas general business number. A Technical Support tab exists but routes via form; the general number is used and NOT relabeled as tech."
+    source: "https://www.vishay.com/en/company/contacts/tab/general/"
+    last_verified: "2026-10-26"

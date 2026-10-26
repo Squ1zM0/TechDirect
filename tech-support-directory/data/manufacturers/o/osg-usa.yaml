@@ -1,0 +1,13 @@
+id: osg-usa
+name: OSG USA
+website: https://osgtool.com/blog/high-speed-machining/
+categories: [hardware]
+aliases: []
+support:
+  - category: hardware
+    department: Customer Support
+    phone: "+18008372223"
+    country: US
+    notes: "OSG USA, Inc., St. Charles IL (620 Stetson Avenue); formerly OSG Tap & Die; taps, drills, end mills, dies."
+    source: "https://osgtool.com/blog/high-speed-machining/"
+    last_verified: "2026-10-26"

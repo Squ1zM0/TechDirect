@@ -1,0 +1,13 @@
+id: zeus-battery
+name: "ZEUS Battery Products"
+website: https://www.zeusbatteryproducts.com
+categories: [electrical]
+aliases: ["Zeus Battery"]
+support:
+  - category: electrical
+    department: Customer Support
+    phone: "+18774694255"
+    country: US
+    notes: "PowerCell LLC dba ZEUS Battery Products; Bloomingdale IL, 191 Covington Drive; founded 2001. Toll-free; local 630-295-6800 also published (secondary); email sales@zeusbatteryproducts.com. Batteries, custom battery packs, chargers. Distinct from Zeus Inc. (zeusinc.com, polymer tubing); do not conflate."
+    source: "https://www.thomasnet.com/company/zeus-battery-products-power-cell-battery-products-453366/profile"
+    last_verified: "2026-10-26"

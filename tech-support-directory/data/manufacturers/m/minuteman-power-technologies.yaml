@@ -1,0 +1,15 @@
+id: minuteman-power-technologies
+name: Minuteman Power Technologies
+website: https://www.minutemanups.com
+categories:
+- electrical
+aliases:
+- Minuteman
+support:
+- category: electrical
+  department: Customer Support
+  phone: "+18002387272"
+  country: US
+  notes: Parent Para Systems Inc., Carrollton, TX. UPS, power protection. Local 972-446-7363; email support@minutemanups.com (Service and Technical Support) + sales@minutemanups.com. Accu-Tech lists corporate 888-222-8832 as alternate. Xref parent mentions Exide/EnerSys lineage for power; the UPS identity is Para Systems per the xref category; ambiguity noted. Covers xref spellings Minuteman and Minuteman Power Technologies.
+  source: https://minutemanups.com/uninterruptible-power-supply/exr-series-line-interactive-uninterruptible-power-supply/
+  last_verified: "2026-10-26"

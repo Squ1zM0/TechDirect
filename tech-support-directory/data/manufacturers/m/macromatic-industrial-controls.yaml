@@ -1,0 +1,13 @@
+id: macromatic-industrial-controls
+name: Macromatic Industrial Controls
+website: "https://macromatic.com/"
+categories: [electrical]
+aliases: ["Macromatic Industrial Controls, Inc.", "Macromatic Controls"]
+support:
+  - category: electrical
+    department: Technical Support
+    phone: "+18002387474"
+    country: US
+    notes: "Macromatic Industrial Controls, Inc., Waukesha, WI (2201 Corporate Drive); manufacturer of time delay relays, voltage/current/phase monitor relays, alternating and liquid level relays for OEM and MRO use (including HVAC). Macromatic's own instruction sheets route troubleshooting to this number and techsupport@macromatic.com, and its site describes its application-engineer technical support; the number is therefore filed as Technical Support. Direct (262) 781-3366 also published."
+    source: "https://macromatic.com/reset-timers/"
+    last_verified: "2026-10-26"

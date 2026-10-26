@@ -1,0 +1,16 @@
+id: fuji-electric
+name: 'Fuji Electric'
+categories:
+- electrical
+aliases: []
+support:
+- category: electrical
+  department: 'Technical Support'
+  phone: '+15104037865'
+  country: US
+  notes: 'Distinct from Fujitsu General; do not confuse. Hours 9 AM - 5 PM PST Mon - Fri.'
+  source: 'https://americas.fujielectric.com/products/power-distribution-control/distribution-control-support/'
+  last_verified: '2026-10-26'
+  hours:
+    timezone: 'PST'
+    mon_fri: '9:00 AM - 5:00 PM'

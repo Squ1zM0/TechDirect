@@ -1,0 +1,16 @@
+id: ecco
+name: ECCO
+website: https://www.eccoesg.com
+categories: [electrical]
+aliases: ["ECCO Safety Group", "ECCO Safety Group Inc."]
+support:
+  - category: electrical
+    department: Customer Support
+    phone: "+18006355900"
+    country: US
+    notes: "ECCO Safety Group (Boise, ID) vehicle warning lights, lightbars, alarms and camera systems. Customer Service line from the official ECCO product pages; Technical Support is email-only (technical support email on the same pages). Distinct from ECCO the footwear company and from ECCO Group Asia Pacific distributors."
+    source: "https://www.eccoesg.com/us/en/products/worklights/medium-duty-worklights/e92004-series"
+    last_verified: "2026-10-26"
+    hours:
+      timezone: "MT"
+      mon_fri: "7:00 AM - 4:00 PM"

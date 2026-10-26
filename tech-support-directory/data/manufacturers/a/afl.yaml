@@ -1,0 +1,20 @@
+id: afl
+name: AFL
+website: https://www.aflglobal.com
+categories: [electrical]
+aliases: ["AFL Global", "AFL Telecommunications"]
+support:
+  - category: electrical
+    department: Customer Support
+    phone: "+18002353423"
+    country: US
+    notes: "AFL, 170 Ridgeview Center Drive, Duncan, SC 29334. Fiber optic cable, connectivity, fusion splicing systems and outside-plant products; general number published across aflglobal.com. Email sales@aflglobal.com. Covers all three xref spellings: AFL, AFL Global, AFL Telecommunications (same company)."
+    source: "http://aflglobal.com/en/Resources/Product-Related-Materials/Frequently-Asked-Questions/Fiber-Outside-Plant"
+    last_verified: "2026-10-26"
+  - category: electrical
+    department: Technical Support
+    phone: "+18008663602"
+    country: US
+    notes: "AFL fusion splicer maintenance and technical support, 8:00 AM - 5:00 PM EST; nights and weekends (864) 680-6880. AFL operates the only authorized Fujikura splicer repair facility in the US."
+    source: "https://afl-delivery.stylelabs.cloud/api/public/content/AFL-OEM-Specialty.pdf?v=5a7f04c5"
+    last_verified: "2026-10-26"

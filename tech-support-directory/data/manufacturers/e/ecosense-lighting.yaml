@@ -1,0 +1,13 @@
+id: ecosense-lighting
+name: EcoSense Lighting
+website: https://www.ecosenselighting.com
+categories: [electrical]
+aliases: ["EcoSense"]
+support:
+  - category: electrical
+    department: Customer Support
+    phone: "+13104966255"
+    country: US
+    notes: "EcoSense Lighting (Los Angeles, CA, founded 2009) architectural and commercial LED lighting systems (linear, cove, flood). Number from the Journal of Light Construction manufacturer listing and business directories; an alternate HQ number 855-632-6736 also appears in aggregator profiles."
+    source: "https://www.jlconline.com/manufacturer/ecosense/"
+    last_verified: "2026-10-26"

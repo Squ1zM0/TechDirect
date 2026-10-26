@@ -1,0 +1,15 @@
+id: morse-cutting-tools
+name: The M.K. Morse Company
+website: https://www.mkmorse.com
+categories:
+- hardware
+aliases:
+- Morse Cutting Tools
+support:
+- category: hardware
+  department: Customer Support
+  phone: "+13304538187"
+  country: US
+  notes: Canton, OH. Cutting tools (saw blades, hole saws). BandTech technical assistance 888-422-6362 as alternate; Madison Heights, MI listing (248) 588-2220 noted as alternate listing.
+  source: https://www.mkmorse.com/company/
+  last_verified: "2026-10-26"

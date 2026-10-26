@@ -1,0 +1,13 @@
+id: siemens-combustion-controls
+name: Siemens Combustion Controls
+website: https://www.siemens.com
+categories: [hvac-controls]
+aliases: []
+support:
+  - category: hvac-controls
+    department: Customer Support
+    phone: "+12243668445"
+    country: US
+    notes: "Siemens Combustion Controls (SCC), Elk Grove Village, IL (burner management systems, actuators, gas/oil valves for commercial and industrial burners). A Siemens division with its own published contact; regional Siemens Combustion Controls representatives publish their own separate numbers and are not used here."
+    source: "https://www.bbb.org/us/il/elk-grove-village/profile/not-elsewhere-classified/siemens-combustion-controls-0654-1000110214"
+    last_verified: "2026-10-26"

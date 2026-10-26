@@ -1,0 +1,16 @@
+id: wave-lighting
+name: "Wave Lighting"
+website: https://wavelighting.com
+categories: [electrical]
+aliases: []
+support:
+  - category: electrical
+    department: Customer Support
+    phone: "+18778709283"
+    country: US
+    notes: "St. Louis MO. Hours Mon-Fri 9am-5pm CT."
+    source: "https://www.wavelighting.com/contact/"
+    last_verified: "2026-10-26"
+    hours:
+      timezone: "CT"
+      mon_fri: "9:00 AM - 5:00 PM"

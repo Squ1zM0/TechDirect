@@ -1,0 +1,12 @@
+id: bapi
+name: Building Automation Products
+categories: [hvac-controls]
+aliases: ["BAPI"]
+support:
+  - category: hvac-controls
+    department: Customer Support
+    phone: "+16087354800"
+    country: US
+    notes: "HVAC sensors, transmitters and wireless sensing (temperature, humidity, pressure, CO), Gays Mills WI. Company line published in BAPI installation guides; email sales@bapihvac.com."
+    source: "https://manuals.plus/bapi/49658-wireless-outside-air-temperature-and-humidity-sensor-manual"
+    last_verified: "2026-10-26"

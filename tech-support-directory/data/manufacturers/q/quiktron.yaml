@@ -1,0 +1,13 @@
+id: quiktron
+name: Quiktron
+website: https://www.Legrand.us/contact-and-support/chat-support
+categories: [electrical]
+aliases: ["Quiktron - Legrand"]
+support:
+  - category: electrical
+    department: Customer Support
+    phone: "+18003610471"
+    country: US
+    notes: "Legrand support table lists Quiktron Phone (not labelled Technical Support, unlike Raritan on the same table). Hours per the Legrand table: Mon-Thu 7:00 AM-6:00 PM CT, Fri 7:00 AM-5:00 PM CT."
+    source: "https://www.Legrand.us/contact-and-support/chat-support"
+    last_verified: "2026-10-26"

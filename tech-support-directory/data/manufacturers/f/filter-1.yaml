@@ -1,0 +1,14 @@
+id: filter-1
+name: "Filter 1"
+website: "http://www.filter-1.com/"
+categories:
+- hvac
+aliases: []
+support:
+- category: hvac
+  department: "Customer Support"
+  phone: "+19722782664"
+  country: US
+  notes: "Filter 1 Clean Air Consultants, 2525 National Drive, Garland, TX 75041. Number from the company own site and its ThomasNet profile. Custom cartridge collection systems and dust collectors for wood, plastic, metal, cement dust, welding smoke, and composites; hvac is the closest vocabulary term."
+  source: "http://www.filter-1.com/"
+  last_verified: "2026-10-26"

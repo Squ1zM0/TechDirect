@@ -1,0 +1,14 @@
+id: erco
+name: "ERCO Lighting"
+website: "https://www.erco.com/en/contact/usa-2371/"
+categories:
+- electrical
+aliases: []
+support:
+- category: electrical
+  department: "Customer Support"
+  phone: "+18773726584"
+  country: US
+  notes: "ERCO Lighting Inc., 160 Raritan Center Parkway Suite 10, Edison, NJ 08837. Number from ERCO own USA contact page; email info.us@erco.com. Los Angeles showroom at 8651 Hayden Place, Culver City, CA 90232. German architectural lighting maker with a US subsidiary (parent ERCO GmbH, Ludenscheid)."
+  source: "https://www.erco.com/en/contact/usa-2371/"
+  last_verified: "2026-10-26"

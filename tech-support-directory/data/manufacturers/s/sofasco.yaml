@@ -1,0 +1,13 @@
+id: sofasco
+name: Sofasco
+website: https://www.sofasco.com
+categories: [electrical]
+aliases: []
+support:
+  - category: electrical
+    department: Customer Support
+    phone: "+18003564159"
+    country: US
+    notes: "Sofasco, Inc., Winchester, VA (electronic and industrial cooling: AC/DC/EC fans, blowers, fan trays; plus fasteners, seals, fittings and electronic components). Distinct company from Fasco (separate TechDirect file); the near-miss candidate Fasco was rejected. Local phone 540-667-2337 (ThomasNet profile) also published; fax 540-667-3640; email sofasco@sofasco.com."
+    source: "https://sofasco.com/"
+    last_verified: "2026-10-26"

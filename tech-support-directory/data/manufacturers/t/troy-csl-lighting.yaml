@@ -1,0 +1,17 @@
+id: troy-csl-lighting
+name: Troy-CSL Lighting
+website: https://www.csllighting.com/
+categories:
+- electrical
+aliases:
+- Troy
+- Troy Lighting
+support:
+- category: electrical
+  department: Customer Support
+  phone: '+16263364511'
+  country: US
+  notes: Troy-CSL Lighting, Inc., 14508 Nelson Avenue / 14625 E Clark Ave, City of Industry, CA 91744/91745.
+    Troy Lighting is a division of Troy-CSL Lighting, Inc.
+  source: https://s1.img-b.com/build.com/mediabase/specifications/csl_lighting/802687/csl_lighting_caf_16_specs_2.pdf
+  last_verified: '2026-10-26'

@@ -1,0 +1,14 @@
+id: republic-wire
+name: Republic Wire
+website: https://republicwire.com/
+categories:
+- electrical
+aliases: []
+support:
+- category: electrical
+  department: Customer Support
+  phone: '+15138601800'
+  country: US
+  notes: Republic Wire, Inc., West Chester, OH. Building wire and cable. Distinct from Republic Conduit and from the bare Republic entry.
+  source: republicwire.com/contact-us
+  last_verified: '2026-10-26'

@@ -1,0 +1,13 @@
+id: quorum-international
+name: Quorum International
+website: https://quoruminternational.com/pages/about
+categories: [electrical]
+aliases: ["Quorum", "QUORUM INTL"]
+support:
+  - category: electrical
+    department: Customer Support
+    phone: "+18004434626"
+    country: US
+    notes: "201 Railhead Rd, Fort Worth, TX 76106."
+    source: "https://quoruminternational.com/pages/about"
+    last_verified: "2026-10-26"

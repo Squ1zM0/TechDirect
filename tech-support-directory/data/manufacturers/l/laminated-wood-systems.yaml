@@ -1,0 +1,12 @@
+id: laminated-wood-systems
+name: Laminated Wood Systems
+categories: [electrical]
+aliases: ["LWS"]
+support:
+  - category: electrical
+    department: Customer Support
+    phone: "+18009493526"
+    country: US
+    notes: "Laminated Wood Systems, Inc., Seward, NE; E-LAM engineered laminated wood utility structures and pole-management products for the electric utility industry. Toll-free number from LWS brochures."
+    source: "https://www.lwsinc.com/sites/default/files/files/E-LAM_Picturebook%20Brochure%20FINAL.pdf"
+    last_verified: "2026-10-26"

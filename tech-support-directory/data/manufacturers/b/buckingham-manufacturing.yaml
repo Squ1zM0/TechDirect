@@ -1,0 +1,16 @@
+id: buckingham-manufacturing
+name: Buckingham Manufacturing
+website: https://buckinghammfg.com/
+categories: [electrical]
+aliases: ["Buckingham", "Buckingham Mfg."]
+support:
+  - category: electrical
+    department: Customer Support
+    phone: "+16077732400"
+    country: US
+    notes: "Buckingham Manufacturing, 1-11 Travis Avenue, Binghamton, NY 13904, maker of lineman and arborist climbing, fall-protection and rigging equipment since 1896, ISO 9001:2015 certified, manufactured in the USA. Hours Mon-Fri 8 AM-5 PM."
+    source: "https://www.equipment10.com/US/Binghamton/738931136194737/Buckingham-Manufacturing"
+    last_verified: "2026-10-26"
+    hours:
+      timezone: "ET"
+      mon_fri: "8:00 AM - 5:00 PM"

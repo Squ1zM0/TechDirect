@@ -1,0 +1,16 @@
+id: c2g
+name: C2G
+website: https://www.legrandav.com/products/c2g
+categories: [electrical]
+aliases: ["C2G - Legrand"]
+support:
+  - category: electrical
+    department: Customer Support
+    phone: "+18669773901"
+    country: US
+    notes: "C2G (formerly Cables To Go), a Legrand AV brand of cables, adapters and connectivity products, with its own distinct support line on Legrand's support table (not the general Legrand line), so it gets its own file rather than parent-resolution to Legrand. Hours Mon-Fri 8:30 AM-6:00 PM ET. Tech email av.c2g.techsupport@legrand.com. C2G's own contact page also publishes 800-506-9607. Covers xref variants C2G and C2G - Legrand."
+    source: "https://www.Legrand.us/contact-and-support/chat-support"
+    last_verified: "2026-10-26"
+    hours:
+      timezone: "ET"
+      mon_fri: "8:30 AM - 6:00 PM"

@@ -1,0 +1,15 @@
+id: wattstopper
+name: Wattstopper
+categories: [electrical]
+aliases: ["Legrand Wattstopper"]
+support:
+  - category: electrical
+    department: Technical Support
+    phone: "+18008798585"
+    country: US
+    notes: "Legrand brand with its own distinct support contact: Legrand's support table lists Wattstopper separately, Technical Support option 3, Mon-Fri 7:00am-6:00pm CST; tech.support-bcs@legrand.com. Distinct from the general Legrand line (844-957-3783), so filed standalone per program rule."
+    source: "https://www.Legrand.us/contact-and-support/chat-support"
+    last_verified: "2026-10-26"
+    hours:
+      timezone: "CT"
+      mon_fri: "7:00 AM - 6:00 PM"

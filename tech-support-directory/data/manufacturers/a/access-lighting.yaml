@@ -1,0 +1,12 @@
+id: access-lighting
+name: Access Lighting
+categories: [electrical]
+aliases: []
+support:
+  - category: electrical
+    department: Customer Support
+    phone: "+17142471270"
+    country: US
+    notes: "General contact number on Access Lighting manufacturer spec sheets (1200 Valencia Avenue, Tustin, CA 92780). No separate technical support line published; this is the published general/customer contact."
+    source: "http://pdf.lowes.com/useandcareguides/3741171_use.pdf"
+    last_verified: "2026-10-26"

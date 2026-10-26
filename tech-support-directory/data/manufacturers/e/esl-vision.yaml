@@ -1,0 +1,13 @@
+id: esl-vision
+name: "ESL Vision"
+categories:
+- electrical
+aliases: []
+support:
+- category: electrical
+  department: "Customer Support"
+  phone: "+18884935559"
+  country: US
+  notes: "ESL Vision. Number printed in the footer of ESL Vision manuals. Email info@eslvisions.com. LED lighting."
+  source: "https://manuals.plus/eslvision/esl-iss-601-2-1525w-3550k-series-decorative-strips-manual"
+  last_verified: "2026-10-26"

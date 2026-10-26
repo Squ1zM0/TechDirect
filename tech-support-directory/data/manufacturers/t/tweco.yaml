@@ -1,0 +1,15 @@
+id: tweco
+name: Tweco
+categories:
+- hardware
+aliases: []
+support:
+- category: hardware
+  department: Customer Support
+  phone: '+18004261888'
+  country: US
+  notes: U.S. Customer Care grouping 'ARCAIR / STOODY / THERMAL ARC / THERMAL DYNAMICS / TWECO / VICTOR',
+    per the Victor Technologies guide. Tweco is an ESAB/Victor brand. ESAB general technical service 800-ESAB-123
+    (800-372-2123) is noted only, not the Tweco line. Welding torches and consumables.
+  source: https://www.scribd.com/document/735708875/Cutting-Heating-and-Welding-Guide-Victor-Technologies
+  last_verified: '2026-10-26'

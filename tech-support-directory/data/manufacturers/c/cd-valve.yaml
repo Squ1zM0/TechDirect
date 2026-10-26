@@ -1,0 +1,13 @@
+id: cd-valve
+name: C&D Valve
+website: http://www.cdvalve.com/
+categories: [valves]
+aliases: ["C & D Valve Co", "C&D Valve Manufacturing", "C & D Valve Manufacturing"]
+support:
+  - category: valves
+    department: Customer Support
+    phone: "+18006549233"
+    country: US
+    notes: "C&D Valve Manufacturing, Oklahoma City, OK, industry leader in HVAC/R components: service valves, access fittings, core removal tools and saddle valves, made and packaged in the USA. Covers xref variants C & D Valve Co and C&D Valve. Local line 405-843-5621 also published; email sales@cdvalve.com."
+    source: "https://cdvalve.com/wp-content/uploads/2019/01/New-Products.pdf"
+    last_verified: "2026-10-26"

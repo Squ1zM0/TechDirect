@@ -1,0 +1,14 @@
+id: insultab
+name: Insultab
+website: https://www.insultab.com/
+categories:
+- electrical
+aliases: []
+support:
+- category: electrical
+  department: Customer Support
+  phone: '+17819350800'
+  country: US
+  notes: "Insul-Tab Inc.; acquired by Pexco on 2018-11-30 per a Datanyze report. Number corroborated by a BBB profile."
+  source: https://media.iewc.com/PublicAssets/ProductImages/HS205-Insultab-HST-pull-photo-off-PDF.pdf
+  last_verified: '2026-10-26'

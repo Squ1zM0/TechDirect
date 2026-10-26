@@ -1,0 +1,17 @@
+id: seco-tools
+name: Seco Tools
+website: https://secotools.com/
+categories:
+- hardware
+aliases:
+- SECO/Carboloy
+- Carboloy
+support:
+- category: hardware
+  department: Technical Support
+  phone: '+18008328326'
+  country: US
+  notes: Seco Tools, LLC, North American HQ 2805 Bellingham Drive, Troy, MI 48083 (248-528-5220/248-528-5444 per ThomasNet/press). Metal cutting tools. Fagersta, Sweden origins. No Sandvik parent claim
+    is asserted (unverified in this session).
+  source: Seco Tools catalog PDF (For technical assistance call 1-800-832-8326)
+  last_verified: '2026-10-26'

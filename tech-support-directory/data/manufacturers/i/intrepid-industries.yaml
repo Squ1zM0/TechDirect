@@ -1,0 +1,14 @@
+id: intrepid-industries
+name: Intrepid Industries Inc.
+website: https://www.intrepidindustries.com/
+categories:
+- hardware
+aliases: []
+support:
+- category: hardware
+  department: Customer Support
+  phone: '+18664798301'
+  country: US
+  notes: "Toll-free line from the official site; direct 281-479-8301 and email sales@intrepidindustries.com also published."
+  source: https://www.intrepidindustries.com/about/
+  last_verified: '2026-10-26'

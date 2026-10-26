@@ -1,0 +1,13 @@
+id: dpw-solar
+name: DPW Solar
+website: https://www.dpwsolar.com
+categories: [electrical]
+aliases: []
+support:
+  - category: electrical
+    department: Customer Support
+    phone: "+18002603792"
+    country: US
+    notes: "DPW Solar (Preformed Line Products, Albuquerque, NM) PV solar mounting systems since 1993. Support line from the official TPM6 installation guide; email info@powerfab.com."
+    source: "https://www.manualshelf.com/manual/dpw-solar/tpm6-g/installation-guide-english/page-2.html"
+    last_verified: "2026-10-26"

@@ -1,0 +1,13 @@
+id: alcan-cable
+name: Alcan Cable
+website: https://na.prysmian.com/
+categories: [electrical]
+aliases: ["Alcan Cable North America", "STABILOY"]
+support:
+  - category: electrical
+    department: Customer Support
+    phone: "+18595728000"
+    country: US
+    notes: "Legacy brand, kept as its own entry. Alcan Cable (Rio Tinto Alcan) sold its North American wire and cable business, including the STABILOY aluminum building-wire brand, to General Cable Corporation on September 4, 2012; Prysmian acquired General Cable in June 2018 and merged the US entities as Prysmian Group US effective January 1, 2022. Support is therefore via Prysmian Group North America's published main line. Legacy pre-2012 Alcan Cable literature numbers (770) 394-9886 and (800) 347-0571 are superseded and are not current support lines."
+    source: "https://na.prysmian.com/contact-us"
+    last_verified: "2026-10-26"

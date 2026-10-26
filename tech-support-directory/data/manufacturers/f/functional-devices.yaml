@@ -1,0 +1,13 @@
+id: functional-devices
+name: 'Functional Devices'
+categories:
+- electrical
+aliases: []
+support:
+- category: electrical
+  department: 'Customer Support'
+  phone: '+18008885538'
+  country: US
+  notes: 'Office line 765-883-5538 also published. Sales email sales@functionaldevices.com. Controls and relays.'
+  source: 'https://cdn.epartsservices.com/docs/functional_devices/termsofsale.pdf?'
+  last_verified: '2026-10-26'

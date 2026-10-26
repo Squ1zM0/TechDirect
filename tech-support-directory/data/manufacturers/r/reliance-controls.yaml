@@ -1,0 +1,16 @@
+id: reliance-controls
+name: Reliance Controls
+website: https://reliancecontrols.com/
+categories:
+- electrical
+aliases:
+- RELIANCE CONTROLS CORP
+support:
+- category: electrical
+  department: Customer Support
+  phone: '+18006346155'
+  country: US
+  notes: Reliance Controls, 2001 Young Court, Racine, WI. Transfer switches and controls. Manuals also show 800-439-5745; 800-634-6155 is the main published line. Distinct from Reliance Water Heaters; do
+    not conflate.
+  source: Reliance Controls document (api.reliancecontrols.com) and catalog footer
+  last_verified: '2026-10-26'

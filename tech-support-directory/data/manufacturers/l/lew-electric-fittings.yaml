@@ -1,0 +1,12 @@
+id: lew-electric-fittings
+name: Lew Electric Fittings
+categories: [electrical]
+aliases: ["Lew Electric Fittings Company", "Lew"]
+support:
+  - category: electrical
+    department: Customer Support
+    phone: "+18775372019"
+    country: US
+    notes: "Lew Electric Fittings Company, Augusta, GA; residential and commercial floor boxes and fittings. General number from Lew Electric catalogs. The bare xref spelling 'Lew' is treated as shorthand for this company (same trade/categories, no other Lew electrical brand found)."
+    source: "https://assets.gordonelectricsupply.com/datasheets/ts/LewElectricFittings_00071_21_CAT.pdf"
+    last_verified: "2026-10-26"

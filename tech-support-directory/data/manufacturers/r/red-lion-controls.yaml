@@ -1,0 +1,13 @@
+id: red-lion-controls
+name: Red Lion Controls
+website: https://www.redlion.net/
+categories: [electrical]
+aliases: ["Red Lion Controls, Inc."]
+support:
+  - category: electrical
+    department: Technical Support
+    phone: "+18774329908"
+    country: US
+    notes: "Parent HMS Networks. Distinct from the existing red-lion pumps file (Franklin Electric / Red Lion brand); this is Red Lion Controls (industrial automation, York PA), not a collision."
+    source: "https://www.hms-networks.com/support/tech-support/kb-articles/27220913362194-Communicating-Between-Two-Red-Lion-Devices-via-Generic-MQTT-using-Mosquitto-MQTT-broker"
+    last_verified: "2026-10-26"

@@ -1,0 +1,16 @@
+id: tcp-lighting
+name: "TCP Lighting"
+website: "https://www.tcpi.com"
+categories: [electrical]
+aliases: ["TCP", "Technical Consumer Products"]
+support:
+  - category: electrical
+    department: Customer Support
+    phone: "+18003241496"
+    country: US
+    notes: "TCP Lighting (Technical Consumer Products) lighting lamps and fixtures, Aurora OH (325 Campus Dr)."
+    source: "https://manuals.plus/m/b635cc97b57f24be2ff1d1ae2dbc2642940d069e3be901243e0b265cf196d3df"
+    last_verified: "2026-10-26"
+    hours:
+      timezone: "ET"
+      mon_fri: "8:00 AM - 6:00 PM"

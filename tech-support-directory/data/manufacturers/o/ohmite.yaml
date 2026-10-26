@@ -1,0 +1,13 @@
+id: ohmite
+name: Ohmite Manufacturing Company
+website: https://www.ohmite.com/60-series/
+categories: [electrical]
+aliases: ["Ohmite Manufacturing"]
+support:
+  - category: electrical
+    department: Customer Support
+    phone: "+18669646483"
+    country: US
+    notes: "Ohmite Manufacturing Company, Warrenville IL (27501 Bella Vista Parkway); toll-free 1-866-9-OHMITE from manufacturer datasheets; HQ 847-258-0300 also published on the official site footer."
+    source: "https://www.ohmite.com/60-series/"
+    last_verified: "2026-10-26"

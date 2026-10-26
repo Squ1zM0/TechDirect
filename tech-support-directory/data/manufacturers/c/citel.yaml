@@ -1,0 +1,14 @@
+id: citel
+name: CITEL
+website: https://citel.us
+categories: [electrical]
+aliases: ["CITEL Inc.", "Citel Inc."]
+support:
+  - category: electrical
+    department: Customer Support
+    phone: "+19544306310"
+    email: info@citel.us
+    country: US
+    notes: "CITEL Inc., Miramar, FL; surge protective devices (AC, DC/PV, RF/coax, data). Phone per CITEL's own product datasheets; older Thomasnet listing also shows toll-free (800) 248-3548."
+    source: "https://citel.us/serverFile/downloadBinGetSpreadsheet?itemId=2178369&langId=1"
+    last_verified: "2026-10-26"

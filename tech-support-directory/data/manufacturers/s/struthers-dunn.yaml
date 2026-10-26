@@ -1,0 +1,13 @@
+id: struthers-dunn
+name: "Struthers-Dunn"
+website: "https://www.struthers-dunn.com/about-us/"
+categories: [electrical]
+aliases: []
+support:
+  - category: electrical
+    department: Customer Support
+    phone: "+18433464427"
+    country: US
+    notes: "Struthers-Dunn industrial relays and controls, Timmonsville SC. Email info@struthers-dunn.com."
+    source: "https://www.struthers-dunn.com/about-us/"
+    last_verified: "2026-10-26"

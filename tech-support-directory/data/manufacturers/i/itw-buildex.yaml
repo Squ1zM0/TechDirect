@@ -1,0 +1,14 @@
+id: itw-buildex
+name: ITW Buildex
+website: https://www.itwbuildex.com/
+categories:
+- hardware
+aliases: []
+support:
+- category: hardware
+  department: Customer Support
+  phone: '+18008485611'
+  country: US
+  notes: "Fasteners and anchors; 155 Harlem Ave, Glenview, IL 60023, per the official site footer. Buildex Technical Service Department 800-323-0720 per Buildex catalogs (older). Brands Tapcon and Teks."
+  source: https://www.itwbuildex.com/about/
+  last_verified: '2026-10-26'

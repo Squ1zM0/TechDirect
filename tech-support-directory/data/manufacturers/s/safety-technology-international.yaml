@@ -1,0 +1,15 @@
+id: safety-technology-international
+name: Safety Technology International
+website: https://sti-usa.com/
+categories:
+- electrical
+aliases:
+- STI
+support:
+- category: electrical
+  department: Technical Support
+  phone: '+18008884784'
+  country: US
+  notes: Safety Technology International, Inc. (STI), Waterford, MI. info@sti-usa.com; local 248-673-9898 also listed. Protective covers, enclosures and alarms for electrical devices.
+  source: 'STI manuals (sti-usa.com PDFs: Technical support: Contact STI at 800-888-4784)'
+  last_verified: '2026-10-26'

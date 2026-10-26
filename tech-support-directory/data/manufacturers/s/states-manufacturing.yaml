@@ -1,0 +1,13 @@
+id: states-manufacturing
+name: States Manufacturing
+website: https://www.statesmfg.com
+categories: [electrical]
+aliases: []
+support:
+  - category: electrical
+    department: Customer Support
+    phone: "+17635880536"
+    country: US
+    notes: "States Manufacturing Corporation, Champlin, MN (custom electrical equipment: switchgear, switchboards, industrial control panels, automatic transfer switches, paralleling switchgear, generator controls and enclosures; founded 1924). NOT First State Manufacturing (Milford, DE, upholstery/cut-and-sew) and NOT Central States Manufacturing (Tontitown, AR, metal roofing)."
+    source: "https://www.signalhire.com/companies/states-manufacturing-corporation"
+    last_verified: "2026-10-26"

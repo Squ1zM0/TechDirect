@@ -1,0 +1,13 @@
+id: parker-hannifin
+name: Parker Hannifin
+website: https://www.parker.com
+categories: [plumbing]
+aliases: ["Parker", "Parker-Hannifin", "Parker Hannifin Corporation"]
+support:
+  - category: plumbing
+    department: Customer Support
+    phone: "+12168963000"
+    country: US
+    notes: "Parker-Hannifin Corporation, Mayfield Heights, OH (corporate headquarters). Main corporate number published by Parker Hannifin company profiles; Parker support is routed through divisions and distributors, so recorded as Customer Support, not Technical Support. Motion and control technologies: hydraulics, pneumatics, fluid connectors (fittings, valves, hoses) — no hydraulics/pneumatics term exists in the category vocabulary, so plumbing (fittings/valves/hoses) is the closest term. Distinct from the existing parker-sporlan file, which is the Sporlan Division only. Covers xref spellings Parker, Parker Hannifin Corporation, and Parker-Hannifin; the Brass Products Division is a Parker Hannifin division with no distinct support contact and resolves to this file."
+    source: "https://www.marketbeat.com/stocks/NYSE/PH/?utm-source=404Redirect&utm-medium=404Redirect"
+    last_verified: "2026-10-26"

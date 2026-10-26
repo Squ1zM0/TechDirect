@@ -1,0 +1,13 @@
+id: cortelco
+name: Cortelco
+website: https://www.cortelco.com
+categories: [electrical]
+aliases: []
+support:
+  - category: electrical
+    department: Technical Support
+    phone: "+18002883132"
+    country: US
+    notes: "Cortelco (Corinth, MS) Technical Support per the manufacturer's own product documentation: 'CORTELCO TECHNICAL SUPPORT AT (800) 288-3132 EXTENSION 298.' No separate telecom category exists in the vocabulary, so electrical is the closest. Main company phone 662-287-5281 also published in the same documents."
+    source: "https://manualzilla.com/doc/7342410/cortelco-ata-100-analog-telephone-adapter-datasheet"
+    last_verified: "2026-10-26"

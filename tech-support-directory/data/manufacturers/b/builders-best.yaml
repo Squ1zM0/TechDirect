@@ -1,0 +1,13 @@
+id: builders-best
+name: Builder's Best
+website: https://buildersbest.com
+categories: [airflow]
+aliases: ["Builder's Best, Inc.", "Builders Best"]
+support:
+  - category: airflow
+    department: Customer Support
+    phone: "+19035868283"
+    country: US
+    notes: "Builder's Best, Inc., 201 Broiles Drive, Jacksonville, TX 75766, manufacturer of dryer venting, bathroom fan venting, fresh air ventilation and general venting products since 1990. Acquired by the Duravent Group; its trademarks are now registered to the Duravent Group. Email sales@buildersbest.com, orders@buildersbest.com."
+    source: "https://buildersbest.com/uploads/BB_CT-001E_10-25_web.pdf"
+    last_verified: "2026-10-26"

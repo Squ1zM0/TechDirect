@@ -1,0 +1,16 @@
+id: brk
+name: BRK
+categories: [electrical]
+aliases: ["BRK Electronics", "BRK-First Alert", "First Alert", "BRK Brands"]
+support:
+  - category: electrical
+    department: Technical Support
+    phone: "+18003239005"
+    country: US
+    notes: "BRK Brands (Resideo), maker of BRK, First Alert and Onelink smoke, CO and heat alarms. BRK has its own distinct First Alert Technical Support line, so it gets its own file rather than parent-resolution to Resideo (whose file covers HVAC contractor support only). Hours Mon-Fri 9 AM-8 PM CT, Sat-Sun 9 AM-5:30 PM CT. Onelink Home Support 1-833-ONE-LINK (663-5465) also published. Covers xref variants BRK, BRK Electronics and BRK-First Alert."
+    source: "https://support.brkelectronics.com/s/article/Are-First-Alert-Onelink-or-BRK-Alarms-HUD-Compliant"
+    last_verified: "2026-10-26"
+    hours:
+      timezone: "CT"
+      mon_fri: "9:00 AM - 8:00 PM"
+      sat: "9:00 AM - 5:30 PM"

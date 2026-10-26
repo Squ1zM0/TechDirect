@@ -1,0 +1,13 @@
+id: norton-abrasives
+name: Norton Abrasives
+website: https://www.nortonabrasives.com/
+categories: [hardware]
+aliases: ["Norton | Saint-Gobain Abrasives"]
+support:
+  - category: hardware
+    department: Customer Support
+    phone: "+15087955000"
+    country: US
+    notes: "Norton Abrasives (Saint-Gobain Abrasives), Worcester MA; general phone from manufacturer MSDS. Vocabulary note: no abrasives term; hardware is closest."
+    source: "https://cdn.mscdirect.com//MSDS/MSDS00036/42064600.PDF"
+    last_verified: "2026-10-26"

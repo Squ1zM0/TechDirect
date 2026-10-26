@@ -1,0 +1,13 @@
+id: winchester-interconnect
+name: "Winchester Interconnect"
+website: https://www.winconn.com
+categories: [electrical]
+aliases: []
+support:
+  - category: electrical
+    department: Customer Support
+    phone: "+12037415400"
+    country: US
+    notes: "Main number per automate.org member listing. Thomasnet Dayville CT listing gives a different 978 number (division listing, secondary); Micro division Orange CA number is secondary. Distinct from Winchester Repeating Arms (firearms); do NOT use the firearms number. Connectors/cable assemblies."
+    source: "https://www.automate.org/news/winchester-announces-new-facility-in-mexico"
+    last_verified: "2026-10-26"

@@ -1,0 +1,15 @@
+id: diamond-products
+name: Diamond Products
+website: https://www.diamondproducts.com
+categories:
+  - hardware
+aliases:
+  - Diamond Products Limited
+support:
+  - category: Customer Support
+    department: Customer Support
+    phone: "+18003215336"
+    country: US
+    notes: "Diamond Products Limited, Elyria, OH (333 Prospect Street, Elyria, OH 44035), founded 1964; diamond blades, core bits, core drill rigs, concrete/masonry saws and highway grooving equipment. Email dp@diamondproducts.com. Not MK Diamond (a different diamond-tool company)."
+    source: "https://www.manualslib.es/manual/965650/Diamond-Products-Cc600T.html?page=20"
+    last_verified: "2026-10-26"

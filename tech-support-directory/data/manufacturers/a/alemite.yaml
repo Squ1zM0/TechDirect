@@ -1,0 +1,13 @@
+id: alemite
+name: Alemite
+website: https://www.alemite.com
+categories: [hardware]
+aliases: ["Alemite LLC", "Alemite Corporation"]
+support:
+  - category: hardware
+    department: Customer Support
+    phone: "+18664253648"
+    country: US
+    notes: "Alemite, headquartered in Fort Mill, SC. Manufacturer of lubrication and fluid-handling equipment (pumps, reels, grease fittings, grease guns, automatic lubrication systems) since 1918. Alternate line 1-800-822-4579 also published."
+    source: "https://news.thomasnet.com/fullstory/hydraulic-pump-targets-mining-and-construction-industries-478378/"
+    last_verified: "2026-10-26"

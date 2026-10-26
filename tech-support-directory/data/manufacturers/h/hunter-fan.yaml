@@ -1,0 +1,20 @@
+id: hunter-fan
+name: Hunter Fan Company
+website: https://www.hunterfan.com/
+categories:
+- electrical
+aliases:
+- HUNTER FAN CO
+- Hunter Fans
+support:
+- category: electrical
+  department: Technical Support
+  phone: '+18888301326'
+  country: US
+  notes: 'Hunter Fan Company, Memphis, TN. Manual wording: Hunter Fan Company Technical Support. Email customercare@hunterfan.com. Industrial and commercial 844-593-3267 also listed. Ceiling fans; no fan term in the category vocabulary, so electrical is used as the closest term. Distinct from the bare Hunter row, which is NEEDS-HUMAN (Hunter Industries versus Hunter Fan ambiguity).'
+  source: https://www.manualshelf.com/manual/hunter-fan/htf3653/1-owner-manual-english/page-9.html
+  last_verified: '2026-10-26'
+  hours:
+    timezone: CT
+    mon_fri: '8am-6pm'
+    sat: '11am-5pm'

@@ -1,0 +1,13 @@
+id: lokring-technology
+name: LOKRING Technology
+website: "https://www.lokring.com"
+categories: [piping-systems]
+aliases: ["Lokring", "LOKRING"]
+support:
+  - category: piping-systems
+    department: Customer Support
+    phone: "+18008762323"
+    country: US
+    notes: "Lokring Technology LLC, Willoughby, OH (38376 Apollo Parkway); heat-free fluid and gas connectors for refrigeration, HVAC, oil and gas. Number from Lokring's own FAQ page (direct 440-942-0880 and customerservice@lokring.com also published). Distinct from Vulkan Lokring (Herne, Germany), a separate company with German numbers. Piping-systems is the closest category-vocabulary term for fluid/gas connectors."
+    source: "https://www.lokring.com/resources/faqs/installation/"
+    last_verified: "2026-10-26"

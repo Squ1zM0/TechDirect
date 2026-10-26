@@ -1,0 +1,15 @@
+id: mte-corporation
+name: MTE Corporation
+website: https://www.mtecorp.com
+categories:
+- electrical
+aliases:
+- MTE
+support:
+- category: electrical
+  department: Customer Support
+  phone: "+18004554683"
+  country: US
+  notes: 'Menomonee Falls, WI. Power quality: line/load reactors, harmonic mitigation filters, motor protection filters. Local (262) 253-8200. Rockwell partner; Steel Partners operating company. NOT Middle Tennessee Electric (mte.com, 877-777-9020, a utility cooperative); different entity. Covers xref spellings MTE and MTE Corporation. Separate ''MTE / Marathon Products'' row is NEEDS-HUMAN (combined label) and is NOT folded into this file.'
+  source: https://mtecorp.com/rockwell-product-partner/
+  last_verified: "2026-10-26"

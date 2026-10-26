@@ -1,0 +1,13 @@
+id: dropsafe
+name: Dropsafe
+website: https://dropsafe.com
+categories: [hardware]
+aliases: []
+support:
+  - category: hardware
+    department: Customer Support
+    phone: "+85236648350"
+    country: HK
+    notes: "Dropsafe (dropped-object prevention nets, barriers and matting for offshore/industrial worksites). No US support line is published; the only published phone is the Hong Kong office number shown here, with email info@dropsafe.com. Recorded with its actual country code per program rules; no US line invented."
+    source: "http://dropsafe.com/products/dropsafe-barrier"
+    last_verified: "2026-10-26"

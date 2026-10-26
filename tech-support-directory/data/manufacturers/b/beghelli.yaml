@@ -1,0 +1,16 @@
+id: beghelli
+name: Beghelli
+website: https://beghelliusa.com/support/
+categories: [electrical]
+aliases: ["Beghelli USA", "Beghelli Lighting"]
+support:
+  - category: electrical
+    department: Customer Support
+    phone: "+19544426600"
+    country: US
+    notes: "Beghelli USA customer service specialist line, Miramar, FL. Parent Beghelli S.p.A. joined the GEWISS Group in 2025. Covers xref variants BEGHELLI LIGHTING (Beghelli USA lighting line)."
+    source: "https://beghelliusa.com/support/"
+    last_verified: "2026-10-26"
+    hours:
+      timezone: "ET"
+      mon_fri: "8:00 AM - 5:00 PM"

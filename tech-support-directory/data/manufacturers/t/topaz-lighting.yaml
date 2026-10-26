@@ -1,0 +1,18 @@
+id: topaz-lighting
+name: Topaz Lighting
+website: https://www.topaz-usa.com/
+categories:
+- electrical
+aliases:
+- Topaz
+- TOPAZ ELECTRIC CORP
+support:
+- category: electrical
+  department: Customer Support
+  phone: '+18006662852'
+  country: US
+  notes: Topaz Lighting, 925 Waverly Ave., Holtsville, NY 11742; local phone 631-758-5507; www.topaz-usa.com.
+    TOPAZ ELECTRIC CORP is the former/related name in the xref. Not Topaz Labs (software company, which
+    states it has no phone support).
+  source: https://www.supplyhouse.com/product_files/79636-brochure.pdf
+  last_verified: '2026-10-26'

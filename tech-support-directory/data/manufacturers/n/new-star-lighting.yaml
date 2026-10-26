@@ -1,0 +1,13 @@
+id: new-star-lighting
+name: New Star Lighting
+website: https://newstarlighting.com/about-us
+categories: [electrical]
+aliases: []
+support:
+  - category: electrical
+    department: Customer Support
+    phone: "+17738471400"
+    country: US
+    notes: "New Star Lighting, Chicago IL (2225 W Pershing Rd); division of 555 International; luminaires for confinement, healthcare, high-abuse, cleanroom."
+    source: "https://newstarlighting.com/about-us"
+    last_verified: "2026-10-26"

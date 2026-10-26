@@ -1,0 +1,16 @@
+id: dwyeromega
+name: DwyerOmega
+website: https://www.dwyeromega.com
+categories: [hvac-controls]
+aliases: ["DwyerOmega"]
+support:
+  - category: hvac-controls
+    department: Customer Support
+    phone: "+18008729141"
+    country: US
+    notes: "DwyerOmega is the combined corporate brand of Dwyer Instruments and Omega Engineering (Dwyer Group, Michigan City, IN), with its own customer support line (Mon-Fri 8 AM - 5 PM EST). Distinct from the existing dwyer-instruments file, which covers Dwyer Instruments alone; DwyerOmega covers the combined Dwyer + Omega portfolio. Category note: measurement/control instruments mapped to hvac-controls as the closest term."
+    source: "https://www.dwyeromega.com/en-ca/help/omega-business-profile"
+    last_verified: "2026-10-26"
+    hours:
+      timezone: "ET"
+      mon_fri: "8:00 AM - 5:00 PM"

@@ -1,0 +1,13 @@
+id: agastat
+name: Agastat
+website: https://www.te.com
+categories: [electrical]
+aliases: ["AGASTAT"]
+support:
+  - category: electrical
+    department: Customer Support
+    phone: "+18005226752"
+    country: US
+    notes: "Agastat time-delay relay brand of TE Connectivity; support number printed on TE's own Agastat product datasheets ('For support call +1 800 522 6752'). Many Agastat series are discontinued by the manufacturer but remain stocked through distributors; TE is the support route. No standalone TE Connectivity file exists in TechDirect, so Agastat keeps its own file rather than resolving to a parent file."
+    source: "https://verified-electronics.s3.us-east-1.amazonaws.com/datasheets/2-1755142-5__TE%20Connectivity.pdf"
+    last_verified: "2026-10-26"

@@ -1,0 +1,15 @@
+id: us-architectural-lighting
+name: U.S. Architectural Lighting
+website: https://usaltg.com/
+categories:
+- electrical
+aliases: []
+support:
+- category: electrical
+  department: Customer Support
+  phone: '+18008776537'
+  country: US
+  notes: Published as a brochure/information line ('call 800.877.6537 for a free brochure'), not labelled
+    Technical Support. Outdoor lighting fixtures manufacturer (usaltg.com).
+  source: https://www.thomasnet.com/company/u-s-outdoor-lighting-30727936/profile
+  last_verified: '2026-10-26'

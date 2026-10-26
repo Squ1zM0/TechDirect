@@ -1,0 +1,13 @@
+id: gotham-lighting
+name: 'Gotham Lighting'
+categories:
+- electrical
+aliases: []
+support:
+- category: electrical
+  department: 'Technical Support'
+  phone: '+18007057378'
+  country: US
+  notes: '800-705-SERV. Gotham Lighting, Acuity Brands Lighting, Inc. Covers batch spellings Gotham and Gotham Lighting.'
+  source: 'https://www.acuitybrands.com/products/detail/1713393/gotham-lighting/incitot-6-round-surface-mount-cylinder/high-center-beam-led-downlight-cylinder'
+  last_verified: '2026-10-26'

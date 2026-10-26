@@ -1,0 +1,13 @@
+id: dial-manufacturing
+name: Dial Manufacturing
+website: https://dialmfg.com
+categories: [hvac]
+aliases: ["Dial"]
+support:
+  - category: hvac
+    department: Customer Support
+    phone: "+18003503425"
+    country: US
+    notes: "Dial Manufacturing, Inc. (Phoenix, AZ) customer service per its own cooler manuals (1-800-350-DIAL); email customerservice@dialmfg.com. Evaporative coolers, fans and related HVAC products."
+    source: "https://manuals.plus/dial/pec-a-2200-1rc-portable-evaporative-cooler-manual.pdf"
+    last_verified: "2026-10-26"

@@ -1,0 +1,13 @@
+id: micrometl
+name: MicroMetl
+categories:
+- airflow
+aliases: []
+support:
+- category: airflow
+  department: Customer Support
+  phone: "+18006624822"
+  country: US
+  notes: 'MicroMetl Corporation, Indianapolis, IN / Sparks, NV (800-884-4662) / Longview, TX (903-248-4800). Roof curbs and HVAC accessories. Submittal: ''800.MMC.HVAC'' = 800-662-4822.'
+  source: https://byecommstorage.blob.core.windows.net/ecommerce/PIM/Resources/Items/MicroMetl_CRBHE3F14_Data_Sheet.pdf
+  last_verified: "2026-10-26"

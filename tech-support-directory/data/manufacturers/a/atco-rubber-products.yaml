@@ -1,0 +1,12 @@
+id: atco-rubber-products
+name: ATCO Rubber Products
+categories: [hardware]
+aliases: ["ATCO Rubber Products Inc", "ATCO"]
+support:
+  - category: hardware
+    department: Customer Support
+    phone: "+18175952894"
+    country: US
+    notes: "Laminated plastics and rubber fabricated products, HQ Fort Worth TX (7101 Atco Dr, founded 2003); a Mueller Industries company per EPA TRI records. Branch lines include Phoenix AZ 602-233-5900 and Baltimore MD 410-633-9400. No plastics/rubber category exists in the TechDirect vocabulary, so hardware is used as the closest term."
+    source: "https://www.cbinsights.com/company/atco-rubber-products"
+    last_verified: "2026-10-26"

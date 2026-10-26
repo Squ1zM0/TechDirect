@@ -1,0 +1,16 @@
+id: tesco
+name: "TESCO - The Eastern Specialty Company"
+website: "http://www.tescometering.com/"
+categories: [electrical]
+aliases: []
+support:
+  - category: electrical
+    department: Customer Support
+    phone: "+12152280500"
+    country: US
+    notes: "TESCO, The Eastern Specialty Company, meter testing equipment, Bristol PA (925 Canal St). Not the UK retailer Tesco."
+    source: "https://www.cylex.us.com/company/tesco---the-eastern-specialty-company-28427626.html"
+    last_verified: "2026-10-26"
+    hours:
+      timezone: "ET"
+      mon_fri: "8:30 AM - 5:30 PM"

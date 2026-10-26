@@ -1,0 +1,15 @@
+id: knopp
+name: Knopp
+website: https://www.tescometering.com/
+categories:
+- electrical
+aliases:
+- Knopp (Phase Meters)
+support:
+- category: electrical
+  department: Customer Support
+  phone: '+12152280500'
+  country: US
+  notes: "Phase sequence indicators, meter socket testers, and temporary power outlets (K-281 Polyphase Socket Tester, K-271, K-272, K-273 Temporary Power Outlets, KCTS-8000, KVTS). Knopp is now a TESCO Metering product line; Knopp-branded documents carry TESCO Metering, Bristol, PA. The filed number is TESCO's published number as the current support channel, per the TESCO Metering 2026 catalog and Knopp phase-sequence-indicator sheet."
+  source: https://online.flippingbook.com/view/583336504/137/
+  last_verified: '2026-10-26'

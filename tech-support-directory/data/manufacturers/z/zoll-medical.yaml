@@ -1,0 +1,13 @@
+id: zoll-medical
+name: "ZOLL Medical Corporation"
+website: https://www.zoll.com
+categories: [electrical]
+aliases: ["ZOLL Medical Corp"]
+support:
+  - category: electrical
+    department: Technical Support
+    phone: "+18003489011"
+    country: US
+    notes: "ZOLL Technical Service Department toll-free, AED Plus Administrator's Guide; Customer Service also uses the same number for training materials. AEDs/medical devices; closest vocabulary term: electrical (no medical category exists). A separate 24/7 technical support line appears in a ZOLL G5 recall letter; noted as secondary, not substituted as primary."
+    source: "https://www.AEDSuperstore.com/pdf/zoll-aed-plus-fully-automatic-manual.pdf"
+    last_verified: "2026-10-26"

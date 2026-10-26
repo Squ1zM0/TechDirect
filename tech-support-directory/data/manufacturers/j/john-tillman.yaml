@@ -1,0 +1,14 @@
+id: john-tillman
+name: John Tillman Co.
+website: https://jtillman.com/
+categories:
+- hardware
+aliases: []
+support:
+- category: hardware
+  department: Customer Support
+  phone: '+18002555480'
+  country: US
+  notes: "Welding gloves and PPE; 1300 W. Artesia Blvd, Compton, CA 90220. Direct 310-764-0110 and info@jtillman.com also published."
+  source: https://media.distributordatasolutions.com/web_john_tillman/2022q1/documents/84ac6412ae67af06214c9061538a99f3e862c9bd.pdf
+  last_verified: '2026-10-26'

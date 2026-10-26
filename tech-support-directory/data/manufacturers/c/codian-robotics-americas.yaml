@@ -1,0 +1,12 @@
+id: codian-robotics-americas
+name: Codian Robotics of the Americas
+categories: [electrical]
+aliases: ["Codian Robotics Of The Americas, LLC"]
+support:
+  - category: electrical
+    department: Customer Support
+    phone: "+15175693284"
+    country: US
+    notes: "Codian Robotics Of The Americas, LLC, Rives Junction, MI (incorporated 2011); open delta robot mechanics for pick-and-place. US line per business directory listing (Creditsafe); parent Codian Robotics BV, Netherlands (now in B&R/ABB's robotics portfolio), NL line +31 850 643 210 also published. Category mapped to closest vocabulary term (automation/robotics components)."
+    source: "https://www.creditsafe.com/business-index/en-us/company/codian-robotics-of-the-americas-llc-us85531975"
+    last_verified: "2026-10-26"

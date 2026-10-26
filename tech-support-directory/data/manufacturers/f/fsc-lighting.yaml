@@ -1,0 +1,14 @@
+id: fsc-lighting
+name: 'FSC Lighting'
+website: https://fsclighting.com/
+categories:
+- electrical
+aliases: []
+support:
+- category: electrical
+  department: 'Customer Support'
+  phone: '+18002558990'
+  country: US
+  notes: 'Toll-free line from the official site. Also published: 909-948-8878. Email info@fsclighting.com. Rancho Cucamonga, CA.'
+  source: 'https://fsclighting.com/privacy-policy/'
+  last_verified: '2026-10-26'

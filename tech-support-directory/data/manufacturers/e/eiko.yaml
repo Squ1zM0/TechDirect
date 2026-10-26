@@ -1,0 +1,13 @@
+id: eiko
+name: EiKO
+website: https://www.eiko.com
+categories: [electrical]
+aliases: ["Eiko", "EIKO Global"]
+support:
+  - category: electrical
+    department: Customer Support
+    phone: "+18008522217"
+    country: US
+    notes: "EiKO (Olathe/Shawnee, KS) lamps and lighting products. Distributor numbers 855-303-0665 (Bees Lighting) and 877-958-9171 (Shine Retrofits) are NOT manufacturer numbers and were not used. Covers xref spellings Eiko and EIKO Global."
+    source: "https://cdn.eiko.com/content/PDF/Enhanced%20Project%20Solutions%20Flyer%20-%20fillable.pdf"
+    last_verified: "2026-10-26"

@@ -1,0 +1,14 @@
+id: richardson-electronics
+name: Richardson Electronics
+website: https://relltubes.com/
+categories:
+- electrical
+aliases: []
+support:
+- category: electrical
+  department: Customer Support
+  phone: '+16302082200'
+  country: US
+  notes: Richardson Electronics, Ltd., 40W267 Keslinger Rd, LaFox, IL. Electron tubes and related components.
+  source: relltubes.com/about-us
+  last_verified: '2026-10-26'

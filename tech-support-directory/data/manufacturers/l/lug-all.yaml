@@ -1,0 +1,13 @@
+id: lug-all
+name: Lug-All
+website: "https://lug-all.com"
+categories: [hardware]
+aliases: ["Lug-All Corporation"]
+support:
+  - category: hardware
+    department: Customer Support
+    phone: "+18776584255"
+    country: US
+    notes: "Lug-All Corporation, Birdsboro, PA (650 Lincoln Road); cable and web-strap come-along ratchet winch hoists since 1949, made in the USA. Number from Lug-All's own FAQ page (customer service, sales@lug-all.com also published). Direct line 610-286-9884 also published in a directory listing for the same address. Hardware category per the milwaukee-tool.yaml precedent for tool brands."
+    source: "https://lug-all.com/pages/faq"
+    last_verified: "2026-10-26"

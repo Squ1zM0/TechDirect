@@ -1,0 +1,18 @@
+id: uticom
+name: Uticom Systems
+website: https://www.uticom.net/
+categories:
+- electrical
+aliases:
+- Uticom
+support:
+- category: electrical
+  department: Customer Support
+  phone: '+16103809430'
+  country: US
+  notes: Uticom Systems, Inc., 109 Independence Way, Coatesville, PA 19320; graphics@uticom.net. Manufacturer
+    of utility graphics and hazard-alerting products for electrical and telecom equipment in harsh environments;
+    established 1987. An older presentation lists 610-857-2655 (noted, not primary). Border States 1-800-800-0199
+    is a distributor help line, not Uticom.
+  source: https://www.thomasnet.com/company/uticom-systems-inc-1041274/profile
+  last_verified: '2026-10-26'

@@ -1,0 +1,13 @@
+id: visual-comfort
+name: "Visual Comfort"
+website: https://www.visualcomfort.com
+categories: [electrical]
+aliases: []
+support:
+  - category: electrical
+    department: Customer Support
+    phone: "+18009693347"
+    country: US
+    notes: "Skokie IL service center per manufacturer instruction sheets. A third-party aggregator also lists a different 877 number, but the manufacturer-doc number wins."
+    source: "https://images.thdstatic.com/catalog/pdfImages/7a/7a1764e5-03f4-45eb-a10b-106e438045b1.pdf"
+    last_verified: "2026-10-26"

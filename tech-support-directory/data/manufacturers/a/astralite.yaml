@@ -1,0 +1,12 @@
+id: astralite
+name: Astralite
+categories: [electrical]
+aliases: ["Astralite, Inc."]
+support:
+  - category: electrical
+    department: Customer Support
+    phone: "+12037750172"
+    country: US
+    notes: "LED and emergency lighting (exit/emergency fixtures, LED retrofits), Brookfield CT (20 Pocono Rd, founded in Annandale NJ in the early 1980s). Line published in Astralite specification sheets; CS@ASTRALITELIGHTING.COM also published. No lighting category exists in the TechDirect vocabulary, so electrical is used as the closest term."
+    source: "http://astralite-online.com/asqsmr16.PDF"
+    last_verified: "2026-10-26"

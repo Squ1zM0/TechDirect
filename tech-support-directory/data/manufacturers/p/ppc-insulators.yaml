@@ -1,0 +1,13 @@
+id: ppc-insulators
+name: PPC Insulators
+website: https://ppcinsulators.com/
+categories: [electrical]
+aliases: []
+support:
+  - category: electrical
+    department: Customer Support
+    phone: "+12812578222"
+    country: US
+    notes: "PPC USA Inc., 363 North Sam Houston Parkway East Suite 700, Houston, TX 77060."
+    source: "https://ppcinsulators.com/wp-content/uploads/2018/08/PPC_ANSI_TD_US-Letter_LQ-1.pdf"
+    last_verified: "2026-10-26"

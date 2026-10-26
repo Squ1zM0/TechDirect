@@ -1,0 +1,13 @@
+id: adalet
+name: Adalet
+website: https://www.adalet.com
+categories: [electrical]
+aliases: ["Adalet, a Scott Fetzer Company"]
+support:
+  - category: electrical
+    department: Customer Support
+    phone: "+12162679000"
+    country: US
+    notes: "Adalet, a Scott Fetzer Company, Cleveland OH (4801 W. 150th St). Explosionproof and industrial enclosure systems; email info@adalet.com."
+    source: "https://www.thomasnet.com/company/adalet-31943/profile?heading=96219139"
+    last_verified: "2026-10-26"

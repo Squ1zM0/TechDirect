@@ -1,0 +1,13 @@
+id: american-meter-company
+name: American Meter Company
+website: https://www.honeywell.com
+categories: [electrical]
+aliases: ["American Meter", "Elster American Meter", "Honeywell American Meter"]
+support:
+  - category: electrical
+    department: Customer Support
+    phone: "+18665549007"
+    country: US
+    notes: "Legacy file: American Meter Company (175+ years of diaphragm gas meters) became Elster American Meter and then part of Honeywell Smart Energy (gas measurement and regulation); Honeywell's own Smart Energy literature gives 866-554-9007 for product support and 800-786-2215 for sales information (SmartEnergy@Honeywell.com). The successor's published product-support number is used; the American Meter name is retained as its own entry per the legacy rule, not merged away. NOT Resideo/Honeywell Home (thermostats), which is a separate licensee business."
+    source: "https://prod-edam.honeywell.com/content/dam/honeywell-edam/pmt/hps/products/sme/electricity/communications/communication-devices/communication-modules/amr-ami-smart-water-meter-4-0/V4-water-Module-Sell-sheet.pdf?download=false"
+    last_verified: "2026-10-26"

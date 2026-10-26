@@ -1,0 +1,13 @@
+id: dynabrade
+name: Dynabrade
+website: https://us.dynabrade.com
+categories: [hardware]
+aliases: []
+support:
+  - category: hardware
+    department: Customer Support
+    phone: "+18008287333"
+    country: US
+    notes: "Dynabrade, Inc. (Clarence, NY) abrasive power tools. US toll-free customer service line and email customer.service@dynabrade.com from the official site."
+    source: "https://us.dynabrade.com/en/"
+    last_verified: "2026-10-26"

@@ -1,0 +1,13 @@
+id: visa-lighting
+name: "Visa Lighting"
+website: https://www.visalighting.com
+categories: [electrical]
+aliases: []
+support:
+  - category: electrical
+    department: Customer Support
+    phone: "+18007888472"
+    country: US
+    notes: "800-788-VISA; local 414-354-6600 also published. Distinct from the Visa payment-services brand (no file in this batch); do not conflate."
+    source: "https://www.visalighting.com/company/about-visa-lighting"
+    last_verified: "2026-10-26"

@@ -1,0 +1,15 @@
+id: interlink-electronics
+name: Interlink Electronics
+website: https://www.interlinkelectronics.com/
+categories:
+- electrical
+aliases:
+- InterLink
+support:
+- category: electrical
+  department: Customer Support
+  phone: '+15102440424'
+  country: US
+  notes: "Sensors and force-sensing products; the filed number is the official site sales contact. Email sales@iesensors.com."
+  source: https://www.interlinkelectronics.com/
+  last_verified: '2026-10-26'

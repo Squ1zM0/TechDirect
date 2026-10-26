@@ -1,0 +1,13 @@
+id: solahd
+name: SolaHD
+website: https://www.solahd.com
+categories: [electrical]
+aliases: []
+support:
+  - category: electrical
+    department: Technical Support
+    phone: "+18003774384"
+    country: US
+    notes: "SolaHD (Sola/Hevi-Duty), a registered trademark of Appleton Group LLC, an Emerson business (power supplies, transformers, UPS and surge protection for industrial automation). Technical support email solahd.technicalservices@emerson.com; US direct line 847-268-6651 also published. Covers the xref spellings Sola, Sola HD, Sola Hevi-Duty and SolaHD, all the same brand lineage."
+    source: "https://manuals.plus/m/bb6d7fba35d908c522c895b33edd14cddd958e6b449d87bbdd75599b1d8cb8ce"
+    last_verified: "2026-10-26"

@@ -1,0 +1,14 @@
+id: magid
+name: Magid
+website: https://www.magidglove.com
+categories:
+- hardware
+aliases: []
+support:
+- category: hardware
+  department: Customer Support
+  phone: "+18004448030"
+  country: US
+  notes: PPE/safety gloves; Magid Glove & Safety.
+  source: https://www.magidglove.com/media/catalog/product/attachment/m/0/m0_product_specification_sheet_3.pdf
+  last_verified: "2026-10-26"

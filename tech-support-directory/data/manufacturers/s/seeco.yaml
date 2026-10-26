@@ -1,0 +1,16 @@
+id: seeco
+name: SEECO
+website: https://seecoswitch.com/
+categories:
+- electrical
+aliases:
+- Southern Electrical Equipment Company
+support:
+- category: electrical
+  department: Customer Support
+  phone: '+17043921396'
+  country: US
+  notes: SEECO (Southern Electrical Equipment Company, Inc.), 4862 Corporate Center Dr, Monroe, NC 28110. sales@seecoswitch.com. Transmission and substation disconnect switches, 15kV-500kV. Founded 1920;
+    ISO 9001:2015.
+  source: seecoswitch.com official site (+1 (704) 392-1396)
+  last_verified: '2026-10-26'

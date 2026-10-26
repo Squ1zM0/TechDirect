@@ -1,0 +1,12 @@
+id: amphenol-tpc
+name: Amphenol TPC Wire & Cable
+categories: [electrical]
+aliases: ["Amphenol TPC", "TPC Wire & Cable"]
+support:
+  - category: electrical
+    department: Customer Support
+    phone: "+18005217935"
+    country: US
+    notes: "High-performance wire, cable, connectors and assemblies for harsh industrial environments (Super-Trex, Trex-Onics, Thermo-Trex). Amphenol division with its own site and support line published in TPC brochures; Canada line 800-545-0122 and Mexico line 001-877-283-1696 also published. The Amphenol parent itself has no verified corporate support line in this batch (see NEEDS-HUMAN), so TPC is filed on its own contact, not parent-resolved."
+    source: "https://www.tpcwire.com/hubfs/TPC1750-Utility-Transmission%20and%20Distribution%20Brochure-V10.pdf?hsLang=en"
+    last_verified: "2026-10-26"

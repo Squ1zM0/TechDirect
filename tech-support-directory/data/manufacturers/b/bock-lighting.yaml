@@ -1,0 +1,13 @@
+id: bock-lighting
+name: Bock Lighting
+website: https://www.bocklighting.com/
+categories: [electrical]
+aliases: ["BOCK LIGHTING", "Bock Company, LLC"]
+support:
+  - category: electrical
+    department: Customer Support
+    phone: "+12169127050"
+    country: US
+    notes: "Bock Company, LLC, 2476 Edison Blvd, Twinsburg, OH 44087, manufacturer of RLM, decorative and custom architectural lighting fixtures, continuing the legacy of Spero Electric Corporation. Email sales@bocklighting.com. Category mapped from lighting fixtures to electrical (no lighting term in the vocabulary)."
+    source: "https://www.bocklighting.com/api/media/file/hpq8-en.pdf"
+    last_verified: "2026-10-26"

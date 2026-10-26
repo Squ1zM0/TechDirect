@@ -1,0 +1,18 @@
+id: robert-bosch-tools
+name: Robert Bosch Tools
+website: https://www.boschtools.com/
+categories:
+- hardware
+aliases:
+- Bosch Power Tools
+support:
+- category: hardware
+  department: Customer Support
+  phone: '+18772672499'
+  country: US
+  notes: Robert Bosch Tools (Bosch Power Tools), 1-877-BOSCH99. bosch.tools@us.bosch.com; Mon-Fri 7:00 am-5:30 pm CT. Distinct from Bosch Home Comfort and Bosch home appliances files.
+  source: bosch-pt.com terms (official Bosch Power Tools terms) and boschtools.com contact text
+  last_verified: '2026-10-26'
+  hours:
+    timezone: CT
+    mon_fri: 7:00 AM - 5:30 PM

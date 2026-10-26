@@ -1,0 +1,13 @@
+id: pascor
+name: Pascor
+website: https://pascor.com/about-us
+categories: [electrical]
+aliases: ["Pacific Air Switch Corporation"]
+support:
+  - category: electrical
+    department: Customer Support
+    phone: "+15033593939"
+    country: US
+    notes: "Pacific Air Switch Corporation (PASCOR), Forest Grove, OR. Founded fall 1988 by three former Siemens Energy & Automation Power Switch Division employees after that division relocated from Portland, OR to Jackson, MS; this is the Siemens lineage behind the xref parent note. General company phone on pascor.com About Us; not labelled technical support, so recorded as Customer Support. Distinct from Pascor Atlantic (Bland, VA), which has its own file in this batch. Group-operator air-break disconnects, motor operators, ground switches."
+    source: "https://pascor.com/about-us"
+    last_verified: "2026-10-26"

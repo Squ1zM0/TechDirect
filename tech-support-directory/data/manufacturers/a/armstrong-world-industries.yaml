@@ -1,0 +1,12 @@
+id: armstrong-world-industries
+name: Armstrong World Industries
+categories: [hardware]
+aliases: ["Armstrong World Ind"]
+support:
+  - category: hardware
+    department: Customer Support
+    phone: "+17179678182"
+    country: US
+    notes: "Ceiling systems manufacturer (Armstrong Ceilings), distinct from Armstrong Fluid Technology. Customer service line published on shop.armstrong.com. No ceilings/building-products category exists in the TechDirect vocabulary, so hardware is used as the closest term."
+    source: "https://shop.armstrong.com/products/5963"
+    last_verified: "2026-10-26"

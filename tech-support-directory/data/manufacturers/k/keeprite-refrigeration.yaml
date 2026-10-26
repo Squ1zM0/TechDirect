@@ -1,0 +1,15 @@
+id: keeprite-refrigeration
+name: KeepRite Refrigeration
+website: https://k-rp.com/
+categories:
+- hvac
+aliases:
+- Keeprite Refrigeration
+support:
+- category: hvac
+  department: Customer Support
+  phone: '+18448933222'
+  country: US
+  notes: "Commercial refrigeration (evaporators, condensing units, multi-compressor units); founded 1945, Brantford, Ontario, 159 Roy Blvd, N3R 7K1, 519-751-0444. Other-inquiries line 800-463-9517 and US line 888-533-7871 also published. DISTINCT from the ICP Keeprite alias (residential HVAC); this is a separate refrigeration company, not the ICP brand."
+  source: https://docs.k-rp.com/sales/Product-Guide_1090711.pdf
+  last_verified: '2026-10-26'

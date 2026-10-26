@@ -1,0 +1,13 @@
+id: coleman-cable
+name: Coleman Cable
+website: https://www.southwire.com/contact-us/tech-support
+categories: [electrical]
+aliases: ["Coleman Cable, Inc.", "Coleman Cable Data"]
+support:
+  - category: electrical
+    department: Technical Support
+    phone: "+18004441700"
+    country: US
+    notes: "LEGACY brand file: Coleman Cable, Inc., Waukegan, IL; electrical and electronic wire and cable. Southwire acquired Coleman Cable in February 2014 (about $786 million). Support now via Southwire Technical Support (same number as the existing southwire file). Kept as its own file per the legacy rule. Covers xref rows 'Coleman Cable' and 'Coleman Cable Data' (Data = Coleman Cable's data-cable line, no distinct contact). Distinct from Coleman outdoor/camping products — not merged."
+    source: "https://www.southwire.com/contact-us/tech-support"
+    last_verified: "2026-10-26"

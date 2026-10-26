@@ -1,0 +1,12 @@
+id: anderson-power-products
+name: Anderson Power Products
+categories: [electrical]
+aliases: []
+support:
+  - category: electrical
+    department: Customer Support
+    phone: "+19784223800"
+    country: US
+    notes: "High-current DC power connector manufacturer, Sterling MA. Company-published contact number quoted in its ThomasNet profile (call or visit andersonpower.com)."
+    source: "https://www.thomasnet.com/company/anderson-power-products-inc-1037961/profile?what=Electric+Connectors&coverage_area=EM&heading=17491754"
+    last_verified: "2026-10-26"

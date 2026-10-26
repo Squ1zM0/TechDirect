@@ -1,0 +1,14 @@
+id: itt
+name: ITT Inc.
+website: https://www.itt.com/
+categories:
+- electrical
+aliases: []
+support:
+- category: electrical
+  department: Customer Support
+  phone: '+19146412000'
+  country: US
+  notes: "Corporate main number, corroborated by GetHuman and headquarters listings; ITT publishes no dedicated consumer support line identified. The official privacy page lists a separate Data Protection Officer contact, a privacy contact, not a support line, and it is not filed as Customer Support. HQ Stamford, CT, with White Plains, NY history."
+  source: https://www.itt.com/
+  last_verified: '2026-10-26'

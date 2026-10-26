@@ -1,0 +1,14 @@
+id: ferraz-shawmut
+name: "Ferraz Shawmut"
+website: "https://us.mersen.com/"
+categories:
+- electrical
+aliases: ["Ferraz"]
+support:
+- category: electrical
+  department: "Technical Support"
+  phone: "+19784654853"
+  country: US
+  notes: "Legacy brand: Ferraz Shawmut is the former name of what is now Mersen. The filed number is the SUCCESSOR Mersen published technical support line, per the existing mersen.yaml, not a Ferraz-only line. Successor chain: Ferraz Shawmut to Mersen. Fuses and fuse holders. Covers xref spellings Ferraz and Ferraz Shawmut."
+  source: "https://us.mersen.com/"
+  last_verified: "2026-10-26"

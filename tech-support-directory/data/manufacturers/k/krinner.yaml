@@ -1,0 +1,14 @@
+id: krinner
+name: Krinner
+website: https://www.krinner.io/
+categories:
+- hardware
+aliases: []
+support:
+- category: hardware
+  department: Customer Support
+  phone: '+499424940180'
+  country: DE
+  notes: "Ground screws and screw foundations; Krinner Schraubfundamente GmbH, Passauer Strasse 55, D-94342 Strasskirchen, Germany. Email service@krinner.com. No US line found; no US line invented. Founding-year discrepancy in sources (1994 vs 2004); no founding year asserted here."
+  source: https://www.krinner.io/fileadmin/userdaten/ALTEC_KRINNER-en.pdf
+  last_verified: '2026-10-26'

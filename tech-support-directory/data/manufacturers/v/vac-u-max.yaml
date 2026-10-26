@@ -1,0 +1,16 @@
+id: vac-u-max
+name: VAC-U-MAX
+website: https://www.vac-u-max.com/
+categories:
+- airflow
+aliases: []
+support:
+- category: airflow
+  department: Customer Support
+  phone: '+18008228629'
+  country: US
+  notes: 'Published as 800-VAC-U-MAX (vanity number; digits converted letter-by-letter: V=8, A=2, C=2,
+    U=8, M=6, A=2, X=9). VAC-U-MAX, 69 William Street, Belleville, NJ 07109; Tel 973-759-4600; info@vacu-max.com.
+    Founded 1954; industrial vacuum cleaners and pneumatic conveying.'
+  source: https://www.vac-u-max.com/userfiles/brochures/Industrial%20Vacuum%20Cleaners%20Brochure.pdf
+  last_verified: '2026-10-26'

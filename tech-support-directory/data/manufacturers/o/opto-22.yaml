@@ -1,0 +1,16 @@
+id: opto-22
+name: Opto 22
+website: https://www.opto22.com/support/resources-tools/knowledgebase/kb87151
+categories: [electrical]
+aliases: []
+support:
+  - category: electrical
+    department: Technical Support
+    phone: "+18008356786"
+    country: US
+    notes: "Opto 22; knowledge base: 'Opto 22 Product Support. Phone: 800-835-6786 or 951-695-3080'; legacy guide: 'Technical support for the life of the product ... Phone: 800-TEK-OPTO (835-6786) ... Hours Monday through Friday, 7 a.m. to 5 p.m. Pacific Time'; email support@opto22.com."
+    source: "https://www.opto22.com/support/resources-tools/knowledgebase/kb87151"
+    last_verified: "2026-10-26"
+    hours:
+      timezone: "PT"
+      mon_fri: "7:00 AM - 5:00 PM"

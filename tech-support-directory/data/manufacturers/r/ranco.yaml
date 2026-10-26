@@ -1,0 +1,12 @@
+id: ranco
+name: Ranco
+categories: [hvac-controls]
+aliases: []
+support:
+  - category: hvac-controls
+    department: Technical Support
+    phone: "+18004458299"
+    country: US
+    notes: "Legacy rule: own file, not merged into the Robertshaw file. Lineage: Schneider acquired Invensys January 2014; Invensys Appliance became Robertshaw Controls June 2014. Support via the Robertshaw technical line."
+    source: "https://www.robertshaw.com/support/"
+    last_verified: "2026-10-26"

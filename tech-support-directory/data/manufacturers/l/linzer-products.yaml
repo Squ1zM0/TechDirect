@@ -1,0 +1,13 @@
+id: linzer-products
+name: Linzer Products
+website: "http://www.linzerproducts.com/"
+categories: [hardware]
+aliases: ["Linzer Products Corporation", "Linzer Products Corp"]
+support:
+  - category: hardware
+    department: Customer Support
+    phone: "+18002210787"
+    country: US
+    notes: "Linzer Products Corporation, paint tools and accessories manufacturer since 1892 (brushes, roller covers, pad painters, trays; brands include ArroWorthy, American Brush, ByP, Derma, Le Jour, Pintar, Royal). Toll-free number from the company's place listing for its San Fernando, CA location; direct (818) 763-6122 (Los Angeles) and (912) 685-3555 (Metter, GA plant) also published. Hardware is the closest category-vocabulary term for paint tools."
+    source: "http://www.linzerproducts.com/"
+    last_verified: "2026-10-26"

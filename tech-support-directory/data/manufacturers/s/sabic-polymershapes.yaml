@@ -1,0 +1,15 @@
+id: sabic-polymershapes
+name: SABIC Polymershapes
+website: https://www.sabic.com/
+categories:
+- hardware
+aliases: []
+support:
+- category: hardware
+  department: Customer Support
+  phone: '+18008450600'
+  country: US
+  notes: SABIC Polymershapes. This is SABIC Americas' published general line (Houston); Polymershapes is SABIC's distribution business and no distinct Polymershapes support line was found. Plastic sheet
+    and rod shapes; hardware is the closest vocabulary term.
+  source: plasticsmachinerymanufacturing.com article (SABIC Americas, Houston, 800-845-0600, www.sabic.com/en)
+  last_verified: '2026-10-26'

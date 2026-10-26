@@ -1,0 +1,18 @@
+id: sol-ark
+name: Sol-Ark
+website: https://sol-ark.com
+categories: [electrical]
+aliases: []
+support:
+  - category: electrical
+    department: Technical Support
+    phone: "+19725758875"
+    country: US
+    notes: "Sol-Ark, LLC, Allen, TX (all-in-one hybrid solar inverters and residential energy storage, 8-90 kW). Phone published on sol-ark.com as the tech-support contact. Weekend hours also published in the site footer: Sat-Sun 9:00 AM-5:00 PM CT (hours block above shows Mon-Fri only)."
+    source: "https://sol-ark.com/residential-energy-solutions/"
+    last_verified: "2026-10-26"
+hours:
+  timezone: America/Chicago
+  days: [Mon, Tue, Wed, Thu, Fri]
+  open: "07:00"
+  close: "20:00"

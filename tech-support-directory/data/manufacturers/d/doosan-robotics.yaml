@@ -1,0 +1,13 @@
+id: doosan-robotics
+name: Doosan Robotics
+website: https://www.doosanrobotics.com
+categories: [electrical]
+aliases: ["Doosan Robotics Americas"]
+support:
+  - category: electrical
+    department: Customer Support
+    phone: "+18002423332"
+    country: US
+    notes: "Doosan Robotics Americas (Malvern, PA; HQ South Korea) collaborative robots (cobots), M-Series and related automation. Toll-free line published on Doosan Robotics Americas pages; direct 610-431-7271 and dra.info@doosan.com also published. Category note: no robotics vocabulary term exists; electrical is the closest term for industrial automation. Distinct from the existing TechDirect 'doosan-portable-power' file."
+    source: "https://onexia.com/doosan-robotics/"
+    last_verified: "2026-10-26"

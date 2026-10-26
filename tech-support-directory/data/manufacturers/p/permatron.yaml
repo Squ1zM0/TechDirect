@@ -1,0 +1,13 @@
+id: permatron
+name: Permatron
+website: https://permatron.com
+categories: [hvac]
+aliases: ["Permatron Corporation"]
+support:
+  - category: hvac
+    department: Customer Support
+    phone: "+18008828012"
+    country: US
+    notes: "Permatron Corporation, Elk Grove Village, IL (1180 Pratt Blvd). Toll-free number published throughout permatron.com ('Have a question or concern? Phone: 1-800-882-8012'; sales@permatron.com); company decks label it Customer Service (8:00 AM-4:30 PM CST), so recorded as Customer Support. Air filters, filter media, PreVent air-intake filter screens; since 1957."
+    source: "https://permatron.com/permatron-air-filters-online"
+    last_verified: "2026-10-26"

@@ -1,0 +1,12 @@
+id: rangaire
+name: Rangaire
+categories: [airflow]
+aliases: []
+support:
+  - category: airflow
+    department: Technical Support
+    phone: "+18005581711"
+    country: US
+    notes: "Legacy/discontinued Broan range-hood brand; own file per the legacy rule with the Broan-NuTone technical number, not a silent merge into the broan-nutone file. The Broan file itself notes alternate Broan numbers in Broan materials; only this line is published here."
+    source: "https://manuals.plus/category/broan-nutone"
+    last_verified: "2026-10-26"

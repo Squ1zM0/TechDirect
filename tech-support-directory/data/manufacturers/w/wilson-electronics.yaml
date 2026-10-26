@@ -1,0 +1,16 @@
+id: wilson-electronics
+name: "Wilson Electronics"
+website: https://www.wilsonelectronics.com
+categories: [electrical]
+aliases: []
+support:
+  - category: electrical
+    department: Technical Support
+    phone: "+18662941660"
+    country: US
+    notes: "weBoost brand. Manual: Tech Support 866-294-1660, Mon-Fri 7am-6pm MST; email support@weboost.com; St. George UT. Cell signal boosters. weBoost brand site: weboost.com."
+    source: "https://www.manua.ls/wilson-electronics/weboost-drive-4g-x/specifications"
+    last_verified: "2026-10-26"
+    hours:
+      timezone: "MT"
+      mon_fri: "7:00 AM - 6:00 PM"

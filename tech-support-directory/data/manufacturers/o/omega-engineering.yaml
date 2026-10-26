@@ -1,0 +1,13 @@
+id: omega-engineering
+name: Omega Engineering
+website: https://www.dwyeromega.com/en-ca/solutions/connected-devices
+categories: [electrical]
+aliases: ["Omega"]
+support:
+  - category: electrical
+    department: Customer Support
+    phone: "+18888266342"
+    country: US
+    notes: "Omega Engineering, now DwyerOmega; current DwyerOmega page shows 1.888.826.6342 ('GET EXPERT SUPPORT') and 1-800-663-4209. Legacy manufacturer manuals list Engineering Service 1-800-872-9436, Customer Service 1-800-622-2378, Sales 1-800-826-6342 - those legacy numbers are noted, not used as the file number. Distinct from TracPipe (OmegaFlex) - do not merge."
+    source: "https://www.dwyeromega.com/en-ca/solutions/connected-devices"
+    last_verified: "2026-10-26"

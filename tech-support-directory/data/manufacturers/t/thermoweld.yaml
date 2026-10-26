@@ -1,0 +1,12 @@
+id: thermoweld
+name: "Thermoweld"
+categories: [electrical]
+aliases: []
+support:
+  - category: electrical
+    department: Customer Support
+    phone: "+18005581373"
+    country: US
+    notes: "thermOweld exothermic welding and grounding brand, Tulsa OK. Literature hosted on Hubbell apps, but with its own distinct published contact, different from the Hubbell file number, hence its own file."
+    source: "https://thermoweld.hubbellapps.com/molds/pdf/34-5381-55.pdf"
+    last_verified: "2026-10-26"

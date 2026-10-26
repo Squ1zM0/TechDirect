@@ -1,0 +1,15 @@
+id: hevi-duty
+name: Hevi-Duty
+website: https://americas.hammondpowersolutions.com/resources/technical-support
+categories:
+- electrical
+aliases:
+- Heavi-Duty
+support:
+- category: electrical
+  department: Technical Support
+  phone: '+18667054684'
+  country: US
+  notes: 'LEGACY BRAND. Hevi-Duty transformer brand; workbook parent Heavi-Duty (Solair / Hammond). Successor contact is Hammond Power Solutions (HPS) Technical Support USA; this is the HPS number, not a Hevi-Duty-original number, since none is currently published. Canada 888-798-8882.'
+  source: https://americas.hammondpowersolutions.com/resources/technical-support
+  last_verified: '2026-10-26'

@@ -1,0 +1,16 @@
+id: valmont-industries
+name: Valmont Industries
+website: https://www.valmontstructures.com/
+categories:
+- electrical
+aliases:
+- Valmont
+support:
+- category: electrical
+  department: Customer Support
+  phone: '+18008256668'
+  country: US
+  notes: Valmont Industries, Inc., 28800 Ida Street, P.O. Box 358, Valley, NE 68064; valmontstructures.com.
+    Main line (+1) 402-963-1000 also published. Utility and lighting structures.
+  source: https://valmont-utility-poles.plumbweb.io/_assets/pdf/pole/smooth-tapered.pdf
+  last_verified: '2026-10-26'

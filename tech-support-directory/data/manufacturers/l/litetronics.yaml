@@ -1,0 +1,13 @@
+id: litetronics
+name: Litetronics
+website: "https://www.litetronics.com"
+categories: [electrical]
+aliases: ["LITETRONICS INTL"]
+support:
+  - category: electrical
+    department: Customer Support
+    phone: "+18008603392"
+    country: US
+    notes: "Litetronics, Bedford Park, IL; LED lighting manufacturer. Number from Litetronics' own blog (customerservice@litetronics.com; customer service hours Mon-Fri 8:00 AM-5:00 PM). Distinct from LEDtronics, filed separately in this batch. Covers both xref spellings Litetronics and LITETRONICS INTL."
+    source: "https://blog.litetronics.com/work-with-litetronics-leading-led-manufacturers"
+    last_verified: "2026-10-26"

@@ -1,0 +1,17 @@
+id: rycom-instruments
+name: Rycom Instruments
+website: https://rycominstruments.com/
+categories:
+- electrical
+aliases: []
+support:
+- category: electrical
+  department: Customer Support
+  phone: '+18008517347'
+  country: US
+  notes: Rycom Instruments, Inc., Raytown, MO. Local 816-353-2100; rycom@rycominstruments.com; 8:00-4:45 CT Mon-Fri. Cable and pipe locators; electrical is the closest vocabulary term.
+  source: rycominstruments.com pages
+  last_verified: '2026-10-26'
+  hours:
+    timezone: CT
+    mon_fri: 8:00 AM - 4:45 PM

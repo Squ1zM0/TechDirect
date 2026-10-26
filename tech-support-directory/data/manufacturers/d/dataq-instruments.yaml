@@ -1,0 +1,15 @@
+id: dataq-instruments
+name: DATAQ Instruments
+website: https://www.dataq.com
+categories:
+  - electrical
+aliases:
+  - DATAQ Instruments, Inc.
+support:
+  - category: Technical Support
+    department: Technical Support
+    phone: "+13306681444"
+    country: US
+    notes: "Data acquisition instruments and WinDaq software (data loggers, chart recorders), Akron, OH. Technical Support hours Mon-Fri 9am-5pm ET; forum/ticket system is the primary channel, phone published on the company's own support pages."
+    source: "https://DATAQ.COM/support/tech_support.htm"
+    last_verified: "2026-10-26"

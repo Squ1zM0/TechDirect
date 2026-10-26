@@ -1,0 +1,13 @@
+id: brinmar
+name: Brinmar
+website: https://brinmar.com
+categories: [hvac]
+aliases: ["Brinmar Limited", "Brinmar Ltd."]
+support:
+  - category: hvac
+    department: Customer Support
+    phone: "+18884546627"
+    country: CA
+    notes: "Brinmar Limited, 91A Carlauren Road, Vaughan, Ontario, Canada, maker of air-conditioner covers (limited lifetime warranty) and compressor sound blankets (10-year warranty) since 1975. Canadian company; the published toll-free line is North-America-wide. Local line 905-265-0172 also published."
+    source: "https://brinmar.com/pages/warranty-returns"
+    last_verified: "2026-10-26"

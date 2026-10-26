@@ -1,0 +1,14 @@
+id: morpac
+name: Morpac Industries, Inc.
+website: https://www.morpac.com
+categories:
+- electrical
+aliases: []
+support:
+- category: electrical
+  department: Customer Support
+  phone: "+15202943452"
+  country: US
+  notes: Current Pacific, WA address 117 Frontage Rd N per Thomasnet/CAGE; Tucson was the older catalog address. High-voltage switches, valve actuators, line-stringing equipment; founded 1956.
+  source: http://www.morpac.com/switches/_morpac-catalog.pdf
+  last_verified: "2026-10-26"

@@ -1,0 +1,17 @@
+id: trumeter
+name: Trumeter
+website: https://www.trumeter.com/
+categories:
+- electrical
+aliases: []
+support:
+- category: electrical
+  department: Customer Support
+  phone: '+19547256699'
+  country: US
+  notes: Trumeter US, Coconut Creek, FL (6601 Lyons Road). Founded in the UK in 1937, US presence since
+    1938; acquired Kessler-Ellis Products' Counting & Timing Division. Counters, timers and instrumentation.
+    Distributor numbers (Jameco 800-831-4242, AutomationDirect 800-633-0405, DigiKey 800-344-4539) are
+    not used.
+  source: https://www.prweb.com/releases/trumeter-to-acquire-counting--timing-division-of-kessler-ellis-products-kep-302442204.html
+  last_verified: '2026-10-26'

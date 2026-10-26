@@ -1,0 +1,12 @@
+id: la-marche
+name: La Marche
+categories: [electrical]
+aliases: ["La Marche Manufacturing"]
+support:
+  - category: electrical
+    department: Customer Support
+    phone: "+18472991188"
+    country: US
+    notes: "La Marche Manufacturing Company, Des Plaines, IL; industrial battery chargers, rectifiers and power systems. General company number from La Marche manuals and catalog."
+    source: "http://web.lamarchemfg.com/userfiles/La_Marche%20Product%20Catalog.pdf"
+    last_verified: "2026-10-26"

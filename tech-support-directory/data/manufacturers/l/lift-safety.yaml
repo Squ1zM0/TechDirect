@@ -1,0 +1,13 @@
+id: lift-safety
+name: Lift Safety
+website: "http://liftsafety.com/"
+categories: [hardware]
+aliases: ["LIFT Safety"]
+support:
+  - category: hardware
+    department: Customer Support
+    phone: "+18887243005"
+    country: US
+    notes: "LIFT Safety premium industrial safety products and PPE (hard hats, gloves) since 2004, Compton, CA; sister company of EVS Sports. Category hardware per the milwaukee-tool.yaml precedent (no tools category exists in the vocabulary)."
+    source: "http://liftsafety.com/"
+    last_verified: "2026-10-26"

@@ -1,0 +1,13 @@
+id: abolite
+name: Abolite
+website: https://lsicorp.com/lighting/lsi-product-families/
+categories: [electrical]
+aliases: ["LSI Abolite"]
+support:
+  - category: electrical
+    department: Customer Support
+    phone: "+18004367800"
+    country: US
+    notes: "Abolite RLM luminaire line of LSI Industries Inc. (90 years of RLM heritage per LSI). No distinct Abolite-only contact is published; LSI's published line 'Have questions? Call us at (800) 436-7800' appears on Abolite spec sheets, so that number is used here with the LSI parentage noted."
+    source: "https://lsicorp.com/lighting/wp-content/uploads/sites/2/abolite-bd-specsheet.pdf"
+    last_verified: "2026-10-26"

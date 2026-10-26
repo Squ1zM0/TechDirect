@@ -1,0 +1,12 @@
+id: lumenradio
+name: LumenRadio
+website: "https://lumenradio.com"
+categories: [electrical]
+support:
+  - category: electrical
+    department: Customer Support
+    phone: "+18165103812"
+    country: US
+    notes: "LumenRadio AB, Gothenburg, Sweden (HQ +46 31 301 03 70); US contact from LumenRadio's own sales flyer (sales@lumenradio.com). Wireless DMX (CRMX) lighting controls for entertainment and architectural lighting, plus W-DALI, W-BACnet and wireless mesh products."
+    source: "https://lumenradio.com/wp-content/uploads/2023/03/OEM-Salesflyer-2022.pdf"
+    last_verified: "2026-10-26"

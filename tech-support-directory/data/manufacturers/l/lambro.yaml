@@ -1,0 +1,12 @@
+id: lambro
+name: Lambro
+categories: [hvac]
+aliases: ["Lambro Industries"]
+support:
+  - category: hvac
+    department: Customer Support
+    phone: "+18006452860"
+    country: US
+    notes: "Lambro Industries, Amityville/Babylon, NY; dryer venting, flexible ducting and ventilation products. General company number."
+    source: "https://www.lambro.net/"
+    last_verified: "2026-10-26"

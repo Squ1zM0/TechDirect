@@ -1,0 +1,13 @@
+id: direct-wire-cable
+name: Direct Wire & Cable
+website: https://www.directwire.com
+categories: [electrical]
+aliases: []
+support:
+  - category: electrical
+    department: Customer Support
+    phone: "+18002333848"
+    country: US
+    notes: "Direct Wire (Denver, PA) wire and cable manufacturer; general phone published on the official site's services page."
+    source: "https://www.directwire.com/why-direct/services/"
+    last_verified: "2026-10-26"

@@ -1,0 +1,13 @@
+id: poleset
+name: PoleSet
+website: https://www.poleset.com
+categories: [electrical]
+aliases: ["PoleSet, Inc.", "Poleset Equipment"]
+support:
+  - category: electrical
+    department: Customer Support
+    phone: "+17242229414"
+    country: US
+    notes: "PoleSet, Inc. / Poleset Equipment LLC, Prosperity, PA (5355 Prosperity Pike, Prosperity, PA 15329). Off-road powerline construction company since 1991 and manufacturer of the Polesetter II track machine (excavates, sets poles and attaches wires in one operation); also wood and steel pole installation, underground electrical construction, line inspection and storm repair. Number published on the company's own contact page and equipment brochure."
+    source: "http://www.poleset.com/contact/"
+    last_verified: "2026-10-26"

@@ -1,0 +1,13 @@
+id: sky-electronics
+name: Sky Electronics
+website: https://www.skyrelays.com
+categories: [electrical]
+aliases: []
+support:
+  - category: electrical
+    department: Customer Support
+    phone: "+17707889500"
+    country: US
+    notes: "Sky Electronics International (Sky Electronics), Oxford, GA (relays and relay sockets, founded 1984); email information@skyrelays.com. Not the Japanese Sky Electronics Co., Ltd. (coils/generators, sky-denshi.co.jp), a different company with the same name."
+    source: "https://www.skyrelays.com/about.php"
+    last_verified: "2026-10-26"

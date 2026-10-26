@@ -1,0 +1,16 @@
+id: ventamatic
+name: Ventamatic
+website: https://www.bvc.com/
+categories:
+- airflow
+aliases: []
+support:
+- category: airflow
+  department: Customer Support
+  phone: '+18004331626'
+  country: US
+  notes: Ventamatic, Ltd., P.O. Box 728 / 100 Washington Street, Mineral Wells, TX 76068-0728; www.bvc.com.
+    Manuals say 'CALL OUR FACTORY FOR REPAIR OR REPLACEMENT PARTS ... call our factory at 1.800.433.1626'.
+    Ventilation fans.
+  source: https://manualmachine.com/ventamatic/if36/1797204-user-manual/
+  last_verified: '2026-10-26'

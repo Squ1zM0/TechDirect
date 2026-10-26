@@ -1,0 +1,13 @@
+id: softing
+name: Softing
+website: https://industrial.softing.com/us
+categories: [electrical]
+aliases: []
+support:
+  - category: electrical
+    department: Customer Support
+    phone: "+18652515252"
+    country: US
+    notes: "Softing Inc., Knoxville, TN (US subsidiary of Softing AG, Haar, Germany; industrial connectivity, network diagnostics, gateways and OPC UA software). Support email support@softing.us; sales email sales@softing.us. Newburyport, MA office also published."
+    source: "https://industrial.softing.com/fileadmin/sof-files/pdf/ia/us/Softing_Industrial_Portfolio_2019.7.1.pdf"
+    last_verified: "2026-10-26"

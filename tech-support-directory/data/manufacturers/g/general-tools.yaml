@@ -1,0 +1,13 @@
+id: general-tools
+name: 'General Tools & Instruments'
+categories:
+- hardware
+aliases: []
+support:
+- category: hardware
+  department: 'Customer Support'
+  phone: '+12124316100'
+  country: US
+  notes: 'Toll-free 800-697-8665 in an older manual. Covers batch spellings General Tools and General Tools & Instruments. Measuring and inspection tools, so hardware is the closest vocabulary term.'
+  source: 'https://www.manualsdir.com/manuals/347393/general-tools-and-instruments-dcs1600.html?page=15'
+  last_verified: '2026-10-26'

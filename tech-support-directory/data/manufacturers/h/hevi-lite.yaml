@@ -1,0 +1,15 @@
+id: hevi-lite
+name: Hevi Lite
+website: https://www.hevilite.com/
+categories:
+- electrical
+aliases:
+- HEVI LITE
+support:
+- category: electrical
+  department: Customer Support
+  phone: '+18183418091'
+  country: US
+  notes: 'Hevi Lite, Inc., Chatsworth, CA. Email info@hevilite.com. Landscape and architectural lighting. Distinct from Hevi-Duty (transformers); do not conflate.'
+  source: https://www.hevilite.com/
+  last_verified: '2026-10-26'

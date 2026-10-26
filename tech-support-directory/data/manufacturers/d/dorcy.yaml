@@ -1,0 +1,16 @@
+id: dorcy
+name: Dorcy International
+website: https://www.dorcy.com
+categories: [electrical]
+aliases: ["Dorcy"]
+support:
+  - category: electrical
+    department: Customer Support
+    phone: "+18008378558"
+    country: US
+    notes: "Dorcy International, Inc. (Columbus, OH) flashlights and lighting products. Toll-free consumer contact from the CPSC recall notice (Mon-Fri 8 AM - 5 PM ET); older direct line 614-497-5830 also published historically."
+    source: "https://www.cpsc.gov/Recalls/2004/CPSC-Dorcy-International-Announce-Recall-of-Fuji-Batteries-Sold-with-Dorcy-Xenon-Flashlights-"
+    last_verified: "2026-10-26"
+    hours:
+      timezone: "ET"
+      mon_fri: "8:00 AM - 5:00 PM"

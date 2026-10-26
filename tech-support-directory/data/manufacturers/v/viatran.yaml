@@ -1,0 +1,15 @@
+id: viatran
+name: Viatran
+website: https://www.viatran.com/
+categories:
+- hvac-controls
+aliases: []
+support:
+- category: hvac-controls
+  department: Customer Support
+  phone: '+18006880030'
+  country: US
+  notes: Toll-free Hotline; International 716-629-3800; Viatran Corporation, 199 Fire Tower Drive, Tonawanda,
+    NY 14150 / Wheatfield, NY; solutions@viatran.com. Pressure and level transmitters.
+  source: https://www.viatran.com/static/media/uploads/manuals/98manal359g.pdf
+  last_verified: '2026-10-26'

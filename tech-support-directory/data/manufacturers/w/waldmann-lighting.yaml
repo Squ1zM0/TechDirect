@@ -1,0 +1,13 @@
+id: waldmann-lighting
+name: "Waldmann Lighting"
+website: https://www.waldmannlighting.com
+categories: [electrical]
+aliases: []
+support:
+  - category: electrical
+    department: Customer Support
+    phone: "+18006340007"
+    country: US
+    notes: "Toll-free; local 847-520-1060 also published. Wheeling IL (US arm of Herbert Waldmann GmbH & Co. KG). Website www.waldmannlighting.com per Waldmann's own catalogs; number corroborated by Waldmann catalogs and the Thomasnet profile."
+    source: "https://www.thomasnet.com/company/waldmann-lighting-596947/profile"
+    last_verified: "2026-10-26"

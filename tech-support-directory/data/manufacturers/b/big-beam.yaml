@@ -1,0 +1,13 @@
+id: big-beam
+name: Big Beam
+website: https://www.bigbeam.com/
+categories: [electrical]
+aliases: ["Big Beam Emergency Systems", "Big Beam Emergency Systems, Inc."]
+support:
+  - category: electrical
+    department: Customer Support
+    phone: "+18154596100"
+    country: US
+    notes: "Big Beam Emergency Systems, Inc., Crystal Lake, IL, manufacturer of premium-grade emergency lighting (LED exit signs, emergency lights, portable backup lighting) for commercial and industrial applications. Category mapped from emergency lighting to electrical (no lighting term in the vocabulary)."
+    source: "https://news.thomasnet.com/fullstory/led-emergency-light-is-designed-for-low-bay-applications-815616/"
+    last_verified: "2026-10-26"

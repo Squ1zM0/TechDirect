@@ -1,0 +1,15 @@
+id: hook-international
+name: Hook International
+website: http://hookinternational.com/
+categories:
+- hardware
+aliases:
+- Hook Intl.
+support:
+- category: hardware
+  department: Customer Support
+  phone: '+17272090855'
+  country: US
+  notes: 'Hook International, Pinellas Park, FL. US manufacturer of Web Strap Hoists and Cable Hoists. Website URL is from the place listing, not a fetched official page; noted for provenance.'
+  source: https://www.equipment10.com/US/Pinellas-Park/1516427201919981/Hook-International
+  last_verified: '2026-10-26'

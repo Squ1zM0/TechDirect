@@ -1,0 +1,13 @@
+id: bramec
+name: Bramec
+website: https://bramec.com
+categories: [hvac, plumbing, electrical]
+aliases: ["Bramec Corporation", "Bramec Corp."]
+support:
+  - category: hvac
+    department: Customer Support
+    phone: "+18008439974"
+    country: US
+    notes: "Bramec Corporation, 403 Highway 105, North Sioux City, SD 57049, master distributor of parts and supplies for the air conditioning, heating, refrigeration and plumbing industries, plus electrical conduit and fittings. Toll-free line from bramec.com product pages; general-assistance line 605-232-4311 also published on Bramec safety data sheets. Email bramecsales@bramec.com. Support entry filed under hvac (the company's lead trade); plumbing and electrical lines noted here."
+    source: "https://bramec.com/index.php/product/wiring-tacker-2/"
+    last_verified: "2026-10-26"

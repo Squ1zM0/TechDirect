@@ -1,0 +1,12 @@
+id: ashcroft
+name: Ashcroft
+categories: [hvac-controls]
+aliases: []
+support:
+  - category: hvac-controls
+    department: Customer Support
+    phone: "+18003288258"
+    country: US
+    notes: "Pressure, temperature and test instruments, Stratford CT. Contact line published site-wide on ashcroft.com; main line 203-378-8281 also published. No instruments category exists in the TechDirect vocabulary, so hvac-controls is used as the closest term."
+    source: "https://www.ashcroft.com/products/"
+    last_verified: "2026-10-26"

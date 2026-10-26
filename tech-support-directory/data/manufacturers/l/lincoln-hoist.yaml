@@ -1,0 +1,13 @@
+id: lincoln-hoist
+name: Lincoln Hoist
+website: "http://www.lincolnhoist.com"
+categories: [hardware]
+aliases: []
+support:
+  - category: hardware
+    department: Customer Support
+    phone: "+18883067222"
+    country: US
+    notes: "Lincoln Hoist, North Grafton, MA; web strap and chain hoists and lifting equipment. Number published on Lincoln Hoist's own product schematic (lincolnhoist.com). A directory listing also gives (774) 551-9000. Category hardware per the milwaukee-tool.yaml precedent (no tools category exists in the vocabulary)."
+    source: "http://www.lincolnhoist.com/hoistschematics/modellh400020.pdf"
+    last_verified: "2026-10-26"

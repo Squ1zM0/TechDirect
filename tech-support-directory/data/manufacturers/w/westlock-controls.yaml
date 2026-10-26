@@ -1,0 +1,13 @@
+id: westlock-controls
+name: "Westlock Controls"
+website: https://www.emerson.com
+categories: [valves]
+aliases: []
+support:
+  - category: valves
+    department: Customer Support
+    phone: "+18888899170"
+    country: US
+    notes: "Emerson Final Control brand (valve position monitors/switch boxes). No Westlock-specific number surfaced; support routes through Emerson's Global Response Center, whose published number is used here with the linkage noted, not presented as a Westlock-only line. Parent: Emerson. No Emerson file exists to parent-resolve to."
+    source: "https://www.emerson.com/en/final-control/contact-us"
+    last_verified: "2026-10-26"

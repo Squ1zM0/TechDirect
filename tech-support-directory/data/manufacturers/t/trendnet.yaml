@@ -1,0 +1,15 @@
+id: trendnet
+name: TRENDnet
+website: https://www.trendnet.com/
+categories:
+- electrical
+aliases: []
+support:
+- category: electrical
+  department: Technical Support
+  phone: '+18668453673'
+  country: US
+  notes: Toll-free US/Canada Technical Support, explicitly labelled Technical Support. Daytime USA/Canada
+    (855) 373-4741, Mon-Fri 7:00 AM-5:30 PM PST; after-hours 24/7 (866) 845-3673. Networking.
+  source: https://www.trendnet.com/langit/support/faqs/?ToDo=view&questId=3228&catId=751
+  last_verified: '2026-10-26'

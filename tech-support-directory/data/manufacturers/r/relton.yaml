@@ -1,0 +1,15 @@
+id: relton
+name: Relton Corporation
+categories:
+- hardware
+aliases:
+- Relton
+support:
+- category: hardware
+  department: Customer Support
+  phone: '+18004231505'
+  country: US
+  notes: Relton Corporation, drill bits and hole saws. Number from the company's own safety data sheet (Chemical Division) and corroborated by Crunchbase profile. Local 626-446-8201 also listed. No official
+    website verified in this session, so website is omitted.
+  source: Relton safety data sheet (Chemical Division phone 800-423-1505); Crunchbase profile
+  last_verified: '2026-10-26'

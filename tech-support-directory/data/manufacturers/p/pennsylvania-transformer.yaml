@@ -1,0 +1,13 @@
+id: pennsylvania-transformer
+name: Pennsylvania Transformer
+website: https://www.patransformer.com/
+categories: [electrical]
+aliases: ["Pennsylvania Transformer Technology", "Pennsylvania Transformer Technology, LLC", "PTT"]
+support:
+  - category: electrical
+    department: Technical Support
+    phone: "+17248732100"
+    country: US
+    notes: "Pennsylvania Transformer Technology, LLC (PTT), Canonsburg, PA (30 Curry Avenue); a Quanta Services company. patransformer.com invites transformer project or service inquiries and technical assistance via this number ('Contact PTT for a quote or technical assistance, or call (724) 873-2100'; 'expert help from our engineering, sales, or technical services teams'), so recorded as Technical Support. Email Marketing@patransformer.com. Power transformers 5-750 MVA through 765 kV; facilities in Canonsburg, PA and Raeford, NC."
+    source: "https://www.patransformer.com/"
+    last_verified: "2026-10-26"

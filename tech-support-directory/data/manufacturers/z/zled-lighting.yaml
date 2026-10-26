@@ -1,0 +1,13 @@
+id: zled-lighting
+name: "ZLED Lighting"
+website: https://www.zledlighting.com
+categories: [electrical]
+aliases: ["ZLEDLighting"]
+support:
+  - category: electrical
+    department: Customer Support
+    phone: "+18006799243"
+    country: US
+    notes: "ZLEDLighting; Mount Laurel NJ. Office number; email sales@zledlighting.com. A RocketReach listing shows a different 888 number; the official-domain number wins."
+    source: "https://zledlighting.com/wp-content/uploads/2026/05/ZLEDLighting-RGBW-UFO-Spec-Sheet.pdf"
+    last_verified: "2026-10-26"

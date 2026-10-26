@@ -1,0 +1,12 @@
+id: thomasson-pole
+name: "Thomasson Company"
+categories: [electrical]
+aliases: ["Thomasson Pole"]
+support:
+  - category: electrical
+    department: Customer Support
+    phone: "+18006476260"
+    country: US
+    notes: "Thomasson Company wood utility poles. US plant line per the woodpoles.org pole-supplier directory."
+    source: "https://woodpoles.org/Supply/Pole-Suppliers/"
+    last_verified: "2026-10-26"

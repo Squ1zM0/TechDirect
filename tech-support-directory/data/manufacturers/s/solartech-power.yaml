@@ -1,0 +1,13 @@
+id: solartech-power
+name: Solartech Power
+website: https://solartechpower.com
+categories: [electrical]
+aliases: []
+support:
+  - category: electrical
+    department: Customer Support
+    phone: "+18667776527"
+    country: US
+    notes: "Solartech Power (solar PV modules for off-grid applications). Number from solartechpower.com's own terms/RMA pages (orders and customer service). A dealer, MrSolar, separately publishes 888-680-2427 on its Solartech Power product page; that dealer number was NOT used."
+    source: "https://solartechpower.com/index-4.html"
+    last_verified: "2026-10-26"

@@ -1,0 +1,13 @@
+id: lackmond
+name: Lackmond
+website: "https://www.lackmond.com"
+categories: [hardware]
+aliases: ["Lackmond Products", "Lackmond Products Inc."]
+support:
+  - category: hardware
+    department: Customer Support
+    phone: "+18008502044"
+    country: US
+    notes: "Lackmond Products Inc., Marietta, GA; manufacturer and marketer of diamond saw blades, cutting tools, tile saws, grinding and drilling equipment for the tile, stone and construction markets, serving professional construction markets for more than 20 years. Number from a Lackmond press release and a Lackmond catalog (800-850-2044 | Lackmond.com). Hardware category per the milwaukee-tool.yaml precedent for tool brands."
+    source: "https://www.concretedecor.net/blogs/press-releases/lackmond-products-introduces-sts-6-multi-application-diamond-blade/"
+    last_verified: "2026-10-26"

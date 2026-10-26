@@ -1,0 +1,13 @@
+id: simpson-electric
+name: Simpson Electric
+website: https://www.simpsonelectric.com
+categories: [electrical]
+aliases: []
+support:
+  - category: electrical
+    department: Customer Support
+    phone: "+17155883311"
+    country: US
+    notes: "Simpson Electric Company, Lac du Flambeau, WI (analog/digital panel meters, test equipment). Distinct company from Simpson Strong-Tie. An Industrial Equipment News product item lists 715-588-3947 as an alternate; the manufacturer's own communications guide number is used here."
+    source: "https://manualmachine.com/simpsonelectric/g400/17608149-communications-guide/"
+    last_verified: "2026-10-26"

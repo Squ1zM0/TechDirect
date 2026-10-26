@@ -1,0 +1,14 @@
+id: magnelink
+name: MagneLink
+website: https://www.magnelinkinc.com/
+categories:
+- electrical
+aliases: []
+support:
+- category: electrical
+  department: Customer Support
+  phone: "+18006380801"
+  country: US
+  notes: Industrial connectivity/cable assemblies. Thomasnet also lists (503) 844-6620 as alternate.
+  source: https://www.magnelinkinc.com/industrial-applications/
+  last_verified: "2026-10-26"

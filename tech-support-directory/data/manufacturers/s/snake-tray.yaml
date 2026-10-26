@@ -1,0 +1,13 @@
+id: snake-tray
+name: Snake Tray
+website: https://www.snaketray.com
+categories: [electrical]
+aliases: []
+support:
+  - category: electrical
+    department: Customer Support
+    phone: "+18003086788"
+    country: US
+    notes: "Snake Tray (cable tray and cable management systems for data centers, solar, transit and commercial buildings; hand-bendable and wire mesh trays, made in the USA)."
+    source: "https://www.snaketray.com/data-center-cabling-guide/"
+    last_verified: "2026-10-26"

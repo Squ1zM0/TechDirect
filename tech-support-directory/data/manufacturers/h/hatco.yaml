@@ -1,0 +1,14 @@
+id: hatco
+name: Hatco
+categories:
+- hardware
+aliases:
+- HATCO CORP
+support:
+- category: hardware
+  department: Parts and Service Assistance
+  phone: '+18005580607'
+  country: US
+  notes: '24/7 Parts and Service Assistance line (source label). Email support@hatcocorp.com. Manuals also list Technical Service 414-671-6350. Commercial foodservice equipment; no foodservice term in the category vocabulary, so hardware is used as the closest term.'
+  source: https://manuals.plus/category/hatco
+  last_verified: '2026-10-26'

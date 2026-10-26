@@ -1,0 +1,13 @@
+id: linkasink
+name: Linkasink
+website: "https://www.linkasink.com"
+categories: [bathroom-systems]
+aliases: []
+support:
+  - category: bathroom-systems
+    department: Customer Support
+    phone: "+16029712502"
+    country: US
+    notes: "Linkasink handcrafted metal bathroom sinks (hammered and cast collections) and drains. Number published on Linkasink's own product spec sheets (sales@linkasink.com also published). A Linkasink fact sheet separately publishes (866) 395-8377; both numbers are on file, the 602 number is used here because it appears on multiple current spec sheets."
+    source: "https://sinkexperts.com/content/Linkasink/linkasink-c016a-spec-sheet-21.pdf"
+    last_verified: "2026-10-26"

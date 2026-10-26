@@ -1,0 +1,13 @@
+id: power-delivery-products
+name: Power Delivery Products
+website: https://www.powerdeliveryproducts.com
+categories: [electrical]
+aliases: ["Power Delivery Products, Inc.", "PDP"]
+support:
+  - category: electrical
+    department: Customer Support
+    phone: "+17705879044"
+    country: US
+    notes: "Power Delivery Products, Inc. (PDP), Alpharetta, GA (2658 Holcomb Bridge Rd, Suite 100, Alpharetta, GA 30022). Market leader in faulted circuit indicators (FCIs) for the electric utility industry; exclusive provider of Horstmann faulted circuit indicators in the United States, Mexico, the Caribbean and Central America (Horstmann GmbH invented the first FCI in 1946). Number published on the company's own website and corroborated by distributor emergency-contact lists."
+    source: "https://www.powerdeliveryproducts.com/"
+    last_verified: "2026-10-26"

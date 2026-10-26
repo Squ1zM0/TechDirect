@@ -1,0 +1,13 @@
+id: m-m-manufacturing
+name: M&M Manufacturing
+website: "http://www.mmmfg.com/"
+categories: [hvac]
+aliases: ["M&M Manufacturing Company", "M & M Manufacturing Co."]
+support:
+  - category: hvac
+    department: Customer Support
+    phone: "+18173362311"
+    country: US
+    notes: "M&M Manufacturing Company, Fort Worth, TX (4001 Mark IV Parkway); founded 1958 by the Stepp family, one of the largest US producers of HVAC sheet metal air-distribution products (round, rectangular, oval and spiral ductwork, fittings, grilles, louvers, fan curbs) with 6 manufacturing facilities and 9,000+ products. Acquired by MiTek Industries (Berkshire Hathaway) per M&M's own acquisition announcement; M&M keeps its own published contact. Number from M&M's own site page."
+    source: "https://www.mmmfg.com/mitek-acquires-mm-manufacturing-company/"
+    last_verified: "2026-10-26"

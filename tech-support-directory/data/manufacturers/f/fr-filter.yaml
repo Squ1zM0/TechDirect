@@ -1,0 +1,13 @@
+id: fr-filter
+name: "FR Filter"
+categories:
+- hvac
+aliases: ["Flow Right Filters", "Flow Right Filter Box"]
+support:
+- category: hvac
+  department: "Customer Support"
+  phone: "+17207513712"
+  country: US
+  notes: "FR Filter (frfilter.com), 1878 S. Wadsworth Blvd., Lakewood, CO 80232. Number from the current FR Filter contact page, fetched 2026-10-26. An older place listing under Flow Right Filters (4215 Globeville Rd, Denver, 877-690-7442) is superseded by the current Lakewood site. Covers the xref spelling Flow Right Filter Box. NOT Flow Right Plumbing/Heating contractors (Pueblo CO, Colorado Springs/Pueblo) and NOT FlowRight HVAC firms (Houston, Doylestown PA)."
+  source: "https://frfilter.com/contact"
+  last_verified: "2026-10-26"

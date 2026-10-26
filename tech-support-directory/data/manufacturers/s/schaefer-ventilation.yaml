@@ -1,0 +1,16 @@
+id: schaefer-ventilation
+name: Schaefer Ventilation Equipment
+website: https://schaeferventilation.com/
+categories:
+- airflow
+aliases:
+- Schaefer Ventilation
+support:
+- category: airflow
+  department: Customer Support
+  phone: '+18007793267'
+  country: US
+  notes: Schaefer Ventilation Equipment, LLC, Sauk Rapids, MN. Local (320) 251-8696. Manual footer credits Pinnacle Climate Technologies, Inc.; Hydrobuilder notes AEF Global as parent company/distributor
+    of the Schaefer line. Lineage is noted only and does not replace the brand's number. Ventilation fans and air movement.
+  source: Schaefer fan manuals (Toll Free (800) 779-3267) and ThomasNet profile
+  last_verified: '2026-10-26'

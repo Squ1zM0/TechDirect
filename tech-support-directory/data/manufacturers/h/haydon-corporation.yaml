@@ -1,0 +1,16 @@
+id: haydon-corporation
+name: Haydon Corporation
+website: https://haydoncorp.com/
+categories:
+- electrical
+aliases:
+- HAYDON CORP
+- H-STRUT
+support:
+- category: electrical
+  department: Customer Support
+  phone: '+18002429366'
+  country: US
+  notes: 'US-owned manufacturer of metal framing, rooftop support and baseboard heating systems, established 1956, locations in CA, NJ, OH, TX. Email contactus@haydoncorp.com. Distinct company from Haydon Kerk Motion Solutions; do not conflate.'
+  source: https://cdnc.heyzine.com/flip-book/pdf/2b2b97cb9080dfe005ec229b336d853a20e5eda3.pdf
+  last_verified: '2026-10-26'

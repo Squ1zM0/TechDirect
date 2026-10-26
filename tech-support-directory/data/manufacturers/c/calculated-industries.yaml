@@ -1,0 +1,16 @@
+id: calculated-industries
+name: Calculated Industries
+website: https://www.calculated.com
+categories: [hardware]
+aliases: ["Calculated Ind", "Calculated Industries, Inc."]
+support:
+  - category: hardware
+    department: Customer Support
+    phone: "+18008548075"
+    country: US
+    notes: "Calculated Industries, Inc., Carson City, NV, manufacturer of professional trade calculators and digital measuring tools since 1978; products designed and tech-supported in Carson City. Toll-free line printed in multiple current product manuals for warranty/returns (hours 8 AM-4 PM PT). Outside USA line 775-885-4900 also published. Covers xref abbreviation Calculated Ind."
+    source: "https://www.manualshelf.com/manual/calculated-industries/3423/owner-manual-english/page-39.html"
+    last_verified: "2026-10-26"
+    hours:
+      timezone: "PT"
+      mon_fri: "8:00 AM - 4:00 PM"

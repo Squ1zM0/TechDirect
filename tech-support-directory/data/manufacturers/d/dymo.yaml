@@ -1,0 +1,16 @@
+id: dymo
+name: DYMO
+website: https://www.dymo.com/support?cfid=contact-us
+categories: [electrical]
+aliases: ["Dymo", "DYMO Products"]
+support:
+  - category: electrical
+    department: Technical Support
+    phone: "+18777248324"
+    country: US
+    notes: "DYMO (Newell Brands) label printers. DYMO Support line from the official contact page; have the product serial number ready. Covers xref spellings Dymo and DYMO PRODUCTS (same brand). Category note: no office/labeling vocabulary term exists; mapped to electrical as the closest term."
+    source: "https://www.dymo.com/support?cfid=contact-us"
+    last_verified: "2026-10-26"
+    hours:
+      timezone: "ET"
+      mon_fri: "9:00 AM - 5:00 PM"

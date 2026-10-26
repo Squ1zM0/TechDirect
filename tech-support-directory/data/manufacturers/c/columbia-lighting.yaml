@@ -1,0 +1,13 @@
+id: columbia-lighting
+name: Columbia Lighting
+website: http://www.columbialighting.com/
+categories: [electrical]
+aliases: ["Colombia Lighting"]
+support:
+  - category: electrical
+    department: Technical Support
+    phone: "+18646781000"
+    country: US
+    notes: "Columbia Lighting, Greenville, SC (701 Millennium Blvd); commercial/industrial indoor lighting — linear LEDs, troffers, wraparounds, high-bays. Historically a Hubbell Lighting division, now part of the Current Lighting (HLI) portfolio. Number per Columbia Lighting's own instruction-manual footer and manuals.plus support FAQ (framed there as the technical support contact). Covers xref spellings 'Columbia Lighting' and 'Colombia Lighting' (the latter is a misspelling; its parent is given as Columbia Lighting (Current)). Distinct from Columbia Sportswear."
+    source: "https://manualspro.net/241231-columbia-lighting-cbt24-ls35-cbt-back-lit-troffer-instruction-manual"
+    last_verified: "2026-10-26"

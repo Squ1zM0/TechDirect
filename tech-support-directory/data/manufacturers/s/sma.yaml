@@ -1,0 +1,16 @@
+id: sma
+name: SMA
+website: https://www.sma-america.com
+categories: [electrical]
+aliases: []
+support:
+  - category: electrical
+    department: Technical Support
+    phone: "+18776976283"
+    country: US
+    notes: "SMA America (SMA Solar Technology AG), Rocklin, CA (PV inverters: Sunny Boy, Sunny Tripower, Sunny Central, Sunny Island). SMA-America Service Line 1-877-My-SMATech, Monday-Friday, 6:00 AM to 5:00 PM Pacific; email Service@SMA-America.com; online cases via my.sma-service.com."
+    source: "https://my.sma-service.com:443/s/article/What-is-the-Best-Way-to-Contact-the-SMA-America-Service-Line?nocache=https%3A%2F%2Fwww.my.sma-service.com%2Fs%2Farticle%2FWhat-is-the-Best-Way-to-Contact-the-SMA-America-Service-Line%3Flanguage%3Den_US"
+    last_verified: "2026-10-26"
+    hours:
+      timezone: "PT"
+      mon_fri: "6:00 AM - 5:00 PM"

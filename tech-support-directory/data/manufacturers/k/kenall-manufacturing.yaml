@@ -1,0 +1,15 @@
+id: kenall-manufacturing
+name: Kenall Manufacturing
+website: https://kenall.com/
+categories:
+- electrical
+aliases:
+- KENALL MFG
+support:
+- category: electrical
+  department: Customer Support
+  phone: '+18004536225'
+  country: US
+  notes: "Lighting fixtures; a Legrand brand (acquired). HQ Kenosha, WI, 10200 55th Street, 53144, founded 1963. Direct 262-891-9700 and info@kenall.com also published. Number is 800-4-KENALL."
+  source: http://kenall.com/About-Kenall
+  last_verified: '2026-10-26'

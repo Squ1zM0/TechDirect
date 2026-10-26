@@ -1,0 +1,13 @@
+id: quam-nichols
+name: Quam-Nichols
+website: https://www.quamspeakers.com/
+categories: [electrical]
+aliases: ["Quam Nichols"]
+support:
+  - category: electrical
+    department: Customer Support
+    phone: "+18006333669"
+    country: US
+    notes: "234 East Marquette Road, Chicago, IL 60637. Published 'NEED-NOW' line; email NeedNow@QNC.com. An older local number also appears in place listings; the toll-free line is used."
+    source: "https://api.quamspeakers.com/wp-content/uploads/2020/05/Quam-SOLUTION5-ProductSpecSheet.pdf"
+    last_verified: "2026-10-26"

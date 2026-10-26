@@ -1,0 +1,16 @@
+id: mag-instrument
+name: Mag Instrument (Maglite)
+website: https://maglite.com
+categories:
+- hardware
+aliases:
+- Maglite
+- Mag-Lite
+support:
+- category: hardware
+  department: Customer Support
+  phone: "+18002835562"
+  country: US
+  notes: Flashlights (Maglite). Warranty/repair contact per official FAQ. Covers xref spellings Mag Instrument, Mag-Lite, Maglite.
+  source: https://maglite.com/pages/general-faqs
+  last_verified: "2026-10-26"

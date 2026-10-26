@@ -1,0 +1,13 @@
+id: simplexgrinnell
+name: SimplexGrinnell
+website: https://www.johnsoncontrols.com/services-and-support/product-support
+categories: [electrical]
+aliases: []
+support:
+  - category: electrical
+    department: Customer Support
+    phone: "+18887467539"
+    country: US
+    notes: "Legacy brand: SimplexGrinnell was formed in 2001 when Tyco merged Simplex with Grinnell Fire Protection; Johnson Controls acquired it via the Tyco merger in 2016 and transitioned the SimplexGrinnell brand identity to Johnson Controls in 2017, while Simplex fire products continue under the Simplex name. Support for legacy SimplexGrinnell fire equipment routes to Johnson Controls Fire Customer Service (888-746-7539), email Fire-ServiceRequest@jci.com."
+    source: "https://www.johnsoncontrols.com/services-and-support/product-support"
+    last_verified: "2026-10-26"

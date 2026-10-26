@@ -1,0 +1,12 @@
+id: anaconda
+name: Anaconda
+categories: [electrical]
+aliases: []
+support:
+  - category: electrical
+    department: Customer Service / Product Support
+    phone: "+18595728000"
+    country: US
+    notes: "Legacy wire and cable brand: Anaconda is a General Cable trademark (per Prysmian's Anaconda mining-cable cut sheet); General Cable was acquired by Prysmian Group, and Prysmian Group North America is the successor support route. Number is Prysmian North America's published main/product-support line, as recorded in the existing Prysmian TechDirect file (source: Prysmian North America contact page)."
+    source: "https://na.prysmian.com/contact-us"
+    last_verified: "2026-10-26"

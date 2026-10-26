@@ -1,0 +1,13 @@
+id: yg-1-tool
+name: "YG-1 Tool USA"
+website: https://www.yg1usa.com
+categories: [hardware]
+aliases: ["YG-1 Tool", "YG-1 USA"]
+support:
+  - category: hardware
+    department: Customer Support
+    phone: "+18007658665"
+    country: US
+    notes: "Vernon Hills IL, 730 Corporate Woods Parkway. Cutting tools. Technical Assistance 888-868-5988 also published (secondary). US arm of YG-1 (South Korea; HQ number not used)."
+    source: "https://yg1usa.com/YG1-SDS-and-Prop-65-statement.pdf"
+    last_verified: "2026-10-26"

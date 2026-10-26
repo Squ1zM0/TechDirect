@@ -1,0 +1,16 @@
+id: convergent-connectivity-technology
+name: Convergent Connectivity Technology
+website: https://www.cctcable.com
+categories:
+  - electrical
+aliases:
+  - Convergent Connectivity
+  - CCT
+support:
+  - category: Customer Support
+    department: Customer Support
+    phone: "+18669056744"
+    country: US
+    notes: "Low-voltage communication wire and fiber optic cable manufacturer (CCT). Toll-free customer service line from the manufacturer's own specification sheets; local line 845-652-5250 also published. Florida, NY."
+    source: "https://www.sersa-electrico.com/source/a1f9f81b0b83d518d2bc8eae9f05cc0f/CCT_RHH_RHW-2_USE-2_600V_UL_Copper.pdf"
+    last_verified: "2026-10-26"

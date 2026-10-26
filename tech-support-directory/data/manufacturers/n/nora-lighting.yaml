@@ -1,0 +1,13 @@
+id: nora-lighting
+name: Nora Lighting
+website: https://www.noralighting.com/
+categories: [electrical]
+aliases: ["Nora LTG"]
+support:
+  - category: electrical
+    department: Customer Support
+    phone: "+18006866672"
+    country: US
+    notes: "Nora Lighting, Commerce CA (6505 Gayhart Street); email nora@noralighting.com."
+    source: "https://manuals.plus/nora-lighting/m1-round-led-recessed-down-light-manual"
+    last_verified: "2026-10-26"

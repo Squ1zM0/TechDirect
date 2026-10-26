@@ -1,0 +1,13 @@
+id: del-city
+name: Del City
+website: https://www.delcity.net
+categories:
+  - electrical
+support:
+  - category: Customer Support
+    department: Customer Support
+    phone: "+18006544757"
+    country: US
+    notes: "Direct source for professional-grade electrical supplies (wire and cable, connectors, terminals, loom, switches), Menomonee Falls, WI. Hours Mon-Fri 7am-5pm CST."
+    source: "https://www.delcity.net/store/Wire-Connectors-&-Quick-Splices/p_15"
+    last_verified: "2026-10-26"

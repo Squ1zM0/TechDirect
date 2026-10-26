@@ -1,0 +1,15 @@
+id: mgm-transformer
+name: MGM Transformer Company
+website: https://www.mgmtransformers.com/
+categories:
+- electrical
+aliases:
+- MGM Transformers
+support:
+- category: electrical
+  department: Customer Support
+  phone: "+13237260888"
+  country: US
+  notes: Vernon, CA, founded 1974. Transformers. Email Sales@mgmtransformers.com; warranty CustomerCare@mgmtransformers.com. Bull Rush 24/7 emergency program. Covers xref spellings MGM Transformer and MGM TRANSFORMER CO.
+  source: https://mgmtransformers.com/industry/commercial-industrial/
+  last_verified: "2026-10-26"

@@ -1,0 +1,13 @@
+id: stelpro-design
+name: "Stelpro"
+website: "https://www.stelpro.com/tools-and-support/support-and-faq/"
+categories: [hvac]
+aliases: ["Stelpro Design"]
+support:
+  - category: hvac
+    department: Technical Support
+    phone: "+18447835776"
+    country: US
+    notes: "Stelpro electric heating. Quebec-based company (Saint-Bruno-de-Montarville); US/Canada toll-free line (1-844-STELPRO)."
+    source: "https://www.stelpro.com/tools-and-support/support-and-faq/"
+    last_verified: "2026-10-26"

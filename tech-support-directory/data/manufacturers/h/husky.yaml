@@ -1,0 +1,17 @@
+id: husky
+name: Husky
+website: https://www.homedepot.com/
+categories:
+- hardware
+aliases: []
+support:
+- category: hardware
+  department: Customer Support
+  phone: '+18884348759'
+  country: US
+  notes: 'Husky tools, a Home Depot brand. Husky Customer Care line; digit form 1-888-43-HUSKY printed in the Home Depot warranty document. Hand tools carry a lifetime warranty via in-store exchange at any Home Depot; air tools carry a 2-year limited warranty via this line. Support runs through Home Depot. Home Depot corporate 770-433-8211 and general 800-466-3337 were not used as the Husky line.'
+  source: http://www.homedepot.com/catalog/pdfImages/1b/1b43c857-e569-40e2-9062-4a4e5c093a56.pdf
+  last_verified: '2026-10-26'
+  hours:
+    timezone: ET
+    mon_fri: '8am-6pm'

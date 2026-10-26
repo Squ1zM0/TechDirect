@@ -1,0 +1,17 @@
+id: kartners
+name: Kartners Bathroom Accessories
+website: https://www.kartners.com/
+categories:
+- bathroom-systems
+aliases: []
+support:
+- category: bathroom-systems
+  department: Customer Support
+  phone: '+18774903537'
+  country: US
+  notes: "Solid-brass bathroom accessories; HQ Port Coquitlam, BC, Canada, 1120-2375 Fremont St, V3B 0N9. Direct 604-628-0567 (Canada) and orders@kartners.com also published. Filed toll-free number is North American; Canadian HQ noted."
+  source: https://www.kartners.com/contact
+  last_verified: '2026-10-26'
+  hours:
+    timezone: "PT"
+    mon_fri: "8:00 AM - 4:30 PM"

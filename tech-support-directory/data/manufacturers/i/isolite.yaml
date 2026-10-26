@@ -1,0 +1,14 @@
+id: isolite
+name: Isolite Corporation
+website: https://isolite.com/
+categories:
+- electrical
+aliases: []
+support:
+- category: electrical
+  department: Technical Support
+  phone: '+18009675573'
+  country: US
+  notes: "Emergency lighting inverters; number labeled Isolite Technical Support in the manufacturer E3MAX inverter specification document. HQ toll-free 800-888-5483, West (San Luis Obispo, CA) 800-799-5343, direct 610-647-8200, support@isolite.com; HQ Berwyn, PA."
+  source: https://isolite.com/downloads/E3MAX-3P-ISOLITE-Boilerplate-Manual.pdf
+  last_verified: '2026-10-26'

@@ -1,0 +1,13 @@
+id: zebra-instruments
+name: "Zebra Instruments"
+website: https://www.zebrainstruments.com
+categories: [electrical]
+aliases: []
+support:
+  - category: electrical
+    department: Customer Support
+    phone: "+15128697000"
+    country: US
+    notes: "Salado TX; founded 2004. HVAC/R diagnostic instruments (UZ-1 etc.); closest vocabulary term: electrical. Distinct from Zebra Technologies (barcode/printers); do not conflate."
+    source: "https://trutechtools.com/content/brands/zebra/documents/zebra-made-in-usa-letter.pdf"
+    last_verified: "2026-10-26"

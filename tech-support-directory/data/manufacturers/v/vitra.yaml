@@ -1,0 +1,13 @@
+id: vitra
+name: "Vitra"
+website: https://www.vitra.com
+categories: [commercial-fixtures]
+aliases: []
+support:
+  - category: commercial-fixtures
+    department: Warranty Support
+    phone: "+18003369780"
+    country: US
+    notes: "Warranty-claims line per Vitra warranty doc. Closest vocabulary term: commercial-fixtures (furniture brand; no exact term exists)."
+    source: "https://legistarweb-production.s3.amazonaws.com/uploads/attachment/pdf/1531308/exhibit_2_vitra.pdf"
+    last_verified: "2026-10-26"

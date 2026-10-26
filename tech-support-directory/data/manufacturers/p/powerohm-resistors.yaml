@@ -1,0 +1,13 @@
+id: powerohm-resistors
+name: Powerohm Resistors
+website: https://www.hubbell.com/powerohm/en
+categories: [electrical]
+aliases: []
+support:
+  - category: electrical
+    department: Customer Support
+    phone: "+18593848088"
+    country: US
+    notes: "Hubbell brand; 580 Centre View Blvd, Crestview Hills, KY. Older catalog numbers differ; the Hubbell brand-page number is used."
+    source: "https://www.hubbell.com/powerohm/en"
+    last_verified: "2026-10-26"

@@ -1,0 +1,13 @@
+id: enphase
+name: "Enphase Energy"
+categories:
+- electrical
+aliases: ["ENPHASE ENERGY"]
+support:
+- category: electrical
+  department: "Customer Support"
+  phone: "+18777974743"
+  country: US
+  notes: "Enphase Energy. US/Canada line; Enphase notes 24/7 remote support. The separate Enphase Care line 1-888-674-2730 is not filed as primary. Email support@enphase.com. Solar microinverters and energy systems; electrical is the closest vocabulary term. Covers xref spellings Enphase and ENPHASE ENERGY."
+  source: "https://support.enphase.com/s/question/0D5Ps00001Hlz2oKAB/enphase-2012-system-with-envoy-r-m215-replace-microinverter-safely"
+  last_verified: "2026-10-26"

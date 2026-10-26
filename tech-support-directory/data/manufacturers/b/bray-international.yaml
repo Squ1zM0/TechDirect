@@ -1,0 +1,13 @@
+id: bray-international
+name: Bray International
+website: https://www.bray.com
+categories: [valves]
+aliases: ["Bray International, Inc.", "Bray"]
+support:
+  - category: valves
+    department: Customer Support
+    phone: "+12818234700"
+    country: US
+    notes: "Bray International, Inc., 7402 N Eldridge Pkwy, Houston, TX 77041, manufacturer of butterfly, ball and globe valves, actuators and flow-control accessories; Flow-Tek is a Bray subsidiary. Commercial Division sales line 1-888-412-2729 also published on Bray commercial submittals."
+    source: "https://www.dnow.com/bray"
+    last_verified: "2026-10-26"

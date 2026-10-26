@@ -1,0 +1,14 @@
+id: knaack
+name: Knaack LLC
+website: https://knaack.com/
+categories:
+- hardware
+aliases: []
+support:
+- category: hardware
+  department: Customer Support
+  phone: '+18004567865'
+  country: US
+  notes: "Jobsite storage and truck and van storage; KNAACK and WEATHER GUARD, 420 E. Terra Cotta Ave., Crystal Lake, IL 60014. Email Knaack.OrderEntry@wernerco.com; part of WernerCo per the order-entry email domain. WEATHER GUARD service-parts line 888-523-3370, Mon-Fri 8:00 AM-5:00 PM EST, per a WEATHER GUARD manual, noted only."
+  source: https://www.actionupfitting.com/images/ePIM/original/24-00019.pdf
+  last_verified: '2026-10-26'

@@ -1,0 +1,13 @@
+id: flanders
+name: "Flanders"
+categories:
+- hvac
+aliases: []
+support:
+- category: hvac
+  department: "Customer Support"
+  phone: "+18882232003"
+  country: US
+  notes: "Flanders Corporation, now AAF Flanders (AAF International), Washington NC (531 Flanders Filters Road). Number from a 2020 AAF document, Louisville KY. Legacy Flanders Customer Service toll-free 1-800-800-2210 and customerservice@flanderscorp.com noted as the legacy line. Air filtration; hvac is the closest vocabulary term."
+  source: "http://sc82apps.aafintl.com/-/media/files/aaf/commercial-and-industrial/industries/commercial/commercial_buildings-200.pdf?la=en&hash=0D9C881AFDAFE622B84933EB0D9D9DF342620A0A"
+  last_verified: "2026-10-26"

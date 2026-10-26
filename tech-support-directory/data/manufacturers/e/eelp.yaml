@@ -1,0 +1,13 @@
+id: eelp
+name: EELP
+website: https://eelp.net
+categories: [electrical]
+aliases: ["EELP Inc.", "EELP Lighting", "EELP Life Safety & Lighting"]
+support:
+  - category: electrical
+    department: Customer Support
+    phone: "+18004904496"
+    country: US
+    notes: "EELP, Inc. (Trevose, PA) life-safety products including exits, emergency units, inverters and battery back-up ballasts, plus the VersaLED general-lighting line. Toll-free line from the company's own site and credit application; fax 877-634-6887 also published."
+    source: "https://test.eelp.net/"
+    last_verified: "2026-10-26"

@@ -1,0 +1,16 @@
+id: emc-fasteners
+name: EMC Fasteners
+website: https://www.emcfasteners.com
+categories: [hardware]
+aliases: ["EMC Fasteners & Tools", "Ebinger Manufacturing Co"]
+support:
+  - category: hardware
+    department: Customer Support
+    phone: "+12484868880"
+    country: US
+    notes: "EMC Fasteners & Tools (Ebinger Manufacturing Co, Brighton, MI) screws and related merchandise for the electrical, plumbing and HVAC trades: fasteners, anchor kits, threaded rod, wire ties, tools and safety equipment; also home of Jets Gloves. Number from the company's own spec sheets; toll-free 800-688-8878 and fax 248-486-8080 also published."
+    source: "https://www.emcfasteners.com/spec_sheets/2holeemtstrap.pdf"
+    last_verified: "2026-10-26"
+    hours:
+      timezone: "ET"
+      mon_fri: "8:00 AM - 5:00 PM"

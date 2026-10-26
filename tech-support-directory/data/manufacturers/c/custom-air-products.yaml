@@ -1,0 +1,16 @@
+id: custom-air-products
+name: Custom Air Products
+website: http://customairproducts.com
+categories:
+  - hvac
+aliases:
+  - Custom Air Products & Services
+  - CAPS
+support:
+  - category: Customer Support
+    department: Customer Support
+    phone: "+17134609009"
+    country: US
+    notes: "Full-service HVAC company specializing in design, construction, installation, modification, and servicing of industrial and commercial air conditioning equipment; custom-built equipment manufactured in Houston, TX, founded 1996. Toll-free 866-464-4274 also published."
+    source: "https://customairproducts.com/green-hvac-manufacturer/"
+    last_verified: "2026-10-26"

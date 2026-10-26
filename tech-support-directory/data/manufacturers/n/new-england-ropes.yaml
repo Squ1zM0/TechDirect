@@ -1,0 +1,13 @@
+id: new-england-ropes
+name: New England Ropes
+website: https://www.neropes.com/about-us/teufelberger-corporate/
+categories: [hardware]
+aliases: []
+support:
+  - category: hardware
+    department: Customer Support
+    phone: "+15086788200"
+    country: US
+    notes: "New England Ropes, Fall River MA; part of the Teufelberger corporate family (Teufelberger acquired New England Ropes); email neropes@teufelberger.com."
+    source: "https://www.neropes.com/about-us/teufelberger-corporate/"
+    last_verified: "2026-10-26"

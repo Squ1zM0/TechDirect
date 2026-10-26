@@ -1,0 +1,13 @@
+id: carr-lane
+name: Carr Lane Manufacturing
+website: https://www.carrlane.com/about-carr-lane/frequently-asked-questions
+categories: [hardware]
+aliases: ["Carr Lane Mfg."]
+support:
+  - category: hardware
+    department: Customer Support
+    phone: "+13146476200"
+    country: US
+    notes: "Carr Lane Manufacturing Co. general/customer service line, St. Louis, MO. Email cs@carrlane.com. Tooling components, clamps and fixturing."
+    source: "https://www.carrlane.com/about-carr-lane/frequently-asked-questions"
+    last_verified: "2026-10-26"

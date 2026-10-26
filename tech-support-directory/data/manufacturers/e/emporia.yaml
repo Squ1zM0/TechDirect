@@ -1,0 +1,13 @@
+id: emporia
+name: Emporia Energy
+website: https://www.emporiaenergy.com
+categories: [electrical]
+aliases: ["Emporia"]
+support:
+  - category: electrical
+    department: Customer Support
+    phone: "+18443676742"
+    country: US
+    notes: "Emporia Energy (Emporia) Vue smart home energy monitors, EV chargers, smart plugs and battery products. Number published on the company's own site as 844-EMPORIA (367-6742); email support@emporiaenergy.com also published."
+    source: "https://www.emporiaenergy.com/home-energy-management/"
+    last_verified: "2026-10-26"

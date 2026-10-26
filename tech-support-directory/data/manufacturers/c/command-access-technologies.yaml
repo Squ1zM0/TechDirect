@@ -1,0 +1,14 @@
+id: command-access-technologies
+name: Command Access Technologies
+website: http://commandaccess.com/
+categories: [hardware]
+aliases: ["Command Access Technology", "Command Access"]
+support:
+  - category: hardware
+    department: Customer Support
+    phone: "+18886222377"
+    email: orders@commandaccess.com
+    country: US
+    notes: "Command Access Technologies, Yorba Linda, CA (founded 1999); electrified locking hardware — locks, exit devices, power supplies, power transfer, hinges. Company advertises in-house technical support and US-made products with a 3-year warranty. Hours Mon-Fri 7:30 AM-4:30 PM PT per listing. Category mapped to closest vocabulary term (access-control hardware)."
+    source: "https://www.commandaccess.com/"
+    last_verified: "2026-10-26"

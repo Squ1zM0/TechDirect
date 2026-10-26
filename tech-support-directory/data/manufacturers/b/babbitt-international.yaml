@@ -1,0 +1,12 @@
+id: babbitt-international
+name: Babbitt International
+categories: [valves]
+aliases: []
+support:
+  - category: valves
+    department: Customer Support
+    phone: "+18008358012"
+    country: US
+    notes: "Level-control instrumentation and chainwheel valve actuators, Houston TX. Toll-free line published on babbittinternational.com; local line 713-467-4438 also published. Filed separately from Babbitt Chainwheels (Babbitt Steam Specialty, New Bedford MA), which publishes a different HQ and toll-free line."
+    source: "https://www.babbittinternational.com/babbitt-chainwheels.html"
+    last_verified: "2026-10-26"

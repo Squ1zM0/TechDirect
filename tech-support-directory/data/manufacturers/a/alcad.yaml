@@ -1,0 +1,13 @@
+id: alcad
+name: Alcad
+website: https://alcadelectronics.com
+categories: [electrical]
+aliases: ["ALCAD Electronics"]
+support:
+  - category: electrical
+    department: Customer Support
+    phone: "+34943639660"
+    country: ES
+    notes: "ALCAD Electronics, S.L., Pol. Ind. Arreche-Ugalde 1, Apdo. 455, 20305 Irun, Spain. Manufacturer of TV distribution, antennas and multimedia reception equipment. No US line is published; the Spanish headquarters line is used. Email info@alcad.net."
+    source: "https://alcadelectronics.com/uploads/archivos/CATALOGUE_ALCAD_EN_MULTIMEDIA_TV.pdf"
+    last_verified: "2026-10-26"

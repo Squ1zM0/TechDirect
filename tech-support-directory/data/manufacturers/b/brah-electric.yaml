@@ -1,0 +1,16 @@
+id: brah-electric
+name: BRAH Electric
+website: https://www.brahelectric.com
+categories: [electrical]
+aliases: ["BRAH ELECTRIC"]
+support:
+  - category: electrical
+    department: Customer Support
+    phone: "+18553552724"
+    country: US
+    notes: "BRAH Electric, 6078 Corte Del Cedro, Suite B, Carlsbad, CA 92011, aftermarket manufacturer of power-distribution parts (contactors, bus plugs, contact kits) engineered as 1:1 direct replacements for Telemecanique, Eaton/Cutler-Hammer, ABB, GE and Siemens OEM parts. Hours M-F 6 AM-5 PM PST. Email sales@brahelectric.com. 2-year warranty (contact kits 6 months). Phone and email corroborated by the company's product datasheets as well as its product pages."
+    source: "https://brah-electric-dev.vercel.app/Products/Motor-Control-AC-Contactor-Telemecanique/LC1D1810-M7"
+    last_verified: "2026-10-26"
+    hours:
+      timezone: "PT"
+      mon_fri: "6:00 AM - 5:00 PM"

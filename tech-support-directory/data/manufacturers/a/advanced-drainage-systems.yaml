@@ -1,0 +1,13 @@
+id: advanced-drainage-systems
+name: Advanced Drainage Systems
+website: https://www.adspipe.com
+categories: [drainage]
+aliases: ["ADS"]
+support:
+  - category: drainage
+    department: Customer Support
+    phone: "+18442377479"
+    country: US
+    notes: "Current ADS customer service queue number 1-844-ADS-PIPE per ADS official FAQ (orders, product questions, pricing). Legacy 1-800-821-6710 also appears on ADS documents. Email info@adspipe.com."
+    source: "https://www.adspipe.com/resources/faqs"
+    last_verified: "2026-10-26"

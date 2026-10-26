@@ -1,0 +1,16 @@
+id: maxim
+name: Maxim
+website: https://www.analog.com
+categories:
+- electrical
+aliases:
+- Maxim Integrated
+- Maxim Integrated Products
+support:
+- category: electrical
+  department: Customer Support
+  phone: "+17813294700"
+  country: US
+  notes: 'Parent Analog Devices: Maxim Integrated Products acquired by Analog Devices Aug 2021. ADI publishes no phone-based tech support (support via analog.com); filed number is the ADI corporate main line (Norwood/Wilmington, MA). Semiconductors, integrated circuits. No analog-devices file exists in TechDirect.'
+  source: https://corporateofficehq.com/analog-devices-corporate-office/
+  last_verified: "2026-10-26"

@@ -1,0 +1,14 @@
+id: revcor
+name: Revcor
+website: https://revcor.com/
+categories:
+- airflow
+aliases: []
+support:
+- category: airflow
+  department: Customer Support
+  phone: '+18003238261'
+  country: US
+  notes: Revcor, Inc., 251 Edwards Ave, Carpentersville, IL. Local 847-428-4411. Fan blades and blower wheels.
+  source: revcor.com
+  last_verified: '2026-10-26'

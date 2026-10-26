@@ -1,0 +1,13 @@
+id: colonial-wire-cable
+name: Colonial Wire & Cable
+website: http://colonialwire.com/
+categories: [electrical]
+aliases: ["Colonial Wire and Cable", "Colonial Wire & Cable Co., Inc."]
+support:
+  - category: electrical
+    department: Customer Support
+    phone: "+16312348500"
+    country: US
+    notes: "Colonial Wire & Cable Co., Inc., Hauppauge, NY (established 1944, family-owned); wire and cable made in the USA for electrical distribution. HQ line per NEMA member listing and company listings; Edison, NJ branch (732) 287-1557 also published. Distinct from the Sterling, MA electrical contractor of a similar name — not merged."
+    source: "https://www.nema.org/manufacturers/view/colonial-wire-cable-co-inc-"
+    last_verified: "2026-10-26"

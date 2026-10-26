@@ -1,0 +1,16 @@
+id: contrinex
+name: Contrinex
+website: https://www.us.contrinex.com/
+categories: [electrical]
+aliases: ["Contrinex Americas"]
+support:
+  - category: electrical
+    department: Customer Support
+    phone: "+19726853010"
+    country: US
+    notes: "Contrinex Americas (Coppell, TX) US office phone per the official US site; email customer.service@contrinex.com. Swiss parent Contrinex AG (Corminboeuf, Switzerland) makes inductive/photoelectric sensors, RFID and safety light curtains for factory automation. Toll-free 866-289-2899 also published in distributor directories; the direct US office number is used here."
+    source: "https://www.us.contrinex.com/"
+    last_verified: "2026-10-26"
+    hours:
+      timezone: "CT"
+      mon_fri: "8:00 AM - 5:00 PM"

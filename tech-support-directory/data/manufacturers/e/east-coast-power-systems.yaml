@@ -1,0 +1,16 @@
+id: east-coast-power-systems
+name: East Coast Power Systems
+website: https://ecpowersystems.com
+categories: [electrical]
+aliases: []
+support:
+  - category: electrical
+    department: Customer Support
+    phone: "+17327396400"
+    country: US
+    notes: "East Coast Power Systems (Tinton Falls, NJ; parent company formed 1999, divisions East Coast Panelboard, East Coast Control & Automation, East Coast Power Services) custom panelboards, switchgear, critical power equipment and enclosures, sold through distributors. Number from the company's business listing; email sales@ecpowersystems.com."
+    source: "https://ecpowersystems.com/"
+    last_verified: "2026-10-26"
+    hours:
+      timezone: "ET"
+      mon_fri: "9:00 AM - 3:00 PM"

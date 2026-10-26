@@ -1,0 +1,13 @@
+id: signamax
+name: SignaMax
+website: https://signamax.com
+categories: [electrical]
+aliases: []
+support:
+  - category: electrical
+    department: Technical Support
+    phone: "+18004462377"
+    country: US
+    notes: "Signamax Connectivity Systems (structured copper/fiber connectivity, Ethernet switches, media converters), Miami, FL. Technical support at the same toll-free number, ext. 201; local phone 305-944-7710; email info@signamax.com."
+    source: "https://signamax.com/wp-content/uploads/2024/06/SIGNAMAX-FO-065-1060-V1.pdf"
+    last_verified: "2026-10-26"

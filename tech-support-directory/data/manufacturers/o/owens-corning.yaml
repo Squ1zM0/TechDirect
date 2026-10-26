@@ -1,0 +1,13 @@
+id: owens-corning
+name: Owens Corning
+website: https://www.owenscorning.com/en-us/insulation
+categories: [hvac]
+aliases: []
+support:
+  - category: hvac
+    department: Customer Support
+    phone: "+18004387465"
+    country: US
+    notes: "1-800-GET-PINK. General contact published on Owens Corning's insulation pages for insulation, roofing, and other product inquiries; not labelled technical support, so recorded as Customer Support. Insulation (incl. duct insulation) is the xref trade use."
+    source: "https://www.owenscorning.com/en-us/insulation"
+    last_verified: "2026-10-26"

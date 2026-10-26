@@ -1,0 +1,16 @@
+id: alarm-controls
+name: Alarm Controls
+website: https://www.alarmcontrols.com
+categories: [electrical]
+aliases: ["Alarm Controls Corporation"]
+support:
+  - category: electrical
+    department: Customer Support
+    phone: "+18006455538"
+    country: US
+    notes: "Alarm Controls Corporation, 19 Brandywine Drive, Deer Park, NY 11729. ASSA ABLOY group brand since 1971; access-control hardware (electric strikes, magnetic locks, keypads, power supplies). The manufacturer's catalog labels 800-645-5538 as Customer Support, 8:30 AM-5:00 PM ET. Email info@alarmcontrols.com. Not Alarm.com, a different company."
+    source: "https://cdn2.hubspot.net/hubfs/54495/AC_Short-Form_Catalog.pdf"
+    last_verified: "2026-10-26"
+    hours:
+      timezone: "ET"
+      mon_fri: "8:30 AM - 5:00 PM"

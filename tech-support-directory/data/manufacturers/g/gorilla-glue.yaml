@@ -1,0 +1,13 @@
+id: gorilla-glue
+name: 'Gorilla Glue'
+categories:
+- hardware
+aliases: []
+support:
+- category: hardware
+  department: 'Customer Support'
+  phone: '+18009663458'
+  country: US
+  notes: 'Email customercare@gorillaglue.com. Hours Mon - Thu 8 AM - 4 PM EST, Fri 8 AM - 12 PM EST. Adhesives, so hardware is the closest vocabulary term.'
+  source: 'https://gorillatough.com/about'
+  last_verified: '2026-10-26'

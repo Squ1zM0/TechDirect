@@ -1,0 +1,13 @@
+id: accurate-products
+name: Accurate Products
+website: https://www.accurate-prod.com/
+categories: [hardware]
+aliases: ["Accurate Products Inc.", "Accurate Products Co."]
+support:
+  - category: hardware
+    department: Customer Support
+    phone: "+17738782200"
+    country: US
+    notes: "Accurate Products Inc., 4645 N Ravenswood Ave, Chicago, IL 60640. Midwest manufacturer of molded rubber products: extruded rubber parts, grommets, bumpers, stoppers, vinyl caps and O-rings. Email sales@accurate-prod.com. Not Accurate Products Corporation (P) Ltd. of Chennai, India."
+    source: "https://www.accurate-prod.com/custom-products/custom-plastic-product-manufacturing/"
+    last_verified: "2026-10-26"

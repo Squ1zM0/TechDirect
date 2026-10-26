@@ -1,0 +1,13 @@
+id: centrotherm
+name: Centrotherm
+website: https://www.centrotherm.us.com/products/innoflue-polypropylene-vent-systems/concentric/terminations
+categories: [hvac]
+aliases: ["Centrotherm Eco Systems"]
+support:
+  - category: hvac
+    department: Customer Support
+    phone: "+15184343400"
+    country: US
+    notes: "Centrotherm Eco Systems LLC (Waterford, NY) line published on centrotherm.us.com product pages; customer service team per the same pages. Email info@centrotherm.us.com. A toll-free 877-434-3432 also appears in older Centrotherm literature. InnoFlue polypropylene venting systems."
+    source: "https://www.centrotherm.us.com/products/innoflue-polypropylene-vent-systems/concentric/terminations"
+    last_verified: "2026-10-26"

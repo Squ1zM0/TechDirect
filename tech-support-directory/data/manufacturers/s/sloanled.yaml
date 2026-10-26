@@ -1,0 +1,13 @@
+id: sloanled
+name: SloanLED
+website: https://sloanled.com
+categories: [electrical]
+aliases: []
+support:
+  - category: electrical
+    department: Technical Support
+    phone: "+13252274577"
+    country: US
+    notes: "SloanLED, San Angelo, TX (LED modules, power supplies and lighting systems for signage and architectural lighting); email info@sloanled.com. Distinct company from Sloan (plumbing, separate TechDirect file sloan)."
+    source: "https://sloanled.com/downloads/vl5-nano-12v-install-guide.pdf"
+    last_verified: "2026-10-26"

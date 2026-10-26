@@ -1,0 +1,14 @@
+id: hillsdale-terminal
+name: Hillsdale Terminal
+website: http://www.hillsdaleterminal.com/
+categories:
+- electrical
+aliases: []
+support:
+- category: electrical
+  department: Customer Support
+  phone: '+18004473150'
+  country: US
+  notes: 'Hillsdale Terminal, Hillsdale, MI. Local 517-849-2505; place listing hours Mon-Fri 8am-4:30pm ET. Crimp solderless terminals.'
+  source: https://marshallsales.com/wp-content/uploads/2025/11/Hillsdale-Terminal.pdf
+  last_verified: '2026-10-26'

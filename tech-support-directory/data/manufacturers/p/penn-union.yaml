@@ -1,0 +1,13 @@
+id: penn-union
+name: Penn-Union
+website: https://www.penn-union.com
+categories: [electrical]
+aliases: ["Penn-Union Corporation", "PENN-UNION CORP", "Pennunion"]
+support:
+  - category: electrical
+    department: Customer Support
+    phone: "+18147341631"
+    country: US
+    notes: "Penn-Union Corporation, Edinboro, PA (229 Waterford Street). General company phone published on penn-union.com; in-house engineering team consultations offered, but the published number is a general contact, so recorded as Customer Support. Covers xref spellings Penn-Union, PENN-UNION CORP, and Pennunion. Compression connectors, lugs, grounding; founded 1928."
+    source: "https://www.penn-union.com/products"
+    last_verified: "2026-10-26"

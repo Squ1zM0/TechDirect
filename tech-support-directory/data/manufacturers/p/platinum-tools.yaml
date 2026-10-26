@@ -1,0 +1,13 @@
+id: platinum-tools
+name: Platinum Tools
+website: https://www.platinumtools.com
+categories: [electrical]
+aliases: ["Platinum Tools, Inc."]
+support:
+  - category: electrical
+    department: Customer Support
+    phone: "+18007495783"
+    country: US
+    notes: "Platinum Tools, Inc., founded 1997. Number published in a Platinum Tools company announcement carried by SecurityInfoWatch; info@platinumtools.com also published in the same announcement. Not labelled technical support, so recorded as Customer Support. Wire and cable preparation, installation, and hand-termination tools: EZ-RJ45 and ezEX-RJ45 crimp systems, punchdown tools, testers, connectors."
+    source: "https://www.securityinfowatch.com/integrators/installation-tools-equipment/product/12303970/platinum-tools-platinum-tools-ezex-rj45-termination-system"
+    last_verified: "2026-10-26"

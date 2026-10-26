@@ -1,0 +1,13 @@
+id: boltswitch
+name: Boltswitch
+website: https://www.boltswitch.com
+categories: [electrical]
+aliases: ["Boltswitch, Inc."]
+support:
+  - category: electrical
+    department: Customer Support
+    phone: "+18154596900"
+    country: US
+    notes: "Boltswitch, Inc., 6208 Commercial Rd, Crystal Lake, IL 60014, maker of UL-listed bolted pressure contact switches (30-6000 A) since 1953; now part of Socomec Group. Email info@boltswitch.com. Manufacturer homepage text-fetch was bot-gated, so the number is corroborated by the ThomasNet profile (company-authored description), Manta, and a Boltswitch case-study PDF, all showing (815) 459-6900."
+    source: "https://www.thomasnet.com/company/boltswitch-inc-441495/profile?heading=81891004"
+    last_verified: "2026-10-26"

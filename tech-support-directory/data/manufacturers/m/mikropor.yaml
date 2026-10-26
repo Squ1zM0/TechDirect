@@ -1,0 +1,15 @@
+id: mikropor
+name: Mikropor America
+website: https://www.mikroporamerica.com
+categories:
+- airflow
+aliases:
+- Mikropor
+support:
+- category: airflow
+  department: Customer Support
+  phone: "+12198781550"
+  country: US
+  notes: 'Subsidiary of Mikropor Inc, Michigan City, IN, founded 2011 (US operation), CAGI member. Brands Mikropor, Drytec, Mia Air. Refrigerated/desiccant air dryers, nitrogen generators, compressed-air filters. Email info@mikroporamerica.com / support@mikroporamerica.com. Category fit noted: filtration is not in the vocabulary; closest is airflow.'
+  source: https://www.mikroporamerica.com/library/
+  last_verified: "2026-10-26"

@@ -1,0 +1,13 @@
+id: gates
+name: 'Gates'
+categories:
+- hardware
+aliases: []
+support:
+- category: hardware
+  department: 'Technical Support'
+  phone: '+13037445800'
+  country: US
+  notes: 'Industrial Belt Drives warranty document. Belts and hoses, so hardware is the closest vocabulary term.'
+  source: 'https://www.manualshelf.com/manual/gates/tckwp306m/warranty-english.html'
+  last_verified: '2026-10-26'

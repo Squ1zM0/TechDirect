@@ -1,0 +1,12 @@
+id: baso-gas-products
+name: BASO Gas Products
+categories: [hvac-controls]
+aliases: ["BASO", "BASO Gas Products LLC"]
+support:
+  - category: hvac-controls
+    department: Customer Support
+    phone: "+18772276427"
+    country: US
+    notes: "Gas valves, ignition controls and gas safety products, Watertown WI (450 East Horseshoe Road). BASO Gas Products LLC is a Johnson Controls company; its own published line 1-877-BASOGAS is retained here rather than resolving to the Johnson Controls corporate contact. Line published in BASO installation instructions."
+    source: "https://www.baso.com/wp-content/uploads/2021/10/baso-ins-g960_revE.pdf"
+    last_verified: "2026-10-26"

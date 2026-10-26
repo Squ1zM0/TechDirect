@@ -1,0 +1,16 @@
+id: steiner-industries
+name: "Steiner Industries"
+website: "http://www.steinerindustries.com/"
+categories: [hardware]
+aliases: []
+support:
+  - category: hardware
+    department: Customer Support
+    phone: "+18006214515"
+    country: US
+    notes: "Steiner Industries welding safety and PPE products, Chicago IL (5801 N. Tripp Ave). Toll-free line; email info@steinerindustries.com."
+    source: "http://www1.mscdirect.com/MSDS/MSDS00057/93215929-20170131.PDF"
+    last_verified: "2026-10-26"
+    hours:
+      timezone: "CT"
+      mon_fri: "8:00 AM - 5:00 PM"

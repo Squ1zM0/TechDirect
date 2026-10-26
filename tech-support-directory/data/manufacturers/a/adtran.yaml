@@ -1,0 +1,16 @@
+id: adtran
+name: ADTRAN
+website: https://www.adtran.com/support
+categories: [electrical]
+aliases: ["Adtran"]
+support:
+  - category: electrical
+    department: Technical Support
+    phone: "+18884238726"
+    country: US
+    notes: "ADTRAN Customer Care Center (888-4ADTRAN) for opening support cases and service-affecting emergencies; general business hours Mon-Fri 7:00 AM - 7:00 PM CT per ADTRAN ProServices documents."
+    source: "https://portal.adtran.com/web/page/portal/Adtran/wp_support_rmapolicy"
+    last_verified: "2026-10-26"
+    hours:
+      timezone: "CT"
+      mon_fri: "7:00 AM - 7:00 PM"

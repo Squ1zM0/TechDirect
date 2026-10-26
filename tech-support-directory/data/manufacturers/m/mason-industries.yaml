@@ -1,0 +1,14 @@
+id: mason-industries
+name: Mason Industries
+website: http://www.mason-ind.com
+categories:
+- hvac
+aliases: []
+support:
+- category: hvac
+  department: Customer Support
+  phone: "+16313480282"
+  country: US
+  notes: 'Vibration isolation, seismic restraints, expansion joints. Anaheim office 714-535-2727 also in catalog. WARNING: 800-782-5742 in one Mason-related document is Acoustical Solutions'' number, NOT Mason''s; do not use.'
+  source: https://www.scribd.com/document/446072368/Breve-catalogo-de-productos-MASON-Industries
+  last_verified: "2026-10-26"

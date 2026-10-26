@@ -1,0 +1,14 @@
+id: ingersoll-cutting-tools
+name: Ingersoll Cutting Tools
+website: https://ingersoll-imc.com/
+categories:
+- hardware
+aliases: []
+support:
+- category: hardware
+  department: Customer Support
+  phone: '+18153876600'
+  country: US
+  notes: 'Ingersoll Cutting Tools, Rockford, IL. Page lists both Tech Support and Customer Service under the same number; no separate numbers are published, so the single number is listed as Customer Support with this note. Milling, drilling, turning cutting tools; IMC Group. Distinct from Ingersoll Rand and from Ingersoll Machine Tools (Camozzi, Rockford, 815-987-6000); do not conflate.'
+  source: https://ingersoll-imc.com/industry/aerospace
+  last_verified: '2026-10-26'

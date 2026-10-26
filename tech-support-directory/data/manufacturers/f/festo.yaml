@@ -1,0 +1,13 @@
+id: festo
+name: "Festo"
+categories:
+- electrical
+aliases: []
+support:
+- category: electrical
+  department: "Technical Support"
+  phone: "+18664633786"
+  country: US
+  notes: "Festo Corporation, Hauppauge NY; North America contact center Mississauga ON. Number is 1-866-GO-FESTO; email product.support@us.festo.com. Ordering line 1-800-993-3786 (customer.service@us.festo.com) noted as alternate. Pneumatics and automation; electrical is the closest vocabulary term."
+  source: "https://ftp.festo.com/public/pneumatic/SOFTWARE_SERVICE/Documentation/2011/US/NEBV-S1W25_ENUS.PDF"
+  last_verified: "2026-10-26"

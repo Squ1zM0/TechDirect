@@ -1,0 +1,14 @@
+id: flitz
+name: "Flitz"
+website: "https://www.flitz.com/product-warranty/"
+categories:
+- hardware
+aliases: []
+support:
+- category: hardware
+  department: "Customer Support"
+  phone: "+12625345898"
+  country: US
+  notes: "Flitz International, 821 Mohr Avenue, Waterford WI 53185, since 1977. Official warranty page directs warranty-service callers to this number; email orders@flitz.com. Metal polish and cleaning; hardware is the closest vocabulary term."
+  source: "https://www.flitz.com/product-warranty/"
+  last_verified: "2026-10-26"

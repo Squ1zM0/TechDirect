@@ -1,0 +1,13 @@
+id: halo-lighting
+name: 'Halo Lighting'
+categories:
+- electrical
+aliases: []
+support:
+- category: electrical
+  department: 'Technical Support'
+  phone: '+18005533879'
+  country: US
+  notes: 'Cooper Lighting Solutions 24/7 technical phone support. Cooper Lighting Solutions brand. Covers batch spellings Halo and Halo Lighting.'
+  source: 'https://www.cooperlighting.com/global/services-and-software'
+  last_verified: '2026-10-26'

@@ -1,0 +1,13 @@
+id: lift-all
+name: Lift-All
+website: "https://www.lift-all.com/"
+categories: [hardware]
+aliases: ["Lift-All Company", "Lift-All Company, Inc."]
+support:
+  - category: hardware
+    department: Customer Support
+    phone: "+18009091964"
+    country: US
+    notes: "Lift-All Company, Inc., Landisville, PA; industrial web slings, roundslings, chain and wire rope slings and rigging hardware. Number published on Lift-All's own product page (Location & Contact). Category hardware per the milwaukee-tool.yaml precedent (no tools category exists in the vocabulary)."
+    source: "https://lift-all.com/products/web-slings/"
+    last_verified: "2026-10-26"

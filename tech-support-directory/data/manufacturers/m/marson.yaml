@@ -1,0 +1,14 @@
+id: marson
+name: Marson
+website: https://www.hfsindustrial.com
+categories:
+- hardware
+aliases: []
+support:
+- category: hardware
+  department: Customer Support
+  phone: "+18008262884"
+  country: US
+  notes: Parent Howmet Fastening Systems. Blind rivets, rivet tools (Marson 301-E). Howmet Fastening Systems Industrial Distribution, Tracy, CA; fax 800-573-2645. Thomasnet lists Marson among Howmet Fastening Systems' 21 brands. Marson has no standalone site; Howmet industrial site hosts Marson tool pages. Old Arconic Fastening Systems (412) 992-2500 not used (corporate, not Marson-specific). No howmet file exists in TechDirect, so own file with parent chain (not PARENT-RESOLVED).
+  source: https://www.hfsindustrial.com/pub/media/resources/images/image/h/o/howmet-301-e-tool-flyer.pdf
+  last_verified: "2026-10-26"

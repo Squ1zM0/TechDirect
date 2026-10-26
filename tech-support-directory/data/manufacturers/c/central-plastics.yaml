@@ -1,0 +1,13 @@
+id: central-plastics
+name: Central Plastics
+website: http://www.gfcp.com/
+categories: [piping-systems]
+aliases: ["Georg Fischer Central Plastics", "GFCP"]
+support:
+  - category: piping-systems
+    department: Customer Support
+    phone: "+18006543872"
+    country: US
+    notes: "Georg Fischer Central Plastics LLC (GFCP), Shawnee, OK; polyethylene (PE) pipe fittings for gas, potable water, wastewater, oilfield, mining, landfill, telecom and geothermal. Toll-free 1-800-654-3872 published on GFCP product specification sheets; local line (405) 273-6302 also published. Distinct from Central Plastics, Inc. of McPherson, KS (thermoplastic extrusions), which is not this brand."
+    source: "https://reece-external-product-img-store-prod.s3.amazonaws.com/Docs/SIGSCIE00021_1.pdf"
+    last_verified: "2026-10-26"

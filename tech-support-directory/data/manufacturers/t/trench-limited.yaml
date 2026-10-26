@@ -1,0 +1,16 @@
+id: trench-limited
+name: Trench Limited
+categories:
+- electrical
+aliases: []
+support:
+- category: electrical
+  department: Customer Support
+  phone: '+14167518570'
+  country: CA
+  notes: Trench Limited (Instrument Transformer Division), 390 Midwest Road, Scarborough, Ontario, Canada
+    M1P 3B5. Trench Group is headquartered in Berlin, Germany. The Bushing Division in Ajax, ON lists
+    905-426-2665 in a later brochure (noted, not primary). No US office number is published, so no US
+    line is invented.
+  source: https://pdf.directindustry.com/pdf/trench-group/trench-otaa/70418-501411.html
+  last_verified: '2026-10-26'

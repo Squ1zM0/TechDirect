@@ -1,0 +1,12 @@
+id: wheelock
+name: "Wheelock"
+categories: [electrical]
+aliases: []
+support:
+  - category: electrical
+    department: Technical Support
+    phone: "+18006312148"
+    country: US
+    notes: "Eaton life-safety operation, Long Branch NJ. Catalog: Customer Service option 2, Technical Support option 3 on the same number. Distinct Wheelock number, so its own file rather than parent-resolution to Eaton. Eaton's UK fire numbers (+44) found in the same search round are NOT used. No verified Wheelock site; website omitted (support via Eaton life-safety pages). Fire notification appliances. Parent: Eaton."
+    source: "https://dev.wheelock-products.com/media/brochures/FireandSecurity%20Catalog.pdf"
+    last_verified: "2026-10-26"

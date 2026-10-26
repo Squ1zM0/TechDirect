@@ -1,0 +1,13 @@
+id: amba-products
+name: Amba Products
+website: https://ambaproducts.com
+categories: [bathroom-systems]
+aliases: ["Amba"]
+support:
+  - category: bathroom-systems
+    department: Customer Support
+    phone: "+14043509738"
+    country: US
+    notes: "Amba Products, heated towel racks (electric cable-heated and liquid-filled/hydronic Jeeves collections, plus controllers and timers); contact number and email customerservice@ambaproducts.com published on the manufacturer's own site."
+    source: "http://ambaproducts.com/heated-towel-rack-collection-comparison-guide/"
+    last_verified: "2026-10-26"

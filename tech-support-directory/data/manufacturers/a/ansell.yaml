@@ -1,0 +1,12 @@
+id: ansell
+name: Ansell
+categories: [hardware]
+aliases: []
+support:
+  - category: hardware
+    department: Customer Support
+    phone: "+18008000444"
+    country: US
+    notes: "Gloves and PPE manufacturer; US customer service line published on ansell.com, email customerserviceus@ansell.com. No safety/PPE category exists in the TechDirect vocabulary, so hardware is used as the closest term."
+    source: "https://www.ansell.com/us/en/glove-finder/sustainable-healthcare-gloves"
+    last_verified: "2026-10-26"

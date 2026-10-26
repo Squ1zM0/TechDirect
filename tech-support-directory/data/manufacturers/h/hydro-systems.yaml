@@ -1,0 +1,15 @@
+id: hydro-systems
+name: Hydro Systems
+website: https://www.hydrosystem.com/
+categories:
+- bathroom-systems
+aliases:
+- Hydrosystems
+support:
+- category: bathroom-systems
+  department: Customer Support
+  phone: '+16617750686'
+  country: US
+  notes: 'Hydro Systems, Inc., Valencia, CA. Email hydro@hydrosystem.com. Whirlpool and bath systems.'
+  source: https://www.manualshelf.com/manual/hydro-systems/syd6032awp-whi-lh/installation-guide-english/page-5.html
+  last_verified: '2026-10-26'

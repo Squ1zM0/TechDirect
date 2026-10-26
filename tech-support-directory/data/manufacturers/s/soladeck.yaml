@@ -1,0 +1,13 @@
+id: soladeck
+name: SolaDeck
+website: https://soladeck.com
+categories: [electrical]
+aliases: []
+support:
+  - category: electrical
+    department: Customer Support
+    phone: "+17158309997"
+    country: US
+    notes: "SolaDeck PV enclosures by RSTC Enterprises Inc., Eau Claire, WI (flashed roof-mount PV junction/combiner boxes, UL 1741, Type 3R). Warranty claims line 866-367-7782 also published in the installation manual; email sales@soladeck.com."
+    source: "https://kizuna.ca/wp-content/uploads/2025/04/SolaDeck-0799-5B-Roof-Mount-PV-Junction-Box-Datasheet.pdf"
+    last_verified: "2026-10-26"

@@ -1,0 +1,13 @@
+id: beijer-electronics
+name: Beijer Electronics
+website: https://www.beijerelectronics.us
+categories: [electrical]
+aliases: []
+support:
+  - category: electrical
+    department: Technical Support
+    phone: "+18017086690"
+    country: US
+    notes: "Beijer Electronics, Inc. Americas support line (Salt Lake City, UT); sales also published at 801-708-6631; email support.americas@beijerelectronics.com. HMI, operator panels and automation products."
+    source: "https://www.beijerelectronics.us/en-US/industries--applications/Success___stories/Perfection___in___production"
+    last_verified: "2026-10-26"

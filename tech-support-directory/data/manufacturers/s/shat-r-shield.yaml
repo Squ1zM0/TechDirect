@@ -1,0 +1,16 @@
+id: shat-r-shield
+name: Shat-R-Shield
+website: https://www.shatrshield.com
+categories: [electrical]
+aliases: []
+support:
+  - category: electrical
+    department: Customer Support
+    phone: "+18002230853"
+    country: US
+    notes: "Shat-R-Shield Lighting Inc., Salisbury, NC (shatter-resistant lamps, LED fixtures, hazardous-location lighting). Five-year warranty on fixtures."
+    source: "https://www.shatrshield.com/downloads/m-1896/88d7227c9b8d43a6ac6e9d7e6682b418/srs_industrial_brochure_2025_web.pdf"
+    last_verified: "2026-10-26"
+    hours:
+      timezone: "ET"
+      mon_fri: "8:30 AM - 5:00 PM"

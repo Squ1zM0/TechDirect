@@ -1,0 +1,13 @@
+id: pasco-specialty-manufacturing
+name: Pasco Specialty & Manufacturing
+website: https://pascospecialty.com
+categories: [plumbing]
+aliases: ["Pasco", "PASCO Specialty & Mfg., Inc."]
+support:
+  - category: plumbing
+    department: Customer Support
+    phone: "+13105377782"
+    country: US
+    notes: "PASCO Specialty & Mfg., Inc., Lynwood, CA (11156 Wright Road); second plant Curtis Bay, MD (410) 360-5010. General company phone printed on manufacturer spec submittals; not labelled technical support, so recorded as Customer Support. Covers xref spellings Pasco and Pasco Specialty and Manufacturing. Specialty plumbing products, drains, fittings."
+    source: "https://pascospecialty.com/flyers/PASCO_5080_Web_1221.pdf"
+    last_verified: "2026-10-26"

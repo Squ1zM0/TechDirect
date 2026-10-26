@@ -1,0 +1,13 @@
+id: empro-shunts
+name: Empro Shunts
+website: https://www.emproshunts.com
+categories: [electrical]
+aliases: ["Empro"]
+support:
+  - category: electrical
+    department: Customer Support
+    phone: "+13178234478"
+    country: US
+    notes: "Empro Shunts (Indianapolis, IN) DC ammeter shunts, including busbar-mounted types. Number from business profiles (RocketReach); no official Empro contact page was found, so this is a weaker source. Weschler Instruments sells Empro shunts but its 800-903-9870 line is Weschler's, not Empro's, and was not used."
+    source: "https://rocketreach.co/empro-shunts-profile_b4644085fc5d7133"
+    last_verified: "2026-10-26"

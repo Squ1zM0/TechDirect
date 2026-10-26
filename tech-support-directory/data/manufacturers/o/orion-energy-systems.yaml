@@ -1,0 +1,13 @@
+id: orion-energy-systems
+name: Orion Energy Systems
+website: https://www.orionlighting.com/
+categories: [electrical]
+aliases: ["Orion Lighting"]
+support:
+  - category: electrical
+    department: Customer Support
+    phone: "+18006609340"
+    country: US
+    notes: "Orion Energy Systems, Inc. (NASDAQ: OESX), Manitowoc WI (2210 Woodland Drive); LED lighting + controls + EV charging; HQ direct 920-892-9340 also published. 'Orion Lighting' is the same company - orionlighting.com is Orion Energy Systems' official website (MarketBeat/ZoomInfo) - so the Orion Lighting row is covered by this file, not a separate file. Distinct from Orion West Lighting (equine) and Orion Smart Lighting (dealer)."
+    source: "https://www.marketbeat.com/stocks/NASDAQ/OESX/"
+    last_verified: "2026-10-26"

@@ -1,0 +1,13 @@
+id: lynn-ladder
+name: Lynn Ladder
+website: "https://lynnladder.com/credit-app-returns/"
+categories: [hardware]
+aliases: ["Lynn Ladder & Scaffolding Co.", "Lynn Ladder & Scaffolding Co., Inc."]
+support:
+  - category: hardware
+    department: Customer Support
+    phone: "+18002252510"
+    country: US
+    notes: "Lynn Ladder & Scaffolding Co., Inc., Lynn, MA (654 Chestnut St.); ladders and scaffolding manufacturer since 1946 (aluminum and fiberglass ladders, access ladders, scaffolding). Distinct company from Lynn Electronics (connectivity manufacturer, filed separately in this batch). Hardware category per the milwaukee-tool.yaml precedent. Number from Lynn Ladder's own site."
+    source: "https://lynnladder.com/credit-app-returns/"
+    last_verified: "2026-10-26"

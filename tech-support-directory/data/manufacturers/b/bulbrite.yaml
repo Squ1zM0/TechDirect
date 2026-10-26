@@ -1,0 +1,16 @@
+id: bulbrite
+name: Bulbrite
+website: https://bulbrite.com
+categories: [electrical]
+aliases: []
+support:
+  - category: electrical
+    department: Customer Support
+    phone: "+18005285555"
+    country: US
+    notes: "Bulbrite customer service for lamps and LED products; email info@bulbrite.com. Moonachie, NJ headquarters."
+    source: "https://bulbrite.com/pages/faqs"
+    last_verified: "2026-10-26"
+    hours:
+      timezone: "ET"
+      mon_fri: "8:30 AM - 5:30 PM"

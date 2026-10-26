@@ -1,0 +1,13 @@
+id: spectrum-controls
+name: Spectrum Controls
+website: https://www.spectrumcontrols.com
+categories: [electrical]
+aliases: []
+support:
+  - category: electrical
+    department: Customer Support
+    phone: "+14257469481"
+    country: US
+    notes: "Spectrum Controls, Inc., Bellevue, WA (industrial I/O modules, secure remote access and communication devices and NEMA-rated LED displays for Rockwell Automation platforms; founded 1983; subsidiary of Allied Motion Technologies). Email spectrum@spectrumcontrols.com; fax 425-641-9473 also published. Rockwell TechConnect support covers Spectrum Controls I/O modules at no additional cost."
+    source: "https://www.spectrumcontrols.com/about/"
+    last_verified: "2026-10-26"

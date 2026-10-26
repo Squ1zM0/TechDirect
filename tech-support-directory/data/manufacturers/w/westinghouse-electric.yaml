@@ -1,0 +1,13 @@
+id: westinghouse-electric
+name: "Westinghouse Electric Company"
+website: https://www.westinghousenuclear.com
+categories: [electrical]
+aliases: []
+support:
+  - category: electrical
+    department: Customer Support
+    phone: "+14123744111"
+    country: US
+    notes: "HQ main, 1000 Westinghouse Drive, Cranberry Township PA; subsidiary of Brookfield Business Partners. Nuclear power. Distinct from Westinghouse Outdoor Power and from Westinghouse Lighting; do not merge."
+    source: "https://WESTINGHOUSENUCLEAR.COM/operating-plants/engineered-solutions/license-renewal/"
+    last_verified: "2026-10-26"

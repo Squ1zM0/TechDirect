@@ -1,0 +1,14 @@
+id: mcr-safety
+name: MCR Safety
+website: https://www.mcrsafety.com/
+categories:
+- hardware
+aliases: []
+support:
+- category: hardware
+  department: Customer Support
+  phone: "+18009556887"
+  country: US
+  notes: PPE (gloves, eyewear, apparel).
+  source: https://www.neweggbusiness.com/product/product.aspx?item=9siv0ha90e1202
+  last_verified: "2026-10-26"

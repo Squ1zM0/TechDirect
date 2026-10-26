@@ -1,0 +1,13 @@
+id: electronic-theatre-controls
+name: Electronic Theatre Controls
+website: https://www.etcconnect.com
+categories: [electrical]
+aliases: ["ETC"]
+support:
+  - category: electrical
+    department: Technical Support
+    phone: "+18007754382"
+    country: US
+    notes: "Electronic Theatre Controls (ETC, Middleton, WI) theatrical lighting controls and fixtures. Number is the Americas Technical Services line; service@etcconnect.com and emergency service outside business hours also published. Older toll-free 800-688-4116 noted but not used as primary."
+    source: "https://www.etcconnect.com/webdocs/Controls/IonOnlineHelp/en-us/Content/01_Introduction/Help_From_ETC_Technical_Services.htm"
+    last_verified: "2026-10-26"

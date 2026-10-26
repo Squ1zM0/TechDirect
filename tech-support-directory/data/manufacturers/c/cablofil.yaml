@@ -1,0 +1,12 @@
+id: cablofil
+name: Cablofil
+categories: [electrical]
+aliases: ["Cablofil - Legrand"]
+support:
+  - category: electrical
+    department: Technical Support
+    phone: "+18772953472"
+    country: US
+    notes: "Cablofil, Legrand's wire mesh cable tray brand, with its own distinct support line printed on Legrand's Cablofil product pages and its own Cablofil Tech Support team, so it gets its own file rather than parent-resolution to Legrand (whose general line is 844-957-3783). Tech email technical.support-cab@legrand.us. Covers xref variants Cablofil and Cablofil - Legrand."
+    source: "https://www.legrand.us/wire-and-cable-management/cable-tray-and-reels/wire-mesh-trays/cablofil-cable-tray-white-2d12w120l-942966/p/942966"
+    last_verified: "2026-10-26"

@@ -1,0 +1,16 @@
+id: rymco
+name: RYMCO USA
+website: https://rymcousa.com/
+categories:
+- electrical
+aliases:
+- RYMCO
+support:
+- category: electrical
+  department: Customer Support
+  phone: '+18329627688'
+  country: US
+  notes: RYMCO USA (RYMCO LLC), 4801 Gasmer Drive, Houston, TX. info@rymcousa.com; Mon-Fri 9:00 am-5:00 pm. Conduit (EMT/IMC/RMC) manufacturer. Also publishes 1-833-RYMCO-US. Fax 832-780-2011 is a fax number,
+    not a support line.
+  source: rymcousa.com official site (Office (832)-962-7688)
+  last_verified: '2026-10-26'

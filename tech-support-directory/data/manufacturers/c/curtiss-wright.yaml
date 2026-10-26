@@ -1,0 +1,13 @@
+id: curtiss-wright
+name: Curtiss-Wright
+website: https://www.curtisswright.com
+categories:
+  - electrical
+support:
+  - category: Technical Support
+    department: Technical Support
+    phone: "+18662982066"
+    country: US
+    notes: "Diversified industrial/defense manufacturer (defense electronics, industrial controls, sensors, throttle controls). Main Technical Support office for Defense Solutions, 8 a.m.-5 p.m. ET; the Industrial Division publishes separate Americas lines (Chicago 847-844-4700, LA 714-982-1862). No single division is identified by the xref, so the labeled Technical Support line is used."
+    source: "https://defense-solutions.curtisswright.com/capabilities/services/support/technical-rws/ottawa-ashburn"
+    last_verified: "2026-10-26"

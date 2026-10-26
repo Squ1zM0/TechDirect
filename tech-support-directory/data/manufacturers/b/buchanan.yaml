@@ -1,0 +1,12 @@
+id: buchanan
+name: Buchanan
+categories: [electrical]
+aliases: ["Buchanan Terminal Blocks", "TE Connectivity Buchanan"]
+support:
+  - category: electrical
+    department: Technical Support
+    phone: "+18005226752"
+    country: US
+    notes: "Buchanan terminal blocks (TERMI-BLOK, WireMate) are a TE Connectivity brand with no distinct support contact; support routes via the TE Technical Support Center North America. No TE Connectivity file exists in the TechDirect reference, so Buchanan gets its own file with TE's published technical support line."
+    source: "https://www.te.com/commerce/DocumentDelivery/DDEController?Action=srchrtrv&DocNm=1-1773862-2_highspeed_virtual&DocType=DS&DocLang=EN"
+    last_verified: "2026-10-26"

@@ -1,0 +1,13 @@
+id: owl-cyber-defense
+name: Owl Cyber Defense
+website: https://owlcyberdefense.com/technical-support/
+categories: [electrical]
+aliases: []
+support:
+  - category: electrical
+    department: Technical Support
+    phone: "+12038949342"
+    country: US
+    notes: "Owl Cyber Defense Solutions, LLC, Columbia, MD. Support page: report issues 24x7x365 via phone; technicians on call for critical cases. Support email support@owlcyberdefense.com. Data-diode / cross-domain cybersecurity for government and critical infrastructure; no cybersecurity term exists in the category vocabulary, so electrical (grid/critical-infrastructure use) is the closest term."
+    source: "https://owlcyberdefense.com/technical-support/"
+    last_verified: "2026-10-26"

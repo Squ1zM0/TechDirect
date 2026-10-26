@@ -1,0 +1,13 @@
+id: sgs-solid-carbide-tools
+name: SGS Solid Carbide Tools
+website: https://www.kyocerasgstool.com
+categories: [hardware]
+aliases: []
+support:
+  - category: hardware
+    department: Customer Support
+    phone: "+13306865700"
+    country: US
+    notes: "SGS Tool Co., now KYOCERA SGS Precision Tools (solid carbide cutting tools: Z-Carb, S-Carb, Multi-Carb end mills), Munroe Falls, OH. Customer service for US and Canada per the company catalog."
+    source: "https://d2zrnadzq0iyyu.cloudfront.net/userfiles/ad/documents/sgs_57005_catalog.pdf"
+    last_verified: "2026-10-26"

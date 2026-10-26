@@ -1,0 +1,13 @@
+id: heat-controller
+name: Heat Controller
+categories:
+- hvac
+aliases: []
+support:
+- category: hvac
+  department: Customer / Technical Service
+  phone: '+15177872100'
+  country: US
+  notes: 'Heat Controller, Jackson, MI. Department label is the source wording (Customer or Technical Service Department). One manual also lists 866-557-1865 for service and warranty. Comfort-Aire is a trademark of Motors and Armatures, Inc.; Heat Controller is not reassigned to MARS on that basis.'
+  source: "https://manuzoid.com/manuals/q4BPB-Heat%20Controller%20RAH-183G%20Owner's%20Manual"
+  last_verified: '2026-10-26'

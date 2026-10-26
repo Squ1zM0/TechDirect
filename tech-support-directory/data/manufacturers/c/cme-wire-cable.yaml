@@ -1,0 +1,14 @@
+id: cme-wire-cable
+name: CME Wire and Cable
+website: http://www.cmewire.com/
+categories: [electrical]
+aliases: ["CME Wire & Cable", "CME Wire and Cable, Inc."]
+support:
+  - category: electrical
+    department: Customer Support
+    phone: "+17706230001"
+    email: info@cmewire.com
+    country: US
+    notes: "CME Wire and Cable, Inc., Suwanee, GA (founded 1994; Viakable/Xignux family); bare conductors, magnet wire, high-voltage cables. HQ line per CME's own site; Houston branch (713) 830-9072 and Obetz, OH branch (614) 662-5000 also published. Covers xref spellings 'CME Wire & Cable' and 'CME Wire and Cable' (both parent CME Wire and Cable)."
+    source: "https://cmewire.com/"
+    last_verified: "2026-10-26"

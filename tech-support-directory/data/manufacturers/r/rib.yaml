@@ -1,0 +1,15 @@
+id: rib
+name: RIB
+website: https://functionaldevices.com/
+categories:
+- electrical
+aliases: []
+support:
+- category: electrical
+  department: Customer Support
+  phone: '+18008885538'
+  country: US
+  notes: RIB (relay-in-a-box), a Functional Devices, Inc. relay line with no separate RIB contact; contact routes via Functional Devices, Sharpsville, IN. Office 765-883-5538; sales@functionaldevices.com.
+    Relays and controls.
+  source: functionaldevices.com blog (Call us at 800-888-5538) and Functional Devices datasheets
+  last_verified: '2026-10-26'

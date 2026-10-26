@@ -1,0 +1,16 @@
+id: silent-knight
+name: Silent Knight
+website: https://buildings.honeywell.com/us/en/brands/our-brands/silent-knight/support/technical-support
+categories: [electrical]
+aliases: []
+support:
+  - category: electrical
+    department: Technical Support
+    phone: "+18004466444"
+    country: US
+    notes: "Silent Knight, a Honeywell fire alarm brand (fire alarm control panels, annunciators, communicators), Northford, CT. Technical support Monday-Friday, 8 AM to 7 PM Eastern; email sk.technicalsupport@honeywell.com. Older manuals listed 800-328-0103 for technical support; the current Honeywell Silent Knight support page publishes 800-446-6444."
+    source: "https://buildings.honeywell.com/us/en/brands/our-brands/silent-knight/support/technical-support"
+    last_verified: "2026-10-26"
+    hours:
+      timezone: "ET"
+      mon_fri: "8:00 AM - 7:00 PM"

@@ -1,0 +1,13 @@
+id: e-z-weld
+name: E-Z Weld
+website: https://www.ezweld.com
+categories: [plumbing]
+aliases: ["E-Z WELD"]
+support:
+  - category: plumbing
+    department: Customer Support
+    phone: "+18003278460"
+    country: US
+    notes: "E-Z Weld (IPS Corporation, Hartsville, TN) PVC/CPVC solvent cements, primers and cleaners. Toll-free line from the company's pocket training guide; supplier phone 310-886-7600 and email sales@ezweld.com also published on SDS documents."
+    source: "https://cdn.prod.website-files.com/633ee05e5314f38d07fe5655/67b4bca090ddbc5ae8a50551_E-Z WELD Pocket Training Guide 2_2025.pdf"
+    last_verified: "2026-10-26"

@@ -1,0 +1,13 @@
+id: national-safety-apparel
+name: National Safety Apparel
+website: https://www.thinknsa.com/faqs
+categories: [hardware]
+aliases: ["NSA"]
+support:
+  - category: hardware
+    department: Customer Support
+    phone: "+18005530672"
+    country: US
+    notes: "National Safety Apparel (NSA); FAQ says 'calling 800-553-0672 (ext. 2)'; email customerservice@thinknsa.com. Vocabulary note: no safety/PPE term; hardware is closest."
+    source: "https://www.thinknsa.com/faqs"
+    last_verified: "2026-10-26"

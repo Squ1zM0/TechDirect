@@ -1,0 +1,17 @@
+id: issc-kanson
+name: ISSC-Kanson Electronics, Inc.
+website: https://issc-kanson.com/
+categories:
+- electrical
+aliases: []
+support:
+- category: electrical
+  department: Customer Support
+  phone: '+19317963050'
+  country: US
+  notes: "Timers and sensors; also known as Kanson Electronics. 245 Forrest Ave, Hohenwald, TN 38462; made in the US since 1963."
+  source: https://issc-kanson.com/about-issc-kanson/
+  last_verified: '2026-10-26'
+  hours:
+    timezone: "CT"
+    mon_fri: "7:00 AM - 3:30 PM"

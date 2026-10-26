@@ -1,0 +1,16 @@
+id: rve
+name: RVE
+website: https://rveusa.com/
+categories:
+- electrical
+aliases:
+- RVE USA
+support:
+- category: electrical
+  department: Customer Support
+  phone: '+18337171355'
+  country: US
+  notes: RVE USA (Recharge Véhicule Électrique). sales@rveusa.com; technical inquiries support@rveusa.com. DCC EV charging and load-management products, designed and engineered in North America; Canadian
+    (Quebec) origin noted. North American toll-free line.
+  source: NEMRA RVE USA product catalog 2024
+  last_verified: '2026-10-26'

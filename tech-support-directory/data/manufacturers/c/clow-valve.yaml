@@ -1,0 +1,13 @@
+id: clow-valve
+name: Clow Valve
+website: https://www.clowvalve.com/
+categories: [valves]
+aliases: ["Clow Valve Co"]
+support:
+  - category: valves
+    department: Customer Support
+    phone: "+18008292569"
+    country: US
+    notes: "Clow Valve Co, Oskaloosa, IA, a McWane company; waterworks valves and fire hydrants. Hours Mon-Fri 7:30 AM-4:30 PM CT per listing; foundry line (641) 673-8611 also published. Distinct from Clow Water Systems (Coshocton, OH ductile iron pipe plant) and from the Clow Canada document site, which carried a Troy Valve specification."
+    source: "https://www.clowvalve.com/"
+    last_verified: "2026-10-26"

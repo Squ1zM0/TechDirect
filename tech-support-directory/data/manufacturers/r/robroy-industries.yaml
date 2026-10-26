@@ -1,0 +1,15 @@
+id: robroy-industries
+name: Robroy Industries
+website: https://robroy.com/
+categories:
+- electrical
+aliases:
+- Robroy
+support:
+- category: electrical
+  department: Customer Support
+  phone: '+14128282100'
+  country: US
+  notes: Robroy Industries, Verona, PA. Brands include Stahlin, Attabox, Plasti-Bond, Perma-Cote and Robroy Stainless. PVC-coated conduit and fittings.
+  source: robroy.com listing
+  last_verified: '2026-10-26'

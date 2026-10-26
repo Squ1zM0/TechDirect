@@ -1,0 +1,13 @@
+id: linmot-usa
+name: LinMot USA
+website: "https://linmot.com"
+categories: [electrical]
+aliases: ["LinMot USA, Inc."]
+support:
+  - category: electrical
+    department: Customer Support
+    phone: "+12627432555"
+    country: US
+    notes: "LinMot USA, Inc., Lake Geneva, WI (N1922 State Road 120, Unit 1); US headquarters of Swiss manufacturer NTI AG - LinMot & MagSpring (Spreitenbach, Switzerland, +41 56 419 91 91). Direct-drive industrial tubular linear servo motors, linear-rotary motors, guides and MagSpring magnetic springs for production machines and automation. Number from LinMot USA's trade-association profile (usasales@linmot.com also published); LinMot's own site also publishes the same number. Electrical is the closest category-vocabulary term for industrial linear motors."
+    source: "https://www.automate.org/companies/linmot-usa-inc"
+    last_verified: "2026-10-26"

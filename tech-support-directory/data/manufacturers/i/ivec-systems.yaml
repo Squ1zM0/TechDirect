@@ -1,0 +1,14 @@
+id: ivec-systems
+name: Ivec Systems
+website: https://ivecsystems.com/
+categories:
+- airflow
+aliases: []
+support:
+- category: airflow
+  department: Customer Support
+  phone: '+18666704832'
+  country: US
+  notes: "Intelligent ventilation energy controls (IVEC). Email info@ivecsystems.com. IVEC technology was developed with advisory assistance from Hastings Air Energy Control, Inc. (Hastings contact 262-364-0500 is a technology advisor, not the brand's support line and not filed as such)."
+  source: https://dustsafetyprofessionals.com/wp-content/uploads/2021/12/IVec%C2%AE-Slimjim.pdf
+  last_verified: '2026-10-26'

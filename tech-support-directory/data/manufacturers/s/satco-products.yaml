@@ -1,0 +1,16 @@
+id: satco-products
+name: Satco Products
+website: https://satco.com/
+categories:
+- electrical
+aliases:
+- Satco
+- SATCO Lighting
+support:
+- category: electrical
+  department: Customer Support
+  phone: '+18004372826'
+  country: US
+  notes: Satco Products, 110 Heartland Blvd, Brentwood, NY. Customer service 1-800-43-SATCO. Lighting lamps, fixtures and electrical products.
+  source: Satco catalog PDFs (customer service 1-800-43-SATCO, www.satco.com) and Satco support FAQ
+  last_verified: '2026-10-26'

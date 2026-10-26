@@ -1,0 +1,13 @@
+id: vivotek
+name: "VIVOTEK"
+website: https://www.vivotek.com
+categories: [electrical]
+aliases: []
+support:
+  - category: electrical
+    department: Customer Support
+    phone: "+14087738686"
+    country: US
+    notes: "VIVOTEK USA. Email salesusa@vivotek.com. Security cameras."
+    source: "https://www.vivotek.com/rails/active_storage/blobs/redirect/eyJfcmFpbHMiOnsiZGF0YSI6NDgzMjAsInB1ciI6ImJsb2JfaWQifX0=--b7bbcd16fd0ab05e7b6a87757d49f8646ef16a79/Brochure_2025_Networking%20Solution_EN.pdf?disposition=attachment"
+    last_verified: "2026-10-26"

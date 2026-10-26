@@ -1,0 +1,13 @@
+id: cleveland-faucet-group
+name: Cleveland Faucet Group
+website: http://www.cfgonline.com/
+categories: [plumbing]
+aliases: ["Cleveland Faucet", "CFG"]
+support:
+  - category: plumbing
+    department: Customer Support
+    phone: "+18884505522"
+    country: US
+    notes: "Cleveland Faucet Group (CFG), a Moen brand for multi-family/rental faucets (Baystone, Capstone, Cornerstone, Flagstone lines); CFG's own distinct published support line, separate from Moen's main line (Moen file exists separately). Covers xref spelling 'Cleveland Faucet'."
+    source: "https://www.prweb.com/releases/the_cleveland_faucet_group_introduces_new_handheld_showering_system/prweb11266142.htm"
+    last_verified: "2026-10-26"

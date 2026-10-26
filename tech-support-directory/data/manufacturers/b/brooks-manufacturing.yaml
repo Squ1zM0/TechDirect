@@ -1,0 +1,13 @@
+id: brooks-manufacturing
+name: Brooks Manufacturing
+website: http://www.brooksmfg.com
+categories: [electrical]
+aliases: ["Brooks Manufacturing Co."]
+support:
+  - category: electrical
+    department: Customer Support
+    phone: "+13607331700"
+    country: US
+    notes: "Brooks Manufacturing Co., 2120 Pacific St, Bellingham, WA 98229, manufacturer of distribution crossarms and transmission framing components for the electric utility industry since 1915, family-owned since 1935. RocketReach lists (360) 733-5170 as a variant; ThomasNet and ZoomInfo agree on (360) 733-1700, used here."
+    source: "https://www.thomasnet.com/company/brooks-manufacturing-co-10005941/profile?heading=articulating-arms-2050953&coverage_area=NO&companyId=brooks-manufacturing-co-10005941&card_position=24&page_number=1&suppliers_in_page=25"
+    last_verified: "2026-10-26"

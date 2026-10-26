@@ -1,0 +1,16 @@
+id: richards-manufacturing
+name: Richards Manufacturing
+website: https://richards-mfg.com/
+categories:
+- waterworks
+aliases:
+- Richards Mfg
+support:
+- category: waterworks
+  department: Customer Support
+  phone: '+19733711771'
+  country: US
+  notes: Richards Manufacturing, 517 Lyons Ave, Irvington, NJ. Waterworks products. TE Connectivity announced an acquisition of Richards Manufacturing; recorded as announced, not as a completed change to
+    the brand's own number.
+  source: richards-mfg.com listings and Richards catalog; te.com press release (announced acquisition)
+  last_verified: '2026-10-26'

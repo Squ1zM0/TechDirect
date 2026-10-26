@@ -1,0 +1,16 @@
+id: xuron
+name: "Xuron Corp."
+website: https://www.xuron.com
+categories: [hardware]
+aliases: ["Xuron"]
+support:
+  - category: hardware
+    department: Customer Support
+    phone: "+12072831401"
+    country: US
+    notes: "Saco ME, 62 Industrial Park Road. Hours Mon-Fri 8am-5pm EST; email sales@xuron.com. Precision hand tools for electronics; closest vocabulary term: hardware."
+    source: "https://xuron.com/index.php/main/contactus"
+    last_verified: "2026-10-26"
+    hours:
+      timezone: "ET"
+      mon_fri: "8:00 AM - 5:00 PM"

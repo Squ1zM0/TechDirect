@@ -1,0 +1,13 @@
+id: nashua-tape
+name: Nashua Tape
+website: https://www.nashuatape.com/
+categories: [hvac]
+aliases: ["Nashua"]
+support:
+  - category: hvac
+    department: Customer Support
+    phone: "+18003437875"
+    country: US
+    notes: "Nashua Tape is a Berry Global, Inc. brand (Franklin MA, 25 Forge Parkway); HVAC/duct tapes (UL 181A-P / 181B-FX). Vocabulary note: no tape/adhesive term; hvac is closest given the HVAC duct-tape application."
+    source: "https://www.findtape.com/static/TDS/Berry/Berry306_TDS.pdf"
+    last_verified: "2026-10-26"

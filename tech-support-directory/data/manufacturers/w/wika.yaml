@@ -1,0 +1,13 @@
+id: wika
+name: "WIKA"
+website: https://www.wika.com
+categories: [electrical]
+aliases: ["WIKA Instrument, LP", "WIKA USA"]
+support:
+  - category: electrical
+    department: Customer Support
+    phone: "+18889452872"
+    country: US
+    notes: "WIKA Instrument, LP / WIKA USA. 1-888-WIKA-USA; local 770-513-8200; email info@wika.com; Lawrenceville GA. Pressure/temperature measurement instruments; closest vocabulary term: electrical. Filed as Customer Support (Customer Care)."
+    source: "https://www.wika.com/media/Others/EN-US/wp013_fertilizer_en_us.pdf"
+    last_verified: "2026-10-26"

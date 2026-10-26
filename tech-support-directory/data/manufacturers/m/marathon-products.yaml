@@ -1,0 +1,14 @@
+id: marathon-products
+name: Marathon Products
+website: https://marathonproducts.com
+categories:
+- electrical
+aliases: []
+support:
+- category: electrical
+  department: Customer Support
+  phone: "+18008586872"
+  country: US
+  notes: Data loggers. Email inquiry@marathonproducts.com. Distinct company from Marathon Electric; do not merge.
+  source: https://marathonproducts.com/wp-content/uploads/2020/10/new-product-catalog19web.pdf
+  last_verified: "2026-10-26"

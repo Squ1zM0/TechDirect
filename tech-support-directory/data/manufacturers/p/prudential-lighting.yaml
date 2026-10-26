@@ -1,0 +1,13 @@
+id: prudential-lighting
+name: Prudential Lighting
+website: https://www.prulite.com/
+categories: [electrical]
+aliases: ["Prudential"]
+support:
+  - category: electrical
+    department: Customer Support
+    phone: "+12137460360"
+    country: US
+    notes: "1774 E 21st Street, Los Angeles, CA 90058. The bare 'Prudential' row resolves to this lighting manufacturer in this batch context, not Prudential Financial."
+    source: "https://www.architectmagazine.com/manufacturer/prudential-lighting/"
+    last_verified: "2026-10-26"

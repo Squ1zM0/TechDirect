@@ -1,0 +1,13 @@
+id: raritan
+name: Raritan
+website: https://www.Legrand.us/contact-and-support/chat-support
+categories: [electrical]
+aliases: ["Raritan - Legrand"]
+support:
+  - category: electrical
+    department: Technical Support
+    phone: "+18007248090"
+    country: US
+    notes: "Legrand support table labels this 'Raritan Technical Support Phone'. Distinct Raritan support contact, so own file despite the existing Legrand file. Hours per the Legrand table: Mon-Fri 8:00 AM-8:00 PM EST (sales 8:00 AM-5:00 PM EST)."
+    source: "https://www.Legrand.us/contact-and-support/chat-support"
+    last_verified: "2026-10-26"

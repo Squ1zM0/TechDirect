@@ -1,0 +1,12 @@
+id: church-seats
+name: Church Seats
+categories: [plumbing]
+aliases: ["Church"]
+support:
+  - category: plumbing
+    department: Customer Support
+    phone: "+18887226488"
+    country: US
+    notes: "Church Seats, a Bemis Manufacturing Company wholesale toilet-seat brand (Bemis acquired Church Seats in 1983; Bemis and Church retained as the two wholesale-channel brands). Support via Bemis customer service, Mon-Fri 8:00 AM-5:00 PM CST. Covers xref spellings 'Church' and 'Church Seats'. No official website verified, so no website field is staged."
+    source: "https://manuals.plus/asin/B083Y4M7YH"
+    last_verified: "2026-10-26"

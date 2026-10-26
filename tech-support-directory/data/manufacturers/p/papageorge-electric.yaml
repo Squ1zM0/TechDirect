@@ -1,0 +1,13 @@
+id: papageorge-electric
+name: Papageorge Electric
+website: http://waterbonder.com
+categories: [electrical]
+aliases: ["Papageorge Electric LLC", "WaterBonder"]
+support:
+  - category: electrical
+    department: Customer Support
+    phone: "+14136267154"
+    country: US
+    notes: "Papageorge Electric LLC, maker of the WaterBonder pool water bonding fitting (NEC 680.26 equipotential bonding for pools, hot tubs, and spas). Number published in the WaterBonder site footer and corroborated across product listings. Small specialty manufacturer; general company number, not labelled technical support, so recorded as Customer Support."
+    source: "http://waterbonder.com"
+    last_verified: "2026-10-26"

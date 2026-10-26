@@ -1,0 +1,13 @@
+id: nupla
+name: Nupla Corporation
+website: https://www.nuplatools.com/
+categories: [hardware]
+aliases: []
+support:
+  - category: hardware
+    department: Customer Support
+    phone: "+16016933482"
+    country: US
+    notes: "Nupla Corporation, Meridian MS (6604 Old Hwy 80 W); fiberglass-handled hand tools since 1938; email sales@nuplacorp.com."
+    source: "https://xsjuyw74lzrxgmzl.public.blob.vercel-storage.com/docs/2024-Nupla-Catalog.pdf"
+    last_verified: "2026-10-26"

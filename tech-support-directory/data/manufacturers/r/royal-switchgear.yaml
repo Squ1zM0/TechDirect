@@ -1,0 +1,15 @@
+id: royal-switchgear
+name: Royal Switchgear Manufacturing Co.
+website: https://royalswitchgear.com/
+categories:
+- electrical
+aliases:
+- Royal Switchgear
+support:
+- category: electrical
+  department: Customer Support
+  phone: '+18004264380'
+  country: US
+  notes: Royal Switchgear Manufacturing Co., Bessemer, AL. Local 205-426-4090 also listed. A Power Grid Components, Inc. company; founded 1914. Switchgear and T&D products.
+  source: Royal Switchgear disconnect-switch catalog PDF (royalswitchgear.com)
+  last_verified: '2026-10-26'

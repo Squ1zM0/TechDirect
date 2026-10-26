@@ -1,0 +1,13 @@
+id: carson
+name: Carson
+website: https://www.siteone.com/medias/sys_master/PimProductImages/assets/ProductAssets/US/Oldcastle/specificationSheet/490111_specificationsheet1_01132026/490111-specificationsheet1-01132026.pdf
+categories: [electrical]
+aliases: ["Carson Industries", "Carson (Oldcastle)"]
+support:
+  - category: electrical
+    department: Customer Support
+    phone: "+18889653227"
+    country: US
+    notes: "Carson is an Oldcastle Infrastructure underground-enclosure brand; support is via Oldcastle Infrastructure (line published in the Oldcastle Underground Enclosures catalog). Also covers xref spellings 'Carson (Oldcastle)' and 'CARSON INDUSTRIES' (same Oldcastle brand). Distinct from Carson Manufacturing (sirens), which has its own file in this batch."
+    source: "https://www.siteone.com/medias/sys_master/PimProductImages/assets/ProductAssets/US/Oldcastle/specificationSheet/490111_specificationsheet1_01132026/490111-specificationsheet1-01132026.pdf"
+    last_verified: "2026-10-26"

@@ -1,0 +1,13 @@
+id: lumascape-usa
+name: Lumascape USA
+website: "https://www.lumascape.com"
+categories: [electrical]
+aliases: ["Lumascape", "LUMASCAPE"]
+support:
+  - category: electrical
+    department: Customer Support
+    phone: "+16505955862"
+    country: US
+    notes: "Lumascape USA Inc., San Carlos, CA (1300 Industrial Rd Unit 19); North American arm of Australian architectural/landscape lighting manufacturer Lumascape. Number from Lumascape's own spec sheets (info@lumascape.com also published). Toll-free 1-866-695-5862 (US & Canada) also published on Lumascape installation instructions."
+    source: "https://www.lumascape.com/asset/download/2940/2fed21/ls9120-n191004.pdf"
+    last_verified: "2026-10-26"

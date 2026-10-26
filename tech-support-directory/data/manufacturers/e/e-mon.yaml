@@ -1,0 +1,13 @@
+id: e-mon
+name: E-Mon
+website: https://www.emon.com
+categories: [electrical]
+aliases: ["E-MON CORP", "E-Mon Corporation"]
+support:
+  - category: electrical
+    department: Customer Support
+    phone: "+18003343666"
+    country: US
+    notes: "E-Mon (Honeywell Building Technologies; E-Mon acquired by Honeywell 2010) submeters and energy monitoring. Xref parent for the 'Emerson EMON' spelling says Emerson, but the verified parent is Honeywell, not Emerson; the Emerson EMON spelling is treated as a variant of E-Mon with that discrepancy noted. Website routes to Honeywell."
+    source: "https://prod-edam.honeywell.com/content/dam/honeywell-edam/hbt/en-us/documents/literature-and-specs/whitepapers/HBT-BMS-E-Mon-Whitepaper-01-00196.pdf"
+    last_verified: "2026-10-26"

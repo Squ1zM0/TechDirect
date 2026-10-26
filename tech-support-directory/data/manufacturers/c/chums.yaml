@@ -1,0 +1,13 @@
+id: chums
+name: Chums
+categories: [hardware]
+aliases: ["Chums Inc.", "Chums Safety", "Chums Safety (Safety Glasses)"]
+support:
+  - category: hardware
+    department: Customer Support
+    phone: "+18008254555"
+    email: cs@chums.com
+    country: US
+    notes: "Chums, Inc., Salt Lake City, UT (founded 1983); eyewear retention including breakaway and FR safety lines. Toll-free customer service line per Chums' own B2B credit agreement; HQ line (801) 972-5656 also published. Covers xref spelling 'Chums Safety (Safety Glasses)'."
+    source: "https://b2b.chums.com/pdf/forms/2023/CustomerInfoCreditAgreement_FILLABLE_091923.pdf"
+    last_verified: "2026-10-26"

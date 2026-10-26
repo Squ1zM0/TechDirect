@@ -1,0 +1,16 @@
+id: trim-lok
+name: Trim-Lok
+website: https://www.trimlok.com/
+categories:
+- hardware
+aliases: []
+support:
+- category: hardware
+  department: Customer Support
+  phone: '+18888746565'
+  country: US
+  notes: 'Published as 888-TRIMLOK (vanity number; digits converted letter-by-letter: T=8, R=7, I=4, M=6,
+    L=5, O=6, K=5). Local (714) 562-0500; info@trimlok.com; 6855 Hermosa Circle, Buena Park, CA 90620.
+    Rubber extrusions / trim seals.'
+  source: https://www.trimlok.com/rubber-extrusion/epdm-seal/ribbed/113-series
+  last_verified: '2026-10-26'

@@ -1,0 +1,12 @@
+id: steren
+name: "Steren Electronics"
+categories: [electrical]
+aliases: ["Steren"]
+support:
+  - category: electrical
+    department: Customer Support
+    phone: "+18002663333"
+    country: US
+    notes: "Steren Electronics AV and electronics accessories, San Diego CA. Number from a Steren Solutions storefront page corroborated by a Steren catalog copy; no sterenusa.com contact page was verified."
+    source: "https://sterensolutions.com/collections/cables/products/steren-6in-micro-hdmi-a-d-std-micro-high-speed-w-ethernet-cable-4k-support-ultra-high-speed-10-2gbps-3d-audio-return"
+    last_verified: "2026-10-26"

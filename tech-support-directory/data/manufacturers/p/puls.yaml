@@ -1,0 +1,13 @@
+id: puls
+name: PULS
+website: https://www.pulspower.com/us/company/about-puls/company-profile/
+categories: [electrical]
+aliases: ["PULS POWER"]
+support:
+  - category: electrical
+    department: Customer Support
+    phone: "+16305879780"
+    country: US
+    notes: "PULS, L.P., 2640 White Oak Circle Suite A, Aurora, IL 60502."
+    source: "https://www.pulspower.com/us/company/about-puls/company-profile/"
+    last_verified: "2026-10-26"

@@ -1,0 +1,14 @@
+id: minco
+name: Minco
+website: https://www.minco.com
+categories:
+- electrical
+aliases: []
+support:
+- category: electrical
+  department: Customer Support
+  phone: "+17635713121"
+  country: US
+  notes: Minco Products, Fridley/Minneapolis, MN. Temperature sensors, heaters, flex circuits. Email custserv@minco.com.
+  source: https://manuals.plus/m/bd99ee73e4ec27f75ccb398e4ff872a890c304b782c75a97713367bdf6007ea1_optim.pdf
+  last_verified: "2026-10-26"

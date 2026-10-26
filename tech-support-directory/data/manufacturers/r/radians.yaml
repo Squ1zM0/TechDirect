@@ -1,0 +1,13 @@
+id: radians
+name: Radians
+website: https://www.radians.com/
+categories: [hardware]
+aliases: []
+support:
+  - category: hardware
+    department: Customer Support
+    phone: "+18777234267"
+    country: US
+    notes: "5305 Distriplex Farms Drive, Memphis, TN 38141. PPE/safety manufacturer; local number also published."
+    source: "https://d2w0cug36nhzva.cloudfront.net/userfiles/documents/radians_aph1_specification_sheet.pdf"
+    last_verified: "2026-10-26"

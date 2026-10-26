@@ -1,0 +1,14 @@
+id: kb-electronics
+name: KB Electronics, Inc.
+website: https://kbelectronics.com/
+categories:
+- electrical
+aliases: []
+support:
+- category: electrical
+  department: Customer Support
+  phone: '+18002216570'
+  country: US
+  notes: "AC and DC drives; Coral Springs, FL, 12095 NW 39 Street, FL 33065. Direct 954-346-4900, email info@kbelectronics.com. Part of the Control Techniques portfolio (Nidec) per a 2023 PRWeb release."
+  source: https://moen.nidec.com/drives/-/media/Project/Nidec/KB/documents/technical-notes/technical-note-plug-in-horsepower-resistor.ashx?la=cs-cz
+  last_verified: '2026-10-26'

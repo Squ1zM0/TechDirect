@@ -1,0 +1,13 @@
+id: poly-cam
+name: Poly-Cam
+website: https://www.poly-cam.com
+categories: [plumbing, waterworks]
+aliases: ["Poly-Cam, Inc.", "POLY-CAM"]
+support:
+  - category: plumbing
+    department: Customer Support
+    phone: "+17637866682"
+    country: US
+    notes: "Poly-Cam, Inc., Anoka, MN (1101 McKinley Street). Number published on Poly-Cam's own product submittals. Not labelled technical support, so recorded as Customer Support. HDPE transition fittings: threaded, flanged, camlock, groove, and electrofusion transitions for water, gas, and sewer systems; NSF 61 listed."
+    source: "https://poly-cam.com/wp-content/uploads/2024/03/Series-641-The-Camlock-HDPE-Male-Transition-Submittal.pdf"
+    last_verified: "2026-10-26"

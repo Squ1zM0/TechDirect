@@ -1,0 +1,12 @@
+id: leviton-network-solutions
+name: Leviton Network Solutions
+categories: [electrical]
+aliases: []
+support:
+  - category: electrical
+    department: Technical Support
+    phone: "+18007222082"
+    country: US
+    notes: "Leviton division with its own distinct support contact: Leviton Network Solutions literature and manuals give 800-722-2082 for network support, distinct from general Leviton technical support 800-824-3005, so filed standalone per program rule. Copper/fiber structured cabling systems."
+    source: "https://publish-p114704-e1122625.adobeaemcloud.com/content/dam/leviton/network-solutions/product_documents/brochure/Leviton-Network-Solutions-Consultant-Connection-Brochure.pdf"
+    last_verified: "2026-10-26"

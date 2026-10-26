@@ -1,0 +1,13 @@
+id: silfab-solar
+name: Silfab Solar
+website: https://silfabsolar.com
+categories: [electrical]
+aliases: []
+support:
+  - category: electrical
+    department: Customer Support
+    phone: "+13605694733"
+    country: US
+    notes: "Silfab Solar Inc. (PV modules), Bellingham/Burlington, WA, USA; Canadian headquarters Mississauga, ON (905-255-2501). US number from the company's own fact sheet; email info@silfabsolar.com."
+    source: "https://industry.plantautomation-technology.com/suppliers/silfab-solar-inc/catalog/1653042890-Silfab-Fast-Facts-Sheet.pdf"
+    last_verified: "2026-10-26"

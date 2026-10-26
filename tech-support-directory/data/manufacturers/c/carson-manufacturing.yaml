@@ -1,0 +1,13 @@
+id: carson-manufacturing
+name: Carson Manufacturing
+website: https://carsonsirens.com/?s=
+categories: [electrical]
+aliases: ["Carson Sirens"]
+support:
+  - category: electrical
+    department: Technical Service
+    phone: "+18885776877"
+    country: US
+    notes: "Carson Manufacturing (Carson Sirens) Technical Service Department per Carson siren manuals. Email service@carsonsirens.com. Emergency vehicle sirens and audible warning systems. Distinct from Carson (Oldcastle) underground enclosures, which has its own file in this batch. Indianapolis HQ listing now shows Greenfield, IN on carsonsirens.com."
+    source: "http://audio.manualsonline.com/manuals/mfg/carson_manufacturing_company_inc/sa45080.html?p=6"
+    last_verified: "2026-10-26"

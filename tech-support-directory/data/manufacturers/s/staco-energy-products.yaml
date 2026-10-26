@@ -1,0 +1,13 @@
+id: staco-energy-products
+name: Staco Energy Products
+website: https://www.stacoenergy.com
+categories: [electrical]
+aliases: []
+support:
+  - category: electrical
+    department: Technical Support
+    phone: "+18662611191"
+    country: US
+    notes: "Staco Energy Products Co., Miamisburg, OH (variable transformers, voltage regulators, power conditioners, UPS and power quality systems; over 75 years; wholly owned subsidiary of Component Corporation of America, Dallas, TX). Technical support email TechnicalSupport@StacoEnergy.com; service email Service@StacoEnergy.com; local phone 937-253-1191 also published; one-year warranty on variable transformers."
+    source: "https://www.stacoenergy.com/products-solutions/products/variable-transformers-and-test-sets/variable-transformers/stacovt.html"
+    last_verified: "2026-10-26"

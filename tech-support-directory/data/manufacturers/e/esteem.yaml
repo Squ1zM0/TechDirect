@@ -1,0 +1,16 @@
+id: esteem
+name: "ESTeem"
+categories:
+- electrical
+aliases: []
+support:
+- category: electrical
+  department: "Technical Support"
+  phone: "+15097359092"
+  country: US
+  notes: "ESTeem Wireless Modems (Electronic Systems Technology), Kennewick WA. Official manual lists Phone Support 8AM-5PM PST Mon-Fri. Email support@esteem.com. Wireless modems and industrial networking."
+  source: "https://www.esteem.com/wp-content/uploads/Horizon-Series-Users-Manual.pdf"
+  last_verified: "2026-10-26"
+  hours:
+    timezone: "PT"
+    mon_fri: "8:00 AM - 5:00 PM"

@@ -1,0 +1,13 @@
+id: namco-controls
+name: Namco Controls
+website: https://www.namcocontrols.com/
+categories: [electrical]
+aliases: []
+support:
+  - category: electrical
+    department: Technical Support
+    phone: "+18006268324"
+    country: US
+    notes: "Namco Controls Corporation, Mayfield Village OH; Snap-Lock limit switches and proximity sensors; manufacturer documents say 'For technical assistance, call 1-800-NAMTECH' (NAMTECH = 626-8324). Nuclear-qualified line now under Specialty Product Technologies (Dynapar Corp.), Elizabethtown NC, 800-390-6405, per the 2016 nuclear overview."
+    source: "https://app.mectronic.com/dsheet/EA77010000_Namco-Controls.pdf"
+    last_verified: "2026-10-26"

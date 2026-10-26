@@ -1,0 +1,13 @@
+id: phd-manufacturing
+name: PHD Manufacturing
+website: https://www.phdmfg.com
+categories: [plumbing, hvac]
+aliases: ["PHD", "PHD Manufacturing, Inc."]
+support:
+  - category: plumbing
+    department: Customer Support
+    phone: "+18003212736"
+    country: US
+    notes: "PHD Manufacturing, Inc., Columbiana, OH (44018 Columbiana-Waterford Road). Toll-free number published on PHD's own product literature; direct (330) 482-9256 and customerservice@phdmfg.com also published. Not labelled technical support, so recorded as Customer Support. Pipe hangers, supports, strut, and seismic bracing for plumbing, mechanical, and electrical systems. Covers xref spellings PHD and PHD Manufacturing."
+    source: "https://www.phd-mfg.com/wp-content/uploads/2025/12/030_11-12-25.pdf"
+    last_verified: "2026-10-26"

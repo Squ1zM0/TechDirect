@@ -1,0 +1,14 @@
+id: kentak-products
+name: Kentak Products Company
+website: https://www.kentak.com/
+categories:
+- piping-systems
+aliases: []
+support:
+- category: piping-systems
+  department: Customer Support
+  phone: '+13303822000'
+  country: US
+  notes: "Plastic hose and tubing; est. 1969, East Liverpool, OH, 1230 Railroad St, 43920; all products made in USA. Toll-free 888-678-6068 and sales@kentak.com also published. Also used in HVAC and appliance applications per Thomasnet."
+  source: https://www.thomasnet.com/company/kentak-products-co-39439/profile
+  last_verified: '2026-10-26'

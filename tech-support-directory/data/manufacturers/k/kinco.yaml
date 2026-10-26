@@ -1,0 +1,14 @@
+id: kinco
+name: Kinco
+website: https://en.kinco.cn/
+categories:
+- electrical
+aliases: []
+support:
+- category: electrical
+  department: Customer Support
+  phone: '+8675526585555'
+  country: CN
+  notes: "HMI, PLC, and servo automation; Kinco Electric (Shenzhen) Ltd. and Kinco Automation (Shanghai) Co., Ltd. Shenzhen tel 86-755-26585555, Shanghai tel 86-21-68798588, sales@kinco.cn, Building 1, No. 6 Langshan 1st Rd, Hi-tech Park North, Nanshan, Shenzhen, China. Technical support hotline 400-700-5281 is for Chinese customers only; outside China, Kinco directs inquiries to the local distributor. US distributor numbers are not the manufacturer's number and were not filed. No US manufacturer line found; no US line invented."
+  source: https://en.kinco.cn/userfiles/files/2025/02/13/2025021309162184.pdf
+  last_verified: '2026-10-26'

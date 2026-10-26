@@ -1,0 +1,17 @@
+id: ge-appliances
+name: 'GE Appliances'
+website: https://www.geappliances.com/
+categories:
+- hvac
+aliases: []
+support:
+- category: hvac
+  department: 'Customer Support'
+  phone: '+18006262005'
+  country: US
+  notes: 'Parent Haier. Service line 800-432-2737 also published. Appliances and HVAC, so hvac is the closest vocabulary term.'
+  source: 'https://www.geappliances.com/ge/service-and-support/faq.htm'
+  last_verified: '2026-10-26'
+  hours:
+    timezone: 'ET'
+    mon_fri: '8:00 AM - 8:00 PM'

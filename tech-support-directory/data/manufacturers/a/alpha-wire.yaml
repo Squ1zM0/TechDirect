@@ -1,0 +1,13 @@
+id: alpha-wire
+name: Alpha Wire
+website: https://www.alphawire.com
+categories: [electrical]
+aliases: ["Alpha Wire Co."]
+support:
+  - category: electrical
+    department: Customer Support
+    phone: "+18005225742"
+    country: US
+    notes: "Alpha Wire (Belden group company) North America contact 1-800-52-ALPHA (522-5742) per Alpha Wire/ThomasNet company profile. HQ Elizabeth NJ; also (908) 925-8000."
+    source: "https://www.thomasnet.com/company/alpha-wire-co-10001823/profile?coverage_area=JN&heading=9680208"
+    last_verified: "2026-10-26"

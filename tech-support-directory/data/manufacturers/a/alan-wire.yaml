@@ -1,0 +1,13 @@
+id: alan-wire
+name: Alan Wire
+website: https://www.alanwire.com/
+categories: [electrical]
+aliases: ["Alan Wire Company"]
+support:
+  - category: electrical
+    department: Customer Support
+    phone: "+18003258050"
+    country: US
+    notes: "Alan Wire Company, 1500 W. Malone Ave, Sikeston, MO 63801. Family-owned US manufacturer of copper and aluminum 600-volt wire and cable (THHN, XHHW, tray cable, service entrance) since 1974. Direct line (573) 471-9548 and info@alanwire.com also published. Not the Alan Wire of alan-wire.com (California), a different company."
+    source: "https://www.alanwire.com/wp-content/uploads/2022/05/SER-600v-8000-Aluminum.pdf"
+    last_verified: "2026-10-26"

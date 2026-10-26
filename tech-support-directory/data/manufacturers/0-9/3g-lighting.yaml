@@ -1,0 +1,13 @@
+id: 3g-lighting
+name: 3G Lighting
+website: https://www.3glighting.com
+categories: [electrical]
+aliases: ["3G LIGHTING"]
+support:
+  - category: electrical
+    department: Customer Support
+    phone: "+18884480440"
+    country: US
+    notes: "3G Lighting toll-free number on 3G Lighting manufacturer spec sheets (P: 905-850-2305, TF: 888-448-0440). 5-year limited warranty on LED systems per spec sheets."
+    source: "https://www.3glighting.com/GenerateFile.aspx?fn=ProductDownloadFile&DownloadFileID=29"
+    last_verified: "2026-10-26"

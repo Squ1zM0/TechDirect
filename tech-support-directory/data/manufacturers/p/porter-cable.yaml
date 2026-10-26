@@ -1,0 +1,13 @@
+id: porter-cable
+name: Porter-Cable
+website: https://www.portercable.com
+categories: [hardware]
+aliases: ["Porter-Cable Tools", "PORTER-CABLE"]
+support:
+  - category: hardware
+    department: Customer Support
+    phone: "+18888485175"
+    country: US
+    notes: "Porter-Cable, Jackson, TN (4825 Highway 45 North), a Stanley Black & Decker brand. Customer Care Center number published in Porter-Cable's own product manuals; parts and service also routed through portercable.com and factory/authorized service centers. Not labelled technical support, so recorded as Customer Support. Power tools and accessories; founded 1906 as Porter-Cable Machine Company."
+    source: "https://www.manualshelf.com/manual/porter-cable/90546223/flashlight-instruction-manual/page-11.html"
+    last_verified: "2026-10-26"

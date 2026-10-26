@@ -1,0 +1,16 @@
+id: rack-a-tiers
+name: Rack-A-Tiers
+website: https://rack-a-tiers.com/
+categories: [electrical]
+aliases: ["Rack-A-Tiers Manufacturing", "RACK-A-TIERS MFG"]
+support:
+  - category: electrical
+    department: Customer Support
+    phone: "+18889399991"
+    country: US
+    notes: "Canadian HQ number also published; the US toll-free line is used."
+    source: "https://rack-a-tiers.com/product/4-square-box-clamp-25-pcs"
+    last_verified: "2026-10-26"
+    hours:
+      timezone: "ET"
+      mon_fri: "8:00 AM - 8:00 PM"

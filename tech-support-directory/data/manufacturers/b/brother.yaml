@@ -1,0 +1,13 @@
+id: brother
+name: Brother
+website: https://www.brother-usa.com/support
+categories: [electrical]
+aliases: ["Brother International"]
+support:
+  - category: electrical
+    department: Customer Support
+    phone: "+18772768437"
+    country: US
+    notes: "Brother International Corporation USA customer service (1-877-BROTHER) for printers, scanners, label makers and sewing machines; also the published service-center locator line. Category mapping: printers/label makers have no dedicated vocabulary term; electrical is the closest."
+    source: "https://support.brother.com/g/s/id/htmldoc/mfc/mfc7840w/use/html/nug/intro1_5.html"
+    last_verified: "2026-10-26"

@@ -1,0 +1,14 @@
+id: mercury-displacement-industries
+name: Mercury Displacement Industries
+website: https://mdius.com
+categories:
+- electrical
+aliases: []
+support:
+- category: electrical
+  department: Customer Support
+  phone: "+18006344077"
+  country: US
+  notes: 'MDI, Inc., Edwardsburg, MI. Liquid level control float switches, mercury contactors/relays, tilt switches, solid state relays, grinder/sewage pumps. Local 269-663-8574. Category fit noted: closest vocabulary term is electrical (float switches/sewage pumps).'
+  source: https://www.mdius.com/pdf/SpecSheets/floats/SF2DY2000.pdf
+  last_verified: "2026-10-26"

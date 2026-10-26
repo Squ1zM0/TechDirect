@@ -1,0 +1,14 @@
+id: mettler-toledo
+name: Mettler Toledo
+website: https://www.mt.com
+categories:
+- electrical
+aliases: []
+support:
+- category: electrical
+  department: Customer Support
+  phone: "+18006388537"
+  country: US
+  notes: 'Columbus, OH HQ (1900 Polaris Parkway). Weighing and measuring instruments; no exact vocabulary term, closest fit is electrical (electronic instruments). Service email servicerequests@mt.com per MT-NA self-assessment. Official support page: ''800 METTLER (800 638 8537)''.'
+  source: https://www.mt.com/us/en/home/service/support-and-repair/support.html
+  last_verified: "2026-10-26"

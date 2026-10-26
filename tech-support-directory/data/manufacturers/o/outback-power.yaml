@@ -1,0 +1,13 @@
+id: outback-power
+name: OutBack Power
+website: https://www.outbackpower.com
+categories: [electrical]
+aliases: []
+support:
+  - category: electrical
+    department: Technical Support
+    phone: "+13606184363"
+    country: US
+    notes: "OutBack Power Technologies, Arlington, WA. Direct Technical Support number per OutBack warranty procedures and inverter manuals; main number +1 (360) 435-6030 also published. Support email support@outbackpower.com per manuals. Inverter/chargers, charge controllers, and balance-of-system products."
+    source: "https://old.outbackpower.com/resources/warranty/procedures"
+    last_verified: "2026-10-26"

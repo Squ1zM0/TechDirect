@@ -1,0 +1,13 @@
+id: paulson-manufacturing
+name: Paulson Manufacturing
+website: https://www.paulsonmfg.com
+categories: [electrical]
+aliases: ["Paulson Manufacturing Corp."]
+support:
+  - category: electrical
+    department: Customer Support
+    phone: "+18005422451"
+    country: US
+    notes: "Paulson Manufacturing Corp., Temecula, CA (46752 Rainbow Canyon Road). Toll-free company number published on paulsonmfg.com; direct (951) 676-2451 also published. Not labelled technical support, so recorded as Customer Support. Covers xref spellings Paulson (Arc Flash) and Paulson Manufacturing. Arc-flash face shields, goggles, and PPE since 1947; no safety/PPE term exists in the category vocabulary, so electrical (arc-flash/electrical-safety use) is the closest term."
+    source: "https://www.paulsonmfg.com/blog/author/paulson/page/4/"
+    last_verified: "2026-10-26"

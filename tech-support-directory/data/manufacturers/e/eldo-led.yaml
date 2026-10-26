@@ -1,0 +1,13 @@
+id: eldo-led
+name: eldoLED
+website: https://www.eldoled.com
+categories: [electrical]
+aliases: ["EldoLED"]
+support:
+  - category: electrical
+    department: Customer Support
+    phone: "+18773536553"
+    country: US
+    notes: "eldoLED (Acuity Brands; North America support, Conyers, GA) LED drivers and lighting controls. Email nasupport@eldoled.com also published. The Netherlands HQ phone +31 (0)40 782 04 00 is NOT the US line and was not used."
+    source: "https://manuals.plus/m/a4a4685b19b743da539778f3110df32599687e46ff3e37a3c5f17848148f06ae"
+    last_verified: "2026-10-26"

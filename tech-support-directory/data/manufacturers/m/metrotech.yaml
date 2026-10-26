@@ -1,0 +1,14 @@
+id: metrotech
+name: Metrotech
+website: https://www.vivax-metrotech.com/
+categories:
+- electrical
+aliases: []
+support:
+- category: electrical
+  department: Customer Support
+  phone: "+18006387682"
+  country: US
+  notes: Metrotech Corporation legacy cable-locator brand, now Vivax-Metrotech Corp, Santa Clara, CA. Email SaleUSA@vxmt.com; local (408) 962-9990. Alternate toll-free 800-446-3392 and local 408-734-1400 appear in Vivax-Metrotech manuals. Covers xref spelling 'Metrotech (Cable Locators)'.
+  source: https://www.etesters.com/catalog/CD9C6477-1422-08DF-AAF2-8BC76BF14D1E/?page=2
+  last_verified: "2026-10-26"

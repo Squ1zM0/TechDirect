@@ -1,0 +1,12 @@
+id: ameron-pole-products
+name: Ameron Pole Products
+categories: [electrical]
+aliases: ["Ameron"]
+support:
+  - category: electrical
+    department: Customer Support
+    phone: "+18005526376"
+    country: US
+    notes: "Spuncast concrete lighting poles (Traditional, Victorian, Contemporary series), formerly Ameron International's pole division; now NOV Pole Products (poleproducts@nov.com, nov.com/poleproducts). Support line published in Ameron pole data sheets. No lighting category exists in the TechDirect vocabulary, so electrical is used as the closest term."
+    source: "https://ameronpoles.com/wp-content/uploads/2024/05/ameron-contemporary-series-1c4-0c4-octagonal-poles-data-sheet.pdf"
+    last_verified: "2026-10-26"

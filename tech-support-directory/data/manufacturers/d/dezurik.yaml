@@ -1,0 +1,13 @@
+id: dezurik
+name: DeZURIK
+website: https://www.dezurik.com
+categories: [valves]
+aliases: []
+support:
+  - category: valves
+    department: Customer Support
+    phone: "+13202592000"
+    country: US
+    notes: "DeZURIK, Inc. (Sartell, MN) headquarters/sales-and-service phone per the manufacturer's own bulletins; email info@dezurik.com. Industrial valves: plug, butterfly, knife gate and check valves."
+    source: "https://www.dezurik.com/wp-content/uploads/2024/10/dezurik-4vg63-solenoid-valves-4vg63-4-way-solenoid-valves-technical-84_00_2.pdf"
+    last_verified: "2026-10-26"

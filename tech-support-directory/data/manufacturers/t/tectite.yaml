@@ -1,0 +1,12 @@
+id: tectite
+name: "Tectite"
+categories: [plumbing]
+aliases: []
+support:
+  - category: plumbing
+    department: Customer Support
+    phone: "+17048416000"
+    country: US
+    notes: "TECTITE push-connect plumbing fittings; originated with Elkhart Products Corporation. Current install literature routes customer service through Apollo Valves."
+    source: "https://assets.centromrosupply.com/product_attachments/147865/get_spec"
+    last_verified: "2026-10-26"

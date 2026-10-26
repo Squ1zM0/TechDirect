@@ -1,0 +1,13 @@
+id: lima-register
+name: Lima Register
+website: "https://www.limaregister.com"
+categories: [airflow]
+aliases: ["Lima Register Co.", "Lima Registers"]
+support:
+  - category: airflow
+    department: Customer Support
+    phone: "+18005281411"
+    country: US
+    notes: "Lima Register, founded 1947; grilles, registers, diffusers and accessories. Acquired 2005 by Hart & Cooley (Tomkins Air Systems) via Milcor; brand retained under the American Metal Products / Hart & Cooley group. Number published as the Lima Register line number by TRC Sales, the American Metal Products representative listing."
+    source: "https://www.trcsales.com/?p=342"
+    last_verified: "2026-10-26"

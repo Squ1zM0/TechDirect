@@ -1,0 +1,13 @@
+id: circa-telecom
+name: Circa Telecom
+website: http://www.circatelecom.com/
+categories: [electrical]
+support:
+  - category: electrical
+    department: Technical Support
+    phone: "+18007836556"
+    email: circatech@circatelecom.com
+    country: US
+    notes: "Circa Telecom, Inc., Tampa, FL; telecom surge protection modules, building entrance terminals, and network interface devices. Line listed under 'For Technical Assistance' (Surge Protection Division) in Circa profile material; local line (830) 693-4039 also published."
+    source: "https://www.alldataresource.com/assets/Circa_Telecom/Circa-Telecom-3B1S-300-Digital-Protection-Module-Data-Sheet.pdf"
+    last_verified: "2026-10-26"

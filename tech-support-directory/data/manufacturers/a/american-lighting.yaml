@@ -1,0 +1,16 @@
+id: american-lighting
+name: American Lighting
+website: https://www.americanlighting.com
+categories: [electrical]
+aliases: ["American Lighting Inc."]
+support:
+  - category: electrical
+    department: Technical Support
+    phone: "+18002858051"
+    country: US
+    notes: "American Lighting Inc., Denver CO (11775 E. 45th Ave, Denver, CO 80239). Technical Support Mon-Fri 8:00 AM - 5:00 PM MDT, email technicalsupport@americanlighting.com; general/customer line 800-880-1180 also published."
+    source: "https://americanlighting.netlify.app/"
+    last_verified: "2026-10-26"
+    hours:
+      timezone: "MT"
+      mon_fri: "8:00 AM - 5:00 PM"

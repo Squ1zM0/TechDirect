@@ -1,0 +1,12 @@
+id: lake-cable
+name: Lake Cable
+categories: [electrical]
+aliases: []
+support:
+  - category: electrical
+    department: Customer Support
+    phone: "+18885188086"
+    country: US
+    notes: "Lake Cable, Bensenville, IL / Valparaiso, IN; wire and cable manufacturer (instrumentation, tray, thermocouple, HVAC, fire alarm, broadcast, communication, utility). General company number."
+    source: "http://www.lakecable.com/"
+    last_verified: "2026-10-26"

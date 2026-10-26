@@ -1,0 +1,16 @@
+id: whelen-engineering
+name: "Whelen Engineering Company"
+website: https://www.whelen.com
+categories: [electrical]
+aliases: ["Whelen Engineering"]
+support:
+  - category: electrical
+    department: Technical Support
+    phone: "+18605269504"
+    country: US
+    notes: "Extension 6; email techsupport@whelen.com; hours Mon-Fri 8:30am-5pm ET; Chester CT. Emergency warning lights/sirens."
+    source: "https://www.whelen.com/support-and-training/faqs"
+    last_verified: "2026-10-26"
+    hours:
+      timezone: "ET"
+      mon_fri: "8:30 AM - 5:00 PM"

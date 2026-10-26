@@ -1,0 +1,13 @@
+id: peco-fasteners
+name: Peco Fasteners
+website: https://www.pecofasteners.com/
+categories: [hardware]
+aliases: ["Peco Fasteners, Inc.", "PECO Fasteners Inc"]
+support:
+  - category: hardware
+    department: Customer Support
+    phone: "+17707451300"
+    country: US
+    notes: "Peco Fasteners, Inc., Douglasville/Austell, GA. General company phone; not labelled technical support, so recorded as Customer Support. Fasteners, screws, hardware. Distinct from PECO the Philadelphia electric utility, Peco InspX, and PECO Pallet."
+    source: "https://www.pecofasteners.com/"
+    last_verified: "2026-10-26"

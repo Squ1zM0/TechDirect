@@ -1,0 +1,12 @@
+id: azure-access-technology
+name: Azure Access Technology
+categories: [electrical]
+aliases: ["Azure Access"]
+support:
+  - category: electrical
+    department: Customer Support
+    phone: "+19494187799"
+    country: US
+    notes: "Access-control hardware (reader interfaces, OSDP/Wiegand controllers), Newport Beach CA. Company line published on Azure Access datasheets."
+    source: "https://azure-access.com/wp-content/uploads/Azure-DS-BLU-RI2M.pdf"
+    last_verified: "2026-10-26"

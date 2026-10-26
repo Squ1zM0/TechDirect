@@ -1,0 +1,13 @@
+id: quikrete
+name: QUIKRETE
+website: https://www.quikrete.com/ContactUs/CustomerService.asp
+categories: [hardware]
+aliases: ["QUIKRETE CEMENT & CONCRETE PROD"]
+support:
+  - category: hardware
+    department: Customer Support
+    phone: "+18002825828"
+    country: US
+    notes: "Quikrete Companies, Atlanta GA. The TECE near-miss candidate is rejected; Quikrete is independent."
+    source: "https://www.quikrete.com/ContactUs/CustomerService.asp"
+    last_verified: "2026-10-26"

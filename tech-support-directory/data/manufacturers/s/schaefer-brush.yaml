@@ -1,0 +1,18 @@
+id: schaefer-brush
+name: Schaefer Brush
+website: https://schaeferbrush.com/
+categories:
+- hardware
+aliases: []
+support:
+- category: hardware
+  department: Customer Support
+  phone: '+18003473501'
+  country: US
+  notes: Schaefer Brush Manufacturing Co., Inc., 1101 S. Prairie Avenue, Waukesha, WI 53186. Local 262-547-3500; sales@schaeferbrush.com; customer service staff 8 a.m.-4:30 p.m. Central. Brushes, including
+    tradesman, HVAC and plumbing brushes.
+  source: schaeferbrush.com pages (Toll Free 800-347-3501)
+  last_verified: '2026-10-26'
+  hours:
+    timezone: CT
+    mon_fri: 8:00 AM - 4:30 PM

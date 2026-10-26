@@ -1,0 +1,18 @@
+id: solais
+name: Solais
+website: https://solais.com
+categories: [electrical]
+aliases: []
+support:
+  - category: electrical
+    department: Customer Support
+    phone: "+14692941516"
+    country: US
+    notes: "Solais Lighting, LLC, Frisco, TX (architectural-grade LED lighting: recessed multiples, downlights, pendants, track and site lighting). Email clientservice@solais.com."
+    source: "https://solais.com/wp-content/uploads/productdownloads/Solais-ProductSheet-GridLite2.pdf"
+    last_verified: "2026-10-26"
+hours:
+  timezone: America/Chicago
+  days: [Mon, Tue, Wed, Thu, Fri]
+  open: "08:00"
+  close: "17:00"

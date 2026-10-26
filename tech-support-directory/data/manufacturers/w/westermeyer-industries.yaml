@@ -1,0 +1,13 @@
+id: westermeyer-industries
+name: "Westermeyer Industries"
+website: https://westermeyerind.com
+categories: [hvac]
+aliases: ["Westermeyer"]
+support:
+  - category: hvac
+    department: Customer Support
+    phone: "+12177543277"
+    country: US
+    notes: "Bluffs IL. Email customercare@westermeyerind.com. Hours M-F 8am-4:30pm (timezone not stated in source, so no hours block). Refrigeration oil management components (oil separators, reservoirs, strainers); closest vocabulary term: hvac. Xref spelling Westermeyer shares this file."
+    source: "https://westermeyerind.com/wp-content/uploads/2026/04/OilStrainer_InstructionSheet.pdf"
+    last_verified: "2026-10-26"

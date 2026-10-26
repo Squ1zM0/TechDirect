@@ -1,0 +1,16 @@
+id: bemis
+name: Bemis
+website: https://www.bemisseats.com
+categories: [plumbing]
+aliases: ["Bemis Manufacturing"]
+support:
+  - category: plumbing
+    department: Customer Support
+    phone: "+18887226488"
+    country: US
+    notes: "Bemis Manufacturing Co. customer service for toilet seats and bath products; 1-year manufacturer warranty. Bemis product manuals also publish the Sheboygan Falls main line 800-558-7651."
+    source: "https://www.homedepot.com/p/reviews/BEMIS-Round-Enameled-Wood-Closed-Front-Toilet-Seat-in-Venetian-Pink-Removes-for-Easy-Cleaning-500EC-063/202757530/3"
+    last_verified: "2026-10-26"
+    hours:
+      timezone: "CT"
+      mon_fri: "8:00 AM - 5:00 PM"

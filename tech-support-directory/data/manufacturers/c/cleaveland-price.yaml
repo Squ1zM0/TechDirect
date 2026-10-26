@@ -1,0 +1,14 @@
+id: cleaveland-price
+name: Cleaveland/Price
+website: http://www.cleavelandprice.com/
+categories: [electrical]
+aliases: ["Cleaveland Price Inc.", "Cleveland / Price"]
+support:
+  - category: electrical
+    department: Customer Support
+    phone: "+17248644177"
+    email: sales@cleavelandprice.com
+    country: US
+    notes: "Cleaveland/Price, Inc., Trafford, PA (founded 1975); high-voltage disconnect switches to 500 kV, motor operators, switch automation. Covers xref spellings 'Cleaveland Price Inc.' and 'Cleveland / Price' (both parent Cleaveland/Price; the latter is a misspelling of Cleaveland, not a Cleveland company)."
+    source: "https://www.cylex.us.com/company/cleaveland-price--inc--16017248.html"
+    last_verified: "2026-10-26"

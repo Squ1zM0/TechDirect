@@ -1,0 +1,13 @@
+id: wire-guard-systems
+name: "Wire Guard Systems, Inc."
+website: https://www.wireguardsystemsinc.com
+categories: [electrical]
+aliases: []
+support:
+  - category: electrical
+    department: Customer Support
+    phone: "+13235882166"
+    country: US
+    notes: "Huntington Park CA; founded 1973. Enclosures, junction/pull boxes. NOT the WireGuard VPN software; NOT BuyRite Electric (distributor)."
+    source: "https://www.wireguardsystemsinc.com"
+    last_verified: "2026-10-26"

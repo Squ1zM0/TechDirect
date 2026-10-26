@@ -1,0 +1,13 @@
+id: priority-wire-and-cable
+name: Priority Wire & Cable
+website: https://www.prioritywire.com/
+categories: [electrical]
+aliases: ["Priority Wire Cable"]
+support:
+  - category: electrical
+    department: Customer Support
+    phone: "+18009455542"
+    country: US
+    notes: "Priority Wire & Cable, Inc."
+    source: "https://www.prioritywire.com/pages/flexible_conduit_rws.php"
+    last_verified: "2026-10-26"

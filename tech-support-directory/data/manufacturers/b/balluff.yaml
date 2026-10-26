@@ -1,0 +1,12 @@
+id: balluff
+name: Balluff
+categories: [electrical]
+aliases: ["Balluff Inc."]
+support:
+  - category: electrical
+    department: Customer Support
+    phone: "+18005438390"
+    country: US
+    notes: "Industrial sensors and automation (inductive, photoelectric, capacitive, ultrasonic, IO-Link), US office Florence KY; German family-owned manufacturer. Toll-free line published in Balluff company listings; local line 859-727-2200 also published."
+    source: "https://www.photonics.com/Company.aspx?CompanyID=1474&CatID=68856&CatGroupID=111&AID=69478"
+    last_verified: "2026-10-26"

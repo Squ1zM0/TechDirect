@@ -1,0 +1,13 @@
+id: energizer
+name: "Energizer"
+categories:
+- electrical
+aliases: ["Eveready", "Eveready Batteries", "EVEREADY BATTERY/ENERGIZER"]
+support:
+- category: electrical
+  department: "Customer Support"
+  phone: "+18003837323"
+  country: US
+  notes: "Energizer Holdings, Inc., St. Louis MO. Eveready is an Energizer portfolio brand; the number is printed on Energizer/Eveready datasheets as 1-800-383-7323 USA/CAN. Hours Mon-Fri 8:00 AM-5:00 PM ET per a directory listing. Email customersupport@energizer.com. Batteries; no battery term exists in the category vocabulary, so electrical is the closest term."
+  source: "https://data.energizer.com/pdfs/3-312.pdf"
+  last_verified: "2026-10-26"

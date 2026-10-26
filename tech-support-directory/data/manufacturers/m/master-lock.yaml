@@ -1,0 +1,14 @@
+id: master-lock
+name: Master Lock
+website: https://www.masterlock.com/
+categories:
+- hardware
+aliases: []
+support:
+- category: hardware
+  department: Customer Support
+  phone: "+18003089244"
+  country: US
+  notes: Locks, safes. Safes support 800-828-1438; Vault help line 866-760-1936. Filed number is the distributor/general line 800-308-9244.
+  source: https://manuals.plus/m/595180eb6e9c4ac3fe55405ecf555fa37413744ece10317555187e4dfae903dd
+  last_verified: "2026-10-26"

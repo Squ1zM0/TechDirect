@@ -1,0 +1,15 @@
+id: tms-lighting
+name: TMS Lighting
+website: https://www.tmslighting.com/
+categories:
+- electrical
+aliases: []
+support:
+- category: electrical
+  department: Customer Support
+  phone: '+18667931174'
+  country: US
+  notes: TMS Lighting, 247A Summerlea Rd, Brampton, ON L6T 4E1, Canada. The published line is a North
+    American toll-free line; local number (905) 793-1174. 5-year warranty; info@tmslighting.com / customercare@tmslighting.com.
+  source: https://www.tms.vestranet.com/files/resources/print-resources-041421.pdf
+  last_verified: '2026-10-26'

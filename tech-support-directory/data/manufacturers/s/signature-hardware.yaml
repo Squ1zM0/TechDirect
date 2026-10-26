@@ -1,0 +1,13 @@
+id: signature-hardware
+name: Signature Hardware
+website: https://www.signaturehardware.com
+categories: [plumbing]
+aliases: []
+support:
+  - category: plumbing
+    department: Customer Support
+    phone: "+18668552284"
+    country: US
+    notes: "Signature Hardware (bathroom and kitchen fixtures, faucets, tubs, vanities). Customer service number from product installation instructions; order line 855-715-1800 is also published on the company site."
+    source: "https://www.manualshelf.com/manual/signature-hardware/404055-2/installation-sheet-english.html"
+    last_verified: "2026-10-26"

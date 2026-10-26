@@ -1,0 +1,16 @@
+id: tin-knocker
+name: Tin Knocker
+website: https://www.tinknocker.com/
+categories:
+- hvac
+aliases: []
+support:
+- category: hvac
+  department: Customer Support
+  phone: '+18006400746'
+  country: US
+  notes: Tin Knocker is a product line of TAAG Industries Corp. ('The Tin Knocker People'), 1550 Simpson
+    Way, Escondido, CA 92029, info@taagind.com. Sheet-metal working machinery for HVAC contractors. Not
+    TinKnockers Sheet Metal Company, Temple, TX, nor Toledo Tin Knockers (contractors).
+  source: https://www.tinknocker.com/wp-content/uploads/2020/06/24.TK Angle Iron Worker Manual-pdf.pdf
+  last_verified: '2026-10-26'

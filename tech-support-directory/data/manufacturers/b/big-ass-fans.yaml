@@ -1,0 +1,16 @@
+id: big-ass-fans
+name: Big Ass Fans
+website: https://bigassfans.com/support/faqs
+categories: [airflow]
+aliases: []
+support:
+  - category: airflow
+    department: Customer Support
+    phone: "+18772443267"
+    country: US
+    notes: "Big Ass Fans phone support for HVLS and commercial/residential fans; Lexington, KY support team. Warranties up to 15 years depending on product."
+    source: "https://bigassfans.com/support/faqs"
+    last_verified: "2026-10-26"
+    hours:
+      timezone: "ET"
+      mon_fri: "8:00 AM - 6:00 PM"

@@ -1,0 +1,12 @@
+id: anaco-husky
+name: Anaco-Husky
+categories: [plumbing]
+aliases: ["Anaco"]
+support:
+  - category: plumbing
+    department: Customer Support
+    phone: "+19513722732"
+    country: US
+    notes: "No-hub / DWV coupling manufacturer, Corona CA; anaco-husky.com identifies the company with McWane (Buy American page). Number published on Anaco-Husky submittal sheets."
+    source: "https://www.anaco-husky.com/upl/downloads/catalog/products/submittal-sheet-rigid-quik.pdf"
+    last_verified: "2026-10-26"

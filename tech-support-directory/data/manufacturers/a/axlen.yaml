@@ -1,0 +1,12 @@
+id: axlen
+name: Axlen
+categories: [electrical]
+aliases: ["Axlen Inc", "Axlen Lighting"]
+support:
+  - category: electrical
+    department: Customer Support
+    phone: "+14086280361"
+    country: US
+    notes: "LED lighting and controls for commercial/government/industrial, Saratoga CA (founded 2011). Phone published in business directories; manufacturer cut sheets publish sales@axleninc.com only. No lighting category exists in the TechDirect vocabulary, so electrical is used as the closest term."
+    source: "https://rocketreach.co:443/axlen-inc-profile_b472ed35fc5cdebc"
+    last_verified: "2026-10-26"

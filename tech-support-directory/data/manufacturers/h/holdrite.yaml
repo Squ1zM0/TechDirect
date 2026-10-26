@@ -1,0 +1,15 @@
+id: holdrite
+name: HoldRite
+website: https://www.holdrite.com/
+categories:
+- plumbing
+aliases:
+- Holdrite
+support:
+- category: plumbing
+  department: Customer Support
+  phone: '+18003210316'
+  country: US
+  notes: 'HoldRite, Poway, CA. Also 760-744-6944; email sales@holdrite.com. HoldRite became part of Reliance Worldwide Corporation (RWC) in 2017, but it publishes its own distinct contact, so it keeps its own file. Supports, brackets, firestop.'
+  source: https://www.manualshelf.com/manual/holdrite/601-20/how-to-guide-english.html
+  last_verified: '2026-10-26'

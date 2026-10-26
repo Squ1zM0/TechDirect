@@ -1,0 +1,14 @@
+id: fj-moore-manufacturing
+name: "F.J. Moore Manufacturing"
+website: "http://www.fjmooremfg.com/"
+categories:
+- hardware
+aliases: []
+support:
+- category: hardware
+  department: "Customer Support"
+  phone: "+18006582331"
+  country: US
+  notes: "F.J. Moore Manufacturing, 500 Washington St W, Cannon Falls, MN. Number from a place listing; hours Mon-Fri 8:00 AM-4:30 PM CT per the same listing. The number is place-listing published, not verified on the company own site; that caveat is stated here. Metal fabrication and manufacturing; hardware is the closest vocabulary term. NOT Moore Manufacturing (Skykomish WA) and NOT Moore Machine Tools (West Jordan UT)."
+  source: "http://www.fjmooremfg.com/"
+  last_verified: "2026-10-26"

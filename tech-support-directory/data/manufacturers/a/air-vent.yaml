@@ -1,0 +1,13 @@
+id: air-vent
+name: Air Vent
+website: https://www.airvent.com
+categories: [airflow]
+aliases: ["Air Vent Inc."]
+support:
+  - category: airflow
+    department: Customer Support
+    phone: "+18002478368"
+    country: US
+    notes: "Air Vent, Inc., 4117 Pinnacle Point Drive, Suite 400, Dallas, TX 75211. Attic/roof ventilation manufacturer (ridge vents, intake vents, power attic ventilators); 1-800-AIR-VENT printed on manufacturer brochures; email ventilation@gibraltar1.com. Separate recall line 877-247-4878 applies only to recalled 2003-2013 attic fan motors (Aug 2025 CPSC recall). NOT Nu-Air Ventilation Systems (near-miss candidate), a different company."
+    source: "https://mans.io/files/viewer/1927542/1"
+    last_verified: "2026-10-26"

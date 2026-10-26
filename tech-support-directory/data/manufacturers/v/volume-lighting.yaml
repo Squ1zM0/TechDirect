@@ -1,0 +1,13 @@
+id: volume-lighting
+name: "Volume Lighting"
+website: https://www.volumelighting.com
+categories: [electrical]
+aliases: ["Volume"]
+support:
+  - category: electrical
+    department: Customer Support
+    phone: "+12818216888"
+    country: US
+    notes: "Houston TX. Email sales@volumelighting.com. Xref spelling Volume treated as truncated spelling of Volume Lighting (variant pair)."
+    source: "https://www.volumelighting.com/wp-content/uploads/2018/01/V1126-33.pdf"
+    last_verified: "2026-10-26"

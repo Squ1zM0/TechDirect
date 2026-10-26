@@ -1,0 +1,13 @@
+id: spectronics
+name: Spectronics
+website: https://www.spectroline.com
+categories: [hvac]
+aliases: []
+support:
+  - category: hvac
+    department: Customer Support
+    phone: "+18002748888"
+    country: US
+    notes: "Spectronics Corporation, Westbury, NY (manufacturer of Spectroline UV inspection lamps and fluorescent leak-detection dyes for HVAC/R, aviation and industrial use; MAXIMA, OPTIMAX and TRITAN lamp lines). Local phone 516-333-4840 also published. Covers both xref spellings Spectronics and Spectroline (Spectroline is the Spectronics brand)."
+    source: "https://www.thomasnet.com/company/spectronics-corporation-407015/profile?coverage_area=DN&heading=26482000"
+    last_verified: "2026-10-26"

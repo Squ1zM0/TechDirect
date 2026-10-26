@@ -1,0 +1,13 @@
+id: dl-manufacturing
+name: DL Manufacturing
+website: https://www.dlmanufacturing.com
+categories: [hardware]
+aliases: ["DL Mfg."]
+support:
+  - category: hardware
+    department: Customer Support
+    phone: "+13154637348"
+    country: US
+    notes: "DL Manufacturing (North Syracuse, NY) loading dock equipment and dock lighting, including the Versa Light dock light line and QxV tilt-back doors. Number from the company's own product literature; toll-free 866-235-7468 and sales@dlmanufacturing.com also published. Distinct from DLM (Systems, LLC, Germantown, WI), a separate loading-dock company."
+    source: "https://www.dlmanufacturing.com/wp-content/uploads/2023/11/VersaLight-LR-10-14.pdf"
+    last_verified: "2026-10-26"

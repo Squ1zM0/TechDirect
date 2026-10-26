@@ -1,0 +1,13 @@
+id: fast-stat
+name: "Fast-Stat"
+categories:
+- hvac-controls
+aliases: []
+support:
+- category: hvac-controls
+  department: "Technical Support"
+  phone: "+18007754750"
+  country: US
+  notes: "Fast-Stat, made by Nordic Technology (Randleman NC). Described in manuals as the FAST-STAT technical support line, 9am-5pm PST. Email info@nordictech.ca. HVAC wiring extenders and Common Maker."
+  source: "https://www.manualshelf.com/manual/fast-stat/fscm00/1-instructions-assembly-english.html"
+  last_verified: "2026-10-26"

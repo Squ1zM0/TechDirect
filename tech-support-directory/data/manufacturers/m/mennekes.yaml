@@ -1,0 +1,14 @@
+id: mennekes
+name: Mennekes
+website: https://www.mennekes.com
+categories:
+- electrical
+aliases: []
+support:
+- category: electrical
+  department: Customer Support
+  phone: "+18008827584"
+  country: US
+  notes: MENNEKES Electrical Products, North American HQ Fairfield, NJ; parent MENNEKES Elektrotechnik GmbH (Germany). Email info@MENNEKES.com. Industrial plugs, receptacles.
+  source: https://www.mennekes.com/resources/compliance-certifications/
+  last_verified: "2026-10-26"

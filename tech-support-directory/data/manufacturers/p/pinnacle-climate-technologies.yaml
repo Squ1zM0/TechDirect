@@ -1,0 +1,13 @@
+id: pinnacle-climate-technologies
+name: Pinnacle Climate Technologies
+website: https://pinnacleclimate.com
+categories: [airflow, hvac]
+aliases: ["Pinnacle Climate", "Schaefer Ventilation", "Pinnacle Products"]
+support:
+  - category: airflow
+    department: Customer Support
+    phone: "+18006416996"
+    country: US
+    notes: "Pinnacle Climate Technologies, Sauk Rapids, MN. Toll-free number published site-wide on pinnacleclimate.com; fax (320) 251-2922 also published. Formed 2015 by the merger of Pinnacle Products and Schaefer Ventilation; expanded 2019 into a 120,000 sq ft Sauk Rapids facility. Not labelled technical support, so recorded as Customer Support. Industrial fans, ventilation, evaporative coolers, heaters, and air-quality products (Schaefer, Master, WayCool, Americ brands). Older manuals also cite 800-779-3267 for Schaefer fan assistance; the current site number is used as the phone field."
+    source: "https://pinnacleclimate.com/about-us/"
+    last_verified: "2026-10-26"

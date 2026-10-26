@@ -1,0 +1,16 @@
+id: cd-technologies
+name: C&D Technologies
+website: https://www.cdtechno.com
+categories: [electrical]
+aliases: ["C&D Technologies, Inc."]
+support:
+  - category: electrical
+    department: Technical Support
+    phone: "+18004236569"
+    country: US
+    notes: "C&D Technologies, Blue Bell/Horsham, PA, maker of standby batteries, UPS and telecom reserve power systems since 1906. Technical support hours Mon-Fri 8 AM-5 PM ET, with 24-hour emergency support also available. Direct line (562) 236-3045 also published; general line 800-543-8630 also published."
+    source: "https://www.cdtechno.com/resources/technical-support-and-faqs/faqs"
+    last_verified: "2026-10-26"
+    hours:
+      timezone: "ET"
+      mon_fri: "8:00 AM - 5:00 PM"

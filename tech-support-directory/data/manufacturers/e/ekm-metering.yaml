@@ -1,0 +1,13 @@
+id: ekm-metering
+name: EKM Metering
+website: https://ekmmetering.com
+categories: [electrical]
+aliases: ["Ekstrom Metering", "EKM"]
+support:
+  - category: electrical
+    department: Customer Support
+    phone: "+18314257371"
+    country: US
+    notes: "EKM Metering (Santa Cruz, CA) electric, water and gas submeters (Omnimeter universal meters, EKM Dash software). Number and email info@ekmmetering.com from the company's own brochure. Identity note: the xref spelling 'Ekstrom Metering' is treated as a distributor spelling of EKM Metering, the only metering manufacturer matching that name; no separate 'Ekstrom' metering company was found."
+    source: "https://documents.ekmmetering.com/EKM_Brochure_2012.pdf"
+    last_verified: "2026-10-26"

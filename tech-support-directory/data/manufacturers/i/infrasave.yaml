@@ -1,0 +1,15 @@
+id: infrasave
+name: InfraSave
+website: https://www.infrasave.com/
+categories:
+- hvac
+aliases:
+- InfraSave (Schwank)
+support:
+- category: hvac
+  department: Technical Support
+  phone: '+18774463727'
+  country: US
+  notes: 'InfraSave is a Schwank Group brand of gas-fired infrared heaters. No schwank file exists in the reference, so parent-resolution to a non-existent file is impossible; InfraSave keeps its own file using the parent group published contact. Schwank Group Customer and Technical Services; email csr@schwankgroup.com. Older (2005) manuals listed a separate InfraSave Inc. number 1-866-INFRASV (866-463-7278) and info@infrasave.com; the later (2013) manual consolidates to the Schwank Group line, which is primary.'
+  source: https://manualzilla.com/doc/7297348/schwank-s100u-owner-s-manual
+  last_verified: '2026-10-26'

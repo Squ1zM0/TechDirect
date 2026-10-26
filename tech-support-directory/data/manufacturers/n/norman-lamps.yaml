@@ -1,0 +1,13 @@
+id: norman-lamps
+name: Norman Lamps
+website: https://normanlamps.com/index.php?route=extension/module/mmos_attachmanager/getfile&product_attach_file_id=254
+categories: [electrical]
+aliases: ["Norman"]
+support:
+  - category: electrical
+    department: Customer Support
+    phone: "+18009928020"
+    country: US
+    notes: "Norman Lamps, Inc., St. Charles IL (1775 Wallace Ave); lamp supplier to electrical supply companies, distributors and OEMs since 1985; local 630-377-3559; email sales@normanlamps.com. Bare 'Norman' read as Norman Lamps (electrical-supply lamp brand), not Norman photo lighting."
+    source: "https://normanlamps.com/index.php?route=extension/module/mmos_attachmanager/getfile&product_attach_file_id=254"
+    last_verified: "2026-10-26"

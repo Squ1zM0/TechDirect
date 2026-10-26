@@ -1,0 +1,12 @@
+id: lawler
+name: Lawler
+categories: [plumbing]
+aliases: ["Lawler Manufacturing"]
+support:
+  - category: plumbing
+    department: Customer Support
+    phone: "+13172611212"
+    country: US
+    notes: "Lawler Manufacturing Co., Indianapolis, IN; thermostatic mixing valves and tempered-water valves. General company number."
+    source: "https://www.thomasnet.com/company/lawler-manufacturing-co-inc-10022621/profile"
+    last_verified: "2026-10-26"

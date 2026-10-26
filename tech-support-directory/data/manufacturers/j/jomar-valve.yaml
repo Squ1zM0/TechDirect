@@ -1,0 +1,14 @@
+id: jomar-valve
+name: Jomar Valve
+website: https://jomarvalve.com/
+categories:
+- valves
+aliases: []
+support:
+- category: valves
+  department: Customer Support
+  phone: '+18003255690'
+  country: US
+  notes: "Valves; 7243 Miller Dr., Warren, MI 48092, per a MasterSpec section licensed to Jomar Valve. Direct 586-268-1220 per the 2016 price book. Ferguson lists the brand as Jomar International (water-heater valve kits); that spelling is noted, not added as a verified alias."
+  source: https://docest.com/doc/203201/section-230523-11-globe-valves-for-hvac-piping
+  last_verified: '2026-10-26'

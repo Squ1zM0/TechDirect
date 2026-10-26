@@ -1,0 +1,12 @@
+id: stego
+name: "STEGO Inc"
+categories: [electrical]
+aliases: ["STEGO"]
+support:
+  - category: electrical
+    department: Customer Support
+    phone: "+18887834611"
+    country: US
+    notes: "STEGO Inc thermal management and enclosure climate products (enclosure heaters, thermostats), Kennesaw GA. Toll-free general line; direct line also published (770) 984-0858. Not to be confused with Stego Industries LLC (below-slab vapor barriers), a different company."
+    source: "https://www.stego-group.com/en-us/stego-news"
+    last_verified: "2026-10-26"

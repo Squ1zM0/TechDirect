@@ -1,0 +1,13 @@
+id: lotus-led
+name: Lotus LED
+website: "https://www.lotusledlights.com/"
+categories: [electrical]
+aliases: ["Lotus LED Lights"]
+support:
+  - category: electrical
+    department: Customer Support
+    phone: "+18442456887"
+    country: US
+    notes: "Lotus LED Lights; LED recessed/gimbal downlights and tape lighting. US support number from Lotus's own installation manuals (support@lotusledlights.com). Canadian company headquartered in Surrey, BC (604-538-3090 per its own warranty document) with a US warehouse in Vancouver, WA (360-200-5500); the US toll-free support line is published as primary, not the Canadian HQ number."
+    source: "https://manuals.plus/lotus-led-lights/ads2fgstrgbcw-wh-series-rgb-floating-gimbal-manual"
+    last_verified: "2026-10-26"

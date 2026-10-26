@@ -1,0 +1,13 @@
+id: litelab
+name: Litelab
+website: "https://litelab.com"
+categories: [electrical]
+aliases: ["LITELAB CORP"]
+support:
+  - category: electrical
+    department: Customer Support
+    phone: "+17168564491"
+    country: US
+    notes: "Litelab Corporation, architectural lighting, Buffalo, NY (251 Elm Street), founded 1974. Number from Litelab's own blog; an ARCAT trade listing for the same Buffalo address separately publishes 716-856-4300 — own-site number used as primary, ARCAT number noted as a conflict."
+    source: "https://litelab.com/blog/new-year-new-litelab"
+    last_verified: "2026-10-26"

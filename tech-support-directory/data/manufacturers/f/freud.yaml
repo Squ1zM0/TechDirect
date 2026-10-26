@@ -1,0 +1,13 @@
+id: freud
+name: 'Freud'
+categories:
+- hardware
+aliases: []
+support:
+- category: hardware
+  department: 'Technical Support'
+  phone: '+18003344107'
+  country: US
+  notes: 'Manufacturer manual wording: for technical advice, contact us. Freud America / Bosch. Tools, so hardware is the closest vocabulary term.'
+  source: 'https://www.manualsdir.com/manuals/106284/freud-tools-ft3000vce.html?page=21'
+  last_verified: '2026-10-26'

@@ -1,0 +1,13 @@
+id: cg-pauwels
+name: CG Power Systems (Pauwels)
+categories: [electrical]
+aliases: ["CG (Pauwels)", "Pauwels Transformers", "CG Power Systems Belgium"]
+support:
+  - category: electrical
+    department: Customer Support
+    phone: "+3215283333"
+    country: BE
+    email: belgium@cgglobal.com
+    notes: "CG Power Systems Belgium NV (formerly Pauwels), Mechelen, Belgium; power transformers and substations. No US support line was found; the published Belgium line +32 15 283 333 is recorded with its actual country code per batch rules, never replaced with an invented US line. CG Power also has a US service organization per trade listings, but no US number was verified."
+    source: "https://www.power-technology.com/contractors/switchgear/pauwels/"
+    last_verified: "2026-10-26"

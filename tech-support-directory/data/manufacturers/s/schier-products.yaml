@@ -1,0 +1,15 @@
+id: schier-products
+name: Schier Products
+website: https://schierproducts.com/
+categories:
+- drainage
+aliases: []
+support:
+- category: drainage
+  department: Customer Support
+  phone: '+19139513300'
+  country: US
+  notes: Schier Products, 6455 Woodland Drive, Shawnee, KS 66218. support@schierproducts.com. Mon-Thu 8am-5pm CST, Fri 8am-4pm CST, phones off 12-1 pm. Employee-owned, USA-made grease interceptors; drainage
+    is the closest vocabulary term.
+  source: schierproducts.com pages (tel (913) 951-3300)
+  last_verified: '2026-10-26'

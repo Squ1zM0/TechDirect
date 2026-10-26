@@ -1,0 +1,14 @@
+id: majestic-glove
+name: Majestic Glove
+website: https://www.majesticglove.com
+categories:
+- hardware
+aliases: []
+support:
+- category: hardware
+  department: Customer Support
+  phone: "+18003674568"
+  country: US
+  notes: PPE gloves. Email orders@majesticglove.com.
+  source: https://www.majesticglove.com/comparison
+  last_verified: "2026-10-26"

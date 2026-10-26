@@ -1,0 +1,13 @@
+id: workrite-uniform
+name: "Workrite Uniform"
+website: https://www.workrite.com
+categories: [hardware]
+aliases: ["Workrite FR"]
+support:
+  - category: hardware
+    department: Customer Support
+    phone: "+18005211888"
+    country: US
+    notes: "Workrite Uniform Company, Oxnard CA. Email info@workrite.com. FR workwear/PPE; closest vocabulary term: hardware. Workrite Fire Service is part of Bulwark Protection; Workrite Uniform Co. founded 1973. workriteergo.com is the SEPARATE ergonomics entity; its number is NOT used. Xref spellings Workrite FR and Workrite Uniform share this file (variant pair). CSV quirk: Workrite FR's parent field says Workrite Uniform (Wolverine Worldwide); that parenthetical is xref noise, not a verified parent; Wolverine Worldwide is NOT published as the parent."
+    source: "https://digital.1105media.com/OHS/2017/OHS_1707/files/basic-html/page68.html"
+    last_verified: "2026-10-26"

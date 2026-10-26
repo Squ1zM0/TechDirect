@@ -1,0 +1,13 @@
+id: shop-vac
+name: Shop-Vac
+website: https://www.shopvac.com
+categories: [hardware]
+aliases: []
+support:
+  - category: hardware
+    department: Customer Support
+    phone: "+18888832372"
+    country: US
+    notes: "Shop-Vac Corporation (wet/dry vacuums), Williamsport, PA; brand now under GreatStar Tools USA. Customer service number published in Shop-Vac manuals (email service@shopvac.com); the current official support page directs customers to email and an online form, so this manual-published number is the published phone contact."
+    source: "http://homeappliance.manualsonline.com/manuals/mfg/shop_vac/sv500.html"
+    last_verified: "2026-10-26"

@@ -1,0 +1,13 @@
+id: lvs-controls
+name: LVS Controls
+website: "https://www.lvscontrols.com/"
+categories: [electrical]
+aliases: ["LVS", "LVS CONTROLS"]
+support:
+  - category: electrical
+    department: Customer Support
+    phone: "+18009824587"
+    country: US
+    notes: "LVS, LLC, San Leandro, CA (15007 Wicks Blvd.); founded 1991, manufacturer of UL924 listed emergency lighting controls (EPC emergency power controls, inverters, load shedding controls) and occupancy sensors. Number from LVS's own site; direct (510) 352-5610 also published. Earlier LVS literature lists a former 2555 Nicholson Street address with the same toll-free number."
+    source: "https://www.lvscontrols.com/"
+    last_verified: "2026-10-26"

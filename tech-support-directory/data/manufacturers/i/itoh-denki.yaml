@@ -1,0 +1,17 @@
+id: itoh-denki
+name: Itoh Denki USA, Inc.
+website: https://itohdenki.com/
+categories:
+- electrical
+aliases: []
+support:
+- category: electrical
+  department: Customer Support
+  phone: '+15708208811'
+  country: US
+  notes: "Motorized conveyor rollers and controls. THIN SOURCING: the US number comes from a place listing tied to itohdenki.com (2 Great Valley Blvd, Wilkes-Barre, PA); the official site itself is form-based. The only other number found was the France contact, which was not used."
+  source: https://itohdenki.com/
+  last_verified: '2026-10-26'
+  hours:
+    timezone: "ET"
+    mon_fri: "8:00 AM - 5:00 PM"

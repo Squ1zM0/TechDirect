@@ -1,0 +1,13 @@
+id: amercable
+name: AmerCable
+website: https://amercable.com/
+categories: [electrical]
+aliases: ["AmerCable Incorporated", "Nexans AmerCable"]
+support:
+  - category: electrical
+    department: Customer Support
+    phone: "+18006431516"
+    country: US
+    notes: "AmerCable (a Nexans company), 350 Bailey Rd, El Dorado, AR, with a Katy, TX location. Portable power, mining, oil and gas, and industrial cable manufacturer; toll-free number printed on the manufacturer's own catalogs alongside direct line (870) 862-4919."
+    source: "https://amercable.com/storage/2026/03/DLO-Handout-3_26.pdf"
+    last_verified: "2026-10-26"

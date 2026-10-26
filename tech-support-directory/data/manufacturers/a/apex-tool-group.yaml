@@ -1,0 +1,12 @@
+id: apex-tool-group
+name: Apex Tool Group
+categories: [hardware]
+aliases: ["Apex Tools"]
+support:
+  - category: hardware
+    department: Customer Support
+    phone: "+14107737800"
+    country: US
+    notes: "Hand and power tool manufacturer (Crescent, GEARWRENCH and other brands), Sparks MD. Headquarters general line published in an official Apex Tool Group policy PDF."
+    source: "https://www.apextoolgroup.com/sites/apextoolgroup/files/2025-03/ATG_NAHT_Internet%20Minimum%20Advertised%20Price%20Policy_GEARWRENCH%20%26%20Crescent_USA_effective%2004.01.2025%20%281%29%20%281%29.pdf"
+    last_verified: "2026-10-26"

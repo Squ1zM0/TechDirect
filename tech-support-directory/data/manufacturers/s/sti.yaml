@@ -1,0 +1,13 @@
+id: sti
+name: "Safety Technology International (STI)"
+website: "https://www.sti-global.com/"
+categories: [electrical]
+aliases: ["STI"]
+support:
+  - category: electrical
+    department: Technical Support
+    phone: "+18008884784"
+    country: US
+    notes: "Safety Technology International fire and safety device protection (door alarms, Stopper products), Waterford MI (2306 Airport Rd). Manuals label this the Technical Support line; email info@stiusa.com."
+    source: "http://files.d-tools.com/Visualizations/Approved/Safety%20Technology%20International%20(STI)/Documents/Safety%20Technology%20International%20(STI)_STI-3551_Manual1.pdf"
+    last_verified: "2026-10-26"

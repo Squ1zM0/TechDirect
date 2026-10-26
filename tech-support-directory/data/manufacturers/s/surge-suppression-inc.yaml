@@ -1,0 +1,12 @@
+id: surge-suppression-inc
+name: Surge Suppression Inc.
+categories: [electrical]
+aliases: ["SSI"]
+support:
+  - category: electrical
+    department: Customer Support
+    phone: "+18007539221"
+    country: US
+    notes: "Legacy entry: formerly Surge Suppression Inc.; per the 2025-09-30 nVent consolidation, SSI surge protection products were consolidated under the nVent ERICO brand; filed as its own legacy entry with the successor's published nVent North America number (same nVent ERIFLEX document as the nVent file)."
+    source: "https://media.distributordatasolutions.com/xml_nvent/2024q1/documents/f7f6e74807fea230f0c4906e12af8d1f327c821d.pdf"
+    last_verified: "2026-10-26"

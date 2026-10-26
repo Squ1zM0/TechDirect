@@ -1,0 +1,16 @@
+id: gai-tronics
+name: 'GAI-Tronics'
+categories:
+- electrical
+aliases: []
+support:
+- category: electrical
+  department: 'Technical Support'
+  phone: '+18004921212'
+  country: US
+  notes: 'Hubbell brand. Option 3 for a technician. Email Service@gaitronics.com. Hours Mon - Fri 8 AM - 4:30 PM EDT. Near-miss candidate Itron was rejected as a false friend.'
+  source: 'https://hubbellcdn.com/literature/HHI-GTC-SF-EN-02653.pdf'
+  last_verified: '2026-10-26'
+  hours:
+    timezone: 'EDT'
+    mon_fri: '8:00 AM - 4:30 PM'

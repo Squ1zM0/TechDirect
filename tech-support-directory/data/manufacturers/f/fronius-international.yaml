@@ -1,0 +1,13 @@
+id: fronius-international
+name: 'Fronius'
+categories:
+- electrical
+aliases: ['Fronius International']
+support:
+- category: electrical
+  department: 'Technical Support'
+  phone: '+12197345500'
+  country: US
+  notes: 'File slug follows the batch spelling Fronius International; canonical name is Fronius. Support email PV-Support-USA@Fronius.com.'
+  source: 'https://www.fronius.com/en-us/usa/solar-energy/installers-partners/info-center/blog/meet-our-technical-support-team'
+  last_verified: '2026-10-26'

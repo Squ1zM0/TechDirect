@@ -1,0 +1,13 @@
+id: red-wing-shoes
+name: Red Wing Shoes
+website: https://www.redwingshoes.com/articles/proper-care.html
+categories: [hardware]
+aliases: ["Redwing Shoes"]
+support:
+  - category: hardware
+    department: Customer Support
+    phone: "+18007339464"
+    country: US
+    notes: "Official site footer: 'Call Us 1 (800) 733-9464'."
+    source: "https://www.redwingshoes.com/articles/proper-care.html"
+    last_verified: "2026-10-26"

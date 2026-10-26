@@ -1,0 +1,13 @@
+id: zrc-worldwide
+name: "ZRC Worldwide"
+website: https://www.zrcworldwide.com
+categories: [hardware]
+aliases: []
+support:
+  - category: hardware
+    department: Customer Support
+    phone: "+18008313275"
+    country: US
+    notes: "Marshfield MA, 145 Enterprise Drive; 70+ years. Toll-free US; local 781-319-0400; email info@zrcworldwide.com. Zinc-rich cold galvanizing coatings; closest vocabulary term: hardware. Distinct from Zircon Corporation (stud finders); do not conflate."
+    source: "https://www.zrcworldwide.com/products/zrc-221-cold-galvanizing-compound"
+    last_verified: "2026-10-26"

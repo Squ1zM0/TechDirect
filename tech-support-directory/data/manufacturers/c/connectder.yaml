@@ -1,0 +1,14 @@
+id: connectder
+name: ConnectDER
+categories: [electrical]
+aliases: ["ConnectDER, Inc."]
+website: https://connectder.com/
+support:
+  - category: electrical
+    department: Product Support
+    phone: "+17032321427"
+    email: support@connectder.com
+    country: US
+    notes: "ConnectDER, Philadelphia, PA; meter socket adapters (Solar MSA, IslandDER, EV MSA) for solar, battery storage and EV charging interconnection, UL-listed and NEC-compliant. Install/product support line and email per the company's own technical specifications; sales@connectder.com also published."
+    source: "https://connectder.cdn.prismic.io/connectder/aiwKr6lQnVZVESot_ConnectDER-Solar-Meter-Socket-Adapter-v5.2-Technical-Specifications_PS-00012revB.pdf"
+    last_verified: "2026-10-26"

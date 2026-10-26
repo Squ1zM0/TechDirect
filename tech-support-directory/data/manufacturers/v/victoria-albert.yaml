@@ -1,0 +1,16 @@
+id: victoria-albert
+name: "Victoria + Albert"
+website: https://houseofrohl.ca/support/faqs/
+categories: [bathroom-systems]
+aliases: []
+support:
+  - category: bathroom-systems
+    department: Technical Support
+    phone: "+18007779762"
+    country: US
+    notes: "House of Rohl brand; 25-year residential warranty. Hours: Mon-Wed and Fri 6am-4pm PST, Thu 6am-3:30pm PST."
+    source: "https://houseofrohl.ca/support/faqs/"
+    last_verified: "2026-10-26"
+    hours:
+      timezone: "PT"
+      mon_fri: "6:00 AM - 4:00 PM"

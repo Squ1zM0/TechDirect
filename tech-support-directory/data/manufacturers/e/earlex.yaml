@@ -1,0 +1,13 @@
+id: earlex
+name: Earlex
+website: https://www.wagnerspraytech.com
+categories: [hardware]
+aliases: []
+support:
+  - category: hardware
+    department: Technical Support
+    phone: "+18887832612"
+    country: US
+    notes: "Earlex HVLP paint sprayers, a Wagner SprayTech brand. Earlex-specific Technical Service line from the Earlex 5700 user manual (US customer service); Wagner's general technical service 800-328-8251 is a separate line. Support and registration route via wagnerspraytech.com."
+    source: "https://manualspro.net/347117-wagner-2443205-earlex-5700-stationary-hvlp-paint-sprayer-user-manual"
+    last_verified: "2026-10-26"

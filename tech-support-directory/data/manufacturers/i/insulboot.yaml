@@ -1,0 +1,14 @@
+id: insulboot
+name: InsulBoot
+website: https://www.insulboot.com/
+categories:
+- electrical
+aliases: []
+support:
+- category: electrical
+  department: Customer Support
+  phone: '+18002622111'
+  country: US
+  notes: "Insulating boots and covers; brand of Plastic Dip Moldings, Inc. Email sales@insulboot.com per the manufacturer product catalog."
+  source: https://www.plasticdipmoldings.com.mx/wp-content/uploads/2022/04/InsulbootProductCatalog.pdf
+  last_verified: '2026-10-26'

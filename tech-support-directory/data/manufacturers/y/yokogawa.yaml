@@ -1,0 +1,16 @@
+id: yokogawa
+name: "Yokogawa Corporation of America"
+website: https://www.yokogawa.com
+categories: [electrical]
+aliases: ["Yokogawa", "YCA"]
+support:
+  - category: electrical
+    department: Technical Support
+    phone: "+18005247378"
+    country: US
+    notes: "YCA; Sugar Land TX HQ. Tech Support & Service (800) 524-7378, Mon-Fri 8AM-5PM ET, 24/7 for emergencies; email support@us.yokogawa.com; Sales 800-888-6400 also published. Industrial automation/instrumentation; closest vocabulary term: electrical. A Yokogawa global FAQ page for the Wide Area Monitoring System product says phone inquiries are not handled; that is a different product group's page, NOT the America support page."
+    source: "https://www.yokogawa.com/us/contact/general-contact/"
+    last_verified: "2026-10-26"
+    hours:
+      timezone: "ET"
+      mon_fri: "8:00 AM - 5:00 PM"

@@ -1,0 +1,13 @@
+id: fnw
+name: "FNW"
+categories:
+- valves
+aliases: []
+support:
+- category: valves
+  department: "Customer Support"
+  phone: "+17579694974"
+  country: US
+  notes: "FNW, established 1979. Number from an FNW high-performance butterfly valve manual. Ferguson-related per the xref parent note, but FNW has its own published contact, so it is filed standalone; Ferguson 800-721-2590 is Ferguson number, not FNW. Valves."
+  source: "https://manuals.plus/m/8db3fd7242fc1fbc8a0c1151d89c92afc8c32b6dbbb284e155707f79db720d87_optim.pdf"
+  last_verified: "2026-10-26"

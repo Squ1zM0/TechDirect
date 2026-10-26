@@ -1,0 +1,16 @@
+id: cooper-tools
+name: Cooper Tools
+website: https://www.crescenttool.com
+categories: [hardware]
+aliases: []
+support:
+  - category: hardware
+    department: Customer Support
+    phone: "+18776263433"
+    country: US
+    notes: "Legacy brand: Cooper Tools was the Cooper Industries tool division, folded into Apex Tool Group; no standalone Cooper Tools support line survives. Successor support via Apex Tool Group's Crescent Customer Service (same number as the Crescent file), per crescenttool.com's warranty page. Recorded as its own legacy file, not merged away."
+    source: "https://www.crescenttool.com/support/warranty"
+    last_verified: "2026-10-26"
+    hours:
+      timezone: "ET"
+      mon_fri: "9:00 AM - 5:00 PM"

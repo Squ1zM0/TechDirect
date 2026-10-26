@@ -1,0 +1,12 @@
+id: anp-lighting
+name: ANP Lighting
+categories: [electrical]
+aliases: []
+support:
+  - category: electrical
+    department: Sales & Support
+    phone: "+18005483227"
+    country: US
+    notes: "Architectural outdoor lighting manufacturer, Montclair CA; family-owned, made in USA. Sales & Support line published on anplighting.com. No lighting category exists in the TechDirect vocabulary, so electrical is used as the closest term."
+    source: "https://anplighting.com/"
+    last_verified: "2026-10-26"

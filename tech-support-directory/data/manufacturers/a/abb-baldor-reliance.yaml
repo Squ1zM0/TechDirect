@@ -1,0 +1,13 @@
+id: abb-baldor-reliance
+name: ABB Baldor-Reliance
+website: https://www.baldor.com
+categories: [electrical]
+aliases: ["Baldor-Reliance", "Baldor"]
+support:
+  - category: electrical
+    department: Customer Support
+    phone: "+18004357365"
+    country: US
+    notes: "ABB NEMA Motors division (Baldor-Reliance industrial motors). ABB US Motors and Generators Service team contact 1-800-HELP365 published on baldor.com company news; ABB's North America contact-center sheet lists the same 1-800-HELP-365 helpline staffed 24x7x365."
+    source: "http://www.baldor.com/our-profile/news/company-news/detail?id={A242F26D-D454-4BF6-9B5E-C39B3FB6D79F}"
+    last_verified: "2026-10-26"

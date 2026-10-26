@@ -1,0 +1,13 @@
+id: 3m-health-care
+name: 3M Health Care
+website: https://www.solventum.com
+categories: [electrical]
+aliases: []
+support:
+  - category: electrical
+    department: Customer Support
+    phone: "+18554236725"
+    country: US
+    notes: "Legacy brand: the former 3M Health Care business was spun off as Solventum. 3M's own Help Center lists Solventum contact +1 855 423 6725 (Mon-Fri 8:00 AM - 4:30 PM CST) as the successor contact for the former 3M Health Care business."
+    source: "https://www.3m.com/3M/en_US/company-us/help-center/"
+    last_verified: "2026-10-26"

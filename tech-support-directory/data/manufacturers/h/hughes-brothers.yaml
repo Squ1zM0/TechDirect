@@ -1,0 +1,15 @@
+id: hughes-brothers
+name: Hughes Brothers
+website: https://www.hughesbros.com/
+categories:
+- electrical
+aliases:
+- Hughes Bros Inc
+support:
+- category: electrical
+  department: Customer Support
+  phone: '+14026432991'
+  country: US
+  notes: 'Hughes Brothers, Inc., Seward, NE. Utility poles, crossarms, framing. Not the Wilmington, NC Hughes Brothers Inc tire dealer (910-762-3341), which is unrelated.'
+  source: https://www.hughesbros.com/about
+  last_verified: '2026-10-26'

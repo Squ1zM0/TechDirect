@@ -1,0 +1,14 @@
+id: maple-chase
+name: Maple Chase
+website: https://www.robertshaw.com/support/
+categories:
+- hvac-controls
+aliases: []
+support:
+- category: hvac-controls
+  department: Technical Support
+  phone: "+18004458299"
+  country: US
+  notes: 'LEGACY: Maple Chase Company, Downers Grove, IL, an Invensys unit (ACHR News). 9600/9700 series programmable thermostats sold as both Maple Chase and Robertshaw (units carry Robertshaw on front, Maple Chase on inner cover; Maple Chase warranty doc covers Robertshaw thermostats). Invensys Appliance became Robertshaw Controls June 2014 (Schneider acquired Invensys Jan 2014). Successor support via Robertshaw Technical Support; Robertshaw file id robertshaw. Customer Service Mon-Fri 6:00am-3:30pm PST; email HVACCustomerService@robertshaw.com per robertshaw.com/support.'
+  source: https://www.robertshaw.com/support/
+  last_verified: "2026-10-26"

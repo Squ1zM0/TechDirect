@@ -1,0 +1,13 @@
+id: standard-refrigeration
+name: Standard Refrigeration
+website: https://stanref.com
+categories: [hvac]
+aliases: []
+support:
+  - category: hvac
+    department: Customer Support
+    phone: "+16304758101"
+    country: US
+    notes: "Standard Refrigeration LLC, Wood Dale, IL (industrial and commercial refrigeration equipment: shell-and-tube condensers, evaporators, marine condensers, heat exchangers and pressure vessels; founded 1922). PHONE CONFLICT: RocketReach lists (630) 475-8101 (area-code-consistent with Wood Dale) while SignalHire and a place record list 608-855-5800 for the same address; the 630 number is used here and the conflict is flagged for confirmation. The stanref.com site itself was bot-blocked on fetch, so no official-site number could be verified. Covers both xref spellings Standard Refrigeration and Standard Refrigeration Co. (treated as variant spellings of the Wood Dale manufacturer, NOT Standard Refrigeration Co., Inc. of Puerto Rico, a mechanical contractor)."
+    source: "https://rocketreach.co/standard-refrigeration-llc-profile_b457f535fc9b9937"
+    last_verified: "2026-10-26"

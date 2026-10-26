@@ -1,0 +1,13 @@
+id: permatex
+name: Permatex
+website: https://www.permatex.com
+categories: [hardware]
+aliases: ["ITW Permatex", "Permatex, Inc."]
+support:
+  - category: hardware
+    department: Technical Support
+    phone: "+18773762839"
+    country: US
+    notes: "Permatex, an Illinois Tool Works (ITW) company; HQ/technical center Solon, OH, formerly Hartford, CT. Toll-free 1-87PERMATEX published on Permatex technical data sheets and safety data sheets, which direct users to 'CONTACT PERMATEX, INC., TECHNICAL SERVICE DEPARTMENT' at this number, so recorded as Technical Support. Sealants, adhesives, gasket makers; no sealant/adhesive term exists in the category vocabulary, so hardware is the closest term."
+    source: "https://mans.io/files/viewer/2421602/1"
+    last_verified: "2026-10-26"

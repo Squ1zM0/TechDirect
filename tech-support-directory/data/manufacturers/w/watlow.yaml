@@ -1,0 +1,16 @@
+id: watlow
+name: "Watlow Electric"
+website: https://www.watlow.com
+categories: [electrical]
+aliases: ["Watlow"]
+support:
+  - category: electrical
+    department: Technical Support
+    phone: "+15074945656"
+    country: US
+    notes: "Email us.support@watlow.com. Hours 7am-5pm CST."
+    source: "https://www.manualsdir.com/manuals/359279/watlow-series-l-temperature-limit.html?page=2"
+    last_verified: "2026-10-26"
+    hours:
+      timezone: "CT"
+      mon_fri: "7:00 AM - 5:00 PM"

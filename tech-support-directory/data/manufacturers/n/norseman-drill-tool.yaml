@@ -1,0 +1,13 @@
+id: norseman-drill-tool
+name: Norseman Drill and Tool
+website: http://www.vikingdrill.com/
+categories: [hardware]
+aliases: ["Norseman"]
+support:
+  - category: hardware
+    department: Customer Support
+    phone: "+18003284655"
+    country: US
+    notes: "Norseman drill bits are a Viking Drill and Tool brand line (St. Paul MN, 355 State St); support via Viking Drill and Tool customer service (order toll-free 1-800-328-4655, personally answered); local 651-227-8911 also published. NOT Viking Corporation (viking-corporation file - fire protection, different company)."
+    source: "http://www.vikingdrill.com/pdf/catalog/Viking Drill Catalog.pdf"
+    last_verified: "2026-10-26"

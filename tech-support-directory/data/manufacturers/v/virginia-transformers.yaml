@@ -1,0 +1,13 @@
+id: virginia-transformers
+name: "Virginia Transformer Corp."
+website: https://www.vatransformer.com/
+categories: [electrical]
+aliases: []
+support:
+  - category: electrical
+    department: Customer Support
+    phone: "+18008823944"
+    country: US
+    notes: "Toll-free; main office 540-345-9892 also published. Transformers (T&D/industrial)."
+    source: "https://www.vatransformer.com/about-us/our-locations/"
+    last_verified: "2026-10-26"

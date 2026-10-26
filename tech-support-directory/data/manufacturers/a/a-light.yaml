@@ -1,0 +1,16 @@
+id: a-light
+name: A-Light
+website: http://www.alights.com/
+categories: [electrical]
+aliases: ["A-Light Architectural Lighting", "A-LIGHT"]
+support:
+  - category: electrical
+    department: Customer Support
+    phone: "+17607277675"
+    country: US
+    notes: "A-Light Architectural Lighting, Oceanside CA. Distinct published contact (760) 727-7675, Mon-Fri 8:00 AM - 5:00 PM PT. A-Light is an Acuity Brands company, but it publishes its own contact, so it keeps its own file. NOT Lithonia Lighting (the near-miss candidate is a false friend)."
+    source: "https://prospeo.io/c/a-light-architectural-lighting"
+    last_verified: "2026-10-26"
+    hours:
+      timezone: "PT"
+      mon_fri: "8:00 AM - 5:00 PM"

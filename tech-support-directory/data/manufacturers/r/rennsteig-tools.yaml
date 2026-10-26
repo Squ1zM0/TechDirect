@@ -1,0 +1,14 @@
+id: rennsteig-tools
+name: Rennsteig Tools
+website: https://distributors.rennsteig.us/
+categories:
+- hardware
+aliases: []
+support:
+- category: hardware
+  department: Technical Support
+  phone: '+13309740100'
+  country: US
+  notes: Rennsteig Tools, Inc., the US arm of German parent Rennsteig Werkzeuge GmbH. Technical Support line per the official distributor list; tech@rennsteig.us; sales 330-315-3044.
+  source: 'Official distributor list PDF (distributors.rennsteig.us): Technical Support fon 330-974-0100'
+  last_verified: '2026-10-26'

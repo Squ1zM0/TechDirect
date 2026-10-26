@@ -1,0 +1,12 @@
+id: bay-cities-metal-products
+name: Bay Cities Metal Products
+categories: [hvac]
+aliases: ["Bay City Metal Products"]
+support:
+  - category: hvac
+    department: Customer Support
+    phone: "+13106600351"
+    country: US
+    notes: "Sheet-metal building products (roofing, gutters, HVAC duct/pipes/elbows, ventilators), HQ Gardena CA (301 E Alondra Blvd, founded 1958); branch lines Manteca CA 209-721-8910 and Phoenix AZ 602-345-9190 also published. Sells exclusively through distribution."
+    source: "https://www.signalhire.com/companies/bay-cities-metal-products"
+    last_verified: "2026-10-26"

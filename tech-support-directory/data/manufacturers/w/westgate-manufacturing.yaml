@@ -1,0 +1,13 @@
+id: westgate-manufacturing
+name: "Westgate Manufacturing"
+website: https://www.westgatemfg.com
+categories: [electrical]
+aliases: ["Westgate", "Westgate MFG"]
+support:
+  - category: electrical
+    department: Customer Support
+    phone: "+18778052252"
+    country: US
+    notes: "Westgate MFG Inc; Vernon CA. 7-year warranty on security lights per manual."
+    source: "https://www.westgatemfg.com/our-history"
+    last_verified: "2026-10-26"

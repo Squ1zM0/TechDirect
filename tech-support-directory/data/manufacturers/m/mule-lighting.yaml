@@ -1,0 +1,13 @@
+id: mule-lighting
+name: Mule Lighting
+website: https://www.mulelighting.com/tech_support/
+categories: [electrical]
+aliases: ["Mule"]
+support:
+  - category: electrical
+    department: Technical Support
+    phone: "+18005567690"
+    country: US
+    notes: "Mule Lighting technical assistance; email support@mulelighting.com."
+    source: "https://www.mulelighting.com/tech_support/"
+    last_verified: "2026-10-26"

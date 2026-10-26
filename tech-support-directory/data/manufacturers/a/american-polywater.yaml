@@ -1,0 +1,13 @@
+id: american-polywater
+name: American Polywater Corporation
+website: https://www.polywater.com/
+categories: [electrical]
+aliases: ["American Polywater"]
+support:
+  - category: electrical
+    department: Customer Support
+    phone: "+18003289384"
+    country: US
+    notes: "Toll-free support line published in the American Polywater catalog; main line 651-430-2270 and email support@polywater.com also published. Cable lubricants, sealants, cleaners and adhesives for electrical work."
+    source: "https://amazeassets.bluemeteor.com/amaze-digital-asset/prod/GORDON/5cd3a38b-7077-4e77-9c04-db69063fc2bb.pdf"
+    last_verified: "2026-10-26"

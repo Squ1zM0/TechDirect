@@ -1,0 +1,13 @@
+id: dual-lite
+name: Dual-Lite
+website: https://www.duallite.com
+categories: [electrical]
+aliases: []
+support:
+  - category: electrical
+    department: Technical Support
+    phone: "+18008486439"
+    country: US
+    notes: "Dual-Lite emergency lighting. Technical Support Center line from Dual-Lite/Hubbell instruction sheets; lineage Hubbell Lighting -> Current Lighting (xref parent Current Lighting for Dual-Lite (Current)). An older Hubbell document lists an inverter-support variant 1-800-848-6349; the instruction-sheet number is used here. Covers xref spellings Dual-Lite and Dual-Lite (Current) (same brand)."
+    source: "https://cdn4.guidespdf.com/view/1933/1933052-dual_lite_litegear_lg_series.pdf"
+    last_verified: "2026-10-26"

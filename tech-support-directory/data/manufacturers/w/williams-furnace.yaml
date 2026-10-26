@@ -1,0 +1,13 @@
+id: williams-furnace
+name: "Williams Furnace Company"
+website: https://www.williamscomfortprod.com
+categories: [hvac]
+aliases: ["Williams", "Williams Comfort Products"]
+support:
+  - category: hvac
+    department: Customer Support
+    phone: "+18884441212"
+    country: US
+    notes: "Williams Comfort Products; Colton CA; established 1916. Local 909-825-0993 also published. Wall furnaces. Distinct from Williamson-Thermoflo; do NOT merge."
+    source: "https://thecabindepot.ca/cdn/shop/files/Williams_Direct_Vent_Heater_Manual.pdf?v=11697863838822834187"
+    last_verified: "2026-10-26"

@@ -1,0 +1,13 @@
+id: carlisle-hvac-products
+name: Carlisle HVAC Products
+website: https://www.supplyhouse.com/product_files/Hardcast-Carlisle-304142-Submittal-Sheet.pdf?srsltid=AfmBOoraDrJhs_MI0PJoChFVQp0s32or_zG7q_daJ-PXB5OT2519r9AC
+categories: [hvac]
+aliases: ["Carlisle", "Hardcast"]
+support:
+  - category: hvac
+    department: Customer Support
+    phone: "+18774954822"
+    country: US
+    notes: "Carlisle HVAC Products USA line published on current (2024) Carlisle/Hardcast technical data sheets (Wylie, TX). Hardcast duct sealants, DynAir airflow hardware and Nexus flange systems; parent Carlisle Companies per xref, with Hardcast as the product line. Older Carlisle literature also lists a technical assistance line; the TDS USA line above is the current general contact."
+    source: "https://www.supplyhouse.com/product_files/Hardcast-Carlisle-304142-Submittal-Sheet.pdf?srsltid=AfmBOoraDrJhs_MI0PJoChFVQp0s32or_zG7q_daJ-PXB5OT2519r9AC"
+    last_verified: "2026-10-26"

@@ -1,0 +1,12 @@
+id: atp-impact-sockets
+name: ATP Impact Sockets
+categories: [hardware]
+aliases: ["ATP", "ATP Tools", "ATP (HD Impact Sockets)"]
+support:
+  - category: hardware
+    department: Customer Support
+    phone: "+18002451148"
+    country: US
+    notes: "Super-strength heavy-duty impact sockets, striking wrenches and accessories (drive sizes 1/2 in through 3-1/2 in, plus #5 spline), a brand of Hy-Tech Engineered Solutions (Hy-Tech Machine Inc), Cranberry Township PA (25 Leonberg Rd, 16066); local line 724-776-6800 and info@hy-techinc.com also published. No Hy-Tech file exists in the reference, so ATP is filed on its own brand with the Hy-Tech support route in notes rather than parent-resolved to a non-existent file. No tools category exists in the TechDirect vocabulary, so hardware is used as the closest term."
+    source: "https://www.thomasnet.com/company/hygh-tech-machine-co-inc-163183/profile"
+    last_verified: "2026-10-26"

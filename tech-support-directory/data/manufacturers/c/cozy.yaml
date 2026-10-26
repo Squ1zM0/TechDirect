@@ -1,0 +1,13 @@
+id: cozy
+name: Cozy Heating Systems
+website: https://cozyheaters.com
+categories: [hvac]
+aliases: ["Cozy"]
+support:
+  - category: hvac
+    department: Customer Support
+    phone: "+18884441212"
+    country: US
+    notes: "Cozy Heating Systems, LLC (Colton, CA) general company phone per its own wall-furnace manuals; wall furnaces and heaters. The number is published as a general contact, not labelled technical support."
+    source: "https://www.prowaterheatersupply.com/PDFS/Cozy_Direct_Vent_Wall_Furnace_CDV155C_CDV255C_CDV335C_CDV156C_CDV256C_CDV336C_Manual.pdf?srsltid=AfmBOop9TlAtanJoZQgPViznhjfg-eaanjAGtfc3pL5YLPxqcDRrKm-y"
+    last_verified: "2026-10-26"

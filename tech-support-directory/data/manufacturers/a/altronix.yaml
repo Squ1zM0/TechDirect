@@ -1,0 +1,13 @@
+id: altronix
+name: Altronix
+website: https://www.altronix.com
+categories: [electrical]
+aliases: ["Altronix Corp."]
+support:
+  - category: electrical
+    department: Technical Support
+    phone: "+17185678181"
+    country: US
+    notes: "Altronix Corp., Brooklyn NY. Technical support number per Altronix support FAQ; toll-free 1-888-258-7669 and email info@altronix.com also published on Altronix datasheets. Lifetime warranty on many products."
+    source: "https://jw.manuals.plus/category/altronix"
+    last_verified: "2026-10-26"

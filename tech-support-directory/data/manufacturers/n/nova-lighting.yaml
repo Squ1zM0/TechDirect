@@ -1,0 +1,12 @@
+id: nova-lighting
+name: NOVA of California
+categories: [electrical]
+aliases: ["NOVA LIGHTING"]
+support:
+  - category: electrical
+    department: Customer Support
+    phone: "+13232776266"
+    country: US
+    notes: "NOVA of California, Huntington Park CA; email customerservice@novaofcalifornia.com. Distinct from the Utah retail stores using the Nova Lighting name (novalighting.com, Orem/Midvale UT) and from Nova Lighting Trinidad; the Thomasnet item giving 1.800.835.6682 is an older number, not used."
+    source: "https://www.cmtc.com/made-in-california-profile-archived/nova-of-california"
+    last_verified: "2026-10-26"

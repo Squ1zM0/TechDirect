@@ -1,0 +1,13 @@
+id: westinghouse-lighting
+name: "Westinghouse Lighting"
+website: https://www.westinghouselighting.com
+categories: [electrical]
+aliases: []
+support:
+  - category: electrical
+    department: Customer Support
+    phone: "+18006716799"
+    country: US
+    notes: "Westinghouse Lighting Solutions / Westinghouse Lighting Corp., Philadelphia PA. CAVEAT: the consumer westinghouselighting.com warranty card routes warranty contact to email only (consumersupport@westinghouselighting.com, no phone); this number is the industrial-fixtures line from the Thomasnet company profile and may be stale. A Westinghouse Electronics (TV) customer-service number and a distributor listing number were found and are NOT used as the manufacturer number."
+    source: "https://www.thomasnet.com/company/westinghouse-lighting-corp-1312138/profile"
+    last_verified: "2026-10-26"

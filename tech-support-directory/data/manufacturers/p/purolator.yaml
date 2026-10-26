@@ -1,0 +1,13 @@
+id: purolator
+name: Purolator
+website: https://www.purolatornow.com/
+categories: [hardware]
+aliases: []
+support:
+  - category: hardware
+    department: Customer Support
+    phone: "+18005264250"
+    country: US
+    notes: "Automotive/industrial filtration; no filtration term exists in the category vocabulary, so mapped to hardware. Xref parent disambiguates this row to Purolator Filters (Mann+Hummel / First Brands). Distinct from Purolator Air Filters (CLARCOR); the First Brands consolidated hotline does not list Purolator and was not used."
+    source: "https://static.oemdtc.com/NHTSA-PDFs/MC-11028079-0001.pdf"
+    last_verified: "2026-10-26"

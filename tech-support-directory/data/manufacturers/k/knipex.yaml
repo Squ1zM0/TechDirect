@@ -1,0 +1,16 @@
+id: knipex
+name: KNIPEX Tools LP
+website: https://www.knipex-tools.com/
+categories:
+- hardware
+aliases:
+- Knipex (Hand Tools)
+- Knipex Tools
+support:
+- category: hardware
+  department: Customer Support
+  phone: '+18775647398'
+  country: US
+  notes: "Pliers and hand tools; KNIPEX Tools, North America, 1500 Busch Parkway, Buffalo Grove, IL 60089. Direct and support line 847-398-8520; customer-service@knipex-tools.com, claims@knipex-tools.com. Explicitly NOT IPEX (plumbing pipe); different company."
+  source: https://www.knipex-tools.com/
+  last_verified: '2026-10-26'

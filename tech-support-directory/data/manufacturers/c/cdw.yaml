@@ -1,0 +1,26 @@
+id: cdw
+name: CDW
+website: https://www.cdw.com/content/cdw/en/help-center/contact-us.html
+categories: [electrical]
+aliases: []
+support:
+  - category: electrical
+    department: Product Troubleshooting
+    phone: "+18003834239"
+    country: US
+    notes: "CDW Product Troubleshooting line (product support, download support, install support, cloud support) per cdw.com Contact Us. Hours Mon-Fri 7am-7pm CT. IT products/services reseller; category mapped to closest vocabulary term electrical."
+    source: "https://www.cdw.com/content/cdw/en/help-center/contact-us.html"
+    last_verified: "2026-10-26"
+    hours:
+      timezone: "CT"
+      mon_fri: "7:00 AM - 7:00 PM"
+  - category: electrical
+    department: Customer Support
+    phone: "+18667824239"
+    country: US
+    notes: "CDW Customer Relations (status, returns and billing) per cdw.com Contact Us. Hours Mon-Fri 7am-7pm CT on the Contact Us page."
+    source: "https://www.cdw.com/content/cdw/en/help-center/contact-us.html"
+    last_verified: "2026-10-26"
+    hours:
+      timezone: "CT"
+      mon_fri: "7:00 AM - 7:00 PM"

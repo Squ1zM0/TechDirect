@@ -1,0 +1,17 @@
+id: inner-tite
+name: Inner-Tite Corporation
+website: https://www.inner-tite.com/
+categories:
+- electrical
+aliases: []
+support:
+- category: electrical
+  department: Customer Support
+  phone: '+15088296361'
+  country: US
+  notes: "Meter seals and utility accessories; 110 Industrial Drive, Holden, MA 01520. Email customer.service@inner-tite.com per a Cylex directory listing (secondary source)."
+  source: https://www.inner-tite.com/
+  last_verified: '2026-10-26'
+  hours:
+    timezone: "ET"
+    mon_fri: "7:30 AM - 4:30 PM"

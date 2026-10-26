@@ -1,0 +1,16 @@
+id: northern-cables
+name: Northern Cables
+website: http://www.northerncables.com/
+categories: [electrical]
+aliases: []
+support:
+  - category: electrical
+    department: Customer Support
+    phone: "+16133451594"
+    country: CA
+    notes: "Northern Cables Inc., Brockville ON, Canada (50 California Ave); Canadian-owned wire and cable manufacturer ('The Armoured Cable Specialists'), founded 1996; six North American distribution centers. Non-US line recorded with its actual country code; no US line was found - none invented."
+    source: "http://www.northerncables.com/"
+    last_verified: "2026-10-26"
+    hours:
+      timezone: "ET"
+      mon_fri: "7:00 AM - 3:30 PM"

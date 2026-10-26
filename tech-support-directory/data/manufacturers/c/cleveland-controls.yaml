@@ -1,0 +1,13 @@
+id: cleveland-controls
+name: Cleveland Controls
+website: http://www.clevelandcontrols.com/
+categories: [hvac-controls]
+support:
+  - category: hvac-controls
+    department: Customer Support
+    phone: "+12163980330"
+    email: sales@clevelandcontrols.com
+    country: US
+    notes: "Cleveland Controls, Cleveland, OH; air pressure switches (ANS2 series) for HVAC, kitchen equipment, pool/spa heating. Phone per Cleveland Controls literature via trade press. Distinct from Cleveland Motion Controls (CMC, Lincoln Electric) — not merged."
+    source: "https://www.achrnews.com/articles/164792-cleveland-controls-air-pressure-switch"
+    last_verified: "2026-10-26"

@@ -1,0 +1,16 @@
+id: continental-refrigerator
+name: Continental Refrigerator
+website: https://www.continentalrefrigerator.com
+categories: [hvac]
+aliases: []
+support:
+  - category: hvac
+    department: Service Department
+    phone: "+18005237138"
+    country: US
+    notes: "Continental Refrigerator Service Department (Bensalem, PA) for commercial refrigeration cabinets. No separate refrigeration category exists in the vocabulary, so hvac is the closest. Service email in current manuals: continental-service@nrac.com; older manuals list service@continentalrefrigerator.com."
+    source: "https://www.manualshelf.com/manual/continental-refrigerator/d27n8fb/owners-manual-german-english/page-18.html"
+    last_verified: "2026-10-26"
+    hours:
+      timezone: "ET"
+      mon_fri: "8:00 AM - 5:00 PM"

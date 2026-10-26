@@ -1,0 +1,14 @@
+id: mitco
+name: Mitco Manufacturing, Inc.
+website: https://www.mitcomfg.com
+categories:
+- hvac-controls
+aliases: []
+support:
+- category: hvac-controls
+  department: Customer Support
+  phone: "+18003388808"
+  country: US
+  notes: Andrews, SC, 137 Puncheon Creek Dr. Thermostats, contactors, capacitors, condensate neutralizers, leak sealant, oil filters, mini-split kits. Local (843) 264-2874. NOT a RectorSeal brand (no Mitco-RectorSeal link found; xref parent itself questions it) and NOT Mitchell Industrial Tire (mitco.com, Chattanooga, TN).
+  source: https://www.mitcomfg.com/assets/images/PDF/F719M%20Thermostats%20for%20HVAC%20Professionals.pdf
+  last_verified: "2026-10-26"

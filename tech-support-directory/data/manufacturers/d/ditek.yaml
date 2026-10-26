@@ -1,0 +1,13 @@
+id: ditek
+name: Ditek
+website: https://www.ditekcorp.com
+categories: [electrical]
+aliases: ["DITEK Corporation", "DITEK Surge Protection"]
+support:
+  - category: electrical
+    department: Technical Support
+    phone: "+18884726100"
+    country: US
+    notes: "DITEK Corporation (Largo, FL) surge protective devices. Technical support available 24/7 per DITEK installation instructions; sales line 800-753-2345 also published. Covers xref spellings Ditek, DITEK CORP, and DITEK Surge Protection (same manufacturer)."
+    source: "https://www.manualshelf.com/manual/ditek/dtk-120hw/install-instructions-english.html"
+    last_verified: "2026-10-26"

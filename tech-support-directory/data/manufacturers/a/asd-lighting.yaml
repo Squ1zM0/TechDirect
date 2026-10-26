@@ -1,0 +1,12 @@
+id: asd-lighting
+name: ASD Lighting
+categories: [electrical]
+aliases: ["ASD Lighting Corporation", "ASD"]
+support:
+  - category: electrical
+    department: Customer Support
+    phone: "+17817393977"
+    country: US
+    notes: "LED luminaires (indoor/outdoor, high bay, area lighting), The Woodlands TX (1780 Hughes Landing Blvd Ste 350, founded 1999). Line published in ASD installation guides; orders@asdlighting.com and fax 339-502-8970 also published. No lighting category exists in the TechDirect vocabulary, so electrical is used as the closest term."
+    source: "https://files.asd-lighting.com/35/92/3592ED34BCD4FD59B37CF31727883DE4.pdf"
+    last_verified: "2026-10-26"

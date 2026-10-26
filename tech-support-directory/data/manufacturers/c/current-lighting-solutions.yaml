@@ -1,0 +1,13 @@
+id: current-lighting-solutions
+name: Current Lighting Solutions
+website: https://www.currentlighting.com
+categories: [electrical]
+aliases: ["Current", "Current, powered by GE", "GE Current"]
+support:
+  - category: electrical
+    department: Technical Support
+    phone: "+18886943533"
+    country: US
+    notes: "Current Lighting Solutions (formerly GE Current, a Daintree company) Technical Support per its own product manuals (option 2 for product/technical questions); email lightingprodinfo@gecurrent.com. LED lighting and lighting controls. GE and the GE monogram are trademarks of General Electric used under license."
+    source: "https://manualspro.net/115928-ge-current-lpl22-value-series-panel-light-gen-d-led-recessed-luminaire-owners-manual"
+    last_verified: "2026-10-26"

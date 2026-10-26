@@ -1,0 +1,20 @@
+id: ronk-electrical-industries
+name: Ronk Electrical Industries
+website: https://ronkelectrical.com/
+categories:
+- electrical
+aliases:
+- Ronk
+- Ronk Electrical
+support:
+- category: electrical
+  department: Technical Support
+  phone: '+12175638333'
+  country: US
+  notes: Ronk Electrical Industries, Nokomis, IL. Service line from ADD-A-PHASE manuals for balancing help; sales 800-221-7665 is the site's general contact. Mon-Fri 8:00 am-4:30 pm CT. Phase converters
+    and power conditioning.
+  source: ronkelectrical.com news page and ADD-A-PHASE manuals
+  last_verified: '2026-10-26'
+  hours:
+    timezone: CT
+    mon_fri: 8:00 AM - 4:30 PM

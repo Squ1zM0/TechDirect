@@ -1,0 +1,16 @@
+id: airflow-systems
+name: Airflow Systems
+website: https://www.airflowsystems.com
+categories: [airflow]
+aliases: ["Airflow Systems Inc."]
+support:
+  - category: airflow
+    department: Customer Support
+    phone: "+18008186185"
+    country: US
+    notes: "Airflow Systems, Inc., 11221 Pagemill Road, Dallas, TX 75243-8314. Industrial dust, mist and fume collection and air filtration systems. Customer Service toll-free number published on the manufacturer's own site; office (214) 503-8008 and email info@airflowsystems.com also published."
+    source: "https://www.airflowsystems.com/aerospace.html"
+    last_verified: "2026-10-26"
+    hours:
+      timezone: "CT"
+      mon_fri: "8:00 AM - 5:00 PM"

@@ -1,0 +1,16 @@
+id: optex
+name: OPTEX
+website: https://optexamerica.com/faq
+categories: [electrical]
+aliases: ["OPTEX Americas"]
+support:
+  - category: electrical
+    department: Customer Support
+    phone: "+18009667839"
+    country: US
+    notes: "OPTEX Americas Inc., Rancho Dominguez CA; FAQ gives Tel 800-966-7839, info@optexamerica.com. FLAG: an older official Optex territory map says 'For tech support, please call 800-556-7839' - conflicting older tech number, not used as the file number (see batch report)."
+    source: "https://optexamerica.com/faq"
+    last_verified: "2026-10-26"
+    hours:
+      timezone: "PT"
+      mon_fri: "8:30 AM - 5:00 PM"

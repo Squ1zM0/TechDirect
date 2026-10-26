@@ -1,0 +1,14 @@
+id: schonbek
+name: Schonbek
+website: https://schonbek.com/
+categories:
+- electrical
+aliases: []
+support:
+- category: electrical
+  department: Customer Support
+  phone: '+18008361892'
+  country: US
+  notes: Schonbek, 61 Industrial Blvd, Plattsburgh, NY 12901. lighting.na@schonbek.com. A WAC Group brand. Decorative lighting.
+  source: schonbek.com customer-service page (Customer Service +1 800 836 1892) and Schonbek spec sheets
+  last_verified: '2026-10-26'

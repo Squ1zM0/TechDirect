@@ -1,0 +1,16 @@
+id: strasser-woodenworks
+name: "Strasser Woodenworks"
+website: "http://strasserwood.com/custom-orders/"
+categories: [bathroom-systems]
+aliases: []
+support:
+  - category: bathroom-systems
+    department: Customer Support
+    phone: "+18004450494"
+    country: US
+    notes: "Strasser Woodenworks bath vanities and furniture, Woodinville WA. Email special@strasserwood.com."
+    source: "http://strasserwood.com/custom-orders/"
+    last_verified: "2026-10-26"
+    hours:
+      timezone: "PT"
+      mon_fri: "8:00 AM - 5:00 PM"

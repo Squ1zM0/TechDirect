@@ -1,0 +1,16 @@
+id: structured-cable-products
+name: "Structured Cable Products"
+website: "https://scpcat5e.com/"
+categories: [electrical]
+aliases: ["SCP"]
+support:
+  - category: electrical
+    department: Customer Support
+    phone: "+19549288600"
+    country: US
+    notes: "Structured Cable Products (SCP) bulk cable and connectivity, Fort Lauderdale FL. Email sales@simplybrands.com."
+    source: "https://scpcat5e.com/bulk-cables/category-data/cat6/cat6-wt-etl-category-bulk-data-cable"
+    last_verified: "2026-10-26"
+    hours:
+      timezone: "ET"
+      mon_fri: "8:30 AM - 5:00 PM"

@@ -1,0 +1,17 @@
+id: gsw
+name: 'GSW'
+website: https://gsw-wh.com/
+categories:
+- water-heaters
+aliases: []
+support:
+- category: water-heaters
+  department: 'Technical Support'
+  phone: '+18884798324'
+  country: CA
+  notes: 'GSW Water Heating, a division of A.O. Smith Enterprises Ltd., Fergus, Ontario, Canada. Canadian brand; toll-free line published by GSW Canada, so country is CA, not US. Email techsupport@gsw-wh.com.'
+  source: 'https://gsw-wh.com/connected-voltex-al/'
+  last_verified: '2026-10-26'
+  hours:
+    timezone: 'EST'
+    mon_fri: '8:00 AM - 5:00 PM'

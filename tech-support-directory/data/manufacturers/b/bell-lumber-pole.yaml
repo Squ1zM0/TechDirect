@@ -1,0 +1,13 @@
+id: bell-lumber-pole
+name: Bell Lumber & Pole
+website: https://blpole.com/
+categories: [electrical]
+aliases: ["Bell Lumber and Pole Company", "Bell Lumber & Poles"]
+support:
+  - category: electrical
+    department: Customer Support
+    phone: "+18776334334"
+    country: US
+    notes: "Bell Lumber & Pole Co. toll-free line for wood utility poles, piling and mass timber; HQ New Brighton, MN. 24-hour emergency service also published at 855-870-3318. Category mapping: utility poles have no dedicated vocabulary term; electrical is the closest."
+    source: "https://woodpoles.org/Supply/Pole-Suppliers/"
+    last_verified: "2026-10-26"

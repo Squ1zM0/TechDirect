@@ -1,0 +1,12 @@
+id: lem-products
+name: LEM Products
+categories: [electrical]
+aliases: ["LEM Products, Inc."]
+support:
+  - category: electrical
+    department: Customer Support
+    phone: "+18002202400"
+    country: US
+    notes: "LEM Products, Inc., Montgomeryville, PA; industrial safety identification products (labels, tags, signs, markers) for OSHA/ANSI compliance. General number from LEM's own releases; direct line 215-348-9900 also published."
+    source: "http://www.sbwire.com/press-releases/lem-products-inc-now-offering-custom-designed-safety-labels-signs-and-tags-624031.htm"
+    last_verified: "2026-10-26"

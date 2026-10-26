@@ -1,0 +1,16 @@
+id: simpson-strong-tie
+name: Simpson Strong-Tie
+website: https://www.strongtie.com
+categories: [hardware]
+aliases: []
+support:
+  - category: hardware
+    department: Technical Support
+    phone: "+18009995099"
+    country: US
+    notes: "Simpson Strong-Tie Company Inc. (structural connectors, fasteners, anchors, lateral systems). Engineering Technical Support team, Monday-Friday, 8:00 AM to 5:00 PM in Eastern, Central and Pacific time zones, routed to the nearest regional office. Covers both xref spellings Simpson and Simpson Strong Tie."
+    source: "https://gslbco.strongtie.com/askman.html"
+    last_verified: "2026-10-26"
+    hours:
+      timezone: "ET/CT/PT"
+      mon_fri: "8:00 AM - 5:00 PM"

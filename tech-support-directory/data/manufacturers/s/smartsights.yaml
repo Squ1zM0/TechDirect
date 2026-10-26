@@ -1,0 +1,13 @@
+id: smartsights
+name: SmartSights
+website: https://smartsights.com
+categories: [hvac-controls]
+aliases: []
+support:
+  - category: hvac-controls
+    department: Customer Support
+    phone: "+15123261011"
+    country: US
+    notes: "SmartSights (WIN-911 remote alarm notification software, formed by WIN-911 and SyTech joining forces) for industrial/SCADA alarm monitoring and notification. Americas contact; US toll-free 800-331-8740 also published; email sales@smartsights.com; EMEA +33 6 89 30 36 58."
+    source: "https://smartsights.com/wp-content/uploads/2025/08/Quasar_Case-Study-1.pdf"
+    last_verified: "2026-10-26"

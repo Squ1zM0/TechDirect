@@ -1,0 +1,13 @@
+id: weiler-abrasives
+name: "Weiler Abrasives Group"
+website: https://www.weilerabrasives.com
+categories: [hardware]
+aliases: ["Weiler Abrasives"]
+support:
+  - category: hardware
+    department: Customer Support
+    phone: "+18008359999"
+    country: US
+    notes: "Cresco PA. Email customerservice@weilerabrasives.com. Abrasives."
+    source: "http://www.weilerabrasives.com/na-news/weiler-abrasives-to-showcase-innovative-industrial-grinding-solutions-at-imts-2024"
+    last_verified: "2026-10-26"

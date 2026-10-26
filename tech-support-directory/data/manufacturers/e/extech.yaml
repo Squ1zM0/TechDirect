@@ -1,0 +1,13 @@
+id: extech
+name: "Extech"
+categories:
+- electrical
+aliases: ["Extech (Amp, Meters, Etc)"]
+support:
+- category: electrical
+  department: "Technical Support"
+  phone: "+18774398324"
+  country: US
+  notes: "Extech Instruments, a Teledyne FLIR company, Nashua NH (older docs list Waltham MA). US support line with technical support as option 3; email support@extech.com; international +1-603-324-7800; older docs list (781) 890-7440 ext. 200. Test instruments. Covers xref spellings Extech and Extech (Amp, Meters, Etc)."
+  source: "https://www.digikey.com/en/htmldatasheets/production/2843944/0/0/1/vt30-guide"
+  last_verified: "2026-10-26"

@@ -1,0 +1,15 @@
+id: times-microwave-systems
+name: Times Microwave Systems
+website: https://timesmicrowave.com/
+categories:
+- electrical
+aliases: []
+support:
+- category: electrical
+  department: Customer Support
+  phone: '+18008672629'
+  country: US
+  notes: Wallingford, CT headquarters main number as published in the footer of official Times Microwave
+    pages. Not labelled Technical Support.
+  source: https://timesmicrowave.com/selecting-the-right-cable-assembly-to-meet-the-demands-of-commercial-space-applications/
+  last_verified: '2026-10-26'

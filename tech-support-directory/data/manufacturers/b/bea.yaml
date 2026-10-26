@@ -1,0 +1,12 @@
+id: bea
+name: BEA Sensors Americas
+categories: [electrical]
+aliases: ["BEA", "BEA Sensors"]
+support:
+  - category: electrical
+    department: Technical Support
+    phone: "+18004074545"
+    country: US
+    notes: "Automatic-door and pedestrian sensors (activation, safety, access control), Pittsburgh PA (100 Enterprise Drive, RIDC Park). Technical support line published in BEA manuals; customer service 800-523-2462 and general office 412-249-4100 (infous@BEAsensors.com) also published."
+    source: "https://manuals.plus/bea/ixio-dt1-motion-and-presence-sensor-manual"
+    last_verified: "2026-10-26"

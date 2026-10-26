@@ -1,0 +1,14 @@
+id: meyer-burger
+name: Meyer Burger
+website: https://www.meyerburger.com
+categories:
+- electrical
+aliases: []
+support:
+- category: electrical
+  department: Customer Support
+  phone: "+18334626415"
+  country: US
+  notes: Swiss/German solar cell and module maker; US number from EnergySage supplier profile. US plant status in flux (Goodyear, AZ module plant; Colorado Springs cell plant announced 2021-2024; restructuring reported), note the uncertainty. German place listings show German plants as permanently closed (weak aggregator evidence, not overstated).
+  source: https://www.energysage.com/supplier/26419/meyer-burger/
+  last_verified: "2026-10-26"

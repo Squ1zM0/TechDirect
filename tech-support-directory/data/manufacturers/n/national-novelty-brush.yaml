@@ -1,0 +1,13 @@
+id: national-novelty-brush
+name: National Novelty Brush
+website: http://www.nnbc-pa.com
+categories: [hardware]
+aliases: ["NNBC", "National Novelty Brush Company"]
+support:
+  - category: hardware
+    department: Customer Support
+    phone: "+17172995681"
+    country: US
+    notes: "National Novelty Brush Company (NNBC), Lancaster PA (505 E Fulton St); brushes, applicators, metal closures; trades as Maugus Manufacturing, Inc. per EIS."
+    source: "https://www.crunchbase.com/organization/national-novelty-brush"
+    last_verified: "2026-10-26"

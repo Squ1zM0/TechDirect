@@ -1,0 +1,16 @@
+id: cal-am
+name: Cal Am Manufacturing
+website: https://www.calam.net/
+categories: [electrical]
+aliases: ["Cal Am"]
+support:
+  - category: electrical
+    department: Customer Support
+    phone: "+16193369550"
+    country: US
+    notes: "Cal Am Manufacturing, 1939 Friendship Dr Ste E, El Cajon, CA 92020, a registered trademark of Stratus Manufacturing, Inc.; maker of fittings and sealing devices for underground electrical and broadband applications (duct plugs, entry seals, duct spacers, PVC caps) for over 35 years. Emails sales@calam.net, marketing@calam.net; fax 619-336-9549. NOTE the xref hint 'Plumbing; fittings': Cal Am's actual business is underground electrical/broadband duct fittings, so filed under electrical; hours per business listing Mon-Fri 7:30 AM-5 PM PT."
+    source: "https://calam.net/wp-content/uploads/2021/05/CS0008-PVC-End-Caps-Cutsheet.pdf"
+    last_verified: "2026-10-26"
+    hours:
+      timezone: "PT"
+      mon_fri: "7:30 AM - 5:00 PM"

@@ -1,0 +1,15 @@
+id: hougen-manufacturing
+name: Hougen Manufacturing
+website: https://www.hougen.com/
+categories:
+- hardware
+aliases:
+- Hougen
+support:
+- category: hardware
+  department: Technical Support
+  phone: '+18004267818'
+  country: US
+  notes: 'Hougen Manufacturing, Flint, MI area. Toll-free Technical Support line is primary; Technical Service 810-635-7111 also published in Hougen operator manuals. Annular cutters, magnetic drills.'
+  source: https://www.hougen.com/downloads/drill_pdf/927/OM9270717-English.pdf
+  last_verified: '2026-10-26'

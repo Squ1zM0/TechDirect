@@ -1,0 +1,13 @@
+id: plusrite
+name: Plusrite
+website: https://www.plusriteusa.com
+categories: [electrical]
+aliases: ["Plusrite USA"]
+support:
+  - category: electrical
+    department: Customer Support
+    phone: "+18557587009"
+    country: US
+    notes: "Plusrite USA, Ontario, CA (2000 S. Grove Ave, Bldg B). Number published in Plusrite's own catalog; an older catalog gives 888-758-7443, superseded here by the newer catalog number. Not labelled technical support, so recorded as Customer Support. Lamps: LED, HID, CFL, fluorescent, germicidal, and specialty lamps. Distinct from Plusrite Australia (plusrite.com.au), which is a separate regional operation."
+    source: "https://lightingspecialtieslv.com/wp-content/uploads/2022/09/Plusrite-Catalog-CLS-interactive2.pdf"
+    last_verified: "2026-10-26"

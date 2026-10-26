@@ -1,0 +1,26 @@
+id: ingram-micro
+name: Ingram Micro
+website: https://usa.ingrammicro.com/site/cms?page=CustomerService
+categories:
+- electrical
+aliases:
+- Ingram Micro Inc.
+support:
+- category: electrical
+  department: Customer Support
+  phone: '+18002744800'
+  country: US
+  notes: Ingram Micro (IT distributor). Customer service line on the official Ingram
+    Micro USA customer service page. RMA/claims portal line 800-456-8000 also published
+    (see second entry).
+  source: https://usa.ingrammicro.com/site/cms?page=CustomerService
+  last_verified: '2026-10-26'
+- category: electrical
+  department: Customer Support
+  phone: '+18004568000'
+  country: US
+  notes: RMA / claims portal line, per the official Ingram Micro RMA-portal help document.
+    Web and e-Solutions Support (ECS) 800-616-4665 option 1, option 3, email electronic.services@ingrammicro.com,
+    also published in the same document.
+  source: https://usa.ingrammicro.com/media/Documents/customer_service/IM-Quick-Start-Request-RMA-or-Claim-Portal.pdf
+  last_verified: '2026-10-26'

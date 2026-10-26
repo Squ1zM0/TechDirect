@@ -1,0 +1,15 @@
+id: hydrel
+name: Hydrel
+website: https://www.hydrel.com/
+categories:
+- electrical
+aliases:
+- Hydrel Lighting
+support:
+- category: electrical
+  department: Technical Support
+  phone: '+18007057378'
+  country: US
+  notes: 'Hydrel (Acuity Brands Lighting brand), outdoor, architectural and underwater lighting. The brand publishes its own distinct service contact, so it keeps its own file rather than resolving to acuity-brands. Service line 800-705-SERV (7378), digits printed in the source; dedicated email TechSupport-Hydrel@AcuityBrands.com. The Conyers main number 770-922-9000 is not the Hydrel service line.'
+  source: https://www.AcuityBrands.com/products/detail/1275475/hydrel/4800-nm-led/led-underwater-fixture-for-fountains-and-water-features
+  last_verified: '2026-10-26'

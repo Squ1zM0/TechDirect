@@ -1,0 +1,14 @@
+id: cmp-products
+name: CMP Products
+website: https://www.cmp-products.com
+categories: [electrical]
+aliases: ["CMP Products Texas Inc", "CMP Products Ltd"]
+support:
+  - category: electrical
+    department: Customer Support
+    phone: "+12817765201"
+    email: houstonoffice@cmpproducts.com
+    country: US
+    notes: "CMP Products, cable glands and accessories; US office CMP Products Texas Inc, Houston, TX. US line per CMP's own site; UK HQ (Cramlington) line +44 191 265 7411 also published."
+    source: "https://www.cmp-products.com/us/en-us/cable-gland-sizes/"
+    last_verified: "2026-10-26"

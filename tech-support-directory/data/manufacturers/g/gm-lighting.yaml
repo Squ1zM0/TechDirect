@@ -1,0 +1,13 @@
+id: gm-lighting
+name: 'GM Lighting'
+categories:
+- electrical
+aliases: []
+support:
+- category: electrical
+  department: 'Customer Support'
+  phone: '+18666710811'
+  country: US
+  notes: 'Sales email sales@gmlighting.net. Caveat: source catalog is copyright 2012; the number was not re-verified on a current GM Lighting site page.'
+  source: 'https://assets.usesi.com/product-media/catalogs/81333_catalog.pdf'
+  last_verified: '2026-10-26'

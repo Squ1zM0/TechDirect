@@ -1,0 +1,14 @@
+id: iscar-metals
+name: Iscar Metals
+website: https://www.iscar.com/
+categories:
+- hardware
+aliases: []
+support:
+- category: hardware
+  department: Customer Support
+  phone: '+18172583200'
+  country: US
+  notes: "Cutting tools; ISCAR USA, HQ 300 Westway Place, Arlington, TX 76018."
+  source: https://webshop.iscarusa.com/contact.php
+  last_verified: '2026-10-26'

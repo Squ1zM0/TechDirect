@@ -1,0 +1,13 @@
+id: pdm-us
+name: PDM US
+website: https://pdmus.com
+categories: [hvac]
+aliases: ["PDM US LLC", "PDM US Corp.", "Gelcopper"]
+support:
+  - category: hvac
+    department: Customer Support
+    phone: "+18039098100"
+    country: US
+    notes: "PDM US LLC (formerly PDM US Corp.), Rock Hill, SC (640 Cel River Rd, 29730). Number printed in the company's own Gelcopper material safety data sheets alongside info@pdmus.com and corroborated across multiple SDS revisions. Manufacturer of Gelcopper pre-insulated copper linesets and polyethylene foam tubular insulation (ASTM C 1427, Type I, Grade I; UL 723 classified) for HVAC/refrigeration systems. The xref string 'PDM US GelcopperUS' is the company name plus its Gelcopper product line, recorded here as one file. General company number, not labelled technical support, so recorded as Customer Support."
+    source: "https://pdmus.com/wp-content/uploads/2020/10/GELCOPPER-MDS-2020.pdf"
+    last_verified: "2026-10-26"

@@ -1,0 +1,15 @@
+id: igloo
+name: Igloo Products
+website: https://www.igloocoolers.com/
+categories:
+- hardware
+aliases:
+- IGLOO
+support:
+- category: hardware
+  department: Customer Support
+  phone: '+18002737024'
+  country: US
+  notes: 'Igloo Products Corp., Katy, TX. Customer service line. Email support@igloocoolers.zendesk.com. Hours conflict flagged, not resolved: one source lists Mon-Fri 6am-5pm PT, another 7am-4pm PT, so no hours block is published. The 888-943-5182 number in CPSC recall notices is recall-specific, not the general customer-service line, and was not substituted. Job-site coolers; xref category Tools, coolers maps to hardware with this note.'
+  source: https://customerservicenumbers.com/igloo/
+  last_verified: '2026-10-26'

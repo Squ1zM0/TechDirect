@@ -1,0 +1,12 @@
+id: ls-electric-america
+name: LS Electric America
+website: "https://www.lselectricamerica.com"
+categories: [electrical]
+support:
+  - category: electrical
+    department: Technical Support
+    phone: "+18008912941"
+    country: US
+    notes: "LS ELECTRIC America, Lincolnshire, IL (625 Heathrow Dr.); US arm of LS ELECTRIC Co Ltd (South Korea); power devices, systems and automation solutions (switchgear, substations, panelboards). Number from LS ELECTRIC America's own support-services page, which lists the same number for both Sales and Tech Support (tech_support.us@lselectricamerica.com also published)."
+    source: "https://www.lselectricamerica.com/support-services/"
+    last_verified: "2026-10-26"

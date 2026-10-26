@@ -1,0 +1,17 @@
+id: rocky-mountain-hardware
+name: Rocky Mountain Hardware
+website: https://rockymountainhardware.com/
+categories:
+- hardware
+aliases: []
+support:
+- category: hardware
+  department: Customer Support
+  phone: '+18887882013'
+  country: US
+  notes: Rocky Mountain Hardware, Hailey, ID. Local 208-788-2013; info@rockymountainhardware.com; Mon-Fri 8 am-5 pm MST.
+  source: rockymountainhardware.com price book PDF
+  last_verified: '2026-10-26'
+  hours:
+    timezone: MT
+    mon_fri: 8:00 AM - 5:00 PM

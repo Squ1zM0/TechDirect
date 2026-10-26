@@ -1,0 +1,13 @@
+id: benner-nawman
+name: Benner-Nawman
+website: https://benner-nawman.com
+categories: [hardware]
+aliases: ["Benner-Nawman, Inc.", "BN Products"]
+support:
+  - category: hardware
+    department: Customer Support
+    phone: "+18009923833"
+    country: US
+    notes: "Benner-Nawman, Inc., Wickenburg, AZ; rebar tools, concrete accessories and jobsite equipment; email mail@bnproducts.com. Category mapping: rebar/construction tools have no dedicated vocabulary term; hardware is the closest."
+    source: "https://ccinetwork.com/images/media/HAS-Type Literature Sheet.pdf"
+    last_verified: "2026-10-26"

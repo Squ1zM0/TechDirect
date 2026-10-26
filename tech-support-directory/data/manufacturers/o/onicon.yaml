@@ -1,0 +1,13 @@
+id: onicon
+name: ONICON
+website: https://www.onicon.com/application/lf-cooling-tower
+categories: [hvac-controls]
+aliases: []
+support:
+  - category: hvac-controls
+    department: Technical Support
+    phone: "+17274476140"
+    country: US
+    notes: "ONICON Incorporated, Largo FL; tech notes: 'contact ONICON Technical Support at (727) 447-6140 or techsupport@onicon.com'; flow and energy measurement for HVAC/building automation; sales@onicon.com."
+    source: "https://cdn4.guidespdf.com/view/1953/1953918-f1000_series.pdf"
+    last_verified: "2026-10-26"

@@ -1,0 +1,13 @@
+id: smc
+name: SMC
+website: https://www.smcusa.com
+categories: [valves]
+aliases: []
+support:
+  - category: valves
+    department: Customer Support
+    phone: "+18007627621"
+    country: US
+    notes: "SMC Corporation of America (SMC Corporation), Noblesville, IN (pneumatic components, solenoid valves, actuators, fittings, air preparation). Toll-free published as 1-800-SMC-SMC1; headquarters phone 317-899-4440 also published. Category valves is the closest vocabulary term for this pneumatics manufacturer."
+    source: "https://www.smcusa.com/help-and-support"
+    last_verified: "2026-10-26"

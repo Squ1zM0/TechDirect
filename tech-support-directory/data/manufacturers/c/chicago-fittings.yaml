@@ -1,0 +1,13 @@
+id: chicago-fittings
+name: Chicago Fittings Corporation
+website: http://www.chicagofittings.com/
+categories: [piping-systems]
+aliases: ["Chicago Fittings"]
+support:
+  - category: piping-systems
+    department: Customer Support
+    phone: "+16082998900"
+    country: US
+    notes: "Chicago Fittings Corporation, Beloit, WI; pipe fittings. Phone (608) 299-8900 per directory listing. Hours Mon-Fri 7:30 AM-4:30 PM CT per listing. Distinct from Chicago Faucets (Geberit)."
+    source: "http://www.chicagofittings.com/"
+    last_verified: "2026-10-26"

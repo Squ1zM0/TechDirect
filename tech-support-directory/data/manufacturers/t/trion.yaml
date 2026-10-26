@@ -1,0 +1,22 @@
+id: trion
+name: Trion
+categories:
+- hvac
+aliases: []
+support:
+- category: hvac
+  department: Technical Support
+  phone: '+18668292440'
+  country: US
+  notes: 'Installer Help Line / Technical Support, per Trion IAQ manuals: ''If you have any questions
+    on installation issues or problems, please call Technical Support 866-829-2440''. Air cleaners / IAQ.
+    Not Trion Solutions (payroll/HR company).'
+  source: https://manualsdump.com/en/manuals/trion-he_plus_1400-he_plus_2000/44399/11
+  last_verified: '2026-10-26'
+- category: hvac
+  department: Customer Support
+  phone: '+18008840002'
+  country: US
+  notes: Trion IAQ Customer Service, 101 McNeill Rd., Sanford, NC 27330; customerservice@trioniaq.com.
+  source: https://www.arcat.com/arcatcos/cos36/arc36130.html
+  last_verified: '2026-10-26'

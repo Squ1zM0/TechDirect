@@ -1,0 +1,13 @@
+id: allen-tel-products
+name: Allen Tel Products
+website: https://www.allentel.com
+categories: [electrical]
+aliases: ["Allen Tel", "Allen Tel Products, Inc."]
+support:
+  - category: electrical
+    department: Customer Support
+    phone: "+17028555700"
+    country: US
+    notes: "Allen Tel Products, Inc., 30 TV5 Drive, Henderson, NV 89014. Manufacturer of structured-connectivity products (modular jacks, patch cords, enclosures, outdoor telephones) since 1952. Email info@allentel.com. The 1-855-347-2839 number shown on Allen Tel pages is Graybar's support line (account migration) and is not used as Allen Tel's own number."
+    source: "https://www.allentel.com/help-faq/"
+    last_verified: "2026-10-26"

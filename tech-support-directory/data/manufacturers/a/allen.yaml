@@ -1,0 +1,13 @@
+id: allen
+name: Allen
+website: https://www.apextoolgroup.com
+categories: [hardware]
+aliases: ["Allen Tools"]
+support:
+  - category: hardware
+    department: Customer Support
+    phone: "+18884476326"
+    country: US
+    notes: "Allen is Apex Tool Group's hex-key brand ('the Original Manufacturer of the Hex Key'). No distinct Allen-only support contact is published, so Apex Tool Group's published number is used. Apex Tool Group, LLC is headquartered in Sparks, MD."
+    source: "https://www.thomasnet.com/company/apex-tool-group-llc-10085695/profile?heading=76082007&what=Magnetic+Sockets"
+    last_verified: "2026-10-26"

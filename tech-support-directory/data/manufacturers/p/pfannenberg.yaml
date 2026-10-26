@@ -1,0 +1,13 @@
+id: pfannenberg
+name: Pfannenberg
+website: https://www.pfannenbergusa.com
+categories: [electrical]
+aliases: ["Pfannenberg, Inc.", "PFANNENBERG"]
+support:
+  - category: electrical
+    department: Customer Support
+    phone: "+18666890085"
+    country: US
+    notes: "Pfannenberg, Inc., Lancaster, NY (68 Ward Road). Toll-free number published site-wide on pfannenbergusa.com; direct (716) 685-6866 and sales@pfannenbergusa.com also published. Not labelled technical support, so recorded as Customer Support. Enclosure thermal management (filterfans, cooling units, chillers, heat exchangers) and signaling devices."
+    source: "https://www.pfannenbergusa.com/product/thermal-management/air-to-air-heat-exchangers/pks-330x/pks-3304/"
+    last_verified: "2026-10-26"

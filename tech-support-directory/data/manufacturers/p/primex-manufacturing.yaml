@@ -1,0 +1,13 @@
+id: primex-manufacturing
+name: Primex Manufacturing
+website: https://www.primexfits.com/
+categories: [electrical]
+aliases: []
+support:
+  - category: electrical
+    department: Customer Support
+    phone: "+16048817875"
+    country: CA
+    notes: "Canadian manufacturer; no US line is published here and none is invented. Not Premax (a separate batch row)."
+    source: "https://rexel-cdn.com/products/primex-manufacturing-p2100b-installation-manual.pdf?i=190E03C3-7B5F-40E0-8942-91EBE0F0905A"
+    last_verified: "2026-10-26"

@@ -1,0 +1,16 @@
+id: burkert
+name: Burkert Fluid Control Systems
+website: https://www.burkert-usa.com/en/contact
+categories: [valves]
+aliases: ["Burkert", "B\u00fcrkert"]
+support:
+  - category: valves
+    department: Technical Support
+    phone: "+18003251405"
+    country: US
+    notes: "Burkert USA Corporation telephone consultation and service/maintenance/commissioning for technical concerns; email sales.us@burkert.com. International line also published as 704-504-4440."
+    source: "https://www.burkert-usa.com/en/contact"
+    last_verified: "2026-10-26"
+    hours:
+      timezone: "ET"
+      mon_fri: "8:00 AM - 5:00 PM"

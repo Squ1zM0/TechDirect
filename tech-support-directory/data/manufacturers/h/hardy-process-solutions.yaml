@@ -1,0 +1,17 @@
+id: hardy-process-solutions
+name: 'Hardy Process Solutions'
+website: https://www.hardysolutions.com/
+categories:
+- electrical
+aliases: []
+support:
+- category: electrical
+  department: 'Technical Support'
+  phone: '+18582922710'
+  country: US
+  notes: 'Toll-free 800-821-5831 also published. Email hardysupport@hardysolutions.com. Process weighing instrumentation, so electrical is the closest vocabulary term.'
+  source: 'https://www.hardysolutions.com/en/pages/support/contact-us'
+  last_verified: '2026-10-26'
+  hours:
+    timezone: 'PST'
+    mon_fri: '6:30 AM - 5:30 PM'

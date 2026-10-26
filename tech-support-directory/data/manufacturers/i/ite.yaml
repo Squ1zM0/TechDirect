@@ -1,0 +1,14 @@
+id: ite
+name: ITE
+website: https://www.siemens.com/us/en.html
+categories:
+- electrical
+aliases: []
+support:
+- category: electrical
+  department: Technical Support
+  phone: '+18003337421'
+  country: US
+  notes: "LEGACY BRAND, OWN FILE: ITE (ITE Imperial Corporation) circuit breakers and panels; Siemens acquired ITE in 1983 per a Bay Power source. No ITE-specific support number was found, so the filed number is the successor Siemens professional/contractor technical support line from the existing Siemens file. Distributor numbers (Bay Power, SuperBreakers, Relectric) are not the successor's published number and were not used."
+  source: https://www.siemens.com/us/en/company/about/contact.html
+  last_verified: '2026-10-26'

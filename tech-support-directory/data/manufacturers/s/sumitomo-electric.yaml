@@ -1,0 +1,13 @@
+id: sumitomo-electric
+name: "Sumitomo Electric"
+website: "https://sumitomoelectric.com/company/office_group_companies/sumitomo-electric-usa-inc"
+categories: [electrical]
+aliases: ["Sumitomo Electric Group"]
+support:
+  - category: electrical
+    department: Customer Support
+    phone: "+13107820227"
+    country: US
+    notes: "Sumitomo Electric group; support via the Sumitomo Electric U.S.A. Inc headquarters line, Torrance CA. Group companies include Sumitomo Electric Wiring Systems, SEIP and Lightwave; no single general group support line was verified."
+    source: "https://sumitomoelectric.com/company/office_group_companies/sumitomo-electric-usa-inc"
+    last_verified: "2026-10-26"

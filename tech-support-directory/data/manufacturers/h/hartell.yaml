@@ -1,0 +1,14 @@
+id: hartell
+name: 'Hartell'
+website: https://www.hartell.com
+categories:
+- pumps
+aliases: []
+support:
+- category: pumps
+  department: 'Customer Support'
+  phone: '+12153220730'
+  country: US
+  notes: 'Email info@hartell.com. Condensate pumps. Batch parent ITT/Xylem is recorded; the published number is Hartell own line from its manuals, not a Xylem-routed line.'
+  source: 'https://www.manualshelf.com/manual/hartell/lta-1/installation-guide-english.html'
+  last_verified: '2026-10-26'

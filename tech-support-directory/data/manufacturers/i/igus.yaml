@@ -1,0 +1,14 @@
+id: igus
+name: igus
+website: https://www.igus.com/
+categories:
+- electrical
+aliases: []
+support:
+- category: electrical
+  department: Customer Support
+  phone: '+18005212747'
+  country: US
+  notes: 'igus Inc., East Providence, RI. Email sales@igus.com. Customer Service hours Monday to Friday 8am-8pm, timezone not stated in the source, so no hours block is published. Motion plastics: Energy Chain cable carriers, Chainflex motion cables, DryLin linear bearings and guides, iglide plastic bushings, igubal spherical bearings; no plastics or bearings term in the category vocabulary, so electrical is used as the closest term with this note.'
+  source: https://www.igus.com/industry/aeronautical-engineering/airport-and-gse/ground-support-equipment-gse
+  last_verified: '2026-10-26'

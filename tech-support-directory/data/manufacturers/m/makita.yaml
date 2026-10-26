@@ -1,0 +1,15 @@
+id: makita
+name: Makita
+website: https://www.makitatools.com
+categories:
+- hardware
+aliases:
+- Makita (Tools)
+support:
+- category: hardware
+  department: Technical Support
+  phone: "+18004625482"
+  country: US
+  notes: 'Parent Makita Corporation. Power tools, outdoor power equipment. Manuals: ''For technical support... call 1-800-4-MAKITA''. Covers xref spellings Makita and Makita (Tools).'
+  source: https://www.cpsc.gov/Recalls/2025/Makita-USA-Inc-Recalls-Cordless-Grease-Guns-and-Grease-Gun-Hoses-Due-to-Laceration-Hazard
+  last_verified: "2026-10-26"

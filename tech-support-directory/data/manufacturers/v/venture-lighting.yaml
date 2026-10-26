@@ -1,0 +1,15 @@
+id: venture-lighting
+name: Venture Lighting
+website: https://www.venturelighting.com/
+categories:
+- electrical
+aliases: []
+support:
+- category: electrical
+  department: Technical Support
+  phone: '+18004512606'
+  country: US
+  notes: Explicitly 'Venture Lighting technical support'; Venture_Lighting@VentureLighting.com; 6675 Parkland
+    Blvd Ste 100, Solon, OH 44139. Lighting lamps.
+  source: https://www.venturelighting.com/site/warranties/warranty-led-fixtures.pdf
+  last_verified: '2026-10-26'

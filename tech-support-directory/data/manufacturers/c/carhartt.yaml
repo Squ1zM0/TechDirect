@@ -1,0 +1,13 @@
+id: carhartt
+name: Carhartt
+website: https://www.carhartt.com/contact-us
+categories: [hardware]
+aliases: []
+support:
+  - category: hardware
+    department: Customer Support
+    phone: "+18008333118"
+    country: US
+    notes: "Carhartt customer service. Email Just_Ask_Us@Carhartt.com per carhartt.com. Workwear/FR apparel; no apparel category exists in the vocabulary, so mapped to closest term hardware. Also covers xref variant 'Carhartt (FR Clothing)' (FR apparel line of the same brand)."
+    source: "https://www.carhartt.com/contact-us"
+    last_verified: "2026-10-26"

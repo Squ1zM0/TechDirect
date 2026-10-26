@@ -1,0 +1,12 @@
+id: artemide
+name: Artemide
+categories: [electrical]
+aliases: ["Artemide Lighting"]
+support:
+  - category: electrical
+    department: Customer Support
+    phone: "+18772789111"
+    country: US
+    notes: "Italian architectural/design lighting manufacturer (Milan, est. 1960); US general inquiries line published on Artemide North America's own contact page (artemide.net). US head office Artemide Inc., 250 Karin Lane, Hicksville NY 11801, +1 631-694-9292, also published there. No lighting category exists in the TechDirect vocabulary, so electrical is used as the closest term. CORRECTION 2026-10-26: this file previously carried a dealer-page number (Lightopia); it was replaced by the official Artemide North America contact-page line."
+    source: "https://www.artemide.net/en/contact/"
+    last_verified: "2026-10-26"

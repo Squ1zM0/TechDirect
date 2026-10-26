@@ -1,0 +1,13 @@
+id: watts-radiant
+name: "Watts Radiant"
+website: https://www.watts.com
+categories: [hydronics]
+aliases: []
+support:
+  - category: hydronics
+    department: Technical Support
+    phone: "+18002762419"
+    country: US
+    notes: "Watts Water Technologies company; Springfield MO; local 417-864-6108. Distinct number from the watts file, so its own file. Radiant heating."
+    source: "https://www.watts.com/dfsmedia/0533dbba17714b1ab581ab07a4cbb521/46012-source%7D"
+    last_verified: "2026-10-26"

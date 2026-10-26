@@ -1,0 +1,13 @@
+id: electromark
+name: Electromark
+website: https://www.electromark.com
+categories: [electrical]
+aliases: []
+support:
+  - category: electrical
+    department: Customer Support
+    phone: "+18002958247"
+    country: US
+    notes: "Electromark (Wolcott, NY, founded 1970; a Brady Corporation company) utility and industrial marking products: signs, tags, labels, pole markers and meter-marking solutions for transmission, distribution and power generation. Toll-free line from Brady-hosted Electromark catalogs."
+    source: "https://embed.widencdn.net/download/brady/to7s5na8fo/Electromark_Transmission_Marking_Brochure.pdf?u=poycju"
+    last_verified: "2026-10-26"

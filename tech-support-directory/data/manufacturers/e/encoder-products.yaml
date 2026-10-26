@@ -1,0 +1,16 @@
+id: encoder-products
+name: Encoder Products
+website: https://www.encoder.com
+categories: [electrical]
+aliases: ["Encoder Products Company", "EPC"]
+support:
+  - category: electrical
+    department: Technical Support
+    phone: "+12082638541"
+    country: US
+    notes: "Encoder Products Company (EPC, Sagle, ID, since 1969) industrial rotary incremental and absolute encoders (Accu-Coder, Accu-CoderPro, Tru-Trac). Number labelled Technical Support in the company's own manual; toll-free 800-366-5412 and support@encoder.com also published."
+    source: "https://www.encoder.com/hubfs/pdf-downloads/absolute-encoder-downloads/IO-Link Manual.pdf"
+    last_verified: "2026-10-26"
+    hours:
+      timezone: "PT"
+      mon_fri: "5:00 AM - 4:30 PM"

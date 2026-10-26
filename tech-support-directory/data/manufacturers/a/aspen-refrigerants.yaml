@@ -1,0 +1,12 @@
+id: aspen-refrigerants
+name: Aspen Refrigerants
+categories: [hvac]
+aliases: []
+support:
+  - category: hvac
+    department: Customer Support
+    phone: "+18004733766"
+    country: US
+    notes: "Refrigerant supplier, Long Island City NY. Toll-free line published in a TIPS-USA vendor contract document for Aspen Refrigerants, Inc.; office line 718-392-8002 also published."
+    source: "https://tips-usa.com/assets/Vendorspdf/180603_Vehicle_Parts_Supplies_Equip_Contract_Aspen_Refrig_Inc.pdf"
+    last_verified: "2026-10-26"

@@ -1,0 +1,13 @@
+id: lucifer-lighting
+name: Lucifer Lighting
+website: "https://www.luciferlighting.com"
+categories: [electrical]
+aliases: ["Lucifer Lighting Company", "LUCIFER LIGHTING CO"]
+support:
+  - category: electrical
+    department: Customer Support
+    phone: "+12102277329"
+    country: US
+    notes: "Lucifer Lighting Company, San Antonio, TX (3750 North PanAm Expressway); architectural LED downlights, cylinders and recessed fixtures. Number from Lucifer Lighting's own 2026 spec sheets (fax 210-227-4967 also published)."
+    source: "https://luciferlighting.com/getmedia/29621bb7-3d68-44fa-9efd-79ef61e39096/Lucifer_Lighting_Squilinder_Suspended_Fixed_SD2_SP2.pdf?ext=.pdf"
+    last_verified: "2026-10-26"

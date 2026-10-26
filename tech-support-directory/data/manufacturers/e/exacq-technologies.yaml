@@ -1,0 +1,14 @@
+id: exacq-technologies
+name: "Exacq Technologies"
+website: "https://docs.johnsoncontrols.com/exacq/r/Exacq/en-US/exacqVision-Start-User-Manual/21.03/Technical-support"
+categories:
+- electrical
+aliases: []
+support:
+- category: electrical
+  department: "Technical Support"
+  phone: "+13178455710"
+  country: US
+  notes: "Exacq Technologies, Fishers IN, a Johnson Controls company. Johnson Controls docs list this technical support line. Email support@exacq.com. exacqVision video management; electrical is the closest vocabulary term for security/video."
+  source: "https://docs.johnsoncontrols.com/exacq/r/Exacq/en-US/exacqVision-Start-User-Manual/21.03/Technical-support"
+  last_verified: "2026-10-26"

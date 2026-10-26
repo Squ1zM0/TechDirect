@@ -1,0 +1,16 @@
+id: honeywell
+name: Honeywell
+website: https://buildings.honeywell.com/pl/en/support/contact/tech-support
+categories:
+- hvac
+- hvac-controls
+- electrical
+aliases: []
+support:
+- category: hvac
+  department: Technical Support
+  phone: '+18004757515'
+  country: US
+  notes: 'Honeywell International building and industrial side. Primary is the Honeywell Building Technologies BMS phone-support line (800-475-7515), also listed as Customer Care on the HBT OEM page. Other division lines, each labelled, not general lines: Building Technologies Security video, access and Vindicator customer service 800-323-4576 option 1, technical support option 2, Mon-Fri 8am-5pm EST; OEM Tech Support 888-516-9347; Process Solutions / HPS Americas 800-822-7673, email hpscustomersupport@honeywell.com; Aerospace US 800-601-3099; legacy thermostat Customer Care 800-468-1502. The thermostat and home-controls business is Resideo (separate existing file); PPE technical support is the separate staged honeywell-safety file.'
+  source: https://buildings.honeywell.com/pl/en/support/contact/tech-support
+  last_verified: '2026-10-26'

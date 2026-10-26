@@ -1,0 +1,16 @@
+id: dmf-lighting
+name: DMF Lighting
+website: https://www.dmflighting.com
+categories: [electrical]
+aliases: ["DMF"]
+support:
+  - category: electrical
+    department: Customer Support
+    phone: "+13239347779"
+    country: US
+    notes: "DMF Lighting (Carson, CA) modular recessed LED downlighting. Customer Solutions department line; email info@dmflighting.com. Covers xref spellings DMF and DMF LIGHTING (same manufacturer)."
+    source: "https://www.dmflighting.com/developers/"
+    last_verified: "2026-10-26"
+    hours:
+      timezone: "PT"
+      mon_fri: "6:30 AM - 6:00 PM"

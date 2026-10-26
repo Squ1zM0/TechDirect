@@ -1,0 +1,13 @@
+id: fluxwerx
+name: "Fluxwerx"
+categories:
+- electrical
+aliases: []
+support:
+- category: electrical
+  department: "Customer Support"
+  phone: "+16045499379"
+  country: CA
+  notes: "Fluxwerx Illumination Inc., 1364 Cliveden Avenue, Delta BC V3M 6K2 Canada. No separate US line was found, so the Canadian number is filed with country CA per program rules. Email serviceteam@fluxwerx.com. Acquired by Lumenpulse in 2016; founded 2011. Architectural LED luminaires."
+  source: "https://www.fluxwerx.com/company/news/7/deviating-from-the-norm-delivers-fluxwerx-lines-two-prestigious-design-awards?unit=metric&region=eu"
+  last_verified: "2026-10-26"

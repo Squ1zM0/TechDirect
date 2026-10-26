@@ -1,0 +1,13 @@
+id: exm
+name: "EXM"
+categories:
+- electrical
+aliases: []
+support:
+- category: electrical
+  department: "Customer Support"
+  phone: "+18003632423"
+  country: US
+  notes: "EXM (exmweb.com), enclosure systems, terminal blocks, and LED enclosure lights. Number printed in the EXM catalog as 1-800-363-2423; email info@exmweb.com. NOT the ALS EXM Series hazardous bay light, which is a product series name from Advantage Lighting Solutions, a different company."
+  source: "https://assets.gordonelectricsupply.com/datasheets/ts/EXMManufacturing_09861_161_679_CAT.pdf"
+  last_verified: "2026-10-26"

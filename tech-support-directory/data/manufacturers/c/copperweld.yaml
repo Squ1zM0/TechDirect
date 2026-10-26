@@ -1,0 +1,16 @@
+id: copperweld
+name: Copperweld
+website: https://www.copperweld.com
+categories:
+  - electrical
+aliases:
+  - Copperweld Corp.
+  - Copperweld Bimetallics
+support:
+  - category: Customer Support
+    department: Customer Support
+    phone: "+16154400064"
+    country: US
+    notes: "Bimetallic wire and cable (copper-clad steel/aluminum). Building Wire application line used here; Power Grid and Signal Wire lines share 615-377-4200 and Automotive uses 734-502-0058, per the manufacturer's own brochure. Copperweld Bimetallics, LLC."
+    source: "https://cdn.prod.website-files.com/62e5548fdd3aac004113e94e/656bc23ff88464b8405ab222_Copperweld-Corporate%20Brochure-BROC-CW-0001-002-Web.pdf"
+    last_verified: "2026-10-26"

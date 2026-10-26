@@ -1,0 +1,13 @@
+id: lynn-electronics
+name: Lynn Electronics
+website: "https://www.lynnelec.com"
+categories: [electrical]
+aliases: ["Lynn", "Lynn Electronics Corp.", "Lynn Electronics Corporation"]
+support:
+  - category: electrical
+    department: Customer Support
+    phone: "+18005236075"
+    country: US
+    notes: "Lynn Electronics, Ivyland/North Wales, PA; telecom connectivity manufacturer since 1964, maker of custom copper and fiber optic cable assemblies (patch cords, Telco cables, coax, fiber pigtails) with a Corning Gold Certified production line. Toll-free number from Lynn's own product trifold (sales@lynnelec.com also published); HQ direct (215) 355-8200 also published in Lynn's Thomasnet profile."
+    source: "https://objects.eanixter.com/PD363810.PDF"
+    last_verified: "2026-10-26"

@@ -1,0 +1,14 @@
+id: jpw-industries
+name: JPW Industries, Inc.
+website: https://jpwindustries.com/
+categories:
+- hardware
+aliases: []
+support:
+- category: hardware
+  department: Technical Support
+  phone: '+18002746846'
+  country: US
+  notes: "Brands JET, Powermatic, Wilton, and Edwards. Technical Service 8:00 AM-5:00 PM CST Mon-Fri per JET manuals. Parts and service 800-274-6848; HQ 615-793-8900, 427 New Sanford Rd, La Vergne, TN 37086."
+  source: http://powertool.manualsonline.com/manuals/mfg/jet_industrial/cs275.html?p=2
+  last_verified: '2026-10-26'

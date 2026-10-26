@@ -1,0 +1,13 @@
+id: aegis
+name: AEGIS
+website: https://www.est-aegis.com
+categories: [electrical]
+aliases: ["AEGIS Bearing Protection"]
+support:
+  - category: electrical
+    department: Technical Support
+    phone: "+18667381857"
+    country: US
+    notes: "AEGIS shaft grounding rings by Electro Static Technology (ITW), Mechanic Falls ME. AEGIS Bearing Protection Handbook states: 'For Technical Support: sales@estaegis.com or call 1-866-738-1857.' Office (207) 998-5140 also published."
+    source: "https://beaverelectrical.com/content/blog/AEGISHandbook_English.pdf?srsltid=AfmBOoqg9fZ4Ophf3czxfK_rotmiBsfnOeCiAaByHNwKnm0Qtl8f3GVj"
+    last_verified: "2026-10-26"

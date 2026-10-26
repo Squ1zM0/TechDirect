@@ -1,0 +1,13 @@
+id: temprite
+name: "Temprite"
+website: "https://temprite.com/products/"
+categories: [hvac]
+aliases: []
+support:
+  - category: hvac
+    department: Customer Support
+    phone: "+18005529300"
+    country: US
+    notes: "Temprite refrigeration oil management, West Chicago IL (1555 W. Hawthorne Lane). Email temprite@temprite.com. Batch parent field lists Temprite (Parker / Temprite), which is ambiguous; support is via Temprite's own published line and Parker ownership is not asserted."
+    source: "https://temprite.com/products/"
+    last_verified: "2026-10-26"

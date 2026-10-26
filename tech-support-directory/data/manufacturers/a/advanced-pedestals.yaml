@@ -1,0 +1,16 @@
+id: advanced-pedestals
+name: Advanced Pedestals
+website: https://www.api-plastics.com/
+categories: [electrical]
+aliases: ["Advanced Pedestals Inc.", "Advanced Pedestals, Ltd.", "API Plastics"]
+support:
+  - category: electrical
+    department: Customer Support
+    phone: "+19406684380"
+    country: US
+    notes: "Advanced Pedestals Inc. (API Plastics), 2227 Foundry Rd, Gainesville, TX 76240. Rotational-molded utility pedestals, transformer pads, ground sleeves and U-Guard boots for electric utilities. Toll-free sales/returns line 888-433-5711 also published on the manufacturer's return policy page; 5-year warranty against manufacturing defects."
+    source: "https://api-plastics.com/electricutility/transformer-pad/"
+    last_verified: "2026-10-26"
+    hours:
+      timezone: "CT"
+      mon_fri: "8:00 AM - 5:00 PM"

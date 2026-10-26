@@ -1,0 +1,16 @@
+id: continental-industries
+name: Continental Industries
+website: https://www.continentalindustries.com/
+categories: [airflow]
+aliases: []
+support:
+  - category: airflow
+    department: Customer Support
+    phone: "+18007355272"
+    country: US
+    notes: "Continental Industries, Inc. (Elkhart, IN) general company phone per its own submittal sheets; email info@continentalindustries.com. Manufacturer of grilles, registers and diffusers (air distribution). Note: the workbook hint said gas products/fittings/valves, but the company's own published literature is air-distribution products, so category airflow is used."
+    source: "https://www.continentalindustries.com/media/uploads/0/1328_SD-DHV.pdf"
+    last_verified: "2026-10-26"
+    hours:
+      timezone: "ET"
+      mon_fri: "7:00 AM - 5:00 PM"

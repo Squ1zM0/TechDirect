@@ -1,0 +1,11 @@
+id: cimcool-fluid-technologies
+name: Cimcool Fluid Technologies
+categories: [hardware]
+support:
+  - category: hardware
+    department: Customer Support
+    phone: "+15135362000"
+    country: US
+    notes: "CIMCOOL metalworking fluids are a Milacron fluid technology brand; support via Milacron LLC, Cincinnati, OH. Phone is Milacron's published corporate line per a trade-press listing, not Milacron's own contact page; no separate CIMCOOL US support line was found. Category mapped to closest vocabulary term (metalworking fluids)."
+    source: "https://www.plasticsmachinerymanufacturing.com/blow-molding/article/13001749/special-report-extruder-controls-delivering-more-power-ease-of-use"
+    last_verified: "2026-10-26"

@@ -1,0 +1,13 @@
+id: gleason-reel
+name: 'Gleason Reel'
+categories:
+- electrical
+aliases: []
+support:
+- category: electrical
+  department: 'Customer Support'
+  phone: '+19203874120'
+  country: US
+  notes: 'A Hubbell company. Website omitted: no verified homepage URL from the search.'
+  source: 'https://hubbellcdn.com/installationmanuals/GLEASON_041192.pdf'
+  last_verified: '2026-10-26'

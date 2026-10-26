@@ -1,0 +1,17 @@
+id: esco-institute
+name: "Esco Institute"
+website: "https://www.escogroup.org/training/epa608.aspx"
+categories:
+- hvac
+aliases: []
+support:
+- category: hvac
+  department: "Customer Support"
+  phone: "+18007269696"
+  country: US
+  notes: "ESCO Institute (ESCO Group), Mount Prospect IL. Official page directs callers to (800) 726-9696 to find a testing center. HVAC training and EPA 608 certification; hvac is the closest vocabulary term."
+  source: "https://www.escogroup.org/training/epa608.aspx"
+  last_verified: "2026-10-26"
+  hours:
+    timezone: "CT"
+    mon_fri: "8:00 AM - 5:00 PM"

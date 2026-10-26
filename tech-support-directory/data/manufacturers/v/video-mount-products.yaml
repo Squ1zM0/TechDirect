@@ -1,0 +1,13 @@
+id: video-mount-products
+name: "Video Mount Products"
+website: https://www.videomount.com
+categories: [electrical]
+aliases: ["VMP"]
+support:
+  - category: electrical
+    department: Customer Support
+    phone: "+18772812169"
+    country: US
+    notes: "Toll-free; local 410-643-6390 also published. AV mounts."
+    source: "https://www.videomount.com/pages.php?download_id=1171"
+    last_verified: "2026-10-26"

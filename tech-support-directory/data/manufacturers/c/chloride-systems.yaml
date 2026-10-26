@@ -1,0 +1,13 @@
+id: chloride-systems
+name: Chloride Systems
+website: https://manuals.plus/signify/chloride-led-exit-emergency-unit-manual
+categories: [electrical]
+aliases: ["Chloride Lighting"]
+support:
+  - category: electrical
+    department: Customer Support
+    phone: "+18005550050"
+    country: US
+    notes: "Chloride emergency/exit lighting, a Signify North America brand (chloride-lighting.com). Customer Care Call Center 800-555-0050 published in Signify Chloride installation guides; this is the same number staged on the existing TechDirect 'signify' file, but Chloride is a distinct manufacturer brand with its own published contact, so it keeps its own file. Distinct from Chloride UPS (Vertiv lineage), which has its own staged legacy file."
+    source: "https://manuals.plus/signify/chloride-led-exit-emergency-unit-manual"
+    last_verified: "2026-10-26"

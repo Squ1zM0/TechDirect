@@ -1,0 +1,13 @@
+id: flexa
+name: "FLEXA"
+categories:
+- electrical
+aliases: []
+support:
+- category: electrical
+  department: "Customer Support"
+  phone: "+4961816770"
+  country: DE
+  notes: "FLEXA GmbH & Co Produktion und Vertrieb KG, Darmstadter Strasse 184, 63456 Hanau, Germany. No published US support line was found, so the German HQ number is filed with country DE per program rules, never inventing a US line. Email info@flexa.de. Cable protection; electrical is the closest vocabulary term. NOT Flex-Cable Inc. (Howard City MI) and NOT Faber/FLEXA range hoods; those are different companies."
+  source: "https://www.flexa.de/dokumente/Produktflyer/FLEXA_Photovoltaik_0524_englisch.pdf"
+  last_verified: "2026-10-26"

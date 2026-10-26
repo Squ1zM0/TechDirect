@@ -1,0 +1,15 @@
+id: houston-wire-cable
+name: Houston Wire & Cable Company
+website: https://houwire.com/
+categories:
+- electrical
+aliases:
+- Houston Wire
+support:
+- category: electrical
+  department: Customer Support
+  phone: '+17136092100'
+  country: US
+  notes: 'Houston Wire and Cable Co., Houston, TX. Toll-free 1-800-HOUWIRE (800-468-9473). Scope note: Houston Wire and Cable is a wire and cable provider and distributor rather than a wire manufacturer; it publishes its own contact, so it is not parent-resolved.'
+  source: https://houwire.com/terms-and-conditions/
+  last_verified: '2026-10-26'

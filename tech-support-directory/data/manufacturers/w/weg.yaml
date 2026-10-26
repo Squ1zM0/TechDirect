@@ -1,0 +1,12 @@
+id: weg
+name: "WEG Electric"
+categories: [electrical]
+aliases: ["WEG"]
+support:
+  - category: electrical
+    department: Technical Support
+    phone: "+18002754934"
+    country: US
+    notes: "800-ASK-4WEG. Number attributed to supplier technical support in a distributor listing. No website verified; omitted. Motors, drives and automation."
+    source: "https://www.mrosupply.com/electric-motors/5902579_15018op3gfp444ts-w40_weg/"
+    last_verified: "2026-10-26"

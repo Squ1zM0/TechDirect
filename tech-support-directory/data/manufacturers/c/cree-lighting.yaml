@@ -1,0 +1,13 @@
+id: cree-lighting
+name: Cree Lighting
+website: https://www.creelighting.com
+categories: [electrical]
+aliases: []
+support:
+  - category: electrical
+    department: Customer Support
+    phone: "+18002366800"
+    country: US
+    notes: "Cree Lighting Commercial Support (USA) per creelighting.com; email info@creelighting.com. LED lighting fixtures for commercial, roadway and petroleum applications (Racine, WI). Distinct from the legacy Cree semiconductor business, now Wolfspeed; see the NEEDS-HUMAN note for the bare 'Cree' xref entry."
+    source: "https://www.creelighting.com/company/about/"
+    last_verified: "2026-10-26"

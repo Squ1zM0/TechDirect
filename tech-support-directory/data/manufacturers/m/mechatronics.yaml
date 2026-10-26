@@ -1,0 +1,14 @@
+id: mechatronics
+name: Mechatronics
+website: https://www.mechatronics.com
+categories:
+- airflow
+aliases: []
+support:
+- category: airflow
+  department: Customer Support
+  phone: "+18004534569"
+  country: US
+  notes: Mechatronics Fan Group, Preston, WA, since 1985. DC fans, blowers. Email contact@mechatronics.com; local 425-222-5155.
+  source: http://www.mechatronics.com/products/dc-fans/dc-environmental-fans/
+  last_verified: "2026-10-26"

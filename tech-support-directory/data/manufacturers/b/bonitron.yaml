@@ -1,0 +1,13 @@
+id: bonitron
+name: Bonitron
+website: https://www.bonitron.com
+categories: [electrical]
+aliases: ["Bonitron, Inc."]
+support:
+  - category: electrical
+    department: Technical Support
+    phone: "+16152442825"
+    country: US
+    notes: "Bonitron, Inc., Nashville, TN, maker of drive-system accessories (braking resistors, ride-thru, precharge and DC-bus products) for AC drives. Manuals label the contact 'TECHNICAL HELP'. Email info@bonitron.com. NOT Itron: the near-miss candidate Itron is a false friend; Bonitron is an independent drives company."
+    source: "https://bonitron.com/file-manager/manuals/M3452AR5.pdf"
+    last_verified: "2026-10-26"

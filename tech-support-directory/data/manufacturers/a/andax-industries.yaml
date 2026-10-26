@@ -1,0 +1,16 @@
+id: andax-industries
+name: Andax Industries
+categories: [hardware]
+aliases: ["Andax"]
+support:
+  - category: hardware
+    department: Customer Support
+    phone: "+18009991358"
+    country: US
+    notes: "Spill-control, secondary containment and emergency-preparedness products, Saint Marys KS. Toll-free line and email sales@andax.com published on andax.com. No safety category exists in the TechDirect vocabulary, so hardware is used as the closest term."
+    source: "https://Andax.com/"
+    last_verified: "2026-10-26"
+    hours:
+      timezone: "CT"
+      mon_thu: "8:00 AM - 5:00 PM"
+      fri: "8:00 AM - 4:00 PM"

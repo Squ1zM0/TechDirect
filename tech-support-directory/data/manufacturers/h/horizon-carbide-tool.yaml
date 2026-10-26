@@ -1,0 +1,14 @@
+id: horizon-carbide-tool
+name: Horizon Carbide Tool
+website: http://www.horizoncarbide.com/
+categories:
+- hardware
+aliases: []
+support:
+- category: hardware
+  department: Customer Support
+  phone: '+14809680957'
+  country: US
+  notes: 'Horizon Carbide Tool, Inc., Tempe, AZ. Toll-free 800-968-0957. Email info@horizoncarbide.com. Carbide inserts, cutting tools. Not the near-miss RBI file (RBI water heaters and boilers), which is a false friend.'
+  source: https://horizoncarbide.com/pdfs/Quick_Modifications.pdf
+  last_verified: '2026-10-26'

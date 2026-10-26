@@ -1,0 +1,12 @@
+id: tigo-energy
+name: "Tigo Energy"
+categories: [electrical]
+aliases: []
+support:
+  - category: electrical
+    department: Technical Support
+    phone: "+18886098446"
+    country: US
+    notes: "Tigo Energy solar MLPE and optimizers, Campbell CA. Manuals direct support inquiries to this number; email support@tigoenergy.com."
+    source: "http://www.soluxtec.lu/download/178/tigo-energy-module-maximizertm-mm-es-and-mm-2es-en.pdf"
+    last_verified: "2026-10-26"

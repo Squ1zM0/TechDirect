@@ -1,0 +1,13 @@
+id: wittenstein
+name: "WITTENSTEIN North America"
+website: https://www.wittenstein-us.com
+categories: [electrical]
+aliases: ["WITTENSTEIN"]
+support:
+  - category: electrical
+    department: Customer Support
+    phone: "+18885341222"
+    country: US
+    notes: "Bartlett IL, 1249 Humbracht Circle. Local 630-540-5300; email info@wittenstein-us.com. Servo gearboxes, servo motors, servo actuators, linear systems."
+    source: "https://WWW.WITTENSTEIN-US.COM/expertise/competencies/oil-gas-exploration/"
+    last_verified: "2026-10-26"

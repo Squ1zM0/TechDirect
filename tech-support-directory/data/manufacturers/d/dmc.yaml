@@ -1,0 +1,13 @@
+id: dmc
+name: DMC
+website: https://www.dmctools.com
+categories: [electrical]
+aliases: ["Daniels Manufacturing Corporation", "Daniels Manufacturing Corp."]
+support:
+  - category: electrical
+    department: Customer Support
+    phone: "+14078556161"
+    country: US
+    notes: "Daniels Manufacturing Corporation (DMC), Orlando, FL — connector tooling (crimp tools, tool kits, wire preparation) since 1949. HQ/customer contact number; email dmc@dmctools.com."
+    source: "https://www.crunchbase.com/organization/daniels-manufacturing-corporation"
+    last_verified: "2026-10-26"

@@ -1,0 +1,13 @@
+id: tivoli-lighting
+name: Tivoli Lighting
+categories:
+- electrical
+aliases: []
+support:
+- category: electrical
+  department: Customer Support
+  phone: '+17149576101'
+  country: US
+  notes: Tivoli, LLC, Irvine, CA, tivolilighting.com.
+  source: https://manuals.plus/tivoli/24v-litesphere-adapt-true-rgb-plus-w-lighting-manual
+  last_verified: '2026-10-26'

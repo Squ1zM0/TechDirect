@@ -1,0 +1,16 @@
+id: evluma
+name: "Evluma"
+categories:
+- electrical
+aliases: []
+support:
+- category: electrical
+  department: "Customer Support"
+  phone: "+14253365800"
+  country: US
+  notes: "Evluma, Renton WA, a division of Express Imaging Systems, LLC. Installation guide lists M-F 8am-4pm PST. Email customercare@evluma.com. LED roadway lighting."
+  source: "https://manuals.plus/evluma/roadmax-series-low-glare-led-roadway-luminaire-manual"
+  last_verified: "2026-10-26"
+  hours:
+    timezone: "PT"
+    mon_fri: "8:00 AM - 4:00 PM"

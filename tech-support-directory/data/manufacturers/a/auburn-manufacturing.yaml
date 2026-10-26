@@ -1,0 +1,12 @@
+id: auburn-manufacturing
+name: Auburn Manufacturing
+categories: [hardware]
+aliases: ["Auburn Manufacturing, Inc.", "AMI"]
+support:
+  - category: hardware
+    department: Customer Support
+    phone: "+18002646689"
+    country: US
+    notes: "High-temperature industrial textiles (welding protection, removable insulation jackets, gaskets), Mechanic Falls ME (founded 1979). Toll-free line published in Auburn's own catalog; email sales@auburnmfg.com; local line 207-345-8271 also published."
+    source: "https://auburnmfg.com/uploads/AMI-Selector-GuideJuly2024Web.pdf"
+    last_verified: "2026-10-26"

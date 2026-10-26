@@ -1,0 +1,15 @@
+id: havells
+name: Havells Lighting USA
+website: https://havellslighting.com/
+categories:
+- electrical
+aliases:
+- Havells
+support:
+- category: electrical
+  department: Customer Support
+  phone: '+18554283557'
+  country: US
+  notes: 'Havells Lighting USA, Anderson, SC. FAQ states support covers product selection, technical questions, installation guidance and project planning, but does not label a separate technical department, so the line is listed as Customer Support. Email salesusa@havells.com. Older numbers also seen and not used as primary: Havells USA 800-922-6693 and HVAC 844-986-1668.'
+  source: https://havellslighting.com/led-wholesaler/p8-smd-outdoor-led-display/
+  last_verified: '2026-10-26'

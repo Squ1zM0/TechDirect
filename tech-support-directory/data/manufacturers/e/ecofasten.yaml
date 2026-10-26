@@ -1,0 +1,13 @@
+id: ecofasten
+name: EcoFasten
+website: https://ecofastensolar.com
+categories: [electrical]
+aliases: ["EcoFasten Solar"]
+support:
+  - category: electrical
+    department: Customer Support
+    phone: "+18778593947"
+    country: US
+    notes: "EcoFasten Solar (Phoenix, AZ) rooftop solar mounting systems and attachments; part of the Enstall family (formerly Esdec Solar Group, with PanelClaw, IronRidge and Quick Mount). Toll-free line from the company's product documentation and trade press; 800-227-9523 also appears on official site pages; email info@ecofastensolar.com."
+    source: "https://ecofastensolar.com/about-ecofasten/history/"
+    last_verified: "2026-10-26"

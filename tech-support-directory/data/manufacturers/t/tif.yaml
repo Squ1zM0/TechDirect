@@ -1,0 +1,15 @@
+id: tif
+name: "TIF Instruments"
+categories: [hvac]
+aliases: ["TIF"]
+support:
+  - category: hvac
+    department: Customer Support
+    phone: "+18003275060"
+    country: US
+    notes: "TIF Instruments refrigerant leak detectors and test instruments. Number from the TIF RX-1A/XL-1A manual (USA toll-free line); no official TIF site page was verified."
+    source: "https://www.manualsdir.com/manuals/353745/tif-rx-1a-refrigerant-leak-detector-xl-1a-refrigerant-leak-detector.html?page=4"
+    last_verified: "2026-10-26"
+    hours:
+      timezone: "EST"
+      mon_fri: "8:00 AM - 5:00 PM"

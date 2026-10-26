@@ -1,0 +1,13 @@
+id: plasti-bond
+name: Plasti-Bond
+website: https://www.plastibond.com
+categories: [electrical]
+aliases: ["Plasti-Bond REDH2OT", "PlastiBond"]
+support:
+  - category: electrical
+    department: Customer Support
+    phone: "+19038435591"
+    country: US
+    notes: "Plasti-Bond, manufactured by Robroy Industries, Gilmer, TX (1100 US Highway 271 South). Number published in Plasti-Bond's own product catalog; CSR@Robroy.com also published. Not labelled technical support, so recorded as Customer Support. PVC-coated rigid metal conduit, fittings, and accessories (REDH2OT line) for corrosion protection; Robroy has made PVC-coated products since 1967."
+    source: "https://robroy.com/sites/default/files/2025-01/plasti-bond-catalog-pr_118.pdf"
+    last_verified: "2026-10-26"

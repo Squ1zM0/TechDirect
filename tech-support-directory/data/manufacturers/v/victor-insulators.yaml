@@ -1,0 +1,13 @@
+id: victor-insulators
+name: "Victor Insulators"
+website: https://www.victorinsulators.com/company-information/
+categories: [electrical]
+aliases: []
+support:
+  - category: electrical
+    department: Customer Support
+    phone: "+15859242127"
+    country: US
+    notes: "Contact the factory (585) 924-2127. Email sales@victorinsulators.com. Utility insulators (T&D)."
+    source: "https://www.victorinsulators.com/company-information/"
+    last_verified: "2026-10-26"

@@ -1,0 +1,16 @@
+id: airex-manufacturing
+name: Airex Manufacturing
+website: https://airexmfg.com
+categories: [hvac]
+aliases: ["Airex Manufacturing Inc."]
+support:
+  - category: hvac
+    department: Customer Support
+    phone: "+17603432277"
+    country: US
+    notes: "Airex Manufacturing Inc., 72170 Dunham Way, Suite D, Thousand Palms, CA 92276. HVACR insulation protection products (E-Flex Guard, Pro-System kits) for refrigerant and piping insulation. Email customerservice@airexmfg.com; fax (760) 343-5599 also published. NOT Airex AG (Swiss foam core material) and NOT Airex Corporation of Hudson, NH (filters)."
+    source: "https://airexmfg.com/prosystem/"
+    last_verified: "2026-10-26"
+    hours:
+      timezone: "PT"
+      mon_fri: "8:00 AM - 5:00 PM"

@@ -1,0 +1,13 @@
+id: m-w-electric
+name: M & W Electric
+website: "http://www.mwelectricmfg.com/"
+categories: [electrical]
+aliases: ["M & W Electric Manufacturing Co", "M and W Electric Manufacturing Co", "M&W Electric"]
+support:
+  - category: electrical
+    department: Customer Support
+    phone: "+18009269456"
+    country: US
+    notes: "M and W Electric Manufacturing Co. LLC, Salem, OH; quality electrical fittings manufacturer since 1933 (staples, straps, wire dispensers, cable supports). Toll-free number from M&W's own catalog; direct (330) 332-9553 also published for the Salem, OH plant."
+    source: "https://assets.gordonelectricsupply.com/datasheets/ts/M&WElectricMfgCo_00002_48_CAT.pdf"
+    last_verified: "2026-10-26"

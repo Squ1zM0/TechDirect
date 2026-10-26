@@ -1,0 +1,14 @@
+id: halco-lighting
+name: 'Halco Lighting Technologies'
+website: https://www.halcolighting.com/
+categories:
+- electrical
+aliases: []
+support:
+- category: electrical
+  department: 'Customer Support'
+  phone: '+18006773334'
+  country: US
+  notes: 'Email info@halcolighting.com. Covers batch spellings Halco and HALCO LIGHTING TECHNOLOGIES. Lamps and lighting.'
+  source: 'https://www.halcolighting.com/frequently-asked-questions'
+  last_verified: '2026-10-26'

@@ -1,0 +1,16 @@
+id: beacon
+name: Beacon
+website: https://www.currentlighting.com
+categories: [electrical]
+aliases: ["Beacon Products", "Beacon Products by Hubbell"]
+support:
+  - category: electrical
+    department: Technical Support
+    phone: "+18008888006"
+    country: US
+    notes: "Beacon is a Current Lighting brand: Hubbell's commercial/industrial lighting business (including Beacon) was acquired by GE Current on Feb 1, 2022 and now operates as Current. Support via Current Lighting technical services, option 1 Tech Support. Covers xref variants Beacon and BEACON PRODUCTS BY HUBBELL."
+    source: "https://www.currentlighting.com/controls/technical-services"
+    last_verified: "2026-10-26"
+    hours:
+      timezone: "ET"
+      mon_fri: "7:00 AM - 7:00 PM"

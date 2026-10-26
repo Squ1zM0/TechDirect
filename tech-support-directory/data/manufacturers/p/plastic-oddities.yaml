@@ -1,0 +1,13 @@
+id: plastic-oddities
+name: Plastic Oddities
+website: https://plasticoddities.com
+categories: [plumbing, drainage]
+aliases: ["Plastic Oddities, Inc."]
+support:
+  - category: plumbing
+    department: Customer Support
+    phone: "+18004385327"
+    country: US
+    notes: "Plastic Oddities, Inc., Forest City, NC (291 Shiloh Rd, Forest City, NC 28043; PO Box 1528, Rutherfordton, NC 28139). Manufacturer of plumbing parts since 1975, founded by Lewis Izzi, Sr. on the offset closet flange; product line includes floor sinks, shower drains, cleanouts, roof drains, closet/urinal flanges, couplings and test caps in PVC and ABS. Order-by-phone number printed in the company's own catalogs; fax 828-247-6609 also published."
+    source: "https://pimmedia.winsupplyinc.com/pim/CUT/112017/PLASTIC-ODDITIES-INC_PFS300F_0658PFS300F_CUT.pdf"
+    last_verified: "2026-10-26"

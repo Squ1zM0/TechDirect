@@ -1,0 +1,16 @@
+id: cornell-dubilier
+name: Cornell Dubilier
+website: https://www.cde.com
+categories:
+  - electrical
+aliases:
+  - CDE
+  - Cornell Dubilier Electronics
+support:
+  - category: Technical Support
+    department: Technical Support
+    phone: "+15089968564"
+    country: US
+    notes: "Power-electronics capacitor manufacturer (aluminum electrolytic, film, mica). Engineering support line per trade press; main line 508-996-8561 also published. Liberty, SC / New Bedford, MA."
+    source: "https://www.edn.com/cornell-dubilier-extends-high-current-power-film-capacitor-series-with-higher-voltage-capacitance-ratings-for-inverter-applications/"
+    last_verified: "2026-10-26"

@@ -1,0 +1,14 @@
+id: mueller-electric
+name: Mueller Electric Company
+website: https://www.muellerelectric.com
+categories:
+- electrical
+aliases: []
+support:
+- category: electrical
+  department: Customer Support
+  phone: "+18009552629"
+  country: US
+  notes: Akron, OH, founded 1908, inventor of the alligator clip. Test clips, test leads, connectors. Local 330-780-2525; email Orders@MuellerElectric.com. NOT Mueller Co. waterworks (mueller-co) and NOT Mueller Industries (mueller-industries); different companies, distinct files.
+  source: https://www.thomasnet.com/company/mueller-electric-usa-31965/profile
+  last_verified: "2026-10-26"

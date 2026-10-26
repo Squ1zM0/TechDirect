@@ -1,0 +1,16 @@
+id: sistemalux
+name: Sistemalux
+website: https://www.sistemalux.com
+categories: [electrical]
+aliases: []
+support:
+  - category: electrical
+    department: Customer Support
+    phone: "+15145231339"
+    country: CA
+    notes: "Sistemalux, Montreal, QC, Canada (architectural lighting, in the North American market since 1984); email newinfo@sistemalux.com; hours Mon-Fri 8:30 AM-5:00 PM. Xref spelling 'Sistemlux' appears to be a misspelling of Sistemalux; no company named Sistemlux was found. No verified US support line found, so no US line is published."
+    source: "https://www.sistemalux.com/wall-recessed-ext/"
+    last_verified: "2026-10-26"
+    hours:
+      timezone: "ET"
+      mon_fri: "8:30 AM - 5:00 PM"

@@ -1,0 +1,12 @@
+id: lapp-insulators
+name: LAPP Insulators
+categories: [electrical]
+aliases: ["Lapp Insulators"]
+support:
+  - category: electrical
+    department: Customer Support
+    phone: "+15857686221"
+    country: US
+    notes: "LAPP Insulators Company LLC, Le Roy, NY; high-voltage ceramic and composite insulators for the electric utility industry. Distinct from LAPP North America (cable company, existing lapp file); not a variant of it."
+    source: "https://www.lappinsulators.com/us/lapp-insulators-to-highlight-u-s-manufacturing-long-rod-innovation-and-rg-glaze-technology-at-ieee-pes-td-2026/"
+    last_verified: "2026-10-26"

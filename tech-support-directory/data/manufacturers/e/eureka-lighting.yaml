@@ -1,0 +1,14 @@
+id: eureka-lighting
+name: "Eureka Lighting"
+website: "http://www.eurekalighting.com/"
+categories:
+- electrical
+aliases: []
+support:
+- category: electrical
+  department: "Customer Support"
+  phone: "+15143853515"
+  country: CA
+  notes: "Eureka Lighting, Montreal QC, since 1987; a brand within the Acuity Brands Lighting portfolio. No separate US support line was found, so the Montreal HQ number is filed with country CA per program rules, never inventing a US line. Decorative and specification-grade luminaires sold throughout North America. Distinct from Eureka vacuums."
+  source: "http://www.eurekalighting.com/"
+  last_verified: "2026-10-26"

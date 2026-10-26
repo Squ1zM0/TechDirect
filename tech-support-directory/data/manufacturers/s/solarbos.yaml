@@ -1,0 +1,12 @@
+id: solarbos
+name: SolarBOS
+categories: [electrical]
+aliases: []
+support:
+  - category: electrical
+    department: Customer Support
+    phone: "+19254567744"
+    country: US
+    notes: "SolarBOS, Inc., Livermore, CA (PV combiner boxes, arc-fault detection/interruption combiner solutions). Number from the company's ThomasNet profile; no current official homepage URL was verified in text-fetchable sources, so website is omitted."
+    source: "https://www.thomasnet.com/company/solarbos-inc-30552276/profile"
+    last_verified: "2026-10-26"

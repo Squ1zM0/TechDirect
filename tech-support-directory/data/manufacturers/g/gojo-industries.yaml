@@ -1,0 +1,13 @@
+id: gojo-industries
+name: 'GOJO Industries'
+categories:
+- commercial-fixtures
+aliases: []
+support:
+- category: commercial-fixtures
+  department: 'Customer Support'
+  phone: '+18003219647'
+  country: US
+  notes: 'Also published: 330-255-6000. Hand-care and dispenser products, so commercial-fixtures is the closest vocabulary term. Source is the Consumer Product Information Database (CPID) record; a clean gojo.com contact page URL was not returned by search, and the CPID URL is reproduced verbatim as returned.'
+  source: 'https://www.whatsinproducts.com/types/type_detail/1/18800/standard/p class="p1">GoJo Lemon Pumice Hand Cleaner, Professional Use-02/18/2015/p>/07-005-091'
+  last_verified: '2026-10-26'

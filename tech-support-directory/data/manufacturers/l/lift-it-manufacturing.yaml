@@ -1,0 +1,13 @@
+id: lift-it-manufacturing
+name: Lift-It Manufacturing
+website: "http://www.lift-it.com/"
+categories: [hardware]
+aliases: ["Lift-It", "Lift-It Manufacturing Company, Inc."]
+support:
+  - category: hardware
+    department: Customer Support
+    phone: "+19094692251"
+    country: US
+    notes: "Lift-It Manufacturing Company, Inc., Pomona, CA; lifting slings (web, round, chain, wire rope) and rigging hardware, made in the USA. Number published on Lift-It’s own product pages (sales team line). Category hardware per the milwaukee-tool.yaml precedent (no tools category exists in the vocabulary)."
+    source: "https://www.lift-it.com/rigging-card"
+    last_verified: "2026-10-26"

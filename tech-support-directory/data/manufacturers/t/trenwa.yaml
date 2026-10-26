@@ -1,0 +1,16 @@
+id: trenwa
+name: Trenwa
+website: https://www.trenwa.com/
+categories:
+- electrical
+aliases: []
+support:
+- category: electrical
+  department: Customer Support
+  phone: '+18597810831'
+  country: US
+  notes: Trenwa, Inc., 1419 Alexandria Pike, Fort Thomas, KY 41075; info@trenwa.com. Manufacturer of precast
+    concrete trench systems for electrical control/power cables, mechanical piping, and fiber optics;
+    founded 1962.
+  source: https://news.thomasnet.com/companystory/united-wire-and-cable-inc-and-trenwa-inc-announce-partnership-to-supply-maxiamp-underground-cable-bus-systems-to-customers-across-the-us-and-canada-40032926
+  last_verified: '2026-10-26'

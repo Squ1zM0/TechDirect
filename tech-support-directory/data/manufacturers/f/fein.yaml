@@ -1,0 +1,17 @@
+id: fein
+name: "FEIN Power Tools"
+website: "https://fein.com/en_us/"
+categories:
+- hardware
+aliases: []
+support:
+- category: hardware
+  department: "Customer Support"
+  phone: "+18004419878"
+  country: US
+  notes: "FEIN Power Tools, Inc., Pittsburgh PA. Toll-free line from the official homepage footer; email info@feinus.com. Repair office Davenport IA 877-385-6428 noted as alternate. Hours Mon-Fri 9AM-5PM EST per FEIN manuals. German parent C. & E. Fein GmbH. Power tools; hardware is the closest vocabulary term."
+  source: "https://fein.com/en_us/"
+  last_verified: "2026-10-26"
+  hours:
+    timezone: "ET"
+    mon_fri: "9:00 AM - 5:00 PM"

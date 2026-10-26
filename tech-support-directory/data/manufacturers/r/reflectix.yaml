@@ -1,0 +1,16 @@
+id: reflectix
+name: Reflectix
+website: https://www.reflectixinc.com/
+categories: [hvac]
+aliases: ["Reflectix, Inc"]
+support:
+  - category: hvac
+    department: Customer Support
+    phone: "+18008793645"
+    country: US
+    notes: "Reflectix, Inc., #1 School Street, Markleville, IN 46056. Reflective insulation / radiant barrier; mapped to hvac. Office number also published."
+    source: "https://www.reflectixinc.com/wp-content/uploads/F8-–-Retail-Product-Guide-Rev-0219.pdf"
+    last_verified: "2026-10-26"
+    hours:
+      timezone: "ET"
+      mon_fri: "8:00 AM - 4:30 PM"

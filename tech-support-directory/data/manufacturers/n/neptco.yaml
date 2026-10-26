@@ -1,0 +1,13 @@
+id: neptco
+name: NEPTCO
+website: https://chasecorp.com/customer-service
+categories: [electrical]
+aliases: []
+support:
+  - category: electrical
+    department: Customer Support
+    phone: "+18287285951"
+    country: US
+    notes: "NEPTCO (Chase Corporation), Lenoir NC (2012 Hickory Boulevard); Chase customer service 781-332-0707 also published."
+    source: "https://chasecorp.com/customer-service"
+    last_verified: "2026-10-26"

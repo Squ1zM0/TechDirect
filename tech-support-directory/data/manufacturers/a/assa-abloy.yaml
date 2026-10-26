@@ -1,0 +1,12 @@
+id: assa-abloy
+name: ASSA ABLOY
+categories: [hardware]
+aliases: ["ASSA ABLOY Door Security Solutions"]
+support:
+  - category: hardware
+    department: Customer Support
+    phone: "+18003773948"
+    country: US
+    notes: "Global access-solutions group; US Door Security Solutions brands include Sargent, Corbin Russwin, Medeco, ASSA ABLOY Accentra, Adams Rite, HES, McKinney, Norton, Rixson, Pemko, Rockwood and Securitron. Support line published as 1-800-DSS-EZ4U on ASSA ABLOY USA technical-support documents."
+    source: "https://content.assaabloyusa.com/doc/AADSS1087104&.pdf"
+    last_verified: "2026-10-26"

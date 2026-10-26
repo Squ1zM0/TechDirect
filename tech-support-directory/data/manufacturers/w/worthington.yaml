@@ -1,0 +1,13 @@
+id: worthington
+name: "Worthington"
+website: https://www.worthingtonenterprises.com
+categories: [hvac]
+aliases: ["Worthington Enterprises", "Worthington Industries"]
+support:
+  - category: hvac
+    department: Customer Support
+    phone: "+18669282657"
+    country: US
+    notes: "Worthington Enterprises (formerly Worthington Industries); Columbus OH, 200 Old Wilson Bridge Road. Email cylinders@worthingtonindustries.com. Cylinder-division toll-free; a thomasnet general number is secondary. HVAC cylinders/tanks."
+    source: "https://buildingproducts.worthingtonenterprises.com/docs/default-source/default-document-library/worthington_refrigerant_refillable.pdf"
+    last_verified: "2026-10-26"

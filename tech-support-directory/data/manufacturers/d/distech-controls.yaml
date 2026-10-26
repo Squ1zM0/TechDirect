@@ -1,0 +1,13 @@
+id: distech-controls
+name: Distech Controls
+categories: [hvac-controls]
+website: https://www.distech-controls.com
+aliases: []
+support:
+  - category: hvac-controls
+    department: Customer Support
+    phone: "+18004040043"
+    country: US
+    notes: "Distech Controls (Acuity Brands) building automation / HVAC controls. Phone published in Distech Controls' terms and conditions of sale (Brossard, QC HQ); North American toll-free general line. European technical support is +33 (0)4 78 45 65 55, not recorded here."
+    source: "https://distechcontrols-cm-stage.acuitybrands.com/-/media/abl/acuitybrands/files/support/customer-support/terms-and-conditions/distech-controls-terms-and-conditions-of-sale.pdf"
+    last_verified: "2026-10-26"

@@ -1,0 +1,14 @@
+id: kurtzon-lighting
+name: Kurtzon Lighting
+website: https://www.kurtzon.com/
+categories:
+- electrical
+aliases: []
+support:
+- category: electrical
+  department: Customer Support
+  phone: '+17732772121'
+  country: US
+  notes: "Specification-grade lighting for healthcare, food processing, cleanroom, biosafety, cold storage, hazardous location, and wet location applications; since 1898, Morris Kurtzon, Inc., 1420 South Talman Avenue, Chicago, IL 60608. Fax 773-277-9164. Number from the 2008 manufacturer Haz-Lock catalog, corroborated by a LeadIQ partial-number listing."
+  source: https://www.scribd.com/document/129827133/100810040829
+  last_verified: '2026-10-26'

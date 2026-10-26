@@ -1,0 +1,12 @@
+id: nelson-firestop
+name: Nelson Firestop
+categories: [electrical]
+aliases: []
+support:
+  - category: electrical
+    department: Customer Support
+    phone: "+18003317325"
+    country: US
+    notes: "Nelson Firestop, Tulsa OK; toll-free on manufacturer documents; direct 918-627-5530 also published. EGS Electrical Group / Emerson lineage. Distinct from Nelson Heat Trace (Emerson Appleton) - do not merge."
+    source: "https://assets.unilogcorp.com/267/ITEM/DOC/Nelson_AB0315X01_Specification_Sheet.pdf"
+    last_verified: "2026-10-26"

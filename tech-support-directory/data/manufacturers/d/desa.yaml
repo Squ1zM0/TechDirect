@@ -1,0 +1,13 @@
+id: desa
+name: DESA
+website: https://www.desatech.com
+categories:
+  - hvac
+support:
+  - category: Technical Support
+    department: Technical Support
+    phone: "+18666726040"
+    country: US
+    notes: "Legacy brand: DESA International / DESA Heating Products (vent-free gas heaters, fireplaces, gas logs, portable forced-air heaters) ceased manufacturing operations prior to 2009; parts and manuals remain available through the legacy support network at desatech.com. The number shown is DESA Heating Products' published Technical Service Department line from its own manuals; current operability of this legacy line is not independently confirmed. Kept as its own legacy file per the legacy rule; no successor company was identified to attach instead."
+    source: "https://manualmachine.com/desa/unventedgaslogheater/1302544-user-manual/"
+    last_verified: "2026-10-26"

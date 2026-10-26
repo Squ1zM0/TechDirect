@@ -1,0 +1,16 @@
+id: bruck-lighting
+name: Bruck Lighting
+website: https://www.brucklighting.com/
+categories: [electrical]
+aliases: ["BRUCK LIGHTING SYSTEMS", "Bruck Lighting Systems, Inc.", "Bruck Lighting Systems Inc."]
+support:
+  - category: electrical
+    department: Technical Support
+    phone: "+17142599959"
+    country: US
+    notes: "Bruck Lighting (formerly Bruck Lighting Systems Inc., 15774 Gateway Circle, Tustin, CA; now 88 Maxwell, Irvine, CA 92618), American manufacturer of spec-grade 'techorative' fixtures and track systems, a Ledra Brands company with Alphabet Lighting and Molto Luce. Install documents direct technical questions to this number as the technical support staff line; email info@brucklightingsystems.com; fax 714-259-9969. Lighting maps to electrical (no lighting category exists)."
+    source: "https://s1.img-b.com/build.com/mediabase/specifications/bruck_lighting/77565/140205_installsheet.pdf"
+    last_verified: "2026-10-26"
+    hours:
+      timezone: "PT"
+      mon_fri: "7:00 AM - 4:30 PM"

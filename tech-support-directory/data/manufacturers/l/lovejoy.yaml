@@ -1,0 +1,12 @@
+id: lovejoy
+name: Lovejoy
+website: "https://www.lovejoy-inc.com"
+categories: [hardware]
+support:
+  - category: hardware
+    department: Customer Support
+    phone: "+16308520500"
+    country: US
+    notes: "Lovejoy, Inc., Downers Grove, IL (2655 Wisconsin Avenue); a Timken company; couplings and power transmission components (jaw, disc, torsional, S-Flex couplings). Number from Lovejoy's own site pages (info@lovejoy-inc.com also published). Hardware is the closest category-vocabulary term for mechanical couplings/power transmission."
+    source: "https://www.lovejoy-inc.com/products/s-flex-couplings/"
+    last_verified: "2026-10-26"

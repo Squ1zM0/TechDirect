@@ -1,0 +1,15 @@
+id: mcgill-airflow
+name: McGill AirFlow
+website: https://mcgillairflow.com
+categories:
+- airflow
+aliases:
+- McGill
+support:
+- category: airflow
+  department: Customer Support
+  phone: "+16148291200"
+  country: US
+  notes: Enterprise of United McGill Corporation, founded 1951, Groveport, OH. Air distribution (grilles, registers, diffusers). Other McGill catalogs also list 614-836-9981. NOT MCGILL ELECTRICAL BY EMERSON (Emerson switch brand, resolved to emerson); different company.
+  source: https://mcgillairflow.com/pdf/productlit/ddfProductGuide.pdf
+  last_verified: "2026-10-26"

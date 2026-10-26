@@ -1,0 +1,16 @@
+id: sharp-nec-display
+name: Sharp NEC Display
+website: https://www.sharpnecdisplays.us
+categories: [electrical]
+aliases: []
+support:
+  - category: electrical
+    department: Customer Support
+    phone: "+18006324662"
+    country: US
+    notes: "Sharp NEC Display Solutions (NEC Display Customer Service for desktop and large-screen LCD/plasma displays). Projector support is published separately as 800-836-0655. Service+ support hours Mon-Fri 7 AM to 6 PM CST per the Service+ terms."
+    source: "https://assets.sharpnecdisplays.us/documents/miscellaneous/serviceplustcs.pdf"
+    last_verified: "2026-10-26"
+    hours:
+      timezone: "CT"
+      mon_fri: "7:00 AM - 6:00 PM"

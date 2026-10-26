@@ -1,0 +1,16 @@
+id: npc-sealants
+name: NPC Sealants
+website: http://www.npcsealants.com/orderinfo.html
+categories: [hardware]
+aliases: []
+support:
+  - category: hardware
+    department: Customer Support
+    phone: "+18006541042"
+    country: US
+    notes: "NPC Sealants; official order page: '800-654-1042 7:30-4:00 CST'; also 708-681-1040; email customerservice@npcsealants.com. Vocabulary note: no sealants term; hardware is closest."
+    source: "http://www.npcsealants.com/orderinfo.html"
+    last_verified: "2026-10-26"
+    hours:
+      timezone: "CT"
+      mon_fri: "7:30 AM - 4:00 PM"

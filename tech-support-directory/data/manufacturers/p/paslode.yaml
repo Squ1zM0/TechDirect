@@ -1,0 +1,13 @@
+id: paslode
+name: Paslode
+website: https://www.paslode.com
+categories: [hardware]
+aliases: []
+support:
+  - category: hardware
+    department: Technical Support
+    phone: "+18002226990"
+    country: US
+    notes: "Paslode, an Illinois Tool Works (ITW) company, Glenview/Vernon Hills, IL. Number explicitly labelled 'For technical support call' in Paslode tool manuals. Nearest-representative line 1-800-682-3428 and factory-direct service 1-800-447-3830 also published in manuals. Cordless and pneumatic nailers, staplers, fasteners."
+    source: "https://manualmachine.com/paslode/imct/1627357-user-manual/"
+    last_verified: "2026-10-26"

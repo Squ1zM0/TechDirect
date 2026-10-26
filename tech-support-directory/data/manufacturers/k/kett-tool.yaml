@@ -1,0 +1,14 @@
+id: kett-tool
+name: Kett Tool Company
+website: https://kett-tool.com/
+categories:
+- hardware
+aliases: []
+support:
+- category: hardware
+  department: Customer Support
+  phone: '+18002153210'
+  country: US
+  notes: "Electric and pneumatic shears; Cincinnati, OH. Direct 513-271-0333 also published."
+  source: https://kett-tool.com/cdn/shop/files/P-595_Manual.pdf
+  last_verified: '2026-10-26'

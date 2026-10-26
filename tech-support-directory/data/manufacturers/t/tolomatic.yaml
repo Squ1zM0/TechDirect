@@ -1,0 +1,14 @@
+id: tolomatic
+name: Tolomatic
+website: https://www.tolomatic.com/
+categories:
+- electrical
+aliases: []
+support:
+- category: electrical
+  department: Customer Support
+  phone: '+18003282174'
+  country: US
+  notes: Toll-free line; main line (763) 478-8000; help@tolomatic.com. Motion and actuator products.
+  source: https://www.tolomatic.com/products/power-transmission/?_series_facets=mechanical
+  last_verified: '2026-10-26'

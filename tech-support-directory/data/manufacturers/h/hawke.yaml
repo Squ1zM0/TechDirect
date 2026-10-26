@@ -1,0 +1,13 @@
+id: hawke
+name: Hawke International
+categories:
+- electrical
+aliases: []
+support:
+- category: electrical
+  department: Customer Support
+  phone: '+441224894212'
+  country: GB
+  notes: 'Hawke International, Hubbell group, Aberdeen, UK (Peterseat Park). No US support line was found, so the published UK line is listed with country GB; no US line has been invented. An older UK number 0161-830-6698 was also seen.'
+  source: https://www.dnow.com/maclean/electrical/mfg/hawke-international-products
+  last_verified: '2026-10-26'

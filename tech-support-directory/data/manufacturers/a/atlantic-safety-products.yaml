@@ -1,0 +1,12 @@
+id: atlantic-safety-products
+name: Atlantic Safety Products
+categories: [hardware]
+aliases: ["Atlantic Safety"]
+support:
+  - category: hardware
+    department: Customer Support
+    phone: "+16034350003"
+    country: US
+    notes: "Safety gloves and PPE, Pittsfield NH (55 Barnstead Rd). Line published in business listings. No safety/PPE category exists in the TechDirect vocabulary, so hardware is used as the closest term."
+    source: "https://www.atlanticsafetyproducts.com/"
+    last_verified: "2026-10-26"

@@ -1,0 +1,13 @@
+id: falcon-stainless
+name: "Falcon Stainless"
+categories:
+- plumbing
+aliases: []
+support:
+- category: plumbing
+  department: "Customer Support"
+  phone: "+18008148444"
+  country: US
+  notes: "Falcon Stainless, Temecula CA, since 1981. Toll-free line from the company spec sheet; alternate (818) 767-3569. Email info@falconstainless.com. Corrugated stainless flexible connectors. A 2024 RectorSeal datasheet listing RectorSeal as manufacturer of FALCON WATER CONNECTIONS is a product-line note, not a reason to merge Falcon Stainless away; it keeps its own file."
+  source: "https://assets.unilogcorp.com/267/ITEM/DOC/Falcon_Stainless_SWC11218_Specification_Sheet.pdf"
+  last_verified: "2026-10-26"

@@ -1,0 +1,13 @@
+id: terralux
+name: "TerraLUX"
+website: "https://www.terralux.com"
+categories: [electrical]
+aliases: []
+support:
+  - category: electrical
+    department: Customer Support
+    phone: "+18664981564"
+    country: US
+    notes: "TerraLUX Inc LED retrofit and light engines, Boulder CO, founded 2003. Number as published in TerraLUX install documents; no current terralux.com contact page was verified. The batch parent field claims Ideal Industries ownership; that claim was not verified in this pass and is not asserted here."
+    source: "https://manualmachine.com/terralux/dlsq8/1732936-install/"
+    last_verified: "2026-10-26"

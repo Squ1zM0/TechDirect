@@ -1,0 +1,14 @@
+id: reliaguard
+name: Reliaguard
+website: https://reliaguard.com/
+categories:
+- electrical
+aliases: []
+support:
+- category: electrical
+  department: Customer Support
+  phone: '+19493053311'
+  country: US
+  notes: Reliaguard, a Hubbell Power Systems brand. 27151 Burbank Street, Foothill Ranch, CA 92610; reliaguardsales@hubbell.com. Wildlife mitigation guards and GreyEEL conductor cover, rated to 38kV.
+  source: Hubbell Reliaguard literature (hubbellcdn.com) and reliaguard.com
+  last_verified: '2026-10-26'

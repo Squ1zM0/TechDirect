@@ -1,0 +1,13 @@
+id: elco-lighting
+name: Elco Lighting
+website: https://www.elcolighting.com
+categories: [electrical]
+aliases: ["ELCO Lighting"]
+support:
+  - category: electrical
+    department: Customer Support
+    phone: "+13232312600"
+    country: US
+    notes: "Elco Lighting (Vernon, CA) recessed and architectural lighting. Distinct from the existing TechDirect 'elco' file, which is ELCO Heating Solutions, a different company."
+    source: "https://elcolighting.com/sites/default/files/dl-resource/files/ELCO_ElecNewsAd_03_20.pdf"
+    last_verified: "2026-10-26"

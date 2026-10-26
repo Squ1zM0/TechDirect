@@ -1,0 +1,13 @@
+id: bestorq
+name: Bestorq
+website: https://www.bestorq.com
+categories: [hardware]
+aliases: []
+support:
+  - category: hardware
+    department: Customer Support
+    phone: "+18777739966"
+    country: US
+    notes: "Bestorq power transmission belts (V-belts and timing belts); email orders@bestorq.com. Category mapping: belts/pulleys have no dedicated vocabulary term; hardware is the closest."
+    source: "https://www.bestorq.com/wp-content/uploads/BTQpoultry-belts.pdf"
+    last_verified: "2026-10-26"

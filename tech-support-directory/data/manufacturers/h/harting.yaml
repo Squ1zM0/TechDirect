@@ -1,0 +1,14 @@
+id: harting
+name: HARTING
+website: https://www.harting.com/en-US/customer-service
+categories:
+- electrical
+aliases: []
+support:
+- category: electrical
+  department: Technical Support
+  phone: '+18662780306'
+  country: US
+  notes: 'Technical Support USA; email TechSupportUS@HARTING.com. HARTING Technology Group, USA.'
+  source: https://www.harting.com/en-US/customer-service
+  last_verified: '2026-10-26'

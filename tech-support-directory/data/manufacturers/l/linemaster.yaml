@@ -1,0 +1,13 @@
+id: linemaster
+name: Linemaster
+website: "https://www.linemaster.com/"
+categories: [electrical]
+aliases: ["Linemaster Switch Corporation"]
+support:
+  - category: electrical
+    department: Customer Support
+    phone: "+18609741000"
+    country: US
+    notes: "Linemaster Switch Corporation, Woodstock, CT; medical and industrial footswitches since 1937 (ISO 13485). Number published on Linemaster's own site footer and product literature."
+    source: "https://www.linemaster.com/DefaultMedical.aspx"
+    last_verified: "2026-10-26"

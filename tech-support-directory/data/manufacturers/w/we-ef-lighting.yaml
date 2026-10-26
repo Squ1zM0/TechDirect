@@ -1,0 +1,13 @@
+id: we-ef-lighting
+name: "WE-EF Lighting USA LLC"
+website: https://weef.com/us
+categories: [electrical]
+aliases: []
+support:
+  - category: electrical
+    department: Customer Support
+    phone: "+17247420030"
+    country: US
+    notes: "Warrendale PA. Email customersupport.usa@weef.com."
+    source: "https://api.we-ef.com/v3/public/luminaires/flc321-led-t2/items/145-7333/pdf/145-7333.pdf?locale=en-US"
+    last_verified: "2026-10-26"

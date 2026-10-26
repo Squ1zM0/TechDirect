@@ -1,0 +1,16 @@
+id: iota-engineering
+name: IOTA Engineering
+website: https://www.iotaengineering.com/
+categories:
+- electrical
+aliases:
+- IOTA
+- IOTA ENGINEERING CO
+support:
+- category: electrical
+  department: Technical Support
+  phone: '+18008664682'
+  country: US
+  notes: "Emergency lighting drivers and ballasts; an Acuity Brands company, filed under its own distinct support contact rather than the existing Acuity file. Number from Acuity-hosted IOTA specification sheets. Email techsupport@iotaengineering.com."
+  source: https://iotaengineering.com/
+  last_verified: '2026-10-26'

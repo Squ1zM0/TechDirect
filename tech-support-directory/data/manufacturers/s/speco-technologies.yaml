@@ -1,0 +1,18 @@
+id: speco-technologies
+name: Speco Technologies
+website: https://specotech.com
+categories: [electrical]
+aliases: []
+support:
+  - category: electrical
+    department: Technical Support
+    phone: "+18006455516"
+    country: US
+    notes: "Speco Technologies, Amityville, NY (video surveillance, access control and commercial audio; founded 1960). Technical support email techsupport@specotech.com; main phone 631-957-8700 also published."
+    source: "https://specotech.com/"
+    last_verified: "2026-10-26"
+hours:
+  timezone: America/New_York
+  days: [Mon, Tue, Wed, Thu, Fri]
+  open: "08:30"
+  close: "19:00"

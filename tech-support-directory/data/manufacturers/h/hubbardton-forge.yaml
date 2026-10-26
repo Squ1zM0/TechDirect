@@ -1,0 +1,14 @@
+id: hubbardton-forge
+name: Hubbardton Forge
+website: https://www.hubbardtonforge.com/
+categories:
+- electrical
+aliases: []
+support:
+- category: electrical
+  department: Warranty Support
+  phone: '+18024683090'
+  country: US
+  notes: 'Hubbardton Forge, Vermont. Warranty service via authorized dealer, or Hubbardton Forge directly (source wording). Lighting fixtures.'
+  source: https://www.manualshelf.com/manual/hubbardton-forge-lighting/842024-07/lifetime-limited-warranty-english.html
+  last_verified: '2026-10-26'

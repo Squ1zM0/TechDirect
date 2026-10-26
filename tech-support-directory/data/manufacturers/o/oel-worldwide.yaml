@@ -1,0 +1,13 @@
+id: oel-worldwide
+name: OEL Worldwide
+website: https://www.oelsales.com/
+categories: [hardware]
+aliases: ["OEL WORLDWIDE INDUSTRIES"]
+support:
+  - category: hardware
+    department: Customer Support
+    phone: "+18008182244"
+    country: US
+    notes: "OEL Worldwide Industries, Palmer Lake CO (701 County Line Rd); arc-flash PPE, insulated tools, rubber gloves; founded 1996. NOT Oelo (permanent lighting, Fort Collins) - different company. Vocabulary note: no safety/PPE term; hardware is closest."
+    source: "https://www.oelsales.com/"
+    last_verified: "2026-10-26"

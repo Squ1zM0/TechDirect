@@ -1,0 +1,14 @@
+id: endot-industries
+name: "Endot Industries"
+categories:
+- plumbing
+- piping-systems
+aliases: []
+support:
+- category: plumbing
+  department: "Customer Support"
+  phone: "+18004436368"
+  country: US
+  notes: "Endot Industries Inc., Rockaway NJ. Toll-free line also printed with HQ line 973-625-8500 in the same Endot-authored documents. Email info@endot.com. EndoPure and PEX pipe systems."
+  source: "https://fr.heatline.com/wp-content/uploads/2019/07/EndoPure-PE4710.pdf"
+  last_verified: "2026-10-26"

@@ -1,0 +1,16 @@
+id: u-s-plastic-corp
+name: U.S. Plastic Corp.
+website: https://www.usplastic.com/
+categories:
+- plumbing
+aliases:
+- U.S. Plastic
+support:
+- category: plumbing
+  department: Customer Support
+  phone: '+18008094217'
+  country: US
+  notes: '''Questions? Call'' line on usplastic.com product pages. Quotes department 1-800-335-6809, quotes@usplastic.com.
+    Tanks, containers and plumbing products.'
+  source: https://WWW.USPLASTIC.COM/catalog/item.aspx?itemid=145774
+  last_verified: '2026-10-26'

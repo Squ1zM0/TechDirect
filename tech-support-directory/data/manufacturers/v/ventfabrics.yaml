@@ -1,0 +1,16 @@
+id: ventfabrics
+name: Ventfabrics
+website: https://ventfabrics.com/
+categories:
+- hvac
+aliases: []
+support:
+- category: hvac
+  department: Customer Support
+  phone: '+18006211207'
+  country: US
+  notes: Ventfabrics, Inc., 5520 N. Lynch Avenue, Chicago, IL 60630; local (773) 775-4477; sales@ventfabrics.com.
+    HVAC fabrics and accessories since the 1950s (Ventglas, Ventsil, VENTLOK); sells directly to the end
+    user.
+  source: https://ventfabrics.com/product/12-inch-ventglas/
+  last_verified: '2026-10-26'

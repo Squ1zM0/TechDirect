@@ -1,0 +1,12 @@
+id: powerware
+name: Powerware
+categories: [electrical]
+aliases: ["Powerware - Eaton"]
+support:
+  - category: electrical
+    department: Technical Support
+    phone: "+18773862273"
+    country: US
+    notes: "Legacy UPS brand acquired by Eaton; own file per the legacy rule, not merged into the Eaton file. No distinct current Powerware contact exists, so support routes via Eaton Technical Support."
+    source: "https://www.eaton.com/us/en-us/support/contact-us.html"
+    last_verified: "2026-10-26"

@@ -1,0 +1,13 @@
+id: snap-on
+name: Snap-on
+website: https://www.snapon.com
+categories: [hardware]
+aliases: []
+support:
+  - category: hardware
+    department: Technical Support
+    phone: "+18004247226"
+    country: US
+    notes: "Snap-on Incorporated (professional hand tools, power tools, diagnostics, tool storage), Kenosha, WI. Number is Snap-on Diagnostics Technical Support, San Jose, CA, per the January 2026 Snap-on Diagnostics repair guide; Snap-on sells primarily through franchise dealers, and general inquiries route through snapon.com."
+    source: "http://www1.snapon.com/Files/Diagnostics-US-2020/Info-Page/REPAIR-GUIDE-JAN-2026---USA.pdf"
+    last_verified: "2026-10-26"

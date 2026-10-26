@@ -1,0 +1,13 @@
+id: specialized-manufacturing
+name: Specialized Manufacturing
+website: https://www.specializedmfg.com
+categories: [electrical]
+aliases: []
+support:
+  - category: electrical
+    department: Customer Support
+    phone: "+18665726690"
+    country: US
+    notes: "Specialized Manufacturing Inc., Draper, UT (precision sheet metal fabrication, CNC machining, forming, welding, engraving, integrated electro-mechanical assemblies and cable harnesses for aerospace, defense and demanding commercial applications; founded 1996). Email info@specializedmfg.com; local phone 801-572-6690 also published."
+    source: "https://www.specializedmfg.com/free-quote/"
+    last_verified: "2026-10-26"

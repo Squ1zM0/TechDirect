@@ -1,0 +1,14 @@
+id: clearco-products
+name: Clearco Products
+website: http://www.clearcoproducts.com
+categories: [hardware]
+aliases: ["Clearco Products Co., Inc."]
+support:
+  - category: hardware
+    department: Customer Support
+    phone: "+12153667860"
+    email: info@clearcoproducts.com
+    country: US
+    notes: "Clearco Products Co., Inc., Willow Grove, PA (founded 1945, family-owned); silicone fluids, oils, lubricants, greases, emulsions. Current Willow Grove line per Clearco's own contact page; an older Bensalem-address SDS lists (215) 639-2640. Category mapped to closest vocabulary term (silicone lubricants/chemicals)."
+    source: "https://www.clearcoproducts.com/contact-us/"
+    last_verified: "2026-10-26"

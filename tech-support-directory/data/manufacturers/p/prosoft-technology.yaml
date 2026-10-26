@@ -1,0 +1,13 @@
+id: prosoft-technology
+name: ProSoft Technology
+website: https://www.prosoft-technology.com/
+categories: [electrical]
+aliases: []
+support:
+  - category: electrical
+    department: Technical Support
+    phone: "+16617165100"
+    country: US
+    notes: "Belden brand with its own distinct ProSoft support contact; own file, not a bare Belden alias. Manuals note 24/7 after-hours phone support for urgent plant-down issues; regional tech support email ps.support@belden.com."
+    source: "http://www.prosoft-technology.com/prosoft/download/13911/316021/file/PLX51_PBM_RN.pdf"
+    last_verified: "2026-10-26"

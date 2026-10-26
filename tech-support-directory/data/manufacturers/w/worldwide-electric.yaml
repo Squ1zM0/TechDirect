@@ -1,0 +1,13 @@
+id: worldwide-electric
+name: "WorldWide Electric Corp."
+website: https://www.worldwideelectric.com
+categories: [electrical]
+aliases: ["WorldWide Electric"]
+support:
+  - category: electrical
+    department: Customer Support
+    phone: "+18008082131"
+    country: US
+    notes: "Rochester NY, 3540 Winton Place. Email customerservice@worldwideelectric.com. Motors. NOT Reliance Worldwide (plumbing); distinct company."
+    source: "https://gordonrussell.com/hubfs/6092568/Electric-Motors/WWE-Electric-Motor-Catalog.pdf?hsLang=en"
+    last_verified: "2026-10-26"

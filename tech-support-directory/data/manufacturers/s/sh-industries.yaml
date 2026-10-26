@@ -1,0 +1,15 @@
+id: sh-industries
+name: S&H Industries
+website: https://shindustries.com/
+categories:
+- hardware
+aliases: []
+support:
+- category: hardware
+  department: Customer Support
+  phone: '+18002539726'
+  country: US
+  notes: S&H Industries, 5200 Richmond Road, Bedford Heights, OH 44146. service@shindustries.com. Industrial and auto-body tools. Not S & H Industries LLC, Brielle, NJ (trucking), a different company of
+    the same name.
+  source: Crunchbase profile and Manta listing (shindustries.com)
+  last_verified: '2026-10-26'

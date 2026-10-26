@@ -1,0 +1,13 @@
+id: earth-contact-products
+name: Earth Contact Products
+website: https://ecputility.com
+categories: [electrical]
+aliases: ["Earth Contact", "ECP", "ECP Utility"]
+support:
+  - category: electrical
+    department: Customer Support
+    phone: "+19133930007"
+    country: US
+    notes: "Earth Contact Products (ECP) manufactures USA-made pole line hardware and guy anchors for the electric utility industry since 1998 (dead-end tees, guying tees, cross-arm braces, screw anchors). Identity note: the xref spelling 'Earth Contact' is treated as the short form of Earth Contact Products; the xref grounding category fits ECP's earth-anchor product line."
+    source: "https://ecputility.com/pole-line-hardware-ecp/"
+    last_verified: "2026-10-26"

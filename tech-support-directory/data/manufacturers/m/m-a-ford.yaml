@@ -1,0 +1,13 @@
+id: m-a-ford
+name: M.A. Ford
+website: "https://www.maford.com/page/Catalog_Sections_By_Series.aspx"
+categories: [hardware]
+aliases: ["M.A. Ford Mfg. Co., Inc.", "M.A. Ford Manufacturing"]
+support:
+  - category: hardware
+    department: Technical Support
+    phone: "+18005538024"
+    country: US
+    notes: "M.A. Ford Mfg. Co., Inc., Davenport, IA (7737 Northwest Blvd.); solid carbide cutting tools (high-performance end mills, drills, reamers, routers, burs) for over 100 years, serving 60+ countries. Source labels the line 'Customer Service and Tech Support', so the Technical Support department label is honest. Direct (563) 391-6220 and sales@maford.com also published. Hardware category per the milwaukee-tool.yaml precedent."
+    source: "https://www.maford.com/SiteContent/Documents///Quick sheet 2019.pdf"
+    last_verified: "2026-10-26"

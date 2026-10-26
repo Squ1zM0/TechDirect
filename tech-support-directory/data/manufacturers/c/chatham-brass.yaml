@@ -1,0 +1,14 @@
+id: chatham-brass
+name: Chatham Brass
+website: http://www.chathambrass.com/
+categories: [plumbing]
+aliases: ["Chatham Brass Co"]
+support:
+  - category: plumbing
+    department: Customer Support
+    phone: "+18005267553"
+    country: US
+    email: orders@chathambrass.com
+    notes: "Chatham Brass Co, South Plainfield, NJ; solid brass showerheads and plumbing trim. Toll-free (800) 526-7553 published on Chatham Brass product specification sheets; local line (908) 668-0500 also published."
+    source: "http://www.chathambrass.com/files/112678/MODEL%20202.pdf"
+    last_verified: "2026-10-26"

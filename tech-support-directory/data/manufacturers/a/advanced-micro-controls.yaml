@@ -1,0 +1,16 @@
+id: advanced-micro-controls
+name: Advanced Micro Controls
+website: https://www.amci.com
+categories: [electrical]
+aliases: ["AMCI", "Advanced Micro Controls Inc."]
+support:
+  - category: electrical
+    department: Technical Support
+    phone: "+18605851254"
+    country: US
+    notes: "Advanced Micro Controls, Inc. (AMCI), 20 Gear Drive, Plymouth Industrial Park, Terryville, CT 06786. Industrial control / PLC specialty I/O manufacturer; 24/7 technical support staff per manufacturer. Older AMCI manuals list (860) 583-7271 as the 24-hour technical support number; current manuals direct technical support calls to (860) 585-1254. Email sales@amci.com."
+    source: "https://www.amci.com/index.php/download_file/view/3475/1099/"
+    last_verified: "2026-10-26"
+    hours:
+      timezone: "ET"
+      mon_fri: "8:00 AM - 5:00 PM"

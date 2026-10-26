@@ -1,0 +1,15 @@
+id: jesco-lighting
+name: JESCO Lighting Group, LLC
+website: https://www.jescolighting.com/
+categories:
+- electrical
+aliases:
+- JESCO LIGHTING GROUP
+support:
+- category: electrical
+  department: Technical Support
+  phone: '+18555920029'
+  country: US
+  notes: "LED linear and display lighting; founded 1998, HQ 15 Harbor Park Drive, Port Washington, NY 11050. Main line 800-527-7796, CA main 855-654-0110, support@jescolighting.com. Number labeled Tech support on manufacturer documents."
+  source: https://www.jescolighting.com/wp-content/installation/PDSSE26-01_INSTALLATION_R5.pdf
+  last_verified: '2026-10-26'

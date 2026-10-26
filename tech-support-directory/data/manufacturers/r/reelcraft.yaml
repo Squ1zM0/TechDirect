@@ -1,0 +1,13 @@
+id: reelcraft
+name: Reelcraft Industries
+website: https://www.reelcraft.com/how-reelcrafts-warranty-works/
+categories: [hardware]
+aliases: []
+support:
+  - category: hardware
+    department: Customer Support
+    phone: "+18556349109"
+    country: US
+    notes: "Official warranty page labels this Customer Service. Main numbers also published; the labelled Customer Service number is used."
+    source: "https://www.reelcraft.com/how-reelcrafts-warranty-works/"
+    last_verified: "2026-10-26"

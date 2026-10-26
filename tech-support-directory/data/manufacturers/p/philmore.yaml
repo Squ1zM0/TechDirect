@@ -1,0 +1,12 @@
+id: philmore
+name: Philmore
+categories: [electrical]
+aliases: ["Philmore Manufacturing", "Philmore Mfg.", "LKG Industries"]
+support:
+  - category: electrical
+    department: Customer Support
+    phone: "+18158742301"
+    country: US
+    notes: "Philmore Manufacturing, a brand of LKG Industries, Inc., Rockford, IL (3660 Publishers Dr.). Number published in GlobalSpec and Thomasnet listings for LKG Industries dba Philmore/Datak; LKG acquired Philmore in 1988. No current official Philmore website with a published phone was verified (the legacy philmore-datak.com site publishes email only), so no website is recorded. Not labelled technical support, so recorded as Customer Support. Electronic connectors, switches, cable and power assemblies, founded 1921. Distinct from Hilmor (near-miss false friend rejected)."
+    source: "https://datasheets.globalspec.com/ps/2830/LKGIndustriesDBAPhilmoreDatakESDYN"
+    last_verified: "2026-10-26"

@@ -1,0 +1,13 @@
+id: exitronix
+name: "Exitronix"
+categories:
+- electrical
+aliases: ["Exitronics", "EXITRONIX EMERGENCY BY BARRON"]
+support:
+- category: electrical
+  department: "Technical Support"
+  phone: "+16235808943"
+  country: US
+  notes: "Exitronix, a Barron Lighting Group brand (Barron site lists Exitronix, Trace-Lite, specialtyLED, Growlite), Glendale AZ. Barron installation instructions list this as the technical support line; email technicalsupport@barronltg.com. Barron main line 888-533-3948. Covers xref spellings Exitronics and EXITRONIX EMERGENCY BY BARRON. The near-miss candidate Itron is a false friend and is not used."
+  source: "https://barronltg.com/pdf/vexcl_inst.pdf"
+  last_verified: "2026-10-26"

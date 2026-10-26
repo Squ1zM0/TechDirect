@@ -1,0 +1,13 @@
+id: american-metal-filter
+name: American Metal Filter
+website: https://amfco.com/
+categories: [hvac]
+aliases: ["American Metal Filter Co", "American Metal Filter Company", "AMFCO"]
+support:
+  - category: hvac
+    department: Customer Support
+    phone: "+16196281917"
+    country: US
+    notes: "American Metal Filter Company, 611 Marsat Ct, Chula Vista, CA 91911, with a second plant in Nashville, TN. Metal air filters and housings for OEMs and aftermarket HVAC wholesalers since 1986; wholesale number published on the manufacturer's own site ('Wholesale Filters Available: 619-628-1917'). No exact vocabulary term covers filters; hvac is the closest (air filtration for HVAC). Covers the xref spelling American Metal Filter Co."
+    source: "https://amfco.com/"
+    last_verified: "2026-10-26"

@@ -1,0 +1,12 @@
+id: aftermarket-specialties
+name: Aftermarket Specialties
+categories: [hvac]
+aliases: ["Aftermarket Specialties, Inc.", "ASI"]
+support:
+  - category: hvac
+    department: Customer Support
+    phone: "+16788192274"
+    country: US
+    notes: "Aftermarket Specialties, Inc. (ASI), 980 Cobb Place Blvd NW, Kennesaw, GA 30144. International distributor of rotary and reciprocating compressors, condensing units, run capacitors and chemicals for the air conditioning, heating and refrigeration industry, plus air quality and zone management products. Matches the xref category 'HVAC aftermarket parts'. NOT the Mabscott, WV automotive shop of the same name."
+    source: "https://akama.com/company/Aftermarket_Specialties_Inc_afb0577255.html"
+    last_verified: "2026-10-26"

@@ -1,0 +1,13 @@
+id: elgen-manufacturing
+name: Elgen Manufacturing
+website: https://elgenmfg.com
+categories: [airflow]
+aliases: ["Elgen"]
+support:
+  - category: airflow
+    department: Customer Support
+    phone: "+18005039805"
+    country: US
+    notes: "Elgen Manufacturing (Closter, NJ, founded 1995; acquired by Worthington Enterprises 2025) HVAC ductwork components, duct connectors, strut, hangers and structural framing. Toll-free line from the company's product data sheets; email info@elgenmfg.com; fax 201-964-9030 also published. Category note: mapped to airflow as the closest term for ductwork components."
+    source: "https://fergusonprod.a.bigcontent.io/v1/static/4881899_4419755_specification"
+    last_verified: "2026-10-26"

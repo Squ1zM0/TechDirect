@@ -1,0 +1,17 @@
+id: ergodyne
+name: "Ergodyne"
+website: "https://www.ergodyne.com/help-faq"
+categories:
+- hardware
+aliases: ["Ergodyne (Winter Mitts, Liners, Etc)"]
+support:
+- category: hardware
+  department: "Customer Support"
+  phone: "+18002258238"
+  country: US
+  notes: "Ergodyne (legal name Tenacious Holdings Inc dba Ergodyne), Saint Paul MN. Alternate line 651-642-9889. Email support@ergodyne.com. Safety and PPE; hardware is the closest vocabulary term. Covers xref spellings Ergodyne and Ergodyne (Winter Mitts, Liners, Etc)."
+  source: "https://www.ergodyne.com/help-faq"
+  last_verified: "2026-10-26"
+  hours:
+    timezone: "CT"
+    mon_fri: "8:00 AM - 5:00 PM"

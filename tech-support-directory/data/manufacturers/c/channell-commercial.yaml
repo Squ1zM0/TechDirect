@@ -1,0 +1,13 @@
+id: channell-commercial
+name: Channell Commercial Corporation
+website: https://www.channell.com/
+categories: [electrical]
+aliases: ["Channell Commercial", "Channell Corp"]
+support:
+  - category: electrical
+    department: Customer Support
+    phone: "+18004231863"
+    country: US
+    notes: "Channell Commercial Corporation, founded 1922; thermoplastic enclosures, pedestals, vaults and fiber management for broadband/telecom/utilities. HQ Rockwall, TX (1700 Justin Rd, (214) 304-7800); Temecula, CA plant (951) 719-2600. Acquired by Prysmian June 2025, but Channell keeps its own published support line, so it stages as its own file rather than parent-resolving to prysmian. Covers xref spelling 'Channell Corp' (parent Channell Commercial). Spelling is 'Channell' (double-n), distinct from the separate xref row 'Channel Commercial'."
+    source: "https://www.channell.com/"
+    last_verified: "2026-10-26"

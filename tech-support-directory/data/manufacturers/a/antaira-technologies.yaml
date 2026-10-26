@@ -1,0 +1,12 @@
+id: antaira-technologies
+name: Antaira Technologies
+categories: [electrical]
+aliases: ["Antaira"]
+support:
+  - category: electrical
+    department: Customer Service and Support
+    phone: "+18442682472"
+    country: US
+    notes: "Industrial Ethernet networking manufacturer; US headquarters customer service and support line published in Antaira hardware manuals, email support@antaira.com."
+    source: "https://WWW.ANTAIRA.COM/core/media/media.nl?id=2122637&c=685553&h=N8YdnmejW9K9_ST3z3f0ek0DIHHu_mIk3cFFOmBKFrY9P4H_&_xt=.pdf"
+    last_verified: "2026-10-26"

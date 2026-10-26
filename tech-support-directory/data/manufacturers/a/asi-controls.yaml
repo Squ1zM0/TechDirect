@@ -1,0 +1,12 @@
+id: asi-controls
+name: ASI Controls
+categories: [hvac-controls]
+aliases: ["ASI Controls Inc"]
+support:
+  - category: hvac-controls
+    department: Technical Support
+    phone: "+19258668808"
+    country: US
+    notes: "Digital (DDC) HVAC controls and building automation (ASIC/3 controllers, IntelliFront), Pleasanton CA (5111 Johnson Dr, founded 1986). Technical support line published on asicontrols.com (option 3); support@asicontrols.com and info@asicontrols.com also published."
+    source: "https://www.asicontrols.com/our-history/"
+    last_verified: "2026-10-26"

@@ -1,0 +1,13 @@
+id: capital-safety
+name: Capital Safety (DBI-SALA & Protecta)
+website: https://www.3m.com/3M/en_US/p/d/b00036499/
+categories: [hardware]
+aliases: ["Capital Safety (DBI & Protecta)", "3M Fall Protection"]
+support:
+  - category: hardware
+    department: Customer Support
+    phone: "+18003286146"
+    country: US
+    notes: "Capital Safety was acquired by 3M in August 2015 and became 3M Fall Protection; DBI-SALA and Protecta products continue under 3M. This is the published 3M Fall Protection product-support line for DBI-SALA/Protecta products (3M US product pages give 1-800-328-6146 for product, technical or application advice). Safety/fall protection; category mapped to closest vocabulary term hardware."
+    source: "https://www.3m.com/3M/en_US/p/d/b00036499/"
+    last_verified: "2026-10-26"

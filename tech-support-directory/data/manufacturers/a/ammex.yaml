@@ -1,0 +1,12 @@
+id: ammex
+name: AMMEX
+categories: [hardware]
+aliases: []
+support:
+  - category: hardware
+    department: Customer Support
+    phone: "+18002747354"
+    country: US
+    notes: "Disposable gloves / PPE supplier. Customer Service line published site-wide on ammex.com. No safety/PPE category exists in the TechDirect vocabulary, so hardware is used as the closest term."
+    source: "https://www.ammex.com/cs-faq"
+    last_verified: "2026-10-26"

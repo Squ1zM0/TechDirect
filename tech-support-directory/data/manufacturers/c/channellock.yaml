@@ -1,0 +1,13 @@
+id: channellock
+name: Channellock
+website: https://www.channellock.com/product/108-8/
+categories: [hardware]
+aliases: []
+support:
+  - category: hardware
+    department: Customer Support
+    phone: "+18007243018"
+    country: US
+    notes: "Channellock customer service line published on channellock.com product pages. Pliers and hand tools."
+    source: "https://www.channellock.com/product/108-8/"
+    last_verified: "2026-10-26"

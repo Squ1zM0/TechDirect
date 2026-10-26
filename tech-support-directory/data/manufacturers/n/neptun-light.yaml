@@ -1,0 +1,13 @@
+id: neptun-light
+name: Neptun Light
+website: https://www.neptunlight.com/
+categories: [electrical]
+aliases: ["Neptun"]
+support:
+  - category: electrical
+    department: Customer Support
+    phone: "+18887358330"
+    country: US
+    notes: "Neptun Light, Inc., Lake Forest IL; LED lighting."
+    source: "https://www.candelacorp.com/spec/?prod_num=LED-DI-88064-UNV-835-SP"
+    last_verified: "2026-10-26"

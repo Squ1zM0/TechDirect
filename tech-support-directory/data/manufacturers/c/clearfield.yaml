@@ -1,0 +1,13 @@
+id: clearfield
+name: Clearfield
+website: https://www.seeclearfield.com
+categories: [electrical]
+aliases: ["Clearfield Inc.", "Clearfield Fiber Products"]
+support:
+  - category: electrical
+    department: Customer Support
+    phone: "+18004222537"
+    country: US
+    notes: "Clearfield, Inc. (NASDAQ: CLFD), Minneapolis, MN; fiber management, protection, and delivery products (FieldSmart platform, panels, pedestals, splitters). Toll-free line per Clearfield's own site; local line (763) 476-6866 also published. Covers both xref spellings 'Clearfield Fiber Products' and 'Clearfield Inc.' (both parent Clearfield)."
+    source: "https://www.seeclearfield.com/products/category/panels.html"
+    last_verified: "2026-10-26"

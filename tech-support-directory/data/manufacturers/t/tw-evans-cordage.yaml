@@ -1,0 +1,18 @@
+id: tw-evans-cordage
+name: T.W. Evans Cordage
+website: http://www.twevans.com/
+categories:
+- hardware
+aliases: []
+support:
+- category: hardware
+  department: Customer Support
+  phone: '+14019442121'
+  country: US
+  notes: T.W. Evans Cordage Co. Inc., 55 Walnut Grove Ave, Cranston, RI. Rope and cordage manufacturer.
+    Hours Mon-Fri 8:30 AM-5:00 PM America/New_York.
+  source: http://www.twevans.com/
+  last_verified: '2026-10-26'
+  hours:
+    timezone: America/New_York
+    mon_fri: 8:30 AM - 5:00 PM

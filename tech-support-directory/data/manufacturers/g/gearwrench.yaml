@@ -1,0 +1,14 @@
+id: gearwrench
+name: 'GearWrench'
+website: https://www.gearwrench.com/
+categories:
+- hardware
+aliases: []
+support:
+- category: hardware
+  department: 'Customer Support'
+  phone: '+18776263433'
+  country: US
+  notes: 'Apex Tool Group brand. Warranty email warrantysupport@apextoolgroup.com. Hand tools, so hardware is the closest vocabulary term.'
+  source: 'https://www.gearwrench.com/warranty'
+  last_verified: '2026-10-26'

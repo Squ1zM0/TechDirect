@@ -1,0 +1,13 @@
+id: senva
+name: Senva
+website: https://www.senvainc.com
+categories: [hvac-controls]
+aliases: []
+support:
+  - category: hvac-controls
+    department: Technical Support
+    phone: "+18666608864"
+    country: US
+    notes: "Senva building-automation sensors (air quality, CO2, pressure, current). Toll-free live technical support; email support@senvainc.com."
+    source: "https://www.senvainc.com//GroupProduct/DynamicDataSheet?groupGuid=25&groupGuid=25"
+    last_verified: "2026-10-26"

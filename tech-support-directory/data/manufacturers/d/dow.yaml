@@ -1,0 +1,13 @@
+id: dow
+name: Dow
+website: https://www.dow.com
+categories: [hardware]
+aliases: ["Dow Inc.", "The Dow Chemical Company"]
+support:
+  - category: hardware
+    department: Customer Support
+    phone: "+18003316451"
+    country: US
+    notes: "Dow Inc. (Midland, MI) materials science company; trade-relevant lines include DOWSIL sealants/adhesives and STYROFOAM insulation. General-information toll-free line from Dow's own support page; HQ 989-636-1000 also published. Category note: no chemicals vocabulary term exists; hardware is the closest term for the sealant/insulation lines sold through the trade."
+    source: "https://www.dow.com/en-us/support.html?product=Catalysts"
+    last_verified: "2026-10-26"

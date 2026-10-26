@@ -1,0 +1,14 @@
+id: middle-atlantic-products
+name: Middle Atlantic Products
+website: https://www.legrand.us/middle-atlantic-products
+categories:
+- electrical
+aliases: []
+support:
+- category: electrical
+  department: Customer Support
+  phone: "+18772953472"
+  country: US
+  notes: Parent Legrand (Legrand Commercial AV division), since 1979. Distinct Middle Atlantic contact, so own file rather than PARENT-RESOLVED to legrand (legrand file exists). Older docs list 973-839-1011 / 800-266-7225.
+  source: https://www.legrand.us/middle-atlantic-products
+  last_verified: "2026-10-26"

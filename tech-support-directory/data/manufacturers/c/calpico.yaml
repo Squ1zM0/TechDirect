@@ -1,0 +1,16 @@
+id: calpico
+name: Calpico
+website: http://www.calpicoinc.com/
+categories: [plumbing, waterworks]
+aliases: ["Calpico, Inc."]
+support:
+  - category: plumbing
+    department: Customer Support
+    phone: "+16505882241"
+    country: US
+    notes: "Calpico, Inc., 1387 San Mateo Ave, South San Francisco, CA 94080, manufacturer and distributor of underground piping products since 1966: casing insulators, end seals, flange insulation kits, PVC and steel wall sleeves, double containment pipes, ground rods, bolt and nut caps. Fax 650-873-6952 also published."
+    source: "https://www.thomasnet.com/company/calpico-inc-491558/profile?coverage_area=CN&heading=68710201"
+    last_verified: "2026-10-26"
+    hours:
+      timezone: "PT"
+      mon_fri: "8:00 AM - 5:00 PM"

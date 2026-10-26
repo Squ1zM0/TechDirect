@@ -1,0 +1,13 @@
+id: alno
+name: Alno
+website: https://www.alnoinc.com
+categories: [hardware]
+aliases: ["Alno Inc."]
+support:
+  - category: hardware
+    department: Customer Support
+    phone: "+18188826028"
+    country: US
+    notes: "Alno Inc. Decorative cabinet hardware (knobs, pulls) in brass with multiple finishes, limited lifetime warranty; number printed on the manufacturer's own product spec sheets (fax (818) 700-1540, www.alnoinc.com). NOT Alno New York kitchens/cabinetry (German kitchen company, NY/Miami showrooms), a different company."
+    source: "https://assets.wfcdn.com/dm/document/41303370-bbd0-4905-8bc9-8a60cefcc636/specifications"
+    last_verified: "2026-10-26"

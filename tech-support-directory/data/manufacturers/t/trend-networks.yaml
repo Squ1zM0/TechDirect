@@ -1,0 +1,16 @@
+id: trend-networks
+name: TREND Networks (formerly IDEAL Networks)
+website: https://www.trend-networks.com/us/
+categories:
+- electrical
+aliases:
+- IDEAL Networks
+- Ideal Networks
+support:
+- category: electrical
+  department: Technical Support
+  phone: '+19739577553'
+  country: US
+  notes: 'TREND Networks (Formerly IDEAL Networks). Technical Hotline is primary; email americastech@trend-networks.com. Customer Support 973-957-7700, email contactus@trend-networks.com, also published. Separate company from IDEAL Industries; do not parent-resolve to ideal-industries. Data cable testers, certifiers, verifiers.'
+  source: https://www.trend-networks.com/us/
+  last_verified: '2026-10-26'

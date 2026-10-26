@@ -1,0 +1,16 @@
+id: tri-lite
+name: Tri Lite
+website: https://www.triliteinc.com/
+categories:
+- electrical
+aliases: []
+support:
+- category: electrical
+  department: Customer Support
+  phone: '+17733847765'
+  country: US
+  notes: Tri Lite, Inc., 1642 Besly Court, Chicago, IL 60642; info@triliteinc.com. Designers and manufacturers
+    of specialty electrical products since 1922. Not TripleLite flashlights (triplelite.com, 1-888-669-7775)
+    and not Radwell (distributor).
+  source: https://www.triliteinc.com/assets/literature/Tri-Lite-Loading-Dock-Guide-Light-Set-Product-Information-Sheet.pdf
+  last_verified: '2026-10-26'

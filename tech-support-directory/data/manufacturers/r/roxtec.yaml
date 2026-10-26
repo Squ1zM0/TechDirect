@@ -1,0 +1,14 @@
+id: roxtec
+name: Roxtec
+website: https://www.roxtec.com/
+categories:
+- electrical
+aliases: []
+support:
+- category: electrical
+  department: Customer Support
+  phone: '+18005204769'
+  country: US
+  notes: Roxtec Inc (US), Tulsa, OK area. info@us.roxtec.com. Cable and pipe sealing transits.
+  source: roxtec.com US pages
+  last_verified: '2026-10-26'

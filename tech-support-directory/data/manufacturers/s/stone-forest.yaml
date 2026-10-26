@@ -1,0 +1,13 @@
+id: stone-forest
+name: "Stone Forest"
+website: "https://stoneforest.com/pages/garden-faq"
+categories: [bathroom-systems]
+aliases: []
+support:
+  - category: bathroom-systems
+    department: Customer Support
+    phone: "+18886822987"
+    country: US
+    notes: "Stone Forest stone sinks, vanities and fountains, Santa Fe NM. Toll-free line; email info@stoneforest.com."
+    source: "https://stoneforest.com/pages/garden-faq"
+    last_verified: "2026-10-26"

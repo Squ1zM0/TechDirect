@@ -1,0 +1,16 @@
+id: refrigeration-research
+name: Refrigeration Research
+website: http://www.refresearch.com/
+categories: [hvac]
+aliases: ["Refrigeration Research, Inc"]
+support:
+  - category: hvac
+    department: Customer Support
+    phone: "+18102271151"
+    country: US
+    notes: "525 N 5th St, Brighton, MI. Suction accumulators and refrigeration components."
+    source: "http://www.refresearch.com/"
+    last_verified: "2026-10-26"
+    hours:
+      timezone: "ET"
+      mon_fri: "8:00 AM - 5:00 PM"

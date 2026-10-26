@@ -1,0 +1,13 @@
+id: parkline
+name: Parkline
+website: https://www.parkline.com
+categories: [electrical]
+aliases: ["Parkline, Inc."]
+support:
+  - category: electrical
+    department: Customer Support
+    phone: "+18007864855"
+    country: US
+    notes: "Parkline, Inc. General company number published in Parkline press releases (Summit Park investment announcement, 2012, and Wind Systems Magazine, 2010); not labelled technical support, so recorded as Customer Support. Industrial metal buildings incl. electrical-utility, wastewater, and telecom enclosures; no building/enclosure term exists in the category vocabulary, so electrical is the closest trade term."
+    source: "https://www.powermag.com/press-releases/parkline-inc-secures-capital-for-growth/"
+    last_verified: "2026-10-26"

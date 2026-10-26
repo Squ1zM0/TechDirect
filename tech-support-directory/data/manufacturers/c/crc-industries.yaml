@@ -1,0 +1,13 @@
+id: crc-industries
+name: CRC Industries
+website: https://www.crcindustries.com
+categories: [hardware]
+aliases: ["CRC", "CRC Chemical"]
+support:
+  - category: hardware
+    department: Technical Support
+    phone: "+18005213168"
+    country: US
+    notes: "CRC Industries, Inc. Technical Assistance line per the manufacturer's own safety data sheets (customer service 800-272-4620; general 215-674-4300 also published). Maintenance chemicals: lubricants, cleaners, degreasers and sealants. No separate chemicals category exists in the vocabulary, so hardware is the closest."
+    source: "https://weblink.carquest.com/msds/CRC/CRC%2005091.pdf"
+    last_verified: "2026-10-26"

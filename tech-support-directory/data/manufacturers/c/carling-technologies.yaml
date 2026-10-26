@@ -1,0 +1,13 @@
+id: carling-technologies
+name: Carling Technologies
+website: https://www.digikey.com/en/htmldatasheets/production/1023141/0/0/1/w-series
+categories: [electrical]
+aliases: ["Carling"]
+support:
+  - category: electrical
+    department: Application Support
+    phone: "+18607939281"
+    country: US
+    notes: "Carling Technologies headquarters/application support line published in Carling datasheets. Email sales@carlingtech.com; application support team2@carlingtech.com. Switches, circuit breakers and power distribution. Also covers xref spelling 'Carling' (same company)."
+    source: "https://www.digikey.com/en/htmldatasheets/production/1023141/0/0/1/w-series"
+    last_verified: "2026-10-26"

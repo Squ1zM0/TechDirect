@@ -1,0 +1,17 @@
+id: falltech
+name: "FallTech"
+website: "https://www.falltech.com/utilities"
+categories:
+- hardware
+aliases: []
+support:
+- category: hardware
+  department: "Customer Support"
+  phone: "+18007194619"
+  country: US
+  notes: "FallTech, 1306 S. Alameda St., Compton CA 90221. Number from the official site; older spec sheets print 323-752-0066. Hours Mon-Fri 7:00-4:30 PT. Fall protection; hardware is the closest vocabulary term."
+  source: "https://www.falltech.com/utilities"
+  last_verified: "2026-10-26"
+  hours:
+    timezone: "PT"
+    mon_fri: "7:00 AM - 4:30 PM"

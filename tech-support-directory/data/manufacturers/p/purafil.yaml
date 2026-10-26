@@ -1,0 +1,13 @@
+id: purafil
+name: Purafil
+website: https://purafil.com/
+categories: [hvac]
+aliases: []
+support:
+  - category: hvac
+    department: Customer Support
+    phone: "+18002226367"
+    country: US
+    notes: "Doraville GA. Official SDS also lists the office number; the toll-free number is used. Not labelled tech in the source."
+    source: "https://purafil.com/wp-content/uploads/2015/08/Purafil-SP-Media-SDS-GHS-v1.02.pdf"
+    last_verified: "2026-10-26"

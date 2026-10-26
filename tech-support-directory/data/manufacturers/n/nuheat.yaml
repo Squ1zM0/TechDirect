@@ -1,0 +1,13 @@
+id: nuheat
+name: NuHeat
+website: https://nuheat.com/docs/default-source/2017-products-files/cable/nuheat_cable_-_installation_guide_-_h59308.pdf
+categories: [hvac]
+aliases: ["NUHEAT IND LTD", "nVent NUHEAT"]
+support:
+  - category: hvac
+    department: Technical Support
+    phone: "+18007789276"
+    country: US
+    notes: "Nuheat is now nVent NUHEAT (nVent); electric floor heating (radiant electric, not hydronic); nVent NUHEAT Technical Services Team, 1.800.778.WARM."
+    source: "https://nuheat.com/docs/default-source/2017-products-files/cable/nuheat_cable_-_installation_guide_-_h59308.pdf"
+    last_verified: "2026-10-26"

@@ -1,0 +1,14 @@
+id: keyence
+name: KEYENCE Corporation of America
+website: https://www.keyence.com/
+categories:
+- electrical
+aliases: []
+support:
+- category: electrical
+  department: Customer Support
+  phone: '+18885393623'
+  country: US
+  notes: "Sensors, measurement, and automation; HQ Itasca, IL, 500 Park Boulevard, Suite 200, 60143. Email info@keyence.com. An outside-US direct line from a secondary complaint site was not filed."
+  source: https://www.keyence.com/support/user/sensor/network-communication/
+  last_verified: '2026-10-26'

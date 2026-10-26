@@ -1,0 +1,12 @@
+id: lps-laboratories
+name: LPS Laboratories
+website: "https://www.lpslabs.com"
+categories: [hardware]
+support:
+  - category: hardware
+    department: Customer Support
+    phone: "+17702438800"
+    country: US
+    notes: "LPS Laboratories, a division of Illinois Tool Works, Inc. (ITW Pro Brands), Tucker, GA (4647 Hugh Howell Rd.); industrial lubricants, cleaners, degreasers and rust preventives (LPS 1, LPS 2, LPS 3, ChainMate, TKX). Number from LPS Laboratories' own safety data sheets (sds@lpslabs.com also published). The ITW Pro Brands Canada line 1-800-241-8334 appears on one SDS supplier block and is noted here, not used as primary. Hardware is the closest category-vocabulary term for MRO chemical products."
+    source: "https://www.bettymills.com:443/product/MSDS/11616.pdf"
+    last_verified: "2026-10-26"

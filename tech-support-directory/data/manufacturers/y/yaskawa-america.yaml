@@ -1,0 +1,13 @@
+id: yaskawa-america
+name: "Yaskawa America"
+website: https://www.yaskawa.com
+categories: [electrical]
+aliases: ["Yaskawa", "Yaskawa Electric America Inc"]
+support:
+  - category: electrical
+    department: Customer Support
+    phone: "+18009275292"
+    country: US
+    notes: "1-800-YASKAWA; local 847-887-7000 also published; Waukegan IL HQ, 2121 Norman Drive South. Drives, motion, servos. Filed as Customer Support (general/urgent-request contact on yaskawa.com FAQ pages and manuals; not explicitly labeled tech in the sources used). Distinct from the existing yaskawa-motoman file (robotics division); do not merge. Xref spellings Yaskawa, Yaskawa America and Yaskawa Electric America Inc share this file (variant group)."
+    source: "https://www.yaskawa.com/about-us/contact-us"
+    last_verified: "2026-10-26"

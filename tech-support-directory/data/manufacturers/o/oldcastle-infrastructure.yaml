@@ -1,0 +1,13 @@
+id: oldcastle-infrastructure
+name: Oldcastle Infrastructure
+website: https://oldcastleinfrastructure.com/category/corporate/
+categories: [drainage, waterworks]
+aliases: ["Old Castle", "Oldcastle"]
+support:
+  - category: drainage
+    department: Customer Support
+    phone: "+18889653227"
+    country: US
+    notes: "Oldcastle Infrastructure, A CRH Company; precast concrete, utility structures, stormwater and enclosure products. Vocabulary note: no precast term; drainage + waterworks are closest. Oldcastle Precast resolves to this file (see batch report)."
+    source: "https://oldcastleinfrastructure.com/category/corporate/"
+    last_verified: "2026-10-26"

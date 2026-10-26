@@ -1,0 +1,13 @@
+id: swagelok
+name: "Swagelok"
+website: "https://www.swagelok.com/en/imprint"
+categories: [piping-systems]
+aliases: []
+support:
+  - category: piping-systems
+    department: Customer Support
+    phone: "+14402484600"
+    country: US
+    notes: "Swagelok fluid-system fittings and valves, Solon OH. Published corporate number; sales and support are primarily via local authorized Swagelok sales and service centers, not a dedicated national tech line."
+    source: "https://www.swagelok.com/en/imprint"
+    last_verified: "2026-10-26"

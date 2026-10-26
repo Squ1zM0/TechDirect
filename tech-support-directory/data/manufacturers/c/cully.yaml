@@ -1,0 +1,12 @@
+id: cully
+name: Cully
+categories: [hardware]
+aliases: ["Cully Enterprises"]
+support:
+  - category: hardware
+    department: Customer Support
+    phone: "+18009273293"
+    country: US
+    notes: "Cully is a sub-brand of Minerallac Company (fasteners, hangers and supports); support via Minerallac's published phone per Minerallac product specification sheets. The xref 'Cully Enterprises' spelling is a Ferguson line-card label for the same Cully products. No standalone Cully support line exists."
+    source: "https://assets.gordonelectricsupply.com/datasheets/ts/Minerallac-Cully_01787_1_SPEC.pdf"
+    last_verified: "2026-10-26"

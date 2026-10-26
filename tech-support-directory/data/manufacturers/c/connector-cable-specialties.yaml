@@ -1,0 +1,16 @@
+id: connector-cable-specialties
+name: Connector & Cable Specialties
+website: https://www.ccsconnectors.com
+categories:
+  - electrical
+aliases:
+  - CCS Connector & Cable Specialties
+  - CCS Connectors & Cable Specialties
+support:
+  - category: Customer Support
+    department: Customer Support
+    phone: "+18004731300"
+    country: US
+    notes: "Toll-free line for the US and Canada, per the company's own contact page. Local/international line 281-992-0500 also published. Friendswood, TX; email info@ccsconnectors.com. US-made connector and cable products."
+    source: "http://www.ccsconnectors.com/contact-us.htm"
+    last_verified: "2026-10-26"

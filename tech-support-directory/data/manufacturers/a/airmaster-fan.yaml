@@ -1,0 +1,16 @@
+id: airmaster-fan
+name: Airmaster Fan
+website: https://www.airmasterfan.com
+categories: [airflow]
+aliases: ["Airmaster", "Airmaster Fan Co.", "Airmaster Fan Company"]
+support:
+  - category: airflow
+    department: Customer Support
+    phone: "+18004103267"
+    country: US
+    notes: "Airmaster Fan Company, 9229 South Meridian Road, Clarklake, MI 49234 (plants in Jackson and Clarklake, MI). Air circulators, ventilation and heating fans for commercial and industrial markets since 1886; member of the MAICO Group since 2013. Direct line (517) 764-2300 also published. Covers both xref spellings Airmaster and Airmaster Fan."
+    source: "https://www.signalhire.com/companies/airmaster-fan-company"
+    last_verified: "2026-10-26"
+    hours:
+      timezone: "ET"
+      mon_fri: "8:00 AM - 5:00 PM"

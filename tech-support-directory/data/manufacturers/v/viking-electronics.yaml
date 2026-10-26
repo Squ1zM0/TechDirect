@@ -1,0 +1,16 @@
+id: viking-electronics
+name: "Viking Electronics"
+website: https://vikingelectronics.com
+categories: [electrical]
+aliases: []
+support:
+  - category: electrical
+    department: Technical Support
+    phone: "+17153868666"
+    country: US
+    notes: "ProductSupport@VikingElectronics.com. Paging, intercom and telecom. Distinct from Viking Corporation (fire sprinklers) and from Viking Staple(s); do not conflate."
+    source: "https://vikingelectronics.com/wp-content/uploads/2018/02/2018_Viking_ProductCatalog.pdf"
+    last_verified: "2026-10-26"
+    hours:
+      timezone: "CT"
+      mon_fri: "8:00 AM - 5:00 PM"

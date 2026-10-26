@@ -1,0 +1,13 @@
+id: halex
+name: 'Halex'
+categories:
+- electrical
+aliases: []
+support:
+- category: electrical
+  department: 'Customer Support'
+  phone: '+18007493261'
+  country: US
+  notes: 'Email CS@HalexCo.com. Harrison, OH. Electrical fittings.'
+  source: 'https://images.thdstatic.com/catalog/pdfImages/08/08186dbf-7c0c-4c80-8ff0-560614af4eb8.pdf'
+  last_verified: '2026-10-26'

@@ -1,0 +1,13 @@
+id: durham
+name: The Durham Company
+website: https://www.durhamusa.com
+categories: [electrical]
+aliases: ["Durham Co.", "Durham Company"]
+support:
+  - category: electrical
+    department: Customer Support
+    phone: "+14175327121"
+    country: US
+    notes: "The Durham Company (Lebanon, MO) metering enclosures, breaker enclosures, pad-mount equipment enclosures, instrument transformers and test switches for the utility industry. HQ line from the company's own catalog. Distinct from Durham Manufacturing Company of Durham, CT (storage cabinets, 800-243-3774)."
+    source: "https://irp-cdn.multiscreensite.com/47d16104/files/uploaded/Dutton_Cahoon_booklet.pdf"
+    last_verified: "2026-10-26"

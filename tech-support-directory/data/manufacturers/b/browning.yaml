@@ -1,0 +1,12 @@
+id: browning
+name: Browning
+categories: [hardware]
+aliases: ["Regal Rexnord Browning"]
+support:
+  - category: hardware
+    department: Technical Support
+    phone: "+18006262093"
+    country: US
+    notes: "Browning is a Regal Rexnord power transmission brand (mounted bearings, belts, sheaves, shaft-mount reducers). No Regal Rexnord file exists in the TechDirect reference, so Browning gets its own file with the Technical Service line printed in Regal Beloit America literature for Browning products. Customer Service 800-626-2120 also published. Literature prints www.RegalPTS.com/Browning as the Browning product page."
+    source: "https://regalbeloitliterature.callmss.com/services/filedisplay/9331E.PDF"
+    last_verified: "2026-10-26"

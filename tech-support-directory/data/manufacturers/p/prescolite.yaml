@@ -1,0 +1,13 @@
+id: prescolite
+name: Prescolite
+website: https://www.prescolite.com/
+categories: [electrical]
+aliases: ["Prescolite (Current)", "PRESCOLITE LIGHTING BY HUBBELL"]
+support:
+  - category: electrical
+    department: Technical Support
+    phone: "+18887774832"
+    country: US
+    notes: "Prescolite spec sheets print 'Tech Support: (888) 777-4832'. Hubbell Lighting lineage, now under Current. Own tech line, distinct from the generic Hubbell file."
+    source: "https://www.superiorlighting.com/content/vspfiles/spec_sheets/SupportingFiles_20260128190334026485%20%281%29/PRESCOLITE-6LCLED830K8_1.pdf"
+    last_verified: "2026-10-26"

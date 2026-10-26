@@ -1,0 +1,12 @@
+id: bando
+name: Bando
+categories: [hardware]
+aliases: ["Bando USA"]
+support:
+  - category: hardware
+    department: Customer Support
+    phone: "+16307736600"
+    country: US
+    notes: "Industrial V-belts and power-transmission belts, US office Itasca IL; Japanese parent Bando Chemical Industries. Company line published in ThomasNet profile."
+    source: "https://www.thomasnet.com/company/bando-usa-10097010/profile?heading=4680401"
+    last_verified: "2026-10-26"

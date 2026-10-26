@@ -1,0 +1,12 @@
+id: ari
+name: A.R.I.
+categories: [valves]
+aliases: ["ARI"]
+support:
+  - category: valves
+    department: Customer Support
+    phone: "+18886288258"
+    country: US
+    notes: "A.R.I. combination and air-release valves for waterworks; workbook parent A.R.I. (Dorot). Dorot's A.R.I. valve business now sits under Aquestia, whose US waterworks contact is OCV Control Valves, Tulsa OK (toll-free 888-OCV-VALV, phone 918-627-1942, usa@aquestia.com) per the A.R.I. brochure. Number shown is the brochure's toll-free US line."
+    source: "https://www.controlvalves.com/wp-content/uploads/2023/06/AQ_ARI_Brochure_2023_FINAL.pdf"
+    last_verified: "2026-10-26"

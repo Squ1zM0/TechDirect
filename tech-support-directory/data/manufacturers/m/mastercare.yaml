@@ -1,0 +1,14 @@
+id: mastercare
+name: MasterCare
+website: https://mastercarebath.com/
+categories:
+- bathroom-systems
+aliases: []
+support:
+- category: bathroom-systems
+  department: Customer Support
+  phone: "+14025645867"
+  country: US
+  notes: 'MasterCare Patient Equipment Inc, Columbus, NE. Specialty bathing systems for senior care. Toll-free 800-798-5867 also published (Procore). Unrelated: Honolulu home-care Mastercare and Swedish traction-table Mastercare AB.'
+  source: https://www.bbb.org/us/ne/columbus/profile/medical-equipment/mastercare-patient-equipment-inc-0714-300015371/details
+  last_verified: "2026-10-26"

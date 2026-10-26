@@ -1,0 +1,14 @@
+id: retrotec
+name: Retrotec
+website: https://retrotec.com/
+categories:
+- hvac
+aliases: []
+support:
+- category: hvac
+  department: Support
+  phone: '+18883301345'
+  country: US
+  notes: Retrotec, 1060 E Pole Rd, Everson, WA. support@retrotec.com; sales 855-738-7683. Department is the source's own label (Support). Blower doors, duct testing, building diagnostics.
+  source: 'retrotec.com blog footer (Support: 1 (888) 330-1345) and Retrotec manual'
+  last_verified: '2026-10-26'

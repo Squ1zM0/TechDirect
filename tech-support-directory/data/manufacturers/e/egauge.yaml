@@ -1,0 +1,13 @@
+id: egauge
+name: eGauge
+website: https://www.egauge.net
+categories: [electrical]
+aliases: ["eGauge Systems"]
+support:
+  - category: electrical
+    department: Customer Support
+    phone: "+18773428431"
+    country: US
+    notes: "eGauge (Boulder, CO) energy monitors and submetering systems. Number is the technical-sales line (option 1); HQ 720-545-9767 and info@egauge.net also published. Covers xref spellings eGauge and eGauge Systems."
+    source: "https://www.egauge.net/commercial-energy-monitor/"
+    last_verified: "2026-10-26"

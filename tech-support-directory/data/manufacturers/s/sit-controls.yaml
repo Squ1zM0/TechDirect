@@ -1,0 +1,13 @@
+id: sit-controls
+name: SIT Controls
+website: https://www.sitgroup.it
+categories: [hvac-controls]
+aliases: []
+support:
+  - category: hvac-controls
+    department: Customer Support
+    phone: "+17045226325"
+    country: US
+    notes: "SIT Controls USA Inc., Charlotte, NC (gas controls and valves for heating appliances; SIT Group, Italy). Email situsa.headquarters@sitgroup.it. An older CPSC recall notice published 704-369-2810 for SIT Controls USA; the manufacturer's own document and the January 2026 ACHR NEWS directory both give 704-522-6325, which is used here."
+    source: "https://www.sitgroup.it/wp-content/uploads/2017/08/650_Delta.pdf"
+    last_verified: "2026-10-26"

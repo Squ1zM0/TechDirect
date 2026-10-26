@@ -1,0 +1,14 @@
+id: kenwood
+name: Kenwood
+website: https://www.kenwood.com/
+categories:
+- electrical
+aliases: []
+support:
+- category: electrical
+  department: Customer Support
+  phone: '+18005369663'
+  country: US
+  notes: "Car audio and electronics; JVCKENWOOD USA. Direct 310-761-8802 and support@ccc.kenwoodusa.com also published. A consumer-complaint site lists a different number; it was not used because official Kenwood USA sources give 800-536-9663."
+  source: https://www.kenwood.com/cs/ce/ipod/index.php?lang=english&model=DNX9140
+  last_verified: '2026-10-26'

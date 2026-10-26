@@ -1,0 +1,15 @@
+id: hoshizaki-america
+name: Hoshizaki America
+website: https://www.hoshizaki.com/
+categories:
+- hvac
+aliases:
+- Hoshizaki
+support:
+- category: hvac
+  department: Technical Support
+  phone: '+18002331940'
+  country: US
+  notes: 'Hoshizaki America, Peachtree City, GA. Email techsupport@hoshizaki.com. Ice machines; no refrigeration term in the category vocabulary, so hvac is used as the closest term.'
+  source: http://kitchen.manualsonline.com/manuals/mfg/hoshizaki_america_inc/dt400bahos.html?p=2
+  last_verified: '2026-10-26'

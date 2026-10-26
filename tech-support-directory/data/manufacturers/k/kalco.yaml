@@ -1,0 +1,14 @@
+id: kalco
+name: Kalco Lighting
+website: https://kalco.com/
+categories:
+- electrical
+aliases: []
+support:
+- category: electrical
+  department: Customer Support
+  phone: '+18005252655'
+  country: US
+  notes: "Decorative lighting; Las Vegas, NV. Direct 702-361-4345 and customer.service@kalco.com also published. Number labeled Customer Service in manufacturer installation instructions."
+  source: https://www.nowlighting.com/images/product/schematics/kalco-525921bcg-clr-install.pdf
+  last_verified: '2026-10-26'

@@ -1,0 +1,13 @@
+id: polyvalve
+name: Polyvalve
+website: https://www.polyvalveusa.com
+categories: [valves]
+aliases: ["Polyvalve LLC", "Polyvalve, an Andronaco Industries Company"]
+support:
+  - category: valves
+    department: Customer Support
+    phone: "+16166562260"
+    country: US
+    notes: "Polyvalve LLC, an Andronaco Industries company, Kentwood/Grand Rapids, MI (4855 Broadmoor Ave SE, Kentwood, MI 49512). Polyvalve valves sold since 1976 and in use worldwide: Poly-Gas, Poly-Chem and Poly-Water lines; Poly-Water valves NSF/ANSI/CAN 61 certified for drinking-water components. Number published in NSF's certified-product listing and corroborated by distributor listings at the same address."
+    source: "http://info.nsf.org/Certified/PwsComponents/Listings.asp?Company=C0099889&Standard=061&"
+    last_verified: "2026-10-26"

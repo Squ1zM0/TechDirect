@@ -1,0 +1,12 @@
+id: axis-lighting
+name: Axis Lighting
+categories: [electrical]
+aliases: ["Axis Lighting Inc.", "AXIS LIGHTING"]
+support:
+  - category: electrical
+    department: Customer Support
+    phone: "+15149486272"
+    country: CA
+    notes: "Architectural LED luminaires (surface, pendant, recessed systems) for commercial and institutional spaces, Montreal QC (2505 Rue Senkus, LaSalle QC H8N 2X8), founded 1991. The Montreal line is recorded with its actual country code CA; no US support line was verified, and no US line is invented. Axis Lighting's own site also publishes toll-free 1-800-263-AXIS. No lighting category exists in the TechDirect vocabulary, so electrical is used as the closest term. Distinct from Axis Communications (network video, US line 800-444-2947) - a different company; do not merge."
+    source: "https://www.axislighting.com/products/sculpt-surface"
+    last_verified: "2026-10-26"

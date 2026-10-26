@@ -1,0 +1,12 @@
+id: aube-technologies
+name: Aube Technologies
+categories: [hvac-controls]
+aliases: ["Aube"]
+support:
+  - category: hvac-controls
+    department: Technical Support
+    phone: "+18008312823"
+    country: US
+    notes: "LEGACY BRAND: Aube Technologies (Saint-Jean-sur-Richelieu QC) was acquired by Honeywell; Aube-branded thermostats and relays are now manufactured and supported by Resideo (Honeywell Home). Aube's own published technical line 1-800-831-AUBE is retained here; Resideo is the current successor support route. Hours in manuals: Mon-Fri 8:30 AM-5:00 PM EST."
+    source: "https://www.manualsdir.com/manuals/43476/aube-technologies-th104.html?page=4"
+    last_verified: "2026-10-26"

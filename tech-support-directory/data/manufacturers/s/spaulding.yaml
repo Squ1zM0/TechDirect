@@ -1,0 +1,13 @@
+id: spaulding
+name: Spaulding
+website: https://www.spauldinglighting.com
+categories: [electrical]
+aliases: []
+support:
+  - category: electrical
+    department: Customer Support
+    phone: "+18646781000"
+    country: US
+    notes: "Spaulding Lighting, a Hubbell Lighting brand, Greenville, SC (outdoor luminaires: Laredo, Laramie, Tempe and area/site lighting). Support routes to Hubbell Lighting, Inc., 701 Millennium Blvd, Greenville, SC; distributor email given in manuals as hubbelllighting@hubbell.com."
+    source: "https://www.manualsdir.com/manuals/572796/spaulding-lighting-laredo-lmc18led-lmc30led.html"
+    last_verified: "2026-10-26"

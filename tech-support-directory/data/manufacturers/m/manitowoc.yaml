@@ -1,0 +1,14 @@
+id: manitowoc
+name: Manitowoc
+website: https://www.manitowocice.com
+categories:
+- hvac
+aliases: []
+support:
+- category: hvac
+  department: Customer Support
+  phone: "+18447242273"
+  country: US
+  notes: Manitowoc Ice brand; commercial ice machines. 844-724-CARE. Welbilt to Pentair Commercial Ice (2022 acquisition per CB Insights); NSF lists Pentair Commercial Ice 800-545-5720 as alternate. Old Welbilt warranty number 920-682-0161 (2017-era manuals) not used as current.
+  source: https://www.manitowocice.com/asset/?id=zpspvz&regions=us&prefLang=en
+  last_verified: "2026-10-26"

@@ -1,0 +1,12 @@
+id: napco
+name: NAPCO Security Technologies
+categories: [electrical]
+aliases: ["Napco"]
+support:
+  - category: electrical
+    department: Technical Support
+    phone: "+18006459440"
+    country: US
+    notes: "NAPCO Security Technologies (Napco); source wording is Technical Service, (800) 645-9440, for security professionals only; Sales and Repairs 800-645-9445 also published."
+    source: "https://manuals.plus/m/7e71e1530bcb0ef7448596057972208fe4a9e7940462edbe78c317831ed254a4"
+    last_verified: "2026-10-26"

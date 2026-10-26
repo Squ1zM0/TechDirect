@@ -1,0 +1,12 @@
+id: barron-lighting-group
+name: Barron Lighting Group
+categories: [electrical]
+aliases: []
+support:
+  - category: electrical
+    department: Customer Support
+    phone: "+18885333948"
+    country: US
+    notes: "Commercial/industrial/decorative lighting (Exitronix, Trace-Lite, specialtyLED, Growlite brands), Glendale AZ (since 1973). Toll-free line published on barronltg.com; local line 623-580-3948 also published. No lighting category exists in the TechDirect vocabulary, so electrical is used as the closest term."
+    source: "https://barronltg.com/about.php"
+    last_verified: "2026-10-26"

@@ -1,0 +1,13 @@
+id: acme-united
+name: Acme United
+website: https://www.acmeunited.com
+categories: [hardware]
+aliases: ["Acme United Corporation"]
+support:
+  - category: hardware
+    department: Customer Support
+    phone: "+18008352263"
+    country: US
+    notes: "Acme United Corporation, Fairfield/Shelton CT (cutting instruments, measuring devices, safety/first-aid products). Customer service 1-800-835-2263, email customerservice@acmeunited.com."
+    source: "https://www.pissedconsumer.com/company/acme-united/customer-service.html"
+    last_verified: "2026-10-26"

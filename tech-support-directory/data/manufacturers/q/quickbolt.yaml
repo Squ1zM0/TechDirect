@@ -1,0 +1,16 @@
+id: quickbolt
+name: QuickBOLT
+website: https://quickbolt.com/
+categories: [hardware]
+aliases: []
+support:
+  - category: hardware
+    department: Customer Support
+    phone: "+18446716045"
+    country: US
+    notes: "QuickBOLT is a division of Quickscrews International Corp.; Quickscrews International is itself a separate batch row (NEEDS-HUMAN) and the two are not merged."
+    source: "https://quickbolt.com/sites/default/files/catalog/QBQuick_Catalog_Iss_1.pdf"
+    last_verified: "2026-10-26"
+    hours:
+      timezone: "PT"
+      mon_fri: "7:00 AM - 5:00 PM"

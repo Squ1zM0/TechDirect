@@ -1,0 +1,16 @@
+id: aladdin-light-lift
+name: Aladdin Light Lift
+website: https://www.aladdinlightlift.com/
+categories: [electrical]
+aliases: ["Aladdin Light Lift, Inc."]
+support:
+  - category: electrical
+    department: Technical Support
+    phone: "+18772874601"
+    country: US
+    notes: "Aladdin Light Lift, Inc., 61 Shields Road, Huntsville, AL 35811. Manufacturer of motorized chandelier/attic light lifts. The manufacturer's manuals label (877) 287-4601 as TECH SUPPORT, Mon-Fri 8:00 AM-4:00 PM CT; troubleshooting must be performed by a licensed electrician. Direct line (256) 429-9700 also published. One-year warranty."
+    source: "https://manualmachine.com/aladdin/all1000/27689504-installation-manual/"
+    last_verified: "2026-10-26"
+    hours:
+      timezone: "CT"
+      mon_fri: "8:00 AM - 4:00 PM"

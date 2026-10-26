@@ -1,0 +1,13 @@
+id: enginuity-power-systems
+name: "Enginuity Power Systems"
+categories:
+- electrical
+aliases: []
+support:
+- category: electrical
+  department: "Customer Support"
+  phone: "+15718003299"
+  country: US
+  notes: "Enginuity Power Systems, 730 S Washington St, Alexandria VA. Toll-free alternate (877) 912-8816; email CHPsales@enginuitypowersystems.com. Combined Heat and Power (CHP) systems, E|200 200kW. NOT Enginuity Power Solutions (Australia, enginuityps.com.au). Power generation; electrical is the closest vocabulary term."
+  source: "https://enginuitypowersystems.com/wp-content/uploads/2026/06/Enginuity-Power-Systems-200kW-Spec-Sheet.pdf"
+  last_verified: "2026-10-26"

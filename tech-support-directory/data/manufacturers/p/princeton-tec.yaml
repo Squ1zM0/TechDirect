@@ -1,0 +1,16 @@
+id: princeton-tec
+name: Princeton Tec
+website: https://www.princetontec.com/
+categories: [electrical]
+aliases: ["Princeton Tech Lights"]
+support:
+  - category: electrical
+    department: Customer Support
+    phone: "+18002579080"
+    country: US
+    notes: "HQ Pennsauken NJ. Older HQ number also published; the toll-free customer-service number is used."
+    source: "https://partsvu.com/collections/headlamps-and-waterproof-flashlights?page=2"
+    last_verified: "2026-10-26"
+    hours:
+      timezone: "ET"
+      mon_fri: "8:30 AM - 5:00 PM"

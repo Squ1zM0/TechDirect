@@ -1,0 +1,13 @@
+id: shoemaker
+name: Shoemaker
+website: https://www.shoemakermfg.com
+categories: [airflow]
+aliases: []
+support:
+  - category: airflow
+    department: Customer Support
+    phone: "+18669400696"
+    country: US
+    notes: "Shoemaker Manufacturing, Cle Elum, WA (grilles, registers and diffusers). Toll-free number; local phone 509-674-4414 also listed."
+    source: "https://www.arcat.com/company/shoemaker-manufacturing-53966"
+    last_verified: "2026-10-26"

@@ -1,0 +1,13 @@
+id: ermco
+name: "ERMCO"
+categories:
+- electrical
+aliases: []
+support:
+- category: electrical
+  department: "Customer Support"
+  phone: "+18002385587"
+  country: US
+  notes: "ERMCO transformer manufacturer, 2225 Industrial Road, Dyersburg TN. The xref category Utility; transformers matches this company. WARNING: the Indianapolis electrical contractor ERMCO, Inc. (ermco.com, 317-780-8800 / 317-780-2923) is a DIFFERENT company; its numbers are not used here, and no website is filed because ermco.com belongs to the contractor."
+  source: "https://files.surplusrecord.com/pdfs/341739.pdf"
+  last_verified: "2026-10-26"

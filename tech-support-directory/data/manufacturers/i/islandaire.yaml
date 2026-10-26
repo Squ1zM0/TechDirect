@@ -1,0 +1,14 @@
+id: islandaire
+name: Islandaire
+website: https://islandaire.com/
+categories:
+- hvac
+aliases: []
+support:
+- category: hvac
+  department: Customer Support
+  phone: '+18008862759'
+  country: US
+  notes: "PTAC and room air conditioners; direct 631-471-2900 and email sales@islandaire.com also published in manufacturer catalogs."
+  source: https://islandaire.com/pdf/units/EZSeriesPT.pdf
+  last_verified: '2026-10-26'

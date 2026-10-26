@@ -1,0 +1,12 @@
+id: ladd-industries
+name: LADD Industries
+categories: [electrical]
+aliases: []
+support:
+  - category: electrical
+    department: Customer Support
+    phone: "+18002231236"
+    country: US
+    notes: "LADD Industries, a TE Connectivity company; distributor/manufacturer of DEUTSCH industrial electrical connectors and harsh-environment connectivity for commercial vehicles. General number."
+    source: "https://www.palomar.edu/diesel/ladd-industries-deutsch-industrial-electrical-connectors/"
+    last_verified: "2026-10-26"

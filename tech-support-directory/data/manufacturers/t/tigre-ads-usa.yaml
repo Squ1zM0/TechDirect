@@ -1,0 +1,12 @@
+id: tigre-ads-usa
+name: "Tigre-ADS USA"
+categories: [piping-systems]
+aliases: ["Tigre USA"]
+support:
+  - category: piping-systems
+    department: Customer Support
+    phone: "+18777515371"
+    country: US
+    notes: "Tigre-ADS USA (Group Tigre) PVC DWV fittings, Janesville WI (2315 Beloit Avenue). Email customerservice@tigre.com."
+    source: "https://tigresite.s3.amazonaws.com/2023/04/DWV-SEP2023-PriceList-Preview-1.pdf"
+    last_verified: "2026-10-26"

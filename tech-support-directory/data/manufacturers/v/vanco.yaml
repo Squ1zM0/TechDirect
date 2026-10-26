@@ -1,0 +1,16 @@
+id: vanco
+name: Vanco International
+website: https://www.vanco1.com/
+categories:
+- electrical
+aliases:
+- Vanco
+support:
+- category: electrical
+  department: Technical Support
+  phone: '+18006266445'
+  country: US
+  notes: Explicitly 'Vanco Technical Support'; techsupport@vanco1.com; Vanco International LLC, Batavia,
+    IL 60510. AV distribution.
+  source: https://www.vanco1.com/?attachment_id=40795
+  last_verified: '2026-10-26'

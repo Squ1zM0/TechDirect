@@ -1,0 +1,17 @@
+id: modern-fan
+name: The Modern Fan Company, Inc.
+website: https://www.modernfan.com
+categories:
+- electrical
+aliases: []
+support:
+- category: electrical
+  department: Customer Support
+  phone: "+18885883267"
+  country: US
+  notes: Ashland, OR. Ceiling fans. Email info@modernfan.com; local 541-482-8545. Covers xref spelling MODERN FAN CO.
+  source: https://modernfan.com/wp-content/uploads/2024/02/CIR_InstallationManual_V2024-02_Online.pdf
+  last_verified: "2026-10-26"
+  hours:
+    timezone: PT
+    mon_fri: 8:00 AM - 4:00 PM

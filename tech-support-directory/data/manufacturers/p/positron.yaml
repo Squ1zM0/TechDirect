@@ -1,0 +1,13 @@
+id: positron
+name: Positron
+website: https://www.positronpower.com
+categories: [electrical]
+aliases: ["Positron Inc.", "Positron Power"]
+support:
+  - category: electrical
+    department: Customer Support
+    phone: "+15143452200"
+    country: CA
+    notes: "Positron Inc., Montreal, QC, Canada (5101 Buchan, Suite 1400, Montreal, QC H4P 2R9), established 1970. Manufacturer of telecommunications equipment for high-reliability, critical-service applications; subsidiary Positron Power sells electrical isolation/protection products to telephone companies and power utilities, which is the xref's 'Positron Power?' parent. No distinct US support number was found (US sales offices exist, including Atlanta, but publish no separate number), so the Montreal headquarters number is recorded with country CA, not as a US line. NOT Positron Corporation (nuclear-medicine imaging, IL) and NOT Itron (a near-miss false friend rejected in earlier checks)."
+    source: "https://www.electricnet.com/doc/positron-industries-inc-0001"
+    last_verified: "2026-10-26"

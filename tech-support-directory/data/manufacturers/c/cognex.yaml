@@ -1,0 +1,13 @@
+id: cognex
+name: Cognex
+website: https://docs.cognex.com/is_574/web/en/ise/Content/GettingStarted/TechnicalSupport.htm
+categories: [electrical]
+aliases: []
+support:
+  - category: electrical
+    department: Technical Support
+    phone: "+15086504100"
+    country: US
+    notes: "Cognex telephone technical support, United States, per Cognex In-Sight technical support documentation. Machine vision systems, sensors and barcode readers."
+    source: "https://docs.cognex.com/is_574/web/en/ise/Content/GettingStarted/TechnicalSupport.htm"
+    last_verified: "2026-10-26"

@@ -1,0 +1,12 @@
+id: arkema
+name: Arkema
+categories: [hvac]
+aliases: []
+support:
+  - category: hvac
+    department: Customer Support
+    phone: "+16102057000"
+    country: US
+    notes: "Specialty chemicals manufacturer (incl. refrigerants/fluoropolymers used in HVAC). US headquarters general line published on arkema.com's King of Prussia HQ page. No chemicals category exists in the TechDirect vocabulary; hvac is used as the closest term given the refrigerant line."
+    source: "https://www.arkema.com/usa/en/united-states/headquarters/king-of-prussia-pa-hq/"
+    last_verified: "2026-10-26"

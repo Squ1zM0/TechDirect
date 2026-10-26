@@ -1,0 +1,14 @@
+id: ironridge
+name: IronRidge
+website: https://www.ironridge.com/
+categories:
+- electrical
+aliases: []
+support:
+- category: electrical
+  department: Technical Support
+  phone: '+18002279523'
+  country: US
+  notes: "Solar racking; an Enstall company. Number labeled CALL TECH SUPPORT on the official about page. Email support@ironridge.com."
+  source: https://www.ironridge.com/company/about/
+  last_verified: '2026-10-26'

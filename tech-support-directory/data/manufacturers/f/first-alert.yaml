@@ -1,0 +1,18 @@
+id: first-alert
+name: "First Alert"
+website: "https://support.firstalert.com/s/article/How-to-Install-a-Hardwired-First-Alert-BRK-or-Onelink-Alarm"
+categories:
+- electrical
+aliases: ["First Alert (BRK Brands)"]
+support:
+- category: electrical
+  department: "Technical Support"
+  phone: "+18003239005"
+  country: US
+  notes: "First Alert, BRK Brands, Inc., 3901 Liberty Street Road, Aurora IL. Official support site lists this First Alert Technical Support line; hours Mon-Fri 9am-8pm CT, Sat-Sun 9am-5:30pm CT. Onelink Home Support 1-833-663-5465 is a separate line for connected products. First Alert Professional (1-800-921-6025) is NOT affiliated with BRK Brands and is not filed. Smoke and CO alarms; electrical is the closest vocabulary term. Covers xref spellings First Alert and First Alert (BRK Brands)."
+  source: "https://support.firstalert.com/s/article/How-to-Install-a-Hardwired-First-Alert-BRK-or-Onelink-Alarm"
+  last_verified: "2026-10-26"
+  hours:
+    timezone: "CT"
+    mon_fri: "9:00 AM - 8:00 PM"
+    sat: "9:00 AM - 5:30 PM"

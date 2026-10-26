@@ -1,0 +1,22 @@
+id: kichler-lighting
+name: Kichler Lighting
+website: https://www.kichler.com/
+categories:
+- electrical
+aliases:
+- Kichler
+- The L.D. Kichler Co
+support:
+- category: electrical
+  department: Customer Support
+  phone: '+18665585706'
+  country: US
+  notes: Lighting fixtures and fans; mail 400 Executive Center Drive, Suite 100, Greenville,
+    SC 29615. Email techsupport@kichler.com per manuals.plus. Older manuals show a
+    superseded 800 number; it is not used as current. Warranty page states Coleto
+    Brands warrants all its products.
+  source: http://www.kichler.com/customer-care/faqs/general
+  last_verified: '2026-10-26'
+  hours:
+    timezone: ET
+    mon_fri: 8:00 AM - 5:00 PM

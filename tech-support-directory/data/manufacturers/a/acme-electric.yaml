@@ -1,0 +1,13 @@
+id: acme-electric
+name: Acme Electric
+website: https://www.hubbell.com/acmeelectric/en
+categories: [electrical]
+aliases: ["ACME ELECTRIC CORP", "Acme"]
+support:
+  - category: electrical
+    department: Customer Support
+    phone: "+18003345214"
+    country: US
+    notes: "Acme Electric (Hubbell) dry-type distribution and industrial control transformers. Toll-free 800-334-5214 printed on Acme Electric/Hubbell catalogs; catalogs direct technical-service inquiries to this number. Covers the Acme, Acme Electric and ACME ELECTRIC CORP xref spellings. NOT Acme Engineering (acmefan.com), a different company."
+    source: "https://hubbellpowersystems.cld.bz/Acme-Section-1-Dry-Type-Distribution-Transformers-AE-CAT-1-001/4"
+    last_verified: "2026-10-26"

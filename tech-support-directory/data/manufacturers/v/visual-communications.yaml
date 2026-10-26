@@ -1,0 +1,13 @@
+id: visual-communications
+name: "Visual Communications Company"
+website: https://vcclite.com
+categories: [electrical]
+aliases: ["VCC"]
+support:
+  - category: electrical
+    department: Customer Support
+    phone: "+18005225546"
+    country: US
+    notes: "Carlsbad CA. Email vccsales@vcclite.com. Panel-mount indicators."
+    source: "https://vcclite.com/product-category/panelmountindicator/incpmi/32inc/"
+    last_verified: "2026-10-26"

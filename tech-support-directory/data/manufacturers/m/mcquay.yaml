@@ -1,0 +1,14 @@
+id: mcquay
+name: McQuay
+website: https://www.daikinapplied.com/
+categories:
+- hvac
+aliases: []
+support:
+- category: hvac
+  department: Service / Repair Dispatch
+  phone: "+18004321342"
+  country: US
+  notes: 'LEGACY: McQuay International to Daikin Applied lineage; Daikin acquired McQuay in 2006, rebranded Daikin-McQuay in 2008, then Daikin Applied in Nov 2013. Own file per legacy rule (not merged into daikin-applied). Successor service dispatch number from Daikin Applied service portfolio and the existing daikin-applied file (id daikin-applied). Chillers, air handlers, rooftop units.'
+  source: https://tahoewebuat.daikinapplied.com/api/general/downloadDocument/media/1700
+  last_verified: "2026-10-26"

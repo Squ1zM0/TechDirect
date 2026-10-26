@@ -1,0 +1,15 @@
+id: hisco
+name: Hisco
+website: https://www.hisco.com/faq
+categories:
+- electrical
+aliases:
+- HISCO
+support:
+- category: electrical
+  department: Customer Support
+  phone: '+18448071902'
+  country: US
+  notes: 'Hisco, Inc., Houston, TX. FAQ customer-service number is primary; corporate 877-447-2650 also published. Industrial supplies, tapes, adhesives. Not the Irish HISCo (Housing Infrastructure Services Company, hisco.ie), which is unrelated.'
+  source: https://www.hisco.com/faq
+  last_verified: '2026-10-26'

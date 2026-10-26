@@ -1,0 +1,13 @@
+id: neugart-usa
+name: Neugart USA
+website: https://www.neugart.com/en-us/
+categories: [hardware]
+aliases: []
+support:
+  - category: hardware
+    department: Customer Support
+    phone: "+19802999800"
+    country: US
+    notes: "Neugart USA Corp., Charlotte NC; email sales@neugartusa.com; gearboxes. Vocabulary note: no machinery term; hardware is closest."
+    source: "https://www.neugart.com/en-us/"
+    last_verified: "2026-10-26"

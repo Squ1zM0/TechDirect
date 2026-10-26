@@ -1,0 +1,13 @@
+id: absolute-process-instruments
+name: Absolute Process Instruments
+website: https://www.api-usa.com
+categories: [electrical]
+aliases: ["API", "Absolute Process Instruments, Inc."]
+support:
+  - category: electrical
+    department: Technical Support
+    phone: "+18009420315"
+    country: US
+    notes: "Absolute Process Instruments (API), Libertyville IL. Manufacturer literature advertises 'fast, knowledgeable, expert technical support' and live customer service at 1-800-942-0315; email info@apiusa.com. Lifetime warranty on signal conditioners."
+    source: "https://api-usa.com/appnotes/api-action-wilkerson-xref.pdf"
+    last_verified: "2026-10-26"

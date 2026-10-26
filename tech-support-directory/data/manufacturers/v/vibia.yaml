@@ -1,0 +1,18 @@
+id: vibia
+name: Vibia
+website: https://www.vibia.com/
+categories:
+- electrical
+aliases:
+- Vibia Lighting
+support:
+- category: electrical
+  department: Customer Support
+  phone: '+17324171700'
+  country: US
+  notes: VIBIA, Inc., 272 Fernwood Ave., Edison, NJ 08837, USA; sales@vibia.com. Vibia manuals direct
+    users to contact the distributor who sold the lamp for malfunctions; the Edison, NJ number above is
+    the published US office number. German retailer number +49 898 208 0620 (nostraforma.com) is not Vibia
+    US support.
+  source: https://manuals.plus/m/5226e3d51e4242456e5ebe3a22df4234de30f496c7aa8277b2c88a97b88f99fd
+  last_verified: '2026-10-26'

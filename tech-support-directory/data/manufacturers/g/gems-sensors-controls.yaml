@@ -1,0 +1,14 @@
+id: gems-sensors-controls
+name: 'Gems Sensors & Controls'
+website: https://www.gemssensors.com/
+categories:
+- electrical
+aliases: []
+support:
+- category: electrical
+  department: 'Customer Support'
+  phone: '+18558779666'
+  country: US
+  notes: 'Email info@gemsensors.com.'
+  source: 'https://www.thomasnet.com/company/gems-sensors-controls-475036/profile'
+  last_verified: '2026-10-26'

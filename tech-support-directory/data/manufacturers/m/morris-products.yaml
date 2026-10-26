@@ -1,0 +1,14 @@
+id: morris-products
+name: Morris Products
+website: https://www.morrisproducts.com
+categories:
+- electrical
+aliases: []
+support:
+- category: electrical
+  department: Customer Support
+  phone: "+18887776678"
+  country: US
+  notes: Queensbury, NY, founded 1994. Electrical connectors, wire management. Local 518-743-0523.
+  source: https://morrisproducts.com/images/NPGL10.pdf
+  last_verified: "2026-10-26"

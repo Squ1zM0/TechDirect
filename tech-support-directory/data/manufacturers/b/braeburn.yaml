@@ -1,0 +1,13 @@
+id: braeburn
+name: Braeburn
+website: https://www.braeburnonline.com
+categories: [hvac-controls]
+aliases: ["Braeburn Systems"]
+support:
+  - category: hvac-controls
+    department: Technical Support
+    phone: "+18662685599"
+    country: US
+    notes: "Braeburn Systems LLC technical assistance for thermostats, zoning and hydronic controls; email custservice@braeburnonline.com. 5-year limited warranty on professionally installed products."
+    source: "https://www.braeburnonline.com/news/braeburn-introduces-new-economy-and-premier-series-thermostats"
+    last_verified: "2026-10-26"

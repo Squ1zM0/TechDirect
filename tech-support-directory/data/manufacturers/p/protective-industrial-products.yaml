@@ -1,0 +1,13 @@
+id: protective-industrial-products
+name: Protective Industrial Products
+website: https://www.pipglobalsafety.com
+categories: [hardware]
+aliases: ["PIP", "PIP Global Safety", "Protective Industrial Products, Inc."]
+support:
+  - category: hardware
+    department: Customer Support
+    phone: "+18002625755"
+    country: US
+    notes: "Protective Industrial Products, Inc. (PIP Global Safety). Americas number published on PIP's own product specification sheets (us.pipglobal.com). Not labelled technical support, so recorded as Customer Support. Safety gloves and PPE (G-Tek, MaxiFlex, Boss, Kut-Gard lines). No PPE/safety term exists in the category vocabulary, so hardware is the closest term. Covers xref spellings PIP and PIP (Protective Industrial Products)."
+    source: "https://us.pipglobal.com/en/dynamic-spec-sheet-API.php?pID=1568"
+    last_verified: "2026-10-26"

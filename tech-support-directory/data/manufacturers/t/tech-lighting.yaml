@@ -1,0 +1,18 @@
+id: tech-lighting
+name: "Tech Lighting"
+website: "https://www.techlighting.com/Home/Accessibility"
+categories: [electrical]
+aliases: []
+support:
+  - category: electrical
+    department: Customer Support
+    phone: "+18888581633"
+    country: US
+    notes: "Tech Lighting lighting fixtures; a Generation Lighting brand per the batch parent field. Customer Relations toll-free line."
+    source: "https://www.techlighting.com/Home/Accessibility"
+    last_verified: "2026-10-26"
+    hours:
+      timezone: "ET"
+      mon_thu: "9:00 AM - 7:00 PM"
+      fri: "9:00 AM - 6:00 PM"
+      sat: "10:00 AM - 3:00 PM"

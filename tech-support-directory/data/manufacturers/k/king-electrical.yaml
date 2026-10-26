@@ -1,0 +1,15 @@
+id: king-electrical
+name: King Electrical Manufacturing Company
+website: https://king-electric.com/
+categories:
+- electrical
+aliases:
+- KING ELECTRICAL MFG CO
+support:
+- category: electrical
+  department: Customer Support
+  phone: '+12067620400'
+  country: US
+  notes: "Electric heaters; 9131 10th Avenue South, Seattle, WA 98108, founded 1958 per a secondary source. Caveat: a MapQuest directory listing marks the Seattle location Closed while the manufacturer's own site and current submittals remain active; closure is not asserted here. Distinguish from LC King Mfg (lcking.com) and King Electric LLC, Fort Collins (kingelectricllc.com, contractor); different companies."
+  source: https://king-electric.com/wp-content/uploads/kel_product_files/KING_KP_KPH_SUBMITTAL.pdf
+  last_verified: '2026-10-26'

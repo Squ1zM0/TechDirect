@@ -1,0 +1,13 @@
+id: bullard
+name: Bullard
+website: https://www.bullard.com
+categories: [hardware]
+aliases: []
+support:
+  - category: hardware
+    department: Customer Support
+    phone: "+18772855273"
+    country: US
+    notes: "Bullard Customer Service (1-877-BULLARD) for hard hats, respirators and other PPE; direct line also published as 859-234-6616; email info@bullard.com. Covers xref variants Bullard and Bullard (Hard Hats). Category mapping: PPE/safety has no dedicated vocabulary term; hardware is the closest."
+    source: "https://www.firerescue1.com/fire-products/thermal-imaging/press-releases/bullard-donates-to-the-firefighter-cancer-support-network-QXBrlgTPVWI20Ztj/"
+    last_verified: "2026-10-26"

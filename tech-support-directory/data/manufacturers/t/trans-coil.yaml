@@ -1,0 +1,19 @@
+id: trans-coil
+name: Trans-Coil
+website: https://transcoil.com/
+categories:
+- electrical
+aliases:
+- TCI
+- TCI Trans-Coil
+support:
+- category: electrical
+  department: Technical Support
+  phone: '+18008248282'
+  country: US
+  notes: TCI, LLC (Trans-Coil Inc.), W132 N10611 Grant Drive, Germantown, WI 53022; sales@transcoil.com.
+    The TCI manual's 'Factory Contacts and Tech Support' section says to contact TCI directly at 800-824-8282
+    and select 'Customer Service' or 'Technical Support'. Line reactors / filters. Radwell 800-884-5500
+    is a distributor number, not TCI support.
+  source: https://files.valinonline.com/userfiles/documents/tci-kmg-user-manual.pdf
+  last_verified: '2026-10-26'

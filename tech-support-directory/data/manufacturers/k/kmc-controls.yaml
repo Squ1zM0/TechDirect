@@ -1,0 +1,15 @@
+id: kmc-controls
+name: KMC Controls, Inc.
+website: https://www.kmccontrols.com/
+categories:
+- hvac-controls
+aliases:
+- KMC
+support:
+- category: hvac-controls
+  department: Customer Support
+  phone: '+18774445622'
+  country: US
+  notes: "BACnet building automation; HQ 19476 Industrial Drive, New Paris, IN 46553; HQ direct 574-831-5250, fax 574-831-5252. A KMC manual gives a toll-free technical support line 866-303-4562, noted only, not filed as primary, because its currency is unverified against the current official site. KMC company documents state technical support 8:00 AM-8:00 PM ET business days for authorized installing contractors. Distinguish from KMC Global Controls and Automation, Kalamazoo, MI (system integrator); different company."
+  source: https://www.kmccontrols.com/
+  last_verified: '2026-10-26'

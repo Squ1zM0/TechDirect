@@ -1,0 +1,13 @@
+id: bulwark
+name: Bulwark
+website: https://www.bulwark.com
+categories: [hardware]
+aliases: ["Bulwark Protection", "Bulwark (FR Clothing)"]
+support:
+  - category: hardware
+    department: Customer Support
+    phone: "+18002233372"
+    country: US
+    notes: "Bulwark Protection, 545 Marriott Dr., Nashville, TN 37214, VF Corporation brand of flame-resistant workwear (shirts, pants, jackets, coveralls) for oil and gas, electric utility, petrochemical and welding trades. Covers xref variants Bulwark and Bulwark (FR Clothing). No apparel category exists in the vocabulary, so FR workwear/PPE maps to hardware. Canada line 1-800-667-0700 also published."
+    source: "https://www.bulwark.com/1951guide.html"
+    last_verified: "2026-10-26"

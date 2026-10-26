@@ -1,0 +1,13 @@
+id: smith-filter
+name: Smith Filter
+website: https://www.smithfilter.com
+categories: [airflow]
+aliases: []
+support:
+  - category: airflow
+    department: Customer Support
+    phone: "+18004474009"
+    country: US
+    notes: "Smith Filter, Moline, IL (air filtration products), now a Rensa Filtration company. Toll-free from manufacturer datasheets; local phone 309-764-8324 also published."
+    source: "https://testing.filtrationworld.com/assets/smith-filter-304-Stainless-Steel-filter-datasheet.pdf"
+    last_verified: "2026-10-26"

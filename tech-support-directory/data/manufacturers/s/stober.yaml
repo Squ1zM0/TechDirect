@@ -1,0 +1,13 @@
+id: stober
+name: "STOBER Drives"
+website: "https://www.stober.com/blog/horizontal-mounting-without-the-headaches/"
+categories: [electrical]
+aliases: ["STOBER"]
+support:
+  - category: electrical
+    department: Customer Support
+    phone: "+18887862371"
+    country: US
+    notes: "STOBER geared motors and servo drives, Maysville KY (1781 Downing Drive). Email sales@stober.com. A separate 24/7 emergency application/installation support number is published; this is the general contact line."
+    source: "https://www.stober.com/blog/horizontal-mounting-without-the-headaches/"
+    last_verified: "2026-10-26"

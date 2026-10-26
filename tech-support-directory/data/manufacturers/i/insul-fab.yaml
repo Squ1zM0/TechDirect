@@ -1,0 +1,14 @@
+id: insul-fab
+name: Insul-Fab
+website: https://www.insulfab.net/
+categories:
+- hvac
+aliases: []
+support:
+- category: hvac
+  department: Customer Support
+  phone: '+18004421338'
+  country: US
+  notes: "Pipe insulation and related products; the filed number is the toll-free line on the official homepage. HQ direct 214-956-0055 and Tyler 903-581-0697 also published on the official site."
+  source: https://www.insulfab.net/
+  last_verified: '2026-10-26'

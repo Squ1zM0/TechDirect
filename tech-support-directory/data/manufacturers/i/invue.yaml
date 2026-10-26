@@ -1,0 +1,14 @@
+id: invue
+name: InVue
+website: https://invue.com/
+categories:
+- electrical
+aliases: []
+support:
+- category: electrical
+  department: Customer Support
+  phone: '+18885546883'
+  country: US
+  notes: "Retail display security (not lighting controls, despite the xref parenthetical guess). NA/LATAM technical assistance 704-752-6513 per an InVue installation guide. Number labeled Customer Support on the official site."
+  source: https://invue.com/about-us
+  last_verified: '2026-10-26'

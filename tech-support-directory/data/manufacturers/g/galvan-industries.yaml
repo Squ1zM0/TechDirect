@@ -1,0 +1,13 @@
+id: galvan-industries
+name: 'Galvan Industries'
+categories:
+- electrical
+aliases: []
+support:
+- category: electrical
+  department: 'Customer Support'
+  phone: '+17044555102'
+  country: US
+  notes: 'Toll-free 800-277-5678 also published. Covers batch spellings Galvan and Galvan Industries.'
+  source: 'https://galvan-ize.com/about-us'
+  last_verified: '2026-10-26'

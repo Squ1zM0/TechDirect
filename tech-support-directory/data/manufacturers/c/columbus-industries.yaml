@@ -1,0 +1,14 @@
+id: columbus-industries
+name: Columbus Industries
+website: https://www.colind.com/
+categories: [hvac]
+aliases: ["Columbus Industries, Inc.", "CI"]
+support:
+  - category: hvac
+    department: Customer Support
+    phone: "+17409832552"
+    email: ci@colind.com
+    country: US
+    notes: "Columbus Industries, Inc., Ashville, OH (since 1965); air filters — expanded metal, charcoal, high-efficiency, furnace, paint-collector and humidifier-pad filters (CI and FITS trademarks). Number per the company's own site and catalogs; West Union, OH production facility line (937) 544-6896 also published. Note: BBB lists the company as believed out of business, but the company's own site (colind.com / columbusindustries.com) is live with the same number, so the BBB flag is recorded as unverified/conflicting, not as a closure."
+    source: "https://www.columbusindustries.com/"
+    last_verified: "2026-10-26"

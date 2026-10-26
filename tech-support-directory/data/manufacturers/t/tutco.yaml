@@ -1,0 +1,16 @@
+id: tutco
+name: Tutco
+website: https://tutco.com/
+categories:
+- hvac
+aliases: []
+support:
+- category: hvac
+  department: Customer Support
+  phone: '+19314324141'
+  country: US
+  notes: TUTCO (Tutco, LLC), Cookeville, TN; customerservice@tutco.com. Conductive / commercial duct heaters.
+    TUTCO SureHeat is a separate division (603-418-7662, support@tutcosureheat.com) and is not substituted
+    for this line. Tutco is a Smiths Group member since April 1994.
+  source: https://tutco.com/commercial-duct/custom-duct-heaters
+  last_verified: '2026-10-26'

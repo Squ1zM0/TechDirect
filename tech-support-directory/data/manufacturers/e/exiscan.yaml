@@ -1,0 +1,14 @@
+id: exiscan
+name: "Exiscan"
+website: "https://exiscan.com/14-labels-tags?start=4"
+categories:
+- electrical
+aliases: []
+support:
+- category: electrical
+  department: "Customer Support"
+  phone: "+15853660333"
+  country: US
+  notes: "Exiscan LLC, 1645 Lyell Ave Ste 136, Rochester, NY 14606. Number printed on exiscan.com pages; email info@exiscan.com. IR inspection windows, ultrasound ports, safety barriers, and durable Metalphoto labels and tags for electrical equipment."
+  source: "https://exiscan.com/14-labels-tags?start=4"
+  last_verified: "2026-10-26"

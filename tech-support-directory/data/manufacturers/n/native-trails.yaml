@@ -1,0 +1,15 @@
+id: native-trails
+name: Native Trails
+categories: [bathroom-systems]
+aliases: []
+support:
+  - category: bathroom-systems
+    department: Customer Support
+    phone: "+18007860862"
+    country: US
+    notes: "Native Trails, Inc.; email mail@nativetrailshome.com."
+    source: "https://assets.specbooks.cloud/brand/native-trails/spec/21368241/document/spec-sb-novzqh.pdf"
+    last_verified: "2026-10-26"
+    hours:
+      timezone: "PT"
+      mon_fri: "7:00 AM - 4:00 PM"

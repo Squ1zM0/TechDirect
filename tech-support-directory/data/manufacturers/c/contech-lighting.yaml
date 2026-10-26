@@ -1,0 +1,13 @@
+id: contech-lighting
+name: ConTech Lighting
+website: https://www.con-techlighting.com
+categories: [electrical]
+aliases: ["Con-Tech Lighting"]
+support:
+  - category: electrical
+    department: Technical Support
+    phone: "+18475595500"
+    country: US
+    notes: "ConTech Lighting (Northbrook, IL) Technical Support department per the manufacturer's own installation instructions: 'Call the Technical Support department at ConTech Lighting with any installation questions: 847.559.5500.'"
+    source: "https://www.manualsdir.com/manuals/464170/contech-lighting-ra6142hemvr-ra6226hemv-ra6218hemv-ra6142hemv-ra6118hemv-ra6113hemv.html"
+    last_verified: "2026-10-26"

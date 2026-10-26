@@ -1,0 +1,13 @@
+id: destaco
+name: DESTACO
+website: https://www.destaco.com
+categories:
+  - hardware
+support:
+  - category: Customer Support
+    department: Customer Support
+    phone: "+18883378226"
+    country: US
+    notes: "DESTACO, a Dover Corporation company, Auburn Hills, MI; manual clamps, power clamps, end effectors, CAMCO and Ferguson indexers, Robohand grippers. No clamp/workholding term in the category vocabulary; hardware used as closest."
+    source: "https://www.dovercorporation.com/news/operating-company-news/post/2021/06/30/destaco-expands-press-shop-solutions-with-new-universal-sheet-metal-grippers"
+    last_verified: "2026-10-26"

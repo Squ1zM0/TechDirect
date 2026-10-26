@@ -1,0 +1,19 @@
+id: krenz
+name: Krenz & Co., Inc.
+website: http://www.krenzvent.com/
+categories:
+- airflow
+aliases:
+- Krenz
+- Krenz & Company
+support:
+- category: airflow
+  department: Customer Support
+  phone: '+12622552310'
+  country: US
+  notes: "Transformer cooling fans, fan controls, and motors; ISO 9001 manufacturer, founded 1931, W132 N10940 Eisenhower Dr., Germantown, WI 53022. BBB Accredited, rating A+. Worldwide leader in transformer cooling fans per trade listings."
+  source: https://www.thomasnet.com/company/krenz--co-inc-00447127/profile
+  last_verified: '2026-10-26'
+  hours:
+    timezone: "CT"
+    mon_fri: "8:00 AM - 4:30 PM"

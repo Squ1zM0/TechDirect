@@ -1,0 +1,13 @@
+id: maclean-power-systems
+name: MacLean Power Systems
+website: "https://www.macleanpower.com/safety-products/"
+categories: [electrical]
+aliases: ["Maclean Power Systems", "MPS"]
+support:
+  - category: electrical
+    department: Customer Support
+    phone: "+18556777447"
+    country: US
+    notes: "MacLean Power Systems (MPS), a MacLean-Fogg company, headquartered Fort Mill, SC (481 Munn Rd E 300); manufacturer of transmission and distribution products for utilities (pole line hardware, connectors, insulators, grounding and safety products, substation equipment), 10,000+ items from six domestic plants. Customer Service line 855-MPS-SHIP from MacLean Power's own site (mpscustomerservice@macleanpower.com also published)."
+    source: "https://www.macleanpower.com/safety-products/"
+    last_verified: "2026-10-26"

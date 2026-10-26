@@ -1,0 +1,12 @@
+id: leeson
+name: Leeson
+categories: [electrical]
+aliases: ["Leeson Electric"]
+support:
+  - category: electrical
+    department: Customer Support
+    phone: "+12623778810"
+    country: US
+    notes: "LEESON electric motors, a Regal Rexnord brand, Grafton, WI. Contact number from Regal Rexnord's 2026 LEESON catalog; Regal Rexnord powertrain customer service 800-626-2120 / technical service 800-626-2093 also published."
+    source: "https://regalrexnord.widen.net/content/45u4jz5x0s/original/MCC-12339-C-EN-US-Web.pdf?u=oisbtu&"
+    last_verified: "2026-10-26"

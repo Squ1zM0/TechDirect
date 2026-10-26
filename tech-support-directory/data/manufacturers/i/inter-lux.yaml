@@ -1,0 +1,14 @@
+id: inter-lux
+name: Inter-Lux
+website: https://www.inter-lux.com/files-space/exterior/
+categories:
+- electrical
+aliases: []
+support:
+- category: electrical
+  department: Customer Support
+  phone: '+14103811497'
+  country: US
+  notes: "Lighting fixtures; post-sales support email postsalessupport@inter-lux.com per the official site footer."
+  source: https://www.inter-lux.com/files-space/exterior/
+  last_verified: '2026-10-26'

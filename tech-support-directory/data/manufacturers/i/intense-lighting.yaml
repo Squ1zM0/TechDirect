@@ -1,0 +1,15 @@
+id: intense-lighting
+name: Intense Lighting, LLC
+website: https://www.intenselighting.com/
+categories:
+- electrical
+aliases:
+- Intense
+support:
+- category: electrical
+  department: Customer Support
+  phone: '+18009615321'
+  country: US
+  notes: "Architectural lighting; number from manufacturer specification sheets hosted by Alcon Lighting."
+  source: https://www.alconlighting.com/specsheets/Intense_Lighting/MXWRTL_MXT-RTLW300.pdf
+  last_verified: '2026-10-26'

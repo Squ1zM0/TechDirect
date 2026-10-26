@@ -1,0 +1,13 @@
+id: gilmour
+name: 'Gilmour Manufacturing'
+categories:
+- hardware
+aliases: []
+support:
+- category: hardware
+  department: 'Customer Support'
+  phone: '+18008522723'
+  country: US
+  notes: 'Second number 800-458-0107 in the same manual. Manual issued under Robert Bosch Tool Corporation; the batch parent Fiskars conflicts with the manual evidence and is recorded, not resolved. Garden watering products, so hardware is the closest vocabulary term.'
+  source: 'https://manualmachine.com/gilmour/turbopumpt1500/22910032-safety-and-operating-instructions-manual/'
+  last_verified: '2026-10-26'

@@ -1,0 +1,13 @@
+id: elster
+name: Elster
+website: https://www.smartenergy.honeywell.com
+categories: [waterworks]
+aliases: ["Elster American Meter Company", "Elster American Meter Co."]
+support:
+  - category: waterworks
+    department: Customer Support
+    phone: "+14028738200"
+    country: US
+    notes: "Elster American Meter Company, LLC (Nebraska City, NE; Honeywell Smart Energy) gas and water meters, including diaphragm, rotary and turbine meters. Number from Honeywell's own Elster brochure and corroborated by business profiles; the AF Brock listing also shows a Honeywell Smart Energy line +1 440-951-5959 (press 3). Category note: no gas-meter vocabulary term exists; waterworks is the closest term for utility metering."
+    source: "https://www.lincenergysystems.com/images/upload/Honeywell_Elster-Rotary-Gas-Meter-Datasheet-c.pdf"
+    last_verified: "2026-10-26"

@@ -1,0 +1,17 @@
+id: torus-power
+name: Torus Power
+website: https://www.toruspower.com/
+categories:
+- electrical
+aliases:
+- Torus
+support:
+- category: electrical
+  department: Customer Support
+  phone: '+18773379480'
+  country: US
+  notes: Torus Power (Plitron Manufacturing), Toronto, ON, Canada. The published line is a North American
+    toll-free line (newer toruspower.com pages). Older toruspower.com material lists (800) 754-8766 and
+    tech@toruspower.com; sales@toruspower.com is current. Power / isolation transformers.
+  source: https://www.toruspower.com/670-2/
+  last_verified: '2026-10-26'

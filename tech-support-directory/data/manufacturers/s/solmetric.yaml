@@ -1,0 +1,13 @@
+id: solmetric
+name: Solmetric
+website: https://www.solmetric.com
+categories: [electrical]
+aliases: []
+support:
+  - category: electrical
+    department: Technical Support
+    phone: "+18772635026"
+    country: US
+    notes: "Solmetric, Sebastopol, CA (PV analyzers and I-V curve tracers for solar commissioning and O&M; PVA-1500 series, now also sold as Fluke Solmetric). Technical support email support@solmetric.com; direct line 707-823-4600 also published."
+    source: "https://www.solmetric.com/wp-content/uploads/2023/06/Solmetric_PV_Analyzer_1500XX_Users_Guide_en.pdf"
+    last_verified: "2026-10-26"

@@ -1,0 +1,12 @@
+id: new-york-state-tool
+name: New York State Tool
+categories: [hardware]
+aliases: ["NYST"]
+support:
+  - category: hardware
+    department: Customer Support
+    phone: "+13157378985"
+    country: US
+    notes: "New York State Tool (NYST), Chadwicks NY (3343 Oneida St); custom solid round carbide tools for aerospace/defense. Acquired by ARCH Cutting Tools (PRWeb); no ARCH file exists in the reference, so the brand keeps its own file with its own published number."
+    source: "https://www.cbinsights.com/company/new-york-state-tool/"
+    last_verified: "2026-10-26"

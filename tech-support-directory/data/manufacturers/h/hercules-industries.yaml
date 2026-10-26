@@ -1,0 +1,19 @@
+id: hercules-industries
+name: Hercules Industries
+website: https://www.herculesindustries.com/
+categories:
+- hvac
+aliases:
+- Hercules
+support:
+- category: hvac
+  department: Customer Support
+  phone: '+18003565350'
+  country: US
+  notes: 'Hercules Industries, Denver, CO. HQ 303-937-1000; email info@hercmail.com. Sheet metal, ductwork.'
+  source: https://www.herculesindustries.com/about
+  last_verified: '2026-10-26'
+  hours:
+    timezone: MT
+    mon_fri: '6:30am-4pm'
+    sat: '8am-12pm'

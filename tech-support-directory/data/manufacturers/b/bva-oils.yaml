@@ -1,0 +1,13 @@
+id: bva-oils
+name: BVA
+website: https://www.bvaoils.com
+categories: [hvac]
+aliases: ["BVA Oils", "BVA Inc."]
+support:
+  - category: hvac
+    department: Customer Support
+    phone: "+12483484920"
+    country: US
+    notes: "BVA Inc., New Hudson/Commerce Township, MI, founded 1983 by Robert Vincent, independent manufacturer of compressor and refrigeration lubricants (mineral, alkylbenzene and POE oils, Auto 100). Per the xref correction note, BVA is CURRENT and INDEPENDENT; Johnstone ACE Chemical/Nu-Calgon facets are distribution mapping, not acquisition, and the American Chemical Exchange (ACE) acquired in 2008 is a different company. Customer Service line printed on BVA safety data sheets."
+    source: "https://contentassets.autozone.com/safety_data_sheet/USA/1349431.pdf"
+    last_verified: "2026-10-26"

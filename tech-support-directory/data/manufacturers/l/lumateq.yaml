@@ -1,0 +1,12 @@
+id: lumateq
+name: Lumateq
+website: "https://lumateq.com"
+categories: [electrical]
+support:
+  - category: electrical
+    department: Customer Support
+    phone: "+13057702392"
+    country: US
+    notes: "LUMATEQ, a division of TACO Metals, Inc., Miami, FL (50 NE 179 Street); LED retrofit kits and landscape lighting. Number from LUMATEQ's own product manuals (2014); currency of the number is unverified beyond those manuals, noted here honestly."
+    source: "https://www.manualsdir.com/manuals/384651/lumateq-lt848-20-110-00.html"
+    last_verified: "2026-10-26"

@@ -1,0 +1,12 @@
+id: bayco-products
+name: Bayco Products
+categories: [electrical]
+aliases: ["Bayco (Lights)", "Nightstick"]
+support:
+  - category: electrical
+    department: Customer Support
+    phone: "+18002332155"
+    country: US
+    notes: "Professional lighting (Nightstick flashlights, headlamps, work lights, weapon lights), Wylie TX (640 South Sanden Blvd). Toll-free line published in Bayco/Nightstick manuals; local line 469-326-9400 and info@baycoproducts.com also published. No lighting category exists in the TechDirect vocabulary, so electrical is used as the closest term."
+    source: "https://www.manua.ls/nightstick/tac-550/manual"
+    last_verified: "2026-10-26"

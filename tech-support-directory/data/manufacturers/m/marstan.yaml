@@ -1,0 +1,13 @@
+id: marstan
+name: Marstan
+categories:
+- hvac
+aliases: []
+support:
+- category: hvac
+  department: Customer Support
+  phone: "+17637549487"
+  country: US
+  notes: 'PVS/HVAC duct manufacturer, Minneapolis, MN, since 1973. Near-miss MARS rejected. Excluded confounders: dead MARSTAN trademark of Snap-Tite Technologies (solenoid valves, dead 2005) and Marstan Press Ltd (UK printer).'
+  source: https://www.thomasnet.com/company/marstan-inc-20035929/profile
+  last_verified: "2026-10-26"

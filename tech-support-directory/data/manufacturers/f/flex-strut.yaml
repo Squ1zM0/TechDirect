@@ -1,0 +1,14 @@
+id: flex-strut
+name: "Flex-Strut"
+website: "https://flexstrut.com/about-us"
+categories:
+- hardware
+aliases: []
+support:
+- category: hardware
+  department: "Customer Support"
+  phone: "+18003978788"
+  country: US
+  notes: "Flex-Strut Inc., 2900 Commonwealth Ave NE, Warren OH, since 1994. Number is 1-800-FX-STRUT; alternate (330) 372-9999. Strut channel framing; hardware is the closest vocabulary term."
+  source: "https://flexstrut.com/about-us"
+  last_verified: "2026-10-26"

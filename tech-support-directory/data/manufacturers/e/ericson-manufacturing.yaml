@@ -1,0 +1,13 @@
+id: ericson-manufacturing
+name: "Ericson Manufacturing"
+categories:
+- electrical
+aliases: ["Ericson", "ERICSON MFG CO"]
+support:
+- category: electrical
+  department: "Customer Support"
+  phone: "+18003742766"
+  country: US
+  notes: "Ericson Manufacturing, Willoughby OH, founded 1918. Number is 1-800-ERICSON. Email info@ericson.com. Temporary power and lighting, cable reels. Covers xref spellings Ericson, Ericson Manufacturing, and ERICSON MFG CO. NOT Erickson Electrical Equipment (Elk Grove Village IL), which is a separate company with its own file."
+  source: "https://www.ericson.com/Image/GetDocument/en/145/l1000911%20-%20ericson%20lighting%20layout%20support.pdf"
+  last_verified: "2026-10-26"

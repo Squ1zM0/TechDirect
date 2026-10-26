@@ -1,0 +1,13 @@
+id: carborundum-abrasives
+name: Carborundum Abrasives
+website: https://mcstaging.emisupply.com/media/document/file/c/a/carborundum-983534-sds.pdf
+categories: [hardware]
+aliases: ["Carborundum"]
+support:
+  - category: hardware
+    department: Customer Support
+    phone: "+15087955000"
+    country: US
+    notes: "Legacy brand file: Carborundum is a historic Saint-Gobain abrasives brand; current support is via Saint-Gobain Abrasives, Inc. (Worcester, MA), whose general line is published on Saint-Gobain abrasives safety data sheets (Nortonabrasives.com). Abrasives; category mapped to closest vocabulary term hardware."
+    source: "https://mcstaging.emisupply.com/media/document/file/c/a/carborundum-983534-sds.pdf"
+    last_verified: "2026-10-26"

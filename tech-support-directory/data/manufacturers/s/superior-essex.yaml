@@ -1,0 +1,13 @@
+id: superior-essex
+name: "Superior Essex"
+website: "https://superioressexcommunications.com"
+categories: [electrical]
+aliases: ["Superior/Essex"]
+support:
+  - category: electrical
+    department: Customer Support
+    phone: "+18005518948"
+    country: US
+    notes: "Superior Essex communications cable (premises copper and fiber, outside plant, fire alarm and security). Toll-free line per the June 2026 ADI catalog."
+    source: "https://cdn.adiglobaldistribution.us/pim/Original/June-2026/UY_1220115_Manufacturer_Brochure.pdf"
+    last_verified: "2026-10-26"

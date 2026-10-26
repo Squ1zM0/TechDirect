@@ -1,0 +1,16 @@
+id: tp-link
+name: TP-Link
+website: https://www.tp-link.com/
+categories:
+- electrical
+aliases: []
+support:
+- category: electrical
+  department: Technical Support
+  phone: '+18662258139'
+  country: US
+  notes: Official TP-Link support contact number (TP-Link USA support FAQ). TP-Link USA Corp. main +1
+    626-333-0234 and SMB business support 1-844-287-4762 are not substituted for this support line. Networking
+    products.
+  source: https://www.tp-link.com/us/support/faq/1963/
+  last_verified: '2026-10-26'

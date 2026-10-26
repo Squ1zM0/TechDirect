@@ -1,0 +1,16 @@
+id: cyberpower
+name: CyberPower
+website: https://www.cyberpowersystems.com
+categories: [electrical]
+aliases: ["Cyber Power Systems"]
+support:
+  - category: electrical
+    department: Technical Support
+    phone: "+18772976937"
+    country: US
+    notes: "CyberPower Technical Support per the manufacturer's own UPS manuals; email tech@cpsww.com. UPS systems and power protection (Shakopee, MN)."
+    source: "https://manuals.plus/cyberpower/bp192vl2u01-smart-app-online-ups-system-manual.pdf"
+    last_verified: "2026-10-26"
+    hours:
+      timezone: "CT"
+      mon_fri: "7:00 AM - 6:00 PM"

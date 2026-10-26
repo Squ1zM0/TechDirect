@@ -1,0 +1,13 @@
+id: sog
+name: SOG
+website: https://www.sogknives.com
+categories: [hardware]
+aliases: []
+support:
+  - category: hardware
+    department: Customer Support
+    phone: "+18772698490"
+    country: US
+    notes: "SOG Specialty Knives & Tools LLC, Lynnwood, WA (knives, multi-tools; founded 1986; lifetime warranty on defects in materials and workmanship). Local phone 425-771-6230 also published; email support@sogknives.com."
+    source: "https://www.sogknives.com/lifetime-warranty/"
+    last_verified: "2026-10-26"

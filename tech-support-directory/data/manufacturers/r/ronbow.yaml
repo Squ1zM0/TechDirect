@@ -1,0 +1,18 @@
+id: ronbow
+name: Ronbow
+website: https://ronbow.com/
+categories:
+- bathroom-systems
+aliases: []
+support:
+- category: bathroom-systems
+  department: Customer Support
+  phone: '+18888808318'
+  country: US
+  notes: Ronbow, Fremont, CA. Direct 510-713-1188; contact@ronbow.com; Mon-Fri 7:30 am-4:00 pm PST. The current ronbow.com blog directs warranty claims to email; the published phone is retained from the
+    brand's own documents. Vanities, sinks, bath furniture.
+  source: Ronbow spec sheet
+  last_verified: '2026-10-26'
+  hours:
+    timezone: PT
+    mon_fri: 7:30 AM - 4:00 PM

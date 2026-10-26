@@ -1,0 +1,12 @@
+id: baselite
+name: Baselite
+categories: [electrical]
+aliases: ["Baselite Corporation", "BASELITE CORP"]
+support:
+  - category: electrical
+    department: Customer Support
+    phone: "+18779991990"
+    country: US
+    notes: "Architectural and industrial-style lighting (pendants, vapor jars, Machine Age collection), Chino CA (12260 East End Ave, Chino CA 91710); local line 909-548-4554 and sales@baselite.com also published on baselite.com spec sheets. No lighting category exists in the TechDirect vocabulary, so electrical is used as the closest term. Covers both xref spellings: Baselite and BASELITE CORP are the same company."
+    source: "https://www.baselite.com/wp-content/uploads/2024/11/Halo-Collection-LED.pdf"
+    last_verified: "2026-10-26"

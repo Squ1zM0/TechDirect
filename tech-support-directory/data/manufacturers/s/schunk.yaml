@@ -1,0 +1,16 @@
+id: schunk
+name: SCHUNK
+website: https://schunk.com/us_en/homepage
+categories:
+- hardware
+aliases:
+- SCHUNK USA
+support:
+- category: hardware
+  department: Customer Support
+  phone: '+19195722705'
+  country: US
+  notes: SCHUNK USA (SCHUNK Intec Inc.), 211 Kitty Hawk Drive, Morrisville, NC 27560. info@us.schunk.com. Gripping systems and clamping technology; hardware is the closest vocabulary term. Individual technical
+    contacts' direct numbers are personal lines and are not published; the company number is used.
+  source: SCHUNK catalog PDF (Plant Morrisville/North Carolina, USA, Tel +1-919-572-2705)
+  last_verified: '2026-10-26'

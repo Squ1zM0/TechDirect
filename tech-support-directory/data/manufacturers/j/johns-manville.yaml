@@ -1,0 +1,14 @@
+id: johns-manville
+name: Johns Manville
+website: https://www.jm.com/
+categories:
+- hvac
+aliases: []
+support:
+- category: hvac
+  department: Customer Support
+  phone: '+18006543103'
+  country: US
+  notes: "Building insulation; a Berkshire Hathaway company, founded 1858. HQ 303-978-2000, 8:00 AM-5:00 PM M-F per JM safety data sheets. JM TechConnect is the technical resource."
+  source: https://www.manualshelf.com/manual/johns-manville/u1344/specification-english/page-2.html
+  last_verified: '2026-10-26'

@@ -1,0 +1,15 @@
+id: jmf-company
+name: JMF Company
+website: https://jmfcompany.com/
+categories:
+- hvac
+- plumbing
+aliases: []
+support:
+- category: hvac
+  department: Customer Support
+  phone: '+18003973739'
+  country: US
+  notes: "Copper tubing, line sets, copper fittings, push-to-fit, PEX, and ball, gas, and plumbing valves; 2735 62nd Street Court, Bettendorf, IA 52722. Direct 563-332-9200 also published. Note: the xref hint says HVAC sheet metal and duct fittings, but the actual JMF line is tubing, fittings, and valves; both hvac and plumbing categories are filed."
+  source: http://jmfcompany.com/PDF/Insulated%20Copper%20Tube%20Submittal.pdf
+  last_verified: '2026-10-26'

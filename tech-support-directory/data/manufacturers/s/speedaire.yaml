@@ -1,0 +1,12 @@
+id: speedaire
+name: Speedaire
+categories: [pumps]
+aliases: []
+support:
+  - category: pumps
+    department: Customer Support
+    phone: "+18003230620"
+    country: US
+    notes: "Speedaire is Grainger's private-label brand of air compressors and compressor parts; there is no independent Speedaire manufacturer. Repair parts support routes to Grainger Parts, Northbrook, IL, 24 hours a day, 365 days a year. Category pumps is the closest vocabulary term for air compressors."
+    source: "https://manualmachine.com/speedaire/15d802/20204446-operating-instructions-manual/"
+    last_verified: "2026-10-26"

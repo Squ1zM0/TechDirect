@@ -1,0 +1,13 @@
+id: bolt-star
+name: Bolt Star
+website: https://bolt-star.com
+categories: [hardware]
+aliases: ["Bolt Star LLC", "BOLT STAR"]
+support:
+  - category: hardware
+    department: Customer Support
+    phone: "+18443807827"
+    country: US
+    notes: "Bolt Star LLC, Granite Bay, CA, manufacturer of the BOLT STAR line of bolt templates for pole-base anchor bolts (18, 20, 24 and 30 inch sizes). All BOLT STAR tools and accessories are 100% manufactured in the USA. Toll-free 844-380-STAR from the company's own press release."
+    source: "https://bolt-star.com/wp-content/uploads/2022/04/Bolt-Star-LLC_PressRelease_Bolt-Star-20-Kit_April-2022-REVISED.pdf"
+    last_verified: "2026-10-26"

@@ -1,0 +1,13 @@
+id: rayovac
+name: Rayovac
+website: https://www.energizer.com/
+categories: [electrical]
+aliases: ["RAYOVAC CORP"]
+support:
+  - category: electrical
+    department: Customer Support
+    phone: "+18003837323"
+    country: US
+    notes: "Rayovac is an Energizer Holdings brand; support via Energizer Consumer Support. Own file per the legacy rule; no Energizer file exists, so Rayovac is not merged away. An older Rayovac hearing-aid number also appears in older releases and is not published as equivalent."
+    source: "https://content.instructables.com/F86/CPVH/GZ6I5JPJ/F86CPVHGZ6I5JPJ.pdf"
+    last_verified: "2026-10-26"

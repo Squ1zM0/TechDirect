@@ -1,0 +1,14 @@
+id: keco
+name: KECO Pump & Equipment
+website: https://pumpahead.com/
+categories:
+- pumps
+aliases: []
+support:
+- category: pumps
+  department: Customer Support
+  phone: '+18009007867'
+  country: US
+  notes: "Marina pumpout and vacuum systems, est. 1954, 3rd-generation family owned, San Diego area. Direct 619-298-3800 also published. Distinguished from Keco Engineered Controls (Lakewood, NJ distributor) and KECO Membrane Technology (Houston gas analysis); neither is this company."
+  source: https://www.pumpahead.com/PDF/VAC1000-SS.pdf
+  last_verified: '2026-10-26'

@@ -1,0 +1,12 @@
+id: pn-products
+name: PN Products
+categories: [hardware]
+aliases: ["PN Products, Scandia"]
+support:
+  - category: hardware
+    department: Customer Support
+    phone: "+16514335501"
+    country: US
+    notes: "PN Products, Scandia, MN (21060 Ozark Ct N, Scandia, MN 55073). Custom manufacturer of plastic materials since 1984: molding to 72 in. size, CNC plastics routing, thermoforming, vacuum forming, prototyping and assembly. Listed as a carried brand on Border States' electrical/industrial brand list. No plastics term exists in the category vocabulary, so hardware is the closest term."
+    source: "https://www.thomasnet.com/suppliers/minnesota/all-cities/polyethylene-plastic-materials-59764803"
+    last_verified: "2026-10-26"

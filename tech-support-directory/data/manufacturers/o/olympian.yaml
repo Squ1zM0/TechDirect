@@ -1,0 +1,13 @@
+id: olympian
+name: Olympian
+website: https://www.caterpillar.com/en/contact.html
+categories: [electrical]
+aliases: []
+support:
+  - category: electrical
+    department: Customer Support
+    phone: "+18886144328"
+    country: US
+    notes: "Legacy brand: Olympian generator sets are a Caterpillar brand (Caterpillar brand lists include Olympian alongside Cat, Perkins, FG Wilson); support via the Caterpillar Corporate Contact Center (toll-free) and the Cat dealer network. No Caterpillar file exists in the reference, so Olympian keeps its own legacy file with the successor's published number. Cat Customer Care 1-888-228-1460 also appears in official Caterpillar SMS terms. Vocabulary note: no generator term; electrical is closest."
+    source: "https://www.caterpillar.com/en/contact.html"
+    last_verified: "2026-10-26"

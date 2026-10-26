@@ -1,0 +1,13 @@
+id: webco-industries
+name: "Webco Industries"
+website: https://www.webcotube.com
+categories: [piping-systems]
+aliases: []
+support:
+  - category: piping-systems
+    department: Customer Support
+    phone: "+19182452211"
+    country: US
+    notes: "24-hour service; Sand Springs OK; distribution support 918-246-2440 also published. Steel tube/pipe."
+    source: "https://www.webcotube.com/about-webco/history/"
+    last_verified: "2026-10-26"

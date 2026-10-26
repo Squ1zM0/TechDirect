@@ -1,0 +1,14 @@
+id: he-williams
+name: 'H.E. Williams, Inc.'
+website: https://hew.com/
+categories:
+- electrical
+aliases: []
+support:
+- category: electrical
+  department: 'Customer Support'
+  phone: '+14173584065'
+  country: US
+  notes: 'Carthage, MO. Covers batch spellings H.E. Williams and H.E. WILLIAMS LIGHTING.'
+  source: 'https://hew.com/index.php/markets'
+  last_verified: '2026-10-26'

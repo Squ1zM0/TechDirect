@@ -1,0 +1,13 @@
+id: pomona-electronics
+name: Pomona Electronics
+website: https://www.pomonaelectronics.com
+categories: [electrical]
+aliases: ["Pomona", "Pomona Test"]
+support:
+  - category: electrical
+    department: Technical Support
+    phone: "+18002412060"
+    country: US
+    notes: "Pomona Electronics, Everett, WA, a Fluke company. Pomona's own catalogs publish a distinct Technical Support number (1-800-241-2060) and technicalsupport@pomonatest.com, plus Sales 800-490-2361 and International 425-446-5500, so Pomona gets its own file rather than resolving to the existing Fluke file. Test accessories: banana plugs, test leads, grabbers and test clips, patch cords, DMM and oscilloscope probe kits, IC test clips; 50+ years in business."
+    source: "https://manuals.plus/m/b6d1764b50ff4f371731d6be0d3afcb6d95bd8878be1ce3f5de62dbf1e68c702"
+    last_verified: "2026-10-26"

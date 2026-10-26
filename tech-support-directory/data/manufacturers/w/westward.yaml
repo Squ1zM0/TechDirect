@@ -1,0 +1,13 @@
+id: westward
+name: "Westward"
+website: https://www.grainger.com
+categories: [hardware]
+aliases: []
+support:
+  - category: hardware
+    department: Customer Support
+    phone: "+18004724643"
+    country: US
+    notes: "Grainger private label. No Grainger file exists, so parent-resolution is unavailable; Westward support routes through Grainger customer service, and Grainger's published customer-service number (1-800-GRAINGER) is used with that linkage noted, not presented as a Westward-only line. Source strength: Grainger help-page aggregation plus a Grainger Canada Westward manual, not a fetched grainger.com contact page. A Grainger repair-parts line is noted as secondary. Parent: Grainger (Westward private label)."
+    source: "https://new.grainger.ca/ec/pdf/1VW33_1.pdf"
+    last_verified: "2026-10-26"

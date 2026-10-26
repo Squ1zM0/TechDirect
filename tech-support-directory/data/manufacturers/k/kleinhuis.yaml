@@ -1,0 +1,14 @@
+id: kleinhuis
+name: Kleinhuis
+website: https://www.kleinhuis.de/
+categories:
+- electrical
+aliases: []
+support:
+- category: electrical
+  department: Customer Support
+  phone: '+49264456060'
+  country: DE
+  notes: "Cable laying systems, cable trays, and trunking; Hermann Kleinhuis GmbH and Co. KG, part of the Niedax Group with Niedax GmbH and Co. KG and Fintech GmbH, per the official Kleinhuis site. THIN SOURCING: the official site publishes only the Niedax group central line, which is the filed number. Email info@kleinhuis.de appears in EU GPSR product-safety blocks on distributor listings. Address Asbacher Str. 141, 53545 Linz/Rhein, Germany, per those blocks. Radwell lists the brand as NIEDAXKLEINHUIS, noted only. No US line found; no US line invented."
+  source: https://www.kleinhuis.de/
+  last_verified: '2026-10-26'

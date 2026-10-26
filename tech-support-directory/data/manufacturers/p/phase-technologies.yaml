@@ -1,0 +1,13 @@
+id: phase-technologies
+name: Phase Technologies
+website: https://www.phasetechnologies.com
+categories: [electrical]
+aliases: ["Phase Technologies, LLC"]
+support:
+  - category: electrical
+    department: Technical Support
+    phone: "+18662507934"
+    country: US
+    notes: "Phase Technologies, LLC, Rapid City, SD (222 Disk Drive). Toll-free number published on the Phase Technologies Product Service and Support page: Service Department (problems with a product and parts orders) option 2, Sales Department (installation, programming, setup) option 1; local (605) 343-7934. Business hours Mon-Fri 8:00 AM-5:00 PM MDT. Phase Perfect digital phase converters and variable frequency drives; founded 1999."
+    source: "https://legacy.phasetechnologies.com/support"
+    last_verified: "2026-10-26"

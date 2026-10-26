@@ -1,0 +1,13 @@
+id: duncan-bolt
+name: Duncan Bolt
+website: https://www.duncanbolt.com
+categories: [hardware]
+aliases: ["Duncan Bolt Company"]
+support:
+  - category: hardware
+    department: Customer Support
+    phone: "+18007981939"
+    country: US
+    notes: "Duncan Bolt (Santa Fe Springs, CA, founded 1953) full-line fastener distributor/manufacturer. Toll-free line from the company's own catalogs; HQ direct 562-698-8800 also published."
+    source: "http://duncanbolt.com/wp-content/uploads/2021/09/SplitLoom2.pdf"
+    last_verified: "2026-10-26"

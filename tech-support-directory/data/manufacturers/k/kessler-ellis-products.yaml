@@ -1,0 +1,14 @@
+id: kessler-ellis-products
+name: Kessler-Ellis Products Co.
+website: https://kep.com/
+categories:
+- electrical
+aliases: []
+support:
+- category: electrical
+  department: Customer Support
+  phone: '+18006312165'
+  country: US
+  notes: "Counters, timers, process instruments, PLC interfaces, and HMI; HQ Eatontown, NJ, 10 Industrial Way East, 07724. Direct 732-935-1320 and info@kep.com also published. Counting and timing division acquired by Trumeter in 2015; KEP continues its other product ranges. Distinguish from Kent Elastomer Products (also KEP, medical tubing), a different company."
+  source: https://kep-products.ru/images/Kessler-Ellis_Products_full_catalog_09.pdf
+  last_verified: '2026-10-26'

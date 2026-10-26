@@ -1,0 +1,13 @@
+id: finder
+name: "Finder"
+categories:
+- electrical
+aliases: ["Finder Relays"]
+support:
+- category: electrical
+  department: "Customer Support"
+  phone: "+390119346211"
+  country: IT
+  notes: "Finder S.p.A., Via Drubiaglio 14, Almese TO, Italy. No published US support line was found, so the Italian HQ number is filed with country IT per program rules, never inventing a US line. Email export@findernet.com. Relays and timers. Covers xref spellings Finder and Finder Relays."
+  source: "https://manuals.plus/finder/5150-72-series-level-control-relays-manual"
+  last_verified: "2026-10-26"

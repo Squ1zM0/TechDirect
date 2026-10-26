@@ -1,0 +1,14 @@
+id: moore-industries
+name: Moore Industries-International, Inc.
+website: https://www.miinet.com
+categories:
+- electrical
+aliases: []
+support:
+- category: electrical
+  department: Customer Support
+  phone: "+18009992900"
+  country: US
+  notes: North Hills, CA, founded 1968. Process instrumentation (transmitters, isolators, HART). Email info@miinet.com; HQ (818) 894-7111.
+  source: https://www.miinet.com/contact-worldwide-offices.html
+  last_verified: "2026-10-26"

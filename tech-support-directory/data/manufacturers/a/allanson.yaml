@@ -1,0 +1,13 @@
+id: allanson
+name: Allanson
+website: https://allanson.com/
+categories: [electrical]
+aliases: ["Allanson International"]
+support:
+  - category: electrical
+    department: Customer Support
+    phone: "+18006689162"
+    country: CA
+    notes: "Allanson International, 83 Commerce Valley Dr. East, Markham, ON L3T 7T3, Canada. Manufacturer of lighting components (transformers, ballasts, ignitors, LED power supplies) since 1927. Email cservice@allanson.com. US office: Farmingdale, NY, (631) 293-3880. Older US customer-service line 1-800-559-3659 appears in older literature; the current published main line is used here."
+    source: "https://allanson.com/"
+    last_verified: "2026-10-26"

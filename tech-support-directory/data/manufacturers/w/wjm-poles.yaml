@@ -1,0 +1,13 @@
+id: wjm-poles
+name: "WJM Poles"
+website: https://www.wjmpoles.com
+categories: [electrical]
+aliases: ["WJM Partners, Inc."]
+support:
+  - category: electrical
+    department: Customer Support
+    phone: "+19793354212"
+    country: US
+    notes: "WJM Partners, Inc.; East Bernard TX. Steel and aluminum lighting poles since 1972. CONFLICT: a RocketReach record lists a Long Lake MN address and furniture NAICS codes, which do not match the TX lighting-pole company; the TX record is used, the MN record is not."
+    source: "https://score.transcredit.com/wjm-poles.html"
+    last_verified: "2026-10-26"

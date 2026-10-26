@@ -1,0 +1,13 @@
+id: alnor
+name: Alnor
+website: https://tsi.com
+categories: [airflow]
+aliases: ["Alnor Products", "Alnor Instruments"]
+support:
+  - category: airflow
+    department: Customer Support
+    phone: "+18006801220"
+    country: US
+    notes: "Alnor is TSI Incorporated's airflow-instrument brand (Balometer capture hoods, micromanometers, anemometers, air velocity meters); service contact in TSI's own Alnor manuals is TSI Incorporated, Alnor Products, 500 Cardigan Road, Shoreview, MN 55126-3996, Tel (800) 680-1220 / (651) 490-2860, with annual factory recalibration via tsi.com/service. No standalone TSI file exists in TechDirect, so Alnor keeps its own file with TSI's published Alnor service number."
+    source: "https://tsi.com/getmedia/223d5f2f-b8fa-417d-9f99-5dbead1d9e21/Alnor_AVM440A-Airflow_TA440A-1980584-web.pdf?ext=.pdf"
+    last_verified: "2026-10-26"

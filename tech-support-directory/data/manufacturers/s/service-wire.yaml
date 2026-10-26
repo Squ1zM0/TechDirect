@@ -1,0 +1,13 @@
+id: service-wire
+name: Service Wire
+website: https://www.servicewire.com
+categories: [electrical]
+aliases: []
+support:
+  - category: electrical
+    department: Customer Support
+    phone: "+18002319473"
+    country: US
+    notes: "Service Wire Company (wire and cable manufacturer, Culloden, WV). Additional published numbers 800-624-3572 and 877-623-9473 appear on the same company flyer."
+    source: "https://www.servicewire.com/ServiceWire/ReferenceDocs/Markets/Semiconductor_Flyer.pdf"
+    last_verified: "2026-10-26"

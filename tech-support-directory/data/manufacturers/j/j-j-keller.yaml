@@ -1,0 +1,17 @@
+id: j-j-keller
+name: J. J. Keller & Associates, Inc.
+website: https://www.jjkeller.com/
+categories:
+- hardware
+aliases: []
+support:
+- category: hardware
+  department: Customer Support
+  phone: '+18775642333'
+  country: US
+  notes: "Safety and compliance products, training, and services; founded 1953, Neenah, WI, 3003 Breezewood Lane, Neenah, WI 54957. 24/7 ELD and permit help lines also published: KellerPermits 800-231-5266 and ELD Driver Support 800-327-1342. Email support@jjkeller.com."
+  source: https://www.jjkeller.com/ContactUsFormView?catalogId=10551&langId=-1&storeId=10151
+  last_verified: '2026-10-26'
+  hours:
+    timezone: "CT"
+    mon_fri: "7:00 AM - 6:00 PM"

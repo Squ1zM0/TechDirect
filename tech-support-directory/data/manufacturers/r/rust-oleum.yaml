@@ -1,0 +1,17 @@
+id: rust-oleum
+name: Rust-Oleum
+website: https://www.rustoleum.com/
+categories:
+- hardware
+aliases:
+- Rust-Oleum Industrial Paints
+- Rustoleum
+support:
+- category: hardware
+  department: Support
+  phone: '+18004814785'
+  country: US
+  notes: Rust-Oleum Corporation, Vernon Hills, IL. Department is the source's own label (product support). CPID records also list Customer Service 800-323-3584. Paints and coatings; hardware is the closest
+    vocabulary term.
+  source: Rust-Oleum product labels (contact Rust-Oleum product support at 800-481-4785) and CPID records
+  last_verified: '2026-10-26'

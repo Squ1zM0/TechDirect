@@ -1,0 +1,13 @@
+id: east-penn-manufacturing
+name: East Penn Manufacturing
+website: https://www.eastpennmanufacturing.com
+categories: [electrical]
+aliases: ["East Penn Mfg."]
+support:
+  - category: electrical
+    department: Technical Support
+    phone: "+16106824231"
+    country: US
+    notes: "East Penn Manufacturing (Lyon Station, PA) batteries, wire, cable and battery accessories. The company's SDS labels this number 'Technical Assistance'/Customer Service; recorded as Technical Support per that label."
+    source: "https://www.eastpennmanufacturing.com/divisions/wire-cable-and-battery-accessories/attachment/6001/"
+    last_verified: "2026-10-26"

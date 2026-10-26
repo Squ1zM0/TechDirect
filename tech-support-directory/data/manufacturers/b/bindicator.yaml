@@ -1,0 +1,13 @@
+id: bindicator
+name: Bindicator
+website: https://www.bindicator.com
+categories: [electrical]
+aliases: ["Bindicator®"]
+support:
+  - category: electrical
+    department: Customer Support
+    phone: "+18007789242"
+    country: US
+    notes: "Bindicator, Spartanburg, SC, maker of bin level indicators and level measurement devices for the dry bulk industry since 1936. Company manuals direct users to 'Customer Support' at this number. Category mapped from level controls/instrumentation to electrical (no instrumentation term in the vocabulary)."
+    source: "https://www.specialtyproducttechnologies.com/docs/default-source/manuals/bindicator/roto-bin-dicator-pro-installation-operation-manual.pdf?sfvrsn=7&srsltid=AfmBOoo5jz1_C7nBhx3M4dGQQ7NgbuL2fAncApbf1K-pz2sl3TL-vq9g"
+    last_verified: "2026-10-26"

@@ -1,0 +1,13 @@
+id: socomec
+name: Socomec
+website: https://www.socomec.com
+categories: [electrical]
+aliases: []
+support:
+  - category: electrical
+    department: Customer Support
+    phone: "+16172450447"
+    country: US
+    notes: "SOCOMEC, Inc., Watertown, MA (US subsidiary of SOCOMEC S.A.S., Benfeld, France; power switching, UPS, metering/monitoring and power quality). Email info.us@socomec.com. Boltswitch (bolted pressure contact switches, Crystal Lake, IL) is part of the Socomec family. Homepage verified as the Socomec country selector at socomec.com."
+    source: "https://go.socomec.com/technical-note-ISOM-digiware-architectures/EN"
+    last_verified: "2026-10-26"

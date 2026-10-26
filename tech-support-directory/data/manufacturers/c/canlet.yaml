@@ -1,0 +1,13 @@
+id: canlet
+name: Canlet Lighting
+website: https://www.canlet.com/downloads/m-54/d59623d0e2f541548b66e61aac40e991/classic_canlet-specification.pdf
+categories: [electrical]
+aliases: ["CANLET"]
+support:
+  - category: electrical
+    department: Customer Support
+    phone: "+17084991700"
+    country: US
+    notes: "Canlet Lighting (Oak Lawn, IL) line published on canlet.com specification sheets ('CONTACT CANLET LIGHTING'). RLM/lighting fixtures."
+    source: "https://www.canlet.com/downloads/m-54/d59623d0e2f541548b66e61aac40e991/classic_canlet-specification.pdf"
+    last_verified: "2026-10-26"

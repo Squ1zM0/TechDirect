@@ -1,0 +1,13 @@
+id: chemlink
+name: ChemLink
+website: http://www.chemlink.com/
+categories: [hardware]
+aliases: ["Chem Link", "CHEM LINK", "Chem Link Inc"]
+support:
+  - category: hardware
+    department: Customer Support
+    phone: "+12696794440"
+    country: US
+    notes: "Chem Link Inc, Schoolcraft, MI; construction sealants and adhesives. Hours Mon-Fri 8:00 AM-4:30 PM ET per listing. Covers xref spellings 'CHEM LINK' and 'Chemlink' (same company, concatenated vs spaced spelling). Category mapped to closest vocabulary term (sealants/adhesives)."
+    source: "http://www.chemlink.com/"
+    last_verified: "2026-10-26"

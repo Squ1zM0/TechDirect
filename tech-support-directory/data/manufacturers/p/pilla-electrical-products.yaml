@@ -1,0 +1,13 @@
+id: pilla-electrical-products
+name: Pilla Electrical Products
+website: https://www.pillaelectricalproducts.com
+categories: [electrical]
+aliases: ["Pilla Electrical Products, Inc.", "Pilla"]
+support:
+  - category: electrical
+    department: Customer Support
+    phone: "+19043967371"
+    country: US
+    notes: "Pilla Electrical Products, Inc., Jacksonville, FL (4076 St. Augustine Rd.). Number published on Pilla's own product literature (pillaswitch.com); hours Mon-Fri 8:00 AM-5:30 PM ET. Not labelled technical support, so recorded as Customer Support. Emergency operator stations, push-button stations, safety switches and disconnects for boiler, chiller, HVAC, and generator shutdown."
+    source: "https://pillaswitch.com/assets/images/docs/Prod_Info_pb4.pdf"
+    last_verified: "2026-10-26"

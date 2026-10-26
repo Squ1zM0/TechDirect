@@ -1,0 +1,13 @@
+id: ziegler-bolt
+name: "Ziegler Bolt & Nut House"
+website: https://www.zieglerbolt.com
+categories: [hardware]
+aliases: ["Ziegler Bolt", "Ziegler Bolt and Parts Co."]
+support:
+  - category: hardware
+    department: Customer Support
+    phone: "+18003620628"
+    country: US
+    notes: "Ziegler Bolt and Parts Co.; Canton OH main warehouse, 4848 Corporate St SW. Email sales@zieglerbolt.com. Dover, Middletown and Delphos branch numbers also listed (secondary). Fasteners."
+    source: "https://www.zieglerbolt.com/Files/Images/ZieglerBolt/survey.pdf"
+    last_verified: "2026-10-26"

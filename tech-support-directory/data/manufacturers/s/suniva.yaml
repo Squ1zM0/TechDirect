@@ -1,0 +1,13 @@
+id: suniva
+name: "Suniva"
+website: "https://www.suniva.com"
+categories: [electrical]
+aliases: []
+support:
+  - category: electrical
+    department: Customer Support
+    phone: "+14044772700"
+    country: US
+    notes: "Suniva Inc solar cells and modules, Norcross/Peachtree Corners GA. Email techsupport@suniva.com. Company went bankrupt in 2017 and announced a restart in spring 2024, so the currency of this line post-restart should be re-confirmed."
+    source: "https://www.dth.net/solar/suniva/siim-9optrev-9-308182.pdf"
+    last_verified: "2026-10-26"

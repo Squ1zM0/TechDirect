@@ -1,0 +1,15 @@
+id: national-refrigerants
+name: National Refrigerants
+categories: [hvac]
+aliases: []
+support:
+  - category: hvac
+    department: Technical Support
+    phone: "+18564551203"
+    country: US
+    notes: "National Refrigerants, Inc.; source labels this the technical support line; email info@refrigerants.com; general 800-262-0012 also on manufacturer SDS."
+    source: "https://www.pissedconsumer.com/company/national-refrigerants-inc/customer-service.html"
+    last_verified: "2026-10-26"
+    hours:
+      timezone: "ET"
+      mon_fri: "8:00 AM - 5:00 PM"

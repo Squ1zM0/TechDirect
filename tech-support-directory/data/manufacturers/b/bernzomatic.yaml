@@ -1,0 +1,13 @@
+id: bernzomatic
+name: Bernzomatic
+website: https://www.bernzomatic.com
+categories: [hardware]
+aliases: ["BernzOmatic"]
+support:
+  - category: hardware
+    department: Warranty Support
+    phone: "+18003599678"
+    country: US
+    notes: "Bernzomatic warranty-claim line from product manuals (limited lifetime warranty on trigger-start torches); manufactured by Worthington Industries; email Bernzomatic@WorthingtonIndustries.com. Worthington general contact also published at 866-928-2657."
+    source: "https://manuals.plus/m/64eb71183081fd4009bd2300735150a3c1b55607b7bb46e92a35e34d902e421a"
+    last_verified: "2026-10-26"

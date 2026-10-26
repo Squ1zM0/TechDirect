@@ -1,0 +1,15 @@
+id: heat-flo
+name: Heat-Flo
+website: https://www.heat-flo.com/
+categories:
+- water-heaters
+aliases:
+- Heatflo
+support:
+- category: water-heaters
+  department: Technical Support
+  phone: '+15082782400'
+  country: US
+  notes: 'Heat-Flo, Inc. / Heatflo, LLC, Uxbridge, MA. FAQ wording: contact for Tech support, Customization, Sizing, Banking multiple units together. Email support@heat-flo.com. Indirect water heaters.'
+  source: https://www.heat-flo.com/company/faq
+  last_verified: '2026-10-26'

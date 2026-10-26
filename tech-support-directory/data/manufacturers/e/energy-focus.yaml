@@ -1,0 +1,13 @@
+id: energy-focus
+name: "Energy Focus"
+categories:
+- electrical
+aliases: []
+support:
+- category: electrical
+  department: "Customer Support"
+  phone: "+18003277877"
+  country: US
+  notes: "Energy Focus, Inc., 32000 Aurora Road Suite B, Solon OH. HQ alternate (440) 715-1300. NASDAQ EFOI. Flicker-free LED products."
+  source: "https://ledinside.com/node/26933"
+  last_verified: "2026-10-26"

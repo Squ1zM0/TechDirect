@@ -1,0 +1,17 @@
+id: johnstone-supply
+name: Johnstone Supply
+website: https://johnstonesupply.com/
+categories:
+- hvac
+aliases: []
+support:
+- category: hvac
+  department: Customer Support
+  phone: '+15032563663'
+  country: US
+  notes: "HVAC distributor cooperative of independently owned branches. The filed number is the corporate HQ, Portland, OR, 11632 N.E. Ainsworth Circle, Portland, OR 97220, not a branch line; branch numbers are not the corporate line."
+  source: https://reviews.birdeye.com/johnstone-supply-corporate-headquarters-165416023668275
+  last_verified: '2026-10-26'
+  hours:
+    timezone: "PT"
+    mon_fri: "7:00 AM - 4:00 PM"

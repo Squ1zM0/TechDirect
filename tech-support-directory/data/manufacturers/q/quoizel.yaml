@@ -1,0 +1,13 @@
+id: quoizel
+name: Quoizel
+website: https://www.quoizel.com/
+categories: [electrical]
+aliases: []
+support:
+  - category: electrical
+    department: Customer Support
+    phone: "+18006453184"
+    country: US
+    notes: "Email customerservice@quoizel.com. Hours conflict across sources (warranty service 9:30 AM-3:00 PM ET vs customer care 9:00 AM-5:00 PM ET), so no single hours block is published. An older number also appears in old assembly sheets."
+    source: "https://manuals.plus/m/155f4ed64ef969ab1ff1bbacad1ed7b35c00558a816d94342869bd220b4e4300"
+    last_verified: "2026-10-26"

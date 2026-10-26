@@ -1,0 +1,15 @@
+id: uline
+name: Uline
+website: https://www.uline.com/
+categories:
+- hardware
+aliases: []
+support:
+- category: hardware
+  department: Customer Support
+  phone: '+18002955510'
+  country: US
+  notes: 'Uline Customer Service Team, per the official Uline privacy page: ''contact our Customer Service
+    Team at 1-800-295-5510''. customer.service@uline.com. Shipping and packaging products.'
+  source: https://www.uline.com/CustomerService/PolicyPrivacy.htm
+  last_verified: '2026-10-26'

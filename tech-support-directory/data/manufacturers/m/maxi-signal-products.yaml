@@ -1,0 +1,14 @@
+id: maxi-signal-products
+name: Maxi-Signal Products
+website: https://maxi-signal.com
+categories:
+- electrical
+aliases: []
+support:
+- category: electrical
+  department: Customer Support
+  phone: "+18002279636"
+  country: US
+  notes: Division of Mill Specialties, Inc., LaGrange, IL. Catalog also lists 708-354-4730. Strobes, signals.
+  source: https://maxi-signal.com/shop/strobes/strobes/
+  last_verified: "2026-10-26"

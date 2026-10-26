@@ -1,0 +1,13 @@
+id: tesla
+name: "Tesla"
+website: "https://www.tesla.com/contact"
+categories: [electrical]
+aliases: []
+support:
+  - category: electrical
+    department: Customer Support
+    phone: "+18777983752"
+    country: US
+    notes: "Tesla Energy and Charging Product Customer Support. For Powerwall/solar select option 4 then option 2; for Wall Connector/home charging select option 3; service appointments via the Tesla app."
+    source: "https://www.tesla.com/contact"
+    last_verified: "2026-10-26"

@@ -1,0 +1,13 @@
+id: connecticut-electric
+name: Connecticut Electric
+website: https://connecticut-electric.com
+categories: [electrical]
+aliases: []
+support:
+  - category: electrical
+    department: Customer Support
+    phone: "+18007302557"
+    country: US
+    notes: "Connecticut Electric (Anderson, IN) general support for electrical supplies, product specs, pricing and availability. Support email published on the same page (see source). Products include circuit breakers, panels and RV power products."
+    source: "https://connecticut-electric.com/exploring-our-new-website-getting-electrical-supplies-has-never-been-easier/"
+    last_verified: "2026-10-26"

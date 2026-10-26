@@ -1,0 +1,14 @@
+id: everpure
+name: "Everpure"
+website: "https://www.pentair.com/en-us/commercial-filtration/products/filtration-systems/everpure-ez-ro-reverse-osmosis-systems.html"
+categories:
+- water-systems
+aliases: []
+support:
+- category: water-systems
+  department: "Technical Support"
+  phone: "+18002799404"
+  country: US
+  notes: "Everpure, a Pentair brand. Number printed in Everpure manuals as Technical Support (Pentair Technical Support). Pentair product pages also list customer service 800.942.1153 (US Only), main 630.307.3000, and cseverpure@pentair.com. Everpure-Shurflo HQ Hanover Park IL / Brookfield WI per older spec sheets. Filtration; water-systems is the closest vocabulary term. Do NOT use bipmemphis.com numbers, which are third-party and unverified."
+  source: "https://www.pentair.com/content/dam/extranet/nam/filtration/everpure/residential/manuals/4004796-evp-pbs-400-manual.pdf"
+  last_verified: "2026-10-26"

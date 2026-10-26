@@ -1,0 +1,13 @@
+id: madi
+name: MADI
+website: "https://madilinemantools.com/?p=443"
+categories: [hardware]
+aliases: ["MADI Lineman Tools", "Madi Tools"]
+support:
+  - category: hardware
+    department: Customer Support
+    phone: "+18643659530"
+    country: US
+    notes: "MADI Lineman Tools, Greenville, SC (2131 Woodruff Road, Suite 2100 #158); founded 2010 by lineman Ralph Stinson, 100% lineman-focused tools (fuse pliers, lineman hammers, wire brushes, knives, sockets and wrenches) sold through lineman supply distributors. Number from MADI's own site pages. Hardware category per the milwaukee-tool.yaml precedent."
+    source: "https://madilinemantools.com/?p=443"
+    last_verified: "2026-10-26"

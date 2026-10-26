@@ -1,0 +1,14 @@
+id: interstate-batteries
+name: Interstate Batteries
+website: https://www.interstatebatteries.com/
+categories:
+- electrical
+aliases: []
+support:
+- category: electrical
+  department: Customer Support
+  phone: '+18668844635'
+  country: US
+  notes: "Batteries; number from the official All Battery Center trade pages. Warranty-finder line 888-772-3600 is noted only, not filed as the support line."
+  source: https://www.interstatebatteries.com/all-battery-centers/commercial-products-services/electrical-and-industrial
+  last_verified: '2026-10-26'

@@ -1,0 +1,13 @@
+id: lowell-tools
+name: Lowell Tools
+website: "https://lowellcorp.com"
+categories: [hardware]
+aliases: ["Lowell Corporation"]
+support:
+  - category: hardware
+    department: Customer Support
+    phone: "+18004569355"
+    country: US
+    notes: "Lowell Corporation (Lowell Tools), West Boylston, MA (65 Hartwell Street); founded 1869 as the Lowell Wrench Company; manufacturer of ratchet wrenches and hand tools for high-line and pipeline utility installation and repair, 100% made in the USA. Number from Lowell Corporation's own site (customerservice@lowellcorp.com also published). Hardware category per the milwaukee-tool.yaml precedent for tool brands."
+    source: "https://lowellcorp.com/a-partnership-to-be-proud-of-j-l-matthews-lowell-corporation/"
+    last_verified: "2026-10-26"

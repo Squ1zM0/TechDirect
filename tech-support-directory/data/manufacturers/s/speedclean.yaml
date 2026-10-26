@@ -1,0 +1,13 @@
+id: speedclean
+name: SpeedClean
+website: https://www.speedclean.com
+categories: [hvac]
+aliases: []
+support:
+  - category: hvac
+    department: Customer Support
+    phone: "+18887003540"
+    country: US
+    notes: "SpeedClean, Stamford, CT (portable HVAC coil cleaning systems: CoilJet CJ-125, CJ-200E and accessories; SpeedClean is a registered trademark of Crossford International). The same number is published as SpeedClean Customer Service for warranty and repair information."
+    source: "https://manuals.plus/speedclean/cj-200e-coiljet-portable-hvac-coil-cleaning-system-manual"
+    last_verified: "2026-10-26"

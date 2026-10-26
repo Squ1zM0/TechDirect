@@ -1,0 +1,16 @@
+id: timken
+name: Timken
+website: https://www.timken.com/
+categories:
+- hardware
+aliases: []
+support:
+- category: hardware
+  department: Customer Support
+  phone: '+12342623000'
+  country: US
+  notes: The Timken Company headquarters / main corporate line, 4500 Mt Pleasant St NW, North Canton,
+    OH 44720. Product support is routed through Timken's contact form and distributors; this line is not
+    labelled Technical Support.
+  source: http://www.timken.com/
+  last_verified: '2026-10-26'

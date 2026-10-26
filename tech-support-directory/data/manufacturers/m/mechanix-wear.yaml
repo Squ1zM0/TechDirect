@@ -1,0 +1,14 @@
+id: mechanix-wear
+name: Mechanix Wear
+website: https://www.mechanix.com
+categories:
+- hardware
+aliases: []
+support:
+- category: hardware
+  department: Customer Support
+  phone: "+18772785822"
+  country: US
+  notes: 'Customer Satisfaction department; hours 9:00 AM-5:30 PM EST. Work gloves/PPE. Official FAQ: ''call us toll-free at (877) 278-5822''.'
+  source: https://www.mechanix.com/ca-en/info-faq-ca.html
+  last_verified: "2026-10-26"

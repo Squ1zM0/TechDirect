@@ -1,0 +1,13 @@
+id: magnecraft
+name: Magnecraft
+categories:
+- electrical
+aliases: []
+support:
+- category: electrical
+  department: Customer Support
+  phone: "+18474412540"
+  country: US
+  notes: Parent Schneider Electric (SE Relays). Industrial relays, sockets, solid-state relays. Distinct Magnecraft contact, so own file rather than PARENT-RESOLVED to schneider-electric.
+  source: https://datasheet.octopart.com/781-XAXC-24D-Schneider-Electric-datasheet-181419596.pdf
+  last_verified: "2026-10-26"

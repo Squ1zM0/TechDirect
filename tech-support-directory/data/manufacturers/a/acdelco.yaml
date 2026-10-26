@@ -1,0 +1,16 @@
+id: acdelco
+name: ACDelco
+website: https://www.acdelco.com
+categories: [electrical]
+aliases: ["ACDelco Batteries"]
+support:
+  - category: electrical
+    department: Customer Support
+    phone: "+18002233526"
+    country: US
+    notes: "GM Genuine Parts / ACDelco customer support (1-800-ACDelco), Mon-Fri 8:00 AM - 8:00 PM EST, per GM Parts contact page. Covers the ACDelco Batteries line-card spelling; ACDelco is a General Motors parts brand."
+    source: "https://www.gmparts.com/contact-us"
+    last_verified: "2026-10-26"
+    hours:
+      timezone: "ET"
+      mon_fri: "8:00 AM - 8:00 PM"

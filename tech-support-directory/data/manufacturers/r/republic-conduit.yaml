@@ -1,0 +1,14 @@
+id: republic-conduit
+name: Republic Conduit
+website: https://republicconduit.com/
+categories:
+- electrical
+aliases: []
+support:
+- category: electrical
+  department: Customer Support
+  phone: '+18008408823'
+  country: US
+  notes: Republic Conduit, a Nucor Tubular Products brand. info@republicconduit.com; Louisville plant 502-995-5900. Steel conduit and EMT. Distinct from Republic Wire and from the bare Republic entry.
+  source: Republic Conduit flyer (hosted via nucortubular)
+  last_verified: '2026-10-26'

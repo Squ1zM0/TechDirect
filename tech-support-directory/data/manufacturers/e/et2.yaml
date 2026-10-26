@@ -1,0 +1,13 @@
+id: et2
+name: "ET2"
+categories:
+- electrical
+aliases: ["ET2 Contemporary Lighting"]
+support:
+- category: electrical
+  department: "Customer Support"
+  phone: "+16269564200"
+  country: US
+  notes: "ET2 Contemporary Lighting, 253 North Vineland Avenue, City of Industry, CA 91746. Number is ET2 HQ number via a manufacturer-data directory (BIMobject), NOT verified on ET2 own site contact page; that caveat is stated here. Distributor numbers NOT filed: Prolighting 1-877-852-9373, Lightopia (877) 559-7516, Bees Lighting 855-303-0665. Covers xref spellings ET2 and ET2 CONTEMPORARY LIGHTING."
+  source: "https://www.bimobject.com/en/et2online?location=us"
+  last_verified: "2026-10-26"

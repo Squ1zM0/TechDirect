@@ -1,0 +1,16 @@
+id: united-abrasives-sait
+name: United Abrasives / SAIT
+website: https://www.unitedabrasives.com/
+categories:
+- hardware
+aliases: []
+support:
+- category: hardware
+  department: Customer Support
+  phone: '+18004285927'
+  country: US
+  notes: U.S. Sales line; Manufacturing Headquarters 185 Boston Post Rd, North Windham, CT 06256; info@unitedabrasives.com.
+    Founded 1970; bonded, coated and non-woven abrasives, wire brushes, carbide burs. Hours Mon-Fri 08:00-17:00,
+    Sat 08:00-16:00 (timezone not stated in source).
+  source: https://www.unitedabrasives.com/
+  last_verified: '2026-10-26'

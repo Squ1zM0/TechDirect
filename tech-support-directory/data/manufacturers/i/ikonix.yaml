@@ -1,0 +1,14 @@
+id: ikonix
+name: Ikonix
+website: https://www.ikonixusa.com/
+categories:
+- electrical
+aliases: []
+support:
+- category: electrical
+  department: Customer Support
+  phone: '+18479323662'
+  country: US
+  notes: 'Ikonix (brands SCI, Associated Research / AR). Customer Support Center line is primary; email info@ikonix.com. AR-brand support 847-367-4077 and repair line 847-367-4378 also published. Electrical safety testers, hipot testers, power sources.'
+  source: https://www.hipot.com/products/290-series.html
+  last_verified: '2026-10-26'

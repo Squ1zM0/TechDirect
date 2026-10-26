@@ -1,0 +1,14 @@
+id: isma-controlli
+name: iSMA Controlli
+website: https://ismacontrolli.com/
+categories:
+- hvac-controls
+aliases: []
+support:
+- category: hvac-controls
+  department: Customer Support
+  phone: '+3901073061'
+  country: IT
+  notes: "Building automation controls; Italy, Sant'Olcese. Email info@ismacontrolli.com per the official site. No US line found; no US line invented."
+  source: https://ismacontrolli.com/
+  last_verified: '2026-10-26'

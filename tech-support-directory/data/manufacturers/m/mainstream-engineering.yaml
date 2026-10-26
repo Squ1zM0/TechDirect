@@ -1,0 +1,14 @@
+id: mainstream-engineering
+name: Mainstream Engineering
+website: https://qwik.com
+categories:
+- hvac
+aliases: []
+support:
+- category: hvac
+  department: Technical Support
+  phone: "+13216313550"
+  country: US
+  notes: QwikProducts HVAC/R service tools, chemicals, fan products. Sales 800-866-3550; email info@qwik.com. Technical support label per QwikSwap troubleshooting docs.
+  source: https://manuals.plus/qwikproducts/qt6100-oem-constant-torque-ecm-w-psc-board-manual
+  last_verified: "2026-10-26"

@@ -1,0 +1,13 @@
+id: black-box
+name: Black Box
+website: https://www.blackbox.com
+categories: [electrical]
+aliases: ["Black Box Corporation"]
+support:
+  - category: electrical
+    department: Technical Support
+    phone: "+17247465500"
+    country: US
+    notes: "Black Box Technical Support per product manuals (KVM, networking and AV products); email info@blackbox.com."
+    source: "http://manualsdump.com/en/manuals/black_box-servswitchtm_cwdm_mux-acxcwdm4/116759/13"
+    last_verified: "2026-10-26"

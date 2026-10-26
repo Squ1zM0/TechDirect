@@ -1,0 +1,15 @@
+id: titeflex
+name: Titeflex
+website: https://www.titeflex.com/
+categories:
+- piping-systems
+aliases: []
+support:
+- category: piping-systems
+  department: Customer Support
+  phone: '+18007652525'
+  country: US
+  notes: Titeflex Corporation (Smiths Tubular Systems), 603 Hendee Street, Springfield, MA 01139-0054;
+    local Tel 413-739-5631. PTFE and metal hose assemblies; part of Smiths Group.
+  source: https://cdn.thomasnet.com/ccp/00252269/139737.pdf
+  last_verified: '2026-10-26'

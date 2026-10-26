@@ -1,0 +1,13 @@
+id: pelco
+name: Pelco
+website: https://www.pelco.com
+categories: [electrical]
+aliases: ["Pelco, Inc."]
+support:
+  - category: electrical
+    department: Technical Support
+    phone: "+15592921981"
+    country: US
+    notes: "Pelco, a Motorola Solutions company, Fresno/Clovis, CA. Current pelco.com Customer Support page lists +1 559-292-1981 for the United States (press 1 for Pelco; same number also serves Calipsa and Videotec). Older manuals also list 1-800-289-9100 for USA/Canada product support; the current page's US number is used here. Covers xref spellings Pelco and Pelco - Motorola. Security cameras and video management software. NOT Elco (near-miss false friend rejected). Pelco Structural (Valmont) is a different company with its own entry in this batch."
+    source: "https://www.manualsdir.com/manuals/852984/pelco-ime3icm-e-in-ceiling-mount-for-sarix-enhanced-3-series-cameras.html?page=22"
+    last_verified: "2026-10-26"

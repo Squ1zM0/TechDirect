@@ -1,0 +1,12 @@
+id: myson
+name: Myson
+categories: [hydronics]
+aliases: []
+support:
+  - category: hydronics
+    department: Customer Support
+    phone: "+18006989690"
+    country: US
+    notes: "Myson (Rettig USA Inc., Williston VT, 45 Krupp Drive); manuals say 'consult Myson at 1-800-698-9690'; parent Rettig USA / Purmo Group."
+    source: "https://manuals.plus/m/71227b78b0198b32dfe2647ac4663a0bdd6e96a70d2564717f3bed99c665856a"
+    last_verified: "2026-10-26"

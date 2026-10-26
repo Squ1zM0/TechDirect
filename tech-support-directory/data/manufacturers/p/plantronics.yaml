@@ -1,0 +1,13 @@
+id: plantronics
+name: Plantronics
+website: https://support.hp.com/us-en/poly
+categories: [electrical]
+aliases: ["Poly", "HP Poly"]
+support:
+  - category: electrical
+    department: Technical Support
+    phone: "+18882484143"
+    country: US
+    notes: "Legacy brand file. Plantronics rebranded as Poly in 2019; HP acquired Poly in 2022, and Poly headset support now runs through HP (support.hp.com/us-en/poly). Number corroborated by two independent sources: a Poly dealer warranty guide directing callers to Poly (now under HP, formerly Plantronics) at this number, option 2 for Tech Support/Warranty Support, and an independent Poly headset guide giving the same toll-free number for HP support. No low-voltage/communications term exists in the category vocabulary, so recorded as electrical with this note. Older Poly customer-service number 800-544-4660 appears in third-party listings but is not used here."
+    source: "https://www.headsetsdirect.com/?p=1056"
+    last_verified: "2026-10-26"

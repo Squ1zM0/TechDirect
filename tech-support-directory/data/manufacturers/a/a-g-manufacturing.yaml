@@ -1,0 +1,13 @@
+id: a-g-manufacturing
+name: A&G Manufacturing
+website: http://www.agmfg.net/
+categories: [electrical]
+aliases: ["A & G Manufacturing"]
+support:
+  - category: electrical
+    department: Customer Support
+    phone: "+18883678227"
+    country: US
+    notes: "A&G Manufacturing, Lynn/Peabody, MA (500 Lynnway, Lynn, MA 01905). Manufacturer of electrical products with over 700 SKUs; second-generation family business founded 1969. Not the A&G Manufacturing machine shop of Galion, OH, nor AG Manufacturing Inc. of Harbor Beach, MI (automotive)."
+    source: "https://www.equipment10.com/US/Peabody/231914013683206/A%26G-Manufacturing-Company-Inc"
+    last_verified: "2026-10-26"

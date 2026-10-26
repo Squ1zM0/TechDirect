@@ -1,0 +1,15 @@
+id: tomar-electronics
+name: TOMAR Electronics
+website: https://tomar.com/
+categories:
+- electrical
+aliases: []
+support:
+- category: electrical
+  department: Technical Support
+  phone: '+18003383133'
+  country: US
+  notes: Explicitly published as 'TOMAR offers technical assistance by telephone, dial 800-338-3133'.
+    Main line +1-480-497-4400, 2100 W. Obispo Ave, Gilbert, AZ 85233; info@tomar.com / sales@tomar.com.
+  source: https://traffic.tomar.com/pages/frequently-asked-questions
+  last_verified: '2026-10-26'

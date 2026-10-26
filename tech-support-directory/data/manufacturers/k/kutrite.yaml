@@ -1,0 +1,15 @@
+id: kutrite
+name: Kut-Rite Manufacturing Co.
+website: https://www.kutritemfg.com/
+categories:
+- hardware
+aliases:
+- KutRite
+support:
+- category: hardware
+  department: Customer Support
+  phone: '+18777865067'
+  country: US
+  notes: "Concrete scarifiers, grinders, polishers, and carbide cutters; founded 1947, Romulus, MI, 27456 Northline, Romulus, MI 48174. Direct 734-955-9311, fax 734-955-9314, contact Brian Boardman, b_boardman@kutritemfg.com. Reorganized as KRMC, LLC in 2002; buyout by Ralph O. Neri completed in 2016. Conquer Series and Full Face cutter design."
+  source: https://www.kutritemfg.com/pdf/mip-krazor.pdf
+  last_verified: '2026-10-26'

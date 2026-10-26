@@ -1,0 +1,13 @@
+id: cablecraft
+name: Cablecraft
+website: https://www.cablecraft.com/
+categories: [hardware]
+aliases: ["Cablecraft Motion Controls", "Cablecraft Engineered Motion Controls"]
+support:
+  - category: hardware
+    department: Customer Support
+    phone: "+13308742900"
+    country: US
+    notes: "Cablecraft Motion Controls, HQ 10896 Industrial Parkway NW, Bolivar, OH 44612, manufacturer of mechanical control cables (push and push-pull), rod ends, ball joints, linkages and remote actuation products for automotive, power sports, marine, construction and agriculture. New Haven, IN plant line 260-749-5105 also published; email info@cablecraft.com."
+    source: "https://www.powertransmission.com/companies/cablecraft-motion-controls"
+    last_verified: "2026-10-26"

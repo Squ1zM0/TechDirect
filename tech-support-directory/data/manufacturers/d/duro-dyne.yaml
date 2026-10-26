@@ -1,0 +1,13 @@
+id: duro-dyne
+name: Duro Dyne
+website: https://durodyne.com
+categories: [airflow]
+aliases: []
+support:
+  - category: airflow
+    department: Technical Support
+    phone: "+18008993876"
+    country: US
+    notes: "Duro Dyne (Bay Shore, NY) HVAC duct accessories, dampers, fire/smoke products. Tech support line and email Techserve@durodyne.com from the official product resources page."
+    source: "https://durodyne.com/hvac/fire-safety-air-control-products/"
+    last_verified: "2026-10-26"

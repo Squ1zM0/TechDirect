@@ -1,0 +1,12 @@
+id: archipelago-lighting
+name: Archipelago Lighting
+categories: [electrical]
+aliases: []
+support:
+  - category: electrical
+    department: Customer Support
+    phone: "+18669123220"
+    country: US
+    notes: "LED lighting manufacturer, Montclair CA. Customer Service line published on Archipelago spec sheets and corroborated by its NSF listing; local line 909-627-5333 and email sales@archipelagolighting.com also published. No lighting category exists in the TechDirect vocabulary, so electrical is used as the closest term."
+    source: "http://www.1000bulbs.com/pdf/archipelago-lg16526c24027k3-specs.pdf"
+    last_verified: "2026-10-26"

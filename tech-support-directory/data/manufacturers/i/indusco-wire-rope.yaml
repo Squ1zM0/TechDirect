@@ -1,0 +1,18 @@
+id: indusco-wire-rope
+name: Indusco Wire Rope
+website: http://www.induscowirerope.com/
+categories:
+- hardware
+aliases:
+- Indusco Wire Rope & Fittings
+support:
+- category: hardware
+  department: Customer Support
+  phone: '+18007270665'
+  country: US
+  notes: 'Indusco Wire Rope, Halethorpe and Baltimore, MD. Local 410-727-0665. Founded 1908 per Thomasnet. Wire rope, aircraft cable, rigging hardware.'
+  source: http://www.induscowirerope.com/
+  last_verified: '2026-10-26'
+  hours:
+    timezone: ET
+    mon_fri: '7am-5pm'

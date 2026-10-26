@@ -1,0 +1,16 @@
+id: beta-lighting
+name: Beta Lighting
+website: https://www.creelighting.com/where-to-buy/commercial/?lang=fr
+categories: [electrical]
+aliases: ["BetaLED", "Beta LED"]
+support:
+  - category: electrical
+    department: Customer Support
+    phone: "+18002366800"
+    country: US
+    notes: "BetaLED was the LED brand of Ruud Lighting; Cree acquired Ruud Lighting including BetaLED in 2011 for $525 million and operates it as part of Cree Lighting. Support via Cree Lighting commercial support (listed as Commercial Support on the source page). Email info@creelighting.com. Covers xref variants BETA LIGHTING and Beta Lighting (CREE). Category mapped from lighting to electrical (no lighting term in the vocabulary)."
+    source: "https://www.creelighting.com/where-to-buy/commercial/?lang=fr"
+    last_verified: "2026-10-26"
+    hours:
+      timezone: "CT"
+      mon_fri: "7:30 AM - 5:00 PM"

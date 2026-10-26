@@ -1,0 +1,15 @@
+id: industrial-lighting-products
+name: Industrial Lighting Products
+website: https://www.ilp-inc.com/
+categories:
+- electrical
+aliases:
+- ILP
+support:
+- category: electrical
+  department: Customer Support
+  phone: '+14074783759'
+  country: US
+  notes: 'Industrial Lighting Products Inc. (ILP), Sanford, FL. Email info@ilpinc.com. Industrial and commercial LED fixtures, high bays, wall packs. Retailer numbers seen in search (Shine Retrofits, HomeElectrical) were not used.'
+  source: https://www.ilp-inc.com/product-category/viewpoint-wall-pack-vwm/
+  last_verified: '2026-10-26'

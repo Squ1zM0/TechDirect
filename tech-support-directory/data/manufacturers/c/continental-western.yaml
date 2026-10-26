@@ -1,0 +1,16 @@
+id: continental-western
+name: Continental Western Corporation
+website: https://www.cwcglobal.com/
+categories: [hardware]
+aliases: ["Continental Western", "Continental Western Corp"]
+support:
+  - category: hardware
+    department: Customer Support
+    phone: "+18002927717"
+    country: US
+    notes: "Continental Western Corporation (San Leandro, CA) wholesale distributor of packaging, cordage (rope/twine), strapping and safety gear, per Thomasnet company profile. No separate utility/rigging category exists in the vocabulary, so hardware is the closest. San Leandro branch phone 510-352-3133 also published."
+    source: "https://www.thomasnet.com/company/continental-western-corporation-522721/profile?coverage_area=GT&heading=63691406"
+    last_verified: "2026-10-26"
+    hours:
+      timezone: "PT"
+      mon_fri: "8:00 AM - 5:00 PM"

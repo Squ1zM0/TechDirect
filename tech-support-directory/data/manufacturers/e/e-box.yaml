@@ -1,0 +1,13 @@
+id: e-box
+name: E-Box Enclosures
+website: https://e-boxenclosures.com
+categories: [electrical]
+aliases: ["E-Box", "E-BOX Enclosures", "E-Box Enclosures, Inc."]
+support:
+  - category: electrical
+    department: Customer Support
+    phone: "+18882317580"
+    country: US
+    notes: "E-Box Enclosures, Inc. (Alabaster, AL) NEMA electrical enclosures, wireways, wiring troughs and hole seals. Toll-free line from the official site; direct line 205-663-9189 also published. Covers xref spellings E-Box and E-BOX ENCLOSURES (same manufacturer)."
+    source: "https://e-boxenclosures.com/electrical-enclosure-selection-guide/type-3r-electrical-enclosures/"
+    last_verified: "2026-10-26"

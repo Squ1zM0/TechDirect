@@ -1,0 +1,17 @@
+id: transition-networks
+name: Transition Networks
+categories:
+- electrical
+aliases:
+- Transition Networks - Lantronix
+support:
+- category: electrical
+  department: Technical Support
+  phone: '+18005269267'
+  country: US
+  notes: 'Published as 1-800-LAN-WANS (vanity number; digits converted letter-by-letter: L=5, A=2, N=6,
+    W=9, A=2, N=6, S=7), explicitly ''TN''s free Technical Support''. Local 612-941-7600; techsupport@transition.com;
+    Minnetonka, MN. Lantronix acquired Transition Networks, but Lantronix''s own domestic tech support
+    800-422-7044 is Lantronix''s, not Transition Networks''.'
+  source: http://manualsdump.com/en/manuals/transition_networks-401model/119338/3
+  last_verified: '2026-10-26'

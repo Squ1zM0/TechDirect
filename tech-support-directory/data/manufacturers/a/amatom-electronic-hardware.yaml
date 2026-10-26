@@ -1,0 +1,13 @@
+id: amatom-electronic-hardware
+name: Amatom Electronic Hardware
+website: http://www.amatom.com/
+categories: [electrical]
+aliases: ["Amatom", "AMATOM"]
+support:
+  - category: electrical
+    department: Customer Support
+    phone: "+18002436032"
+    country: US
+    notes: "Amatom Electronic Hardware, 5 Pasco Hill Rd, Cromwell, CT 06416. Electronic hardware/components manufacturer; hours Mon-Fri 8:30 AM-5:00 PM ET."
+    source: "http://www.amatom.com/"
+    last_verified: "2026-10-26"

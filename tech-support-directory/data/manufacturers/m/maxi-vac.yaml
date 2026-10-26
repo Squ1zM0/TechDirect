@@ -1,0 +1,14 @@
+id: maxi-vac
+name: Maxi-Vac
+website: http://www.maxi-vac.com/
+categories:
+- hvac
+aliases: []
+support:
+- category: hvac
+  department: Customer Support
+  phone: "+16306206669"
+  country: US
+  notes: Coil-cleaning equipment, East Dundee/Addison, IL.
+  source: https://manta.com/c/mhh6g4w/maxi-vac-inc
+  last_verified: "2026-10-26"

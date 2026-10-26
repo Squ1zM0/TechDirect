@@ -1,0 +1,12 @@
+id: north-safety-products
+name: North Safety Products
+categories: [hardware]
+aliases: ["North by Honeywell"]
+support:
+  - category: hardware
+    department: Technical Support
+    phone: "+18008735242"
+    country: US
+    notes: "North is a Honeywell Safety Products brand; Honeywell SPS article: 'Phone number for the Technical Support department for PPE US is 1-800-873-5242', prompts include General Safety and Electrical Safety/Salisbury; email HSPtechsupport@Honeywell.com. No standalone Honeywell file exists in the reference, so North keeps its own file with the Honeywell PPE tech support number. Vocabulary note: no safety/PPE term; hardware is closest."
+    source: "https://sps-support.honeywell.com/s/article/How-to-contact-the-Technical-Support-Department-for-PPE-US"
+    last_verified: "2026-10-26"

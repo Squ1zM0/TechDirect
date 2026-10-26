@@ -1,0 +1,13 @@
+id: polyguard-products
+name: Polyguard Products
+website: https://www.polyguard.com
+categories: [piping-systems, plumbing]
+aliases: ["Polyguard Products, Inc.", "POLYGUARD"]
+support:
+  - category: piping-systems
+    department: Technical Support
+    phone: "+12145155000"
+    country: US
+    notes: "Polyguard Products, Inc., Ennis, TX (P.O. Box 755; Houston pipeline office 6714 Bourgeois Rd.). Number published across Polyguard's own literature; Polyguard's architectural data sheets label (214) 515-5000 as Tech Support, so recorded as Technical Support. Toll-free 800-541-4994 also published. Pipeline coatings, pipe insulation jackets and vapor barriers, waterproofing and air barrier membranes, corrosion control gels."
+    source: "https://assets-38aef284d1.cdn.insitecloud.net/2922373ba0005a8/PolyguardProducts_00048_1-4_SPEC.pdf"
+    last_verified: "2026-10-26"

@@ -1,0 +1,13 @@
+id: vista-outdoor-lighting
+name: "Vista Professional Outdoor Lighting"
+website: https://www.vistapro.com
+categories: [electrical]
+aliases: []
+support:
+  - category: electrical
+    department: Customer Support
+    phone: "+18007668478"
+    country: US
+    notes: "800-766-VISTA; local 805-527-0987 also published."
+    source: "https://www.vistapro.com/downloads/m-471/fe2f0a7eafe84c048a788f738d00a4c7/2138-inst.pdf"
+    last_verified: "2026-10-26"

@@ -1,0 +1,13 @@
+id: a-gas
+name: A-Gas
+website: https://www.agas.com
+categories: [hvac]
+aliases: ["A-Gas Americas"]
+support:
+  - category: hvac
+    department: Customer Support
+    phone: "+18003721301"
+    country: US
+    notes: "A-Gas US customer services number published on agas.com US pages (refrigerant supply, recovery and reclamation; Bowling Green OH and Rhome TX facilities)."
+    source: "https://www.agas.com/us/resources/penguin-certified-reclaimed-refrigerants/"
+    last_verified: "2026-10-26"

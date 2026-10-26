@@ -1,0 +1,16 @@
+id: bodine
+name: Bodine
+website: https://www.bodine.com
+categories: [electrical]
+aliases: ["Bodine Philips Lighting", "Philips Bodine"]
+support:
+  - category: electrical
+    department: Technical Support
+    phone: "+18882634638"
+    country: US
+    notes: "Bodine emergency lighting (Signify), Collierville, TN. Bodine has its own distinct technical-support line and email (BodineTech@Signify.com), so it gets its own file rather than parent-resolution to Signify. Hours Mon-Fri 8 AM-5 PM CST. CONFLICT FLAGGED: Signify's Bodine FAQ page lists (888) 263-4368, which transposes digits vs the 888-263-4638 printed on current (2024-2026) Bodine installation instructions; the install-document number is used here and the FAQ variant needs human confirmation. Covers xref variants Bodine and Bodine Philips Lighting. Category mapped from emergency lighting/drivers to electrical."
+    source: "https://www.signify.com/api/assets/v1/file/Signify/content/Edgeline-installation-instructions/EdgeLine_Installation_Instructions.pdf"
+    last_verified: "2026-10-26"
+    hours:
+      timezone: "CT"
+      mon_fri: "8:00 AM - 5:00 PM"

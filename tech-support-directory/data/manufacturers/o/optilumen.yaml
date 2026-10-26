@@ -1,0 +1,12 @@
+id: optilumen
+name: Optilumen
+categories: [electrical]
+aliases: []
+support:
+  - category: electrical
+    department: Customer Support
+    phone: "+18444385444"
+    country: US
+    notes: "Optilumen, Pillow PA (167 Market Street); LED manufacturer; email sales@optilumen.com. Source document is an older catalog (~9 years) - stated in the batch report."
+    source: "https://images.homedepot-static.com/catalog/pdfImages/b7/b7c8b7cb-79d9-4e45-b323-1d2e4b87542f.pdf"
+    last_verified: "2026-10-26"

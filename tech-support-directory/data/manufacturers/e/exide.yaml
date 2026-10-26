@@ -1,0 +1,13 @@
+id: exide
+name: "Exide"
+categories:
+- electrical
+aliases: []
+support:
+- category: electrical
+  department: "Customer Support"
+  phone: "+18885636300"
+  country: US
+  notes: "Exide Technologies, GNB Industrial Power division. Number printed in Exide/GNB manuals as the USA toll-free line. Alternate USA tel 877-462-4636 printed in a GNB brochure. WARNING: Exide Care India (exidecare.com, 1800-103-5454) is NOT US Exide Technologies; its number is not used here. Batteries."
+  source: "https://www.manualsdir.com/manuals/596279/exide-technologies-gb3914.html?page=2"
+  last_verified: "2026-10-26"

@@ -1,0 +1,13 @@
+id: southwark-metal
+name: Southwark Metal
+website: https://www.southwarkmetal.com
+categories: [airflow]
+aliases: []
+support:
+  - category: airflow
+    department: Customer Support
+    phone: "+18005231052"
+    country: US
+    notes: "Southwark Metal Manufacturing Company, Philadelphia, PA (founded 1946; prefabricated sheet metal ducts and fittings: boots, wyes, pipe, elbows; six divisions coast to coast). Corporate HQ 2800 Red Lion Road, Philadelphia; local phone 215-735-3401 also published. Covers both xref spellings Southwark and Southwark Metal."
+    source: "https://resource.gemaire.com/is/content/Watscocom/Gemaire/southwark_gffb_en_subs.pdf"
+    last_verified: "2026-10-26"

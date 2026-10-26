@@ -1,0 +1,16 @@
+id: progress-lighting
+name: Progress Lighting
+website: https://progresslighting.com/pages/accessibility
+categories: [electrical]
+aliases: ["Progress"]
+support:
+  - category: electrical
+    department: Customer Support
+    phone: "+18004470573"
+    country: US
+    notes: "Official site also lists a Canada line and email customerservice@progresslighting.com. Other documents show differing hours; the official accessibility-page hours are used."
+    source: "https://progresslighting.com/pages/accessibility"
+    last_verified: "2026-10-26"
+    hours:
+      timezone: "ET"
+      mon_fri: "8:00 AM - 6:00 PM"

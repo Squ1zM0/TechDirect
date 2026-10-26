@@ -1,0 +1,16 @@
+id: unicorp
+name: Unicorp
+website: https://www.unicorpinc.com/
+categories:
+- hardware
+aliases: []
+support:
+- category: hardware
+  department: Customer Support
+  phone: '+18005261389'
+  country: US
+  notes: Unicorp Inc., 291 Cleveland St, Orange, NJ 07050 (PO Box 280, Orange, NJ 07051-0280); Phone 973-674-1700,
+    Fax 973-674-3803. Manufacturer of stock and custom electronic hardware, handles and precision fasteners
+    since 1971. Not Unicorp Global Industries Pvt. Ltd., Kolkata, India (ENER heat-shrink products).
+  source: https://www.unicorpinc.com/cable_technical.htm
+  last_verified: '2026-10-26'

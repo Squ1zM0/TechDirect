@@ -1,0 +1,17 @@
+id: camman-lighting
+name: Camman Lighting
+website: https://www.cammanlighting.com
+categories: [electrical]
+aliases: ["CAMMAN LIGHTING", "Camman Lighting, Inc."]
+support:
+  - category: electrical
+    department: Customer Support
+    phone: "+17245397670"
+    country: US
+    notes: "Camman Lighting, Inc., 111 Strawcutter Rd, Derry, PA 15627, family-owned custom/architectural lighting manufacturer since 1961, engineer-to-order (ETO) plus standard and configurable lines, BAA-certified, handcrafted in Pennsylvania. Lighting maps to electrical (no lighting category exists). Hours per business listing Mon-Thu 6 AM-5 PM, Fri 6 AM-11 AM ET."
+    source: "https://www.cammanlighting.com/our-process"
+    last_verified: "2026-10-26"
+    hours:
+      timezone: "ET"
+      mon_thu: "6:00 AM - 5:00 PM"
+      fri: "6:00 AM - 11:00 AM"

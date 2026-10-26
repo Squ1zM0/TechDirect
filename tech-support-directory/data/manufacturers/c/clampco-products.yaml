@@ -1,0 +1,12 @@
+id: clampco-products
+name: Clampco Products
+website: http://www.clampco.com/
+categories: [hardware]
+support:
+  - category: hardware
+    department: Customer Support
+    phone: "+13303368857"
+    country: US
+    notes: "Clampco Products, Inc., Wadsworth, OH (founded 1971, employee-owned); stainless steel T-bolt band clamps, V-band couplings, worm gear clamps, straps. Phone per Clampco's own line card. Distinct from 'Clamp-All' (a separate, unidentified xref row, not merged here)."
+    source: "https://clampco-prod-assets.s3.amazonaws.com/pdf/clampco-line-card.pdf"
+    last_verified: "2026-10-26"

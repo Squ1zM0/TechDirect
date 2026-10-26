@@ -1,0 +1,13 @@
+id: wirewerks
+name: "Wirewerks"
+website: https://www.wirewerks.com
+categories: [electrical]
+aliases: []
+support:
+  - category: electrical
+    department: Customer Support
+    phone: "+18889934237"
+    country: US
+    notes: "Official docs: call the Wirewerks Customer Support Center at 1-888-993-4237. Email sales@wirewerks.com. HQ Baie-D'Urfe, Quebec; the published number is a NANP toll-free line dialable from the US; country recorded US with this Quebec-HQ note. Structured cabling, fiber/copper."
+    source: "https://wirewerks.com/app/uploads/2019/12/MBC-18004-NextSTEP-Technology-Brochure-2018-2019-web-pages.pdf"
+    last_verified: "2026-10-26"

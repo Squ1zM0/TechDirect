@@ -1,0 +1,12 @@
+id: thermasol
+name: "ThermaSol"
+categories: [bathroom-systems]
+aliases: []
+support:
+  - category: bathroom-systems
+    department: Technical Support
+    phone: "+18007760711"
+    country: US
+    notes: "ThermaSol steam showers, Round Rock TX (1958 Steam Way). Manuals label this the technical and warranty support line; email support@thermasol.com."
+    source: "https://manuals.plus/thermasol/thermatouch2-steam-shower-control-manual"
+    last_verified: "2026-10-26"

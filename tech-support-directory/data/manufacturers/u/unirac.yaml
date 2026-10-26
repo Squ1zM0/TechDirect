@@ -1,0 +1,14 @@
+id: unirac
+name: Unirac
+website: https://unirac.com/
+categories:
+- electrical
+aliases: []
+support:
+- category: electrical
+  department: Customer Support
+  phone: '+15052426411'
+  country: US
+  notes: Unirac, 1411 Broadway Blvd NE, Albuquerque, NM 87102. Solar racking and mounting.
+  source: https://unirac.com/resources/miami-dade/
+  last_verified: '2026-10-26'

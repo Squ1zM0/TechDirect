@@ -1,0 +1,13 @@
+id: firex
+name: "Firex"
+categories:
+- electrical
+aliases: []
+support:
+- category: electrical
+  department: "Technical Support"
+  phone: "+18884226402"
+  country: US
+  notes: "FireX, a legacy Kidde (BRK Brands) alarm brand. Number printed in FireX alarm installation guides as Kidde Pro Support. Consumer line 1-800-880-6788 also documented on Kidde warranty pages. Kidde, 1016 Corporate Park Drive, Mebane NC 27302. No kidde or brk file exists in the reference, so Firex is filed standalone with the Kidde number. Smoke and CO alarms; electrical is the closest vocabulary term."
+  source: "https://manuals.plus/kidde/21033081-firex-smoke-alarm-manual"
+  last_verified: "2026-10-26"

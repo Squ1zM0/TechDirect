@@ -1,0 +1,14 @@
+id: j-m-products
+name: J&M Products, Inc.
+website: https://jmproducts.com/
+categories:
+- electrical
+aliases: []
+support:
+- category: electrical
+  department: Customer Support
+  phone: '+18188370205'
+  country: US
+  notes: "Line support clamps and electrical wire harnesses for automotive and aerospace; San Fernando, CA, since 1963, 1647 Truman St. Explicitly NOT the San Luis Obispo J&M Mustang and Camaro parts company (a different company with a different number, not used here)."
+  source: https://jmproducts.com/
+  last_verified: '2026-10-26'

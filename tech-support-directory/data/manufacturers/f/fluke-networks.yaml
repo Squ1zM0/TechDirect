@@ -1,0 +1,14 @@
+id: fluke-networks
+name: "Fluke Networks"
+website: "https://www.fluke.com/en-us/support/customer-services/premium/networks"
+categories:
+- electrical
+aliases: []
+support:
+- category: electrical
+  department: "Technical Support"
+  phone: "+18002835853"
+  country: US
+  notes: "Fluke Networks, Fluke Corporation, Everett WA. Official Fluke support page lists USA 1-800-28FLUKE; email support@flukenetworks.com; alternate +1-425-446-5500. Fluke Networks has its OWN distinct support line and support email, so it gets its own file even though a fluke file exists; it is NOT parent-resolved to fluke. Network test instruments."
+  source: "https://www.fluke.com/en-us/support/customer-services/premium/networks"
+  last_verified: "2026-10-26"

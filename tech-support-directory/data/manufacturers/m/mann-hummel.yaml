@@ -1,0 +1,14 @@
+id: mann-hummel
+name: MANN+HUMMEL
+website: https://www.mann-hummel.com
+categories:
+- airflow
+aliases: []
+support:
+- category: airflow
+  department: Customer Support
+  phone: "+18777525811"
+  country: US
+  notes: Air Filtration Americas. Air and liquid filtration, HVAC filters.
+  source: https://www.mann-hummel.com/content/dam/website/mann-hummel/air-filtration/main-page/campaign/datacenter-us/air-filtration-in-data-centers-brochure.pdf
+  last_verified: "2026-10-26"

@@ -1,0 +1,18 @@
+id: icor
+name: ICOR International
+website: https://www.icorinternational.com/
+categories:
+- hvac
+aliases:
+- ICOR
+support:
+- category: hvac
+  department: Technical Support
+  phone: '+18664338324'
+  country: US
+  notes: 'ICOR International, Inc., Indianapolis, IN. Tech-2-Tech line 866-433-TECH, Mon-Fri 7:30am-4:30pm EST, labelled technical support. General line 800-497-6805 also published. Xref parent claims ICOR International (National Refrigerants); that parent claim is noted, not verified as a support route. Refrigerants.'
+  source: https://www.contractingbusiness.com/archive/article/20862836/icor-internationals-tech-support-team-now-nate-certified
+  last_verified: '2026-10-26'
+  hours:
+    timezone: ET
+    mon_fri: '7:30am-4:30pm'

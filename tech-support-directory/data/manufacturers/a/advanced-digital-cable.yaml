@@ -1,0 +1,13 @@
+id: advanced-digital-cable
+name: Advanced Digital Cable
+website: https://adcable.com
+categories: [electrical]
+aliases: ["ADC"]
+support:
+  - category: electrical
+    department: Customer Support
+    phone: "+18003432579"
+    country: US
+    notes: "Advanced Digital Cable (ADC), US manufacturer of building wire and electronic cable. Number printed on manufacturer catalogs and certificates of compliance; quality contact email qc@adcable.com also published."
+    source: "https://adcable.com/images/documents/Advanced Digital Cable's C of C Building Wire 2026.pdf"
+    last_verified: "2026-10-26"

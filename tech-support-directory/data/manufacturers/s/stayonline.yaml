@@ -1,0 +1,13 @@
+id: stayonline
+name: StayOnline
+website: https://www.stayonline.com
+categories: [electrical]
+aliases: []
+support:
+  - category: electrical
+    department: Customer Support
+    phone: "+18883464688"
+    country: US
+    notes: "StayOnline (Alder SOL Holdings, LLC dba StayOnline), Henderson, NC (data-center power cords, plug adapters and connectivity solutions; US manufacturing, founded 1987). Email sales@stayonline.com; local phone 919-529-3133 also published. NOT the defunct Atlanta hotel-internet StayOnline acquired by LodgeNet in 2006, a different company that once used the same domain."
+    source: "https://stayonline.blob.core.windows.net/docs/5744/5744_pcn.pdf"
+    last_verified: "2026-10-26"

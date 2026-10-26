@@ -1,0 +1,16 @@
+id: triad-floors
+name: Triad Floors
+website: https://triadfloors.com/
+categories:
+- airflow
+aliases: []
+support:
+- category: airflow
+  department: Customer Support
+  phone: '+18005181519'
+  country: US
+  notes: Triad Floors, a division of RLE Technologies, 104 Racquette Drive, Fort Collins, CO 80524; support@triadfloors.com.
+    Data-center raised-floor tiles and airflow solutions; acquired by RLE Technologies from NxGen (announced
+    2017). Not Triad Flooring & Bath, Greensboro, NC (residential installer).
+  source: https://triadfloors.com/wp-content/uploads/2017/12/Triad-ThermalContainment-v1.0.pdf
+  last_verified: '2026-10-26'

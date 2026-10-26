@@ -1,0 +1,16 @@
+id: napoleon
+name: Napoleon
+website: https://www.napoleon.com/en/us/corporate/company/contact-us
+categories: [hvac]
+aliases: ["Napoleon Fireplaces", "Napoleon Heating & Cooling"]
+support:
+  - category: hvac
+    department: Customer Support
+    phone: "+18668208686"
+    country: US
+    notes: "Napoleon (Wolf Steel Ltd.), Barrie ON, Canada (24 Napoleon Rd); fireplaces and heating/cooling share this one support line, per the US contact page. Grills support uses the same number until 8pm ET. Canadian HQ 705-721-1212; US plant Crittenden KY."
+    source: "https://www.napoleon.com/en/us/corporate/company/contact-us"
+    last_verified: "2026-10-26"
+    hours:
+      timezone: "ET"
+      mon_fri: "8:30 AM - 5:00 PM"

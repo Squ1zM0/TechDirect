@@ -1,0 +1,14 @@
+id: hartland-controls
+name: Hartland Controls
+categories:
+- hvac-controls
+- electrical
+aliases: []
+support:
+- category: hvac-controls
+  department: Customer Support
+  phone: '+18156265170'
+  country: US
+  notes: 'Hartland Controls, Rock Falls, IL. Source does not label a technical support department, so the general number is listed as Customer Support. Products: HVAC controls, relays, transformers.'
+  source: https://www.thomasnet.com/company/hartland-controls-30882375/profile
+  last_verified: '2026-10-26'

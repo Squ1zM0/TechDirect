@@ -1,0 +1,13 @@
+id: bosch-security
+name: Bosch Security
+website: https://www.boschsecurity.us
+categories: [electrical]
+aliases: ["Bosch Security Systems"]
+support:
+  - category: electrical
+    department: Technical Support
+    phone: "+18002890096"
+    country: US
+    notes: "Bosch Security Systems, Inc. (Fairport, NY) technical support, option 4 on the published line; 24/7 emergency support noted on Bosch contact pages. Distinct from Bosch Home Comfort and Bosch Power Tools."
+    source: "https://www.masstransitmag.com/safety-security/safety-services-products/company/10065089/bosch-security-systems-inc"
+    last_verified: "2026-10-26"

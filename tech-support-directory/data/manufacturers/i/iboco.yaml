@@ -1,0 +1,15 @@
+id: iboco
+name: IBOCO
+website: https://www.iboco.com/contact
+categories:
+- electrical
+aliases:
+- IBOCO CORP
+support:
+- category: electrical
+  department: Customer Support
+  phone: '+17324170066'
+  country: US
+  notes: 'IBOCO Corporation, Edison, NJ. Email iboco@iboco.com. US branch of the Bocchiotti Group; IBOCO is described as a brand of Hager Group and a wholly owned subsidiary of BOCCHIOTTI S.p.a. Wire duct, DIN rail, wire management.'
+  source: https://www.iboco.com/contact
+  last_verified: '2026-10-26'

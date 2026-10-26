@@ -1,0 +1,14 @@
+id: chint-power-systems-america
+name: Chint Power Systems America
+website: http://www.ChintPower.com/na
+categories: [electrical]
+aliases: ["CPS America", "Chint Power"]
+support:
+  - category: electrical
+    department: Customer Support
+    phone: "+18555847168"
+    country: US
+    email: AmericaSales@ChintPower.com
+    notes: "Chint Power Systems America (CPS America), Richardson, TX; PV inverters (residential string, commercial, utility); a division of Chint Group. Phone (855) 584-7168 per Thomasnet profile. An older (2010) manual lists a North America line 408-855-8932, not staged."
+    source: "https://www.thomasnet.com/company/chint-power-systems-30725268/profile"
+    last_verified: "2026-10-26"

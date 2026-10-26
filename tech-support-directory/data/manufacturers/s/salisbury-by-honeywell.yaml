@@ -1,0 +1,15 @@
+id: salisbury-by-honeywell
+name: Salisbury by Honeywell
+categories:
+- electrical
+aliases:
+- Salisbury
+support:
+- category: electrical
+  department: Technical Support
+  phone: '+18008735242'
+  country: US
+  notes: Salisbury by Honeywell, a Honeywell Safety brand. Honeywell PPE US Technical Support, prompt 4 = Technical Support Electrical Safety (Salisbury); HSPtechsupport@Honeywell.com. Salisbury Customer
+    Care 877-406-4501 is also noted. Lineman safety, insulating gloves and utility PPE. The composite 'Salisbury / Salco' entry is not covered by this file; its Salco side is unverified.
+  source: Honeywell SPS support article (How to contact the Technical Support Department for PPE US)
+  last_verified: '2026-10-26'

@@ -1,0 +1,13 @@
+id: macurco
+name: Macurco
+website: "https://macurco.com/macurco-applications/"
+categories: [hvac-controls]
+aliases: ["Macurco Gas Detection", "Macurco Inc."]
+support:
+  - category: hvac-controls
+    department: Customer Support
+    phone: "+18773677891"
+    country: US
+    notes: "Macurco Inc., Sioux Falls, SD (1504 W. 51st St.); gas detection monitors and controllers for commercial/industrial and parking-garage applications. Joined the DwyerOmega portfolio in October 2025 (DwyerOmega announcement), but Macurco keeps its own distinct published support number and email (Macurco_info@dwyeromega.com), so it is filed standalone rather than parent-resolved to dwyer-instruments, per the Wattstopper/LiteControl precedent. Hours Mon-Thu 8:00 AM-5:00 PM CST, Fri 8:00 AM-2:00 PM CST. The older 3M-era Macurco technical service number (1-800-243-4630) is superseded and is NOT published; the Chemtrec 24-hour line (1-833-723-3267) is emergency-only and is not the support number."
+    source: "https://macurco.com/macurco-applications/"
+    last_verified: "2026-10-26"

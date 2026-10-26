@@ -1,0 +1,14 @@
+id: federal-signal
+name: "Federal Signal"
+website: "https://www.fedsig.com/signaling-faqs/"
+categories:
+- electrical
+aliases: ["Federal Signal Corp."]
+support:
+- category: electrical
+  department: "Technical Support"
+  phone: "+17085873587"
+  country: US
+  notes: "Federal Signal Corporation, 2645 Federal Signal Drive, University Park, IL 60484, founded 1901. Federal Signal own FAQ page lists this number for its Technical Support Team and for Customer Service; the contact page also lists 1-708-534-4756 and the Integrated Systems Service Dept +1 877 289 3246. Customer Service toll-free 1-800-775-7621 noted as alternate. Signaling, warning lights, and sirens; electrical is the closest vocabulary term. Covers xref spellings Federal Signal and Federal Signal Corp."
+  source: "https://www.fedsig.com/signaling-faqs/"
+  last_verified: "2026-10-26"

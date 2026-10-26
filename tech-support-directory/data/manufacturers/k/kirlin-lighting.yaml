@@ -1,0 +1,17 @@
+id: kirlin-lighting
+name: Kirlin Lighting
+website: https://kirlinlighting.com/
+categories:
+- electrical
+aliases: []
+support:
+- category: electrical
+  department: Customer Support
+  phone: '+13132596400'
+  country: US
+  notes: "Healthcare and architectural luminaires; founded 1895, Detroit, MI, 3401 East Jefferson Avenue, Detroit, MI 48207-4232, info@kirlinlighting.com. Brands INFRALITE, INFRALED PRO, and SmartLED."
+  source: http://www.hcdsolutions.net/_medical-lighting/kirlin_infrali_60.pdf
+  last_verified: '2026-10-26'
+  hours:
+    timezone: "ET"
+    mon_fri: "8:00 AM - 5:00 PM"

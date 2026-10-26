@@ -1,0 +1,16 @@
+id: cambridge-lee
+name: Cambridge-Lee Industries
+website: http://www.camlee.com/
+categories: [plumbing, hvac]
+aliases: ["Cambridge-Lee", "Cambridge-Lee Industries, LLC"]
+support:
+  - category: plumbing
+    department: Customer Support
+    phone: "+16109264141"
+    country: US
+    notes: "Cambridge-Lee Industries, LLC, 86 Tube Dr, Reading, PA 19605, copper-focused manufacturer and distributor for plumbing, HVAC, industrial, construction and OEM markets; copper water tube Types K, L, M (ASTM B88), ACR/refrigeration coils (B280), DWV (B306), oxygen/medical tube (B819), wholly produced in the USA. Fax 610-926-7317. Variant numbers not used: 610-926-7351 (carrier registration) and 800-523-8263 (directory listing)."
+    source: "http://camlee.com/wp-content/uploads/2018/11/2018-09-ACR-Oxy-Med-Information-Sheet.pdf"
+    last_verified: "2026-10-26"
+    hours:
+      timezone: "ET"
+      mon_fri: "8:00 AM - 5:00 PM"

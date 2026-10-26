@@ -1,0 +1,17 @@
+id: veracity-usa
+name: Veracity USA
+website: https://www.veracityglobal.com/
+categories:
+- electrical
+aliases: []
+support:
+- category: electrical
+  department: Customer Support
+  phone: '+18006791590'
+  country: US
+  notes: Veracity USA Inc., Americas Sales Tel 1-800-679-1590; sales@veracityusa.com; support@veracityusa.com;
+    www.veracityglobal.com. IP transmission, PoE and network video products (POINTSOURCE, PINPOINT, OUTREACH,
+    OUTSOURCE). Retailer numbers (Shoplet 800-757-3015, Beach Audio 310-421-0293, ipcstore 800-676-8680)
+    are not Veracity support.
+  source: https://distrinode.lv/documents/892314002487/veracity-pointsource-wireless-fast-ethernet-48-v-wireless-ethernet-adapter-1222117-leaflet.pdf
+  last_verified: '2026-10-26'

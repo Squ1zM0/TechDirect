@@ -1,0 +1,20 @@
+id: schrader-international
+name: Schrader International
+website: https://schradertpms.com/
+categories:
+- hardware
+aliases:
+- Schrader TPMS Solutions
+support:
+- category: hardware
+  department: Technical Support
+  phone: '+18002881804'
+  country: US
+  notes: Schrader International / Schrader TPMS Solutions, a Sensata Technologies brand. Technical Support 8am-8pm EST Monday-Friday, 10am-2pm EST Saturday; aftermarketsupportNA@schraderintl.com. An aftermarket
+    support phone (800) 228-1804 also appears in a Schrader TSB and is noted. TPMS sensors and valves; hardware is the closest vocabulary term.
+  source: schradertpms.com documents (TECHNICAL SUPPORT 1-800-288-1804)
+  last_verified: '2026-10-26'
+  hours:
+    timezone: ET
+    mon_fri: 8:00 AM - 8:00 PM
+    sat: 10:00 AM - 2:00 PM

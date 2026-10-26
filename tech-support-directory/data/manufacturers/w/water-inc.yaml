@@ -1,0 +1,13 @@
+id: water-inc
+name: "Water, Inc."
+website: https://www.waterinc.com
+categories: [water-systems]
+aliases: []
+support:
+  - category: water-systems
+    department: Customer Support
+    phone: "+18887760942"
+    country: US
+    notes: "Western US distributor of drinking-water filtration/purification, whole-house treatment, decorative plumbing, luxury appliances. Number from the PRWeb release-footer company card."
+    source: "https://www.prweb.com/releases/smeg-appoints-water-inc-as-western-us-distribution-partner-807019696.html"
+    last_verified: "2026-10-26"

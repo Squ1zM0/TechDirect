@@ -1,0 +1,13 @@
+id: bocchi
+name: BOCCHI
+website: https://www.bocchiusa.com
+categories: [plumbing]
+aliases: ["Bocchi", "BOCCHI USA"]
+support:
+  - category: plumbing
+    department: Customer Support
+    phone: "+18775652221"
+    country: US
+    notes: "BOCCHI USA, 6590 Shiloh Rd East, Suite D, Alpharetta, GA 30005, maker of fireclay and granite-composite kitchen and bath sinks. Direct line 678-878-3771 also published. Email info@bocchiusa.com."
+    source: "https://www.bocchiusa.com/Catalogues/pdfs/Kitchen.pdf"
+    last_verified: "2026-10-26"

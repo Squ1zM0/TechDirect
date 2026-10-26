@@ -1,0 +1,15 @@
+id: htpg
+name: Heat Transfer Products Group
+website: https://www.htpg.com/
+categories:
+- hvac
+aliases:
+- HTPG
+support:
+- category: hvac
+  department: Customer Support
+  phone: '+18554872787'
+  country: US
+  notes: 'Heat Transfer Products Group (HTPG), a Rheem Mfg. Co. brand, Duluth, GA. Parts and help line 1-855-HTPARTS, digits printed in the source manual. Email parts@htpg.com. ACHR News also lists 800-535-9538. Commercial refrigeration. Not HTP (Ariston), whose Technical Support 800-323-9651 is a different company and was not used.'
+  source: https://files.myrheem.com/webpartners/ProductDocuments/4EF369F9-A4B3-454D-AABC-3DDDE8D01EF4.pdf
+  last_verified: '2026-10-26'

@@ -1,0 +1,13 @@
+id: etco
+name: "Etco"
+categories:
+- electrical
+aliases: []
+support:
+- category: electrical
+  department: "Customer Support"
+  phone: "+18006893826"
+  country: US
+  notes: "ETCO Incorporated, Bradenton FL, founded 1947. Toll-free line printed in ETCO brochures; alternate 941-756-8426. Terminals and connectors. NOT the New Zealand Etco - The Electrical Training Company (etco.co.nz, +64 number), which is a different company. NOT the xref spelling Etcon, which is NEEDS-HUMAN."
+  source: "https://www.etco.com/wp-content/uploads/Connectors-Terminals-Medical-brochure.pdf"
+  last_verified: "2026-10-26"

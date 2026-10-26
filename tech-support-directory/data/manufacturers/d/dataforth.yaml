@@ -1,0 +1,15 @@
+id: dataforth
+name: Dataforth Corporation
+website: https://www.dataforth.com
+categories:
+  - electrical
+aliases:
+  - Dataforth
+support:
+  - category: Technical Support
+    department: Technical Support
+    phone: "+18004447644"
+    country: US
+    notes: "Signal conditioning and data acquisition modules (5B/8B isolated analog modules, DIN-rail converters), Tucson, AZ. Toll-free technical support line per the company's own site; local 520-741-1404 and support@dataforth.com also published."
+    source: "https://www.dataforth.com/8b-rtd-signal-conditioner"
+    last_verified: "2026-10-26"

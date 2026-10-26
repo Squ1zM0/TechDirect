@@ -1,0 +1,13 @@
+id: freudenberg-filtration-technologies
+name: 'Freudenberg Filtration Technologies'
+categories:
+- hvac
+aliases: []
+support:
+- category: hvac
+  department: 'Customer Support'
+  phone: '+18005422804'
+  country: US
+  notes: 'Official site Call us line. Air filtration, so hvac is the closest vocabulary term.'
+  source: 'https://www.freudenberg-filter.com/markets/industrial/gas-turbines-and-compressors/power-generation/'
+  last_verified: '2026-10-26'

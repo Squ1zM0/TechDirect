@@ -1,0 +1,12 @@
+id: lynxspring
+name: Lynxspring
+website: "https://www.lynxspring.com"
+categories: [hvac-controls]
+support:
+  - category: hvac-controls
+    department: Customer Support
+    phone: "+18776495969"
+    country: US
+    notes: "Lynxspring, Inc., Lee's Summit, MO (2900 NE Independence Ave.); building automation controls company (JENEsys Edge controllers, Onyxx controllers and IO modules, Connexxion data platform) built on the Niagara Framework. Toll-free number from Lynxspring's own site footer (sales@lynxspring.com also published); direct (816) 347-3500 also published."
+    source: "https://www.lynxspring.com/partners/"
+    last_verified: "2026-10-26"

@@ -1,0 +1,13 @@
+id: american-connectors
+name: American Connectors
+website: https://www.americanconnectors.com
+categories: [electrical]
+aliases: ["American Connectors, Inc.", "American Connectors Inc."]
+support:
+  - category: electrical
+    department: Customer Support
+    phone: "+18005356268"
+    country: US
+    notes: "American Connectors, Inc., 2006 Martin Luther King Fwy, Fort Worth, TX 76104. Manufacturer of Per Fit metal-clad (MC) cable connectors since 1986, including hazardous-location watertight connectors; toll-free number printed on the manufacturer's own product manuals (fax (817) 536-0546, direct (817) 535-6268 also published)."
+    source: "https://usermanual.wiki/m/1af59438e52c695bd1ce0114c7894cd83fb85a0e29b236ec8a74fdff5bc80a17.pdf"
+    last_verified: "2026-10-26"

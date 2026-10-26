@@ -1,0 +1,13 @@
+id: engenius
+name: "EnGenius Technologies"
+categories:
+- electrical
+aliases: []
+support:
+- category: electrical
+  department: "Technical Support"
+  phone: "+18887357888"
+  country: US
+  notes: "EnGenius Technologies (xref parent EnGenius). Manual section headed Contacting Technical Support. Email support@engeniustech.com. Networking and wireless; electrical is the closest vocabulary term."
+  source: "https://www.manualsdir.com/manuals/85830/engenius-technologies-enh500.html?page=76"
+  last_verified: "2026-10-26"

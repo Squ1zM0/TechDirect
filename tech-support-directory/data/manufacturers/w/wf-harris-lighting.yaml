@@ -1,0 +1,16 @@
+id: wf-harris-lighting
+name: "W.F. Harris Lighting, Inc."
+website: https://www.wfharris.com
+categories: [electrical]
+aliases: ["W.F. Harris Lighting"]
+support:
+  - category: electrical
+    department: Technical Support
+    phone: "+18008429345"
+    country: US
+    notes: "Worklight manual: For technical questions, please contact W. F. Harris Lighting, Inc., at 800.842.9345. Local 704-283-7477; email customerservice@wfharris.com; hours 8am-5pm ET Mon-Fri. Monroe NC."
+    source: "https://www.wfharris.com/contact"
+    last_verified: "2026-10-26"
+    hours:
+      timezone: "ET"
+      mon_fri: "8:00 AM - 5:00 PM"

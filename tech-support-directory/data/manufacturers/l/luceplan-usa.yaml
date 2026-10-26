@@ -1,0 +1,12 @@
+id: luceplan-usa
+name: Luceplan USA
+website: "https://www.luceplan.com"
+categories: [electrical]
+support:
+  - category: electrical
+    department: Customer Support
+    phone: "+12123341809"
+    country: US
+    notes: "Luceplan USA, New York, NY (14 Wooster Street); US arm of Italian lighting design company Luceplan. Number from Luceplan's own terms and conditions document (Customer Service Department, infoUS@luceplan.com also published). A Sweets directory listing for an older 26 Broadway address separately publishes (212) 989-6265, noted here, not used as primary."
+    source: "https://hilightingassociates.com/wp-content/uploads/2021/01/LUCEPLAN-2018_2019-TermsConditions.pdf"
+    last_verified: "2026-10-26"

@@ -1,0 +1,14 @@
+id: mars-air-systems
+name: Mars Air Systems
+website: https://marsair.com
+categories:
+- airflow
+aliases: []
+support:
+- category: airflow
+  department: Customer Support
+  phone: "+18004211266"
+  country: US
+  notes: Air curtains / air doors. Email sales@marsair.com. NOT MARS (Motors & Armatures, marsdelivers.com); near-miss MARS rejected, different company.
+  source: https://marsair.com/pdf/Manufacturing-Warehouse-And-Distribution-2025.pdf
+  last_verified: "2026-10-26"

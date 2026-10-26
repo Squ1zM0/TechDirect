@@ -1,0 +1,16 @@
+id: black-decker
+name: Black & Decker
+website: https://www.blackanddecker.com
+categories: [hardware]
+aliases: ["Black and Decker", "BLACK+DECKER"]
+support:
+  - category: hardware
+    department: Customer Support
+    phone: "+18005446986"
+    country: US
+    notes: "BLACK+DECKER help line for power tools, batteries and chargers; parent Stanley Black & Decker. Full two-year home use warranty on tools. Category mapping: power tools have no dedicated vocabulary term; hardware is the closest."
+    source: "https://support.blackanddecker.com/hc/en-us/article_attachments/360012545358"
+    last_verified: "2026-10-26"
+    hours:
+      timezone: "ET"
+      mon_fri: "8:00 AM - 5:00 PM"

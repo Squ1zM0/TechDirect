@@ -1,0 +1,13 @@
+id: sensorswitch
+name: SensorSwitch
+website: https://www.acuitybrands.com/sensorswitch
+categories: [electrical]
+aliases: []
+support:
+  - category: electrical
+    department: Technical Support
+    phone: "+18005352465"
+    country: US
+    notes: "SensorSwitch is an Acuity Brands Lighting brand (lighting controls and sensors). SensorSwitch Technical Support, option 2 on the Acuity controls support line; support email ssi-support@acuitybrands.com. The nLight lighting-controls platform shares this same Acuity support number (800-535-2465)."
+    source: "https://acuitybrands.my.site.com/s/article/System-Specs-nLight-AIR-vs-SensorSwitch-JOT"
+    last_verified: "2026-10-26"

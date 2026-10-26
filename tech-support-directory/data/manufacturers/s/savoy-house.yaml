@@ -1,0 +1,14 @@
+id: savoy-house
+name: Savoy House
+website: https://savoyhouse.com/
+categories:
+- electrical
+aliases: []
+support:
+- category: electrical
+  department: Customer Support
+  phone: '+18008011621'
+  country: US
+  notes: Savoy House, 3130 N. Berkley Lake Road NW, Duluth, GA. info@savoyhouse.com. Family-owned decorative lighting.
+  source: electricaltrends.com NAED article (contact them at 800-801-1621)
+  last_verified: '2026-10-26'

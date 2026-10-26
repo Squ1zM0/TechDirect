@@ -1,0 +1,13 @@
+id: special-mine-services
+name: Special Mine Services
+website: https://www.specialmineservices.com
+categories: [electrical]
+aliases: []
+support:
+  - category: electrical
+    department: Customer Support
+    phone: "+16189322151"
+    country: US
+    notes: "Special Mine Services, Inc., West Frankfort, IL (manufacturer of industrial electrical connectors for mining, tunneling, heavy equipment and entertainment; Uni-Lock and multi-pole connectors, CSA/UL certified; also a mining-supply distributor with in-house machining, welding and fabrication)."
+    source: "https://southernillinoisexports.org/es/exporters-by-industry/special-mine-services-inc/"
+    last_verified: "2026-10-26"

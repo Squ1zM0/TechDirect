@@ -1,0 +1,15 @@
+id: highside-chemicals
+name: Highside Chemicals
+website: http://www.highsidechem.com/
+categories:
+- hvac
+aliases:
+- Highside
+support:
+- category: hvac
+  department: Customer Support
+  phone: '+12288969220'
+  country: US
+  notes: 'Highside Chemicals, Inc., Gulfport, MS. HVAC/R cleaners, coil cleaners. Older toll-free 800-359-5599 seen on a product sheet; the current SDS supplier-block number is used as primary.'
+  source: https://www.highsidechem.com/wp-content/uploads/2025/02/HVACR-PLUMBING-AND-AUTOMOTIVE-PATCH-BONDING-CELLS.pdf
+  last_verified: '2026-10-26'

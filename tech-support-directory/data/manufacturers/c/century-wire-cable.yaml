@@ -1,0 +1,14 @@
+id: century-wire-cable
+name: Century Wire & Cable
+website: https://www.centurywire.com/
+categories: [electrical]
+aliases: ["Century Wire and Cable"]
+support:
+  - category: electrical
+    department: Customer Support
+    phone: "+18009995566"
+    country: US
+    email: contact@centurywire.com
+    notes: "Century Wire & Cable, Commerce, CA (founded 1982); extension cords, wire, cable, connectors and job-site cord sets. Customer Service phone (800) 999-5566 published on centurywire.com. Distinct from Century Motors (Regal Rexnord, covered by existing TechDirect file 'century') and from CenturyLink."
+    source: "https://www.centurywire.com/sprinkler-cable"
+    last_verified: "2026-10-26"

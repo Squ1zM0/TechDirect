@@ -1,0 +1,16 @@
+id: bosch-tool
+name: Bosch Tool
+website: https://www.boschtools.com/us/en/service/contact-us/
+categories: [hardware]
+aliases: ["Bosch Power Tools"]
+support:
+  - category: hardware
+    department: Customer Support
+    phone: "+18772672499"
+    country: US
+    notes: "Robert Bosch Tool Corporation customer service for Bosch power tools, measuring tools, batteries and chargers; email bosch.tools@us.bosch.com. Distinct from Bosch Home Comfort and Bosch Security. Category mapping: power tools have no dedicated vocabulary term; hardware is the closest."
+    source: "https://www.boschtools.com/us/en/service/product-warranty/"
+    last_verified: "2026-10-26"
+    hours:
+      timezone: "CT"
+      mon_fri: "7:00 AM - 5:30 PM"

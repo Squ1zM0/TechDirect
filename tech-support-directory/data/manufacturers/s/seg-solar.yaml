@@ -1,0 +1,16 @@
+id: seg-solar
+name: SEG Solar
+website: https://segsolar.com/
+categories:
+- electrical
+aliases: []
+support:
+- category: electrical
+  department: Customer Support
+  phone: '+12818615723'
+  country: US
+  notes: 'SEG Solar, Inc., headquartered in Houston, TX (10625 Telge Rd, Houston, TX 77095). Solar PV modules; no solar category exists in the vocabulary, so electrical is the closest term. Conflict noted,
+    not silently resolved: EnergySage lists a Pleasanton, CA address (6200 Stoneridge Mall Rd Ste 300) with 925-468-4198; the Houston HQ number is used as primary per the June 2026 newswire and the 2026-09-28
+    SignalHire profile. Not the bare ''SEG'' entry, which is a separate NEEDS-HUMAN row.'
+  source: SignalHire profile (updated 2026-09-28) and SEG Solar June 2026 newswire
+  last_verified: '2026-10-26'

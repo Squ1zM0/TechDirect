@@ -1,0 +1,19 @@
+id: imperial
+name: Imperial Tools
+website: https://www.imperialtools.com/
+categories:
+- hvac
+aliases:
+- Imperial
+- Imperial (Stride Tool)
+support:
+- category: hvac
+  department: Customer Support
+  phone: '+18884678665'
+  country: US
+  notes: 'Imperial Tools (Stride Tool), Glenwillow, OH. Toll-free line is primary; local 440-247-4600; email info@stridetool.com. Imperial is the flagship brand of Stride Tool. HVAC/R tube-working tools: benders, cutters, flaring and swaging tools, service manifolds. Distinct from Imperial Blades, a separate company with its own file.'
+  source: https://imperial-tools.com/contact/
+  last_verified: '2026-10-26'
+  hours:
+    timezone: ET
+    mon_fri: '8am-5:30pm'

@@ -1,0 +1,13 @@
+id: z-lite
+name: "Z-Lite Inc."
+website: https://www.zlite.com
+categories: [electrical]
+aliases: ["Z-Lite"]
+support:
+  - category: electrical
+    department: Customer Support
+    phone: "+18006819943"
+    country: US
+    notes: "Email info@zlite.com. Lighting fixtures. Older listings show z-lite.com / info@z-lite.com; current manufacturer sheets show zlite.com (used here)."
+    source: "https://assets.lampsplus.com/productassets/3c61e9de-986e-4c31-9125-ab47fea619ca.pdf"
+    last_verified: "2026-10-26"

@@ -1,0 +1,13 @@
+id: pepperl-fuchs
+name: Pepperl+Fuchs
+website: https://www.pepperl-fuchs.com
+categories: [electrical]
+aliases: ["Pepperl Fuchs", "PEPPERL+FUCHS"]
+support:
+  - category: electrical
+    department: Customer Support
+    phone: "+13304860001"
+    country: US
+    notes: "Pepperl+Fuchs Group, USA contact published in official Pepperl+Fuchs product catalogs (fa-info@us.pepperl-fuchs.com). General USA contact; not labelled technical support, so recorded as Customer Support. Covers xref spellings Pepperl Fuchs and PEPPERL+FUCHS. Industrial sensors, intrinsic safety, and explosion-protection products."
+    source: "http://files.pepperl-fuchs.com/online-catalogs/245613/files/assets/basic-html/page1098.html"
+    last_verified: "2026-10-26"

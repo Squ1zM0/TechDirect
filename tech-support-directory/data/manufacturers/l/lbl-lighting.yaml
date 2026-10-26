@@ -1,0 +1,12 @@
+id: lbl-lighting
+name: LBL Lighting
+categories: [electrical]
+aliases: ["LBL LTG"]
+support:
+  - category: electrical
+    department: Customer Support
+    phone: "+18003233226"
+    country: US
+    notes: "LBL Lighting, Skokie, IL; a Generation Brands company. Toll-free number from LBL product manuals; direct line 847-626-6300 also published."
+    source: "https://www.manualsdir.com/manuals/415474/lbl-lighting-fsj-recessed-can-adapter-6-led-fsj-recessed-can-adapter-6.html?page=4"
+    last_verified: "2026-10-26"

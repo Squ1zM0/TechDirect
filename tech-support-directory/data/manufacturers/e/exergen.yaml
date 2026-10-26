@@ -1,0 +1,14 @@
+id: exergen
+name: "Exergen"
+website: "http://www.exergen.com/consumer-return-authorization-form/"
+categories:
+- electrical
+aliases: []
+support:
+- category: electrical
+  department: "Customer Support"
+  phone: "+16179239900"
+  country: US
+  notes: "Exergen Corporation, Watertown MA. RMA page lists service as option 3, hours 9AM-5PM EST. Email service@exergen.com. Infrared thermometers and instruments; electrical is the closest vocabulary term."
+  source: "http://www.exergen.com/consumer-return-authorization-form/"
+  last_verified: "2026-10-26"

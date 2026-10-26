@@ -1,0 +1,16 @@
+id: earnest-machine
+name: Earnest Machine
+website: https://www.earnestmachine.com
+categories: [hardware]
+aliases: ["Earnest Machine Products Co.", "Earnest Machine Products"]
+support:
+  - category: hardware
+    department: Customer Support
+    phone: "+18003276378"
+    country: US
+    notes: "Earnest Machine Products Co. (Rocky River, OH, founded 1948) master distributor of large-diameter and specialty industrial fasteners. Toll-free line from the company's official About Us page; email Inquiry@EarnestMachine.com; direct 216-362-1100 also published."
+    source: "https://www.earnestmachine.com/about-us"
+    last_verified: "2026-10-26"
+    hours:
+      timezone: "ET"
+      mon_fri: "8:00 AM - 5:00 PM"

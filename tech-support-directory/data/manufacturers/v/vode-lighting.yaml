@@ -1,0 +1,13 @@
+id: vode-lighting
+name: "Vode Lighting"
+website: https://www.vode.com
+categories: [electrical]
+aliases: []
+support:
+  - category: electrical
+    department: Technical Support
+    phone: "+17079969898"
+    country: US
+    notes: "Explicitly labeled Technical Support. Email technicalsupport@vode.com."
+    source: "https://drprod.vode.com/sites/default/files/documents/Tunable%20White%20and%20Dim%20to%20Warm-Feb26.pdf"
+    last_verified: "2026-10-26"

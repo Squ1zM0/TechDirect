@@ -1,0 +1,14 @@
+id: klockner-moeller
+name: Klöckner-Moeller
+website: https://www.eaton.com/us/en-us.html
+categories:
+- electrical
+aliases: []
+support:
+- category: electrical
+  department: Technical Support
+  phone: '+18773862273'
+  country: US
+  notes: "LEGACY BRAND, OWN FILE: Klöckner-Moeller became Moeller, and Moeller products are now the Eaton Moeller series (Radwell listings show manufacturer EATON CORPORATION / KLOCKNER MOELLER). Filed with the successor Eaton professional/contractor technical support line from the existing Eaton file. Note: klocknermoeller.com is an independent parts distributor (kmparts.com), not the manufacturer, and its numbers were not used as the brand's number."
+  source: https://www.eaton.com/us/en-us/support/contact-us.html
+  last_verified: '2026-10-26'

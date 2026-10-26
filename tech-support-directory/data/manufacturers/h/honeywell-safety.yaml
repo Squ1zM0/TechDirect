@@ -1,0 +1,15 @@
+id: honeywell-safety
+name: Honeywell Safety
+categories:
+- electrical
+aliases:
+- Honeywell PPE
+- Honeywell Industrial Safety
+support:
+- category: electrical
+  department: Technical Support
+  phone: '+18008735242'
+  country: US
+  notes: 'Honeywell PPE / Industrial Safety Division (HIS) Technical Support Department, with product-specific prompts (General Safety; High Risk respiratory and fall; Electrical Safety and Salisbury; Repairs). Email HSPtechsupport@Honeywell.com. Also published: Customer Care 800-836-8006 and repairs email HSPRepairs@honeywell.com. A division with its own distinct support contact keeps its own file. PPE and safety products; no safety or PPE term in the category vocabulary, so electrical is used as the closest term.'
+  source: https://sps-support.honeywell.com/s/article/How-to-contact-the-Technical-Support-Department-for-PPE-US
+  last_verified: '2026-10-26'

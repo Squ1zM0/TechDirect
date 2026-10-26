@@ -1,0 +1,13 @@
+id: ge-lighting
+name: 'GE Lighting'
+categories:
+- electrical
+aliases: ['G.E. Lighting', 'GE LIGHTING/LAMPS']
+support:
+- category: electrical
+  department: 'Customer Support'
+  phone: '+18004354448'
+  country: US
+  notes: 'Parent Savant. Cync smart-home support 844-302-2943, Mon - Fri 10 AM - 7 PM ET, also published. Covers batch spellings G.E. Lighting, GE Lighting, and GE LIGHTING/LAMPS.'
+  source: 'https://www.nema.org/membership/manufacturers/view/ge-lighting-a-savant-company'
+  last_verified: '2026-10-26'

@@ -1,0 +1,13 @@
+id: lm-curbs
+name: LM Curbs
+website: "https://www.lmcurbs.com"
+categories: [hvac]
+aliases: ["LMCurbs"]
+support:
+  - category: hvac
+    department: Customer Support
+    phone: "+18002841412"
+    country: US
+    notes: "LMCurbs (LM Curbs), Longview, TX (827 Fisher Rd.); metal-building roof curbs and accessories, 30+ years. Number from LMCurbs' own site product pages (direct 903-759-1331 also published in a BRS spec section). HVAC is the closest category-vocabulary term for roof curbs (sheet-metal HVAC accessories)."
+    source: "https://www.lmcurbs.com/products/utility-clamps/s-5-n1-5/"
+    last_verified: "2026-10-26"

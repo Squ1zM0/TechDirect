@@ -1,0 +1,12 @@
+id: temposonics
+name: "Temposonics"
+categories: [electrical]
+aliases: []
+support:
+  - category: electrical
+    department: Customer Support
+    phone: "+19196770100"
+    country: US
+    notes: "Temposonics magnetostrictive position sensors; MTS Sensors (MTS Systems Corporation) brand, Cary NC (3001 Sheldon Drive). Americas and APAC region line; email info.us@temposonics.com."
+    source: "https://www.temposonics.com/docs/temposonicslibraries/literature/e/data_sheet_e-series_ep_el_canopen_551307_en.pdf?sfvrsn=7410d925_10"
+    last_verified: "2026-10-26"

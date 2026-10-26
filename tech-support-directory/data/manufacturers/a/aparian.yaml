@@ -1,0 +1,12 @@
+id: aparian
+name: Aparian
+categories: [electrical]
+aliases: ["Aparian, Inc."]
+support:
+  - category: electrical
+    department: Customer Support
+    phone: "+19494454109"
+    country: US
+    notes: "Industrial communication modules (gateways/converters for PLC networks, sold under the Prosoft Technology P3 program), Irvine CA (24 Twain). Line published in Aparian's own CE/ATEX declarations; sales@aparian.com also published."
+    source: "https://www.prosoft-technology.com/prosoft/download/13997/316999/file/Aparian P3 - File 2 - CE_ATEX Declaration of Conformity R1.0_A-TSM-B.pdf"
+    last_verified: "2026-10-26"

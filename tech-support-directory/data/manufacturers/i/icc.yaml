@@ -1,0 +1,14 @@
+id: icc
+name: ICC
+website: https://www.icc.com/
+categories:
+- electrical
+aliases: []
+support:
+- category: electrical
+  department: Technical Support
+  phone: '+18882754422'
+  country: US
+  notes: 'ICC structured cabling (formerly International Connectors), Cerritos, CA. Customer Care / Technical Support line (source label), published as 888-275-4422 (ASK-4-ICC), digits printed in ICC documents. Email CSR@ICC.COM; local 562-356-3111. Not connecticc.com (a different ICC interconnect distributor, 800-422-3911) or iccusa.net (a Fort Collins cabling installer, 970-419-0602).'
+  source: https://assets.usesi.com/product-media/installation-instructions/USESI_500323_installation_instructions.pdf
+  last_verified: '2026-10-26'

@@ -1,0 +1,13 @@
+id: quantum
+name: Quantum
+website: https://www.quantum.com/en/service-support/
+categories: [electrical]
+aliases: ["Quantum Storage Systems"]
+support:
+  - category: electrical
+    department: Customer Support
+    phone: "+18772191869"
+    country: US
+    notes: "Quantum Storage Systems (quantum.com). Storage hardware; no storage term exists in the category vocabulary, so mapped to electrical. Other Quantum support numbers also appear on older pages; the current service-page number is used."
+    source: "https://www.quantum.com/en/service-support/"
+    last_verified: "2026-10-26"

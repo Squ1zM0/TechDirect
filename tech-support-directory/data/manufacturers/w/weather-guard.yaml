@@ -1,0 +1,13 @@
+id: weather-guard
+name: "Weather Guard"
+website: https://www.weatherguard.com
+categories: [hardware]
+aliases: []
+support:
+  - category: hardware
+    department: Customer Support
+    phone: "+18004567865"
+    country: US
+    notes: "Werner Co. brand. Truck storage; closest vocabulary term: hardware. Parent: Werner Co."
+    source: "https://assets.northerntool.com//products/599/documents/manuals/5994331_1.pdf"
+    last_verified: "2026-10-26"

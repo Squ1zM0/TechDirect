@@ -1,0 +1,13 @@
+id: 3m
+name: 3M
+website: https://www.3m.com/3M/en_US/company-us/help-center/
+categories: [electrical]
+aliases: ["3M Company"]
+support:
+  - category: electrical
+    department: Customer Support
+    phone: "+18883643577"
+    country: US
+    notes: "3M general help line (1-888-3M-HELPS) published on 3M's official Help Center. Covers 3M divisions including 3M Aqua-Pure, 3M Dynatel and 3M Venture Tape, which have no distinct support contact of their own. Former 3M Health Care business is now Solventum (see 3m-health-care file)."
+    source: "https://www.3m.com/3M/en_US/company-us/help-center/"
+    last_verified: "2026-10-26"

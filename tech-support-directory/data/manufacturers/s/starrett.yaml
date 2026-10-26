@@ -1,0 +1,13 @@
+id: starrett
+name: Starrett
+website: https://www.starrett.com
+categories: [hardware]
+aliases: []
+support:
+  - category: hardware
+    department: Customer Support
+    phone: "+18886747443"
+    country: US
+    notes: "The L.S. Starrett Company, Athol, MA (precision measuring tools and gages, optical comparators and vision systems, force and hardness testing, saw blades and shop tools; founded 1880). Local phone 978-249-3551 also published; email general@starrett.com. NOT starrettus.com, a lookalike site publishing a placeholder 800-555-1234 number."
+    source: "https://www.starrett.com/products/made-in-america"
+    last_verified: "2026-10-26"

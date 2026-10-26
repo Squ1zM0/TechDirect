@@ -1,0 +1,13 @@
+id: bromic
+name: Bromic
+website: https://www.bromic.com/heating
+categories: [hvac]
+aliases: ["Bromic Heating"]
+support:
+  - category: hvac
+    department: Customer Support
+    phone: "+18003011293"
+    country: US
+    notes: "Bromic Heating, head office Ingleburn NSW, Australia, maker of Platinum, Tungsten and Eclipse Smart-Heat gas and electric outdoor heaters. Australian company; the US toll-free line from Bromic's own installation manuals is used here. Australian line 1300 276 642 not published as a US contact."
+    source: "https://manualsfile.com/product/k5bcqib1wp5.html"
+    last_verified: "2026-10-26"

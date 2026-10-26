@@ -1,0 +1,13 @@
+id: accurate-connections
+name: Accurate Connections
+website: https://www.accurateconnections.com
+categories: [electrical]
+aliases: ["Accurate Connections, Inc."]
+support:
+  - category: electrical
+    department: Customer Support
+    phone: "+19724848500"
+    country: US
+    notes: "Accurate Connections, Inc., 13801 Hutton Drive, Suite 100, Farmers Branch, TX 75234. Manufacturer of custom fiber-optic and copper cable assemblies, patch cords and harnesses for telecom networks."
+    source: "https://www.adapt.io/company/accurate-connections--inc-"
+    last_verified: "2026-10-26"

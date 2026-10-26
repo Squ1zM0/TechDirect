@@ -1,0 +1,13 @@
+id: electrocube
+name: Electrocube
+website: https://www.electrocube.com
+categories: [electrical]
+aliases: ["Electrocube, Inc."]
+support:
+  - category: electrical
+    department: Customer Support
+    phone: "+19095954037"
+    country: US
+    notes: "Electrocube (Pomona, CA) custom and standard passive power components: film capacitors, resistors, EMI filters and high-frequency transformers; also the Bishop Electronics, Seacor, Southern Electronics and F-Dyne brands. Factory-direct line from the company's own distributor page; distributor Future Electronics lists 800-675-1619."
+    source: "https://www.electrocube.com/pages/sales-distributors-list-n0s"
+    last_verified: "2026-10-26"

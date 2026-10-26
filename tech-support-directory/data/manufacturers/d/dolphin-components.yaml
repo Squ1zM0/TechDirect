@@ -1,0 +1,13 @@
+id: dolphin-components
+name: Dolphin Components
+website: https://www.dolphincomponents.com
+categories: [electrical]
+aliases: ["Dolphin Components Corp."]
+support:
+  - category: electrical
+    department: Customer Support
+    phone: "+18008586869"
+    country: US
+    notes: "Dolphin Components Corp. (Delray Beach, FL) connectors, cable ties and low-voltage components. Toll-free line and email salesorders@dolphincomponents.com from the company's own catalog/spec sheets. Not to be confused with Dolphin Computer Access (UK assistive software) or Dolphin Manufacturing LLC (UAE cooling)."
+    source: "https://dev2.discount-low-voltage.com/pdf/Dolphin-Components-Dolphin_Connectors.pdf"
+    last_verified: "2026-10-26"

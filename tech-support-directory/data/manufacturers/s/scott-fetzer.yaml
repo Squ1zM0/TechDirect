@@ -1,0 +1,15 @@
+id: scott-fetzer
+name: Scott Fetzer Company
+categories:
+- hardware
+aliases:
+- Scott Fetzer
+support:
+- category: hardware
+  department: Customer Support
+  phone: '+14408923000'
+  country: US
+  notes: 'Scott Fetzer Company, 28800 Clemens Road, Westlake, OH 44145; a Berkshire Hathaway subsidiary. Note: this is the corporate headquarters main number. Scott Fetzer is a diversified manufacturer
+    with no single published product-support line; its individual operating brands have their own contacts. The HQ number is published here with that caveat, not as a product tech line.'
+  source: FundingUniverse history and CB Insights (HQ 28800 Clemens Road, Westlake, OH)
+  last_verified: '2026-10-26'

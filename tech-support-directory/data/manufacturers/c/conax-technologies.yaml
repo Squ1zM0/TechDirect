@@ -1,0 +1,14 @@
+id: conax-technologies
+name: Conax Technologies
+website: https://www.conaxtechnologies.com/
+categories: [electrical]
+aliases: ["Conax"]
+support:
+  - category: electrical
+    department: Customer Support
+    phone: "+18002232389"
+    email: conax@conaxtechnologies.com
+    country: US
+    notes: "Conax Technologies, Buffalo, NY (founded 1953); temperature sensors (thermocouples, RTDs), compression seal fittings, feedthroughs, cable/harness assemblies for aerospace, power generation, semiconductor, oil & gas. Number per Conax's own catalogs; local line (716) 684-7433 also published."
+    source: "https://www.conaxtechnologies.com/wp-content/themes/conax/pdf/6002.pdf"
+    last_verified: "2026-10-26"

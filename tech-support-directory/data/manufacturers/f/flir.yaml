@@ -1,0 +1,14 @@
+id: flir
+name: "FLIR"
+website: "https://flir.custhelp.com/app/answers/list/p/461"
+categories:
+- electrical
+aliases: ["FLIR Systems"]
+support:
+- category: electrical
+  department: "Technical Support"
+  phone: "+18053923775"
+  country: US
+  notes: "Teledyne FLIR (FLIR Systems), 27700 SW Parkway Ave, Wilsonville OR. FLIR own support knowledge base lists this international tech support line, Monday to Friday, English around the clock. Machine-vision Americas line +1 604 242 9937 option 2; general listings also show 1-800-254-0630 and 877-773-3547, noted as alternates. Parent Teledyne. Extech parent is also Teledyne FLIR, but FLIR gets its own file because it has its own distinct support lines. Thermal imaging and test instruments; electrical is the closest vocabulary term. Covers xref spellings FLIR and FLIR Systems."
+  source: "https://flir.custhelp.com/app/answers/list/p/461"
+  last_verified: "2026-10-26"

@@ -1,0 +1,13 @@
+id: crouzet
+name: Crouzet
+website: https://www.crouzet.com
+categories: [electrical]
+aliases: []
+support:
+  - category: electrical
+    department: Customer Support
+    phone: "+18559295465"
+    country: US
+    notes: "Crouzet Americas customer service per the manufacturer's own brochure; email americas.custserv@crouzet.com. Controls, relays, motors and automation components. An older US toll-free number 800-677-5311 appears in older Crouzet literature."
+    source: "https://media.crouzet.com/catalog/_brochures/en/CZ_Brochure_Industry_EN-US.pdf"
+    last_verified: "2026-10-26"

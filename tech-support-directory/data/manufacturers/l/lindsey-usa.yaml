@@ -1,0 +1,13 @@
+id: lindsey-usa
+name: Lindsey USA
+website: "http://www.lindsey-usa.com/"
+categories: [electrical]
+aliases: ["Lindsey Systems", "Lindsey Manufacturing Company", "Lindsey"]
+support:
+  - category: electrical
+    department: Customer Support
+    phone: "+16269693471"
+    country: US
+    notes: "Lindsey Manufacturing Company / Lindsey Systems, Azusa, CA (founded 1947); transmission and distribution hardware, sensors, emergency restoration systems for electric utilities. Number published on Lindsey's own installation instructions (mail@lindseyusa.com also published)."
+    source: "http://lindsey-usa.com/wp-content/uploads/2015/10/SVMI-INSTALLATION-INSTRUCTIONS.pdf"
+    last_verified: "2026-10-26"

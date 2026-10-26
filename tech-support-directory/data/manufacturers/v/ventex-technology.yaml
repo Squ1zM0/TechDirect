@@ -1,0 +1,16 @@
+id: ventex-technology
+name: Ventex Technology
+website: https://ventextech.com/
+categories:
+- electrical
+aliases: []
+support:
+- category: electrical
+  department: Technical Support
+  phone: '+18779089193'
+  country: US
+  notes: 'Explicitly labelled ''TECH. SUPPORT (877) 908-9193'' in Ventex documents. Office (803) 794-8061;
+    info@ventextech.com; VENTEX TECHNOLOGY, LLC, 3490 Venture Dr., San Angelo, TX 76905. Sign lighting:
+    electronic neon power supplies and LED systems.'
+  source: https://ventextech.com/wp-content/uploads//User-Guide-VT-12030-CL-120.pdf
+  last_verified: '2026-10-26'

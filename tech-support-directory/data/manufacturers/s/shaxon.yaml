@@ -1,0 +1,13 @@
+id: shaxon
+name: Shaxon
+website: https://www.shaxon.com
+categories: [electrical]
+aliases: []
+support:
+  - category: electrical
+    department: Customer Support
+    phone: "+18003458295"
+    country: US
+    notes: "Shaxon Industries, Inc., Orange, CA (data and telephone communications cabling and interconnect products). Parent company Mikrolink; email info@shaxon.com."
+    source: "https://www.shaxon.com/category/about-shaxon/"
+    last_verified: "2026-10-26"

@@ -1,0 +1,13 @@
+id: guardian-fall-protection
+name: 'Guardian Fall Protection'
+categories:
+- hardware
+aliases: []
+support:
+- category: hardware
+  department: 'Customer Support'
+  phone: '+18004666385'
+  country: US
+  notes: 'Email customer.service@guardianfall.com. Pure Safety Group. Explicitly NOT the existing guardian.yaml, which is the Johnson Controls unitary HVAC brand.'
+  source: 'https://puresafetygroup.com/assets/e5dab105-a5bf-4ee7-b479-f31413c5b169'
+  last_verified: '2026-10-26'

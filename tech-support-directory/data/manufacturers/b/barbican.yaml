@@ -1,0 +1,12 @@
+id: barbican
+name: Barbican Architectural Products
+categories: [electrical]
+aliases: ["BARBICAN"]
+support:
+  - category: electrical
+    department: Customer Support
+    phone: "+12893209447"
+    country: CA
+    notes: "Architectural lighting manufacturer, Fort Erie ON, Canada. No US support line verified; the Canadian line is recorded with its actual country code rather than inventing a US line. No lighting category exists in the TechDirect vocabulary, so electrical is used as the closest term."
+    source: "http://barbican.ca/"
+    last_verified: "2026-10-26"

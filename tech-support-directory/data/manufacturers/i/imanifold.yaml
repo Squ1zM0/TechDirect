@@ -1,0 +1,13 @@
+id: imanifold
+name: iManifold
+categories:
+- hvac
+aliases: []
+support:
+- category: hvac
+  department: Technical Support
+  phone: '+17166992031'
+  country: US
+  notes: 'iManifold tech team (FAQ wording). Digital manifold and app system based on the Imperial 800 series manifold. It publishes its own tech-team number distinct from Imperial and Stride Tool 888-467-8665, so it keeps its own file rather than parent-resolving to the staged imperial-tools file.'
+  source: https://imanifold.com/resources/faq/
+  last_verified: '2026-10-26'

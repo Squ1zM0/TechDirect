@@ -1,0 +1,13 @@
+id: pferd
+name: PFERD
+website: https://www.pferd.com
+categories: [hardware]
+aliases: ["PFERD Inc.", "August Rüggeberg"]
+support:
+  - category: hardware
+    department: Customer Support
+    phone: "+18003429015"
+    country: US
+    notes: "PFERD Inc., Milwaukee, WI (9201 W. Heather Ave.), the U.S. subsidiary of August Rüggeberg GmbH & Co. KG, Marienheide, Germany. USA number published on PFERD safety data sheets (8:00 AM-4:30 PM ET); information phone (262) 509-5614 also published. Not labelled technical support, so recorded as Customer Support. Abrasives, brushes, cutting tools; over 200 years of history."
+    source: "https://cdn.menardc.com/main/items/media/PFERD001/SDS/Organic_Bonded_Abrasives_TypeUSA.pdf"
+    last_verified: "2026-10-26"

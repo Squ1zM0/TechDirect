@@ -1,0 +1,14 @@
+id: justice-design-group
+name: Justice Design Group
+website: https://www.jdg.com/
+categories:
+- electrical
+aliases: []
+support:
+- category: electrical
+  department: Customer Support
+  phone: '+12134370102'
+  country: US
+  notes: "Decorative and ceramic lighting (wall sconces, pendants, flush-mounts), founded 1985. 500 South Grand Avenue, Suite 1100, Los Angeles, CA 90071; email customerservice@JDG.com; Compton, CA plant at 405 E Euclid Ave also appears on older instructions."
+  source: https://www.jdg.com/wp-content/uploads/INS-NSH-9081%209085.pdf
+  last_verified: '2026-10-26'

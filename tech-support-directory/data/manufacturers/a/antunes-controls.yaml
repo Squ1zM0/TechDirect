@@ -1,0 +1,12 @@
+id: antunes-controls
+name: Antunes Controls
+categories: [hvac-controls]
+aliases: ["A.J. Antunes & Co."]
+support:
+  - category: hvac-controls
+    department: Technical Support
+    phone: "+18773927854"
+    country: US
+    notes: "Gas controls, timers and pressure switches; a brand by A.J. Antunes & Co. Technical Service toll-free line published in Antunes manuals, email Tech.Service@antunes.com; main line 630-784-1000 also published."
+    source: "https://antunes.com/wp-content/uploads/2019/03/DC-14R-Owners-Manual-Antunes-1011439.pdf"
+    last_verified: "2026-10-26"

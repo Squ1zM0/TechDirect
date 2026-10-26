@@ -1,0 +1,17 @@
+id: tosibox
+name: Tosibox
+website: https://www.tosibox.com/
+categories:
+- electrical
+aliases: []
+support:
+- category: electrical
+  department: Customer Support
+  phone: '+14784198674'
+  country: US
+  notes: Tosibox Inc., 1212 Corporate Drive, Suite 170, Irving, TX 75038. This is the US office number
+    published in a Tosibox manual; Tosibox technical support itself is email-based (support@tosibox.com,
+    global helpdesk) with Finland numbers +358 10 57 30533, so this line is labelled Customer Support,
+    not Technical Support. Distributor number 1-800-237-8274 is not Tosibox support.
+  source: https://manuals.plus/m/289f8a340a2c92a61a65cb23a6b81cc0b3343b5cd6e12a0db47aa2608ba842fe_optim.pdf
+  last_verified: '2026-10-26'

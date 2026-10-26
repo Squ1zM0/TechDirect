@@ -1,0 +1,18 @@
+id: stanley
+name: STANLEY
+website: https://www.stanleyblackanddecker.com
+categories: [hardware]
+aliases: []
+support:
+  - category: hardware
+    department: Customer Support
+    phone: "+18002622161"
+    country: US
+    notes: "STANLEY Tools, a Stanley Black & Decker brand (hand tools, tape measures, flashlights, stud sensors). Email stanleytools@stanleycustomercare.com; corporate HQ phone 860-225-5111 also published. NOT affiliated with Stanley 1913 drinkware (PMI), a separate company."
+    source: "https://www.stanleyblackanddecker.com/about/contact"
+    last_verified: "2026-10-26"
+hours:
+  timezone: America/New_York
+  days: [Mon, Tue, Wed, Thu, Fri]
+  open: "08:00"
+  close: "18:00"

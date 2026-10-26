@@ -1,0 +1,13 @@
+id: cs-osborne
+name: C.S. Osborne
+website: https://www.csosborne.com
+categories: [hardware]
+aliases: ["C.S. Osborne & Co."]
+support:
+  - category: hardware
+    department: Customer Support
+    phone: "+19734833232"
+    country: US
+    notes: "C.S. Osborne & Co., 125 Jersey St., Harrison, NJ 07029, family-owned since 1826, maker of leatherworking, upholstery and industrial hand tools. Division toll-free lines also published: leather tools 888-609-4793, upholstery tools 888-568-1261, industrial tools 888-857-7984."
+    source: "https://www.floorcoveringweekly.com/main/joesnewpage/cs-osborne-co-172"
+    last_verified: "2026-10-26"

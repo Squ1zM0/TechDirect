@@ -1,0 +1,14 @@
+id: respicaire
+name: Respicaire
+website: https://respicaire.com/
+categories:
+- hvac
+aliases: []
+support:
+- category: hvac
+  department: Customer Support
+  phone: '+14166150214'
+  country: CA
+  notes: 'Respicaire, 746 Warden Ave, Toronto, ON. Mon-Fri 8:00 am-4:30 pm. Canadian line; no US line was published, so none is invented. HVAC IAQ: air purifiers, UV air treatment.'
+  source: respicaire.com product page
+  last_verified: '2026-10-26'

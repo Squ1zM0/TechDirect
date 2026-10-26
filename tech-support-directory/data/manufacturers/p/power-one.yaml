@@ -1,0 +1,13 @@
+id: power-one
+name: Power-One
+website: https://belfuse.com/power-solutions
+categories: [electrical]
+aliases: ["Power-One, Inc."]
+support:
+  - category: electrical
+    department: Technical Support
+    phone: "+18665132839"
+    country: US
+    notes: "Power-One, a legacy power-supply brand acquired by Bel (Bel Power Solutions). Bel's own announcements direct technical inquiries for Bel Power Solutions products to this North America number and Tech.Support@psbel.com, so recorded as Technical Support. AC-DC and DC-DC power supplies, front-ends, and board-mount converters for telecom, data communications, servers, and industrial applications. Successor chain: Power-One -> Bel Power Solutions (Bel Fuse)."
+    source: "https://news.thomasnet.com/fullstory/bel-s-new-power-supply-offers-stable-dc-power-40015133/"
+    last_verified: "2026-10-26"

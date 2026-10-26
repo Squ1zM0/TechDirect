@@ -1,0 +1,14 @@
+id: ips-weld-on
+name: IPS Weld-On
+website: https://weldon.com/
+categories:
+- plumbing
+aliases: []
+support:
+- category: plumbing
+  department: Technical Support
+  phone: '+18774778327'
+  country: US
+  notes: "Solvent cements and adhesives; Weld-On Adhesives, Inc., an IPS Corporation subsidiary. Number labeled technical hotline on weldon.com."
+  source: https://weldon.com/2024/05/01/the-best-solvent-cement-for-pool-and-spa-installation/
+  last_verified: '2026-10-26'

@@ -1,0 +1,13 @@
+id: bergen-industries
+name: Bergen Industries
+website: http://www.bergeninc.com/
+categories: [electrical]
+aliases: ["Bergen"]
+support:
+  - category: electrical
+    department: Customer Support
+    phone: "+18008751846"
+    country: US
+    notes: "Bergen Industries, Inc. manufacturer of temporary lighting, cord sets, hi-bays, tube guards and electrical safety products. Covers xref variants Bergen and Bergen Industries."
+    source: "https://www.ajbsales.com/wp-content/uploads/2020/04/Bergen_Industries_Catalog@2x.pdf"
+    last_verified: "2026-10-26"

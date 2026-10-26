@@ -1,0 +1,12 @@
+id: bartco-lighting
+name: Bartco Lighting
+categories: [electrical]
+aliases: ["BARTCO Lighting", "Bartco Lighting Inc"]
+support:
+  - category: electrical
+    department: Customer Support
+    phone: "+17142303200"
+    country: US
+    notes: "Architectural LED lighting, Huntington Beach CA (founded 1982). Company line published in business listings and Arcat profile. No lighting category exists in the TechDirect vocabulary, so electrical is used as the closest term."
+    source: "https://www.arcat.com/company/bartco-lighting-inc-43067"
+    last_verified: "2026-10-26"

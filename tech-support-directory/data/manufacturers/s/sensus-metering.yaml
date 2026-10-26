@@ -1,0 +1,13 @@
+id: sensus-metering
+name: Sensus Metering
+website: https://sensus.com
+categories: [waterworks]
+aliases: []
+support:
+  - category: waterworks
+    department: Technical Support
+    phone: "+18006383748"
+    country: US
+    notes: "Sensus is a Xylem brand (water, gas and electric metering and smart-utility networks). Support is provided by Sensus Technical Services at 1-800-METER-IT; also via the MySensus portal."
+    source: "https://www.esri.com/da-dk/arcgis-marketplace/listing/products/220ba7ca08894d60bd5612fd918e8d31"
+    last_verified: "2026-10-26"

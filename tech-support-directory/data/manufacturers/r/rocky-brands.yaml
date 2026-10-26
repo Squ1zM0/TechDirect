@@ -1,0 +1,14 @@
+id: rocky-brands
+name: Rocky Brands
+website: https://rockybrands.com/
+categories:
+- hardware
+aliases: []
+support:
+- category: hardware
+  department: Customer Support
+  phone: '+18664424908'
+  country: US
+  notes: Rocky Brands, footwear and work boots. No footwear category exists in the vocabulary; hardware is the closest term, stated as such. customer.service@rockybrands.com. Not NDS.
+  source: rockybrands.com/accessibility statement
+  last_verified: '2026-10-26'

@@ -1,0 +1,16 @@
+id: dynapar
+name: Dynapar
+website: https://www.dynapar.com
+categories: [electrical]
+aliases: []
+support:
+  - category: electrical
+    department: Technical Support
+    phone: "+18008738731"
+    country: US
+    notes: "Dynapar (Fortive lineage; Gurnee, IL) encoders and resolvers; brands include Hengstler, NorthStar, Harowe. Technical support line and email dynapar.techsupport@dynapar.com from the official technical support page."
+    source: "https://www.dynapar.com/service_and_support/technical_support/?hsLang=en"
+    last_verified: "2026-10-26"
+    hours:
+      timezone: "CT"
+      mon_fri: "8:00 AM - 4:30 PM"

@@ -1,0 +1,13 @@
+id: condux-international
+name: Condux International
+categories: [hardware]
+aliases: ["Condux International, Inc.", "Condux"]
+website: http://www.condux.com/
+support:
+  - category: hardware
+    department: Customer Support
+    phone: "+18005332077"
+    country: US
+    notes: "Condux International, Mankato, MN; aerial and underground cable installation tools and equipment (cable pullers, ball bearing swivels, duct rodders, fiber optic blowers). Toll-free line per the company's own manuals; local line (507) 387-6576 also published. Covers both xref spellings 'Condux' (parent Condux International) and 'Condux International' (parent Condux). Condux Tesmec, a separate Mankato company, was NOT merged here."
+    source: "https://pimctosprod.azureedge.net/pim-assets/Docs/OperManual/1383881.pdf"
+    last_verified: "2026-10-26"

@@ -1,0 +1,12 @@
+id: atlas-lighting-products
+name: Atlas Lighting Products
+categories: [electrical]
+aliases: ["Atlas Lighting", "Atlas American Lighting"]
+support:
+  - category: electrical
+    department: Customer Support
+    phone: "+18008498485"
+    country: US
+    notes: "Commercial/industrial LED and HID lighting, Burlington NC (founded 1992), manufactured and tested in the USA. Toll-free line published on Atlas product brochures; local line 336-222-9258 also published. No lighting category exists in the TechDirect vocabulary, so electrical is used as the closest term."
+    source: "https://lsicorp.com/wp-content/uploads/sites/8/452-256-Atlas_American_Lighting_brochure.pdf"
+    last_verified: "2026-10-26"

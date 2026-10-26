@@ -1,0 +1,14 @@
+id: jessup-manufacturing
+name: Jessup Manufacturing Company
+website: https://www.jessupmfg.com/
+categories:
+- hardware
+aliases: []
+support:
+- category: hardware
+  department: Customer Support
+  phone: '+18887117735'
+  country: US
+  notes: "Adhesive coated films, non-slip tapes and treads, and photoluminescent films; founded 1956, HQ 2815 W IL Route 120, McHenry, IL. McHenry direct 815-385-6650, Green Oaks 847-362-0961. Brands Safety Track, Glo Brite, and Jessup Griptape."
+  source: https://www.jessupmfg.com/
+  last_verified: '2026-10-26'

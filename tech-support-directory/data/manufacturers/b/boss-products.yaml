@@ -1,0 +1,12 @@
+id: boss-products
+name: Boss Products
+categories: [hardware]
+aliases: ["BOSS", "BOSS by Soudal"]
+support:
+  - category: hardware
+    department: Customer Support
+    phone: "+12707693385"
+    country: US
+    notes: "BOSS Products, the sealants/adhesives brand of Soudal Accumetric, 350 Ring Road, Elizabethtown, KY 42701: silicones, acrylic and hybrid sealants, polyurethane foams, firestop and fire-block products (BOSS 125, 326, 363, 368, 801/802, 804, 812/813/816) sold through US plumbing/HVAC supply houses. Fax 270-765-2412. This file covers ONLY the xref row Boss Products (Plumbing/HVAC products); it does NOT cover the bare xref row Boss (Plumbing; fittings, valves), which is unresolved. NOT BOSS Snowplow (bossplow.com, Iron Mountain MI) — a different company whose snowplow file previously occupied this slug and was replaced 2026-10-26 after the Colorado line-card evidence (Boss Products listed under sealants) showed the snowplow assignment did not match the rows. NOT BSS BOSS (UK, Travis Perkins Group). The 800-424-9300 number on the SDS is CHEMTREC emergency only, not a support line, and is not used here."
+    source: "https://assets.unilogcorp.com/267/ITEM/DOC/BOSS_by_Soudal_36803_SDS.pdf"
+    last_verified: "2026-10-26"

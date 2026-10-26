@@ -1,0 +1,13 @@
+id: lumos-solar
+name: Lumos Solar
+website: "http://www.lumossolar.com/"
+categories: [electrical]
+aliases: ["LUMOS SOLAR"]
+support:
+  - category: electrical
+    department: Customer Support
+    phone: "+13034492394"
+    country: US
+    notes: "Lumos Solar, founded 2006 in Nederland, CO (now Boulder/Thornton, CO); design-centric solar company, maker of the LSX frameless solar modules for architectural integration. Number from Lumos's own press release (contact Scott Skender) and corroborated by the company's place listing. Electrical is the closest category-vocabulary term for solar modules."
+    source: "https://WWW.24-7pressrelease.com/press-release/133937/areas-first-solar-education-and-training-center-opens-in-boulder-colorado"
+    last_verified: "2026-10-26"

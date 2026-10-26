@@ -1,0 +1,17 @@
+id: fanimation
+name: "Fanimation"
+website: "https://www.fanimation.com/product-support"
+categories:
+- airflow
+aliases: []
+support:
+- category: airflow
+  department: "Customer Support"
+  phone: "+18885672055"
+  country: US
+  notes: "Fanimation. Official product-support page lists this Customer Care line; email techsupport@fanimation.com. Hours 8 a.m.-5 p.m. EST Mon-Fri per Fanimation manuals. Ceiling fans; airflow is the closest vocabulary term."
+  source: "https://www.fanimation.com/product-support"
+  last_verified: "2026-10-26"
+  hours:
+    timezone: "ET"
+    mon_fri: "8:00 AM - 5:00 PM"

@@ -1,0 +1,14 @@
+id: seatel
+name: Sea Tel
+categories:
+- electrical
+aliases: []
+support:
+- category: electrical
+  department: Customer Support
+  phone: '+18887987979'
+  country: US
+  notes: Sea Tel, a Cobham SATCOM brand. 4030 Nelson Ave, Concord, CA 94520. Local 925-798-7979; satcom.concordsales@cobham.com. Marine stabilized antenna systems; electrical is the closest vocabulary term.
+    No official website page was verified in this session, so website is omitted.
+  source: 'Cobham SATCOM Sea Tel datasheet (ST60, 07/13): Toll Free +1-888-798-7979'
+  last_verified: '2026-10-26'
