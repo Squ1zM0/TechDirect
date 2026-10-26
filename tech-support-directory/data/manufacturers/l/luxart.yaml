@@ -1,0 +1,13 @@
+id: luxart
+name: Luxart
+categories:
+- plumbing
+aliases: []
+support:
+- category: plumbing
+  department: Warranty Support
+  phone: "+12252954212"
+  country: US
+  notes: 'Hajoca house brand for faucets and bath accessories. Warranty inquiries route to Hajoca Mainline Customer Service; number as printed in the current Luxart warranty document hosted by Hajoca. An older Luxart warranty document listed a different toll-free number; the current Hajoca-hosted warranty document and the 2023 catalog route to this number, which is the one filed here.'
+  source: https://webassets.hajoca.com/ownerguides/840004/84000495710.pdf
+  last_verified: "2026-10-26"

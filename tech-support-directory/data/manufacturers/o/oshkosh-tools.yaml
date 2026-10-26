@@ -1,0 +1,14 @@
+id: oshkosh-tools
+name: Oshkosh Tools
+website: https://www.oshkoshtools.com/pages/contact
+categories:
+- hardware
+aliases: []
+support:
+- category: hardware
+  department: Customer Support
+  phone: "+19208590023"
+  country: US
+  notes: 'Omro, WI maker of pole-line construction tools (pike poles, cant hooks, digging bars, tongs); order line from the official contact page. Business hours Monday-Thursday 6am-4pm CT; closed Friday-Sunday. Email info@oshkoshtools.com also published on the same page.'
+  source: https://www.oshkoshtools.com/pages/contact
+  last_verified: "2026-10-26"

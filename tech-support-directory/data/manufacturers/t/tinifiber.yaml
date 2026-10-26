@@ -1,0 +1,13 @@
+id: tinifiber
+name: TiniFiber
+website: https://tinifiber.com/
+categories: [electrical]
+aliases: []
+support:
+  - category: electrical
+    department: Technical Support
+    phone: "+18003960142"
+    country: US
+    notes: "TiniFiber is a registered trademark of CertiCable, Inc.; head office 1180 Route 109, Lindenhurst, NY 11757. Source page labels the line Customer Service and Technical Support, so it is filed as Technical Support. Micro Armor Fiber optical cabling; sales@tinifiber.com on the same page."
+    source: "https://tinifiber.com/contact-us/request-a-quote/?prod=TF1-OS2-PLO"
+    last_verified: "2026-10-26"

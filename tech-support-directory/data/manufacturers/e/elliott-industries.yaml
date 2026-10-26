@@ -1,0 +1,12 @@
+id: elliott-industries
+name: Elliott Industries
+categories: [electrical]
+aliases: []
+support:
+  - category: electrical
+    department: Customer Support
+    phone: "+13187463296"
+    country: US
+    notes: "Elliott Industries, Inc., Bossier City LA (1509 Hamilton Rd), founded 1952; custom electrical equipment for utilities, OEMs and C&I customers (pad-mounted switchgear, bus enclosures, metering stations, bushings, insulators). Acquired 17-Dec-2024 by Power Grid Components (Blackstone portfolio); brand preserved. SOURCE TIER: phone from trade directory ProcessRegister; address matches PGC's acquisition release and PitchBook. Website omitted: trade directories list elliott-industries.com but it was not fetched in this pass."
+    source: "https://www.processregister.com/Switch_Gear/Suppliers/Page7/cid109.htm"
+    last_verified: "2026-10-26"

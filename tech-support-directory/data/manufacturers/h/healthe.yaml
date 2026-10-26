@@ -1,0 +1,12 @@
+id: healthe
+name: Healthe
+categories: [electrical]
+aliases: [Healthe Inc., Healthe by Lighting Science]
+support:
+  - category: electrical
+    department: Customer Support
+    phone: "+18779995742"
+    country: US
+    notes: "Customer-service/sales line, not a Technical Support line: the manufacturer spec sheet says to contact your agent or Healthe customer service at 1-877-999-5742, and warranty text says to call Customer Support at 1-877-999-5742. Corroborated by a 2019 company press release. Conflicting aggregator HQ numbers (RocketReach and a 2019 press-contact number) were not used."
+    source: "https://images.tradeservice.com/ATTACHMENTS/DIR100307/Healthe_00001_1-3_SPEC.pdf"
+    last_verified: "2026-10-26"

@@ -1,0 +1,16 @@
+id: apex-dynamics
+name: Apex Dynamics
+website: http://www.apexdynamicsusa.com/
+categories: [hardware]
+aliases: ["Apex Dynamics, USA"]
+support:
+  - category: hardware
+    department: Customer Support
+    phone: "+16312449040"
+    country: US
+    notes: "US office, Ronkonkoma, NY, of Apex Dynamics, Inc., manufacturer of precision planetary gearboxes and servo gear reducers. General office contact from the official US homepage footer, not labelled a tech line. Closest category-vocabulary term is hardware; precision gearboxes have no exact term in the vocabulary."
+    source: "http://www.apexdynamicsusa.com/"
+    last_verified: "2026-10-26"
+    hours:
+      timezone: "ET"
+      mon_fri: "8:00 AM - 5:00 PM"

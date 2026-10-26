@@ -1,0 +1,14 @@
+id: mainline
+name: Mainline
+categories:
+- plumbing
+aliases:
+- Mainline Collection
+support:
+- category: plumbing
+  department: Customer Support
+  phone: "+12252954212"
+  country: US
+  notes: 'Hajoca private-label plumbing brand (faucets, trap primers, distribution units and related products). Number is the Mainline Customer Service line printed in Mainline installation and warranty documents hosted by Hajoca; the same line also handles Luxart warranty inquiries.'
+  source: https://webassets.hajoca.com/ownerguides/840004/84000491699.pdf
+  last_verified: "2026-10-26"

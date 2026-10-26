@@ -1,0 +1,13 @@
+id: kortick
+name: Kortick Manufacturing
+website: http://www.kortick.com/
+categories: [electrical]
+aliases: [Kortick Manufacturing Co., Kortick Manufacturing LLC]
+support:
+  - category: electrical
+    department: Customer Support
+    phone: "+15108563600"
+    country: US
+    notes: "Number corroborated across place data, SignalHire, SuperPages, ZoomInfo, and Adapt (2261 Carion Ct, Pittsburg, CA 94565). Pole-line and T&D/telecom/marine hardware, Buy America, in business since the 1890s; the official site is form-based with no published phone in its fetched text. Category note: the xref category says HVAC duct/sheet metal, but the only Kortick Manufacturing found makes electrical utility hardware; filed under electrical with the discrepancy flagged. An older Hayward-era CMTC listing shows a different number and is not used."
+    source: "https://www.signalhire.com/companies/kortick-manufacturing"
+    last_verified: "2026-10-26"

@@ -1,0 +1,13 @@
+id: uttermost
+name: Uttermost
+website: https://uttermost.com/
+categories: [hardware]
+aliases: ["Uttermost Lighting Co", "UTTERMOST LIGHTING CO"]
+support:
+  - category: hardware
+    department: Customer Support
+    phone: "+18006785486"
+    country: US
+    notes: "Uttermost, founded 1975, HQ Rocky Mount, VA; trade-only home decor, lighting and furniture. Phone from the footer of the official homepage. Vocabulary has no decor or furniture term; hardware is the closest for this row. Retailer numbers (Lighting New York 866-344-3875, Lightopia, City Mattress) are NOT filed here."
+    source: "https://uttermost.com/"
+    last_verified: "2026-10-26"

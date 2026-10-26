@@ -1,0 +1,13 @@
+id: wbt
+name: WBT
+website: https://www.wbtusa.com/
+categories: [electrical]
+aliases: ["WBT-USA", "WBT-Industrie Elektromechanische Produkte GmbH"]
+support:
+  - category: electrical
+    department: Customer Support
+    phone: "+18016211500"
+    country: US
+    notes: "WBT-USA, 2752 South 1900 West, Ogden, UT 84401, US arm of WBT-Industrie Elektromechanische Produkte GmbH, Essen, Germany (founded 1985; high-end audio connectors). US line filed per the US-lines rule; the German parent number +49 (0)2054 87 552-50 is noted, not filed as the US line."
+    source: "https://www.madisound.com/pdf/printcatalog/WBT.pdf"
+    last_verified: "2026-10-26"

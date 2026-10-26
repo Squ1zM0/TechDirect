@@ -1,0 +1,13 @@
+id: sefcor
+name: SEFCOR
+website: https://www.sefcor.com
+categories: [electrical]
+aliases: ["SEFCOR, Inc."]
+support:
+  - category: electrical
+    department: Customer Support
+    phone: "+17702278297"
+    country: US
+    notes: "SEFCOR Inc., 1150 Uniform Rd, Griffin, GA 30224. Supplier of substation power connectors since 1971 — bolted, welded and compression fittings and connectors for the power industry, including EHV applications through 765kV, with more than 25,000 standard and special designs. Phase 1 recorded 'no identifiable match'; the company was identified in this rework from the WUE manufacturer list corroboration plus its own site. The official homepage labels the number only as 'Phone', so Customer Support (a manufacturers-rep page claims 'superior technical support', but that is the rep's wording, not SEFCOR's label, and is not adopted)."
+    source: "https://www.sefcor.com"
+    last_verified: "2026-10-26"

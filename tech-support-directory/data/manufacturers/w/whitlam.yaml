@@ -1,0 +1,13 @@
+id: whitlam
+name: Whitlam
+website: https://www.jcwhitlam.com/
+categories: [plumbing]
+aliases: ["J.C. Whitlam Manufacturing Company"]
+support:
+  - category: plumbing
+    department: Customer Support
+    phone: "+18003218358"
+    country: US
+    notes: "J.C. Whitlam Manufacturing Company, 200 West Walnut St, P.O. Box 380, Wadsworth, OH 44282-0380; pipe-joining materials since 1900 (Tyte-Unyte thread compound, fluxes, solders, putties). US and Canada phone 1-800-321-8358; international 1-330-334-2524 on the same documents; sales@jcwhitlam.com."
+    source: "https://www.jcwhitlam.com/ManagedFiles/Whitlam%20Credit Application.pdf"
+    last_verified: "2026-10-26"

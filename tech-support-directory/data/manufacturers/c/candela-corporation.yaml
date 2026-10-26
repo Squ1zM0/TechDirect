@@ -1,0 +1,13 @@
+id: candela-corporation
+name: Candela Corporation
+website: https://www.candelacorp.com
+categories: [electrical]
+aliases: []
+support:
+  - category: electrical
+    department: Customer Support
+    phone: "+18009229226"
+    country: US
+    notes: "Lamp company (not Candela Medical, the aesthetic-laser company, which is a different company). Site lists this as a general phone, not labelled tech, so Customer Support. Slug uses '-corporation' to avoid confusion with Candela Medical."
+    source: "https://www.candelacorp.com/products/lighting/"
+    last_verified: "2026-10-26"

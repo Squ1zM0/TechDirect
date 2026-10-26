@@ -1,0 +1,13 @@
+id: wells-technology
+name: Wells Technology
+website: https://www.wellstech.com/
+categories: [hardware]
+aliases: ["Wells Technology, Inc."]
+support:
+  - category: hardware
+    department: Customer Support
+    phone: "+12187511412"
+    country: US
+    notes: "Wells Technology, 4885 Windsor Ct NW, Bemidji, MN 56601; founded 1989. CNC precision machining; NSN listings show the same company name for screws, conduit and nuts. Number from the companys own brochure; a directory listing shows a different (218) 751-5117, which is NOT filed. Caveat: the xref carries no category and this is a job shop rather than a product brand, so if the row means a different Wells Technology, this file must be revisited."
+    source: "https://www.wellstech.com/s/Wells-Technology-Brochure-1.pdf"
+    last_verified: "2026-10-26"

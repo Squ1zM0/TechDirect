@@ -1,0 +1,13 @@
+id: arteche
+name: Arteche
+website: https://www.arteche.com
+categories: [electrical]
+aliases: []
+support:
+  - category: electrical
+    department: Customer Support
+    phone: "+34946011200"
+    country: ES
+    notes: "Arteche Group headquarters line, Mungia, Spain, as published on the official Arteche configurator site. No US support line was found in this pass, so the Spain headquarters line is filed with its actual country code and no US line is invented; US distributor numbers were deliberately not used. Manufacturer of relays, instrument transformers and substation equipment."
+    source: "https://configure.arteche.com/glo_usd/en/"
+    last_verified: "2026-10-26"

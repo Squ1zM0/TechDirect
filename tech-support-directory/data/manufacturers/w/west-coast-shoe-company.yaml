@@ -1,0 +1,13 @@
+id: west-coast-shoe-company
+name: West Coast Shoe Company
+website: http://www.wescoboots.com/
+categories: [hardware]
+aliases: ["Wesco", "West Coast Shoes"]
+support:
+  - category: hardware
+    department: Customer Support
+    phone: "+18003262711"
+    country: US
+    notes: "West Coast Shoe Company (Wesco), 52828 NW Shoe Factory Ln, Scappoose, OR 97056; founded 1918. US-made work boots for linemen, loggers and wildland firefighters, including electrical-hazard boots. Toll-free 800-326-2711 (US and Canada) from company press releases; direct (503) 543-7114 on the same releases and the BBB profile. Hours Mon-Fri 7:30 AM-4:00 PM PT. Vocabulary has no safety or PPE term; hardware is the closest for the xref Safety; work shoes / PPE scope."
+    source: "https://www.prlog.org/10488007-custom-boot-maker-wesco-details-century-of-made-in-america-craftsmanship-in-its-release.html"
+    last_verified: "2026-10-26"

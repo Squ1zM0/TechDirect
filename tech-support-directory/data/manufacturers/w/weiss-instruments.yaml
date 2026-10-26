@@ -1,0 +1,13 @@
+id: weiss-instruments
+name: Weiss Instruments
+website: https://www.weissinstruments.com/
+categories: [hvac, plumbing]
+aliases: ["Weiss"]
+support:
+  - category: hvac
+    department: Customer Support
+    phone: "+16312071200"
+    country: US
+    notes: "Weiss Instruments, Inc., 905 Waverly Ave, Holtsville, NY 11742; founded 1882. Pressure gauges, thermometers, needle and ball valves for plumbing, cooling and heating applications. sales@weissinstruments.com on the same bulletin. Filed as the trade-fit Weiss maker; the xref carries no category, and other Weiss companies (Weiss Technik environmental chambers, Weiss North America automation) are different companies and are NOT filed here."
+    source: "https://www.weissinstruments.com/assets/potable.lead_free_bulletin.pdf"
+    last_verified: "2026-10-26"

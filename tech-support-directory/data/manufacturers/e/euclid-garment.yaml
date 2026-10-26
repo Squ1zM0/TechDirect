@@ -1,0 +1,13 @@
+id: euclid-garment
+name: Euclid Garment Manufacturing Co.
+website: https://www.vidaro.com/
+categories: [electrical]
+aliases: [Euclid Vidaro Mfg Co., Euclid Vidaro]
+support:
+  - category: electrical
+    department: Customer Support
+    phone: "+13306737413"
+    country: US
+    notes: "Number from the manufacturer KV-Gard brochure (Euclid Vidaro Mfg Co., PO Box 550, 333 Martinel Drive, Kent OH 44240) and corroborated by a Kent OH directory listing. KV-GARD conductive suits for live-line work (soft Faraday cage). Filed under electrical as utility live-line PPE; the xref category was workwear/energized clothing. Distinct from Euclid Chemical (concrete, Cleveland OH); its number is not filed here."
+    source: "https://tallmanequipment.com/wp-content/uploads/2022/05/KV-Gard-Brochure-pdf.pdf?srsltid=AfmBOoqMwd9pzgzd-ufHPsDVglxo1JueOUuvXpIuZwBQmpPo01uUfqS3"
+    last_verified: "2026-10-26"

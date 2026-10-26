@@ -1,0 +1,13 @@
+id: western-technology
+name: Western Technology
+website: https://www.westerntechnologylights.com/
+categories: [electrical]
+aliases: ["Western Technology, Inc."]
+support:
+  - category: electrical
+    department: Customer Support
+    phone: "+18006545483"
+    country: US
+    notes: "Western Technology, Inc., 3517 Arsenal Way, Bremerton, WA 98312. Explosion-proof low-voltage lighting, deadman remote controls and LED safety lights for abrasive blasting (KICK-IT TOUGH). Toll-free from the manufacturers own catalog PDF; local (360) 917-0080 on the same PDF. Distinct from Western Integrated Technologies (westernintech.com, hydraulics) - that companys number is NOT filed here."
+    source: "https://www.twrs.com/pdf/LED-AREA-LIGHTS-WESTERN-TECH.pdf"
+    last_verified: "2026-10-26"

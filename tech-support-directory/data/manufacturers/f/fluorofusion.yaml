@@ -1,0 +1,13 @@
+id: fluorofusion
+name: FluoroFusion Specialty Chemicals, Inc.
+website: https://fluorofusion.com/
+categories: [hvac]
+aliases: [FluoroFusion, Arctic Eagle]
+support:
+  - category: hvac
+    department: Customer Support
+    phone: "+13369473882"
+    country: US
+    notes: "Number from the official site footer (110 Avondale Street, High Point, NC 27260). US manufacturer of sustainable refrigerants (HFC/HFO blends, reclaimed R-410A) for mechanical contractors and wholesalers; AHRI 700 lab. A Clayton NC directory listing shows a different number; the official-site High Point number is filed."
+    source: "https://fluorofusion.com/"
+    last_verified: "2026-10-26"

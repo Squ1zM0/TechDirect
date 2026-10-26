@@ -1,0 +1,16 @@
+id: divspec
+name: Divspec
+website: https://divspec.com/
+categories: [hvac]
+aliases: []
+support:
+  - category: hvac
+    department: Customer Support
+    phone: "+19086882550"
+    country: US
+    notes: "Divspec, Inc., Kenilworth NJ (605 Springfield Rd), est. 1980, WBENC woman-owned; strut, strut fittings, and fasteners. Xref hint 'HVAC; products'; strut/supports for HVAC installs, no exact vocabulary term for strut. SOURCE TIER: phone from directory page Manta, corroborated by an agreeing place record (same number, address, and hours); official site confirms the company and business but publishes no phone. NOT Diversified Spec Sales, Inc. (Oak Park MI plumbing rep, a different company)."
+    source: "https://www.manta.com/c/mm2rhh8/divspec"
+    last_verified: "2026-10-26"
+    hours:
+      timezone: "ET"
+      mon_fri: "7:30 AM - 5:00 PM"

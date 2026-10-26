@@ -1,0 +1,13 @@
+id: walker
+name: Walker Manufacturing Company
+website: https://www.walker.com/
+categories: [hardware]
+aliases: ["Walker"]
+support:
+  - category: hardware
+    department: Customer Support
+    phone: "+19702215614"
+    country: US
+    notes: "Walker Manufacturing Company, 5925 E Harmony Rd, Fort Collins, CO 80528. Commercial zero-turn riding lawn mowers (Walker Mower). Number from the companys own operators manuals (call Walker Manufacturing Company at (970) 221-5614). Hours Mon-Fri 8:00 AM-4:30 PM MT per place listing. Identification caveat: filed as the Colorado-headquartered Walker maker; no competing Walker trade brand was found, but the xref carries no category, so if the row means a different Walker (for example Walker Exhaust), this file must be revisited. Vocabulary has no outdoor-power term; hardware is the closest."
+    source: "https://www.walker.com/hubfs/PDF/6000-46.pdf?hsLang=en-us"
+    last_verified: "2026-10-26"

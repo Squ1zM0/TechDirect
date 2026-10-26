@@ -1,0 +1,13 @@
+id: katy-instruments
+name: Katy Instruments
+website: https://www.kiscurrentsensors.com/
+categories: [electrical]
+aliases: [Katy Instruments Co, Katy Instruments Sales, LLC]
+support:
+  - category: electrical
+    department: Customer Support
+    phone: "+12814927817"
+    country: US
+    notes: "Number corroborated by place data and a Manta listing (16514 Park Row, Houston, TX 77084). Houston manufacturer of precision AC current sensors (25+ years; isolated two-wire transmitters to 1500 A). Distinct from Katy Industries, Inc."
+    source: "https://www.manta.com/c/mh119rr/katy-instruments-sales-llc"
+    last_verified: "2026-10-26"

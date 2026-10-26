@@ -1,0 +1,13 @@
+id: essex-solutions
+name: Essex Solutions
+website: https://www.essexsolutions.com/
+categories: [electrical]
+aliases: [Essex, Essex Furukawa, Essex Magnet Wire]
+support:
+  - category: electrical
+    department: Customer Support
+    phone: "+12604614000"
+    country: US
+    notes: "Number from a manufacturer-authored Essex Furukawa datasheet footer (info.northamerica@essexfurukawa.com). Lineage: Essex Furukawa was the 2020 Furukawa Electric + Superior Essex joint venture; the business now trades as Essex Solutions, whose current site is form-based with no published phone, so the datasheet number is filed with this caveat. Distinct from Superior Essex communications cable (staged superior-essex); not folded in."
+    source: "https://www.eimet.com/uploads/b/2abe3df0-d082-11ec-a57e-fd6f1dcc3137/essex-ultrashield.pdf"
+    last_verified: "2026-10-26"

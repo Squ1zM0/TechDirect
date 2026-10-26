@@ -1,0 +1,21 @@
+id: exceline
+name: ExceLine
+categories:
+- electrical
+aliases:
+- Exceline
+support:
+- category: electrical
+  department: Technical Support
+  phone: '+18005550050'
+  country: US
+  notes: 'Legacy Philips Group brand (ILXSB Series spec sheet, San Marcos TX; SiteLyter/ProLyter
+    sheets, Union NJ; www.exceline.com). ExceLine-specific numbers from 2010/2011
+    spec sheets are stale and were NOT filed as current lines. Support routes through
+    the successor: Signify (formerly Philips Lighting) professional/contractor technical
+    support. Own legacy file per the legacy pass-through rule (successor support in
+    the brand''s own entry); round-2 parent-resolution to signify superseded by this
+    file. Lineage evidence: ILXSB Series ExceLine spec sheet (yumpu.com/en/document/view/19618744/ilxsb-series-exceline)
+    and Philips PGQ document (d2a7t4o9z5arn6.cloudfront.net/GoodMart/pdfs/philips/PGQ.pdf).'
+  source: https://www.signify.com/en-us/get-in-touch
+  last_verified: '2026-10-26'

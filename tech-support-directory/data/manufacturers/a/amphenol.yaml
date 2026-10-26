@@ -1,0 +1,13 @@
+id: amphenol
+name: Amphenol
+website: https://amphenol.com/contact
+categories: [electrical]
+aliases: []
+support:
+  - category: electrical
+    department: Customer Support
+    phone: "+12032658900"
+    country: US
+    notes: "Amphenol Corporation world headquarters main line, Wallingford, CT, as published on the official Contact Us page. General corporate contact, not a division technical-support line; Amphenol divisions publish their own contacts. Distinct from the staged Amphenol TPC Wire & Cable file."
+    source: "https://amphenol.com/contact"
+    last_verified: "2026-10-26"

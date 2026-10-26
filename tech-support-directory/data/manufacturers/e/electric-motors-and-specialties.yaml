@@ -1,0 +1,16 @@
+id: electric-motors-and-specialties
+name: Electric Motors & Specialties
+website: http://emsmotors.com/
+categories: [electrical]
+aliases: ["Electrical Motors & Specialties", "EM&S"]
+support:
+  - category: electrical
+    department: Customer Support
+    phone: "+12603574141"
+    country: US
+    notes: "Electric Motors & Specialties LLC, Garrett IN (701 W. King St), since 1946; fractional-horsepower Unit Bearing fan motors, fans, agitator motors for domestic and commercial refrigeration OEMs. Xref hints 'Motors' and 'Electrical; products' have no exact vocabulary term; motors are electrical products. Covers BOTH xref rows 'Electrical Motors & Specialties' (Motors, 4 locations) and 'EM&S' (Electrical; products, 4 locations): the company's own site header is 'EM&S' and both rows carry the same location count. Johnstone Supply is listed on the company's site as a buy channel."
+    source: "http://emsmotors.com/"
+    last_verified: "2026-10-26"
+    hours:
+      timezone: "ET"
+      mon_fri: "7:00 AM - 4:00 PM"

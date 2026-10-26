@@ -1,0 +1,13 @@
+id: wilcor
+name: Wilcor International
+website: https://wilcor.net/
+categories: [hardware]
+aliases: ["Wilcor"]
+support:
+  - category: hardware
+    department: Customer Support
+    phone: "+18003462345"
+    country: US
+    notes: "Wilcor International, 161 Drive In Road, Frankfort, NY 13340. Wholesale supplier to the vacation industry (camping, summer fun, gifts, custom products; 6000+ products). Number from the companys own order form; fax 315-733-3215 and sales@wilcor.net on the same form. Caveat: the xref carries no category and Wilcor is a wholesale distributor, not a trade manufacturer; filed as the only exact-name Wilcor company found, with no competing candidate. If the row means a different Wilcor, this file must be revisited."
+    source: "https://wilcor.net/pdf/order.pdf"
+    last_verified: "2026-10-26"

@@ -1,0 +1,15 @@
+id: marlin-manufacturing
+name: Marlin Manufacturing
+website: https://marlinmfg.com/
+categories:
+- electrical
+aliases:
+- Marlin Manufacturing Corporation
+support:
+- category: electrical
+  department: Customer Support
+  phone: "+18003216648"
+  country: US
+  notes: 'Cleveland/Parma, OH manufacturer of temperature instrumentation (thermocouples, sensors, thermowells) since 1952; toll-free number as published on marlinmfg.com. Not Marlin Manufacturing of Orlando, FL, a wholesale plumbing supply distributor of the same name.'
+  source: https://marlinmfg.com/staging/old-site/Survey.html
+  last_verified: "2026-10-26"

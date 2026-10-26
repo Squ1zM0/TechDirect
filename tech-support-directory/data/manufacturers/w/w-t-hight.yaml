@@ -1,0 +1,16 @@
+id: w-t-hight
+name: W.T. Hight Company
+website: https://wthight.com/
+categories: [hardware]
+aliases: ["W.T. Hight", "W T Hight Co", "The W T Hight Co."]
+support:
+  - category: hardware
+    department: Customer Support
+    phone: "+18004454082"
+    country: US
+    hours:
+      timezone: "ET"
+      mon_fri: "8:00 AM - 5:00 PM"
+    notes: "W.T. Hight Company, 42 Winter St, Pembroke, MA 02359; founded 1866. Material handling and storage systems: casters, wheels, machine levelers, vibration mounts, hand trucks, racking, mezzanines. Toll-free 800-445-4082 is the sites header call number; office 781-682-7976 published on the same page. Merged with Deluxe Systems Jan 1, 2019; also operates Caster Central."
+    source: "https://wthight.com/"
+    last_verified: "2026-10-26"

@@ -1,0 +1,15 @@
+id: electromode
+name: Electromode
+categories: [hvac]
+aliases: []
+support:
+  - category: hvac
+    department: Technical Support
+    phone: "+18883467539"
+    country: US
+    notes: "LEGACY brand, own file per the standing legacy rule. ELECTROMODE trademark of DIMPLEX NORTH AMERICA LIMITED (USPTO serial 71617659, electric space heaters, air duct heaters, explosion-proof heaters, electric furnaces; registration cancelled, Section 8 non-filing). Successor: Dimplex (Glen Dimplex Americas); the number filed is Dimplex's published technical support line, not an Electromode-era line. The Rexel catalog order line and Mor Electric Heating retailer number were NOT filed (catalog publisher's / retailer's lines, not Electromode's)."
+    source: "https://www.dimplex.glendimplexamericas.com/sites/g/files/emiian436/files/downloads/DF3033ST_Owners_Manual_1.pdf"
+    last_verified: "2026-10-26"
+    hours:
+      timezone: "ET"
+      mon_fri: "8:00 AM - 4:30 PM"

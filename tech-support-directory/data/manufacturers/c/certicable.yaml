@@ -1,0 +1,13 @@
+id: certicable
+name: CertiCable
+website: http://certicable.com/
+categories: [electrical]
+aliases: ["CertiCable"]
+support:
+  - category: electrical
+    department: Customer Support
+    phone: "+16319322253"
+    country: US
+    notes: "CertiCable Inc., custom cable manufacturer (Cat-5e/6/6A/7/8, fiber assemblies, MIL spec), Farmingdale NY. Homepage slogan '(631) WECABLE' = 932-2253; corroborated by RocketReach (631) 932-2253. USPTO trademark CERTICABLE, LIVE REGISTERED to CERTICABLE, LLC (serial 88662479)."
+    source: "http://certicable.com/"
+    last_verified: "2026-10-26"

@@ -1,0 +1,13 @@
+id: sabre-industries
+name: Sabre Industries
+website: https://www.sabreindustries.com/
+categories: [electrical]
+aliases: ["Sabre Tubular Structures"]
+support:
+  - category: electrical
+    department: Customer Support
+    phone: "+18178521700"
+    country: US
+    notes: "Sabre Industries, Inc., 8653 E Highway 67, Alvarado, TX 76009. Designs and manufactures infrastructure products for electric transmission and distribution; its Sabre Tubular Structures division is a leading provider of tubular steel utility poles/structures (transmission structures 69kV to 765kV). The xref label 'Sabre Tubular Steel' is treated as a division-label variant of Sabre Tubular Structures — no company literally named 'Sabre Tubular Steel' was found. Sabre Alloys (stainless, Houston) and Tubular Steel Inc (St. Louis) were considered and rejected: neither matches the utility tubular-steel product line. Number is the Alvarado HQ/division number published on the Thomasnet profile; not labelled Technical Support, so Customer Support."
+    source: "https://www.thomasnet.com/company/sabre-industries-inc-30521431/profile?coverage_area=NT&heading=92372507"
+    last_verified: "2026-10-26"

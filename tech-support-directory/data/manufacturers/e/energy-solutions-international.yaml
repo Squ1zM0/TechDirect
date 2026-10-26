@@ -1,0 +1,13 @@
+id: energy-solutions-international
+name: Energy Solutions International
+website: http://www.esilighting.com/
+categories: [electrical]
+aliases: [ESI]
+support:
+  - category: electrical
+    department: Customer Support
+    phone: "+16512686060"
+    country: US
+    notes: "General company line from the manufacturer product guide footer (West St Paul, MN; LED fixtures and retrofit kits, founded 1992). Not labelled a technical-support line. A conflicting Houston-area number cited in Phase 1 was not used; the Saint Paul number is corroborated across the manufacturer guide, place data, RocketReach, and Prospeo."
+    source: "https://docs.esilighting.com/ESI-Product-Guide.pdf"
+    last_verified: "2026-10-26"

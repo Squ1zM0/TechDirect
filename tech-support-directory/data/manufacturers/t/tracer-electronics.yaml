@@ -1,0 +1,13 @@
+id: tracer-electronics
+name: Tracer Electronics
+website: https://tracerelectronicsllc.com/
+categories: [electrical]
+aliases: ["Tracer Electronics LLC", "Tracer Electronics (Meter Clamps)"]
+support:
+  - category: electrical
+    department: Customer Support
+    phone: "+16152853952"
+    country: US
+    notes: "Tracer Electronics LLC, 6981 Eastgate Blvd, Lebanon, TN 37090. Distributor and service provider for underground utility locating equipment (EM locators, GPR carts, water-leak detection, video pipe inspection); the repair form lists Clamp among equipment items. CAVEAT: the xref qualifier (Meter Clamps) could not be independently tied to this company - if the xref row means a different meter-clamp maker, this file must be revisited. Fax (615) 285-3970 on the same form."
+    source: "https://tracerelectronicsllc.com/resources/Repair-Services/Repair-Form.pdf"
+    last_verified: "2026-10-26"

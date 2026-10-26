@@ -1,0 +1,13 @@
+id: king-wire
+name: King Wire, Inc.
+website: http://www.kingwire.com/
+categories: [electrical]
+aliases: [KINGWIRE, Kingwire]
+support:
+  - category: electrical
+    department: Customer Support
+    phone: "+18476881100"
+    country: US
+    notes: "Number corroborated across place data, Birdeye, MapQuest, and Datanyze (1 Cable Pl / 2500 Commonwealth Ave, North Chicago, IL 60064). Aluminum building wire, service drop, and portable cord for electrical distributors; Elliott Electric lists KING WIRE INC. as a brand. The official homepage (kingwire.com) carries no published phone in its fetched text, so the corroborated directory number is filed with this caveat."
+    source: "https://www.mapquest.com/us/illinois/king-wire-inc-351264304"
+    last_verified: "2026-10-26"

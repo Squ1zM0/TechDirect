@@ -1,0 +1,13 @@
+id: hessamerica
+name: HessAmerica
+website: https://www.hessamerica.com/contact
+categories: [electrical]
+aliases: []
+support:
+  - category: electrical
+    department: Customer Support
+    phone: "+18644873535"
+    country: US
+    notes: "General contact from the official contact page (427 Hyatt Street, Gaffney, SC 29341; Info@hessamerica.com). Page routes distributor/contractor inquiries to local representatives. US arm of Hess GmbH Licht + Form (Nordeon Group). Prior concern about only a German line is superseded by this verified US line; the German parent line is not filed."
+    source: "https://www.hessamerica.com/contact"
+    last_verified: "2026-10-26"

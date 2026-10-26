@@ -1,0 +1,13 @@
+id: hi-lite-mfg-co
+name: Hi-Lite Mfg. Co., Inc.
+website: http://www.hilitemfg.com/
+categories: [electrical]
+aliases: [Hi-Lite, HI-LITE MFG CO, Hi-Lite Manufacturing]
+support:
+  - category: electrical
+    department: Customer Support
+    phone: "+18004650211"
+    country: US
+    notes: "Toll-free from manufacturer spec sheets (13450 Monte Vista Avenue, Chino, CA 91710; local 909-465-1999). Independent Chino CA company founded 1958 (gooseneck and sign shades); NOT the Philips/Signify group -- the xref parent claim Hi-Lite (Signify / Philips) is refuted, and the Philips-group emergency-lighting brand High-Lites (Waterbury CT) is a different company whose number is not filed here. Do not parent-resolve to signify."
+    source: "https://new.hilitemfg.com/uploads/products/6477/H-87508 gooseneck.pdf"
+    last_verified: "2026-10-26"

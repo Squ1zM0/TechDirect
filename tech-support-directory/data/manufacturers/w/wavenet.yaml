@@ -1,0 +1,13 @@
+id: wavenet
+name: Wavenet
+website: https://www.wavenet.net/
+categories: [electrical]
+aliases: ["Wavenet, Inc."]
+support:
+  - category: electrical
+    department: Customer Support
+    phone: "+18884928363"
+    country: US
+    notes: "Wavenet, Inc., 707 E. Sepulveda Blvd, Carson, CA 90745. Networking and security cable manufacturer. Toll-free 888-492-8363 is the preferred line; direct 310-885-4200 on the same spec sheet. Distinct from Wavenet Ltd (UK managed IT and telecom, wavenet.co.uk), Wavenet International (Australia, defunct modem maker) and Global Wavenet (Singapore) - none of those numbers is filed here."
+    source: "https://www.wavenetcable.com/_files/ugd/e294d1_ac84804cbe7f4b7a94480619ef15a72b.pdf"
+    last_verified: "2026-10-26"

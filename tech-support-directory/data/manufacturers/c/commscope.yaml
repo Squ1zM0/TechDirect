@@ -1,0 +1,20 @@
+id: commscope
+name: CommScope
+website: https://www.commscope.com
+categories: [electrical]
+aliases: []
+support:
+  - category: electrical
+    department: Technical Support
+    phone: "+18889444357"
+    country: US
+    notes: "Global Technical Support (ANS) toll-free line from CommScope's official ARRIS technical support contact sheet. Xref hint 'Networking; cable, connectivity' has no vocabulary term; electrical is closest."
+    source: "https://www.commscope.com/globalassets/digizuite/294037-arris-combined-contact-information-phone.pdf"
+    last_verified: "2026-10-26"
+  - category: electrical
+    department: Technical Support
+    phone: "+12153232345"
+    country: US
+    notes: "TAC emergency line from the same official CommScope ARRIS contact sheet. Prior HQ/customer-service/enterprise numbers were not filed; the official TAC lines win."
+    source: "https://www.commscope.com/globalassets/digizuite/294037-arris-combined-contact-information-phone.pdf"
+    last_verified: "2026-10-26"

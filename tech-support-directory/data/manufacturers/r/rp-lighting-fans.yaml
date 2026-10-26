@@ -1,0 +1,13 @@
+id: rp-lighting-fans
+name: RP Lighting + Fans
+website: http://rplighting.com/
+categories: [electrical]
+aliases: ["RP Lighting"]
+support:
+  - category: electrical
+    department: Customer Support
+    phone: "+18009376925"
+    country: US
+    notes: "RP Lighting + Fans, 4931 Paseo Del Norte NE, Albuquerque, NM 87113. Supplier for electrical distributors and lighting showrooms; lighting and ceiling-fan brand (ENERGY STAR lists the brand as 'RP LIGHTING + FANS'). The xref 'RP Lighting' is treated as the truncated form of this name. Support line 1-800-937-6925 is published in RP Lighting's own ceiling-fan installation guide (document RP-070920: 'For support or inquiries, please contact: RP Lighting'); it is not labelled Technical Support, so Customer Support. Albuquerque HQ 505-821-6964 is also published in place listings but the manual support line is filed. Royal Pacific Lighting (888-616-3532) was considered and rejected: its brand name is Royal Pacific, with no 'RP Lighting' branding found, so it is a different company."
+    source: "https://manuals.plus/m/edcf5b71ae1b44404a4e6f5552fcf9ee4bcaea81981b8f6f35ed6c68a6065075"
+    last_verified: "2026-10-26"

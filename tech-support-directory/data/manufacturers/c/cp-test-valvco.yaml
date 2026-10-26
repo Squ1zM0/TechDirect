@@ -1,0 +1,13 @@
+id: cp-test-valvco
+name: CP Test & Valvco
+website: https://cptest.com
+categories: [valves]
+aliases: ["CP Test & Valco", "CP Test & Valve Products"]
+support:
+  - category: valves
+    department: Customer Support
+    phone: "+12019981500"
+    country: US
+    notes: "CP Test & Valvco, Inc., formerly CP Test Valve Products, Inc., Middlesex NJ; cathodic protection test stations, valve/curb boxes, manhole covers. Xref hint 'Test instruments' has no vocabulary term; valve/curb boxes fit valves. Ferguson brand label 'CP Test Services-Valvco' is the same company family."
+    source: "https://cptest.com/wp-content/uploads/2023/02/SC40-New.pdf"
+    last_verified: "2026-10-26"

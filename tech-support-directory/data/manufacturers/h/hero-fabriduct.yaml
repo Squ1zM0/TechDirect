@@ -1,0 +1,13 @@
+id: hero-fabriduct
+name: Hero Fabriduct, Inc.
+website: https://herofabriduct.com/
+categories: [hvac]
+aliases: [Hero Fabriduct]
+support:
+  - category: hvac
+    department: Customer Support
+    phone: "+18774376247"
+    country: US
+    notes: "Toll-free 877-HERO-AIR from the official About page footer; local line 423-510-8225 and quotes@herofabriduct.com also published (P.O. Box 9414, Chattanooga, TN 37412). Fabric ductwork, est. 1998. Not FabricAir."
+    source: "https://www.herofabriduct.com/about/"
+    last_verified: "2026-10-26"

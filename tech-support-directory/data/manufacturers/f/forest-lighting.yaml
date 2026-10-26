@@ -1,0 +1,13 @@
+id: forest-lighting
+name: Forest Lighting
+website: https://www.forestlighting.com/
+categories: [electrical]
+aliases: []
+support:
+  - category: electrical
+    department: Customer Support
+    phone: "+18009942143"
+    country: US
+    notes: "Number and address from a manufacturer spec sheet (2252 Northwest Pkwy SE, Suite D, Marietta, GA 30067; info@forestlighting.com). LED lamps and fixtures, UL/DLC. Corroborated by a Manta listing."
+    source: "https://www.slideshare.net/hannahmayer/t8-led-integrated-lamp-by-forest-lighting-usa"
+    last_verified: "2026-10-26"

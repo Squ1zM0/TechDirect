@@ -1,0 +1,13 @@
+id: ullman
+name: Ullman Devices
+website: https://ullmandevices.com/
+categories: [hardware]
+aliases: ["Ullman Devices Corp."]
+support:
+  - category: hardware
+    department: Customer Support
+    phone: "+12034386577"
+    country: US
+    notes: "Ullman Devices Corp., 664 Danbury Rd, Ridgefield, CT. Inspection mirrors, magnetic pickups, LED inspection lights, hook-and-pick sets. Hours Mon-Fri 8:00 AM-5:00 PM ET per place listing; support email Ullman@ntplx.net per the NeweggBusiness manufacturer-contact block. Distinct from Ullman Precision (gunstock tools, New Braunfels, TX, (830) 627-9030) - that number is NOT filed here. Retailer numbers (Northern Tool, ToolSource) are NOT filed here."
+    source: "https://www.neweggbusiness.com/product/product.aspx?item=9b-0hv-0085-00007&srsltid=AfmBOopBvscPWDSg3fQ2RgYcxEVIk2b6dJUSCxlfpbYWkgmg9FODwIik"
+    last_verified: "2026-10-26"

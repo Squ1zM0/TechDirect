@@ -1,0 +1,13 @@
+id: can-fan
+name: Can-Fan
+website: https://canfilters.com/help/how-to/
+categories: [airflow]
+aliases: ["Can Fan"]
+support:
+  - category: airflow
+    department: Customer Support
+    phone: "+18884786544"
+    country: US
+    notes: "Can-Fan is a Can Filters brand (Max-Fan inline fans, Can-Lite filters). Number is Can-Filters' own published contact from the footer of its official How-To page, filed as Customer Support because the page does not label it a tech line. The Hawthorne Gardening Co. distributor technical-support line was deliberately not filed as Can-Fan's number."
+    source: "https://canfilters.com/help/how-to/"
+    last_verified: "2026-10-26"

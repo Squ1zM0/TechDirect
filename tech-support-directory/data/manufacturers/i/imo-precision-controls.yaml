@@ -1,0 +1,13 @@
+id: imo-precision-controls
+name: IMO Precision Controls
+website: https://www.imoautomation.com/
+categories: [electrical]
+aliases: [IMO Automation]
+support:
+  - category: electrical
+    department: Customer Support
+    phone: "+14044768810"
+    country: US
+    notes: "Office contact from the IMO corporate brochure 2024 worldwide-offices table (IMO Automation LLC, Suite 112, 5910 Shiloh Road East, Alpharetta, GA 30005; salesna@imopc.com), under parent IMO Precision Controls Limited (Hatfield, UK). Not labelled a tech-support line. Distinct from the German IMO slew-drive company (imo.de) and from the unverified Thomasnet IMO USA Corp. North Charleston SC listing; neither is used."
+    source: "https://images-96-4.imostatic.net/pdf_catalogues/documents/imo-corporate-brochure-2024.pdf"
+    last_verified: "2026-10-26"

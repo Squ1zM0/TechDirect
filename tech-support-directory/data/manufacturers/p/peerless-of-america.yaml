@@ -1,0 +1,13 @@
+id: peerless-of-america
+name: Peerless of America
+website: https://www.peerlessofamerica.com/
+categories: [hvac]
+aliases: ["Peerless of America, Inc."]
+support:
+  - category: hvac
+    department: Customer Support
+    phone: "+12173420400"
+    country: US
+    notes: "Peerless of America, LLC, 1201 W Wabash Ave, Effingham, IL 62401. Manufacturer of all-aluminum and aluminum/copper heat transfer coils, unit coolers and custom tubing assemblies for air conditioning and commercial/domestic refrigeration since 1912; sales@peerlessofamerica.com. Number is the plant/general number published in the official site footer; it is not labelled Technical Support, so Customer Support. Distinct from Peerless Pump Company (Grundfos subsidiary, existing peerless-pump file) and from PB Heat / Peerless Boilers (existing pb-heat file) — the Phase 1 tentative parent-resolution to peerless-pump is rejected and this company is filed on its own. Covers the xref spelling 'Peerless Of America, Inc.' (Inc. vs current LLC suffix)."
+    source: "https://www.peerlessofamerica.com/"
+    last_verified: "2026-10-26"

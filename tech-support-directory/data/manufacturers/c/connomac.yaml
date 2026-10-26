@@ -1,0 +1,13 @@
+id: connomac
+name: Connomac
+website: https://www.connomac.com
+categories: [electrical]
+aliases: []
+support:
+  - category: electrical
+    department: Customer Support
+    phone: "+17084823434"
+    country: US
+    notes: "Connomac Corp., La Grange IL, est. 1975; molded rubber electrical connectors, temporary lighting, power cords. Mergr reports a 2025 acquisition by Sandman.com; recorded as an ownership note only, no Sandman number verified or filed."
+    source: "https://www.connomac.com/contact/"
+    last_verified: "2026-10-26"

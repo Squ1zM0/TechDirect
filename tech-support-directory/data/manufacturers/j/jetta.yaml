@@ -1,0 +1,13 @@
+id: jetta
+name: Jetta Corporation
+website: http://www.jettacorp.com/
+categories: [bathroom-systems]
+aliases: [Jetta]
+support:
+  - category: bathroom-systems
+    department: Customer Support
+    phone: "+18002887771"
+    country: US
+    notes: "Customer Service toll-free from the manufacturer brochure and catalog (425 Centennial Boulevard, Edmond, OK 73013; local 405-340-6661; sales@jettacorp.com). Acrylic bathtubs, whirlpools, and walk-in tubs; sold via specialty plumbing distribution (e.g. Locke Supply)."
+    source: "https://jettacorp.com/storage/uploads/Jetta%20Walk-In%20Brochure%202021.pdf"
+    last_verified: "2026-10-26"

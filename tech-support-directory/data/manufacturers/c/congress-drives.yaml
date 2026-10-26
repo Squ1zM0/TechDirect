@@ -1,0 +1,13 @@
+id: congress-drives
+name: Congress Drives
+website: https://www.congressdrives.com/
+categories: [hardware]
+aliases: []
+support:
+  - category: hardware
+    department: Customer Support
+    phone: "+16366773364"
+    country: US
+    notes: "Congress Drives, Fenton MO; manufacturer of standard/custom pulleys/sheaves for boat control, fan, HVAC and motor applications, serving since 1915. Xref hint 'Drives; motor drives' has no vocabulary term; mechanical drive components fit hardware closest. The old catalog-footer Ennis TX number was NOT filed (appears only in an old catalog mirror; current official site shows Fenton MO)."
+    source: "https://www.congressdrives.com/"
+    last_verified: "2026-10-26"

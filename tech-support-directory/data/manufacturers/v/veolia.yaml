@@ -1,0 +1,13 @@
+id: veolia
+name: Veolia
+website: https://www.watertechnologies.com/customer-support
+categories: [water-systems]
+aliases: []
+support:
+  - category: water-systems
+    department: Customer Support
+    phone: "+18004468004"
+    country: US
+    notes: "Filed line is Veolia Water Technologies US water emergency and customer-support line (24/7 water-treatment trucks) from its Customer Support page. This does NOT cover Veolias regional municipal and residential customer-service centers (for example NY and NJ numbers on mywater.veolia.us), which are regional and are not filed here. Cary, NC office 919.677.8310 is an office number, not the support line. The source page labels the department Customer Support; the line itself is the emergency line and is NOT labelled Technical Support."
+    source: "https://www.watertechnologies.com/customer-support"
+    last_verified: "2026-10-26"

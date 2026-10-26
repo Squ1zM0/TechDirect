@@ -1,0 +1,22 @@
+id: toshiba
+name: Toshiba
+categories: [electrical]
+aliases: []
+support:
+  - category: electrical
+    department: Customer Support
+    phone: "+18002311412"
+    country: US
+    notes: "Toshiba International Corporation (TIC), Motors and Drives Division, 13131 West Little York Rd, Houston, TX 77041. Covers the motors and drives part of the xref scope (motors, drives and electronics); TICs range also includes adjustable speed drives, LED lighting and batteries. General line as published in TIC documents, not labelled technical support."
+    source: "https://toshiba.com/tic/wp-content/uploads/EQP_Global_840_Flyer.pdf"
+    last_verified: "2026-10-26"
+  - category: electrical
+    department: Technical Support
+    phone: "+18776894899"
+    country: US
+    hours:
+      timezone: "PT"
+      mon_fri: "6:00 AM - 5:00 PM"
+    notes: "Toshiba America Electronic Components, consumer storage (HDD) Technical Support, North America (U.S. and Canada only), option 2 for technical support (option 1 is warranty). Covers the electronics part of the xref scope. The legacy laptop Customer Support Center line (800) 457-7777 is Dynabook-era and is NOT filed here. No website field: the two entries come from different Toshiba units, so no single official homepage is asserted."
+    source: "https://storage.toshiba.com/consumer-hdd-2/support/contact"
+    last_verified: "2026-10-26"

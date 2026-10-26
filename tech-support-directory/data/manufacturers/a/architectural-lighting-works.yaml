@@ -1,0 +1,13 @@
+id: architectural-lighting-works
+name: Architectural Lighting Works
+website: http://www.alwusa.com/
+categories: [electrical]
+aliases: ["ALW"]
+support:
+  - category: electrical
+    department: Technical Support
+    phone: "+15104892530"
+    country: US
+    notes: "ALW, Oakland, CA, specification-grade architectural lighting manufacturer; phone and techsupport@alwusa.com from ALW's own Technical Support form. Acquired by LMPG Inc. in February 2023 and still trading as ALW with a live alwusa.com site; a stale third-party 'Closed' status is contradicted by the live site and is not followed. Closest category-vocabulary term is electrical; lighting has no exact term in the vocabulary."
+    source: "https://www.alw-inc.com/files/permanent-file/en/858/c38139098f1d0fe66086b341867b85f4"
+    last_verified: "2026-10-26"

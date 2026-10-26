@@ -1,0 +1,16 @@
+id: top-knobs
+name: Top Knobs
+website: https://www.topknobs.com/
+categories: [hardware]
+aliases: []
+support:
+  - category: hardware
+    department: Customer Support
+    phone: "+18004999095"
+    country: US
+    hours:
+      timezone: "ET"
+      mon_fri: "8:30 AM - 6:00 PM"
+    notes: "Top Knobs decorative cabinet hardware. Source page is Top Knobs own dealer page; CustomerService@TopKnobs.com published on the same page. Retailer and distributor numbers (knobs.co, Ferguson, topknobsdecor.com, topknobsupply.com) are NOT filed here."
+    source: "https://www.topknobs.com/become-a-dealer"
+    last_verified: "2026-10-26"

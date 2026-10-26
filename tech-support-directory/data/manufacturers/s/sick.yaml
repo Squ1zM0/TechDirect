@@ -1,0 +1,13 @@
+id: sick
+name: SICK
+website: https://www.sick.com
+categories: [electrical]
+aliases: ["Sick Optic"]
+support:
+  - category: electrical
+    department: Customer Support
+    phone: "+18003257425"
+    country: US
+    notes: "SICK, Inc., 6900 W 110th St, Minneapolis, MN 55438 (US subsidiary of SICK AG, founded 1946). Manufacturer of sensors, safety systems, machine vision, encoders and automatic identification products, including photoelectric/optic sensors — the xref 'Sick Optic' is treated as a line-card shorthand for SICK's optic-electronic sensor line, not a separate company. Toll-free 800-325-7425 published on sick.com press pages as the SICK, Inc. contact; direct 952-941-6780 is also published on SICK manuals. Not labelled Technical Support on the cited page, so Customer Support; SICK's contracted 24/7 helpdesk datasheet service is not filed as a general support line. Email info@sickusa.com per SICK manuals."
+    source: "https://www.sick.com/us/en/powerprox-photoelectric-sensors-detect-objects-over-long-sensing-ranges/w/press-powerprox/"
+    last_verified: "2026-10-26"

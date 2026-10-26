@@ -1,0 +1,13 @@
+id: juglugger
+name: JugLugger
+website: https://juglugger.com/
+categories: [hvac]
+aliases: [JugLugger Refrigerant Strap]
+support:
+  - category: hvac
+    department: Customer Support
+    phone: "+13026551255"
+    country: US
+    notes: "Number from the manufacturer JugLugger specification sheet (SC Products Inc., Wilmington, DE 19803) and trade press. Refrigerant-cylinder carrying strap for HVACR contractors. A 2007 ACHR listing also published toll-free 888-558-4584 as an older alternate; the spec-sheet number is filed."
+    source: "https://assets.unilogcorp.com/267/ITEM/DOC/JugLugger_JL1_Specification_Sheet.pdf"
+    last_verified: "2026-10-26"

@@ -1,0 +1,13 @@
+id: timco-instruments
+name: TIMCO Instruments
+website: https://timcoinstruments.com/
+categories: [electrical]
+aliases: ["Timco Instruments (Locating Equipment)"]
+support:
+  - category: electrical
+    department: Customer Support
+    phone: "+14015397120"
+    country: US
+    notes: "TIMCO Instruments, LLC, P.O. Box 100 / 540 Spring Street, Rockville, RI 02873. Manufactures test equipment for the electric utility industry, including the Spitfire buried-cable fault locator and the Impulse Phaser cable-identification system. Distinct from Timco Inc. (Columbia, TN, coil handling), TIMCO Engineering Inc. (Newberry, FL, FCC/telecom certification), Timco Rubber and Timco Industries (marine/tank barge) - none of those companies numbers is filed here. Fax 401-539-6018 on the same page."
+    source: "https://timcoinstruments.com/"
+    last_verified: "2026-10-26"

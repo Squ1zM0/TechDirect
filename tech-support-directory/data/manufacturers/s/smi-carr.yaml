@@ -1,0 +1,13 @@
+id: smi-carr
+name: Smi-Carr
+website: http://www.smicarr.com/
+categories: [hardware]
+aliases: ["Smi-Carr, Inc.", "SMI-CARR"]
+support:
+  - category: hardware
+    department: Customer Support
+    phone: "+18006221303"
+    country: US
+    notes: "Smi-Carr, Inc., 2573 Pine St, PO Box 3436, Abilene, TX 79604. Manufacturer of marking products, best known for the Stake Chaser brand marking whiskers — used for marking buried utility lines, survey points and athletic fields, as well as road construction. Number published on the official homepage; not labelled Technical Support, so Customer Support. Hardware is the closest vocabulary term, following the Safety Flag Company of America precedent for marking-flag products. Phase 1 recorded the trade as unclear; the official site confirms the utility-line marking use."
+    source: "http://www.smicarr.com/"
+    last_verified: "2026-10-26"

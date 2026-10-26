@@ -1,0 +1,13 @@
+id: ametek
+name: AMETEK
+website: https://www.ametek.com/
+categories: [electrical]
+aliases: ["AMETEK, Inc."]
+support:
+  - category: electrical
+    department: Customer Support
+    phone: "+16106472121"
+    country: US
+    notes: "AMETEK, Inc. corporate headquarters main line, Berwyn, PA, as published in the company's own SEC filing entity block and corroborated by BBB and directory listings. General corporate contact, not a division technical-support line; AMETEK's divisions publish their own support contacts. Closest category-vocabulary term is electrical."
+    source: "https://www.advfn.com/stock-market/NYSE/AME/stock-news/98609297/form-8-k-current-report"
+    last_verified: "2026-10-26"

@@ -1,0 +1,12 @@
+id: amrad
+name: AmRad
+categories: [electrical]
+aliases: ["AmRad Engineering"]
+support:
+  - category: electrical
+    department: Customer Support
+    phone: "+18004456033"
+    country: US
+    notes: "AmRad Engineering, Inc., a division of American Radionic Co., Inc., Palm Coast, FL, manufacturer of Turbo200 universal motor-run capacitors for HVACR service. General company contact, not labelled a tech line. AmRad's own homepage could not be used as the source page in this pass, so the phone is cited to the manufacturer's Turbo200 document."
+    source: "https://rexel-cdn.com/products/turbo200.pdf?i=7CCF4387-45EA-45A3-971F-7B2619638B70"
+    last_verified: "2026-10-26"

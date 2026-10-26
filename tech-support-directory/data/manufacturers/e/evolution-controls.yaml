@@ -1,0 +1,13 @@
+id: evolution-controls
+name: Evolution Controls
+website: https://gotoevo.com/
+categories: [hvac-controls]
+aliases: []
+support:
+  - category: hvac-controls
+    department: Technical Support
+    phone: "+18587487359"
+    country: US
+    notes: "Official site footer labels this Tech Support (support@gotoevo.com). Evolution Controls Inc., Poway CA, EC motor controls."
+    source: "https://gotoevo.com/techsupport"
+    last_verified: "2026-10-26"

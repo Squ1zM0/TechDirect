@@ -1,0 +1,12 @@
+id: trachte
+name: TRACHTE
+categories: [electrical]
+aliases: ["nVent TRACHTE"]
+support:
+  - category: electrical
+    department: Customer Support
+    phone: "+18008375707"
+    country: US
+    notes: "nVent TRACHTE, utility enclosures (T and D). Corporate Office 422 N. Burr Oak Ave, Oregon, WI 53575; Madison Office 45 Nob Hill Rd, Madison, WI 53713; the same (800) 837-5707 is listed for both. Distinct from Trachte Building Systems (self-storage buildings, Sun Prairie, WI, 800-356-5824) - that number is NOT filed here - and from Trachte, Inc. modular prefab shelters. No website field: the verified source is the nVent company-profile PDF, so no homepage URL is asserted."
+    source: "https://www.elexant.com/sites/default/files/dam//catalog---nvent-trachte-company-profile.pdf"
+    last_verified: "2026-10-26"

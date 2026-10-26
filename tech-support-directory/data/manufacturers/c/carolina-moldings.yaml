@@ -1,0 +1,13 @@
+id: carolina-moldings
+name: Carolina Moldings
+website: https://carolinamoldings.com/
+categories: [piping-systems]
+aliases: []
+support:
+  - category: piping-systems
+    department: Customer Support
+    phone: "+18005237475"
+    country: US
+    notes: "Carolina Moldings, Inc., Charlotte NC, family-owned since 1975; gas meter index covers, Snap Seal tamper systems, meter parts. Xref hint 'Plumbing; molded products'; actual products are gas-meter parts, so piping-systems is closest. Hours omitted: official-site snippets conflict (Mon-Fri 9am-5pm EST vs a 09:00-15:00 hours line)."
+    source: "https://carolinamoldings.com/"
+    last_verified: "2026-10-26"

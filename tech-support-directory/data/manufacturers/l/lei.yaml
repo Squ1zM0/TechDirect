@@ -1,0 +1,15 @@
+id: lei
+name: Lighting Etc., Inc.
+website: https://www.lighting-etc.com/
+categories:
+- electrical
+aliases:
+- LEI
+support:
+- category: electrical
+  department: Customer Support
+  phone: "+12819928308"
+  country: US
+  notes: 'Pearland, TX manufacturer of washdown and industrial lighting (IP69K-rated fixtures); number as printed on LEI product literature on lighting-etc.com. Not LEI Companies, Inc., the Denver-area electrical contractor of the same initials.'
+  source: https://lighting-etc.com/wp-content/uploads/2017/12/NXGEN-Spec-Sheet-2021C.pdf
+  last_verified: "2026-10-26"

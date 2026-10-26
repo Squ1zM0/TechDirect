@@ -1,0 +1,13 @@
+id: elk-river
+name: Elk River
+website: https://www.elkriver.com
+categories: [hardware]
+aliases: []
+support:
+  - category: hardware
+    department: Customer Support
+    phone: "+18006333954"
+    country: US
+    notes: "Elk River, Inc., Cullman AL, fall protection manufacturer since 1988, 1,600+ line items. Xref hint 'Safety; fall protection' has no vocabulary term; hardware is closest. Phone printed on the company's own technical data sheets (not labelled tech, so Customer Support). Mazzella distributor numbers were NOT filed (distributor's lines, not the manufacturer's)."
+    source: "https://www.elkriver.com:443/wp-content/uploads/2022/06/36827-Elk-River-FlexZorber-Lanyard-TDS.pdf"
+    last_verified: "2026-10-26"
