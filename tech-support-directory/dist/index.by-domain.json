@@ -1,5 +1,5 @@
 {
-  "version": "2026-10-26",
+  "version": "2026-11-08",
   "byDomain": {
     "electrical": [
       {
@@ -15781,6 +15781,20 @@
         "source": "https://woodpoles.org/Supply/Pole-Suppliers/"
       },
       {
+        "manufacturer_id": "thompson-lightning-protection",
+        "manufacturer_name": "Thompson Lightning Protection",
+        "category": "electrical",
+        "department": "Customer Support",
+        "phone": "+18007771230",
+        "country": "US",
+        "regions": [],
+        "timezone": "CT",
+        "last_verified": "2026-11-08",
+        "specialty_tags": [],
+        "notes": "Manufacturer-installer hybrid, founded 1910, St. Paul MN: manufactures its own lightning-protection conductors/components (pressure die-cast bronze/aluminum fittings, UL-listed, LPI/NFPA compliant) and installs systems nationally. Kept as a manufacturer per Nov 8, 2026 scope decision. Toll-free 1-800-777-1230 and tlp@tlpinc.com per the company's own published documents (tlpinc.com). No dedicated tech-support line published; general line filed.",
+        "source": "https://www.tlpinc.com/about-thompson-lightning-protection.html"
+      },
+      {
         "manufacturer_id": "tigo-energy",
         "manufacturer_name": "Tigo Energy",
         "category": "electrical",
@@ -23085,9 +23099,9 @@
         "country": "US",
         "regions": [],
         "timezone": null,
-        "last_verified": "2026-10-26",
+        "last_verified": "2026-11-08",
         "specialty_tags": [],
-        "notes": "Sunset Ladder & Scaffold Co, South El Monte, CA. Manufacturer and distributor of ladders and scaffolding since 1929, including its own Sunset brand (Thomasnet: Manufacturer and Distributor of Ladders). Number is the South El Monte RMA/returns line published on the company's own Terms of Use page; the local South El Monte number from place listings is noted. Port-time scope check: this is a manufacturer-distributor, not a pure manufacturer; a human may still exclude it from TechDirect on scope grounds.",
+        "notes": "Sunset Ladder & Scaffold Co, South El Monte, CA. Manufacturer and distributor of ladders and scaffolding since 1929, including its own Sunset brand (Thomasnet: Manufacturer and Distributor of Ladders). Number is the South El Monte RMA/returns line published on the company's own Terms of Use page; the local South El Monte number from place listings is noted. Port-time scope check: this is a manufacturer-distributor, not a pure manufacturer; a human may still exclude it from TechDirect on scope grounds. SCOPE (Nov 8, 2026): KEPT as a manufacturer per Fred's delegated decision — manufacturer-distributor hybrid; the company's own About page says its main function today is distribution (Louisville, Werner, Little Giant and others) while its own Sunset-brand fiberglass/aluminum ladders are manufactured via affiliated ABSS Manufacturing (est. 1997). Spreadsheet row added Nov 8, 2026 to close the divergence.",
         "source": "https://www.sunsetladder.com/terms_of_use.html"
       },
       {
@@ -23313,6 +23327,20 @@
         "specialty_tags": [],
         "notes": "Top Knobs decorative cabinet hardware. Source page is Top Knobs own dealer page; CustomerService@TopKnobs.com published on the same page. Retailer and distributor numbers (knobs.co, Ferguson, topknobsdecor.com, topknobsupply.com) are NOT filed here.",
         "source": "https://www.topknobs.com/become-a-dealer"
+      },
+      {
+        "manufacturer_id": "tough-guy",
+        "manufacturer_name": "Tough Guy",
+        "category": "hardware",
+        "department": "Customer Support",
+        "phone": "+18004724643",
+        "country": "US",
+        "regions": [],
+        "timezone": null,
+        "last_verified": "2026-11-08",
+        "specialty_tags": [],
+        "notes": "Tough Guy is Grainger's private-label/house brand (TOUGH GUY trademark owned by W.W. Grainger, Inc., USPTO Reg. 3763673; SDS lists W.W. Grainger as manufacturer). No standalone Tough Guy support contact exists, so the filed line is Grainger's published general customer service line 1-800-GRAINGER (1-800-472-4643), 24/7 — PROSELECT precedent (Ferguson house brand filed the same way). Grainger Approved is a separate Grainger private-label grouping, not a distinct brand; no separate entry (Nov 8, 2026 scope decision).",
+        "source": "https://www.grainger.com"
       },
       {
         "manufacturer_id": "travis-pattern-foundry",
@@ -28164,12 +28192,26 @@
         "manufacturer_id": "master-bilt",
         "manufacturer_name": "Master-Bilt",
         "category": "hvac",
+        "department": "Technical Support",
+        "phone": "+18003885253",
+        "country": "US",
+        "regions": [],
+        "timezone": null,
+        "last_verified": "2026-11-08",
+        "specialty_tags": [],
+        "notes": "RSG Technical Services toll-free parts & service number, published on Master-Bilt''s own warranty page (master-bilt.com/warranty) as the best way to be routed to the proper team; the RSG tech team handles Master-Bilt and Nor-Lake equipment. RESTORED Nov 8, 2026 after verification against the live official page — the number was withheld per the Oct 26, 2026 decision until a source proved it. Hours: Tech Service 7:30am-4:30pm CST; Level 1 7am-7pm.",
+        "source": "https://master-bilt.com/warranty/"
+      },
+      {
+        "manufacturer_id": "master-bilt",
+        "manufacturer_name": "Master-Bilt",
+        "category": "hvac",
         "department": "General Customer Support",
         "phone": "+18333275991",
         "country": "US",
         "regions": [],
         "timezone": null,
-        "last_verified": "2026-10-26",
+        "last_verified": "2026-11-08",
         "specialty_tags": [],
         "notes": "Successor route verified Oct 26, 2026: Standex sold the Refrigerated Solutions",
         "source": "https://master-bilt.com/warranty/"
@@ -28598,12 +28640,26 @@
         "manufacturer_id": "nor-lake",
         "manufacturer_name": "Nor-Lake",
         "category": "hvac",
+        "department": "Technical Support",
+        "phone": "+18003885253",
+        "country": "US",
+        "regions": [],
+        "timezone": null,
+        "last_verified": "2026-11-08",
+        "specialty_tags": [],
+        "notes": "RSG Technical Services toll-free parts & service number, published on Master-Bilt''s own warranty page (master-bilt.com/warranty) as the best way to be routed to the proper team; the RSG tech team handles Master-Bilt and Nor-Lake equipment. RESTORED Nov 8, 2026 after verification against the live official page — the number was withheld per the Oct 26, 2026 decision until a source proved it. Hours: Tech Service 7:30am-4:30pm CST; Level 1 7am-7pm.",
+        "source": "https://master-bilt.com/warranty/"
+      },
+      {
+        "manufacturer_id": "nor-lake",
+        "manufacturer_name": "Nor-Lake",
+        "category": "hvac",
         "department": "General Customer Support",
         "phone": "+17153862323",
         "country": "US",
         "regions": [],
         "timezone": null,
-        "last_verified": "2026-10-26",
+        "last_verified": "2026-11-08",
         "specialty_tags": [],
         "notes": "Successor route verified Oct 26, 2026: Standex sold the Refrigerated Solutions",
         "source": "https://norlake.com/"

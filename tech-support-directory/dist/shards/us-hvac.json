@@ -1,5 +1,5 @@
 {
-  "version": "2026-10-26",
+  "version": "2026-11-08",
   "manufacturers": [
     {
       "id": "a-gas",
@@ -6139,12 +6139,24 @@
       "support": [
         {
           "category": "hvac",
+          "department": "Technical Support",
+          "phone": "+18003885253",
+          "country": "US",
+          "regions": [],
+          "timezone": null,
+          "last_verified": "2026-11-08",
+          "specialty_tags": [],
+          "notes": "RSG Technical Services toll-free parts & service number, published on Master-Bilt''s own warranty page (master-bilt.com/warranty) as the best way to be routed to the proper team; the RSG tech team handles Master-Bilt and Nor-Lake equipment. RESTORED Nov 8, 2026 after verification against the live official page — the number was withheld per the Oct 26, 2026 decision until a source proved it. Hours: Tech Service 7:30am-4:30pm CST; Level 1 7am-7pm.",
+          "source": "https://master-bilt.com/warranty/"
+        },
+        {
+          "category": "hvac",
           "department": "General Customer Support",
           "phone": "+18333275991",
           "country": "US",
           "regions": [],
           "timezone": null,
-          "last_verified": "2026-10-26",
+          "last_verified": "2026-11-08",
           "specialty_tags": [],
           "notes": "Successor route verified Oct 26, 2026: Standex sold the Refrigerated Solutions",
           "source": "https://master-bilt.com/warranty/"
@@ -6812,12 +6824,24 @@
       "support": [
         {
           "category": "hvac",
+          "department": "Technical Support",
+          "phone": "+18003885253",
+          "country": "US",
+          "regions": [],
+          "timezone": null,
+          "last_verified": "2026-11-08",
+          "specialty_tags": [],
+          "notes": "RSG Technical Services toll-free parts & service number, published on Master-Bilt''s own warranty page (master-bilt.com/warranty) as the best way to be routed to the proper team; the RSG tech team handles Master-Bilt and Nor-Lake equipment. RESTORED Nov 8, 2026 after verification against the live official page — the number was withheld per the Oct 26, 2026 decision until a source proved it. Hours: Tech Service 7:30am-4:30pm CST; Level 1 7am-7pm.",
+          "source": "https://master-bilt.com/warranty/"
+        },
+        {
+          "category": "hvac",
           "department": "General Customer Support",
           "phone": "+17153862323",
           "country": "US",
           "regions": [],
           "timezone": null,
-          "last_verified": "2026-10-26",
+          "last_verified": "2026-11-08",
           "specialty_tags": [],
           "notes": "Successor route verified Oct 26, 2026: Standex sold the Refrigerated Solutions",
           "source": "https://norlake.com/"

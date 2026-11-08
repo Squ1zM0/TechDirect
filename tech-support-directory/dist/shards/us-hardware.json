@@ -1,5 +1,5 @@
 {
-  "version": "2026-10-26",
+  "version": "2026-11-08",
   "manufacturers": [
     {
       "id": "80-20-inc",
@@ -8105,9 +8105,9 @@
           "country": "US",
           "regions": [],
           "timezone": null,
-          "last_verified": "2026-10-26",
+          "last_verified": "2026-11-08",
           "specialty_tags": [],
-          "notes": "Sunset Ladder & Scaffold Co, South El Monte, CA. Manufacturer and distributor of ladders and scaffolding since 1929, including its own Sunset brand (Thomasnet: Manufacturer and Distributor of Ladders). Number is the South El Monte RMA/returns line published on the company's own Terms of Use page; the local South El Monte number from place listings is noted. Port-time scope check: this is a manufacturer-distributor, not a pure manufacturer; a human may still exclude it from TechDirect on scope grounds.",
+          "notes": "Sunset Ladder & Scaffold Co, South El Monte, CA. Manufacturer and distributor of ladders and scaffolding since 1929, including its own Sunset brand (Thomasnet: Manufacturer and Distributor of Ladders). Number is the South El Monte RMA/returns line published on the company's own Terms of Use page; the local South El Monte number from place listings is noted. Port-time scope check: this is a manufacturer-distributor, not a pure manufacturer; a human may still exclude it from TechDirect on scope grounds. SCOPE (Nov 8, 2026): KEPT as a manufacturer per Fred's delegated decision — manufacturer-distributor hybrid; the company's own About page says its main function today is distribution (Louisville, Werner, Little Giant and others) while its own Sunset-brand fiberglass/aluminum ladders are manufactured via affiliated ABSS Manufacturing (est. 1997). Spreadsheet row added Nov 8, 2026 to close the divergence.",
           "source": "https://www.sunsetladder.com/terms_of_use.html"
         }
       ]
@@ -8461,6 +8461,28 @@
           "specialty_tags": [],
           "notes": "Top Knobs decorative cabinet hardware. Source page is Top Knobs own dealer page; CustomerService@TopKnobs.com published on the same page. Retailer and distributor numbers (knobs.co, Ferguson, topknobsdecor.com, topknobsupply.com) are NOT filed here.",
           "source": "https://www.topknobs.com/become-a-dealer"
+        }
+      ]
+    },
+    {
+      "id": "tough-guy",
+      "name": "Tough Guy",
+      "website": "https://www.grainger.com",
+      "categories": [
+        "hardware"
+      ],
+      "support": [
+        {
+          "category": "hardware",
+          "department": "Customer Support",
+          "phone": "+18004724643",
+          "country": "US",
+          "regions": [],
+          "timezone": null,
+          "last_verified": "2026-11-08",
+          "specialty_tags": [],
+          "notes": "Tough Guy is Grainger's private-label/house brand (TOUGH GUY trademark owned by W.W. Grainger, Inc., USPTO Reg. 3763673; SDS lists W.W. Grainger as manufacturer). No standalone Tough Guy support contact exists, so the filed line is Grainger's published general customer service line 1-800-GRAINGER (1-800-472-4643), 24/7 — PROSELECT precedent (Ferguson house brand filed the same way). Grainger Approved is a separate Grainger private-label grouping, not a distinct brand; no separate entry (Nov 8, 2026 scope decision).",
+          "source": "https://www.grainger.com"
         }
       ]
     },

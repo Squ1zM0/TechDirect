@@ -1,5 +1,5 @@
 {
-  "version": "2026-10-26",
+  "version": "2026-11-08",
   "manufacturers": [
     {
       "id": "3g-lighting",
@@ -23794,6 +23794,28 @@
           "specialty_tags": [],
           "notes": "Thomasson Company wood utility poles. US plant line per the woodpoles.org pole-supplier directory.",
           "source": "https://woodpoles.org/Supply/Pole-Suppliers/"
+        }
+      ]
+    },
+    {
+      "id": "thompson-lightning-protection",
+      "name": "Thompson Lightning Protection",
+      "website": "https://www.tlpinc.com/",
+      "categories": [
+        "electrical"
+      ],
+      "support": [
+        {
+          "category": "electrical",
+          "department": "Customer Support",
+          "phone": "+18007771230",
+          "country": "US",
+          "regions": [],
+          "timezone": "CT",
+          "last_verified": "2026-11-08",
+          "specialty_tags": [],
+          "notes": "Manufacturer-installer hybrid, founded 1910, St. Paul MN: manufactures its own lightning-protection conductors/components (pressure die-cast bronze/aluminum fittings, UL-listed, LPI/NFPA compliant) and installs systems nationally. Kept as a manufacturer per Nov 8, 2026 scope decision. Toll-free 1-800-777-1230 and tlp@tlpinc.com per the company's own published documents (tlpinc.com). No dedicated tech-support line published; general line filed.",
+          "source": "https://www.tlpinc.com/about-thompson-lightning-protection.html"
         }
       ]
     },
