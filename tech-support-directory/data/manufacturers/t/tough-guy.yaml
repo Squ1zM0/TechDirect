@@ -1,0 +1,13 @@
+id: tough-guy
+name: Tough Guy
+website: https://www.grainger.com
+categories: [hardware]
+aliases: []
+support:
+  - category: hardware
+    department: Customer Support
+    phone: "+18004724643"
+    country: US
+    notes: "Tough Guy is Grainger's private-label/house brand (TOUGH GUY trademark owned by W.W. Grainger, Inc., USPTO Reg. 3763673; SDS lists W.W. Grainger as manufacturer). No standalone Tough Guy support contact exists, so the filed line is Grainger's published general customer service line 1-800-GRAINGER (1-800-472-4643), 24/7 — PROSELECT precedent (Ferguson house brand filed the same way). Grainger Approved is a separate Grainger private-label grouping, not a distinct brand; no separate entry (Nov 8, 2026 scope decision)."
+    source: "https://www.grainger.com"
+    last_verified: "2026-11-08"
